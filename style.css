@@ -3,7 +3,7 @@
    ================================================================= */
 
 :root {
-  --bg: #eef1f7;
+  --bg: #f5f7fc;
   --bg-2: #ffffff;
   --card: #ffffff;
   --ink: #16223b;
@@ -37,17 +37,46 @@ body {
   line-height: 1.5;
 }
 
-/* ================= Header ================= */
+/* ================= Header / hero ================= */
+/* Pure-CSS recreation of the trophy poster: deep red field, sweeping
+   white swoosh arcs, and a gold trophy (the ::after element).        */
 .site-header {
-  background: linear-gradient(120deg, var(--red) 0%, var(--red-dark) 70%);
+  position: relative;
+  overflow: hidden;
   color: #fff;
-  box-shadow: 0 6px 24px rgba(156, 12, 36, 0.25);
+  background:
+    /* left tint keeps the title readable */
+    linear-gradient(105deg, rgba(110, 6, 26, 0.62) 0%, rgba(110, 6, 26, 0.14) 44%, rgba(255, 255, 255, 0) 64%),
+    /* big white swoosh */
+    radial-gradient(circle at 6% 152%, rgba(255, 255, 255, 0) 41.2%, rgba(255, 255, 255, 0.92) 42%, rgba(255, 255, 255, 0.92) 47%, rgba(255, 255, 255, 0) 47.8%),
+    /* thinner trailing arc */
+    radial-gradient(circle at 24% 172%, rgba(255, 255, 255, 0) 50.3%, rgba(255, 255, 255, 0.4) 51%, rgba(255, 255, 255, 0.4) 54%, rgba(255, 255, 255, 0) 54.7%),
+    /* red field */
+    radial-gradient(135% 165% at 78% -30%, #e7203f 0%, #bb1130 50%, #8c0a22 100%);
+  box-shadow: 0 8px 28px rgba(110, 6, 26, 0.3);
+}
+
+/* CSS gold trophy, sitting on the right of the hero */
+.site-header::after {
+  content: "🏆";
+  position: absolute;
+  right: 6%;
+  top: 50%;
+  transform: translateY(-48%);
+  font-size: clamp(5.5rem, 14vw, 10.5rem);
+  line-height: 1;
+  opacity: 0.95;
+  filter: drop-shadow(0 12px 22px rgba(0, 0, 0, 0.38));
+  pointer-events: none;
+  z-index: 0;
 }
 
 .header-inner {
+  position: relative;
+  z-index: 1;
   max-width: 1280px;
   margin: 0 auto;
-  padding: 1.9rem 1.25rem 1.5rem;
+  padding: 3.5rem 1.25rem 2.25rem;
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
@@ -61,8 +90,9 @@ body {
   letter-spacing: 0.16em;
   font-weight: 600;
   font-size: 0.85rem;
-  color: rgba(255, 255, 255, 0.85);
+  color: rgba(255, 255, 255, 0.92);
   margin: 0 0 0.3rem;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.35);
 }
 
 .title-block h1 {
@@ -78,9 +108,10 @@ body {
 
 .tagline {
   margin: 0.55rem 0 0;
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.95);
   max-width: 52ch;
   font-size: 0.95rem;
+  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
 }
 
 .controls {
@@ -127,6 +158,8 @@ body {
 
 /* ---- sub nav ---- */
 .subnav {
+  position: relative;
+  z-index: 1;
   max-width: 1280px;
   margin: 0 auto;
   padding: 0 1.25rem 1rem;
@@ -586,6 +619,12 @@ tbody tr.eliminated {
 @media (max-width: 720px) {
   .header-inner {
     align-items: flex-start;
+  }
+  .site-header::after {
+    /* hide the decorative trophy where it would crowd wrapped content */
+    opacity: 0.16;
+    right: -2%;
+    font-size: 8rem;
   }
   .groups-grid {
     grid-template-columns: 1fr;
