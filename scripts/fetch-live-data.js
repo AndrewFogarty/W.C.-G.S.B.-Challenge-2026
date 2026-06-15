@@ -75,21 +75,35 @@ async function main() {
   const src = await res.json();
   const { results, filled } = build(src);
 
+  const root = path.join(__dirname, "..");
+  const jsonPath = path.join(root, "data", "live-data.json");
+
+  // Only rewrite when the results actually change, so the timestamp alone
+  // doesn't produce a commit on every scheduled run.
+  let prev = null;
+  try {
+    prev = JSON.parse(fs.readFileSync(jsonPath, "utf8"));
+  } catch (e) {
+    /* no previous snapshot */
+  }
+  if (prev && JSON.stringify(prev.results) === JSON.stringify(results)) {
+    console.log(`No change (${filled} group results) — nothing to write.`);
+    return;
+  }
+
   const out = {
     source: "openfootball/worldcup.json (2026)",
     updated: new Date().toISOString(),
     results,
   };
-
-  const root = path.join(__dirname, "..");
   fs.mkdirSync(path.join(root, "data"), { recursive: true });
-  fs.writeFileSync(path.join(root, "data", "live-data.json"), JSON.stringify(out, null, 2));
+  fs.writeFileSync(jsonPath, JSON.stringify(out, null, 2));
   fs.writeFileSync(
     path.join(root, "live-data.js"),
     "/* generated from openfootball/worldcup.json — refreshed by the Update live data Action */\n" +
       "window.WC_LIVE = " + JSON.stringify(out) + ";\n"
   );
-  console.log(`Filled ${filled} group results from openfootball.`);
+  console.log(`Filled ${filled} group results from openfootball (files updated).`);
 }
 
 main().catch((e) => {
