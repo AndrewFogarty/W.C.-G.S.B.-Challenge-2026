@@ -14,7 +14,7 @@
   <!-- comic sunburst -->
   <g>
     <!-- long spikes -->
-    <g fill="#ffcf33">
+    <g fill="#e8b84a">
       <polygon points="600,310 585,30 615,30"/>
       <polygon points="600,310 585,30 615,30" transform="rotate(30 600 310)"/>
       <polygon points="600,310 585,30 615,30" transform="rotate(60 600 310)"/>
@@ -29,7 +29,7 @@
       <polygon points="600,310 585,30 615,30" transform="rotate(330 600 310)"/>
     </g>
     <!-- short offset spikes -->
-    <g fill="#ff9e2c">
+    <g fill="#c9923a">
       <polygon points="600,310 590,150 610,150" transform="rotate(15 600 310)"/>
       <polygon points="600,310 590,150 610,150" transform="rotate(45 600 310)"/>
       <polygon points="600,310 590,150 610,150" transform="rotate(75 600 310)"/>
@@ -43,7 +43,7 @@
       <polygon points="600,310 590,150 610,150" transform="rotate(315 600 310)"/>
       <polygon points="600,310 590,150 610,150" transform="rotate(345 600 310)"/>
     </g>
-    <circle cx="600" cy="310" r="120" fill="#ffd23f"/>
+    <circle cx="600" cy="310" r="120" fill="#f1d28a"/>
     <circle cx="600" cy="310" r="120" fill="url(#dots)"/>
   </g>
 
@@ -53,11 +53,11 @@
   <!-- ===== Podium blocks ===== -->
   <g stroke="#0a0e22" stroke-width="7" stroke-linejoin="round">
     <!-- 2nd (left) -->
-    <rect x="360" y="450" width="170" height="170" fill="#3b5bdb"/>
+    <rect x="360" y="450" width="170" height="170" fill="#2a3566"/>
     <!-- 1st (center) -->
-    <rect x="530" y="370" width="170" height="250" fill="#e63946"/>
+    <rect x="530" y="370" width="170" height="250" fill="#e8b84a"/>
     <!-- 3rd (right) -->
-    <rect x="700" y="490" width="170" height="130" fill="#2a9d8f"/>
+    <rect x="700" y="490" width="170" height="130" fill="#1b2447"/>
   </g>
   <g font-family="Arial Black, Arial, sans-serif" font-weight="900" fill="#fff" text-anchor="middle" stroke="#0a0e22" stroke-width="3">
     <text x="445" y="560" font-size="92">2</text>
@@ -74,9 +74,9 @@
     <line x1="615" y1="262" x2="571" y2="214"/>
     <line x1="615" y1="262" x2="659" y2="214"/>
   </g>
-  <line x1="615" y1="246" x2="615" y2="310" stroke="#ffd23f" stroke-width="12" stroke-linecap="round"/>
-  <circle cx="615" cy="214" r="28" fill="#ffd9a8" stroke="#0a0e22" stroke-width="7"/>
-  <polygon points="591,188 591,166 603,180 615,160 627,180 639,166 639,188" fill="#ffd23f" stroke="#0a0e22" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="615" y1="246" x2="615" y2="310" stroke="#f1d28a" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="615" cy="214" r="28" fill="#e6c49a" stroke="#0a0e22" stroke-width="7"/>
+  <polygon points="591,188 591,166 603,180 615,160 627,180 639,166 639,188" fill="#f1d28a" stroke="#0a0e22" stroke-width="5" stroke-linejoin="round"/>
 
   <!-- 2nd -->
   <g stroke="#0a0e22" stroke-width="12" stroke-linecap="round" fill="none">
@@ -86,8 +86,8 @@
     <line x1="445" y1="346" x2="405" y2="372"/>
     <line x1="445" y1="346" x2="485" y2="372"/>
   </g>
-  <line x1="445" y1="330" x2="445" y2="392" stroke="#4895ef" stroke-width="12" stroke-linecap="round"/>
-  <circle cx="445" cy="300" r="26" fill="#ffd9a8" stroke="#0a0e22" stroke-width="7"/>
+  <line x1="445" y1="330" x2="445" y2="392" stroke="#33406e" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="445" cy="300" r="26" fill="#e6c49a" stroke="#0a0e22" stroke-width="7"/>
 
   <!-- 3rd -->
   <g stroke="#0a0e22" stroke-width="12" stroke-linecap="round" fill="none">
@@ -97,8 +97,8 @@
     <line x1="785" y1="388" x2="747" y2="414"/>
     <line x1="785" y1="388" x2="823" y2="414"/>
   </g>
-  <line x1="785" y1="372" x2="785" y2="432" stroke="#2a9d8f" stroke-width="12" stroke-linecap="round"/>
-  <circle cx="785" cy="342" r="25" fill="#ffd9a8" stroke="#0a0e22" stroke-width="7"/>
+  <line x1="785" y1="372" x2="785" y2="432" stroke="#1b2447" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="785" cy="342" r="25" fill="#e6c49a" stroke="#0a0e22" stroke-width="7"/>
 
   <!-- ground line -->
   <rect x="0" y="612" width="1200" height="8" fill="#0a0e22"/>
