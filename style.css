@@ -1333,3 +1333,17 @@ body {
 .stars-banner img {
   opacity: 0.5; /* see-through: backdrop shows through the glass */
 }
+
+/* Best-Thirds: fill with the cropped (bottom-4-panel) champagne graphic */
+.thirds {
+  background-size: cover, cover;
+  background-position: center, center;
+  background-repeat: no-repeat, no-repeat;
+}
+
+/* Knockout: fill the section with Batman, centered on the punch */
+.bracket-section {
+  background-size: cover, cover;
+  background-position: center, 35% 50%;
+  background-repeat: no-repeat, no-repeat;
+}
