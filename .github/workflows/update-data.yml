@@ -5,7 +5,7 @@ name: Update live data
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours (bump to e.g. "*/15 * * * *" during matchdays)
+    - cron: "0 * * * *" # hourly (GitHub cron can be delayed/skipped; also runnable on demand)
   workflow_dispatch: {} # lets you run it on demand from the Actions tab
 
 permissions:
