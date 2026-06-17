@@ -1691,3 +1691,14 @@ body {
   background: #e6eaf2;
   color: #0c1330;
 }
+
+/* group cards size to content (no stretched empty space + floating bottom border) */
+.groups-grid { align-items: start; }
+
+/* played match with no guess -> neutral grey box */
+.match.guess-none .goal {
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.45);
+  border-color: rgba(255, 255, 255, 0.14);
+  opacity: 1;
+}

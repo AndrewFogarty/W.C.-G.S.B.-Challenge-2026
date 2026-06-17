@@ -930,10 +930,14 @@ function markPredictionAccuracy() {
     if (!badge) return;
     const actual = (live[g] || [])[m];
     const pred = state.scores[g][m];
-    row.classList.remove("guess-exact", "guess-ok", "guess-miss");
-    if (!actual || actual[0] === null || !pred || pred[0] === null) {
+    row.classList.remove("guess-exact", "guess-ok", "guess-miss", "guess-none");
+    const played = actual && actual[0] !== null && actual[1] !== null;
+    const guessed = pred && pred[0] !== null && pred[1] !== null;
+    if (!played) { badge.className = "match-grade"; badge.textContent = ""; return; }
+    if (!guessed) { // played but no guess -> grey
       badge.className = "match-grade";
       badge.textContent = "";
+      row.classList.add("guess-none");
       return;
     }
     let kind, sym;
