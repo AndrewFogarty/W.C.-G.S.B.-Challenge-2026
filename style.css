@@ -1665,3 +1665,19 @@ body {
   color: rgba(255, 255, 255, 0.5);
   font-weight: 700;
 }
+
+/* center the score digits */
+.goal { text-align: center; }
+
+/* guess vs actual: gold (exact) / green (right result) / red (wrong) on the boxes */
+.match.guess-exact .goal { background: #f4bf3f; color: #1a1400; border-color: #f4bf3f; opacity: 1; }
+.match.guess-ok    .goal { background: #41d18a; color: #06210f; border-color: #41d18a; opacity: 1; }
+.match.guess-miss  .goal { background: #ff7591; color: #2a0008; border-color: #ff7591; opacity: 1; }
+
+/* ACT. label in black (on a light chip so it stays readable on the dark cards) */
+.act-label {
+  color: #000;
+  background: rgba(255, 255, 255, 0.88);
+  padding: 0.03rem 0.28rem;
+  border-radius: 3px;
+}

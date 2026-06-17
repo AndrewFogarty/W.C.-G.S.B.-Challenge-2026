@@ -705,11 +705,11 @@ function updateSubmitLabel() {
 function loadSubmissionIntoEditor(id) {
   const sub = board.find((s) => s.id === id);
   if (!sub) return;
-  if (!confirm(`Load ${sub.username}'s predictions into the editor? Already-played (locked) matches won't change.`)) return;
+  if (!confirm(`Load ${sub.username}'s predictions into the editor? (Played matches stay locked — read-only.)`)) return;
   for (const g of GROUP_LETTERS) {
     const arr = (sub.scores && sub.scores[g]) || [];
     arr.forEach((sc, i) => {
-      if (isConfirmed(g, i)) return; // locked → leave as-is
+      // load every guess (locked ones display read-only so you can compare)
       state.scores[g][i] = Array.isArray(sc) && sc.length === 2 ? [normScore(sc[0]), normScore(sc[1])] : [null, null];
     });
   }
@@ -908,6 +908,7 @@ function markPredictionAccuracy() {
     if (!badge) return;
     const actual = (live[g] || [])[m];
     const pred = state.scores[g][m];
+    row.classList.remove("guess-exact", "guess-ok", "guess-miss");
     if (!actual || actual[0] === null || !pred || pred[0] === null) {
       badge.className = "match-grade";
       badge.textContent = "";
@@ -920,6 +921,7 @@ function markPredictionAccuracy() {
     badge.className = "match-grade " + kind;
     badge.textContent = sym;
     badge.title = `Your pick ${pred[0]}–${pred[1]} · actual ${actual[0]}–${actual[1]}`;
+    row.classList.add("guess-" + kind); // gold / green / red on the guess boxes
   });
 }
 
