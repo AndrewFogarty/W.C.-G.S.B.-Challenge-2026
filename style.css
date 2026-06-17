@@ -1602,3 +1602,22 @@ body {
   opacity: 0.5;
   cursor: not-allowed;
 }
+
+/* Knockout cards: dark glass (no white) to match the theme */
+.bm {
+  background: rgba(12, 18, 40, 0.62);
+  border-color: rgba(255, 255, 255, 0.12);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+}
+.bm-row {
+  color: #eaf0fb;
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+}
+.bm-row:hover {
+  background: rgba(255, 255, 255, 0.07);
+}
+.bm-name.ph {
+  color: rgba(255, 255, 255, 0.55);
+}
