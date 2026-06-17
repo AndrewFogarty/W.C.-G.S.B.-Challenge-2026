@@ -545,6 +545,7 @@ async function loadBoardRemote() {
       ...(r.payload || {}),
     }));
     renderLeaderboard();
+    hydrateMyGuesses();
   } catch (e) {
     console.warn("leaderboard load failed:", e.message || e);
   }
@@ -552,7 +553,28 @@ async function loadBoardRemote() {
 
 function refreshBoard() {
   if (SHARED) loadBoardRemote();
-  else { loadBoard(); renderLeaderboard(); }
+  else { loadBoard(); renderLeaderboard(); hydrateMyGuesses(); }
+}
+
+/* Fill any empty boxes from your own submitted entry, so your guesses (incl.
+   already-played matches) show and get colour-graded without re-clicking Edit. */
+function hydrateMyGuesses() {
+  const mine = getMine();
+  if (!mine || !mine.id) return;
+  const sub = board.find((s) => s.id === mine.id);
+  if (!sub || !sub.scores) return;
+  let changed = false;
+  for (const g of GROUP_LETTERS) {
+    const arr = sub.scores[g] || [];
+    arr.forEach((sc, i) => {
+      const cur = state.scores[g][i];
+      if ((cur[0] == null || cur[1] == null) && Array.isArray(sc) && sc[0] != null && sc[1] != null) {
+        state.scores[g][i] = [normScore(sc[0]), normScore(sc[1])];
+        changed = true;
+      }
+    });
+  }
+  if (changed) { syncInputs(); renderAll(); saveState(); }
 }
 
 function setupBoardUI() {

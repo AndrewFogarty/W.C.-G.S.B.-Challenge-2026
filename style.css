@@ -1681,3 +1681,13 @@ body {
   padding: 0.03rem 0.28rem;
   border-radius: 3px;
 }
+
+/* softer off-white behind ACT label + actual-score boxes (less harsh on dark cards) */
+.act-box {
+  background: #e6eaf2;
+  color: #0c1330;
+}
+.act-label {
+  background: #e6eaf2;
+  color: #0c1330;
+}
