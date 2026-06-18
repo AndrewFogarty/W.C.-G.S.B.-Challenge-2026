@@ -715,8 +715,12 @@ function refreshBoard() {
   else { loadBoard(); renderLeaderboard(); hydrateMyGuesses(); }
 }
 
-/* Fill any empty boxes from your own submitted entry, so your guesses (incl.
-   already-played matches) show and get colour-graded without re-clicking Edit. */
+/* Load your own submitted entry into the editor so it's always there to edit —
+   no "Edit" button needed. The FIRST time your entry is available we load it in
+   full (every scoreline + the bracket), exactly like the old Edit did, so it
+   looks complete (blue + gold) right away. Later background refreshes only fill
+   gaps / locked matches so they never clobber edits you're making. */
+let hydratedFull = false;
 function hydrateMyGuesses() {
   const id = myId();
   if (!id) return;
@@ -724,25 +728,39 @@ function hydrateMyGuesses() {
   if (!sub || !sub.scores) return;
   setEditorLocked(sub);
   let changed = false;
-  for (const g of GROUP_LETTERS) {
-    const arr = sub.scores[g] || [];
-    arr.forEach((sc, i) => {
-      const valid = Array.isArray(sc) && sc[0] != null && sc[1] != null;
-      if (!valid) return;
-      // Load every stored pick (including ones that have since locked) so they
-      // show and grade. markPredictionAccuracy blanks only auto-filled ones.
-      if (isLocked(g, i)) {
-        state.scores[g][i] = [normScore(sc[0]), normScore(sc[1])];
-        changed = true;
-      } else {
-        const cur = state.scores[g][i];
-        if (cur[0] == null || cur[1] == null) {
+
+  if (!hydratedFull) {
+    for (const g of GROUP_LETTERS) {
+      const arr = sub.scores[g] || [];
+      for (let i = 0; i < 6; i++) {
+        const sc = arr[i];
+        state.scores[g][i] = (Array.isArray(sc) && sc[0] != null && sc[1] != null)
+          ? [normScore(sc[0]), normScore(sc[1])] : [null, null];
+      }
+    }
+    if (sub.bracket) state.bracket = JSON.parse(JSON.stringify(sub.bracket));
+    hydratedFull = true;
+    changed = true;
+  } else {
+    for (const g of GROUP_LETTERS) {
+      const arr = sub.scores[g] || [];
+      arr.forEach((sc, i) => {
+        const valid = Array.isArray(sc) && sc[0] != null && sc[1] != null;
+        if (!valid) return;
+        if (isLocked(g, i)) {
           state.scores[g][i] = [normScore(sc[0]), normScore(sc[1])];
           changed = true;
+        } else {
+          const cur = state.scores[g][i];
+          if (cur[0] == null || cur[1] == null) {
+            state.scores[g][i] = [normScore(sc[0]), normScore(sc[1])];
+            changed = true;
+          }
         }
-      }
-    });
+      });
+    }
   }
+
   if (changed) { syncInputs(); renderAll(); saveState(); }
   else markPredictionAccuracy();
 }
@@ -989,28 +1007,6 @@ function setSubmitted() {
   btn.classList.add("submitted");
 }
 
-/* Load a submission's predictions back into the editor (group scores +
-   bracket). Already-played (locked) matches are left untouched. */
-function loadSubmissionIntoEditor(id) {
-  const sub = board.find((s) => s.id === id);
-  if (!sub) return;
-  if (!confirm(`Load ${sub.username}'s predictions into the editor? (Played matches stay locked — read-only.)`)) return;
-  setEditorLocked(sub);
-  for (const g of GROUP_LETTERS) {
-    const arr = (sub.scores && sub.scores[g]) || [];
-    arr.forEach((sc, i) => {
-      // load every guess (locked ones display read-only so you can compare)
-      state.scores[g][i] = Array.isArray(sc) && sc.length === 2 ? [normScore(sc[0]), normScore(sc[1])] : [null, null];
-    });
-  }
-  if (sub.bracket) state.bracket = JSON.parse(JSON.stringify(sub.bracket));
-  syncInputs();
-  renderAll();
-  saveState();
-  const g = document.getElementById("groups");
-  if (g) g.scrollIntoView({ behavior: "smooth", block: "start" });
-}
-
 function renderLeaderboard() {
   const tbody = document.querySelector("#leaderboard-table tbody");
   if (!tbody) return;
@@ -1032,7 +1028,6 @@ function renderLeaderboard() {
         <td class="col-breakdown">${e.sc.exact}×50 · ${e.sc.outcome}×10${e.sc.koHits ? " · KO " + e.sc.koHits + "×20" : ""}${e.sc.champ ? " · 🏆100" : ""}</td>
         <td>${e.sub.mode === "result" ? "W/D/L" : "Score"}</td>
         <td class="lb-actions">
-          <button class="lb-edit" data-id="${e.sub.id}" type="button" title="Load these picks into the editor">Edit</button>
           <button class="lb-view" data-id="${e.sub.id}" type="button">View</button>
           ${(!SHARED || e.sub.id === mineId) ? `<button class="lb-del" data-id="${e.sub.id}" type="button" title="Delete my entry" aria-label="Delete">✕</button>` : ""}
         </td>
@@ -1985,9 +1980,7 @@ function wireEvents() {
   });
   document.getElementById("leaderboard-table").addEventListener("click", (e) => {
     const view = e.target.closest(".lb-view");
-    const edit = e.target.closest(".lb-edit");
     const del = e.target.closest(".lb-del");
-    if (edit) loadSubmissionIntoEditor(edit.dataset.id);
     if (view) renderScorecard(view.dataset.id);
     if (del) {
       const id = del.dataset.id;
