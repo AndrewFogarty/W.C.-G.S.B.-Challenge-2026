@@ -578,6 +578,48 @@ tbody tr.eliminated {
   min-width: 1100px;
 }
 
+/* ---- Missing-entry warning (editor bracket) ---- */
+.bracket-warn {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  margin: 0 0 0.75rem;
+  padding: 0.6rem 0.85rem;
+  border-radius: 9px;
+  background: rgba(239, 47, 80, 0.12);
+  border: 1px solid rgba(239, 47, 80, 0.5);
+  color: #ffd9df;
+  font-size: 0.84rem;
+  line-height: 1.4;
+}
+.bracket-warn .bw-icon { font-size: 1.05rem; line-height: 1.2; }
+.bracket-warn strong { color: #fff; }
+.bw-list { display: flex; flex-wrap: wrap; gap: 0.3rem 0.5rem; margin-top: 0.35rem; }
+.bw-grp {
+  background: rgba(239, 47, 80, 0.22);
+  border-radius: 5px;
+  padding: 0.05rem 0.4rem;
+  font-weight: 600;
+  color: #fff;
+  white-space: nowrap;
+}
+
+/* ---- Missing-entry highlight on the offending group match ---- */
+.match.missing-entry {
+  background: rgba(239, 47, 80, 0.08);
+  border-radius: 7px;
+  box-shadow: inset 3px 0 0 #ef2f50;
+}
+.match.missing-entry .goal {
+  border-color: #ef2f50;
+  box-shadow: 0 0 0 2px rgba(239, 47, 80, 0.28);
+  animation: missing-pulse 1.6s ease-in-out infinite;
+}
+@keyframes missing-pulse {
+  0%, 100% { box-shadow: 0 0 0 2px rgba(239, 47, 80, 0.28); }
+  50%      { box-shadow: 0 0 0 2px rgba(239, 47, 80, 0.7); }
+}
+
 .round {
   display: flex;
   flex-direction: column;
@@ -1069,6 +1111,32 @@ tbody tr.eliminated {
   opacity: 1;
   box-shadow: 0 0 0 1px rgba(12, 18, 32, 0.18) inset;
 }
+
+/* Unfilled entry that blocks the bracket from seeding → red "!" chip. */
+.sc-chip.missing {
+  background: #ef2f50;
+  color: #fff;
+  border: 1px solid #c01a37;
+  font-weight: 800;
+  box-shadow: 0 0 0 2px rgba(239, 47, 80, 0.3);
+}
+.sc-grp.has-missing .sc-grp-tag {
+  background: #ef2f50;
+  color: #fff;
+}
+
+/* Banner summarising which entries are missing in a viewed bracket. */
+.sc-warn {
+  margin: 0.1rem 0 0.6rem;
+  padding: 0.5rem 0.7rem;
+  border-radius: 8px;
+  background: rgba(239, 47, 80, 0.12);
+  border: 1px solid rgba(239, 47, 80, 0.5);
+  color: #b11030;
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+.sc-warn strong { color: #8c0c25; }
 
 /* ---- Mini knockout bracket inside a leaderboard entry ---- */
 .sc-ko {

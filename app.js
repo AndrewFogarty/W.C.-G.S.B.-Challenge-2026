@@ -236,6 +236,40 @@ function rankGroup(group) {
   return GSB.rankGroup(state.names[group], effScores(group));
 }
 
+/* Genuinely-missing entries: matches with no official result, no in-play live
+   score, and no (complete) prediction — the ones that silently block a group
+   from resolving, leaving its 1st/2nd qualifiers and every 3rd-place slot
+   unseeded. A half-typed score (one box blank) counts as missing too. `scores`
+   defaults to the live editor; pass a submission's scores to audit a saved
+   bracket in the leaderboard "View". */
+function missingMatchesIn(group, scores) {
+  const live = liveResults();
+  const names = state.names[group] || [];
+  const arr = (scores && scores[group]) || state.scores[group] || [];
+  const out = [];
+  for (let i = 0; i < FIXTURES.length; i++) {
+    const a = (live[group] || [])[i];
+    if (a && a[0] != null && a[1] != null) continue;          // official result
+    const fx = FIXTURES[i];
+    const lv = liveScoreFor(names[fx[0]], names[fx[1]]);
+    if (lv && lv.hg != null && lv.ag != null) continue;       // in-play right now
+    const pred = arr[i];
+    if (pred && pred[0] != null && pred[1] != null) continue; // fully predicted
+    out.push(i);
+  }
+  return out;
+}
+function incompleteGroups(scores) {
+  return GROUP_LETTERS
+    .map((g) => ({ group: g, missing: missingMatchesIn(g, scores) }))
+    .filter((x) => x.missing.length);
+}
+function matchLabel(group, i) {
+  const [hi, ai] = FIXTURES[i];
+  const nm = state.names[group] || [];
+  return `${nm[hi]} v ${nm[ai]}`;
+}
+
 /* Ranked list of all 12 third-placed teams (top 8 advance). */
 function rankedThirds() {
   return GROUP_LETTERS
@@ -491,6 +525,24 @@ function renderBracket() {
         </div>
       </div>
     </div>`;
+
+  const warnEl = document.getElementById("bracket-warning");
+  if (warnEl) {
+    const gaps = incompleteGroups(state.scores);
+    const totalMissing = gaps.reduce((n, x) => n + x.missing.length, 0);
+    warnEl.innerHTML = gaps.length
+      ? `<div class="bracket-warn" role="status">
+          <span class="bw-icon">⚠</span>
+          <div class="bw-text">
+            <strong>${totalMissing} unfilled match${totalMissing === 1 ? "" : "es"}</strong> —
+            the knockout bracket can't fully seed until every group is scored
+            (3rd-place slots need <em>all</em> groups complete).
+            <span class="bw-list">${gaps.map((x) =>
+              `<span class="bw-grp">Group ${x.group}: ${x.missing.map((i) => escapeHtml(matchLabel(x.group, i))).join(", ")}</span>`).join("")}</span>
+          </div>
+        </div>`
+      : "";
+  }
 
   bracketEl.innerHTML =
     col("Round of 32", ROUND_ORDER.R32) +
@@ -1190,16 +1242,37 @@ function renderScorecard(id) {
       <span class="sc-chip miss">0</span> miss
       <span class="sc-chip pending">·</span> not played
       <span class="sc-chip none was-locked">·</span> done before you joined
-    </div>
-    <div class="sc-groups">`;
+      <span class="sc-chip missing">!</span> unfilled (blocks bracket)
+    </div>`;
+
+  // Genuinely-missing entries in this submission — the cause of an unseeded
+  // knockout bracket. Flagged red below and summarised in a banner.
+  const missByGroup = {};
+  GROUP_LETTERS.forEach((g) => (missByGroup[g] = new Set(missingMatchesIn(g, sub.scores))));
+  const gaps = GROUP_LETTERS.filter((g) => missByGroup[g].size);
+  const totalMissing = gaps.reduce((n, g) => n + missByGroup[g].size, 0);
+  if (gaps.length) {
+    html += `<div class="sc-warn" role="status">⚠
+      <strong>${totalMissing} unfilled match${totalMissing === 1 ? "" : "es"}</strong> —
+      knockout slots can't fully seed (3rd-place needs <em>all</em> groups):
+      ${gaps.map((g) => `Group ${g} (${[...missByGroup[g]].map((i) => escapeHtml(matchLabel(g, i))).join(", ")})`).join(" · ")}</div>`;
+  }
+
+  html += `<div class="sc-groups">`;
 
   for (const g of GROUP_LETTERS) {
-    html += `<div class="sc-grp"><span class="sc-grp-tag">${g}</span><div class="sc-chips">`;
+    html += `<div class="sc-grp${missByGroup[g].size ? " has-missing" : ""}"><span class="sc-grp-tag">${g}</span><div class="sc-chips">`;
     FIXTURES.forEach((fx, i) => {
       const [hi, ai] = fx;
       const pred = (sub.scores[g] || [])[i];
       const act = (live[g] || [])[i];
       const nm = state.names[g];
+      // Unfilled entry that blocks the bracket → red "!" chip (check first; a
+      // missing match has no actual result so it can't be pre-locked).
+      if (missByGroup[g].has(i)) {
+        html += `<span class="sc-chip missing" title="${escapeHtml(`${nm[hi]} v ${nm[ai]} — no prediction; blocks knockout seeding`)}">!</span>`;
+        return;
+      }
       // Auto-filled / pre-locked (no pick, or stored value == actual) → grey,
       // not counted. A locked match with a differing guess is a real pick.
       if (effectivelyPreLocked(g, i, pred, act, lockedSet)) {
@@ -1909,6 +1982,18 @@ function renderAll() {
   renderThirds();
   renderBracket();
   markConfirmedMatches(); // re-assert locks (kicked-off / confirmed) after any render
+  markMissingEntries();   // flag blank/half-filled matches that block the bracket
+}
+
+/* Outline any group match that is still missing a (complete) score and is
+   therefore blocking the bracket — so a forgotten or half-typed entry is
+   impossible to miss. */
+function markMissingEntries() {
+  const sets = {};
+  GROUP_LETTERS.forEach((g) => (sets[g] = new Set(missingMatchesIn(g, state.scores))));
+  document.querySelectorAll(".match").forEach((row) => {
+    row.classList.toggle("missing-entry", sets[row.dataset.group].has(+row.dataset.match));
+  });
 }
 
 /* ================= Champion celebration ================= */
