@@ -1711,6 +1711,9 @@ function renderHistory() {
           let g = r.g || 0, a = r.a || 0;
           if (L) { g += L.goals; a += L.assists; add = L.goals + L.assists; }
           value = g + a; sub = `${g} G · ${a} A`;
+        } else if (p.key === "active_wins") {
+          // Stage-weighted: title +6, Final 8, Semi 5, Quarter 3, R16 2.
+          value = (r.t || 0) * 6 + (r.f || 0) * 8 + (r.sf || 0) * 5 + (r.qf || 0) * 3 + (r.r16 || 0) * 2;
         } else {
           value = r.value;
           if (L) {
@@ -1720,7 +1723,7 @@ function renderHistory() {
         }
         return { name: r.name, code: r.code, displayValue: value, sub, add };
       });
-      if (["goals", "assists", "ga"].includes(p.key)) {
+      if (["goals", "assists", "ga", "active_wins"].includes(p.key)) {
         rows.sort((x, y) => y.displayValue - x.displayValue);
       }
       rows = rows.slice(0, 10);
@@ -1797,8 +1800,17 @@ function fillActuals() {
   document.querySelectorAll(".match .match-actual").forEach((el) => {
     const row = el.closest(".match");
     const a = (live[row.dataset.group] || [])[+row.dataset.match];
-    el.innerHTML = (a && a[0] != null && a[1] != null)
-      ? `<span class="act-label">Act.</span><span class="act-box">${a[0]}</span><span class="act-dash">–</span><span class="act-box">${a[1]}</span>`
+    if (a && a[0] != null && a[1] != null) {
+      el.innerHTML = `<span class="act-label">Act.</span><span class="act-box">${a[0]}</span><span class="act-dash">–</span><span class="act-box">${a[1]}</span>`;
+      return;
+    }
+    // No official result yet — fall back to an in-play scoreline if the match
+    // is live right now (e.g. Switzerland 0–0 Bosnia, 46').
+    const home = row.querySelector(".team.home .tname")?.textContent.trim();
+    const away = row.querySelector(".team.away .tname")?.textContent.trim();
+    const lv = home && away ? liveScoreFor(home, away) : null;
+    el.innerHTML = (lv && lv.hg != null && lv.ag != null)
+      ? `<span class="act-label act-live"><span class="sch-livedot"></span>Live</span><span class="act-box">${lv.hg}</span><span class="act-dash">–</span><span class="act-box">${lv.ag}</span><span class="act-min">${escapeHtml(liveLabel(lv))}</span>`
       : "";
   });
 }

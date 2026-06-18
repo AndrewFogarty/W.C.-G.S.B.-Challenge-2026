@@ -115,6 +115,31 @@ window.WC_HISTORY = {
       ],
     },
     {
+      // Active players only, scored by a stage-weighted sum of their career
+      // World Cup knockout wins plus a title bonus. app.js computes `value`
+      // from the per-round win counts below (t=titles, f/sf/qf/r16 = wins won
+      // at Final/Semi/Quarter/Round-of-16; shoot-out advances count as wins)
+      // and sorts descending. Best-available historical figures → flagged ≈.
+      key: "active_wins", title: "Active Players — Weighted WC Wins", icon: "🔥", approx: true,
+      note: "Active players only. Stage-weighted: title +6, Final win 8, Semi 5, Quarter 3, R16 2.",
+      rows: [
+        { name: "Lionel Messi", code: "AR", t: 1, f: 1, sf: 2, qf: 2, r16: 2, sub: "🏆 2022 · runner-up 2014" },
+        { name: "Kylian Mbappé", code: "FR", t: 1, f: 1, sf: 2, qf: 2, r16: 2, sub: "🏆 2018 · runner-up 2022" },
+        { name: "Nicolás Otamendi", code: "AR", t: 1, f: 1, sf: 2, qf: 2, r16: 2, sub: "🏆 2022 · runner-up 2014" },
+        { name: "Benjamin Pavard", code: "FR", t: 1, f: 1, sf: 2, qf: 2, r16: 2, sub: "🏆 2018 · runner-up 2022" },
+        { name: "Lautaro Martínez", code: "AR", t: 1, f: 1, sf: 1, qf: 1, r16: 1, sub: "🏆 2022" },
+        { name: "Julián Álvarez", code: "AR", t: 1, f: 1, sf: 1, qf: 1, r16: 1, sub: "🏆 2022" },
+        { name: "Emiliano Martínez", code: "AR", t: 1, f: 1, sf: 1, qf: 1, r16: 1, sub: "🏆 2022 · Golden Glove" },
+        { name: "Enzo Fernández", code: "AR", t: 1, f: 1, sf: 1, qf: 1, r16: 1, sub: "🏆 2022" },
+        { name: "Luka Modrić", code: "HR", t: 0, f: 0, sf: 1, qf: 2, r16: 2, sub: "Runner-up 2018 · 3rd 2022" },
+        { name: "Aurélien Tchouaméni", code: "FR", t: 0, f: 0, sf: 1, qf: 1, r16: 1, sub: "Runner-up 2022" },
+        { name: "Jules Koundé", code: "FR", t: 0, f: 0, sf: 1, qf: 1, r16: 1, sub: "Runner-up 2022" },
+        { name: "Neymar", code: "BR", t: 0, f: 0, sf: 0, qf: 0, r16: 3, sub: "R16 — 2014 · 2018 · 2022" },
+        { name: "Casemiro", code: "BR", t: 0, f: 0, sf: 0, qf: 0, r16: 2, sub: "R16 — 2018 · 2022" },
+        { name: "Bruno Fernandes", code: "PT", t: 0, f: 0, sf: 0, qf: 0, r16: 1, sub: "R16 — 2022" },
+      ],
+    },
+    {
       key: "yellowcards", title: "Yellow Cards", icon: "🟨", approx: true,
       rows: [
         { name: "Javier Mascherano", code: "AR", value: 7 },

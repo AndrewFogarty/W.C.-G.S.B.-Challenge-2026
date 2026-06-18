@@ -1878,6 +1878,22 @@ body {
   color: #0c1330;
 }
 
+/* in-play scoreline (no official result yet) — pulsing red "Live" chip */
+.act-label.act-live {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  background: #2a0d14;
+  color: #ff8a98;
+}
+.act-min {
+  font-family: var(--cond);
+  font-weight: 700;
+  font-size: 0.62rem;
+  color: #ffb3ac;
+  margin-left: 0.3rem;
+}
+
 
 /* played match with no guess -> neutral grey box */
 .match.guess-none .goal {
