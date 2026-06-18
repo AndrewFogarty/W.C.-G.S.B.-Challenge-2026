@@ -264,6 +264,11 @@ function incompleteGroups(scores) {
     .map((g) => ({ group: g, missing: missingMatchesIn(g, scores) }))
     .filter((x) => x.missing.length);
 }
+/* True once a group has at least one scored match — enough to seed a
+   provisional ordering even before every match is in. */
+function groupHasScore(g) {
+  return effScores(g).some((m) => m && m[0] != null && m[1] != null);
+}
 function matchLabel(group, i) {
   const [hi, ai] = FIXTURES[i];
   const nm = state.names[group] || [];
@@ -442,15 +447,23 @@ function slotInfo(group, pos) {
   return { name: s.name, code: codeFor(group, s.idx) };
 }
 
-/* Resolve an R32 slot spec for a given match id. */
+/* Resolve an R32 slot spec for a given match id. A slot is `known` (final) once
+   its group(s) are fully scored; otherwise, as soon as the group has any score,
+   we still seed it `provisional` from the current standings so the bracket
+   never shows a blank Round of 32 just because one match is unscored (e.g. a
+   match that locked at kickoff before it could be predicted). */
 function resolveR32(matchId, spec) {
-  if (spec[0] === "1") return { ...slotInfo(spec[1], 0), label: "1" + spec[1], known: groupComplete(spec[1]) };
-  if (spec[0] === "2") return { ...slotInfo(spec[1], 1), label: "2" + spec[1], known: groupComplete(spec[1]) };
+  if (spec[0] === "1" || spec[0] === "2") {
+    const g = spec[1], pos = spec[0] === "1" ? 0 : 1;
+    const known = groupComplete(g);
+    return { ...slotInfo(g, pos), label: spec[0] + g, known, provisional: !known && groupHasScore(g) };
+  }
   // third-place slot
   const allow = spec.slice(2).split("").join("/");
   const g = thirdMap[matchId];
   const info = g ? slotInfo(g, 2) : { name: null, code: "" };
-  return { ...info, label: "3rd " + allow, known: allGroupsComplete() && !!g };
+  const known = allGroupsComplete() && !!g;
+  return { ...info, label: "3rd " + allow, known, provisional: !known && !!g && groupHasScore(g) };
 }
 
 function participant(matchId, side) {
@@ -476,10 +489,12 @@ function winnerOf(matchId) {
 
 function rowHtml(id, side, p, selected, acc) {
   const known = p.known && p.name;
-  const label = known
-    ? `<span class="bm-name">${escapeHtml(p.name)}</span>`
+  const prov = !known && p.provisional && p.name;     // seeded from partial standings
+  const show = known || prov;
+  const label = show
+    ? `<span class="bm-name${prov ? " prov" : ""}"${prov ? ' title="Provisional — from current standings; finish the group to lock it"' : ""}>${escapeHtml(p.name)}${prov ? '<span class="bm-prov">~</span>' : ""}</span>`
     : `<span class="bm-name ph">${escapeHtml(p.label || "—")}</span>`;
-  const flag = known ? flagHtml(p.code) : "•";
+  const flag = show ? flagHtml(p.code) : "•";
   const mark = acc === "correct" ? '<span class="bm-mark ok">✓</span>'
     : acc === "wrong" ? '<span class="bm-mark no">✗</span>' : "";
   return `<button class="bm-row ${selected ? "sel" : ""} ${acc || ""}" data-id="${id}" data-side="${side}" type="button">
@@ -535,8 +550,8 @@ function renderBracket() {
           <span class="bw-icon">⚠</span>
           <div class="bw-text">
             <strong>${totalMissing} unfilled match${totalMissing === 1 ? "" : "es"}</strong> —
-            the knockout bracket can't fully seed until every group is scored
-            (3rd-place slots need <em>all</em> groups complete).
+            affected slots show a <em>provisional</em> seed (<span class="bw-tilde">~</span>)
+            from current standings; fill these to lock them in:
             <span class="bw-list">${gaps.map((x) =>
               `<span class="bw-grp">Group ${x.group}: ${x.missing.map((i) => escapeHtml(matchLabel(x.group, i))).join(", ")}</span>`).join("")}</span>
           </div>
@@ -1137,10 +1152,12 @@ function renderMiniBracket(sub) {
 
   const teamRow = (p, picked, acc, extra) => {
     const known = p && p.known && p.name;
-    const cls = picked ? "pick " + (acc || "pending") : "dim";
-    const flag = known ? flagHtml(p.code) : '<span class="mb-dot">•</span>';
-    const code = known ? code3(p.name) : "—";
-    const ttl = known ? p.name : (p && p.label) || "TBD";
+    const prov = p && !known && p.provisional && p.name;
+    const show = known || prov;
+    const cls = (picked ? "pick " + (acc || "pending") : "dim") + (prov ? " prov" : "");
+    const flag = show ? flagHtml(p.code) : '<span class="mb-dot">•</span>';
+    const code = show ? code3(p.name) : "—";
+    const ttl = show ? p.name + (prov ? " (provisional)" : "") : (p && p.label) || "TBD";
     return `<div class="mb-team ${cls} ${extra || ""}" title="${escapeHtml(ttl)}">
         <span class="mb-flag">${flag}</span><span class="mb-code">${escapeHtml(code)}</span>
       </div>`;

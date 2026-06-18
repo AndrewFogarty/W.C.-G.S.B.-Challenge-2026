@@ -702,6 +702,23 @@ tbody tr.eliminated {
   font-size: 0.78rem;
 }
 
+/* Provisional seed: shown from current standings but not yet locked (a group
+   match is still unscored). Dashed underline + a "~" so it reads as tentative. */
+.bm-name.prov {
+  font-style: italic;
+  opacity: 0.82;
+  text-decoration: underline dotted rgba(255, 255, 255, 0.4);
+  text-underline-offset: 2px;
+}
+.bm-prov {
+  font-style: normal;
+  margin-left: 2px;
+  color: #f5b50a;
+  font-weight: 700;
+}
+.mb-team.prov { opacity: 0.8; }
+.mb-team.prov .mb-code { font-style: italic; }
+
 .bm.is-final {
   border-color: var(--amber);
   box-shadow: 0 6px 16px rgba(224, 160, 8, 0.25);
