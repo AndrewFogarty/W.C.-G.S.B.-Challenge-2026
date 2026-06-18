@@ -258,9 +258,9 @@ function thirdAssignments() {
 /* ================= Group rendering ================= */
 const groupsEl = document.getElementById("groups");
 
-/* Masonry layout: place each group card (in A→L order) into the currently
-   shortest column. Keeps A,B,C across the top row while packing cards tightly
-   so a taller card never leaves empty space below its neighbours. */
+/* Column layout: distribute group cards across columns in strict A→L order so
+   they always read left-to-right, top-to-bottom (A,B,C across the top row,
+   D,E,F next, …) regardless of card height. */
 let groupCardOrder = null;
 function layoutGroups() {
   if (!groupsEl) return;
@@ -278,13 +278,8 @@ function layoutGroups() {
     groupsEl.appendChild(d);
     colEls.push(d);
   }
-  const heights = new Array(cols).fill(0);
-  for (const card of groupCardOrder) {
-    let min = 0;
-    for (let i = 1; i < cols; i++) if (heights[i] < heights[min]) min = i;
-    colEls[min].appendChild(card);
-    heights[min] += card.offsetHeight + 20; // card height + column gap
-  }
+  // Round-robin by index keeps alphabetical reading order across the row.
+  groupCardOrder.forEach((card, i) => colEls[i % cols].appendChild(card));
 }
 
 function buildGroups() {
@@ -1916,7 +1911,7 @@ function celebrateChampion(code) {
     document.body.appendChild(layer);
   }
   layer.innerHTML = "";
-  const N = 42;
+  const N = 120;
   for (let i = 0; i < N; i++) {
     const f = document.createElement("img");
     f.className = "confetti-flag";
