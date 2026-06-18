@@ -86,6 +86,17 @@
         />
       </figure>
 
+      <!-- All-time World Cup history leaderboards (filled by app.js) -->
+      <section id="wc-history" class="wc-history" aria-label="All-time World Cup records">
+        <div class="wch-overlay">
+          <div class="section-head wch-head">
+            <h2>All-Time World Cup Records</h2>
+            <p class="wch-note"><!-- filled by app.js --></p>
+          </div>
+          <div id="wch-grid" class="wch-grid"><!-- filled by app.js --></div>
+        </div>
+      </section>
+
       <section id="schedule-section" class="schedule" aria-label="Upcoming matches">
         <h2 class="schedule-title">What's next</h2>
         <div id="schedule-strip" class="schedule-strip"><!-- filled by app.js --></div>
@@ -217,6 +228,8 @@
     <script src="live-data.js"></script>
     <!-- football-data.js (optional) provides WC_FOOTBALL lineups, H2H, player stats -->
     <script src="football-data.js"></script>
+    <!-- wc-history.js provides all-time World Cup leaderboards -->
+    <script src="wc-history.js"></script>
     <!-- Supabase client + config for the shared leaderboard (optional) -->
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="supabase-config.js"></script>

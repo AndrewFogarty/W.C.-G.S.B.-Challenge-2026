@@ -1520,6 +1520,33 @@ function wireMatchInfo() {
   });
 }
 
+/* ================= All-time World Cup history leaderboards ================= */
+function renderHistory() {
+  const grid = document.getElementById("wch-grid");
+  const data = window.WC_HISTORY;
+  if (!grid || !data) return;
+  const noteEl = document.querySelector(".wch-note");
+  if (noteEl) noteEl.textContent = data.note || "";
+  grid.innerHTML = (data.panels || []).map((p) => {
+    const rows = (p.rows || []).map((r, i) => `
+      <li class="wch-row${i === 0 ? " lead" : ""}">
+        <span class="wch-rank">${i + 1}</span>
+        <span class="wch-flag">${flagHtml(r.code)}</span>
+        <span class="wch-name"><span class="wch-nm">${escapeHtml(r.name)}</span>${r.sub ? `<span class="wch-sub">${escapeHtml(r.sub)}</span>` : ""}</span>
+        <span class="wch-val">${escapeHtml(String(r.value))}</span>
+      </li>`).join("");
+    return `<div class="wch-card">
+        <div class="wch-card-head">
+          <span class="wch-icon" aria-hidden="true">${p.icon || ""}</span>
+          <h3>Top 10 — ${escapeHtml(p.title)}</h3>
+          ${p.approx ? `<span class="wch-approx" title="Approximate — best-available historical data">≈</span>` : ""}
+        </div>
+        <ol class="wch-list">${rows}</ol>
+        ${p.note ? `<p class="wch-card-note">${escapeHtml(p.note)}</p>` : ""}
+      </div>`;
+  }).join("");
+}
+
 /* ================= Venues (stadium · city, country) ================= */
 /* kickoffMs (date + "HH:MM UTC±O" -> UTC ms) lives in lib/engine.js. */
 const kickoffMs = GSB.kickoffMs;
@@ -1863,6 +1890,7 @@ wireEvents();
 setMode(state.mode);
 renderAll();
 renderSchedule();
+renderHistory();
 wireMatchInfo();
 fillGroupVenues();
 setupBoardUI();
