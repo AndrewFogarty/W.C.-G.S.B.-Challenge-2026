@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-06-18T17:01:21.772Z",
+  "updated": "2026-06-18T20:16:34.101Z",
   "results": {
     "A": [
       [
@@ -12,7 +12,10 @@
         1
       ],
       null,
-      null,
+      [
+        1,
+        1
+      ],
       null,
       null
     ],
@@ -205,8 +208,8 @@
       "s": "A",
       "h": "Czechia",
       "a": "South Africa",
-      "hg": null,
-      "ag": null,
+      "hg": 1,
+      "ag": 1,
       "v": "Mercedes-Benz Stadium (Atlanta, USA)"
     },
     {
