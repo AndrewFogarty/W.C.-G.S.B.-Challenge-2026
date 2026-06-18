@@ -1271,7 +1271,14 @@ function miNotice(msg) {
 /* --- Lineups (official XI when live, otherwise the team's last game) --- */
 /* A player chip: circular headshot (falls back to the shirt number), number
    badge, and name. */
-function playerChip(p, posStyle) {
+function ratingClass(r) {
+  if (r == null) return "";
+  if (r >= 8) return "r-hi";
+  if (r >= 7) return "r-mid";
+  if (r >= 6) return "r-ok";
+  return "r-lo";
+}
+function playerChip(p, posStyle, perf) {
   const num = p.number != null ? String(p.number) : "";
   const img = p.photo
     ? `<img class="pp-photo" src="${escapeHtml(p.photo)}" alt="" loading="lazy"
@@ -1280,8 +1287,10 @@ function playerChip(p, posStyle) {
   // Number shown beside the name (clear, never clipped); the in-circle number
   // is only a fallback for when the headshot fails to load.
   const numName = num ? `<span class="pp-no">${escapeHtml(num)}</span>` : "";
+  const rating = perf && perf.rating != null
+    ? `<span class="pp-rating ${ratingClass(perf.rating)}">${perf.rating.toFixed(1)}</span>` : "";
   return `<div class="pp" ${posStyle ? `style="${posStyle}"` : ""}>
-      <div class="pp-shirt">${img}<span class="pp-fallnum">${escapeHtml(num)}</span></div>
+      <div class="pp-shirt">${img}<span class="pp-fallnum">${escapeHtml(num)}</span>${rating}</div>
       <div class="pp-name">${numName}<span class="pp-nm">${escapeHtml(p.name || "—")}</span></div>
     </div>`;
 }
@@ -1289,7 +1298,7 @@ function playerChip(p, posStyle) {
 /* Lay the starting XI out on a vertical pitch using the API grid ("row:col",
    row 1 = keeper at the back, col 1 = left), so wingers/full-backs sit on
    their true side. */
-function renderPitch(startXI) {
+function renderPitch(startXI, perfMap) {
   const withGrid = (startXI || []).filter((p) => p.grid);
   if (withGrid.length < (startXI || []).length || !withGrid.length) return null;
   const rows = {};
@@ -1308,15 +1317,15 @@ function renderPitch(startXI) {
     const top = 100 - ((i + 0.5) / R) * 100; // keeper (i=0) near the bottom
     line.forEach((p, j) => {
       const left = ((j + 0.5) / C) * 100; // col 1 -> left of the screen
-      chips += playerChip(p, `top:${top.toFixed(1)}%;left:${left.toFixed(1)}%`);
+      chips += playerChip(p, `top:${top.toFixed(1)}%;left:${left.toFixed(1)}%`, perfMap && perfMap[p.id]);
     });
   });
   return `<div class="mi-pitch">${chips}</div>`;
 }
 
-function renderLineupSide(side) {
+function renderLineupSide(side, perfMap) {
   if (!side) return `<div class="mi-xi">${miNotice("No lineup available.")}</div>`;
-  const pitch = renderPitch(side.startXI);
+  const pitch = renderPitch(side.startXI, perfMap);
   const listFallback = `<ol class="mi-players">${(side.startXI || []).map((p) =>
     `<li><span class="mi-num">${p.number != null ? p.number : "·"}</span>
        <span class="mi-pname">${escapeHtml(p.name || "—")}</span>
@@ -1337,18 +1346,40 @@ function renderLineupSide(side) {
     </div>`;
 }
 
+/* Goals summary for a played match: ⚽ scorer (min') with 🥾 assist. */
+function renderGoalsSummary(report, home, away) {
+  if (!report || !report.goals || !report.goals.length) return "";
+  const line = (g) => {
+    const min = g.minute != null ? `${g.minute}${g.extra ? "+" + g.extra : ""}'` : "";
+    const tag = g.own ? " (OG)" : g.pen ? " (pen)" : "";
+    const assist = g.assist && !g.own ? ` <span class="mi-assist">🥾 ${escapeHtml(g.assist)}</span>` : "";
+    return `<li><span class="mi-ball">⚽</span><span class="mi-scorer">${escapeHtml(g.player || "—")}${tag}</span>
+        <span class="mi-min">${min}</span>${assist}</li>`;
+  };
+  const homeGoals = report.goals.filter((g) => g.side === "home").map(line).join("");
+  const awayGoals = report.goals.filter((g) => g.side === "away").map(line).join("");
+  return `<div class="mi-goals">
+      <div class="mi-goals-col"><div class="mi-goals-team">${escapeHtml(home)}</div><ul>${homeGoals || '<li class="mi-nogoal">—</li>'}</ul></div>
+      <div class="mi-goals-col"><div class="mi-goals-team">${escapeHtml(away)}</div><ul>${awayGoals || '<li class="mi-nogoal">—</li>'}</ul></div>
+    </div>`;
+}
+
 function renderLineupTab(data, home, away) {
   if (!data || !data.lineup || !data.lineup.sides) {
     return miNotice("Lineups will appear here once the data feed runs (refreshes hourly).");
   }
-  const { sides, live } = data.lineup;
-  const banner = live
+  const { sides, kind } = data.lineup;
+  const perf = (data.report && data.report.players) || null;
+  const banner = kind === "live"
     ? `<div class="mi-live"><span class="mi-dot"></span> Official lineup (live)</div>`
-    : `<div class="mi-last">Showing each side's most recent lineup (the official XI for an upcoming match is published shortly before kickoff).</div>`;
+    : kind === "final"
+      ? `<div class="mi-final">Final lineup &amp; player ratings from the match.</div>`
+      : `<div class="mi-last">Showing each side's most recent lineup (the official XI for an upcoming match is published shortly before kickoff).</div>`;
   return `${banner}
+    ${renderGoalsSummary(data.report, home, away)}
     <div class="mi-xis">
-      ${renderLineupSide(sides.home)}
-      ${renderLineupSide(sides.away)}
+      ${renderLineupSide(sides.home, perf)}
+      ${renderLineupSide(sides.away, perf)}
     </div>`;
 }
 
@@ -1445,6 +1476,54 @@ function renderStatsTab(home, away) {
     </div>`;
 }
 
+/* --- Match performance (played matches): rating, mins, G/A, shots, passes,
+   pass accuracy, tackles — per player who featured. --- */
+function renderPerfTable(side, perf) {
+  if (!side) return "";
+  const all = [...(side.startXI || []), ...(side.subs || [])];
+  const rows = all.map((p) => ({ p, s: perf[p.id] }))
+    .filter((x) => x.s && (x.s.minutes > 0 || x.s.rating != null))
+    .sort((a, b) => (b.s.rating || 0) - (a.s.rating || 0));
+  if (!rows.length) return "";
+  const body = rows.map(({ p, s }) => `
+    <tr>
+      <td class="mi-pl">${escapeHtml(p.name)}</td>
+      <td class="mi-rt ${ratingClass(s.rating)}">${s.rating != null ? s.rating.toFixed(1) : "–"}</td>
+      <td>${s.minutes}'</td>
+      <td>${s.goals || 0}</td>
+      <td>${s.assists || 0}</td>
+      <td>${s.shots || 0}${s.shotsOn ? ` (${s.shotsOn})` : ""}</td>
+      <td>${s.passes || 0}${s.passAcc != null ? ` · ${s.passAcc}%` : ""}</td>
+      <td>${s.tackles || 0}</td>
+    </tr>`).join("");
+  return `<div class="mi-squad">
+      <h4>${escapeHtml(side.team || "")}</h4>
+      <div class="mi-table-wrap"><table class="mi-stats mi-perf">
+        <thead><tr>
+          <th class="mi-pl">Player</th><th title="Match rating (0–10)">Rtg</th><th>Min</th>
+          <th title="Goals">G</th><th title="Assists">A</th>
+          <th title="Shots (on target)">Sh</th><th title="Passes · accuracy">Pass</th>
+          <th title="Tackles">Tkl</th>
+        </tr></thead>
+        <tbody>${body}</tbody>
+      </table></div>
+    </div>`;
+}
+
+function renderMatchStatsTab(data) {
+  const report = data && data.report;
+  const sides = data && data.lineup && data.lineup.sides;
+  if (!report || !report.players || !Object.keys(report.players).length || !sides) {
+    return miNotice("Player match ratings appear here once the match has been played.");
+  }
+  return `<div class="mi-legend">Match performance — rating (0–10), minutes, goals, assists, shots (on target), passes · accuracy, tackles.
+      <span class="mi-src">via API-Football · Opta-style data</span></div>
+    <div class="mi-squads">
+      ${renderPerfTable(sides.home, report.players)}
+      ${renderPerfTable(sides.away, report.players)}
+    </div>`;
+}
+
 let miActiveTab = "lineup";
 function openMatchInfo(home, away) {
   const body = document.getElementById("mi-body");
@@ -1454,10 +1533,13 @@ function openMatchInfo(home, away) {
   // a group fixture's order — fall back to the reverse so either side opens it.
   let data = matchInfoData(home, away);
   if (!data && matchInfoData(away, home)) { const t = home; home = away; away = t; data = matchInfoData(home, away); }
+  const hasReport = !!(data && data.report && data.report.players && Object.keys(data.report.players).length);
+  if (miActiveTab === "match" && !hasReport) miActiveTab = "lineup";
   const tab = (id, label) =>
     `<button class="mi-tab ${miActiveTab === id ? "active" : ""}" data-tab="${id}" type="button">${label}</button>`;
   const panel = miActiveTab === "h2h" ? renderH2HTab(data, home, away)
     : miActiveTab === "stats" ? renderStatsTab(home, away)
+    : miActiveTab === "match" ? renderMatchStatsTab(data)
     : renderLineupTab(data, home, away);
 
   body.innerHTML = `
@@ -1468,6 +1550,7 @@ function openMatchInfo(home, away) {
     </div>
     <div class="mi-tabs">
       ${tab("lineup", "Lineups")}
+      ${hasReport ? tab("match", "Match Stats") : ""}
       ${tab("h2h", "Head-to-Head")}
       ${tab("stats", "Squad Stats")}
     </div>
@@ -1611,31 +1694,33 @@ function setEditorLocked(sub) {
   editorLockedSet = new Set((sub && sub.locked) || []);
 }
 
-/* Colour-grade each played match by your prediction vs the actual result:
-   ★ exact (gold), ✓ right outcome (green), ✗ wrong (red), and a neutral grey
-   for played matches you didn't predict. */
+/* Colour-grade each match:
+   ★ exact (gold), ✓ right outcome (green), ✗ wrong (red) for played matches you
+   predicted; BLUE for any locked match (kicked off / finished) you did NOT
+   predict — including ones already over before you locked your bracket. */
 function markPredictionAccuracy() {
   const live = liveResults();
   const allowExact = state.mode !== "result";
   document.querySelectorAll(".match").forEach((row) => {
     const g = row.dataset.group;
     const m = +row.dataset.match;
-    row.classList.remove("guess-exact", "guess-ok", "guess-miss", "guess-none");
+    row.classList.remove("guess-exact", "guess-ok", "guess-miss", "guess-none", "guess-locked");
     const badge = row.querySelector(".match-grade");
     if (badge) { badge.className = "match-grade"; badge.textContent = ""; badge.title = ""; }
 
-    // Finished before this bracket was locked → not your prediction: blank the
-    // box and show neutral grey (never gold), so it's clear it didn't count.
-    if (editorLockedSet.has(g + m)) {
-      row.querySelectorAll(".goal").forEach((el) => { el.value = ""; });
-      row.classList.add("guess-none");
+    const preLocked = editorLockedSet.has(g + m); // already over when you locked in
+    const pred = state.scores[g][m];
+    const guessed = !preLocked && pred && pred[0] != null && pred[1] != null;
+
+    if (!guessed) {
+      if (preLocked) row.querySelectorAll(".goal").forEach((el) => { el.value = ""; });
+      // Locked (kicked off / confirmed) but you never predicted it → blue.
+      if (isLocked(g, m)) row.classList.add("guess-locked");
       return;
     }
 
     const actual = (live[g] || [])[m];
-    if (!actual || actual[0] == null || actual[1] == null) return; // not played yet
-    const pred = state.scores[g][m];
-    if (!pred || pred[0] == null || pred[1] == null) { row.classList.add("guess-none"); return; }
+    if (!actual || actual[0] == null || actual[1] == null) return; // your pick, not played yet
 
     let kind, sym;
     if (allowExact && pred[0] === actual[0] && pred[1] === actual[1]) { kind = "exact"; sym = "★"; }

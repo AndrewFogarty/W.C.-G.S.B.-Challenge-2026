@@ -13,7 +13,7 @@ window.WC_HISTORY = {
   era: "1930–2022",
   note:
     "All-time FIFA World Cup records (1930–2022). Goals & clean sheets are official FIFA records; " +
-    "assists, goals + assists and red cards use best-available historical data and are approximate.",
+    "assists, goals + assists, yellow cards and red cards use best-available historical data and are approximate (≈).",
   panels: [
     {
       key: "goals", title: "Goals", icon: "⚽",
@@ -73,6 +73,21 @@ window.WC_HISTORY = {
         { name: "Gordon Banks", code: "ENG", value: 6 },
         { name: "Dino Zoff", code: "IT", value: 5 },
         { name: "Emiliano Martínez", code: "AR", value: 5 },
+      ],
+    },
+    {
+      key: "yellowcards", title: "Yellow Cards", icon: "🟨", approx: true,
+      rows: [
+        { name: "Javier Mascherano", code: "AR", value: 7 },
+        { name: "Cafú", code: "BR", value: 6 },
+        { name: "Lothar Matthäus", code: "DE", value: 6 },
+        { name: "Thomas Müller", code: "DE", value: 6 },
+        { name: "Philipp Lahm", code: "DE", value: 5 },
+        { name: "Paolo Maldini", code: "IT", value: 5 },
+        { name: "Bastian Schweinsteiger", code: "DE", value: 5 },
+        { name: "Carles Puyol", code: "ES", value: 5 },
+        { name: "Sergio Ramos", code: "ES", value: 5 },
+        { name: "Lionel Messi", code: "AR", value: 5 },
       ],
     },
     {

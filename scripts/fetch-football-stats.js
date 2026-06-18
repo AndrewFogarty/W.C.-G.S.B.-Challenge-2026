@@ -160,14 +160,24 @@ async function fetchSquad(name, id) {
   };
 }
 
-/* ---- Head-to-head over the last H2H_YEARS years ---- */
-async function fetchH2H(homeName, awayName, hId, aId) {
+/* ---- Head-to-head over the last H2H_YEARS years. Also locates the fixture id
+   for THIS tournament's meeting (date === matchDate) so lineups, goals and
+   player ratings can be pulled for it. ---- */
+async function fetchH2H(homeName, awayName, hId, aId, matchDate) {
   const from = `${new Date().getUTCFullYear() - H2H_YEARS}-01-01`;
   const to = `${new Date().getUTCFullYear()}-12-31`;
   const body = await api("/fixtures/headtohead", { h2h: `${hId}-${aId}`, from, to });
-  let homeWins = 0, awayWins = 0, draws = 0, total = 0;
+  let homeWins = 0, awayWins = 0, draws = 0, total = 0, fixtureId = null;
+  let bestDiff = Infinity;
+  const target = matchDate ? new Date(matchDate + "T12:00:00Z").getTime() : null;
   for (const f of body.response || []) {
     const st = f.fixture && f.fixture.status && f.fixture.status.short;
+    // Match THIS fixture by closeness to the scheduled date (±36h) so a late
+    // kickoff rolling into the next UTC day still resolves correctly.
+    if (target && f.fixture && f.fixture.date) {
+      const diff = Math.abs(new Date(f.fixture.date).getTime() - target);
+      if (diff <= 36 * 3600 * 1000 && diff < bestDiff) { bestDiff = diff; fixtureId = f.fixture.id; }
+    }
     if (st && !["FT", "AET", "PEN"].includes(st)) continue; // finished games only
     const t = f.teams || {};
     total++;
@@ -177,25 +187,28 @@ async function fetchH2H(homeName, awayName, hId, aId) {
   }
   const pct = (n) => (total ? Math.round((n / total) * 100) : 0);
   return {
-    home: homeName, away: awayName, total,
-    homeWins, awayWins, draws,
-    homeWinPct: pct(homeWins), awayWinPct: pct(awayWins), drawPct: pct(draws),
-    years: H2H_YEARS,
+    stat: {
+      home: homeName, away: awayName, total,
+      homeWins, awayWins, draws,
+      homeWinPct: pct(homeWins), awayWinPct: pct(awayWins), drawPct: pct(draws),
+      years: H2H_YEARS,
+    },
+    fixtureId,
   };
 }
 
-/* ---- Lineup for the upcoming fixture, falling back to each side's last game ---- */
-async function lineupFor(side, hId, aId) {
-  // 1) the upcoming fixture between these two teams
-  const next = await api("/fixtures/headtohead", { h2h: `${hId}-${aId}`, next: 1 });
-  const upcoming = (next.response || [])[0];
-  if (upcoming) {
-    const lu = await api("/fixtures/lineups", { fixture: upcoming.fixture.id });
+/* ---- Lineup for THIS match (by fixture id). kind:
+   "final"  = the actual lineup of a played match
+   "live"   = official XI posted for an upcoming match
+   "recent" = neither available yet → each side's most recent lineup ---- */
+async function getMatchLineup(fixtureId, hId, aId, played) {
+  if (fixtureId) {
+    const lu = await api("/fixtures/lineups", { fixture: fixtureId });
     if ((lu.response || []).length) {
-      return { sides: normaliseLineups(lu.response), live: true };
+      return { sides: normaliseLineups(lu.response, hId, aId), kind: played ? "final" : "live" };
     }
   }
-  // 2) fall back to each team's most recent finished fixture lineup
+  // fall back to each team's most recent finished fixture lineup
   const out = {};
   for (const [key, id] of [["home", hId], ["away", aId]]) {
     if (used >= REQUEST_BUDGET) break;
@@ -206,7 +219,57 @@ async function lineupFor(side, hId, aId) {
     const mine = (lu.response || []).find((l) => l.team && l.team.id === id);
     if (mine) out[key] = oneLineup(mine);
   }
-  return { sides: out, live: false };
+  return { sides: out, kind: "recent" };
+}
+
+/* ---- Match report for a played fixture: goals (scorer + assist + minute) and
+   per-player performance (rating 0–10, shots, passes/accuracy, tackles…). ---- */
+async function fetchReport(fixtureId, hId, aId) {
+  const goals = [];
+  const ev = await api("/fixtures/events", { fixture: fixtureId });
+  for (const e of ev.response || []) {
+    if (e.type !== "Goal") continue;
+    if (e.detail === "Missed Penalty") continue;
+    goals.push({
+      side: e.team && e.team.id === hId ? "home" : "away",
+      player: e.player && e.player.name,
+      assist: (e.assist && e.assist.name) || null,
+      minute: e.time && e.time.elapsed,
+      extra: (e.time && e.time.extra) || null,
+      own: e.detail === "Own Goal",
+      pen: e.detail === "Penalty",
+    });
+  }
+  const players = {};
+  if (used < REQUEST_BUDGET) {
+    const pl = await api("/fixtures/players", { fixture: fixtureId });
+    for (const tp of pl.response || []) {
+      for (const p of tp.players || []) {
+        const s = (p.statistics || [])[0] || {};
+        const g = s.games || {}, sh = s.shots || {}, ps = s.passes || {},
+          tk = s.tackles || {}, du = s.duels || {}, dr = s.dribbles || {};
+        // Key by player id — /fixtures/lineups uses abbreviated names while
+        // /fixtures/players uses full names, so names won't match across them.
+        players[p.player.id] = {
+          name: p.player.name,
+          rating: g.rating ? +g.rating : null,
+          minutes: g.minutes || 0,
+          goals: (s.goals && s.goals.total) || 0,
+          assists: (s.goals && s.goals.assists) || 0,
+          shots: sh.total || 0,
+          shotsOn: sh.on || 0,
+          passes: ps.total || 0,
+          passAcc: ps.accuracy != null ? +ps.accuracy : null,
+          tackles: tk.total || 0,
+          interceptions: tk.interceptions || 0,
+          duelsWon: du.won || 0,
+          duelsTotal: du.total || 0,
+          dribbles: dr.success || 0,
+        };
+      }
+    }
+  }
+  return { goals, players };
 }
 
 function lineupPlayer(e) {
@@ -230,11 +293,14 @@ function oneLineup(l) {
   };
 }
 
-function normaliseLineups(resp) {
-  // resp is an array of two lineups (home first by convention)
+function normaliseLineups(resp, hId, aId) {
   const out = {};
-  if (resp[0]) out.home = oneLineup(resp[0]);
-  if (resp[1]) out.away = oneLineup(resp[1]);
+  for (const l of resp) {
+    if (l.team && l.team.id === hId) out.home = oneLineup(l);
+    else if (l.team && l.team.id === aId) out.away = oneLineup(l);
+  }
+  if (!out.home && resp[0]) out.home = oneLineup(resp[0]);
+  if (!out.away && resp[1]) out.away = oneLineup(resp[1]);
   return out;
 }
 
@@ -301,15 +367,27 @@ async function main() {
       if (!hId || !aId) continue;
       data.matches[key] = data.matches[key] || {};
 
+      const played = m.hg !== null;
+
       if (!fresh(cache.h2hTs[key], H2H_TTL_H) || !data.matches[key].h2h) {
         log("h2h:", key);
-        data.matches[key].h2h = await fetchH2H(m.h, m.a, hId, aId);
+        const r = await fetchH2H(m.h, m.a, hId, aId, m.d);
+        data.matches[key].h2h = r.stat;
+        if (r.fixtureId) data.matches[key].fixtureId = r.fixtureId;
         cache.h2hTs[key] = new Date().toISOString();
       }
+      const fixtureId = data.matches[key].fixtureId || null;
+
       if (!fresh(cache.lineupTs[key], LINEUP_TTL_H) || !data.matches[key].lineup) {
         log("lineup:", key);
-        data.matches[key].lineup = await lineupFor("both", hId, aId);
+        data.matches[key].lineup = await getMatchLineup(fixtureId, hId, aId, played);
         cache.lineupTs[key] = new Date().toISOString();
+      }
+
+      // Match report (goals + player ratings) — only for played matches, once.
+      if (played && fixtureId && !data.matches[key].report) {
+        log("report:", key);
+        data.matches[key].report = await fetchReport(fixtureId, hId, aId);
       }
     }
   } catch (e) {

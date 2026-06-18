@@ -1887,6 +1887,15 @@ body {
   opacity: 1;
 }
 
+/* locked (kicked off / finished) but you never predicted it -> blue highlight */
+.match.guess-locked { background: rgba(47, 111, 237, 0.12); }
+.match.guess-locked .goal {
+  background: #2f6fed;
+  color: #fff;
+  border-color: #2f6fed;
+  opacity: 1;
+}
+
 /* signed-in indicator */
 .whoami {
   align-self: center;
@@ -2345,11 +2354,15 @@ body.mi-open { overflow: hidden; }
   overflow: hidden;
   border: 1px solid var(--line-strong);
   box-shadow: 0 10px 30px rgba(12, 18, 32, 0.3);
+  background-color: #0a0e20;
   background-image:
-    linear-gradient(rgba(8, 12, 24, 0.82), rgba(8, 12, 24, 0.9)),
+    linear-gradient(rgba(8, 12, 24, 0.80), rgba(8, 12, 24, 0.9)),
     url("images/Last Dance.jpg");
-  background-size: cover;
-  background-position: center 26%;
+  background-repeat: no-repeat, no-repeat;
+  background-position: center, center top;
+  /* Zoomed out a touch from "cover" so Neymar (left) and Messi (right) read
+     clearly; the gradient + base colour fill the rest. */
+  background-size: cover, 108%;
 }
 .wch-overlay { padding: 1.5rem 1.25rem 1.75rem; }
 .wch-head { margin-bottom: 0.25rem; }
@@ -2440,3 +2453,50 @@ body.mi-open { overflow: hidden; }
   font-style: italic;
   color: rgba(255, 255, 255, 0.55);
 }
+
+/* --- Match report: ratings on pitch, goals summary, performance table --- */
+.pp-rating {
+  position: absolute;
+  top: -5px; left: -5px;
+  min-width: 1.05rem;
+  padding: 0 2px;
+  font-family: var(--cond);
+  font-weight: 700;
+  font-size: 0.62rem;
+  line-height: 1.05rem;
+  text-align: center;
+  border-radius: 5px;
+  color: #fff;
+  border: 1px solid rgba(0,0,0,0.3);
+}
+.pp-rating.r-hi  { background: #11a85f; }
+.pp-rating.r-mid { background: #6fae1f; }
+.pp-rating.r-ok  { background: #d6a019; color: #1a1400; }
+.pp-rating.r-lo  { background: #d24b4b; }
+
+.mi-final { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.7rem; }
+.mi-goals {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin-bottom: 0.9rem;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.6rem 0.75rem;
+}
+.mi-goals-team { font-family: var(--cond); font-weight: 700; font-size: 0.9rem; margin-bottom: 0.25rem; }
+.mi-goals ul { list-style: none; margin: 0; padding: 0; }
+.mi-goals li { display: flex; align-items: center; gap: 0.3rem; flex-wrap: wrap; font-size: 0.82rem; padding: 0.12rem 0; }
+.mi-goals .mi-ball { font-size: 0.85rem; }
+.mi-goals .mi-scorer { font-weight: 600; }
+.mi-goals .mi-min { color: var(--muted); font-size: 0.76rem; }
+.mi-goals .mi-assist { color: var(--muted); font-size: 0.76rem; width: 100%; padding-left: 1.15rem; }
+.mi-goals .mi-nogoal { color: var(--muted); }
+
+.mi-perf td.mi-rt { font-weight: 800; border-radius: 4px; }
+.mi-perf td.mi-rt.r-hi  { color: #11a85f; }
+.mi-perf td.mi-rt.r-mid { color: #6f9e10; }
+.mi-perf td.mi-rt.r-ok  { color: #b7900a; }
+.mi-perf td.mi-rt.r-lo  { color: var(--red); }
+.mi-src { color: var(--muted); font-size: 0.72rem; font-style: italic; }
