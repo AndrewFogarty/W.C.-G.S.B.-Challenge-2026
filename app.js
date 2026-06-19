@@ -1039,11 +1039,13 @@ function setupBoardUI() {
   if (SHARED) {
     if (scope) scope.textContent = "🌐 Shared leaderboard";
     if (clear) clear.style.display = "none";
+    const joinBtn = document.getElementById("join-pool-btn");
+    if (joinBtn) joinBtn.style.display = "";
     renderScopeTabs();
     setInterval(loadBoardRemote, 45000); // keep roughly in sync
   } else {
     if (scope) scope.textContent = "💾 This device";
-    ["board-tabs", "join-panel", "pool-actions"].forEach((id) => {
+    ["board-tabs", "join-panel", "pool-actions", "join-pool-btn"].forEach((id) => {
       const e = document.getElementById(id);
       if (e) e.style.display = "none";
     });
@@ -2865,6 +2867,11 @@ function wireEvents() {
   // Leaderboard
   document.getElementById("submit-bracket").addEventListener("click", submitPredictions);
   document.getElementById("refresh-board").addEventListener("click", refreshBoard);
+  const joinPoolBtn = document.getElementById("join-pool-btn");
+  if (joinPoolBtn) joinPoolBtn.addEventListener("click", () => {
+    openJoinPanel("", "");
+    document.getElementById("join-panel").scrollIntoView({ behavior: "smooth", block: "center" });
+  });
   document.getElementById("signin").addEventListener("click", signInWithGoogle);
   document.getElementById("signout").addEventListener("click", signOut);
 
