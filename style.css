@@ -2274,6 +2274,8 @@ body.mi-open { overflow: hidden; }
 .mi-pct { font-size: 0.85rem; color: var(--muted); }
 
 /* --- Squad stats --- */
+.mi-note { font-size: 0.8rem; color: var(--muted); margin: 0 0 0.6rem; line-height: 1.45; }
+.mi-note strong { color: var(--ink); }
 .mi-legend { font-size: 0.8rem; color: var(--muted); margin-bottom: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; }
 .mi-key { padding: 0.05rem 0.4rem; border-radius: 5px; font-weight: 600; color: #fff; }
 .mi-key.g { background: var(--green); }

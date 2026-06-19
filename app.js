@@ -2002,7 +2002,9 @@ function renderSquadTable(name) {
 }
 
 function renderStatsTab(home, away) {
-  return `<div class="mi-legend">Highlighted = squad leader in
+  return `<p class="mi-note"><strong>GP</strong> = games played this season across <em>all</em>
+      competitions (club + country), not just the World Cup. The 🏆 columns show World Cup goals/assists only.</p>
+    <div class="mi-legend">Highlighted = squad leader in
       <span class="mi-key g">goals/game</span>
       <span class="mi-key a">assists/game</span>
       <span class="mi-key f">fouls/game</span></div>
