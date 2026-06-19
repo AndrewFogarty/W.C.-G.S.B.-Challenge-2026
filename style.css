@@ -594,6 +594,9 @@ tbody tr.eliminated {
 }
 .bracket-warn .bw-icon { font-size: 1.05rem; line-height: 1.2; }
 .bracket-warn strong { color: #fff; }
+/* Flex child must be allowed to shrink below its content width, otherwise the
+   nowrap pills below push it (and the whole page) wider than a phone screen. */
+.bw-text { min-width: 0; }
 .bw-list { display: flex; flex-wrap: wrap; gap: 0.3rem 0.5rem; margin-top: 0.35rem; }
 .bw-grp {
   background: rgba(239, 47, 80, 0.22);
@@ -601,7 +604,10 @@ tbody tr.eliminated {
   padding: 0.05rem 0.4rem;
   font-weight: 600;
   color: #fff;
-  white-space: nowrap;
+  /* Pills list full match names; a single group's list can exceed a phone's
+     width, so let it wrap rather than force horizontal page scroll. */
+  max-width: 100%;
+  overflow-wrap: anywhere;
 }
 
 /* ---- Missing-entry highlight on the offending group match ---- */
@@ -2289,6 +2295,9 @@ body.mi-open { overflow: hidden; }
 .mi-key.a { background: #2f6fed; }
 .mi-key.f { background: var(--amber); color: var(--ink); }
 .mi-squads { display: grid; gap: 1.25rem; }
+/* Grid item must be allowed to shrink below the table's min-width, otherwise it
+   stretches the dialog instead of letting .mi-table-wrap scroll horizontally. */
+.mi-squad { min-width: 0; }
 .mi-squad h4 { font-family: var(--cond); font-size: 1.1rem; margin: 0 0 0.5rem; display: flex; align-items: baseline; gap: 0.5rem; }
 .mi-season { font-size: 0.75rem; color: var(--muted); font-weight: 400; }
 .mi-table-wrap { overflow-x: auto; }
