@@ -1396,13 +1396,109 @@ function renderSchedule() {
   if (window.WCWeather) WCWeather.fill(".schedule-strip .sch-wx");
 }
 
-/* Pull the freshest data and re-render so matches go live → final without a
-   page reload. Refreshes BOTH feeds: live-data.json (official results, schedule,
-   knockout advancement → window.WC_LIVE) and football-data.json (in-play scores,
-   squad tallies → window.WC_FOOTBALL). Previously only the latter was polled, so
-   a match that *finished* (its result moving into WC_LIVE) never updated until a
-   manual reload. If the user is mid-typing a score we skip the input-rebuilding
-   parts so their cursor isn't lost. */
+/* Re-render the results-driven UI after a live update. If the user is mid-typing
+   a score we skip rebuilding the score inputs so their cursor isn't lost. */
+function rerenderAfterLiveUpdate() {
+  const editing = document.activeElement && document.activeElement.classList.contains("goal");
+  if (editing) {
+    fillActuals();
+    markPredictionAccuracy();
+    renderThirds();
+    renderBracket();
+    markMissingEntries();
+  } else {
+    renderAll();
+  }
+  renderSchedule();
+  renderHistory();
+}
+
+/* ---- Real-time live source: ESPN's free, keyless World Cup API ----
+   The committed data files only change when the (throttled) GitHub Action runs,
+   so scores can freeze for hours. ESPN's public scoreboard is reachable straight
+   from the browser, updates minute-by-minute, and carries the same fixtures, so
+   we poll it directly and overlay fresher results + in-play scores on top of the
+   committed snapshot. Falls back silently to the committed data if ESPN is
+   unreachable. Deep stats (lineups, ratings, H2H) still come from API-Football
+   via the Action — ESPN's scoreboard doesn't carry those. */
+const ESPN_NAME = {
+  "South Korea": "Korea Republic", "Korea Republic": "Korea Republic",
+  "Bosnia-Herzegovina": "Bosnia", "Bosnia and Herzegovina": "Bosnia",
+  "Ivory Coast": "Côte d'Ivoire", "Iran": "IR Iran", "IR Iran": "IR Iran",
+  "Cape Verde": "Cabo Verde", "United States": "USA", "USA": "USA",
+  "Türkiye": "Turkey", "Turkiye": "Turkey", "Czech Republic": "Czechia",
+  "Curacao": "Curaçao",
+};
+function espnName(n) { return ESPN_NAME[n] || n; }
+/* Find which group + fixture index a pairing belongs to (canonical names). */
+function espnLocate(t1, t2) {
+  for (const g of GROUP_LETTERS) {
+    const names = DEFAULT_GROUPS[g].map((x) => x[0]);
+    const i1 = names.indexOf(t1), i2 = names.indexOf(t2);
+    if (i1 >= 0 && i2 >= 0) {
+      const fi = FIXTURES.findIndex((p) => (p[0] === i1 && p[1] === i2) || (p[0] === i2 && p[1] === i1));
+      if (fi >= 0) return { g, fi, i1, i2 };
+    }
+  }
+  return null;
+}
+let lastEspn = null;
+/* Overlay an ESPN scoreboard payload onto WC_LIVE.results (finished matches) and
+   WC_FOOTBALL.live (in-play). Returns true if anything changed. */
+function applyEspnOverlay(j) {
+  if (!j || !Array.isArray(j.events)) return false;
+  if (!window.WC_LIVE) window.WC_LIVE = { results: {}, schedule: [] };
+  if (!window.WC_FOOTBALL) window.WC_FOOTBALL = { teams: {}, live: [] };
+  const results = window.WC_LIVE.results || (window.WC_LIVE.results = {});
+  GROUP_LETTERS.forEach((g) => { if (!Array.isArray(results[g])) results[g] = [null, null, null, null, null, null]; });
+  const live = [];
+  let changed = false;
+  for (const e of j.events) {
+    const c = e.competitions && e.competitions[0];
+    if (!c || !Array.isArray(c.competitors)) continue;
+    const homeC = c.competitors.find((x) => x.homeAway === "home") || c.competitors[0];
+    const awayC = c.competitors.find((x) => x.homeAway === "away") || c.competitors[1];
+    if (!homeC || !awayC) continue;
+    const hn = espnName(homeC.team.displayName), an = espnName(awayC.team.displayName);
+    const hs = parseInt(homeC.score, 10), as = parseInt(awayC.score, 10);
+    const st = (e.status && e.status.type) || {};
+    const loc = espnLocate(hn, an);
+    if (st.state === "post") {
+      if (loc && Number.isFinite(hs) && Number.isFinite(as)) {
+        const oriented = FIXTURES[loc.fi][0] === loc.i1 ? [hs, as] : [as, hs];
+        const cur = results[loc.g][loc.fi];
+        if (!cur || cur[0] !== oriented[0] || cur[1] !== oriented[1]) { results[loc.g][loc.fi] = oriented; changed = true; }
+      }
+    } else if (st.state === "in") {
+      const min = parseInt((e.status.displayClock || "").replace(/[^0-9]/g, ""), 10);
+      const nm = st.name || "";
+      const code = /HALFTIME/.test(nm) ? "HT" : /EXTRA|OVERTIME/.test(nm) ? "ET" : /SECOND/.test(nm) ? "2H" : "1H";
+      live.push({ home: hn, away: an, hg: Number.isFinite(hs) ? hs : 0, ag: Number.isFinite(as) ? as : 0, elapsed: Number.isFinite(min) ? min : null, extra: null, status: code });
+    }
+  }
+  if (JSON.stringify(window.WC_FOOTBALL.live || []) !== JSON.stringify(live)) {
+    window.WC_FOOTBALL.live = live;
+    changed = true;
+  }
+  return changed;
+}
+function pollEspnLive() {
+  const day = (off) => { const d = new Date(Date.now() + off * 864e5); return d.toISOString().slice(0, 10).replace(/-/g, ""); };
+  const url = (d) => `https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=${d}`;
+  // Yesterday + today covers late finishes and the current slate across time zones.
+  Promise.all([day(-1), day(0)].map((d) =>
+    fetch(url(d)).then((r) => (r.ok ? r.json() : null)).catch(() => null)
+  )).then((parts) => {
+    const events = parts.filter(Boolean).flatMap((p) => p.events || []);
+    if (!events.length) return;
+    lastEspn = { events };
+    if (applyEspnOverlay(lastEspn)) rerenderAfterLiveUpdate();
+  });
+}
+
+/* Pull the freshest committed data (lineups, squad stats, Action-committed
+   results) and re-render, then re-apply the latest ESPN overlay so the
+   real-time scores stay authoritative. */
 function pollLiveScores() {
   const bust = "?_=" + Date.now();
   Promise.all([
@@ -1412,21 +1508,9 @@ function pollLiveScores() {
     let changed = false;
     if (live && live.results && live.schedule) { window.WC_LIVE = live; changed = true; }
     if (football && football.teams) { window.WC_FOOTBALL = football; changed = true; }
+    if (lastEspn) applyEspnOverlay(lastEspn); // keep ESPN's live data on top
     if (!changed) return;
-    const editing = document.activeElement && document.activeElement.classList.contains("goal");
-    if (editing) {
-      // Update everything that reflects results, but don't rebuild the score
-      // inputs the user is currently editing.
-      fillActuals();
-      markPredictionAccuracy();
-      renderThirds();
-      renderBracket();
-      markMissingEntries();
-    } else {
-      renderAll();
-    }
-    renderSchedule();
-    renderHistory();
+    rerenderAfterLiveUpdate();
   });
 }
 
@@ -2275,8 +2359,12 @@ initAuth();
 setInterval(markConfirmedMatches, 15000);
 
 // Keep live scores (and the 2026 board) ticking over without a full reload.
+// ESPN's keyless API (every 45s) drives real-time scores; the committed feed
+// (every 2 min) backfills lineups/deep stats from the GitHub Action.
+pollEspnLive();
+setInterval(pollEspnLive, 45000);
 pollLiveScores();
-setInterval(pollLiveScores, 90000);
+setInterval(pollLiveScores, 120000);
 
 // Re-flow the masonry columns when the viewport width changes.
 let layoutTimer = null;
