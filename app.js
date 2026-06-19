@@ -1482,6 +1482,87 @@ function applyEspnOverlay(j) {
   }
   return changed;
 }
+/* ---- ESPN lineups (per-event summary endpoint) ----
+   The scoreboard has scores but not XIs; each event's `summary` carries the
+   confirmed rosters once announced (~1h before kickoff) and live. We fetch those
+   for in-play/upcoming matches, map them into the modal's lineup shape, and merge
+   onto WC_FOOTBALL.matches so the ⓘ panel shows the announced XI in real time. */
+const espnLineups = {};   // eventId -> { hn, an, lineup }
+const espnLineupAt = {};  // eventId -> last fetch timestamp
+function espnParseLineup(summary, kind) {
+  const rosters = summary && summary.rosters;
+  if (!Array.isArray(rosters) || rosters.length < 2) return null;
+  const sideFor = (side) => {
+    if (!side || !Array.isArray(side.roster)) return null;
+    const players = side.roster.map((p) => {
+      const a = p.athlete || {};
+      return {
+        id: a.id ? +a.id : null,
+        name: a.displayName || a.shortName || "—",
+        number: p.jersey != null ? +p.jersey : null,
+        pos: (p.position && p.position.abbreviation) || (a.position && a.position.abbreviation) || "",
+        starter: !!p.starter,
+        order: p.formationPlace != null ? +p.formationPlace : 99,
+        photo: a.headshot && a.headshot.href ? a.headshot.href : null,
+      };
+    });
+    const startXI = players.filter((p) => p.starter).sort((a, b) => a.order - b.order);
+    return { team: side.team && side.team.displayName, formation: side.formation || "", coach: null,
+      startXI, subs: players.filter((p) => !p.starter) };
+  };
+  const home = sideFor(rosters.find((r) => r.homeAway === "home") || rosters[0]);
+  const away = sideFor(rosters.find((r) => r.homeAway === "away") || rosters[1]);
+  if (!home || !away || !home.startXI.length || !away.startXI.length) return null;
+  return { kind, sides: { home, away } };
+}
+/* Merge cached ESPN lineups onto WC_FOOTBALL.matches under both name orders,
+   preserving any committed H2H / report already there. */
+function applyEspnLineups() {
+  const f = window.WC_FOOTBALL;
+  if (!f) return;
+  f.matches = f.matches || {};
+  for (const id in espnLineups) {
+    const { hn, an, lineup } = espnLineups[id];
+    if (!lineup) continue;
+    const base = f.matches[`${hn}|${an}`] || f.matches[`${an}|${hn}`] || {};
+    const merged = { ...base, lineup };
+    f.matches[`${hn}|${an}`] = merged;
+    f.matches[`${an}|${hn}`] = merged;
+  }
+}
+/* Re-render the match-info modal in place if it's open (e.g. a lineup landed). */
+function refreshOpenMatchInfo() {
+  const overlay = document.getElementById("match-info");
+  const body = document.getElementById("mi-body");
+  if (!overlay || overlay.hidden || !body || !body.dataset.home) return;
+  openMatchInfo(body.dataset.home, body.dataset.away);
+}
+function fetchEspnLineups(events) {
+  const now = Date.now();
+  const sumUrl = (id) => `https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=${id}`;
+  events
+    .filter((e) => e.id && e.status && e.status.type && e.status.type.state !== "post")
+    .filter((e) => !espnLineupAt[e.id] || now - espnLineupAt[e.id] > 180000) // refetch ≤ every 3 min
+    .slice(0, 10)
+    .forEach((e) => {
+      espnLineupAt[e.id] = now;
+      const c = e.competitions && e.competitions[0];
+      if (!c || !Array.isArray(c.competitors)) return;
+      const homeC = c.competitors.find((x) => x.homeAway === "home") || c.competitors[0];
+      const awayC = c.competitors.find((x) => x.homeAway === "away") || c.competitors[1];
+      if (!homeC || !awayC) return;
+      const hn = espnName(homeC.team.displayName), an = espnName(awayC.team.displayName);
+      const kind = e.status.type.state === "in" ? "live" : "announced";
+      fetch(sumUrl(e.id)).then((r) => (r.ok ? r.json() : null)).then((sum) => {
+        const lineup = espnParseLineup(sum, kind);
+        if (!lineup) return;
+        espnLineups[e.id] = { hn, an, lineup };
+        applyEspnLineups();
+        refreshOpenMatchInfo();
+      }).catch(() => {});
+    });
+}
+
 function pollEspnLive() {
   const day = (off) => { const d = new Date(Date.now() + off * 864e5); return d.toISOString().slice(0, 10).replace(/-/g, ""); };
   const url = (d) => `https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=${d}`;
@@ -1492,7 +1573,9 @@ function pollEspnLive() {
     const events = parts.filter(Boolean).flatMap((p) => p.events || []);
     if (!events.length) return;
     lastEspn = { events };
-    if (applyEspnOverlay(lastEspn)) rerenderAfterLiveUpdate();
+    const changed = applyEspnOverlay(lastEspn);
+    fetchEspnLineups(events);
+    if (changed) rerenderAfterLiveUpdate();
   });
 }
 
@@ -1509,6 +1592,7 @@ function pollLiveScores() {
     if (live && live.results && live.schedule) { window.WC_LIVE = live; changed = true; }
     if (football && football.teams) { window.WC_FOOTBALL = football; changed = true; }
     if (lastEspn) applyEspnOverlay(lastEspn); // keep ESPN's live data on top
+    applyEspnLineups();                       // and ESPN's live lineups
     if (!changed) return;
     rerenderAfterLiveUpdate();
   });
@@ -1635,9 +1719,11 @@ function renderLineupTab(data, home, away) {
   const perf = (data.report && data.report.players) || null;
   const banner = kind === "live"
     ? `<div class="mi-live"><span class="mi-dot"></span> Official lineup (live)</div>`
-    : kind === "final"
-      ? `<div class="mi-final">Final lineup &amp; player ratings from the match.</div>`
-      : `<div class="mi-last">Showing each side's most recent lineup (the official XI for an upcoming match is published shortly before kickoff).</div>`;
+    : kind === "announced"
+      ? `<div class="mi-live"><span class="mi-dot"></span> Confirmed starting XI</div>`
+      : kind === "final"
+        ? `<div class="mi-final">Final lineup &amp; player ratings from the match.</div>`
+        : `<div class="mi-last">Showing each side's most recent lineup (the official XI for an upcoming match is published shortly before kickoff).</div>`;
   return `${banner}
     ${renderGoalsSummary(data.report, home, away)}
     <div class="mi-xis">
