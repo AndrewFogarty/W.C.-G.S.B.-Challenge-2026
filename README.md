@@ -71,6 +71,30 @@ When configured, the app shows “🌐 Shared leaderboard”, submissions go to 
 database, and it polls every 45s (plus a **↻ Refresh** button). Blank config =
 local-only (“💾 This device”).
 
+## Group leaderboards / pools (optional, shared mode only)
+On top of the **🌐 Global** board you can run private **pools** — a pool is just
+a shared code (e.g. `FAMILY`). The same brackets and scoring apply; a pool board
+is the global list filtered to its members. Membership is many-to-many, so a
+person can be in several pools and still rank globally.
+
+- **Setup:** run `scripts/groups-setup.sql` once in the Supabase SQL editor (in
+  addition to the `submissions` table above). It adds a `groups` table, a
+  `memberships` table, and a `join_or_create_group()` function, and it moves
+  every **existing** bracket into a pool called **Family**.
+- **Who can create pools:** only the **admin** — the email set as `admin_email`
+  in `scripts/groups-setup.sql` (and `ADMIN_EMAIL` in `app.js`). Change both to
+  your own Google sign-in address. Everyone else can only **join** a pool that
+  already exists, using its code (and password, if set).
+- **Passwords:** pools can be password-protected. The password is checked
+  server-side and is never readable by clients. Set one when you create the pool
+  (admin only). To add/change a password later, run in the SQL editor:
+  ```sql
+  update groups set pass_hash = crypt('your-password', gen_salt('bf')) where code = 'FAMILY';
+  ```
+- **Joining / sharing:** use the **＋ Pool** tab to enter a code, or share an
+  invite link (`?group=CODE`) — opening it auto-joins (prompting for the
+  password if needed). Switch boards with the pool tabs above the table.
+
 ## Install as an app (PWA)
 The site is a Progressive Web App — open it on your phone and choose **"Add to
 Home Screen"** to install it; it launches full-screen and works offline (a

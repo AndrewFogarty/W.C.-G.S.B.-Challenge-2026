@@ -624,16 +624,17 @@ let authUser = null;
 
 async function initAuth() {
   if (!SHARED) { applyAuthUI(); return; }
+  pendingJoin = normCode(groupParam() || "") || null; // ?group= invite link
   try {
     const { data } = await SB.auth.getSession();
     authUser = (data && data.session && data.session.user) || null;
   } catch (e) { /* ignore */ }
   // The predictor is gated behind Google sign-in: you enter only when actually
   // signed in (a valid session counts). No account → the title screen stays up.
-  if (authUser) showApp();
+  if (authUser) { showApp(); consumePendingJoin(); }
   SB.auth.onAuthStateChange((_event, sess) => {
     authUser = (sess && sess.user) || null;
-    if (authUser) showApp();
+    if (authUser) { showApp(); consumePendingJoin(); }
     else showTitle(); // signed out → back to the gate
     applyAuthUI();
     refreshBoard();
@@ -796,6 +797,8 @@ async function loadBoardRemote() {
       mode: r.mode,
       ...(r.payload || {}),
     }));
+    await loadMembershipsRemote();
+    renderScopeTabs();
     renderLeaderboard();
     hydrateMyGuesses();
     // Bracket-made odds derive from `board`, so refresh the schedule odds
@@ -881,15 +884,169 @@ function hydrateMyGuesses() {
   else markPredictionAccuracy();
 }
 
+/* ================= Pools (group leaderboards) ================= */
+/* A "pool" is a shared code; the global board filtered to its members.
+   Many-to-many, so you can be in several pools and still rank globally.
+   Shared (Supabase) mode only — local-only mode keeps the single board. */
+let myGroups = [];          // pools the signed-in user is in: [{code, name}]
+let groupMembers = {};      // code -> Set(user_id), for filtering the board
+let boardScope = "global";  // "global" | a pool code
+let pendingJoin = null;     // pool code from a ?group= invite, applied after sign-in
+
+/* Only the admin can CREATE pools / set passwords (enforced server-side in the
+   join_or_create_group RPC; this is only for tailoring the UI). Keep in sync
+   with the admin_email in scripts/groups-setup.sql. */
+const ADMIN_EMAIL = "andrewfogarty111@gmail.com";
+function isAdmin() {
+  return !!authUser && (authUser.email || "").toLowerCase() === ADMIN_EMAIL;
+}
+
+function normCode(c) {
+  return (c || "").trim().toUpperCase().replace(/\s+/g, "-").slice(0, 32);
+}
+
+async function loadMembershipsRemote() {
+  try {
+    const { data, error } = await SB.from("memberships").select("user_id, group_code, group_name");
+    if (error) throw error;
+    groupMembers = {};
+    const mine = [];
+    for (const r of data || []) {
+      (groupMembers[r.group_code] || (groupMembers[r.group_code] = new Set())).add(r.user_id);
+      if (authUser && r.user_id === authUser.id) mine.push({ code: r.group_code, name: r.group_name || r.group_code });
+    }
+    myGroups = mine.sort((a, b) => a.name.localeCompare(b.name));
+    // If we're viewing a pool we're no longer in, fall back to global.
+    if (boardScope !== "global" && !myGroups.some((g) => g.code === boardScope)) boardScope = "global";
+  } catch (e) {
+    console.warn("memberships load failed:", e.message || e);
+  }
+}
+
+/* Join an existing pool (password checked server-side) or create it if the
+   code is new. Returns { ok, needPassword }. */
+async function joinGroup(code, password) {
+  code = normCode(code);
+  if (!SHARED || !code) return { ok: false };
+  if (!authUser) { pendingJoin = code; signInWithGoogle(); return { ok: false }; }
+  try {
+    const { error } = await SB.rpc("join_or_create_group", {
+      p_code: code, p_name: code, p_password: password || null,
+    });
+    if (error) {
+      const m = (error.message || "").toLowerCase();
+      if (/password/.test(m)) return { ok: false, needPassword: true };
+      if (/not found/.test(m)) return { ok: false, notFound: true };
+      throw error;
+    }
+    boardScope = code;
+    await loadBoardRemote();
+    return { ok: true };
+  } catch (e) {
+    alert("Couldn't join pool: " + (e.message || e));
+    return { ok: false };
+  }
+}
+
+async function leaveGroup(code) {
+  if (!SHARED || !authUser) return;
+  const g = myGroups.find((x) => x.code === code);
+  if (!confirm(`Leave “${(g && g.name) || code}”? You can rejoin with the code.`)) return;
+  try {
+    const { error } = await SB.from("memberships").delete().eq("user_id", authUser.id).eq("group_code", code);
+    if (error) throw error;
+    boardScope = "global";
+    await loadBoardRemote();
+  } catch (e) {
+    alert("Couldn't leave pool: " + (e.message || e));
+  }
+}
+
+/* Apply a ?group= invite once the user is signed in. */
+async function consumePendingJoin() {
+  if (!pendingJoin || !SHARED || !authUser) return;
+  const code = pendingJoin;
+  pendingJoin = null;
+  clearGroupParam();
+  const res = await joinGroup(code);
+  if (!res.ok && res.needPassword) openJoinPanel(code, `“${code}” needs a password.`);
+  else if (!res.ok && res.notFound) openJoinPanel(code, `No pool “${code}” yet.`);
+}
+function groupParam() {
+  try { return new URLSearchParams(location.search).get("group"); } catch (e) { return null; }
+}
+function clearGroupParam() {
+  try {
+    const u = new URL(location.href);
+    u.searchParams.delete("group");
+    history.replaceState(null, "", u.pathname + u.search + u.hash);
+  } catch (e) { /* ignore */ }
+}
+
+/* ---- Pool UI: scope tabs, join panel, invite/leave actions ---- */
+function renderScopeTabs() {
+  const el = document.getElementById("board-tabs");
+  if (!el) return;
+  if (!SHARED) { el.style.display = "none"; return; }
+  const globalCount = board.filter((s) => !HIDDEN_USERS.has(s.username)).length;
+  const tabs = [{ code: "global", label: "🌐 Global", count: globalCount }].concat(
+    myGroups.map((g) => ({ code: g.code, label: g.name, count: (groupMembers[g.code] || new Set()).size }))
+  );
+  el.innerHTML =
+    tabs.map((t) =>
+      `<button class="board-tab${t.code === boardScope ? " active" : ""}" data-code="${escapeHtml(t.code)}" role="tab" aria-selected="${t.code === boardScope}">${escapeHtml(t.label)} <span class="bt-count">${t.count}</span></button>`
+    ).join("") +
+    `<button class="board-tab join" data-code="__join__" type="button" title="Join or create a pool">＋ Pool</button>`;
+  renderPoolActions();
+}
+
+function renderPoolActions() {
+  const el = document.getElementById("pool-actions");
+  if (!el) return;
+  if (!SHARED || boardScope === "global") { el.innerHTML = ""; return; }
+  const g = myGroups.find((x) => x.code === boardScope);
+  el.innerHTML =
+    `<button class="btn ghost" id="copy-invite" type="button">🔗 Copy invite link</button>` +
+    `<button class="btn ghost" id="leave-pool" type="button">Leave “${escapeHtml((g && g.name) || boardScope)}”</button>`;
+}
+
+function openJoinPanel(prefill, msg) {
+  const panel = document.getElementById("join-panel");
+  if (!panel) return;
+  panel.hidden = false;
+  const code = document.getElementById("join-code");
+  const pass = document.getElementById("join-pass");
+  const go = document.getElementById("join-go");
+  const m = document.getElementById("join-msg");
+  const admin = isAdmin();
+  // Only the admin can create pools / set passwords; everyone else only joins.
+  if (go) go.textContent = admin ? "Join / create" : "Join pool";
+  if (pass) pass.placeholder = admin ? "Set a password (optional)" : "Password (if required)";
+  if (code && prefill != null) code.value = prefill;
+  if (pass) pass.value = "";
+  if (m) m.textContent = msg || "";
+  const focusEl = prefill ? (pass || code) : code;
+  if (focusEl) focusEl.focus();
+}
+function closeJoinPanel() {
+  const panel = document.getElementById("join-panel");
+  if (panel) panel.hidden = true;
+}
+
 function setupBoardUI() {
   const scope = document.getElementById("board-scope");
   const clear = document.getElementById("clear-board");
   if (SHARED) {
     if (scope) scope.textContent = "🌐 Shared leaderboard";
     if (clear) clear.style.display = "none";
+    renderScopeTabs();
     setInterval(loadBoardRemote, 45000); // keep roughly in sync
-  } else if (scope) {
-    scope.textContent = "💾 This device";
+  } else {
+    if (scope) scope.textContent = "💾 This device";
+    ["board-tabs", "join-panel", "pool-actions"].forEach((id) => {
+      const e = document.getElementById(id);
+      if (e) e.style.display = "none";
+    });
   }
 }
 
@@ -1127,12 +1284,20 @@ function setSubmitted() {
 function renderLeaderboard() {
   const tbody = document.querySelector("#leaderboard-table tbody");
   if (!tbody) return;
-  const rows = board
-    .filter((s) => !HIDDEN_USERS.has(s.username))
+  let pool = board.filter((s) => !HIDDEN_USERS.has(s.username));
+  const inPool = SHARED && boardScope !== "global";
+  if (inPool) {
+    const members = groupMembers[boardScope] || new Set();
+    pool = pool.filter((s) => members.has(s.user_id));
+  }
+  const rows = pool
     .map((s) => ({ sub: s, sc: scoreSubmission(s) }))
     .sort((a, b) => b.sc.total - a.sc.total || a.sub.createdAt.localeCompare(b.sub.createdAt));
   if (rows.length === 0) {
-    tbody.innerHTML = `<tr><td colspan="6" class="empty-row">No entries yet — submit a bracket above to start the leaderboard.</td></tr>`;
+    const msg = inPool
+      ? "No one in this pool yet — share the invite link to fill it up."
+      : "No entries yet — submit a bracket above to start the leaderboard.";
+    tbody.innerHTML = `<tr><td colspan="6" class="empty-row">${msg}</td></tr>`;
     return;
   }
   const mineId = myId();
@@ -2741,6 +2906,44 @@ function wireEvents() {
     saveBoard();
     renderLeaderboard();
     document.getElementById("scorecard").innerHTML = "";
+  });
+  // Pool scope tabs + join panel + invite/leave actions (shared mode only).
+  const boardTabs = document.getElementById("board-tabs");
+  if (boardTabs) boardTabs.addEventListener("click", (e) => {
+    const tab = e.target.closest(".board-tab");
+    if (!tab) return;
+    const code = tab.dataset.code;
+    if (code === "__join__") { openJoinPanel("", ""); return; }
+    boardScope = code;
+    closeJoinPanel();
+    renderScopeTabs();
+    renderLeaderboard();
+  });
+  const joinPanel = document.getElementById("join-panel");
+  if (joinPanel) joinPanel.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const msg = document.getElementById("join-msg");
+    const code = document.getElementById("join-code").value;
+    const pass = document.getElementById("join-pass").value;
+    if (!normCode(code)) { if (msg) msg.textContent = "Enter a pool code."; return; }
+    if (msg) msg.textContent = "…";
+    const res = await joinGroup(code, pass);
+    if (res.ok) { closeJoinPanel(); renderScopeTabs(); renderLeaderboard(); }
+    else if (res.needPassword && msg) msg.textContent = "Wrong or missing password — try again.";
+    else if (res.notFound && msg) msg.textContent = "No pool with that code — ask the organizer to create it.";
+    else if (msg) msg.textContent = "";
+  });
+  const joinCancel = document.getElementById("join-cancel");
+  if (joinCancel) joinCancel.addEventListener("click", closeJoinPanel);
+  const poolActions = document.getElementById("pool-actions");
+  if (poolActions) poolActions.addEventListener("click", (e) => {
+    if (e.target.closest("#copy-invite")) {
+      const link = `${location.origin}${location.pathname}?group=${encodeURIComponent(boardScope)}`;
+      const done = () => { const b = document.getElementById("copy-invite"); if (b) { const t = b.textContent; b.textContent = "✓ Copied"; setTimeout(() => (b.textContent = t), 1500); } };
+      if (navigator.clipboard) navigator.clipboard.writeText(link).then(done, () => prompt("Copy this invite link:", link));
+      else prompt("Copy this invite link:", link);
+    }
+    if (e.target.closest("#leave-pool")) leaveGroup(boardScope);
   });
   document.getElementById("leaderboard-table").addEventListener("click", (e) => {
     const view = e.target.closest(".lb-view");

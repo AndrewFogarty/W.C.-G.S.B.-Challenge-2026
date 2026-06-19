@@ -185,6 +185,17 @@
           <button id="clear-board" class="btn ghost" type="button">Clear all</button>
           <span id="board-scope" class="board-scope"></span>
         </div>
+        <div id="board-tabs" class="board-tabs" role="tablist" aria-label="Leaderboard scope"></div>
+        <form id="join-panel" class="join-panel" hidden>
+          <input id="join-code" type="text" maxlength="32" placeholder="Pool code (e.g. FAMILY)"
+                 aria-label="Pool code" autocomplete="off" autocapitalize="characters" />
+          <input id="join-pass" type="password" maxlength="64" placeholder="Password (optional)"
+                 aria-label="Pool password" autocomplete="off" />
+          <button id="join-go" class="btn" type="submit">Join / create</button>
+          <button id="join-cancel" class="btn ghost" type="button">Cancel</button>
+          <span id="join-msg" class="join-msg" role="status"></span>
+        </form>
+        <div id="pool-actions" class="pool-actions"></div>
         <div class="table-wrap">
           <table id="leaderboard-table">
             <thead>

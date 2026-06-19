@@ -1395,6 +1395,80 @@ body {
   color: rgba(255, 255, 255, 0.62);
 }
 
+/* ---- Pool (group leaderboard) tabs + join panel ---- */
+.board-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.2rem 0 0.9rem;
+}
+.board-tab {
+  font-family: var(--cond);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.92rem;
+  color: rgba(255, 255, 255, 0.82);
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 999px;
+  padding: 0.4rem 0.85rem;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+.board-tab:hover {
+  background: rgba(255, 255, 255, 0.16);
+}
+.board-tab.active {
+  color: #16223b;
+  background: #ffd23f;
+  border-color: #ffd23f;
+}
+.board-tab .bt-count {
+  opacity: 0.7;
+  font-size: 0.82em;
+  margin-left: 0.15rem;
+}
+.board-tab.active .bt-count {
+  opacity: 0.85;
+}
+.board-tab.join {
+  background: transparent;
+  border-style: dashed;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.join-panel {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0 0 0.9rem;
+}
+.join-panel input {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  color: #16223b;
+  background: rgba(255, 255, 255, 0.94);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 8px;
+  padding: 0.5rem 0.7rem;
+}
+.join-msg {
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 0.88rem;
+}
+
+.pool-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: -0.3rem 0 0.9rem;
+}
+.pool-actions:empty {
+  margin: 0;
+}
+
 /* scorecard on the dark panel */
 .scorecard {
   border-top-color: rgba(255, 255, 255, 0.16);
