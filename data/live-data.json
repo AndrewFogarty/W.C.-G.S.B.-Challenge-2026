@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-06-20T10:12:52.912Z",
+  "updated": "2026-06-20T20:52:14.169Z",
   "results": {
     "A": [
       [
@@ -105,7 +105,10 @@
         5,
         1
       ],
-      null,
+      [
+        5,
+        1
+      ],
       null,
       null,
       null
@@ -529,8 +532,8 @@
       "s": "F",
       "h": "Netherlands",
       "a": "Sweden",
-      "hg": null,
-      "ag": null,
+      "hg": 5,
+      "ag": 1,
       "v": "NRG Stadium (Houston, USA)"
     },
     {
