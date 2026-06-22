@@ -181,6 +181,21 @@ function toItem(a, hint) {
   };
 }
 
+/* Importance score — drives the "top stories" the app highlights.
+   Blends recency, ESPN's editorial order (lead stories first), the kind
+   of story, and how richly it's tagged. */
+const KIND_WEIGHT = { injury: 14, offfield: 12, preview: 9, celebration: 7, news: 0 };
+function scoreItem(a) {
+  const hrs = a.published ? (Date.now() - Date.parse(a.published)) / 3.6e6 : 72;
+  let s = Math.max(0, 120 - hrs * 1.5); // recency, decays over ~3 days
+  if (a.editorialRank != null && a.editorialRank < 8) s += (8 - a.editorialRank) * 10;
+  s += KIND_WEIGHT[a.kind] || 0;
+  if (a.image) s += 6;
+  if ((a.teams || []).length) s += 4;
+  if ((a.players || []).length) s += 3;
+  return Math.round(s);
+}
+
 /* Signature used to decide whether anything actually changed. */
 function signature(items) {
   return JSON.stringify(
@@ -205,10 +220,11 @@ async function main() {
   /* While walking the team feed, learn which players appear and which
      WC team each one is tied to (the team tagged on the same article). */
   const playerHint = new Map(); // athleteId -> { id, name, team }
-  for (const a of teamFeed.articles || []) {
+  (teamFeed.articles || []).forEach((a, idx) => {
     const item = toItem(a, null);
+    if (item) item.editorialRank = idx; // ESPN's lead-story ordering
     add(item);
-    if (!item) continue;
+    if (!item) return;
     const team = item.teams[0] || null;
     for (const p of athletesOf(a)) {
       if (!p.id) continue;
@@ -216,7 +232,7 @@ async function main() {
       if (!prev) playerHint.set(p.id, { id: p.id, name: p.name, team });
       else if (!prev.team && team) prev.team = team;
     }
-  }
+  });
 
   /* 2) Per-player feeds for the most-mentioned WC players — this is
         where ESPN files individual injury / transfer / off-field news. */
@@ -235,10 +251,13 @@ async function main() {
     }
   });
 
-  /* 3) Newest first, capped. */
+  /* 3) Score, rank by importance, cap. The app highlights the top few
+        and lets you sort by "newest" client-side via `published`. */
   const items = [...byId.values()]
-    .sort((x, y) => String(y.published).localeCompare(String(x.published)))
-    .slice(0, KEEP);
+    .map((a) => ({ ...a, score: scoreItem(a) }))
+    .sort((x, y) => y.score - x.score || String(y.published).localeCompare(String(x.published)))
+    .slice(0, KEEP)
+    .map(({ editorialRank, ...rest }) => rest); // internal-only, drop from output
 
   if (!items.length) {
     console.log("No articles returned — leaving existing news untouched.");

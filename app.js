@@ -3995,8 +3995,12 @@ const NEWS_KIND_META = {
   news:        { label: "Other",          icon: "\u{26BD}" },
 };
 
-let newsFilter = "all";      // kind chip
+let newsKind = "all";        // category dropdown
 let newsTeamFilter = "all";  // team dropdown
+let newsQuery = "";          // search box
+let newsSort = "importance"; // importance | newest
+let newsShowAll = false;     // expanded out of the top-stories view
+const NEWS_FEATURED = 5;     // how many "top stories" to highlight by default
 
 function newsAgo(iso) {
   const t = Date.parse(iso);
@@ -4015,16 +4019,17 @@ function escHtml(s) {
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
 
-function newsCard(a) {
+function newsCard(a, lead) {
   const meta = NEWS_KIND_META[a.kind] || NEWS_KIND_META.news;
   const teams = (a.teams || []).slice(0, 3).map((t) =>
     `<span class="news-team">${flagFor(t)}${escHtml(t)}</span>`).join("");
   const players = (a.players || []).slice(0, 3).map((p) =>
     `<span class="news-player">${escHtml(p)}</span>`).join("");
+  const isLead = lead && a.image;
   const img = a.image
     ? `<div class="news-thumb"><img src="${escHtml(a.image)}" alt="" loading="lazy" decoding="async" /></div>`
     : "";
-  return `<a class="news-card kind-${a.kind}" href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer">
+  return `<a class="news-card kind-${a.kind}${isLead ? " news-card--lead" : ""}" href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer">
     ${img}
     <div class="news-body">
       <div class="news-meta">
@@ -4038,13 +4043,74 @@ function newsCard(a) {
   </a>`;
 }
 
-function renderNews() {
-  const grid = document.getElementById("news-grid");
-  const filters = document.getElementById("news-filters");
-  const data = window.WC_NEWS;
-  if (!grid) return;
+function newsMatch(a, q) {
+  if (!q) return true;
+  const hay = `${a.headline} ${a.description} ${(a.teams || []).join(" ")} ${(a.players || []).join(" ")}`.toLowerCase();
+  return q.toLowerCase().split(/\s+/).filter(Boolean).every((w) => hay.includes(w));
+}
 
+// Keep the control DOM in sync with state (used after a reset).
+function syncNewsControls() {
+  const set = (id, v) => { const el = document.getElementById(id); if (el) el.value = v; };
+  set("news-search", newsQuery);
+  set("news-team-filter", newsTeamFilter);
+  set("news-kind-filter", newsKind);
+  set("news-sort", newsSort);
+}
+
+// Recompute the list + summary only (leaves the control bar untouched, so
+// the search box keeps focus while you type).
+function renderNewsResults() {
+  const data = window.WC_NEWS;
+  const grid = document.getElementById("news-grid");
+  const summary = document.getElementById("news-summary");
+  if (!data || !grid) return;
+
+  let list = data.items.filter((a) =>
+    (newsTeamFilter === "all" || (a.teams || []).includes(newsTeamFilter)) &&
+    (newsKind === "all" || a.kind === newsKind) &&
+    newsMatch(a, newsQuery));
+
+  const browsing = !!(newsQuery || newsTeamFilter !== "all" || newsKind !== "all" || newsShowAll);
+  const featured = !browsing;
+
+  // Featured "top stories" always rank by importance; the Sort control only
+  // applies once you're browsing.
+  const byNewest = browsing && newsSort === "newest";
+  list = list.slice().sort(byNewest
+    ? (x, y) => String(y.published).localeCompare(String(x.published))
+    : (x, y) => (y.score || 0) - (x.score || 0));
+
+  const shown = featured ? list.slice(0, NEWS_FEATURED) : list;
+
+  if (summary) {
+    if (featured) {
+      summary.innerHTML = `<span class="news-count">Top ${shown.length} stories</span>`
+        + ` <button class="news-link" id="news-browse" type="button">Browse all ${data.items.length} →</button>`;
+    } else {
+      const n = list.length;
+      summary.innerHTML = `<span class="news-count">${n} ${n === 1 ? "story" : "stories"}${newsQuery ? ` for “${escHtml(newsQuery)}”` : ""}</span>`
+        + ` <button class="news-link" id="news-reset" type="button">← Back to top stories</button>`;
+    }
+  }
+
+  grid.innerHTML = shown.map((a, i) => newsCard(a, featured && i === 0)).join("")
+    || `<p class="news-empty">No stories match — try clearing the search or filters.</p>`;
+
+  const browse = document.getElementById("news-browse");
+  if (browse) browse.onclick = () => { newsShowAll = true; renderNewsResults(); };
+  const reset = document.getElementById("news-reset");
+  if (reset) reset.onclick = () => {
+    newsQuery = ""; newsTeamFilter = "all"; newsKind = "all"; newsShowAll = false;
+    syncNewsControls();
+    renderNewsResults();
+  };
+}
+
+function renderNews() {
+  const data = window.WC_NEWS;
   const section = document.getElementById("news-section");
+  const filters = document.getElementById("news-filters");
   if (!data || !(data.items || []).length) {
     if (section) section.style.display = "none";
     return;
@@ -4054,49 +4120,37 @@ function renderNews() {
   const updEl = document.getElementById("news-updated");
   if (updEl) updEl.textContent = data.updated ? `updated ${newsAgo(data.updated)}` : "";
 
-  // Teams that actually appear in the feed, alphabetical, with counts.
-  const teamCounts = {};
-  data.items.forEach((a) => (a.teams || []).forEach((t) => (teamCounts[t] = (teamCounts[t] || 0) + 1)));
-  const teamNames = Object.keys(teamCounts).sort((a, b) => a.localeCompare(b));
-  if (!teamNames.includes(newsTeamFilter)) newsTeamFilter = "all"; // reset if it vanished
+  // Build the control bar once so typing in the search box doesn't lose focus
+  // on every re-render.
+  if (filters && !filters.dataset.built) {
+    const teamCounts = {};
+    data.items.forEach((a) => (a.teams || []).forEach((t) => (teamCounts[t] = (teamCounts[t] || 0) + 1)));
+    const teamNames = Object.keys(teamCounts).sort((a, b) => a.localeCompare(b));
+    const teamOpts = [`<option value="all">All teams</option>`]
+      .concat(teamNames.map((t) => `<option value="${escHtml(t)}">${escHtml(t)} (${teamCounts[t]})</option>`)).join("");
+    const kindOpts = [`<option value="all">All categories</option>`]
+      .concat(["injury", "offfield", "celebration", "preview", "news"].map((k) =>
+        `<option value="${k}">${NEWS_KIND_META[k].label}</option>`)).join("");
 
-  // Apply the team filter first; kind chip counts reflect the current team.
-  const teamScoped = newsTeamFilter === "all"
-    ? data.items
-    : data.items.filter((a) => (a.teams || []).includes(newsTeamFilter));
+    filters.innerHTML =
+      `<div class="news-search-wrap">`
+      + `<svg class="news-search-ic" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>`
+      + `<input id="news-search" class="news-search" type="search" placeholder="Search players, teams, stories…" autocomplete="off" aria-label="Search news" />`
+      + `</div>`
+      + `<label class="news-sel"><span class="nts-label">Team</span><select id="news-team-filter">${teamOpts}</select></label>`
+      + `<label class="news-sel"><span class="nts-label">Category</span><select id="news-kind-filter">${kindOpts}</select></label>`
+      + `<label class="news-sel"><span class="nts-label">Sort</span><select id="news-sort"><option value="importance">Most important</option><option value="newest">Newest</option></select></label>`;
 
-  // Filter chips: All + each kind present in the team-scoped set.
-  const counts = teamScoped.reduce((m, a) => ((m[a.kind] = (m[a.kind] || 0) + 1), m), {});
-  const order = ["injury", "offfield", "celebration", "preview", "news"];
-  if (!counts[newsFilter] && newsFilter !== "all") newsFilter = "all"; // reset stale chip
-
-  const teamOpts = [`<option value="all"${newsTeamFilter === "all" ? " selected" : ""}>All teams (${data.items.length})</option>`]
-    .concat(teamNames.map((t) =>
-      `<option value="${escHtml(t)}"${newsTeamFilter === t ? " selected" : ""}>${escHtml(t)} (${teamCounts[t]})</option>`))
-    .join("");
-  const teamSelect = `<label class="news-team-select"><span class="nts-label">Team</span><select id="news-team-filter">${teamOpts}</select></label>`;
-
-  const chips = [`<button class="news-chip${newsFilter === "all" ? " active" : ""}" data-kind="all" type="button">All <span class="chip-n">${teamScoped.length}</span></button>`];
-  for (const k of order) {
-    if (!counts[k]) continue;
-    const meta = NEWS_KIND_META[k];
-    chips.push(`<button class="news-chip${newsFilter === k ? " active" : ""}" data-kind="${k}" type="button">${meta.icon} ${meta.label} <span class="chip-n">${counts[k]}</span></button>`);
+    const q = filters.querySelector("#news-search");
+    q.addEventListener("input", () => { newsQuery = q.value.trim(); renderNewsResults(); });
+    filters.querySelector("#news-team-filter").addEventListener("change", (e) => { newsTeamFilter = e.target.value; renderNewsResults(); });
+    filters.querySelector("#news-kind-filter").addEventListener("change", (e) => { newsKind = e.target.value; renderNewsResults(); });
+    filters.querySelector("#news-sort").addEventListener("change", (e) => { newsSort = e.target.value; renderNewsResults(); });
+    filters.dataset.built = "1";
   }
 
-  if (filters) {
-    filters.innerHTML = teamSelect + `<div class="news-chips">${chips.join("")}</div>`;
-    const sel = filters.querySelector("#news-team-filter");
-    if (sel) sel.addEventListener("change", () => { newsTeamFilter = sel.value; renderNews(); });
-    filters.querySelectorAll(".news-chip").forEach((btn) => {
-      btn.addEventListener("click", () => { newsFilter = btn.dataset.kind; renderNews(); });
-    });
-  }
-
-  const shown = newsFilter === "all"
-    ? teamScoped
-    : teamScoped.filter((a) => a.kind === newsFilter);
-  grid.innerHTML = shown.map(newsCard).join("") ||
-    `<p class="news-empty">Nothing matches these filters right now.</p>`;
+  syncNewsControls();
+  renderNewsResults();
 }
 
 function initCountdowns() {
