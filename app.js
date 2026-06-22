@@ -3088,6 +3088,35 @@ function liveWcMap() {
   return map;
 }
 
+/* Normalised name key for matching ESPN scorer names to record players. */
+function normName(s) {
+  return (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z]/g, "");
+}
+
+/* Provisional in-play goals by normalised player name, parsed straight from the
+   ESPN scoreboard (live matches only). Lets the all-time records reflect a goal
+   the instant it's scored — before the official per-player stats catch up. No
+   double-count: these are goals from matches still in progress, which the
+   official `wcGoals` (finished matches) doesn't include yet. */
+function espnLiveGoals() {
+  const map = {};
+  const events = (lastEspn && lastEspn.events) || [];
+  for (const e of events) {
+    const st = (e.status && e.status.type) || {};
+    if (st.state !== "in") continue;                       // live matches only
+    const c = (e.competitions && e.competitions[0]) || {};
+    for (const d of c.details || []) {
+      if (!d.scoringPlay) continue;
+      if (/own goal/i.test((d.type && d.type.text) || "")) continue; // not credited to scorer
+      const scorer = (d.athletesInvolved || [])[0];
+      if (!scorer || !scorer.displayName) continue;
+      const k = normName(scorer.displayName);
+      map[k] = (map[k] || 0) + 1;
+    }
+  }
+  return map;
+}
+
 /* Top goal+assist contributors in the current tournament (fully live). */
 function tournamentGARows() {
   const f = window.WC_FOOTBALL;
@@ -3164,6 +3193,7 @@ function renderHistory() {
   const noteEl = document.querySelector(".wch-note");
   if (noteEl) noteEl.textContent = data.note || "";
   const live = liveWcMap();
+  const espnLive = espnLiveGoals(); // provisional in-play goals by normalised name
 
   grid.innerHTML = (data.panels || []).map((p) => {
     let rows;
@@ -3175,11 +3205,13 @@ function renderHistory() {
     } else {
       rows = (p.rows || []).map((r) => {
         const L = r.id ? live[r.id] : null;
+        // Provisional in-play goals for this player (goals panels only).
+        const prov = (p.key === "goals" || p.key === "ga") ? (espnLive[normName(r.name)] || 0) : 0;
         let value, sub = r.sub, add = 0;
         if (p.key === "ga") {
           let g = r.g || 0, a = r.a || 0;
           if (L) { g += L.goals; a += L.assists; add = L.goals + L.assists; }
-          value = g + a; sub = `${g} G · ${a} A`;
+          g += prov; value = g + a; sub = `${g} G · ${a} A`;
         } else if (p.key === "active_wins") {
           // Stage-weighted: title +6, Final 8, Semi 5, Quarter 3, R16 2.
           value = (r.t || 0) * 6 + (r.f || 0) * 8 + (r.sf || 0) * 5 + (r.qf || 0) * 3 + (r.r16 || 0) * 2;
@@ -3189,8 +3221,9 @@ function renderHistory() {
             add = p.key === "goals" ? L.goals : p.key === "assists" ? L.assists : 0;
             value += add;
           }
+          value += prov;
         }
-        return { name: r.name, code: r.code, displayValue: value, sub, add };
+        return { name: r.name, code: r.code, displayValue: value, sub, add, prov };
       });
       if (["goals", "assists", "ga", "active_wins"].includes(p.key)) {
         rows.sort((x, y) => y.displayValue - x.displayValue);
@@ -3204,7 +3237,7 @@ function renderHistory() {
           <span class="wch-rank">${i + 1}</span>
           <span class="wch-flag">${flagHtml(r.code)}</span>
           <span class="wch-name"><span class="wch-nm">${escapeHtml(r.name)}</span>${r.sub ? `<span class="wch-sub">${escapeHtml(r.sub)}</span>` : ""}</span>
-          <span class="wch-val">${escapeHtml(String(r.displayValue))}${r.add ? `<span class="wch-live" title="+${r.add} at the 2026 World Cup">+${r.add}</span>` : ""}</span>
+          <span class="wch-val">${escapeHtml(String(r.displayValue))}${r.add ? `<span class="wch-live" title="+${r.add} at the 2026 World Cup">+${r.add}</span>` : ""}${r.prov ? `<span class="wch-prov" title="+${r.prov} live — scored in a match in progress (provisional until the official stats update)">● +${r.prov}</span>` : ""}</span>
         </li>`).join("")
       : `<li class="wch-row"><span class="wch-empty">Nothing here yet — check back after kickoff.</span></li>`;
 

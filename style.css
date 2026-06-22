@@ -3045,6 +3045,20 @@ body.mi-open { overflow: hidden; }
   border-radius: 4px;
   padding: 0 3px;
 }
+/* provisional in-play goal bump (parsed live from the scoreboard) */
+.wch-prov {
+  font-family: var(--sans);
+  font-size: 0.62rem;
+  font-weight: 800;
+  color: #ff5a3c;
+  background: rgba(255, 90, 60, 0.16);
+  border-radius: 4px;
+  padding: 0 4px;
+  white-space: nowrap;
+  animation: wch-prov-pulse 1.4s ease-in-out infinite;
+}
+@keyframes wch-prov-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+
 .wch-card-live { border-color: rgba(255, 99, 71, 0.4); box-shadow: 0 0 0 1px rgba(255, 99, 71, 0.25) inset; }
 .wch-livebadge {
   flex: 0 0 auto;
