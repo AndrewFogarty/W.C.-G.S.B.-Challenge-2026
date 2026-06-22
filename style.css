@@ -639,9 +639,13 @@ tbody tr.eliminated {
 .bracket.two-sided .round { min-width: 150px; }
 .bracket.two-sided .final-col { min-width: 200px; }
 
-/* ---- view switch: show one round at a time ---- */
+/* ---- view switch: show one section at a time ---- */
+/* Second-chance and Records each live in their own tab; hidden otherwise. */
 #second-section { display: none; }
+#wc-history { display: none; }
 body.view-second #second-section { display: block; }
+body.view-records #wc-history { display: block; }
+
 body.view-second #official-bracket-section,
 body.view-second #schedule-section,
 body.view-second #groups,
@@ -649,7 +653,15 @@ body.view-second #thirds-section,
 body.view-second #bracket-section,
 body.view-second #wc-history,
 body.view-second #leaderboard-section,
-body.view-second .stars-banner { display: none; }
+body.view-second .stars-banner,
+body.view-records #official-bracket-section,
+body.view-records #schedule-section,
+body.view-records #groups,
+body.view-records #thirds-section,
+body.view-records #bracket-section,
+body.view-records #second-section,
+body.view-records #leaderboard-section,
+body.view-records .stars-banner { display: none; }
 
 /* ---- official bracket status pill ---- */
 .official-pill {

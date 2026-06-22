@@ -3,7 +3,7 @@
    - HTML/CSS/JS/live data: network-first (always fresh online, cached offline)
    - images/fonts: cache-first (rarely change)
    Bump CACHE on meaningful releases to evict old caches.                     */
-const CACHE = "gsb-v19";
+const CACHE = "gsb-v20";
 const CORE = [
   "./",
   "./index.html",
