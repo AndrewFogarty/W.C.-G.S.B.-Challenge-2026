@@ -268,16 +268,29 @@ function clinchInfo(group) {
   const base = realScores(group);
   const rem = [];
   base.forEach((s, i) => { if (s[0] == null) rem.push(i); });
-  const out = { x: {}, y: {}, posClinched: { 1: false, 2: false } };
+  const out = { x: {}, y: {}, posClinched: { 1: false, 2: false }, elim: {} };
   if (rem.length === 0) {
     // Group finished — 1st and 2nd are final, mark them directly (handles
     // positions decided on GD/GF tiebreakers, which the points-only path can't).
     const r = GSB.rankGroup(names, base);
     if (r[0]) { out.x[r[0].idx] = true; out.posClinched[1] = true; }
     if (r[1]) { out.y[r[1].idx] = true; out.posClinched[2] = true; }
+    if (r[3]) out.elim[r[3].idx] = true; // 4th is out (3rd handled with the thirds table)
     return out;
   }
-  if (rem.length > 4) return out; // too early — nothing can be clinched yet
+  if (rem.length > 4) return out; // too early — nothing clinched or eliminated yet
+
+  // Mathematical elimination: a team is out only when it's guaranteed to finish
+  // 4th — i.e. three group-mates already have more points than this team's
+  // maximum possible (current + 3 per remaining game). Conservative, so a team
+  // that has only played once can never be flagged.
+  const cur = GSB.computeStats(names, base);
+  names.forEach((_, i) => {
+    const remGames = rem.filter((m) => FIXTURES[m].includes(i)).length;
+    const maxP = cur[i].pts + 3 * remGames;
+    const above = cur.filter((o) => o.idx !== i && o.pts > maxP).length;
+    if (above >= 3) out.elim[i] = true;
+  });
 
   const WDL = [[1, 0], [0, 0], [0, 1]];
   // For each team: worst case = max number of other teams that reach/exceed its
@@ -813,8 +826,15 @@ function renderOfficialStandings() {
     host.innerHTML = GROUP_LETTERS.map((g) => {
       const ranked = rankGroup(g);
       const cl = clinchInfo(g);
+      const complete = realScores(g).every((s) => s[0] != null);
       const rows = ranked.map((s, pos) => {
-        const cls = pos < 2 ? "qualified" : pos === 2 ? (advancing.has(g) ? "adv" : "out") : "out";
+        // Cross-out is reserved for mathematical elimination (or a finished
+        // group's non-qualifying 3rd); 1st/2nd green and advancing-3rd green are
+        // live-position shading, x/y appear only once clinched.
+        const struck = cl.elim[s.idx] || (complete && pos === 2 && !advancing.has(g));
+        const cls = struck ? "out"
+          : pos < 2 ? "qualified"
+          : pos === 2 && advancing.has(g) ? "adv" : "";
         const mark = cl.x[s.idx] ? '<span class="os-x">x</span>'
           : cl.y[s.idx] ? '<span class="os-y">y</span>' : "";
         return `<tr class="${cls}">
