@@ -957,10 +957,9 @@ function setMode(mode) {
    second-chance button stays disabled until the knockout round opens. */
 let currentView = "main";
 function setView(view) {
-  currentView = ["second", "records"].includes(view) ? view : "main";
+  currentView = view === "second" ? "second" : "main";
   document.body.classList.toggle("view-second", currentView === "second");
-  document.body.classList.toggle("view-records", currentView === "records");
-  [["view-main", "main"], ["view-second", "second"], ["view-records", "records"]].forEach(([id, v]) => {
+  [["view-main", "main"], ["view-second", "second"]].forEach(([id, v]) => {
     const b = document.getElementById(id);
     if (b) b.classList.toggle("active", currentView === v);
   });
@@ -968,10 +967,6 @@ function setView(view) {
     renderSecondBracket();
     const sec = document.getElementById("second-section");
     if (sec) sec.scrollIntoView({ behavior: "smooth", block: "start" });
-  } else if (currentView === "records") {
-    renderHistory();
-    const rec = document.getElementById("wc-history");
-    if (rec) rec.scrollIntoView({ behavior: "smooth", block: "start" });
   }
   fitBrackets(); // size whichever brackets just became visible
 }
@@ -3524,8 +3519,6 @@ function wireEvents() {
   const vSecond = document.getElementById("view-second");
   if (vMain) vMain.addEventListener("click", () => setView("main"));
   if (vSecond) vSecond.addEventListener("click", () => setView("second"));
-  const vRecords = document.getElementById("view-records");
-  if (vRecords) vRecords.addEventListener("click", () => setView("records"));
   const submitSecond = document.getElementById("submit-second");
   if (submitSecond) submitSecond.addEventListener("click", submitSecondChance);
   const copyMain = document.getElementById("copy-main-bracket");
