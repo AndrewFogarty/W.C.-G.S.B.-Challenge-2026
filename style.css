@@ -3124,10 +3124,12 @@ body.mi-open { overflow: hidden; }
   border-radius: 16px;
   color: #eaf0fb;
   border: 1px solid rgba(255, 255, 255, 0.12);
+  /* "Walk.jpg" — the stars walking toward the trophy, same image that fills the
+     lower half of the records panel — sits behind this section. A dark gradient
+     is layered over it so the headlines stay legible. */
   background:
-    linear-gradient(180deg, rgba(12, 18, 44, 0.74), rgba(18, 14, 36, 0.76));
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
+    linear-gradient(180deg, rgba(12, 18, 44, 0.82), rgba(18, 14, 36, 0.86)),
+    url("images/Walk.jpg") center bottom / cover no-repeat;
   box-shadow: 0 14px 34px rgba(0, 0, 0, 0.30);
 }
 .news-section .section-head h2 { color: #fff; }
