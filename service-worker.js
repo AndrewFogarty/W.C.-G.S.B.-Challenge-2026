@@ -3,7 +3,7 @@
    - HTML/CSS/JS/live data: network-first (always fresh online, cached offline)
    - images/fonts: cache-first (rarely change)
    Bump CACHE on meaningful releases to evict old caches.                     */
-const CACHE = "gsb-v22";
+const CACHE = "gsb-v23";
 const CORE = [
   "./",
   "./index.html",
@@ -16,9 +16,21 @@ const CORE = [
   "./live-data.js",
   "./manifest.webmanifest",
 ];
+/* Above-the-fold hero art — precached so a cache version bump never momentarily
+   drops the header trophy / flag mosaic. Best-effort (a miss won't fail install). */
+const HERO_IMAGES = [
+  "./images/trophy.jpg",
+  "./images/flag-mosaic-blur.png",
+  "./images/flag-mosaic.png",
+  "./images/stars.jpg",
+];
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(CORE)).then(() => self.skipWaiting()));
+  e.waitUntil(
+    caches.open(CACHE)
+      .then((c) => c.addAll(CORE).then(() => Promise.all(HERO_IMAGES.map((u) => c.add(u).catch(() => {})))))
+      .then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener("activate", (e) => {
