@@ -259,64 +259,100 @@ function withRealStandings(fn) {
   try { return fn(); } finally { useRealStandings = prev; }
 }
 
-/* Clinch math (real results only): brute-force the remaining matches' W/D/L and
-   decide, conservatively (points only — ties count against the team, so we
-   never over-claim), whether each team has locked 1st (`x`) or exactly 2nd
-   (`y`). Returns flags by team index + which finishing positions are locked. */
-function clinchInfo(group) {
+/* Discrete scorelines per remaining match (margins −3…+3). Enough to expose the
+   goal-difference swings clinch/elimination hinge on, while staying bounded so
+   the whole-group brute force is cheap. */
+const OUTCOME_SCORES = [[0, 0], [1, 0], [2, 0], [3, 0], [0, 1], [0, 2], [0, 3]];
+
+/* Per-group "outlook": across every combination of remaining results, which
+   finishing positions each team can reach (posSets), each team's best-case
+   final stats, and the possible 3rd-place stats. Cached by a signature of the
+   real results so it only recomputes when scores actually change. */
+let _outlookCache = { sig: null, val: null };
+function resultsSignature() {
+  const live = liveResults();
+  return GROUP_LETTERS.map((g) =>
+    (live[g] || []).map((s) => (s && s[0] != null ? s[0] + "-" + s[1] : "_")).join(",")
+  ).join("|");
+}
+function allOutlooks() {
+  const sig = resultsSignature();
+  if (_outlookCache.sig === sig && _outlookCache.val) return _outlookCache.val;
+  const val = {};
+  GROUP_LETTERS.forEach((g) => { val[g] = computeOutlook(g); });
+  _outlookCache = { sig, val };
+  return val;
+}
+function computeOutlook(group) {
   const names = state.names[group];
   const base = realScores(group);
   const rem = [];
   base.forEach((s, i) => { if (s[0] == null) rem.push(i); });
+  const posSets = names.map(() => new Set());
+  const best = names.map(() => null);
+  const thirds = [];
+  const consider = (scores) => {
+    const ranked = GSB.rankGroup(names, scores);
+    ranked.forEach((t, pos) => posSets[t.idx].add(pos));
+    GSB.computeStats(names, scores).forEach((t) => {
+      const b = best[t.idx];
+      if (!b || t.pts > b.pts || (t.pts === b.pts && (t.gd > b.gd || (t.gd === b.gd && t.gf > b.gf)))) {
+        best[t.idx] = { idx: t.idx, name: t.name, pts: t.pts, gd: t.gd, gf: t.gf };
+      }
+    });
+    thirds.push({ pts: ranked[2].pts, gd: ranked[2].gd, gf: ranked[2].gf });
+  };
+  if (rem.length === 0 || rem.length > 4) {
+    consider(base); // finished, or too early to brute-force meaningfully
+  } else {
+    const scenario = base.map((s) => s.slice());
+    (function rec(k) {
+      if (k === rem.length) { consider(scenario); return; }
+      for (const o of OUTCOME_SCORES) { scenario[rem[k]] = o; rec(k + 1); }
+    })(0);
+  }
+  return { names, posSets, best, thirds, complete: rem.length === 0, early: rem.length > 4 };
+}
+
+/* Compare two 3rd-place records (higher = better): pts, then GD, then GF. */
+function cmpThird(a, b) { return b.pts - a.pts || b.gd - a.gd || b.gf - a.gf; }
+
+/* A potential 3rd-placed team is eliminated if, even in its best case, at least
+   8 other groups are guaranteed (in every remaining scenario) to produce a 3rd
+   that outranks it — so it can't finish among the 8 qualifying thirds. */
+function thirdEliminated(group, idx, outlooks) {
+  const Tbest = outlooks[group].best[idx];
+  if (!Tbest) return false;
+  let ahead = 0;
+  for (const g of GROUP_LETTERS) {
+    if (g === group) continue;
+    if (outlooks[g].thirds.every((t3) => cmpThird(t3, Tbest) < 0)) ahead++;
+  }
+  return ahead >= 8;
+}
+
+/* Clinch / elimination (real results, goal-difference aware). x = clinched 1st,
+   y = clinched a knockout spot (guaranteed top-2). A row is eliminated when it
+   can't reach top-2 AND can't be a top-8 third (or is stuck in 4th). */
+function clinchInfo(group) {
+  const outlooks = allOutlooks();
+  const o = outlooks[group];
   const out = { x: {}, y: {}, posClinched: { 1: false, 2: false }, elim: {} };
-  if (rem.length === 0) {
-    // Group finished — 1st and 2nd are final, mark them directly (handles
-    // positions decided on GD/GF tiebreakers, which the points-only path can't).
-    const r = GSB.rankGroup(names, base);
-    if (r[0]) { out.x[r[0].idx] = true; out.posClinched[1] = true; }
-    if (r[1]) { out.y[r[1].idx] = true; out.posClinched[2] = true; }
-    if (r[3]) out.elim[r[3].idx] = true; // 4th is out (3rd handled with the thirds table)
-    return out;
-  }
-  if (rem.length > 4) return out; // too early — nothing clinched or eliminated yet
-
-  // Mathematical elimination: a team is out only when it's guaranteed to finish
-  // 4th — i.e. three group-mates already have more points than this team's
-  // maximum possible (current + 3 per remaining game). Conservative, so a team
-  // that has only played once can never be flagged.
-  const cur = GSB.computeStats(names, base);
-  names.forEach((_, i) => {
-    const remGames = rem.filter((m) => FIXTURES[m].includes(i)).length;
-    const maxP = cur[i].pts + 3 * remGames;
-    const above = cur.filter((o) => o.idx !== i && o.pts > maxP).length;
-    if (above >= 3) out.elim[i] = true;
+  let spots = 0;
+  o.names.forEach((_, i) => {
+    const pos = o.posSets[i];
+    const arr = [...pos];
+    const clinch1 = pos.size === 1 && pos.has(0);
+    const clinchSpot = arr.every((p) => p <= 1);
+    const canTop2 = pos.has(0) || pos.has(1);
+    const stuck4th = arr.every((p) => p === 3);
+    if (clinchSpot) spots++;
+    if (clinch1) { out.x[i] = true; out.posClinched[1] = true; }
+    else if (clinchSpot) out.y[i] = true;
+    if (stuck4th || (!canTop2 && thirdEliminated(group, i, outlooks))) out.elim[i] = true;
   });
-
-  const WDL = [[1, 0], [0, 0], [0, 1]];
-  // For each team: worst case = max number of other teams that reach/exceed its
-  // points across all remaining-result scenarios.
-  const worstAhead = names.map(() => 0);
-  const scenario = base.map((s) => s.slice());
-  (function rec(k) {
-    if (k === rem.length) {
-      const st = GSB.computeStats(names, scenario);
-      st.forEach((t) => {
-        const ahead = st.filter((o) => o.idx !== t.idx && o.pts >= t.pts).length;
-        if (ahead > worstAhead[t.idx]) worstAhead[t.idx] = ahead;
-      });
-      return;
-    }
-    for (const o of WDL) { scenario[rem[k]] = o; rec(k + 1); }
-  })(0);
-
-  let firstIdx = null;
-  names.forEach((_, i) => { if (worstAhead[i] === 0) { out.x[i] = true; firstIdx = i; } });
-  // y = clinched exactly 2nd: locked into top-2 AND 1st already taken by another.
-  if (firstIdx !== null) {
-    names.forEach((_, i) => { if (i !== firstIdx && worstAhead[i] <= 1) out.y[i] = true; });
-  }
-  out.posClinched[1] = firstIdx !== null;
-  out.posClinched[2] = Object.keys(out.y).length > 0;
+  // 2nd is locked once both top-2 are clinched and 1st is decided.
+  out.posClinched[2] = out.posClinched[1] && spots >= 2;
   return out;
 }
 
