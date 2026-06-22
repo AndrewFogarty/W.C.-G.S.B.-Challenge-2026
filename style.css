@@ -711,6 +711,34 @@ tbody tr.eliminated {
 .mb-team.prov { opacity: 0.8; }
 .mb-team.prov .mb-code { font-style: italic; }
 
+/* Knockout match that has kicked off — its winner pick is frozen so brackets
+   can't be edited to match real results as teams are eliminated. */
+.bm {
+  position: relative;
+}
+.bm.ko-locked {
+  background: #eef2f9;
+}
+.bm.ko-locked .bm-row {
+  cursor: default;
+}
+.bm.ko-locked .bm-row:hover {
+  background: transparent;
+}
+.bm.ko-locked .bm-row.sel,
+.bm.ko-locked .bm-row.sel:hover {
+  background: rgba(24, 160, 90, 0.16);
+}
+.bm-lock {
+  position: absolute;
+  top: 3px;
+  right: 5px;
+  font-size: 0.66rem;
+  line-height: 1;
+  opacity: 0.6;
+  pointer-events: none;
+}
+
 .bm.is-final {
   border-color: var(--amber);
   box-shadow: 0 6px 16px rgba(224, 160, 8, 0.25);

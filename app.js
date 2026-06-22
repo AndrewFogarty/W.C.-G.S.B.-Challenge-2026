@@ -487,7 +487,18 @@ function winnerOf(matchId) {
   return w ? participant(matchId, w) : null;
 }
 
-function rowHtml(id, side, p, selected, acc) {
+/* True once a knockout match has kicked off OR has an official result — its
+   winner pick can no longer be changed. This is what stops anyone editing
+   their bracket to match real outcomes once teams start getting eliminated:
+   the pick for each game freezes the instant that game begins, exactly like
+   the group-stage scorelines do at kickoff. */
+function koMatchLocked(id) {
+  if ((KO_RESULT.byNum || {})[id]) return true;
+  const ko = (KICKOFF.byNum || {})[id];
+  return ko != null && Date.now() >= ko;
+}
+
+function rowHtml(id, side, p, selected, acc, locked) {
   const known = p.known && p.name;
   const prov = !known && p.provisional && p.name;     // seeded from partial standings
   const show = known || prov;
@@ -497,7 +508,7 @@ function rowHtml(id, side, p, selected, acc) {
   const flag = show ? flagHtml(p.code) : "•";
   const mark = acc === "correct" ? '<span class="bm-mark ok">✓</span>'
     : acc === "wrong" ? '<span class="bm-mark no">✗</span>' : "";
-  return `<button class="bm-row ${selected ? "sel" : ""} ${acc || ""}" data-id="${id}" data-side="${side}" type="button">
+  return `<button class="bm-row ${selected ? "sel" : ""} ${acc || ""}" data-id="${id}" data-side="${side}" type="button"${locked ? " disabled" : ""}>
       <span class="flag">${flag}</span>${label}${mark}
     </button>`;
 }
@@ -508,9 +519,14 @@ function matchCard(id, extraClass) {
   const w = state.bracket[id];
   const acc = w ? bracketAccuracy(id, w) : "";
   const v = VENUE.byNum[id];
-  return `<div class="bm ${extraClass || ""}" data-id="${id}">
-      ${rowHtml(id, "home", h, w === "home", w === "home" ? acc : "")}
-      ${rowHtml(id, "away", a, w === "away", w === "away" ? acc : "")}
+  const locked = koMatchLocked(id);
+  const lockBadge = locked
+    ? '<span class="bm-lock" title="Locked — this match has kicked off; the pick can no longer be changed" aria-hidden="true">🔒</span>'
+    : "";
+  return `<div class="bm ${extraClass || ""}${locked ? " ko-locked" : ""}" data-id="${id}">
+      ${rowHtml(id, "home", h, w === "home", w === "home" ? acc : "", locked)}
+      ${rowHtml(id, "away", a, w === "away", w === "away" ? acc : "", locked)}
+      ${lockBadge}
       ${v ? `<div class="bm-venue">${escapeHtml(v)}</div>` : ""}
     </div>`;
 }
@@ -1215,6 +1231,28 @@ function markConfirmedMatches() {
     row.classList.toggle("confirmed", locked);
     // only un-started, unconfirmed games can be changed
     row.querySelectorAll(".goal, .res-btn").forEach((el) => { el.disabled = locked; });
+  });
+  markBracketLocks();
+}
+
+/* Re-assert knockout pick locks on the existing bracket DOM (no re-render) so a
+   bracket left open freezes each match the instant it kicks off. */
+function markBracketLocks() {
+  if (typeof koMatchLocked !== "function") return;
+  document.querySelectorAll("#bracket .bm").forEach((card) => {
+    const id = +card.dataset.id;
+    if (!id) return;
+    const locked = koMatchLocked(id);
+    card.classList.toggle("ko-locked", locked);
+    card.querySelectorAll(".bm-row").forEach((b) => { b.disabled = locked; });
+    if (locked && !card.querySelector(".bm-lock")) {
+      const span = document.createElement("span");
+      span.className = "bm-lock";
+      span.title = "Locked — this match has kicked off; the pick can no longer be changed";
+      span.setAttribute("aria-hidden", "true");
+      span.textContent = "🔒";
+      card.appendChild(span);
+    }
   });
 }
 
@@ -2646,18 +2684,27 @@ function renderHistory() {
 const kickoffMs = GSB.kickoffMs;
 
 let VENUE = { byNum: {}, byGF: {} };
-let KICKOFF = { byGF: {} }; // ms timestamp per group fixture
+let KICKOFF = { byGF: {}, byNum: {} }; // kickoff ms — group fixtures + knockout match numbers
+let KO_RESULT = { byNum: {} };         // knockout match number -> true once an official scoreline is in
 function buildVenues() {
   const sched = (window.WC_LIVE && window.WC_LIVE.schedule) || [];
   const byNum = {};
   const byGF = {};
   const koByGF = {};
+  const koByNum = {};
+  const resByNum = {};
   GROUP_LETTERS.forEach((g) => {
     byGF[g] = [null, null, null, null, null, null];
     koByGF[g] = [null, null, null, null, null, null];
   });
   for (const m of sched) {
     if (m.n != null && m.v) byNum[m.n] = m.v;
+    // Knockout matches carry a numeric `n`: track kickoff + whether a result is in
+    // so the corresponding bracket pick can lock the moment that game starts.
+    if (m.n != null) {
+      koByNum[m.n] = kickoffMs(m.d, m.t);
+      resByNum[m.n] = m.hg != null && m.ag != null;
+    }
     if (m.s && m.s.length === 1 && GROUP_IDX[m.s]) {
       const g = m.s;
       const i1 = GROUP_IDX[g][m.h];
@@ -2672,7 +2719,8 @@ function buildVenues() {
     }
   }
   VENUE = { byNum, byGF };
-  KICKOFF = { byGF: koByGF };
+  KICKOFF = { byGF: koByGF, byNum: koByNum };
+  KO_RESULT = { byNum: resByNum };
 }
 
 function fillGroupVenues() {
@@ -2892,6 +2940,7 @@ function wireEvents() {
     const row = e.target.closest(".bm-row");
     if (!row) return;
     const id = +row.dataset.id;
+    if (koMatchLocked(id)) return; // game has kicked off — pick is frozen
     const side = row.dataset.side;
     state.bracket[id] = state.bracket[id] === side ? null : side;
     renderBracket();
