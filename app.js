@@ -2616,6 +2616,48 @@ function teamInfoData(name) {
   return (f.teams && f.teams[name]) || null;
 }
 
+/* ESPN's World Cup roster feed rarely carries player headshots, but the
+   committed API-Football squad (WC_FOOTBALL.teams[*].players) ships one for
+   every player. Build a name index for a team so an ESPN XI can borrow those
+   photos. Match on the full name first, then a unique surname; never guess past
+   that (a wrong face is worse than a number badge). */
+function squadNameKey(s) {
+  return (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "")
+    .toLowerCase().replace(/[.'’]/g, "").replace(/\s+/g, " ").trim();
+}
+function squadSurname(s) {
+  const parts = squadNameKey(s).split(" ").filter(Boolean);
+  return parts.length ? parts[parts.length - 1] : "";
+}
+function squadPhotoIndex(teamName) {
+  const t = teamInfoData(teamName);
+  const idx = { full: {}, sur: {} };
+  if (!t || !t.players) return idx;
+  for (const p of t.players) {
+    if (!p.photo) continue;
+    idx.full[squadNameKey(p.name)] = p.photo;
+    const sn = squadSurname(p.name);
+    if (sn) (idx.sur[sn] = idx.sur[sn] || []).push(p.photo);
+  }
+  return idx;
+}
+function squadPhotoFor(idx, name) {
+  const exact = idx.full[squadNameKey(name)];
+  if (exact) return exact;
+  const cands = idx.sur[squadSurname(name)];
+  return cands && cands.length === 1 ? cands[0] : null;
+}
+/* Fill in any missing player photos on a lineup side from the committed squad
+   (leaves photos that are already present untouched). Runs at render time, so
+   WC_FOOTBALL is guaranteed loaded even if the ESPN XI was parsed earlier. */
+function fillSquadPhotos(side) {
+  if (!side || !side.team) return;
+  const idx = squadPhotoIndex(side.team);
+  [...(side.startXI || []), ...(side.subs || [])].forEach((p) => {
+    if (!p.photo) { const ph = squadPhotoFor(idx, p.name); if (ph) p.photo = ph; }
+  });
+}
+
 function miNotice(msg) {
   return `<div class="mi-empty">${escapeHtml(msg)}</div>`;
 }
@@ -2683,6 +2725,7 @@ function renderPitch(startXI, perfMap) {
 
 function renderLineupSide(side, perfMap) {
   if (!side) return `<div class="mi-xi">${miNotice("No lineup available.")}</div>`;
+  fillSquadPhotos(side); // borrow API-Football headshots when ESPN ships none
   const pitch = renderPitch(side.startXI, perfMap);
   const listFallback = `<ol class="mi-players">${(side.startXI || []).map((p) =>
     `<li><span class="mi-num">${p.number != null ? p.number : "·"}</span>
