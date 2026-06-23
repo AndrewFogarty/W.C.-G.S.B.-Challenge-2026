@@ -1,47 +1,450 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-06-23T17:31:12.325Z",
+  "updated": "2026-06-23T22:06:25.497Z",
   "counts": {
-    "news": 26,
-    "preview": 12,
-    "celebration": 9,
+    "celebration": 10,
+    "news": 25,
+    "injury": 2,
+    "preview": 10,
     "offfield": 1
   },
   "items": [
     {
+      "id": "49157743",
+      "headline": "Ronaldo responds with double and World Cup record",
+      "description": "Cristiano Ronaldo clapped back at critics after becoming the first player in history to score in six different World Cups with a brace vs. Uzbekistan.",
+      "published": "2026-06-23T22:03:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/49157743/ronaldo-responds-double-world-cup-record",
+      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_Soccer_Highlight_Ronaldo_responds_with_double_and_World_Cup_record_20260624_AUS_ONLY/dm_260623_Soccer_Highlight_Ronaldo_responds_with_double_and_World_Cup_record_20260624_AUS_ONLY.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Uzbekistan"
+      ],
+      "players": [],
+      "score": 217
+    },
+    {
       "id": "49150583",
-      "headline": "World Cup Daily: Ronaldo scores game for Portugal; England in action",
-      "description": "It's another day of 2026 FIFA World Cup action, and we have some big teams playing today, including Portugal and England.",
-      "published": "2026-06-23T17:23:44Z",
+      "headline": "World Cup Daily: England draw with Ghana; Ronaldo scores twice in big Portugal win",
+      "description": "It's another day of 2026 FIFA World Cup action, and some big teams are taking the field.",
+      "published": "2026-06-23T22:02:21Z",
       "url": "https://www.espn.com/soccer/story/_/id/49150583/messi-100-year-old-super-fan-sees-make-history-portugal-england-action",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678266_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678347_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Portugal",
-        "England"
+        "England",
+        "Ghana"
       ],
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 213
+      "score": 203
     },
     {
-      "id": "49154827",
-      "headline": "Donald Trump to present World Cup trophy at final, FIFA boss Gianni Infantino confirms",
-      "description": "U.S. President Donald Trump will present the trophy to the winners of the World Cup final in New Jersey on July 19, FIFA president Gianni Infantino has confirmed.",
-      "published": "2026-06-23T17:20:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154827/donald-trump-present-world-cup-trophy-final-fifa-boss-gianni-infantino-confirms",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678248_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
+      "id": "49157314",
+      "headline": "Scotland's Robertson has his say on whether Miami will run out of beer",
+      "description": "Scotland's Robertson has his say on whether Miami will run out of beer",
+      "published": "2026-06-23T21:24:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/49157314/scotland-robertson-say-whether-miami-run-beer",
+      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_COM_SOC_Presser_Scotlands_Robertson_has_his_say_on_whether_Miami_will_run_out_of_beer_20260623/dm_260623_COM_SOC_Presser_Scotlands_Robertson_has_his_say_on_whether_Miami_will_run_out_of_beer_20260623.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Scotland"
+      ],
+      "players": [],
+      "score": 193
+    },
+    {
+      "id": "49157341",
+      "headline": "'Every ball I touched went wrong' - Kalidou Koulibaly on Norway horror show",
+      "description": "Kalidou Koulibaly acknowledged he was culpable for Senegal's 3-2 FIFA World Cup defeat by Norway at the MetLife Stadium on Monday, which leaves their prospects of reaching the knockouts hanging by a thread.",
+      "published": "2026-06-23T21:38:36Z",
+      "url": "https://www.espn.com/espn/story/_/id/49157341/every-ball-touched-went-wrong-kalidou-koulibaly-norway-horror-show",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678394_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "USA"
+        "Senegal",
+        "Norway"
+      ],
+      "players": [
+        "Kalidou Koulibaly"
+      ],
+      "score": 192
+    },
+    {
+      "id": "49157172",
+      "headline": "Ronaldo: World Cup clash with Messi would be 'awesome'",
+      "description": "Cristiano Ronaldo said facing Lionel Messi's Argentina in a World Cup knockout-stage showdown \"would be awesome\" after scoring twice in Portugal's 5-0 win over Uzbekistan on Tuesday.",
+      "published": "2026-06-23T21:17:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49157172/cristiano-ronaldo-lionel-messi-2026-world-cup-portugal-argentina",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678382_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Portugal",
+        "Argentina",
+        "Uzbekistan"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Lionel Messi"
+      ],
+      "score": 171
+    },
+    {
+      "id": "49157347",
+      "headline": "In a World Cup on home soil, El Tri is making Mexico proud",
+      "description": "At Qatar 2022, there was a divide between Mexico and the country they represented. That's all changed at this World Cup on home soil.",
+      "published": "2026-06-23T21:33:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49157347/in-world-cup-home-soil-el-tri-making-mexico-proud",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671566_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico",
+        "Qatar"
       ],
       "players": [],
-      "score": 200
+      "score": 169
+    },
+    {
+      "id": "49156717",
+      "headline": "Morocco boss Ouahbi: 'We're ready' to take on any opponent if World Cup knockouts secured",
+      "description": "Morocco coach Mohamed Ouahbi has said his team will fear no one in the knockout rounds and insisted they have already shown what they are capable of at this World Cup by drawing with Brazil.",
+      "published": "2026-06-23T21:05:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49156717/morocco-boss-mohamed-ouahbi-no-fear-opponent-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678355_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Morocco",
+        "Brazil"
+      ],
+      "players": [],
+      "score": 157
+    },
+    {
+      "id": "49156950",
+      "headline": "Paraguay's Almirón gets one-game ban for covering his mouth",
+      "description": "Paraguay midfielder Miguel Almirón has been given a one-match suspension after he was the first player to be sent off at the World Cup for covering his mouth in a game against Türkiye.",
+      "published": "2026-06-23T20:59:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49156950/paraguay-almiron-one-game-ban-covering-mouth",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678373_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Miguel Almirón"
+      ],
+      "score": 153
+    },
+    {
+      "id": "49156159",
+      "headline": "Senegal goalkeeper Edouard Mendy set to for knee ligament injury tests",
+      "description": "Senegal goalkeeper Edouard Mendy will undergo examinations on a suspected ligament injury through Tuesday and Wednesday, said Teranga Lions captain Kalidou Koulibaly.",
+      "published": "2026-06-23T19:50:02Z",
+      "url": "https://www.espn.com/espn/story/_/id/49156159/senegal-goalkeeper-edouard-mendy-set-knee-ligament-injury-tests",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678323_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Senegal"
+      ],
+      "players": [
+        "Édouard Mendy",
+        "Kalidou Koulibaly"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49156230",
+      "headline": "Mexico players back Ochoa for historic World Cup start vs. Czechia",
+      "description": "With their spot already guaranteed into the knockout rounds, Mexico players were in full support of a possible historic start for goalkeeping icon Guillermo Ochoa against Czechia in their World Cup group stage finale on Wednesday.",
+      "published": "2026-06-23T21:04:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49156230/mexico-players-back-memo-ochoa-historic-world-cup-start-czechia",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678111_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Mexico",
+        "Czechia"
+      ],
+      "players": [
+        "Guillermo Ochoa"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49154970",
+      "headline": "Portugal's Cristiano Ronaldo ends goal drought, first to score at 6 World Cups",
+      "description": "Cristiano Ronaldo made history Tuesday by becoming the first player to score in six different World Cups, finding the net in Portugal's 5-0 win over Uzbekistan.",
+      "published": "2026-06-23T20:58:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154970/portugal-cristiano-ronaldo-goal-first-score-six-world-cups-uzbekistan",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678268_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Portugal",
+        "Uzbekistan"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49083111",
+      "headline": "Group J at the 2026 World Cup: Teams, records, stats to know",
+      "description": "Group J at the 2026 World Cup features Argentina, Algeria, Austria and Jordan. Find out more about their history at the World Cup.",
+      "published": "2026-06-23T20:35:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49083111/group-j-2026-world-cup-teams-records-stats-know-argentina-algeria-austria-jordan",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674184_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Portugal",
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49082534",
+      "headline": "Group I at the 2026 World Cup: Teams, records, stats to know",
+      "description": "Group I at the 2026 World Cup features France, Senegal, Iraq and Norway. Find out more about their history at the World Cup.",
+      "published": "2026-06-23T20:30:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49082534/group-2026-world-cup-teams-records-stats-know-france-senegal-iraq-norway",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674169_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Portugal",
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49155759",
+      "headline": "Djed Spence, Marc Guéhi start for England vs. Ghana, Bukayo Saka on bench again",
+      "description": "Djed Spence and Marc Guéhi have been drafted into England's starting lineup for Tuesday's match with Ghana, with Thomas Tuchel making two changes to the side that beat",
+      "published": "2026-06-23T19:05:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49155759/djed-spence-marc-guehi-start-england-vs-ghana-bukayo-saka-bench",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678308_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Ghana"
+      ],
+      "players": [
+        "Djed Spence",
+        "Marc Guéhi"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49019838",
+      "headline": "Who scored the most goals in men's World Cup history?",
+      "description": "Argentina's Lionel Messi scored the most goals in men's World Cup history. Check out which other soccer stars made the list.",
+      "published": "2026-06-23T19:12:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49019838/who-scored-most-goals-men-world-cup-history",
+      "image": "https://a.espncdn.com/photo/2026/0622/r1677710_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Lionel Messi"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49153031",
+      "headline": "When Scotland dared to score a Seleção-style World Cup golazo against Brazil: 'It was like pulling a tiger's tail!'",
+      "description": "Ahead of their fifth World Cup meeting, ESPN's Mark Donaldson recalls the time Scotland dared to score a Seleção-style golazo against Brazil.",
+      "published": "2026-06-23T18:54:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49153031/world-cup-2026-scotland-brazil-david-narey-tigers-tail-1982-spain-socrates-graeme-souness",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678127_1296x729_16-9.jpg",
+      "byline": "Mark Donaldson",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Scotland",
+        "Brazil"
+      ],
+      "players": [],
+      "score": 134
+    },
+    {
+      "id": "49156518",
+      "headline": "Ronaldo underlines legacy, importance to Portugal with brace vs. Uzbekistan",
+      "description": "\"Why does Cristiano Ronaldo still start?\" was a valid question after his dud vs. Congo DR, but he answered it emphatically in Portugal's win on Tuesday.",
+      "published": "2026-06-23T22:00:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49156518/cristiano-ronaldo-underlines-world-cup-legacy-importance-portugal-brace-win-vs-uzbekistan",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678336_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal",
+        "DR Congo",
+        "Uzbekistan"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 133
+    },
+    {
+      "id": "48956258",
+      "headline": "Cristiano Ronaldo at the World Cup: History, results, stats",
+      "description": "Cristiano Ronaldo made his sixth FIFA World Cup tournament with Portugal. Revisit his World Cup history, including results, goals and assists.",
+      "published": "2026-06-23T19:14:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48956258/cristiano-ronaldo-world-cup-history-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0603/r1667633_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [],
+      "score": 133
+    },
+    {
+      "id": "49155141",
+      "headline": "Lisbon goes wild as Ronaldo scores for Portugal vs. Uzbekistan",
+      "description": "Lisbon goes wild as Ronaldo scores for Portugal vs. Uzbekistan",
+      "published": "2026-06-23T17:28:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49155141/lisbon-goes-wild-ronaldo-scores-portugal-vs-uzbekistan",
+      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_COM_SOC_News_Lisbon_goes_wild_as_Ronaldo_scores_for_Portugal_vs_Uzbekistan_20260623_GLOBAL_FIFA/dm_260623_COM_SOC_News_Lisbon_goes_wild_as_Ronaldo_scores_for_Portugal_vs_Uzbekistan_20260623_GLOBAL_FIFA.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Portugal",
+        "Uzbekistan"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49156994",
+      "headline": "'I always arrive!' - Ronaldo responds to critics after World Cup brace",
+      "description": "'I always arrive!' - Ronaldo responds to critics after World Cup brace",
+      "published": "2026-06-23T20:40:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/49156994/i-always-arrive-ronaldo-responds-critics-world-cup-brace",
+      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_COM_SOC_Interview_I_always_arrive_Ronaldo_responds_to_critics_after_World_Cup_brace_2026062/dm_260623_COM_SOC_Interview_I_always_arrive_Ronaldo_responds_to_critics_after_World_Cup_brace_2026062.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49003238",
+      "headline": "Who are the oldest and youngest men to score at the World Cup?",
+      "description": "Pelé is the youngest player to score in World Cup history. Check out which other players made the list of oldest and youngest goal scorers.",
+      "published": "2026-06-23T17:51:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49003238/who-oldest-youngest-men-score-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670338_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Mexico",
+        "Brazil",
+        "England",
+        "Portugal"
+      ],
+      "players": [],
+      "score": 131
+    },
+    {
+      "id": "49151147",
+      "headline": "World Cup 2026 - updates, news as England prepare to face Ghana",
+      "description": "England will face Ghana on Tuesday in the World Cup after Senegal were left on the brink of elimination with Monday's loss to Norway.",
+      "published": "2026-06-23T14:54:05Z",
+      "url": "https://www.espn.com/espn/story/_/id/49151147/world-cup-2026-updates-news-england-prepare-face-ghana",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678132_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Senegal",
+        "Algeria",
+        "Norway",
+        "England",
+        "Ghana"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Sadio Mané"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49116820",
+      "headline": "England vs. Ghana: Kick-off time, team news, how to watch FIFA World Cup clash",
+      "description": "Ghana under Carlos Queiroz have many players who will be a known quantity for England, but the Black Stars pose a threat at the World Cup.",
+      "published": "2026-06-23T14:52:54Z",
+      "url": "https://www.espn.com/espn/story/_/id/49116820/kick-team-news-how-watch-fifa-world-cup-clash",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1676261_1296x729_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Ghana",
+        "England"
+      ],
+      "players": [
+        "Thomas Partey",
+        "Antoine Semenyo",
+        "Harry Kane"
+      ],
+      "score": 131
     },
     {
       "id": "48386952",
@@ -94,23 +497,186 @@
         "Haiti"
       ],
       "players": [],
-      "score": 197
+      "score": 130
     },
     {
-      "id": "49154323",
-      "headline": "Laurens: A Barcelona move for Julian Alvarez is 'impossible'",
-      "description": "Laurens: A Barcelona move for Julian Alvarez is 'impossible'",
-      "published": "2026-06-23T15:54:58Z",
-      "url": "https://www.espn.com/video/clip/_/id/49154323/barcelona-move-julian-alvarez-impossible",
-      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_Laurens_A_Barcelona_move_for_Julian_Alvarez_is_impossible/dm_260623_Laurens_A_Barcelona_move_for_Julian_Alvarez_is_impossible.jpg",
+      "id": "49153333",
+      "headline": "Erling Haaland 'couldn't care too much' about Norway-France game: 'They'll probably beat us'",
+      "description": "Erling Haaland has played down the magnitude of Norway's decisive Group I clash and Kylian Mbappé and France on Friday by saying Les Bleus \"will probably win against us.\"",
+      "published": "2026-06-23T14:20:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49153333/erling-haaland-care-norway-france-game-probably-beat-us",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678149_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Norway",
+        "France"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Erling Haaland"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49070024",
+      "headline": "Is the rest of Africa really 'hate-watching' Bafana at the FIFA World Cup?",
+      "description": "African fans have mixed feelings about backing South Africa at the FIFA World Cup amidst xenophobia concerns.",
+      "published": "2026-06-23T19:06:49Z",
+      "url": "https://www.espn.com/espn/story/_/id/49070024/is-rest-africa-really-hate-watching-bafana-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678312_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa",
+        "Korea Republic"
+      ],
+      "players": [
+        "Ronwen Williams",
+        "Ime Okon"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49150809",
+      "headline": "Mohamed Salah finally writes World Cup history with Egypt - can he salvage his international legacy?",
+      "description": "Mohamed Salah has achieved more in the sport than any other Egyptian player in history, gracing the upper echelons of the game with Liverpool, winning silverware aplenty at Anfield, and establishing himself as a global superstar.",
+      "published": "2026-06-23T14:43:22Z",
+      "url": "https://www.espn.com/espn/story/_/id/49150809/mohamed-salah-writes-world-cup-history-egypt-salvage-international-legacy",
+      "image": "https://a.espncdn.com/photo/2026/0622/r1677529_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Egypt"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Omar Marmoush"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49156450",
+      "headline": "France boss Deschamps to miss Norway game after mother's death",
+      "description": "France coach Didier Deschamps will not be on the touchline for Les Bleus' final World Cup group game against Norway on Friday after the death of his mother.",
+      "published": "2026-06-23T20:35:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49156450/france-boss-didier-deschamps-miss-norway-game-death-mother",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678333_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Norway"
+      ],
+      "players": [],
+      "score": 128
+    },
+    {
+      "id": "49108137",
+      "headline": "Ghana scouting report: Can Antoine Semenyo and co. shock England?",
+      "description": "The lowdown on the Black Stars ahead of their group stage encounter against Thomas Tuchel's England.",
+      "published": "2026-06-23T14:58:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49108137/ghana-scouting-report-antoine-semenyo-co-shock-england",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675510_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Ghana",
+        "England"
+      ],
+      "players": [],
+      "score": 128
+    },
+    {
+      "id": "49156288",
+      "headline": "Has Ronaldo silenced his critics after brace vs. Uzbekistan?",
+      "description": "",
+      "published": "2026-06-23T20:26:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49156288/has-ronaldo-silenced-critics-brace-vs-uzbekistan",
+      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_COM_SOC_ANALYSIS_Has_Ronaldo_silenced_his_critics_after_brace_vs_Uzbekistan_2026_6_23/dm_260623_COM_SOC_ANALYSIS_Has_Ronaldo_silenced_his_critics_after_brace_vs_Uzbekistan_2026_6_23.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Julián Álvarez"
+      "teams": [
+        "Portugal",
+        "Uzbekistan"
       ],
-      "score": 177
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49156031",
+      "headline": "Cristiano Ronaldo scores twice as Portugal rout Uzbekistan to get campaign back on track",
+      "description": "",
+      "published": "2026-06-23T19:16:11Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/760461",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678304_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal",
+        "Uzbekistan"
+      ],
+      "players": [],
+      "score": 126
+    },
+    {
+      "id": "49150271",
+      "headline": "Argentina built perfect stage for Messi to break World Cup goal record",
+      "description": "Lionel Messi made history by becoming the top scorer in a World Cup, but his achievement is also credited to the way Argentina has been playing so far.",
+      "published": "2026-06-23T12:49:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49150271/argentina-built-perfect-stage-lionel-messi-break-world-cup-goal-record",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678035_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49155424",
+      "headline": "Iran cleared to enter U.S. two days prior to match vs. Egypt in Seattle",
+      "description": "The Iran national team can enter the United States a day earlier than they were allowed to in previous World Cup matches, the Department of Homeland Security told ABC News on Tuesday.",
+      "published": "2026-06-23T18:41:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49155424/iran-cleared-enter-us-two-days-prior-match-egypt-seattle",
+      "image": "https://a.espncdn.com/photo/2026/0621/r1677244_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "IR Iran",
+        "USA",
+        "Egypt"
+      ],
+      "players": [],
+      "score": 125
+    },
+    {
+      "id": "49155416",
+      "headline": "Adams: USMNT have a belief they've never had at the World Cup",
+      "description": "Adams: USMNT have a belief they've never had at the World Cup",
+      "published": "2026-06-23T18:17:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/49155416/usmnt-belief-never-had-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_COM_SOC_Interview_Adams_USMNT_have_a_belief_theyve_never_had_at_the_World_Cup_20260623_GLOBAL/dm_260623_COM_SOC_Interview_Adams_USMNT_have_a_belief_theyve_never_had_at_the_World_Cup_20260623_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 124
     },
     {
       "id": "49154318",
@@ -131,7 +697,37 @@
         "Idrissa Gueye",
         "Erling Haaland"
       ],
-      "score": 171
+      "score": 124
+    },
+    {
+      "id": "49154827",
+      "headline": "Donald Trump to present World Cup trophy at final, FIFA boss Gianni Infantino confirms",
+      "description": "U.S. President Donald Trump will present the trophy to the winners of the World Cup final in New Jersey on July 19, FIFA president Gianni Infantino has confirmed.",
+      "published": "2026-06-23T17:20:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154827/donald-trump-present-world-cup-trophy-final-fifa-boss-gianni-infantino-confirms",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678248_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "48847593",
+      "headline": "How many father-son duos have been in the FIFA World Cup?",
+      "description": "Check out a list of every father-son duo that has played in the FIFA World Cup.",
+      "published": "2026-06-23T19:20:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48847593/how-many-father-son-duos-the-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2022/0317/r987687_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 122
     },
     {
       "id": "49118437",
@@ -159,80 +755,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 159
-    },
-    {
-      "id": "49108137",
-      "headline": "Ghana scouting report: Can Antoine Semenyo and co. shock England?",
-      "description": "The lowdown on the Black Stars ahead of their group stage encounter against Thomas Tuchel's England.",
-      "published": "2026-06-23T14:58:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49108137/ghana-scouting-report-antoine-semenyo-co-shock-england",
-      "image": "https://a.espncdn.com/photo/2026/0618/r1675510_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Ghana",
-        "England"
-      ],
-      "players": [],
-      "score": 155
-    },
-    {
-      "id": "49154575",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "published": "2026-06-23T16:55:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "byline": "Grace Allen",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49155141",
-      "headline": "Lisbon goes wild as Ronaldo scores for Portugal vs. Uzbekistan",
-      "description": "Lisbon goes wild as Ronaldo scores for Portugal vs. Uzbekistan",
-      "published": "2026-06-23T17:28:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49155141/lisbon-goes-wild-ronaldo-scores-portugal-vs-uzbekistan",
-      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_COM_SOC_News_Lisbon_goes_wild_as_Ronaldo_scores_for_Portugal_vs_Uzbekistan_20260623_GLOBAL_FIFA/dm_260623_COM_SOC_News_Lisbon_goes_wild_as_Ronaldo_scores_for_Portugal_vs_Uzbekistan_20260623_GLOBAL_FIFA.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Portugal",
-        "Uzbekistan"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 140
-    },
-    {
-      "id": "49149682",
-      "headline": "Erling Haaland, Norway join 'viral' Viking Row after win",
-      "description": "Norway dispatched Senegal 3-2 in New Jersey on Monday in their second World Cup game, booking their ticket for the knockout stages, and their players knew exactly how to celebrate: with the \"Viking Row.\"",
-      "published": "2026-06-23T14:30:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49149682/erling-haaland-norway-join-viking-row-win",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678016_1024x576_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway",
-        "Senegal"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 140
+      "score": 122
     },
     {
       "id": "49142576",
@@ -254,127 +777,7 @@
         "Thomas Partey",
         "Jude Bellingham"
       ],
-      "score": 139
-    },
-    {
-      "id": "49151147",
-      "headline": "World Cup 2026 - updates, news as England prepare to face Ghana",
-      "description": "England will face Ghana on Tuesday in the World Cup after Senegal were left on the brink of elimination with Monday's loss to Norway.",
-      "published": "2026-06-23T14:54:05Z",
-      "url": "https://www.espn.com/espn/story/_/id/49151147/world-cup-2026-updates-news-england-prepare-face-ghana",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678132_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Senegal",
-        "Algeria",
-        "Norway",
-        "England",
-        "Ghana"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Sadio Mané"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49116820",
-      "headline": "England vs. Ghana: Kick-off time, team news, how to watch FIFA World Cup clash",
-      "description": "Ghana under Carlos Queiroz have many players who will be a known quantity for England, but the Black Stars pose a threat at the World Cup.",
-      "published": "2026-06-23T14:52:54Z",
-      "url": "https://www.espn.com/espn/story/_/id/49116820/kick-team-news-how-watch-fifa-world-cup-clash",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1676261_1296x729_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Ghana",
-        "England"
-      ],
-      "players": [
-        "Thomas Partey",
-        "Antoine Semenyo",
-        "Harry Kane"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49153333",
-      "headline": "Erling Haaland 'couldn't care too much' about Norway-France game: 'They'll probably beat us'",
-      "description": "Erling Haaland has played down the magnitude of Norway's decisive Group I clash and Kylian Mbappé and France on Friday by saying Les Bleus \"will probably win against us.\"",
-      "published": "2026-06-23T14:20:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49153333/erling-haaland-care-norway-france-game-probably-beat-us",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678149_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Norway",
-        "France"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Erling Haaland"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49150809",
-      "headline": "Mohamed Salah finally writes World Cup history with Egypt - can he salvage his international legacy?",
-      "description": "Mohamed Salah has achieved more in the sport than any other Egyptian player in history, gracing the upper echelons of the game with Liverpool, winning silverware aplenty at Anfield, and establishing himself as a global superstar.",
-      "published": "2026-06-23T14:43:22Z",
-      "url": "https://www.espn.com/espn/story/_/id/49150809/mohamed-salah-writes-world-cup-history-egypt-salvage-international-legacy",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677529_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Egypt"
-      ],
-      "players": [
-        "Mohamed Salah",
-        "Omar Marmoush"
-      ],
-      "score": 136
-    },
-    {
-      "id": "49154970",
-      "headline": "Portugal's Cristiano Ronaldo ends goal drought, first to score at 6 World Cups",
-      "description": "Cristiano Ronaldo has become the first player to score a goal in six different World Cup tournaments.",
-      "published": "2026-06-23T17:30:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154970/portugal-cristiano-ronaldo-goal-first-score-six-world-cups-uzbekistan",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678268_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal",
-        "Uzbekistan"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49150271",
-      "headline": "Argentina built perfect stage for Messi to break World Cup goal record",
-      "description": "Lionel Messi made history by becoming the top scorer in a World Cup, but his achievement is also credited to the way Argentina has been playing so far.",
-      "published": "2026-06-23T12:49:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49150271/argentina-built-perfect-stage-lionel-messi-break-world-cup-goal-record",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678035_1296x729_16-9.jpg",
-      "byline": "Tim Vickery",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
+      "score": 122
     },
     {
       "id": "49153457",
@@ -392,44 +795,23 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 128
+      "score": 121
     },
     {
-      "id": "48811876",
-      "headline": "Socceroos World Cup Daily: Australia wants Friday early mark",
-      "description": "The Socceroos want fans in Australia to be let out work and school early to watch Friday's crucial World Cup clash.",
-      "published": "2026-06-23T08:34:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48811876/socceroos-world-cup-daily-news-updates-all-need-know",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678071_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia",
-        "Paraguay"
-      ],
-      "players": [],
-      "score": 126
-    },
-    {
-      "id": "48972466",
-      "headline": "World Cup 2026: Can Lionel Messi and Cristiano Ronaldo finally meet on biggest stage?",
-      "description": "In a sixth World Cup for Lionel Messi and Cristiano Ronaldo, could the pair finally face each other in the tournament?",
-      "published": "2026-06-23T06:42:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48972466/world-cup-2026-lionel-messi-cristiano-ronaldo-showdown-knockouts-argentina-portugal",
-      "image": "https://a.espncdn.com/photo/2026/0605/r1668521_608x342_16-9.png",
-      "byline": "Anirudh Menon",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
+      "id": "49154323",
+      "headline": "Laurens: A Barcelona move for Julian Alvarez is 'impossible'",
+      "description": "Laurens: A Barcelona move for Julian Alvarez is 'impossible'",
+      "published": "2026-06-23T15:54:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/49154323/barcelona-move-julian-alvarez-impossible",
+      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_Laurens_A_Barcelona_move_for_Julian_Alvarez_is_impossible/dm_260623_Laurens_A_Barcelona_move_for_Julian_Alvarez_is_impossible.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
       "players": [
-        "Lionel Messi",
-        "Cristiano Ronaldo"
+        "Julián Álvarez"
       ],
-      "score": 126
+      "score": 120
     },
     {
       "id": "48939282",
@@ -447,94 +829,23 @@
         "USA"
       ],
       "players": [],
-      "score": 125
+      "score": 118
     },
     {
-      "id": "49031236",
-      "headline": "2026 World Cup: How teams can advance to the knockout rounds",
-      "description": "Who can secure qualification before the group stage ends, and whose World Cup dreams could be shattered? Here's what you need to know.",
-      "published": "2026-06-23T07:54:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49031236/2026-world-cup-group-stage-clinching-scenarios-knockout-rounds-elimination",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674586_1296x729_16-9.jpg",
-      "byline": "Nicholas Som",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49152273",
+      "headline": "Philipp Lahm: Gianni Infantino has 'sold out' the World Cup",
+      "description": "World Cup winner Philipp Lahm has launched a scathing criticism of FIFA president Gianni Infantino, accusing him of having \"sold out\" the World Cup.",
+      "published": "2026-06-23T11:50:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49152273/philipp-lahm-gianni-infantino-sold-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678097_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Algeria",
-        "Argentina",
-        "Australia",
-        "Austria",
-        "Belgium",
-        "Brazil",
-        "Canada",
-        "Colombia",
-        "Croatia",
-        "Ecuador",
-        "England",
-        "Egypt",
-        "France",
-        "Germany",
-        "Ghana",
-        "IR Iran",
-        "Côte d'Ivoire",
-        "Japan",
-        "Morocco",
-        "Netherlands",
-        "New Zealand",
-        "Panama",
-        "Paraguay",
-        "Portugal",
-        "Qatar",
-        "Saudi Arabia",
-        "Senegal",
-        "Korea Republic",
-        "Spain",
-        "Switzerland",
-        "Tunisia",
-        "USA",
-        "Uruguay",
-        "Uzbekistan"
+        "Germany"
       ],
       "players": [],
-      "score": 125
-    },
-    {
-      "id": "49150438",
-      "headline": "Haaland is on a collision course with Mbappé, and the World Cup is better for it",
-      "description": "Norway's 3-2 victory over Senegal has set up a mouth-watering, top-of-Group-I clash between Norway and France on Friday. In other words, it's Erling Haaland vs. Kylian Mbappé",
-      "published": "2026-06-23T06:11:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49150438/haaland-collision-course-mbappe-world-cup-better-it",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678055_1296x729_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "France",
-        "Norway",
-        "Senegal"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Erling Haaland"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49145445",
-      "headline": "Who is Saíd Martínez? 'The mathematician' set to referee England vs. Ghana at the World Cup",
-      "description": "England will look to build on a strong start to their World Cup campaign when they face Ghana in Group L on Tuesday, as victory will see them progress to the knockout stages.",
-      "published": "2026-06-23T06:47:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49145445/who-said-martinez-england-vs-ghana-2026-world-cup-referee",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677713_594x334_16-9.jpg",
-      "byline": "Nina Hristova",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Ghana"
-      ],
-      "players": [],
-      "score": 123
+      "score": 115
     },
     {
       "id": "49151688",
@@ -553,7 +864,7 @@
       "players": [
         "Kylian Mbappé"
       ],
-      "score": 122
+      "score": 115
     },
     {
       "id": "49151767",
@@ -572,95 +883,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 122
-    },
-    {
-      "id": "49144478",
-      "headline": "South Africa vs. South Korea  at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
-      "description": "Everything you need to know ahead of the World Cup Group A finale between South Africa and South Korea.",
-      "published": "2026-06-23T06:14:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49144478/fifa-world-cup-2026-south-africa-vs-south-korea-channel-how-watch-kickoff-live-stream-referee-predicted-line-ups",
-      "image": "https://a.espncdn.com/photo/2026/0612/r1671732_1296x729_16-9.jpg",
-      "byline": "Sunaadh Sagar",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "South Africa",
-        "Korea Republic"
-      ],
-      "players": [],
-      "score": 122
-    },
-    {
-      "id": "49085479",
-      "headline": "Lionel Messi at the World Cup: History, results, stats",
-      "description": "Here's how Lionel Messi has performed for Argentina at the World Cup throughout his career.",
-      "published": "2026-06-23T05:37:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49085479/lionel-messi-world-cup-history-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674372_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 122
-    },
-    {
-      "id": "48979217",
-      "headline": "Kylian Mbappe at the World Cup: History, results, stats",
-      "description": "As Mbappé aims to lead France back to soccer's mountaintop, here is a look at his career at the FIFA World Cup.",
-      "published": "2026-06-23T05:37:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48979217/kylian-mbappe-fifa-world-cup-history-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667132_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49019838",
-      "headline": "Who scored the most goals in men's World Cup history?",
-      "description": "Argentina's Lionel Messi scored the most goals in men's World Cup history. Check out which other soccer stars made the list.",
-      "published": "2026-06-23T05:33:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49019838/who-scored-most-goals-men-world-cup-history",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677710_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Lionel Messi"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49152273",
-      "headline": "Philipp Lahm: Gianni Infantino has 'sold out' the World Cup",
-      "description": "World Cup winner Philipp Lahm has launched a scathing criticism of FIFA president Gianni Infantino, accusing him of having \"sold out\" the World Cup.",
-      "published": "2026-06-23T11:50:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49152273/philipp-lahm-gianni-infantino-sold-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678097_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 121
+      "score": 115
     },
     {
       "id": "49151640",
@@ -680,7 +903,7 @@
         "Cristiano Ronaldo",
         "Neymar"
       ],
-      "score": 121
+      "score": 114
     },
     {
       "id": "49151585",
@@ -699,58 +922,7 @@
         "Lionel Messi",
         "Luis Suárez"
       ],
-      "score": 121
-    },
-    {
-      "id": "49083555",
-      "headline": "France at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the France men's national team's performance throughout the tournament's history.",
-      "published": "2026-06-23T05:52:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49083555/france-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674268_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France"
-      ],
-      "players": [],
-      "score": 120
-    },
-    {
-      "id": "49003238",
-      "headline": "Who are the oldest and youngest men to score at the World Cup?",
-      "description": "Pelé is the youngest player to score in World Cup history. Check out which other players made the list of oldest and youngest goal scorers.",
-      "published": "2026-06-23T05:45:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49003238/who-oldest-youngest-men-score-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670338_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Mexico",
-        "Brazil",
-        "England",
-        "Portugal"
-      ],
-      "players": [],
-      "score": 119
-    },
-    {
-      "id": "49084603",
-      "headline": "Argentina at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the Argentina men's national team's performance throughout the tournament's history.",
-      "published": "2026-06-23T05:38:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49084603/argentina-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674317_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
-      "score": 119
+      "score": 114
     },
     {
       "id": "49151449",
@@ -767,244 +939,7 @@
         "Ghana"
       ],
       "players": [],
-      "score": 118
-    },
-    {
-      "id": "49151575",
-      "headline": "Aitana Bonmatí throws the first pitch at San Diego Padres game",
-      "description": "Aitana Bonmatí throws the first pitch at San Diego Padres game.",
-      "published": "2026-06-23T09:13:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/49151575/aitana-bonmati-throws-first-pitch-san-diego-padres-game",
-      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_Aitana_Bonmati_throws_the_first_pitch_at_San_Diego_Padres_game/dm_260623_Aitana_Bonmati_throws_the_first_pitch_at_San_Diego_Padres_game.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Aitana Bonmatí"
-      ],
-      "score": 117
-    },
-    {
-      "id": "49097024",
-      "headline": "Fashion police: How FIFA works to prevent World Cup kit clashes",
-      "description": "The similar shirts in March's U.S.-Belgium friendly created confusion on the pitch, so how does FIFA keep teams' looks separate during the World Cup?",
-      "published": "2026-06-23T08:39:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49097024/fashion-police-how-fifa-works-prevent-world-cup-kit-clashes",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674858_1296x729_16-9.jpg",
-      "byline": "Sam Borden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 117
-    },
-    {
-      "id": "49151075",
-      "headline": "Mbappé 'not thinking' about World Cup goal record rivalry with Messi",
-      "description": "Mbappé 'not thinking' about World Cup goal record rivalry with Messi.",
-      "published": "2026-06-23T06:46:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49151075/mbappe-not-thinking-world-cup-goal-record-rivalry-messi",
-      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_Mbappe_not_thinking_about_World_Cup_goal_record_rivalry_with_Messi/dm_260623_Mbappe_not_thinking_about_World_Cup_goal_record_rivalry_with_Messi.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 117
-    },
-    {
-      "id": "48376236",
-      "headline": "Lineker, Shearer, Owen, Rooney, Kane - is England's near half-century of world-class strikers about to end?",
-      "description": "With an elite striker having worn the Three Lions on their chest for 42 years, England have taken the position for granted - but is Harry Kane the last?",
-      "published": "2026-06-23T06:42:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48376236/england-world-class-strikers-harry-kane-last-world-cup-gary-lineker-alan-shearer-michael-owen-wayne-rooney",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667141_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 117
-    },
-    {
-      "id": "48769157",
-      "headline": "Scotland's 2026 World Cup squad: All 26 players picked by Steve Clarke and why",
-      "description": "Scotland manager Steve Clarke has named the 26 players he believes can make an impression at the 2026 World Cup in the United States, Canada and Mexico.",
-      "published": "2026-06-23T06:32:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48769157/meet-scotland-2026-world-cup-squad-all-26-players-picked-steve-clarke-why",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660341_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Scotland",
-        "Mexico",
-        "Canada",
-        "USA"
-      ],
-      "players": [
-        "Angus Gunn",
-        "Scott McKenna",
-        "Grant Hanley",
-        "Andy Robertson",
-        "Kieran Tierney",
-        "Scott McTominay",
-        "John McGinn",
-        "Billy Gilmour",
-        "Ryan Christie",
-        "Ché Adams",
-        "Lyndon Dykes"
-      ],
-      "score": 117
-    },
-    {
-      "id": "49151455",
-      "headline": "'Every Jordanian can be proud' - Jordan boss on Algeria defeat",
-      "description": "'Every Jordanian can be proud' - Jordan boss on Algeria defeat",
-      "published": "2026-06-23T08:19:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/49151455/every-jordanian-proud-jordan-boss-algeria-defeat",
-      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_COM_SOC_Presser_Every_Jordanian_can_be_proud_Jordan_boss_on_Algeria_defeat_20260623_GLOBAL_F/dm_260623_COM_SOC_Presser_Every_Jordanian_can_be_proud_Jordan_boss_on_Algeria_defeat_20260623_GLOBAL_F.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Algeria",
-        "Jordan"
-      ],
-      "players": [],
-      "score": 116
-    },
-    {
-      "id": "49067208",
-      "headline": "Why indoor venues give select World Cup teams a big competitive advantage",
-      "description": "Some teams at the World Cup have a major advantage no one is talking about, but it could be the difference between winning and losing.",
-      "published": "2026-06-23T07:57:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49067208/why-indoor-venues-give-select-world-cup-teams-big-competitive-advantage",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678036_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 116
-    },
-    {
-      "id": "48823863",
-      "headline": "England's 2026 World Cup squad: All 26 players picked by Thomas Tuchel and why",
-      "description": "ESPN takes a look at every player named in the England squad for the 2026 World Cup.",
-      "published": "2026-06-23T06:29:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48823863/england-2026-world-cup-squad-26-players-picked-thomas-tuchel-why",
-      "image": "https://a.espncdn.com/photo/2026/0522/r1661870_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane",
-        "Jude Bellingham",
-        "Eberechi Eze",
-        "Noni Madueke",
-        "Morgan Rogers",
-        "Reece James",
-        "Dan Burn",
-        "Dean Henderson",
-        "James Trafford",
-        "Jordan Pickford",
-        "Tino Livramento",
-        "Jarell Quansah",
-        "Marc Guéhi",
-        "Ezri Konsa",
-        "Nico O'Reilly",
-        "Jordan Henderson",
-        "Kobbie Mainoo",
-        "Declan Rice",
-        "Bukayo Saka",
-        "Ollie Watkins",
-        "Ivan Toney",
-        "Anthony Gordon",
-        "Marcus Rashford",
-        "Elliot Anderson",
-        "John Stones",
-        "Djed Spence"
-      ],
-      "score": 116
-    },
-    {
-      "id": "49117037",
-      "headline": "Messi, Haaland, Mbappé, Kane: Who will be the World Cup's top scorer?",
-      "description": "We're more than a week into the 2026 World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is heating up.",
-      "published": "2026-06-23T05:51:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1676221_1296x729_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina",
-        "France",
-        "Norway",
-        "USA"
-      ],
-      "players": [
-        "Harry Kane",
-        "Lionel Messi",
-        "Kylian Mbappé",
-        "Erling Haaland",
-        "Folarin Balogun"
-      ],
-      "score": 116
-    },
-    {
-      "id": "49144590",
-      "headline": "Why are England fans singing 'Wonderwall' at the World Cup?",
-      "description": "It was one of the moments of the tournament so far. Why are England fans singing Wonderwall at the World Cup?",
-      "published": "2026-06-23T07:21:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49144590/why-england-fans-singing-wonderwall-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677653_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 115
-    },
-    {
-      "id": "49148833",
-      "headline": "France star Kylian Mbappé is fast becoming 'Mr. World Cup'",
-      "description": "A century of caps for France and 16 goals in 16 World Cup games? It's almost as if this tournament is made for Kylian Mbappé.",
-      "published": "2026-06-23T04:05:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49148833/france-star-kylian-mbappe-fast-becoming-mr-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1677969_1296x729_16-9.jpg",
-      "byline": "Julien Laurens",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Iraq"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 113
+      "score": 112
     }
   ]
 }
