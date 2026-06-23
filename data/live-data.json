@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-06-22T19:19:05.245Z",
+  "updated": "2026-06-23T10:48:39.077Z",
   "results": {
     "A": [
       [
@@ -171,8 +171,14 @@
         1,
         4
       ],
-      null,
-      null,
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        3
+      ],
       null,
       null
     ],
@@ -189,7 +195,10 @@
         2,
         0
       ],
-      null,
+      [
+        2,
+        1
+      ],
       null,
       null
     ],
@@ -736,8 +745,8 @@
       "s": "I",
       "h": "France",
       "a": "Iraq",
-      "hg": null,
-      "ag": null,
+      "hg": 3,
+      "ag": 0,
       "v": "Lincoln Financial Field (Philadelphia, USA)"
     },
     {
@@ -746,8 +755,8 @@
       "s": "I",
       "h": "Norway",
       "a": "Senegal",
-      "hg": null,
-      "ag": null,
+      "hg": 3,
+      "ag": 2,
       "v": "MetLife Stadium (New York/New Jersey, USA)"
     },
     {
@@ -806,8 +815,8 @@
       "s": "J",
       "h": "Jordan",
       "a": "Algeria",
-      "hg": null,
-      "ag": null,
+      "hg": 1,
+      "ag": 2,
       "v": "Levi's Stadium (San Francisco Bay Area, USA)"
     },
     {
