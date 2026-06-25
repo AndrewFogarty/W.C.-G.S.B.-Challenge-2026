@@ -1,14 +1,597 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-06-25T10:21:07.796Z",
+  "updated": "2026-06-25T17:34:55.533Z",
   "counts": {
-    "news": 27,
+    "news": 28,
+    "preview": 11,
     "celebration": 6,
-    "preview": 13,
-    "injury": 1,
-    "offfield": 1
+    "offfield": 3
   },
   "items": [
+    {
+      "id": "49177328",
+      "headline": "Don Hutchison needed a hug after Scotland's loss to Brazil",
+      "description": "Don Hutchison needed a hug after Scotland's loss to Brazil",
+      "published": "2026-06-25T17:18:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/49177328/don-hutchison-needed-hug-scotland-loss-brazil",
+      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_News_Don_Hutchison_needed_a_hug_after_Scotlands_loss_to_Brazil__20260625_GLOBAL_FIFA_WO/dm_260625_COM_SOC_News_Don_Hutchison_needed_a_hug_after_Scotlands_loss_to_Brazil__20260625_GLOBAL_FIFA_WO.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "Scotland"
+      ],
+      "players": [],
+      "score": 210
+    },
+    {
+      "id": "48953200",
+      "headline": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
+      "description": "Who will Team USA face in the World Cup knockout rounds? What's the likely path? What are the odds? What do projection models say?",
+      "published": "2026-06-25T16:57:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48953200/usmnt-usa-world-cup-scenarios-bracket-permutations-qualify-betting-odds-projections-predictions",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1676299_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 208
+    },
+    {
+      "id": "48386952",
+      "headline": "Every team's championship, group odds for the 2026 World Cup",
+      "description": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+      "published": "2026-06-25T16:22:31Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1672994_1296x729_16-9.jpg",
+      "byline": "Doug Greenberg",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "France",
+        "Brazil",
+        "England",
+        "Spain",
+        "Argentina",
+        "Portugal",
+        "Germany",
+        "Netherlands",
+        "Belgium",
+        "Colombia",
+        "Japan",
+        "Canada",
+        "Mexico",
+        "Norway",
+        "Morocco",
+        "Uruguay",
+        "Ecuador",
+        "Sweden",
+        "Croatia",
+        "Switzerland",
+        "Austria",
+        "Australia",
+        "Senegal",
+        "Czechia",
+        "Paraguay",
+        "Scotland",
+        "Egypt",
+        "Algeria",
+        "Korea Republic",
+        "Ghana",
+        "Panama",
+        "South Africa",
+        "New Zealand",
+        "Iraq",
+        "Cabo Verde",
+        "Uzbekistan",
+        "Jordan",
+        "Haiti"
+      ],
+      "players": [],
+      "score": 197
+    },
+    {
+      "id": "49172255",
+      "headline": "World Cup Daily LIVE: Emotional Neymar inspired by Lewis Hamilton; USMNT in action",
+      "description": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action.",
+      "published": "2026-06-25T15:33:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49172255/world-cup-daily-live-neymar-inspired-lewis-hamilton-brazil-return-usmnt-action",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679257_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Brazil",
+        "USA",
+        "Germany"
+      ],
+      "players": [
+        "Neymar"
+      ],
+      "score": 187
+    },
+    {
+      "id": "49009665",
+      "headline": "Group F at the 2026 World Cup: Teams, records, stats to know",
+      "description": "Group F at the 2026 World Cup features Netherlands, Japan, Tunisia and Sweden. Find out more about their history at the World Cup.",
+      "published": "2026-06-25T15:20:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49009665/group-f-2026-world-cup-teams-records-stats-know-netherlands-japan-tunisia-sweden",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670278_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Netherlands",
+        "Japan",
+        "Tunisia",
+        "Sweden"
+      ],
+      "players": [],
+      "score": 174
+    },
+    {
+      "id": "49175943",
+      "headline": "South Africa fans celebrate into the morning after historic win",
+      "description": "South Africa fans celebrate into the morning after historic win",
+      "published": "2026-06-25T14:41:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/49175943/south-africa-fans-celebrate-morning-historic-win",
+      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_Misc_South_Africa_fans_celebrate_into_the_morning_after_historic_win_20260625_GLOBAL_FIF/dm_260625_COM_SOC_Misc_South_Africa_fans_celebrate_into_the_morning_after_historic_win_20260625_GLOBAL_FIF.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "South Africa",
+        "Korea Republic"
+      ],
+      "players": [],
+      "score": 163
+    },
+    {
+      "id": "49175656",
+      "headline": "Will Bosnia & Herzegovina cause U.S. any issues?",
+      "description": "Will Bosnia & Herzegovina cause U.S. any issues?",
+      "published": "2026-06-25T15:56:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/49175656/will-bosnia-herzegovina-cause-us-issues",
+      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_Analysis_Will_Bosnia_Herzegovina_cause_US_any_issues_20260625_GLOBAL_FIFA_WORLD_CUP/dm_260625_COM_SOC_Analysis_Will_Bosnia_Herzegovina_cause_US_any_issues_20260625_GLOBAL_FIFA_WORLD_CUP.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Bosnia"
+      ],
+      "players": [],
+      "score": 148
+    },
+    {
+      "id": "49176157",
+      "headline": "Gotham sign USWNT defender Emily Sonnett to new deal through 2028",
+      "description": "Defending NWSL champions Gotham FC have signed United States women's national team defender Emily Sonnett to a new contract through the 2028 season.",
+      "published": "2026-06-25T15:14:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49176157/gotham-sign-uswnt-defender-emily-sonnett-new-deal-2028",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679347_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Brazil",
+        "USA"
+      ],
+      "players": [
+        "Emily Sonnett",
+        "Neymar"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49173065",
+      "headline": "Transfer rumors, news: Man United want Scotland keeper Gunn",
+      "description": "Manchester United are considering a surprise move for Scotland goalkeeper Angus Gunn. Transfer Talk has the latest.",
+      "published": "2026-06-25T14:26:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49173065/transfer-rumors-news-manchester-united-want-scotland-goalkeeper-gunn",
+      "image": "https://a.espncdn.com/photo/2026/0518/r1659834_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Brazil",
+        "Scotland"
+      ],
+      "players": [
+        "Angus Gunn",
+        "Neymar"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49175558",
+      "headline": "Tyler Adams inspired by \"Country Roads\" moment",
+      "description": "Tyler Adams inspired by \"Country Roads\" moment",
+      "published": "2026-06-25T15:08:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/49175558/tyler-adams-inspired-country-roads-moment",
+      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_Tyler_Adams_on_memorable_Seattle_Country_Roads_moment/dm_260625_Tyler_Adams_on_memorable_Seattle_Country_Roads_moment.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Tyler Adams"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49167040",
+      "headline": "What Türkiye match will reveal about USMNT's knockout-round hopes",
+      "description": "The USMNT is expected to rotate in its Group D finale against Türkiye, a side that will present a challenge similar to the World Cup's best teams.",
+      "published": "2026-06-25T15:08:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49167040/what-turkiye-match-reveal-usmnt-world-cup-knockout-round-hopes",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679244_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 135
+    },
+    {
+      "id": "49173323",
+      "headline": "Gayton McKenzie, Cyril Ramaphosa, Springboks congratulate Bafana Bafana on World Cup round of 32 spot",
+      "description": "South Africa beat South Korea 1-0 to qualify for the second round of the FIFA World Cup for the first time. Congratulatory notes poured in on social media.",
+      "published": "2026-06-25T12:44:36Z",
+      "url": "https://www.espn.com/espn/story/_/id/49173323/gayton-mckenzie-cyril-ramaphosa-springboks-congratulate-bafana-bafana-world-cup-round-32-spot",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679258_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "South Africa",
+        "Korea Republic",
+        "Canada"
+      ],
+      "players": [],
+      "score": 132
+    },
+    {
+      "id": "49117037",
+      "headline": "Messi, Haaland, Mbappé, Kane: Who will be the World Cup's top scorer?",
+      "description": "We're more than a week into the 2026 World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is heating up.",
+      "published": "2026-06-25T15:45:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1676221_1296x729_16-9.jpg",
+      "byline": "Connor O'Halloran",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina",
+        "France",
+        "Norway",
+        "USA"
+      ],
+      "players": [
+        "Harry Kane",
+        "Lionel Messi",
+        "Kylian Mbappé",
+        "Erling Haaland",
+        "Folarin Balogun"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49172230",
+      "headline": "South Korea on brink of WC exit after 'wrong' Son gamble",
+      "description": "South Korea coach Hong Myung-Bo had jaws dropping when he chose to leave out captain Son Heung-Min from his first XI for Wednesday's Group A decider against South Africa -- the first time since 2010 that Son had not started a World Cup game.",
+      "published": "2026-06-25T15:15:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49172230/south-korea-brink-wc-exit-wrong-son-gamble",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679212_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Korea Republic",
+        "South Africa"
+      ],
+      "players": [
+        "Son Heung-Min"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49172572",
+      "headline": "Ronwen Williams pays tribute to past Bafana greats after South Korea win",
+      "description": "Ronwen Williams said that although he was the first captain of a Bafana team which made the World Cup knockout rounds, past icons paved the way.",
+      "published": "2026-06-25T09:21:15Z",
+      "url": "https://www.espn.com/espn/story/_/id/49172572/ronwen-williams-pays-tribute-bafana-greats-south-korea-win",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679241_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "South Africa",
+        "Korea Republic",
+        "Canada"
+      ],
+      "players": [
+        "Ronwen Williams"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49173190",
+      "headline": "Anti-gay chant makes a return in Mexico's World Cup match against Czechia",
+      "description": "Fans at Mexico's final World Cup group stage match on Wednesday chanted a slur that has previously led to fines and other sanctions against the country's soccer federation.",
+      "published": "2026-06-25T16:57:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49173190/anti-gay-chant-return-mexico-world-cup-match-czech-republic",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679250_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico",
+        "Czechia"
+      ],
+      "players": [],
+      "score": 129
+    },
+    {
+      "id": "49176078",
+      "headline": "Putellas reaches agreement with London City Lionesses - sources",
+      "description": "Ballon d'Or winner Alexia Putellas has reached an agreement with London City Lionesses, multiple sources confirmed to ESPN, after leaving Barcelona following a 14-year spell.",
+      "published": "2026-06-25T15:05:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49176078/alexia-putellas-reaches-agreement-london-city-lionesses-sources",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670740_1296x729_16-9.jpg",
+      "byline": "Emily Keogh and Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "Spain"
+      ],
+      "players": [
+        "Alexia Putellas",
+        "Neymar"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49175468",
+      "headline": "2026 World Cup June 25 schedule: Soccer games today",
+      "description": "What is the World Cup schedule today? Find out more about Thursday's matches.",
+      "published": "2026-06-25T14:49:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49175468/2026-world-cup-june-25-schedule-soccer-games-today",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679340_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "Germany"
+      ],
+      "players": [
+        "Neymar"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49150809",
+      "headline": "Mohamed Salah finally writes World Cup history with Egypt - can he salvage his international legacy?",
+      "description": "Mohamed Salah has achieved more in the sport than any other Egyptian player in history, gracing the upper echelons of the game with Liverpool, winning silverware aplenty at Anfield, and establishing himself as a global superstar.",
+      "published": "2026-06-25T10:18:38Z",
+      "url": "https://www.espn.com/espn/story/_/id/49150809/mohamed-salah-writes-world-cup-history-egypt-salvage-international-legacy",
+      "image": "https://a.espncdn.com/photo/2026/0622/r1677529_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Egypt"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Omar Marmoush"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49175467",
+      "headline": "Hearts appoint Wouter Vrancken as new head coach after Derek McInnes' departure",
+      "description": "Hearts have confirmed the appointment of Wouter Vrancken as their new head coach.",
+      "published": "2026-06-25T14:26:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49175467/hearts-appoint-wouter-vrancken-new-head-coach-derek-mcinnes-departure",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679322_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Neymar"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49175474",
+      "headline": "Why Vinícius Jr. needs to play centrally for Brazil",
+      "description": "Why Vinícius Jr. needs to play centrally for Brazil",
+      "published": "2026-06-25T14:01:22Z",
+      "url": "https://www.espn.com/video/clip/_/id/49175474/why-vinicius-jr-needs-play-centrally-brazil",
+      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_Analysis_Why_Vinicius_Jr_needs_to_play_centrally_for_Brazil_20260625_GLOBAL_FIFA_WORLD/dm_260625_COM_SOC_Analysis_Why_Vinicius_Jr_needs_to_play_centrally_for_Brazil_20260625_GLOBAL_FIFA_WORLD.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "Scotland"
+      ],
+      "players": [
+        "Vinícius Júnior"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49173329",
+      "headline": "Aubrey Modiba: Canada must beware of Bafana 'upset' despite 'home' advantage",
+      "description": "South Africa's Aubrey Modiba is quietly confident that Bafana Bafana can add to the World Cup's growing list of surprise results when they face Canada in their Last 32 match in Inglewood on Sunday.",
+      "published": "2026-06-25T09:22:15Z",
+      "url": "https://www.espn.com/espn/story/_/id/49173329/canada-beware-bafana-upset-home-advantage",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679185_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "South Africa",
+        "Canada"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "48972466",
+      "headline": "World Cup 2026: Can Lionel Messi and Cristiano Ronaldo finally meet on biggest stage?",
+      "description": "In a sixth World Cup for Lionel Messi and Cristiano Ronaldo, could the pair finally face each other in the tournament?",
+      "published": "2026-06-25T07:45:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48972466/world-cup-2026-lionel-messi-cristiano-ronaldo-showdown-knockouts-argentina-portugal",
+      "image": "https://a.espncdn.com/photo/2026/0605/r1668521_608x342_16-9.png",
+      "byline": "Anirudh Menon",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Portugal"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49116383",
+      "headline": "Where has Infantino been? FIFA president's epic World Cup tour",
+      "description": "The FIFA president has been flying all across the World Cup host nations on his private jet. Here's where he has been so far during the tournament.",
+      "published": "2026-06-25T14:06:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679271_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Argentina",
+        "Brazil",
+        "Canada",
+        "England",
+        "France",
+        "Germany",
+        "Mexico",
+        "Portugal",
+        "USA"
+      ],
+      "players": [],
+      "score": 125
+    },
+    {
+      "id": "49173020",
+      "headline": "Neymar emotional upon return to Brazil squad",
+      "description": "Neymar emotional upon return to Brazil squad",
+      "published": "2026-06-25T07:29:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/49173020/neymar-emotional-return-brazil-squad",
+      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_Neymar_emotional_upon_return_to_Brazil_squad/dm_260625_Neymar_emotional_upon_return_to_Brazil_squad.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Neymar"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49174107",
+      "headline": "Viní Jr says he knew his Brazil form would improve 'when the time was right'",
+      "description": "Vinícius Júnior never doubted his form for Brazil would improve and expects it to get even better during the World Cup.",
+      "published": "2026-06-25T12:23:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49174107/vinicius-jr-ancelotti-brazil-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679281_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [],
+      "score": 122
+    },
+    {
+      "id": "48352807",
+      "headline": "World Cup kit ranking: Which teams will look best in 2026?",
+      "description": "The 2026 World Cup will be the first with 48 teams, bringing a total of more than 100 kits! Here they all are, ranked from worst to first.",
+      "published": "2026-06-25T11:58:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637137_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Algeria",
+        "Argentina",
+        "Australia",
+        "Austria",
+        "Brazil",
+        "Belgium",
+        "Canada",
+        "Colombia",
+        "DR Congo",
+        "Croatia",
+        "Curaçao",
+        "Czechia",
+        "Ecuador",
+        "Egypt",
+        "England",
+        "France",
+        "Germany",
+        "Ghana",
+        "Haiti",
+        "Iraq",
+        "IR Iran",
+        "Côte d'Ivoire",
+        "Japan",
+        "Jordan",
+        "Mexico",
+        "Morocco",
+        "New Zealand",
+        "Netherlands",
+        "Norway",
+        "Panama",
+        "Paraguay",
+        "Portugal",
+        "Qatar",
+        "Saudi Arabia",
+        "Scotland",
+        "Senegal",
+        "Spain",
+        "South Africa",
+        "Korea Republic",
+        "Sweden",
+        "Switzerland",
+        "Tunisia",
+        "Uruguay",
+        "USA",
+        "Uzbekistan"
+      ],
+      "players": [],
+      "score": 122
+    },
     {
       "id": "49148573",
       "headline": "Senegal, Koulibaly in disarray as World Cup 'curse' for Africa's champions continues",
@@ -29,46 +612,7 @@
         "Nicolas Jackson",
         "Kalidou Koulibaly"
       ],
-      "score": 213
-    },
-    {
-      "id": "49150809",
-      "headline": "Mohamed Salah finally writes World Cup history with Egypt - can he salvage his international legacy?",
-      "description": "Mohamed Salah has achieved more in the sport than any other Egyptian player in history, gracing the upper echelons of the game with Liverpool, winning silverware aplenty at Anfield, and establishing himself as a global superstar.",
-      "published": "2026-06-25T10:18:38Z",
-      "url": "https://www.espn.com/espn/story/_/id/49150809/mohamed-salah-writes-world-cup-history-egypt-salvage-international-legacy",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677529_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Egypt"
-      ],
-      "players": [
-        "Mohamed Salah",
-        "Omar Marmoush"
-      ],
-      "score": 210
-    },
-    {
-      "id": "49172255",
-      "headline": "World Cup Daily: Emotional Neymar inspired by Lewis Hamilton; USMNT in action",
-      "description": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action.",
-      "published": "2026-06-25T10:17:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49172255/world-cup-daily-neymar-inspired-lewis-hamilton-brazil-return-usmnt-action",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679257_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Brazil",
-        "USA",
-        "Germany"
-      ],
-      "players": [
-        "Neymar"
-      ],
-      "score": 200
+      "score": 122
     },
     {
       "id": "49173452",
@@ -86,188 +630,7 @@
       "players": [
         "Neymar"
       ],
-      "score": 183
-    },
-    {
-      "id": "49173329",
-      "headline": "Aubrey Modiba: Canada must beware of Bafana 'upset' despite 'home' advantage",
-      "description": "South Africa's Aubrey Modiba is quietly confident that Bafana Bafana can add to the World Cup's growing list of surprise results when they face Canada in their Last 32 match in Inglewood on Sunday.",
-      "published": "2026-06-25T09:22:15Z",
-      "url": "https://www.espn.com/espn/story/_/id/49173329/canada-beware-bafana-upset-home-advantage",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679185_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "South Africa",
-        "Canada"
-      ],
-      "players": [],
-      "score": 178
-    },
-    {
-      "id": "49173319",
-      "headline": "Jürgen Klopp shrugs off question about Bastian Schweinsteiger's remarks on Ivory Coast's play style",
-      "description": "Jürgen Klopp broke off an interview after being asked about former Germany player Bastian Schweinsteiger's characterisations about the Ivory Coast's team's style of play.",
-      "published": "2026-06-25T09:16:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49173319/jurgen-klopp-refuses-question-bastian-schweinsteiger-remarks-ivory-coast-play-style",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679254_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany",
-        "Côte d'Ivoire"
-      ],
-      "players": [],
-      "score": 158
-    },
-    {
-      "id": "49173190",
-      "headline": "Anti-gay chant makes a return in Mexico's World Cup match against Czechia",
-      "description": "Fans at Mexico's final World Cup group stage match on Wednesday chanted a slur that has previously led to fines and other sanctions against the country's soccer federation.",
-      "published": "2026-06-25T09:22:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49173190/anti-gay-chant-return-mexico-world-cup-match-czech-republic",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679250_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico",
-        "Czechia"
-      ],
-      "players": [],
-      "score": 149
-    },
-    {
-      "id": "49172572",
-      "headline": "Ronwen Williams pays tribute to past Bafana greats after South Korea win",
-      "description": "Ronwen Williams said that although he was the first captain of a Bafana team which made the World Cup knockout rounds, past icons paved the way.",
-      "published": "2026-06-25T09:21:15Z",
-      "url": "https://www.espn.com/espn/story/_/id/49172572/ronwen-williams-pays-tribute-bafana-greats-south-korea-win",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679241_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "South Africa",
-        "Korea Republic",
-        "Canada"
-      ],
-      "players": [
-        "Ronwen Williams"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49162941",
-      "headline": "Norway vs. France at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, predicted line-ups",
-      "description": "Everything you need to know ahead of the 2026 World Cup encounter between Norway and France.",
-      "published": "2026-06-25T08:35:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49162941/norway-vs-france-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678055_608x342_16-9.jpg",
-      "byline": "Anish Anand",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Senegal",
-        "France",
-        "Norway"
-      ],
-      "players": [
-        "Sadio Mané"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49114814",
-      "headline": "Tottenham Premier League fixtures 2026-27: Roberto De Zerbi's team face tough end to season",
-      "description": "Tottenham begin their 2026-27 Premier League season with a trip across London to face Brentford, and face a daunting-looking end to their campaign.",
-      "published": "2026-06-25T08:27:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49114814/tottenham-premier-league-fixtures-2026-27-roberto-de-zerbi-team-face-tough-end-season",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675963_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Sadio Mané"
-      ],
-      "score": 139
-    },
-    {
-      "id": "48376236",
-      "headline": "Lineker, Shearer, Owen, Rooney, Kane - is England's near half-century of world-class strikers about to end?",
-      "description": "With an elite striker having worn the Three Lions on their chest for 42 years, England have taken the position for granted - but is Harry Kane the last?",
-      "published": "2026-06-25T07:50:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48376236/england-world-class-strikers-harry-kane-last-world-cup-gary-lineker-alan-shearer-michael-owen-wayne-rooney",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667141_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 139
-    },
-    {
-      "id": "48972466",
-      "headline": "World Cup 2026: Can Lionel Messi and Cristiano Ronaldo finally meet on biggest stage?",
-      "description": "In a sixth World Cup for Lionel Messi and Cristiano Ronaldo, could the pair finally face each other in the tournament?",
-      "published": "2026-06-25T07:45:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48972466/world-cup-2026-lionel-messi-cristiano-ronaldo-showdown-knockouts-argentina-portugal",
-      "image": "https://a.espncdn.com/photo/2026/0605/r1668521_608x342_16-9.png",
-      "byline": "Anirudh Menon",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Cristiano Ronaldo"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49173020",
-      "headline": "Neymar emotional upon return to Brazil squad",
-      "description": "Neymar emotional upon return to Brazil squad",
-      "published": "2026-06-25T07:29:45Z",
-      "url": "https://www.espn.com/video/clip/_/id/49173020/neymar-emotional-return-brazil-squad",
-      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_Neymar_emotional_upon_return_to_Brazil_squad/dm_260625_Neymar_emotional_upon_return_to_Brazil_squad.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Neymar"
-      ],
-      "score": 136
-    },
-    {
-      "id": "49167040",
-      "headline": "What Türkiye match will reveal about USMNT's knockout-round hopes",
-      "description": "The USMNT is expected to rotate in its Group D finale against Türkiye, a side that will present a challenge similar to the World Cup's best teams.",
-      "published": "2026-06-25T07:14:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49167040/what-turkiye-match-reveal-usmnt-world-cup-knockout-round-hopes",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679244_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 134
+      "score": 122
     },
     {
       "id": "49031236",
@@ -316,7 +679,7 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 133
+      "score": 122
     },
     {
       "id": "49172734",
@@ -333,7 +696,7 @@
         "Scotland"
       ],
       "players": [],
-      "score": 133
+      "score": 122
     },
     {
       "id": "49170209",
@@ -354,7 +717,40 @@
         "Evidence Makgopa",
         "Son Heung-Min"
       ],
-      "score": 132
+      "score": 122
+    },
+    {
+      "id": "49172297",
+      "headline": "Aguirre's pragmatic Mexico has its doubters, but it is built for World Cup success",
+      "description": "Don't let the 3-0 scoreline fool you -- Mexico's win over Czechia was as pragmatic as they come, which is just how head coach Javier Aguirre had planned it.",
+      "published": "2026-06-25T11:24:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49172297/aguirres-pragmatic-mexico-doubters-built-world-cup-success",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679242_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico",
+        "Czechia"
+      ],
+      "players": [],
+      "score": 121
+    },
+    {
+      "id": "49173630",
+      "headline": "Park Ji-sung blasts KFA as South Korea warned against repeating 2014 World Cup failures",
+      "description": "South Korea legend Park Ji-sung has launched a scathing criticism of the Korea Football Association (KFA), warning that the national team is repeating the same mistakes that led to its disappointing 2014 FIFA World Cup campaign.",
+      "published": "2026-06-25T11:06:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49173630/park-ji-sung-blasts-kfa-south-korea-warned-repeating-2014-world-cup-failures",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679261_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Korea Republic"
+      ],
+      "players": [],
+      "score": 120
     },
     {
       "id": "49172354",
@@ -371,78 +767,42 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 131
+      "score": 120
     },
     {
-      "id": "49168487",
-      "headline": "Scotland player ratings as defence crumble in Brazil thrashing that puts World Cup qualification hopes in doubt",
-      "description": "Scotland player ratings from their dismal 3-0 defeat to Brazil that leaves their qualification hopes hanging in the balance.",
-      "published": "2026-06-25T01:33:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49168487/scotland-player-ratings-defence-crumble-brazil-thrashing-puts-world-cup-qualification-hopes-doubt",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679081_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49173319",
+      "headline": "Jürgen Klopp shrugs off question about Bastian Schweinsteiger's remarks on Ivory Coast's play style",
+      "description": "Jürgen Klopp broke off an interview after being asked about former Germany player Bastian Schweinsteiger's characterisations about the Ivory Coast's team's style of play.",
+      "published": "2026-06-25T09:16:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49173319/jurgen-klopp-refuses-question-bastian-schweinsteiger-remarks-ivory-coast-play-style",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679254_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Scotland",
-        "Brazil"
+        "Germany",
+        "Côte d'Ivoire"
       ],
       "players": [],
-      "score": 131
+      "score": 118
     },
     {
-      "id": "49114892",
-      "headline": "Liverpool Premier League fixtures 2026-27: Andoni Iraola tenure to begin with daunting trip to Newcastle",
-      "description": "Newly-appointed Liverpool manager Andoni Iraola will kick start his new role in the dugout away to Newcastle on the opening weekend of the Premier League season.",
-      "published": "2026-06-25T08:29:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49114892/liverpool-premier-league-fixtures-2026-27-andoni-iraola-newcastle-everton-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655680_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
+      "id": "48376236",
+      "headline": "Lineker, Shearer, Owen, Rooney, Kane - is England's near half-century of world-class strikers about to end?",
+      "description": "With an elite striker having worn the Three Lions on their chest for 42 years, England have taken the position for granted - but is Harry Kane the last?",
+      "published": "2026-06-25T07:50:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48376236/england-world-class-strikers-harry-kane-last-world-cup-gary-lineker-alan-shearer-michael-owen-wayne-rooney",
+      "image": "https://a.espncdn.com/photo/2026/0602/r1667141_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Senegal"
+        "England"
       ],
       "players": [
-        "Sadio Mané"
+        "Harry Kane"
       ],
-      "score": 130
-    },
-    {
-      "id": "49115208",
-      "headline": "Chelsea Premier League fixtures 2026-27: Xabi Alonso begins reign with London derby",
-      "description": "Xabi Alonso will begin his tenure as Chelsea manager with a London derby against Fulham on the first Monday of the 2026-27 Premier League season.",
-      "published": "2026-06-25T08:28:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49115208/chelsea-premier-league-fixtures-2026-27-xabi-alonso-begins-reign-london-derby-fulham-arsenal-brighton",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664744_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Sadio Mané"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49114816",
-      "headline": "Man United Premier League fixtures 2026-27: Hull City first up for Michael Carrick's side",
-      "description": "Manchester United will host newly-promoted Hull City at Old Trafford on the opening day of the 2026-27 Premier League season.",
-      "published": "2026-06-25T08:25:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49114816/man-united-premier-league-fixtures-2026-27-hull-city-first-michael-carrick-co",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675967_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Sadio Mané"
-      ],
-      "score": 130
+      "score": 118
     },
     {
       "id": "49171253",
@@ -460,7 +820,7 @@
       "players": [
         "Christian Pulisic"
       ],
-      "score": 129
+      "score": 118
     },
     {
       "id": "48823863",
@@ -503,21 +863,7 @@
         "John Stones",
         "Djed Spence"
       ],
-      "score": 129
-    },
-    {
-      "id": "49169240",
-      "headline": "FIFA World Cup 2026 stats: Vinicius Jr. joins Ronaldo with 5, Neymar joins Pele with 4; Alajbegovic breaks Mbappe's WC record",
-      "description": "ESPN's By The Numbers brings you best stats from the World Cup action on June 24.",
-      "published": "2026-06-25T04:06:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49169240/fifa-world-cup-2026-stats-vinicius-joins-ronaldo-5-neymar-joins-pele-4-alajbegovic-breaks-kylian-mbappe-record",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1679069_1296x729_16-9.jpg",
-      "byline": "Sunaadh Sagar, Anirudh Menon",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 129
+      "score": 118
     },
     {
       "id": "48769157",
@@ -548,75 +894,21 @@
         "Ché Adams",
         "Lyndon Dykes"
       ],
-      "score": 128
+      "score": 118
     },
     {
-      "id": "49156131",
-      "headline": "South Africa stun South Korea to reach World Cup knockouts for 1st time",
-      "description": "South Africa advanced to the knockout phase of the World Cup for the first time with a 1-0 victory over South Korea on Wednesday.",
-      "published": "2026-06-25T03:08:54Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/760466",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679174_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "South Africa",
-        "Korea Republic"
-      ],
+      "id": "49169240",
+      "headline": "FIFA World Cup 2026 stats: Vinicius Jr. joins Ronaldo with 5, Neymar joins Pele with 4; Alajbegovic breaks Mbappe's WC record",
+      "description": "ESPN's By The Numbers brings you best stats from the World Cup action on June 24.",
+      "published": "2026-06-25T04:06:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49169240/fifa-world-cup-2026-stats-vinicius-joins-ronaldo-5-neymar-joins-pele-4-alajbegovic-breaks-kylian-mbappe-record",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1679069_1296x729_16-9.jpg",
+      "byline": "Sunaadh Sagar, Anirudh Menon",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
       "players": [],
-      "score": 128
-    },
-    {
-      "id": "49171303",
-      "headline": "USMNT ready for knockout rounds",
-      "description": "Sam Borden discusses Christian Pulisic returning to training and USMNT preparing for their matchup with Türkiye.",
-      "published": "2026-06-25T02:48:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/49171303/usmnt-ready-knockout-rounds",
-      "image": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_USMNT_ready_for_knockout_rounds/dm_260624_USMNT_ready_for_knockout_rounds.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 128
-    },
-    {
-      "id": "49173051",
-      "headline": "'We answered those big mouths!' - South Africa's Broos hits back at critics",
-      "description": "'We answered those big mouths!' - South Africa's Broos hits back at critics",
-      "published": "2026-06-25T07:35:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/49173051/we-answered-big-mouths-south-africa-broos-hits-back-critics",
-      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_Presser_We_answered_those_big_mouths_South_Africas_Broos_hits_back_at_critics_20260/dm_260625_COM_SOC_Presser_We_answered_those_big_mouths_South_Africas_Broos_hits_back_at_critics_20260.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa",
-        "Korea Republic"
-      ],
-      "players": [],
-      "score": 126
-    },
-    {
-      "id": "48709856",
-      "headline": "World Cup 2026: Which players from your Premier League team are there?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "published": "2026-06-25T07:32:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "USA"
-      ],
-      "players": [],
-      "score": 126
+      "score": 118
     },
     {
       "id": "48957098",
@@ -635,24 +927,42 @@
         "Czechia"
       ],
       "players": [],
-      "score": 126
+      "score": 116
     },
     {
-      "id": "49170598",
-      "headline": "Craig Burley: Mediocre Scotland 'don't deserve' to make World Cup knockouts",
-      "description": "Craig Burley has said that Scotland \"do not deserve to go through\" to the knockout stages after they fell 3-0 to Brazil in Miami.",
-      "published": "2026-06-25T01:40:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49170598/craig-burley-mediocre-scotland-do-not-deserve-make-world-cup-knockouts",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679101_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49173051",
+      "headline": "'We answered those big mouths!' - South Africa's Broos hits back at critics",
+      "description": "'We answered those big mouths!' - South Africa's Broos hits back at critics",
+      "published": "2026-06-25T07:35:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/49173051/we-answered-big-mouths-south-africa-broos-hits-back-critics",
+      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_Presser_We_answered_those_big_mouths_South_Africas_Broos_hits_back_at_critics_20260/dm_260625_COM_SOC_Presser_We_answered_those_big_mouths_South_Africas_Broos_hits_back_at_critics_20260.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Scotland",
-        "Brazil"
+        "South Africa",
+        "Korea Republic"
       ],
       "players": [],
-      "score": 126
+      "score": 115
+    },
+    {
+      "id": "48709856",
+      "headline": "World Cup 2026: Which players from your Premier League team are there?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "published": "2026-06-25T07:32:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico",
+        "Canada",
+        "USA"
+      ],
+      "players": [],
+      "score": 115
     },
     {
       "id": "49171930",
@@ -671,41 +981,7 @@
       "players": [
         "Son Heung-Min"
       ],
-      "score": 125
-    },
-    {
-      "id": "49171207",
-      "headline": "Mexico fans came ready with umbrellas to celebrate goal vs. Czechia",
-      "description": "Mexico fans came ready with umbrellas to celebrate goal vs. Czechia",
-      "published": "2026-06-25T02:36:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/49171207/mexico-fans-came-ready-umbrellas-celebrate-goal-vs-czechia",
-      "image": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_COM_SOC_News_Mexico_fans_came_ready_with_umbrellas_to_celebrate_goal_vs_Czechia__20260624_GLOBA/dm_260624_COM_SOC_News_Mexico_fans_came_ready_with_umbrellas_to_celebrate_goal_vs_Czechia__20260624_GLOBA.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Czechia",
-        "Mexico"
-      ],
-      "players": [],
-      "score": 125
-    },
-    {
-      "id": "49170421",
-      "headline": "Tartan party over? Brazil humbling forces Scotland into nervous World Cup wait",
-      "description": "During Scotland's World Cup defeat to Brazil, their Tartan-cland band fell silent. Their hopes of continuing the party at this World Cup is hanging by a thread.",
-      "published": "2026-06-25T02:16:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49170421/tartan-party-world-cup-brazil-humbling-means-scotland-face-nervous-wait",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679126_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Scotland",
-        "Brazil"
-      ],
-      "players": [],
-      "score": 125
+      "score": 114
     },
     {
       "id": "48939282",
@@ -723,7 +999,7 @@
         "USA"
       ],
       "players": [],
-      "score": 124
+      "score": 113
     },
     {
       "id": "49172606",
@@ -740,43 +1016,7 @@
         "Czechia"
       ],
       "players": [],
-      "score": 124
-    },
-    {
-      "id": "49172297",
-      "headline": "Aguirre's pragmatic Mexico has its doubters, but is built for World Cup success",
-      "description": "Don't let the 3-0 scoreline fool you -- Mexico's win over Czechia was as pragmatic as they come, which is just how head coach Javier Aguirre had planned it.",
-      "published": "2026-06-25T06:17:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49172297/aguirres-pragmatic-mexico-doubters-built-world-cup-success",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679242_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico",
-        "Czechia"
-      ],
-      "players": [],
-      "score": 124
-    },
-    {
-      "id": "49172230",
-      "headline": "South Korea on brink of WC exit after 'wrong' Son gamble",
-      "description": "South Korea coach Hong Myung-Bo had jaws dropping when he chose to leave out captain Son Heung-Min from his first XI for Wednesday's Group A decider against South Africa -- the first time since 2010 Son had not started a World Cup game.",
-      "published": "2026-06-25T04:31:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49172230/south-korea-brink-wc-exit-wrong-son-gamble",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679212_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Korea Republic",
-        "South Africa"
-      ],
-      "players": [
-        "Son Heung-Min"
-      ],
-      "score": 124
+      "score": 113
     },
     {
       "id": "49171857",
@@ -798,140 +1038,7 @@
         "Evidence Makgopa",
         "Son Heung-Min"
       ],
-      "score": 123
-    },
-    {
-      "id": "48964271",
-      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
-      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
-      "published": "2026-06-25T07:38:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
-      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 122
-    },
-    {
-      "id": "49171513",
-      "headline": "Guillermo Ochoa cameo seals perfect Mexico group stage",
-      "description": "Goalkeeper Guillermo Ochoa took the field during the 78th minute of Mexico's 3-0 win over Czechia, giving the 40-year-old the chance to appear in his sixth World Cup.",
-      "published": "2026-06-25T05:05:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49171513/guillermo-ochoa-cameo-seals-perfect-mexico-group-stage",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679184_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico",
-        "Czechia"
-      ],
-      "players": [],
-      "score": 122
-    },
-    {
-      "id": "48945570",
-      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
-      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
-      "published": "2026-06-25T07:20:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 121
-    },
-    {
-      "id": "49172114",
-      "headline": "Klinsmann: It would be nonsense not starting USMNT stars on yellows",
-      "description": "Klinsmann: It would be nonsense not starting USMNT stars on yellows",
-      "published": "2026-06-25T04:08:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/49172114/nonsense-not-starting-usmnt-stars-yellows",
-      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_Analysis_Klinsmann_It_would_be_nonsense_not_starting_USMNT_stars_on_yellows_20260624_GL/dm_260625_COM_SOC_Analysis_Klinsmann_It_would_be_nonsense_not_starting_USMNT_stars_on_yellows_20260624_GL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 121
-    },
-    {
-      "id": "49170826",
-      "headline": "Germany's Deniz Undav 'happy' in super-sub role at World Cup",
-      "description": "Deniz Undav has three goals and two assists in 69 minutes at the World Cup, averaging a goal contribution every 13.8 minutes for a rate topping Lionel Messi (37.4), Kylian Mbappé (48.8) and Erling Haaland (51.2).",
-      "published": "2026-06-25T02:30:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49170826/germany-deniz-undav-happy-super-sub-role-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0620/r1676821_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [
-        "Deniz Undav"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49162159",
-      "headline": "World Cup Daily updates: South Africa shock Korea, Brazil smash Scotland",
-      "description": "Wednesday saw six games across Groups A, B and C determine who finished first and second, and which nations will still have a chance to qualify as one of the best third-place teams.",
-      "published": "2026-06-25T03:58:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49162159/world-cup-daily-messi-turns-39-midnight-workout-three-groups-decided",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679185_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa",
-        "Korea Republic",
-        "Brazil",
-        "Scotland"
-      ],
-      "players": [],
-      "score": 120
-    },
-    {
-      "id": "49168785",
-      "headline": "Neymar comes off Brazil bench for first '26 World Cup minutes",
-      "description": "Neymar came off the bench to make his first World Cup appearance at the 2026 World Cup for Brazil in their Group C finale against Scotland on Wednesday.",
-      "published": "2026-06-25T01:34:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49168785/neymar-comes-brazil-bench-first-26-world-cup-minutes",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1679024_1024x576_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil",
-        "Scotland"
-      ],
-      "players": [
-        "Neymar"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49171713",
-      "headline": "Herculez Gomez: This was a perfect group phase for Mexico",
-      "description": "Herculez Gomez: This was a perfect group phase for Mexico",
-      "published": "2026-06-25T03:21:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/49171713/was-perfect-group-phase-mexico",
-      "image": "https://a.espncdn.com/media/motion/2026/0624/ss_20260624_231533287_3574821/ss_20260624_231533287_3574821.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico"
-      ],
-      "players": [],
-      "score": 119
+      "score": 112
     }
   ]
 }
