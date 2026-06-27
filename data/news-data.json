@@ -1,22 +1,78 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-06-27T08:10:42.089Z",
+  "updated": "2026-06-27T12:17:30.505Z",
   "counts": {
-    "news": 25,
+    "news": 28,
     "preview": 13,
-    "injury": 6,
-    "offfield": 2,
-    "celebration": 2
+    "offfield": 3,
+    "injury": 4
   },
   "items": [
     {
-      "id": "49180486",
-      "headline": "Panama scouting report: What can England expect from the World Cup minnows?",
-      "description": "ESPN talks to Panamian journalist Luis Arauz to get the lowdown on England's final group stage opponents.",
-      "published": "2026-06-27T07:56:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49180486/panama-scouting-report-england-expect-world-cup-minnows",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679593_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
+      "id": "49196558",
+      "headline": "SAFA confirms death of Bafana midfielder Jayden Adams' grandmother",
+      "description": "SAFA confirmed Mamelodi Sundowns and Bafana midfielder Jayden Adams played through grief at the FIFA World Cup a day after his grandmother's death.",
+      "published": "2026-06-27T12:13:23Z",
+      "url": "https://www.espn.com/espn/story/_/id/49196558/safa-confirms-death-bafana-midfielder-jayden-adams-grandmother",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680417_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa"
+      ],
+      "players": [
+        "Jayden Adams",
+        "Teboho Mokoena",
+        "Thalente Mbatha"
+      ],
+      "score": 213
+    },
+    {
+      "id": "49190854",
+      "headline": "Not laughing now: How World Cup fans vindicated McKennie's love of ranch",
+      "description": "Ranch Dressing is everywhere. In myriad memes, in reels, in fans' carry-on suitcases and, apparently, in the mouths of countless international visitors to the United States who seem to be discovering its incredible finishing ability for the first time.",
+      "published": "2026-06-27T11:47:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49190854/world-cup-fans-vindicate-usmnt-weston-mckennie-love-ranch-american-dressing",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1680148_1296x729_16-9.jpg",
+      "byline": "Sam Borden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Weston McKennie"
+      ],
+      "score": 202
+    },
+    {
+      "id": "49196394",
+      "headline": "Bielsa: Uruguay goalkeeper Muslera asked to be subbed at half-time",
+      "description": "Bielsa: Uruguay goalkeeper Muslera asked to be subbed at half-time",
+      "published": "2026-06-27T11:36:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/49196394/uruguay-goalkeeper-muslera-asked-subbed-half",
+      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_COM_SOC_Presser_Bielsa_Uruguay_goalkeeper_Muslera_asked_to_be_subbed_at_halftime_20260627_GLOB/dm_260627_COM_SOC_Presser_Bielsa_Uruguay_goalkeeper_Muslera_asked_to_be_subbed_at_halftime_20260627_GLOB.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Uruguay"
+      ],
+      "players": [
+        "Fernando Muslera"
+      ],
+      "score": 192
+    },
+    {
+      "id": "49196348",
+      "headline": "Christiansen: Training fight shows Panama are 'alive'",
+      "description": "Christiansen: Training fight shows Panama are 'alive'",
+      "published": "2026-06-27T11:32:00Z",
+      "url": "https://www.espn.com/video/clip/_/id/49196348/training-fight-shows-panama-alive",
+      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_Christiansen_Training_fight_shows_Panama_are_alive/dm_260627_Christiansen_Training_fight_shows_Panama_are_alive.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -24,53 +80,170 @@
         "Panama"
       ],
       "players": [],
-      "score": 210
+      "score": 179
     },
     {
-      "id": "48376236",
-      "headline": "Lineker, Shearer, Owen, Rooney, Kane - is England's near half-century of world-class strikers about to end?",
-      "description": "With an elite striker having worn the Three Lions on their chest for 42 years, England have taken the position for granted - but is Harry Kane the last?",
-      "published": "2026-06-27T07:55:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48376236/england-world-class-strikers-harry-kane-last-world-cup-gary-lineker-alan-shearer-michael-owen-wayne-rooney",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667141_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
+      "id": "49195987",
+      "headline": "Sadiki: Congo DR need to take risks vs. Uzbekistan to make it to knockouts",
+      "description": "Sadiki: Congo DR need to take risks vs. Uzbekistan to make it to knockouts",
+      "published": "2026-06-27T10:54:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/49195987/congo-dr-need-take-risks-vs-uzbekistan-make-knockouts",
+      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_COM_SOC_Interview_Sadiki_Congo_DR_need_to_take_risks_vs_Uzbekistan_to_make_it_to_knockouts_2026/dm_260627_COM_SOC_Interview_Sadiki_Congo_DR_need_to_take_risks_vs_Uzbekistan_to_make_it_to_knockouts_2026.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "England"
+        "DR Congo",
+        "Uzbekistan"
+      ],
+      "players": [],
+      "score": 168
+    },
+    {
+      "id": "49194940",
+      "headline": "World Cup 2026 - updates as Cape Verde set up Argentina clash, Ghana face Croatia",
+      "description": "Cape Verde made history on Friday by setting up a round of 32 date with Argentina. Saturday will see Ghana, Congo DR and Algeria in action.",
+      "published": "2026-06-27T10:48:43Z",
+      "url": "https://www.espn.com/espn/story/_/id/49194940/world-cup-2026-updates-cape-verde-set-argentina-clash-ghana-face-croatia",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680366_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Cabo Verde",
+        "Argentina",
+        "DR Congo",
+        "Ghana",
+        "Algeria",
+        "Croatia"
+      ],
+      "players": [],
+      "score": 167
+    },
+    {
+      "id": "49195800",
+      "headline": "Scotland's chance of qualifying for World Cup knockout stage falls to 0.07%",
+      "description": "Scotland's chances of qualifying for the World Cup knockout stage have plummeted to just 0.07% following results on Friday, according to Opta.",
+      "published": "2026-06-27T11:16:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49195800/scotland-world-cup-knockout-stage-chance-falls",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680391_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Scotland"
+      ],
+      "players": [],
+      "score": 157
+    },
+    {
+      "id": "49195071",
+      "headline": "Transfer rumors, news: Man City to battle Arsenal, Liverpool, Real Madrid for Bouaddi",
+      "description": "Manchester City are the latest team to join the race for Lille and Morocco midfielder Ayyoub Bouaddi. Transfer Talk has the latest.",
+      "published": "2026-06-27T10:39:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49195071/transfer-rumors-news-man-city-battle-arsenal-liverpool-real-madrid-bouaddi",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1673119_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "South Africa",
+        "Morocco"
       ],
       "players": [
-        "Harry Kane"
+        "Ayyoub Bouaddi",
+        "Jayden Adams"
       ],
-      "score": 203
+      "score": 143
     },
     {
-      "id": "48945011",
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-06-27T07:54:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 186
+      "id": "49195887",
+      "headline": "Bafana's World Cup clash with Canada can change South Africa's football trajectory",
+      "description": "When Hugo Broos' Bafana Bafana face Canada in the FIFA World Cup round of 32 at Los Angeles Stadium, a win could make a major difference to South Africa's football ecosystem.",
+      "published": "2026-06-27T11:41:44Z",
+      "url": "https://www.espn.com/espn/story/_/id/49195887/bafana-world-cup-clash-canada-change-south-africa-football-trajectory",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680394_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Canada",
+        "South Africa",
+        "Korea Republic"
+      ],
+      "players": [
+        "Mbekezeli Mbokazi",
+        "Teboho Mokoena",
+        "Ime Okon",
+        "Khuliso Mudau"
+      ],
+      "score": 141
     },
     {
-      "id": "48964271",
-      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
-      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
-      "published": "2026-06-27T07:54:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
-      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
+      "id": "49195132",
+      "headline": "Iran coach after late VAR call: 'Used to think we were an oppressed team, but we are also an unlucky team'",
+      "description": "Iran coach Amir Ghalenoei lamented both the conditions his team have had to face in this tournament, but also the bad luck they encountered.",
+      "published": "2026-06-27T12:11:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49195132/iran-coach-pivotal-var-call-used-think-were-oppressed-team-also-unlucky-team",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680379_1296x729_16-9.jpg",
+      "byline": "Gab Marcotti",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "IR Iran"
+      ],
+      "players": [],
+      "score": 139
+    },
+    {
+      "id": "49195139",
+      "headline": "World Cup Daily LIVE: Cristiano Ronaldo's new golden boots, Argentina rest Messi as final groups decided",
+      "description": "It's the final day of World Cup action from the group stages, as Portugal's Cristiano Ronaldo and Argentina's Lionel Messi (maybe) could play on the same day.",
+      "published": "2026-06-27T10:38:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49195139/world-cup-daily-live-cristiano-ronaldo-new-golden-boots-argentina-rest-messi-final-groups-decided",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680375_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [],
+      "teams": [
+        "Argentina",
+        "Portugal"
+      ],
       "players": [],
-      "score": 176
+      "score": 138
+    },
+    {
+      "id": "49195599",
+      "headline": "Iran face wait over World Cup future, as fate intervenes again vs. Egypt",
+      "description": "Add their own fate at the World Cup to the long list of things Iran can't control. But Team Melli came close vs. Egypt with two moments of late, unscripted drama.",
+      "published": "2026-06-27T10:55:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49195599/iran-face-wait-world-cup-future-fate-intervenes-again-vs-egypt",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680386_1296x729_16-9.jpg",
+      "byline": "Gabriele Marcotti",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "IR Iran",
+        "Egypt"
+      ],
+      "players": [],
+      "score": 137
+    },
+    {
+      "id": "49027532",
+      "headline": "World Cup VAR review: Why was Iran's late goal ruled out for offside?",
+      "description": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
+      "published": "2026-06-27T06:55:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680360_1296x729_16-9.jpg",
+      "byline": "Andy Davies",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "IR Iran"
+      ],
+      "players": [],
+      "score": 136
     },
     {
       "id": "48972466",
@@ -90,126 +263,24 @@
         "Lionel Messi",
         "Cristiano Ronaldo"
       ],
-      "score": 172
+      "score": 135
     },
     {
-      "id": "48945570",
-      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
-      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
-      "published": "2026-06-27T07:53:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
+      "id": "48811876",
+      "headline": "Socceroos World Cup Daily: Gearing up for the round of 32 clash",
+      "description": "ESPN's Socceroos Cup Diaries has all you need to know about Australia's journey in North America, all in one place.",
+      "published": "2026-06-27T08:50:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48811876/socceroos-world-cup-daily-news-updates-all-need-know",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1679853_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 166
-    },
-    {
-      "id": "49195023",
-      "headline": "Iran and Egypt draw after winner overturned",
-      "description": "Shojae Khalilzadeh appeared to score the winning goal and secure Iran a spot in the knockouts only for VAR to disallow the goal for offside.",
-      "published": "2026-06-27T07:39:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/49195023/iran-egypt-draw-winner-overturned",
-      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_Soccer_Highlight_Iran_and_Egypt_draw_after_winner_overturned_20260627_AUS_ONLY/dm_260627_Soccer_Highlight_Iran_and_Egypt_draw_after_winner_overturned_20260627_AUS_ONLY.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Egypt",
-        "IR Iran"
-      ],
-      "players": [],
-      "score": 149
-    },
-    {
-      "id": "49114814",
-      "headline": "Tottenham Premier League fixtures 2026-27: Roberto De Zerbi's team face tough end to season",
-      "description": "Tottenham begin their 2026-27 Premier League season with a trip across London to face Brentford, and face a daunting-looking end to their campaign.",
-      "published": "2026-06-27T07:59:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49114814/tottenham-premier-league-fixtures-2026-27-roberto-de-zerbi-team-face-tough-end-season",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675963_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49114849",
-      "headline": "Premier League fixtures 2026-27: Arsenal start against Coventry, Newcastle host Liverpool",
-      "description": "Arsenal will begin their Premier League title defence against newly-promoted Coventry City, while Liverpool travel to face Newcastle in the pick of the opening-day fixtures.",
-      "published": "2026-06-27T07:58:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49114849/premier-league-fixtures-2026-27-arsenal-coventry-city-newcastle-united-liverpool-manchester-united-manchester-city-liverpool-tottenham-hotspur",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675980_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49027532",
-      "headline": "World Cup VAR review: Why was Iran's late goal ruled out for offside?",
-      "description": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
-      "published": "2026-06-27T06:55:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680360_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "IR Iran"
+        "Australia",
+        "Paraguay"
       ],
       "players": [],
-      "score": 142
-    },
-    {
-      "id": "49192407",
-      "headline": "Uruguay out of World Cup after keeper blunder against Spain",
-      "description": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday.",
-      "published": "2026-06-27T03:53:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49192407/uruguay-yank-keeper-muslera-howler-spain",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680242_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Uruguay",
-        "Spain"
-      ],
-      "players": [
-        "Fernando Muslera",
-        "Sergio Rochet"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49194935",
-      "headline": "Cape Verde's World Cup success isn't just for them, it's for every soccer fan to enjoy",
-      "description": "The big nations win the World Cup, but the small nations make it. Cape Verde's progress to the knockouts was for everyone.",
-      "published": "2026-06-27T08:04:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49194935/cape-verde-world-cup-success-isnt-just-every-soccer-fan-enjoy",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680365_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 140
+      "score": 134
     },
     {
       "id": "49191043",
@@ -225,7 +296,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 139
+      "score": 133
     },
     {
       "id": "49193963",
@@ -242,7 +313,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 139
+      "score": 133
     },
     {
       "id": "49192947",
@@ -261,7 +332,45 @@
         "Jacob Italiano",
         "Mathew Leckie"
       ],
-      "score": 139
+      "score": 133
+    },
+    {
+      "id": "49195798",
+      "headline": "Trézéguet: Egypt will fight to go far in the World Cup",
+      "description": "Trézéguet: Egypt will fight to go far in the World Cup",
+      "published": "2026-06-27T10:19:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49195798/egypt-fight-go-far-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_Trezeguet_Egypt_will_fight_to_go_far_in_the_World_Cup/dm_260627_Trezeguet_Egypt_will_fight_to_go_far_in_the_World_Cup.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Egypt",
+        "IR Iran"
+      ],
+      "players": [
+        "Trézéguet null"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49195775",
+      "headline": "Russo: Tuchel and England 'deserve a trophy' at World Cup",
+      "description": "Russo: Tuchel and England 'deserve a trophy' at World Cup",
+      "published": "2026-06-27T10:18:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49195775/tuchel-england-deserve-trophy-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_COM_SOC_Interview_RussoA_Tuchel_and_England_deserve_a_trophy_at_World_Cup_20260627_GLOBAL/dm_260627_COM_SOC_Interview_RussoA_Tuchel_and_England_deserve_a_trophy_at_World_Cup_20260627_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Panama"
+      ],
+      "players": [
+        "Alessia Russo"
+      ],
+      "score": 130
     },
     {
       "id": "49031236",
@@ -310,7 +419,44 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 137
+      "score": 130
+    },
+    {
+      "id": "48939282",
+      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
+      "published": "2026-06-27T11:53:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico",
+        "Canada",
+        "USA"
+      ],
+      "players": [],
+      "score": 129
+    },
+    {
+      "id": "49195588",
+      "headline": "'I could write you a book about Sadio Mane' - Pape Thiaw lauds Senegal legend as Last 32 berth secured",
+      "description": "Senegal head coach Pape Thiaw has heaped praise on Sadio Mane after the Teranga Lions breathed life into their World Cup campaign with a 5-0 demolition of Iraq on Friday, ultimately securing their progress to the knockouts in the process.",
+      "published": "2026-06-27T09:38:42Z",
+      "url": "https://www.espn.com/espn/story/_/id/49195588/sadio-mane-pape-thiaw-senegal-last-32-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1680054_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Senegal",
+        "Iraq"
+      ],
+      "players": [
+        "Sadio Mané"
+      ],
+      "score": 129
     },
     {
       "id": "49182711",
@@ -327,7 +473,7 @@
         "Belgium"
       ],
       "players": [],
-      "score": 135
+      "score": 129
     },
     {
       "id": "49194199",
@@ -347,69 +493,85 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 135
+      "score": 128
     },
     {
-      "id": "49114892",
-      "headline": "Liverpool Premier League fixtures 2026-27: Andoni Iraola tenure to begin with daunting trip to Newcastle",
-      "description": "Newly-appointed Liverpool manager Andoni Iraola will kick start his new role in the dugout away to Newcastle on the opening weekend of the Premier League season.",
-      "published": "2026-06-27T07:59:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49114892/liverpool-premier-league-fixtures-2026-27-andoni-iraola-newcastle-everton-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655680_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
+      "id": "49195851",
+      "headline": "Croatia fans crash Philadelphia couple's wedding",
+      "description": "Croatia fans crash Philadelphia couple's wedding",
+      "published": "2026-06-27T10:28:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/49195851/croatia-fans-crash-philadelphia-couple-wedding",
+      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_COM_SOC_News_Croatia_fans_crash_Philadelphia_couples_wedding__20260627_GLOBAL_FIFA_WORLD_CUP/dm_260627_COM_SOC_News_Croatia_fans_crash_Philadelphia_couples_wedding__20260627_GLOBAL_FIFA_WORLD_CUP.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "England"
+        "Croatia",
+        "Ghana"
       ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 133
+      "players": [],
+      "score": 127
     },
     {
-      "id": "49115208",
-      "headline": "Chelsea Premier League fixtures 2026-27: Xabi Alonso begins reign with London derby",
-      "description": "Xabi Alonso will begin his tenure as Chelsea manager with a London derby against Fulham on the first Monday of the 2026-27 Premier League season.",
-      "published": "2026-06-27T07:59:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49115208/chelsea-premier-league-fixtures-2026-27-xabi-alonso-begins-reign-london-derby-fulham-arsenal-brighton",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664744_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
+      "id": "49195183",
+      "headline": "Trossard: Belgium had 'a lot of joy' finishing first",
+      "description": "Trossard: Belgium had 'a lot of joy' finishing first",
+      "published": "2026-06-27T08:29:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49195183/belgium-had-lot-joy-finishing-first",
+      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_Trossard_Belgium_had_a_lot_of_joy_finishing_first/dm_260627_Trossard_Belgium_had_a_lot_of_joy_finishing_first.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "England"
+        "Belgium",
+        "New Zealand"
       ],
       "players": [
-        "Harry Kane"
+        "Leandro Trossard"
       ],
-      "score": 133
+      "score": 127
     },
     {
-      "id": "49114816",
-      "headline": "Man United Premier League fixtures 2026-27: Hull City first up for Michael Carrick's side",
-      "description": "Manchester United will host newly-promoted Hull City at Old Trafford on the opening day of the 2026-27 Premier League season.",
-      "published": "2026-06-27T07:58:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49114816/man-united-premier-league-fixtures-2026-27-hull-city-first-michael-carrick-co",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675967_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49189780",
+      "headline": "Socceroos confident of being a 'problem' in World Cup knockouts",
+      "description": "Socceroos midfielder Jackson Irvine is bullish on Australia's chances in the knockouts, while coach Tony Popovic says an eight-day break before their round of 32 clash in Dallas is ideal for recovery.",
+      "published": "2026-06-27T00:41:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49189780/socceroos-confident-being-problem-fifa-world-cup-knockouts",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1680102_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49195513",
+      "headline": "Carlos Queiroz wants Black Stars to channel Manchester United's 'Nou Camp spirit' to bring joy to Ghana",
+      "description": "In the aftermath of Ghana's 0-0 draw with England in their second World Cup game in Foxborough on Tuesday, former Manchester United midfielder Paul Scholes was quick to identify where he'd seen the Black Stars' gameplan before.",
+      "published": "2026-06-27T09:20:23Z",
+      "url": "https://www.espn.com/espn/story/_/id/49195513/carlos-queiroz-black-stars-manchester-united-nou-camp-ghana",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678962_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
+        "Croatia",
+        "Ghana",
         "England"
       ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 133
+      "players": [],
+      "score": 126
     },
     {
-      "id": "49114842",
-      "headline": "Arsenal Premier League fixtures 2026-27: Gunners begin title defence against Coventry",
-      "description": "Arsenal will get their Premier League title defence under way when they host Coventry City on the opening week of the new season.",
-      "published": "2026-06-27T07:58:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49114842/arsenal-premier-league-fixtures-2026-27-gunners-begin-title-defence-coventry-city-mikel-arteta",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
+      "id": "48376236",
+      "headline": "Lineker, Shearer, Owen, Rooney, Kane - is England's near half-century of world-class strikers about to end?",
+      "description": "With an elite striker having worn the Three Lions on their chest for 42 years, England have taken the position for granted - but is Harry Kane the last?",
+      "published": "2026-06-27T07:55:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48376236/england-world-class-strikers-harry-kane-last-world-cup-gary-lineker-alan-shearer-michael-owen-wayne-rooney",
+      "image": "https://a.espncdn.com/photo/2026/0602/r1667141_1296x729_16-9.jpg",
       "byline": "Tom Chambers",
       "kind": "news",
       "kindLabel": "News",
@@ -419,24 +581,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 133
-    },
-    {
-      "id": "49191072",
-      "headline": "Reece James to miss England vs Panama with injury, Declan Rice, Elliot Anderson fit",
-      "description": "Thomas Tuchel has confirmed Reece James will miss Saturday's Group L finale against Panama but Elliot Anderson and Declan Rice are available to start.",
-      "published": "2026-06-27T00:34:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49191072/world-cup-2026-reece-james-miss-england-vs-panama-injury-declan-rice-elliot-anderson-fit",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1680165_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "England",
-        "Panama"
-      ],
-      "players": [],
-      "score": 133
+      "score": 126
     },
     {
       "id": "48780088",
@@ -454,24 +599,24 @@
         "Cristiano Ronaldo",
         "Lionel Messi"
       ],
-      "score": 132
+      "score": 126
     },
     {
-      "id": "48811876",
-      "headline": "Socceroos World Cup Daily: Popovic says every Socceroo has a role",
-      "description": "Socceroos staff will need to make changes to the starting XI thanks to injuries ahead of Thursday's crunch clash with Paraguay.",
-      "published": "2026-06-27T00:05:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48811876/socceroos-world-cup-daily-news-updates-all-need-know",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1679853_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49194623",
+      "headline": "What might have been: World Cup exit leaves All Whites with regrets",
+      "description": "If there was one major emotion emanating from All Whites players as they trudged to their team bus on Friday evening, it was a sense of regret. And it wasn't over their heavy defeat at the hands of the Belgians.",
+      "published": "2026-06-27T08:39:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49194623/fifa-world-cup-exit-leaves-new-zealand-all-whites-regrets",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680318_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Australia",
-        "Paraguay"
+        "Belgium",
+        "New Zealand"
       ],
       "players": [],
-      "score": 132
+      "score": 125
     },
     {
       "id": "49193100",
@@ -488,7 +633,40 @@
         "Panama"
       ],
       "players": [],
-      "score": 131
+      "score": 125
+    },
+    {
+      "id": "49194909",
+      "headline": "Belgium coach hits back at 'ugly' World Cup criticism of 'immense' Group G winners",
+      "description": "Belgium head coach Rudi Garcia has hit back at the \"ugly\" criticism of his team after Friday's 5-1 victory over New Zealand.",
+      "published": "2026-06-27T08:22:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49194909/belgium-coach-hits-back-ugly-world-cup-criticism-immense-group-g-winners",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680364_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "New Zealand"
+      ],
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49194935",
+      "headline": "Cape Verde's World Cup success isn't just for them, it's for every soccer fan to enjoy",
+      "description": "The big nations win the World Cup, but the small nations make it. Cape Verde's progress to the knockouts was for everyone.",
+      "published": "2026-06-27T08:19:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49194935/cape-verde-world-cup-success-isnt-just-every-soccer-fan-enjoy",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680365_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 124
     },
     {
       "id": "49192994",
@@ -504,43 +682,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 131
-    },
-    {
-      "id": "49073399",
-      "headline": "Spain at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the Spain men's national team's performance throughout the tournament's history.",
-      "published": "2026-06-27T02:19:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49073399/spain-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673639_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49182650",
-      "headline": "Cape Verde's dream run continues, will face Argentina in R32",
-      "description": "Cape Verde drew Saudi Arabia 0-0 to finish second in Group H",
-      "published": "2026-06-27T02:28:54Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/760478",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680260_608x342_16-9.jpg",
-      "byline": "AP",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Cabo Verde",
-        "Saudi Arabia",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 130
+      "score": 124
     },
     {
       "id": "49182645",
@@ -557,7 +699,41 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 130
+      "score": 124
+    },
+    {
+      "id": "49180486",
+      "headline": "Panama scouting report: What can England expect from the World Cup minnows?",
+      "description": "ESPN talks to Panamian journalist Luis Arauz to get the lowdown on England's final group stage opponents.",
+      "published": "2026-06-27T07:56:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49180486/panama-scouting-report-england-expect-world-cup-minnows",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679593_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Panama"
+      ],
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "49195023",
+      "headline": "Iran and Egypt draw after winner overturned",
+      "description": "Shojae Khalilzadeh appeared to score the winning goal and secure Iran a spot in the knockouts only for VAR to disallow the goal for offside.",
+      "published": "2026-06-27T07:39:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/49195023/iran-egypt-draw-winner-overturned",
+      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_Soccer_Highlight_Iran_and_Egypt_draw_after_winner_overturned_20260627_AUS_ONLY/dm_260627_Soccer_Highlight_Iran_and_Egypt_draw_after_winner_overturned_20260627_AUS_ONLY.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Egypt",
+        "IR Iran"
+      ],
+      "players": [],
+      "score": 123
     },
     {
       "id": "49192698",
@@ -573,7 +749,7 @@
         "Brazil"
       ],
       "players": [],
-      "score": 129
+      "score": 123
     },
     {
       "id": "49194939",
@@ -590,7 +766,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 129
+      "score": 123
     },
     {
       "id": "49191685",
@@ -607,24 +783,7 @@
         "Panama"
       ],
       "players": [],
-      "score": 129
-    },
-    {
-      "id": "49194909",
-      "headline": "Belgium coach hits back at 'ugly' World Cup criticism of 'immense' Group G winners",
-      "description": "Belgium head coach Rudi Garcia has hit back at the \"ugly\" criticism of his team after Friday's 5-1 victory over New Zealand.",
-      "published": "2026-06-27T07:07:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49194909/belgium-coach-hits-back-ugly-world-cup-criticism-immense-group-g-winners",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680364_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Belgium",
-        "New Zealand"
-      ],
-      "players": [],
-      "score": 128
+      "score": 123
     },
     {
       "id": "49194581",
@@ -641,64 +800,7 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 128
-    },
-    {
-      "id": "49190884",
-      "headline": "Five-star Senegal make the most of last-gasp chance to reach FIFA World Cup knockouts",
-      "description": "While the jury's still out on this expanded 48-team FIFA World Cup, Senegal won't be complaining after thumping Iraq 5-0 to keep their hopes of reaching the knockout stages alive in their final Group I game.",
-      "published": "2026-06-26T22:45:53Z",
-      "url": "https://www.espn.com/espn/story/_/id/49190884/five-star-senegal-make-most-last-gasp-chance-reach-fifa-world-cup-knockouts",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1680160_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Senegal",
-        "Iraq"
-      ],
-      "players": [
-        "Sadio Mané",
-        "Pape Gueye",
-        "Ibrahim Mbaye"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49191332",
-      "headline": "Algeria, Austria dismiss trying not to win to avoid Spain",
-      "description": "Austria and Algeria have both insisted they will be going for a victory when the two teams face off on Saturday, despite not winning potentially being more beneficial to their knockout round draw.",
-      "published": "2026-06-26T23:58:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49191332/austria-algeria-fifa-world-cup-2026-win-spain-knockout",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1680186_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Algeria",
-        "Austria",
-        "Spain"
-      ],
-      "players": [],
-      "score": 127
-    },
-    {
-      "id": "48979217",
-      "headline": "Kylian Mbappe at the World Cup: History, results, stats",
-      "description": "As Mbappé aims to lead France back to soccer's mountaintop, here is a look at his career at the FIFA World Cup.",
-      "published": "2026-06-26T23:21:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48979217/kylian-mbappe-fifa-world-cup-history-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667132_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 127
+      "score": 121
     },
     {
       "id": "49182679",
@@ -715,7 +817,7 @@
         "IR Iran"
       ],
       "players": [],
-      "score": 126
+      "score": 120
     },
     {
       "id": "49193747",
@@ -733,144 +835,49 @@
       "players": [
         "Sadio Mané"
       ],
-      "score": 126
+      "score": 120
     },
     {
-      "id": "49193264",
-      "headline": "Spain's listless performance won't cut it against better teams at World Cup",
-      "description": "Spain were lucky to beat Uruguay and will need to improve drastically if they hope to win the World Cup.",
-      "published": "2026-06-27T04:50:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49193264/spain-listless-performance-cut-better-teams-world-cup-uruguay",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680282_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
+      "id": "48964271",
+      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
+      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
+      "published": "2026-06-27T07:54:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
+      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Uruguay"
-      ],
+      "teams": [],
       "players": [],
-      "score": 125
+      "score": 119
     },
     {
-      "id": "49192570",
-      "headline": "Cape Verde become smallest country to make World Cup knockouts",
-      "description": "Cape Verde's memorable journey at their first World Cup is not over yet.",
-      "published": "2026-06-27T04:49:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49192570/cape-verde-w2026-world-cup-knockout-stage-smallest-nation",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680264_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "48945011",
+      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
+      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
+      "published": "2026-06-27T07:54:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Saudi Arabia"
-      ],
+      "teams": [],
       "players": [],
-      "score": 125
+      "score": 119
     },
     {
-      "id": "49194247",
-      "headline": "Marcelo Bielsa after World Cup exit: 'Left nothing' to Uruguay soccer",
-      "description": "Following Uruguay's group stage exit from the 2026 World Cup, a blunt Marcelo Bielsa conceded that he has \"left nothing\" to the national team during his time as their coach.",
-      "published": "2026-06-27T04:41:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49194247/marcelo-bielsa-takes-blame-uruguay-early-world-cup-exit-left-nothing",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680324_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
+      "id": "48945570",
+      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
+      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
+      "published": "2026-06-27T07:53:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
+      "teams": [],
       "players": [],
-      "score": 125
-    },
-    {
-      "id": "49191791",
-      "headline": "Lionel Messi to start on bench for Argentina group finale",
-      "description": "Lionel Messi will start Argentina's final group stage match against Jordan on Saturday from the substitutes' bench, coach Lionel Scaloni said.",
-      "published": "2026-06-27T03:07:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49191791/lionel-messi-argentina-bench-jordan-fifa-2026-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680194_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Jordan"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49182643",
-      "headline": "Senegal thrash Iraq 5-0, on course for World Cup knockouts",
-      "description": "Senegal racked up the goals on 10-man Iraq in a 5-0 victory Friday that boosted their hopes of reaching the World Cup knockout stages.",
-      "published": "2026-06-26T21:53:30Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/760474",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1680127_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Senegal",
-        "Iraq"
-      ],
-      "players": [],
-      "score": 124
-    },
-    {
-      "id": "49192159",
-      "headline": "Hat trick hero Dembélé gives the same answer to eight different questions",
-      "description": "Hat trick hero Dembélé gives the same answer to eight different questions",
-      "published": "2026-06-27T00:58:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/49192159/hat-trick-hero-dembele-gives-same-answer-eight-different-questions",
-      "image": "https://a.espncdn.com/media/motion/2026/0626/dm_260626_COM_SOC_Presser_Hat_trick_hero_Dembele_gives_the_same_answer_to_eight_different_questions_202606/dm_260626_COM_SOC_Presser_Hat_trick_hero_Dembele_gives_the_same_answer_to_eight_different_questions_202606.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Ousmane Dembélé"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49192924",
-      "headline": "Moreno: Spain look nothing like the team that won the Euros",
-      "description": "Moreno: Spain look nothing like the team that won the Euros",
-      "published": "2026-06-27T02:30:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49192924/spain-look-team-won-euros",
-      "image": "https://a.espncdn.com/media/motion/2026/0626/ss_20260626_222048378_3576830/ss_20260626_222048378_3576830.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 121
-    },
-    {
-      "id": "49192790",
-      "headline": "Cape Verde send fans wild as they reach World Cup knockouts",
-      "description": "Cape Verde send fans wild as they reach World Cup knockouts",
-      "published": "2026-06-27T02:10:47Z",
-      "url": "https://www.espn.com/video/clip/_/id/49192790/cape-verde-send-fans-wild-reach-world-cup-knockouts",
-      "image": "https://a.espncdn.com/media/motion/2026/0626/dm_260626_COM_SOC_News_Cape_Verde_send_fans_wild_as_they_reach_World_Cup_knockouts_20260626_GLOBAL_FIFA_WO/dm_260626_COM_SOC_News_Cape_Verde_send_fans_wild_as_they_reach_World_Cup_knockouts_20260626_GLOBAL_FIFA_WO.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Saudi Arabia"
-      ],
-      "players": [],
-      "score": 121
+      "score": 119
     }
   ]
 }
