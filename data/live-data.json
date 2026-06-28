@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-06-28T00:17:08.440Z",
+  "updated": "2026-06-28T10:16:25.690Z",
   "results": {
     "A": [
       [
@@ -253,8 +253,14 @@
         2,
         1
       ],
-      null,
-      null
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        3
+      ]
     ],
     "K": [
       [
@@ -273,8 +279,14 @@
         0,
         1
       ],
-      null,
-      null
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        1
+      ]
     ],
     "L": [
       [
@@ -897,8 +909,8 @@
       "s": "J",
       "h": "Algeria",
       "a": "Austria",
-      "hg": null,
-      "ag": null,
+      "hg": 3,
+      "ag": 3,
       "v": "Arrowhead Stadium (Kansas City, USA)"
     },
     {
@@ -907,8 +919,8 @@
       "s": "J",
       "h": "Jordan",
       "a": "Argentina",
-      "hg": null,
-      "ag": null,
+      "hg": 1,
+      "ag": 3,
       "v": "AT&T Stadium (Dallas, USA)"
     },
     {
@@ -957,8 +969,8 @@
       "s": "K",
       "h": "Colombia",
       "a": "Portugal",
-      "hg": null,
-      "ag": null,
+      "hg": 0,
+      "ag": 0,
       "v": "Hard Rock Stadium (Miami, USA)"
     },
     {
@@ -967,8 +979,8 @@
       "s": "K",
       "h": "DR Congo",
       "a": "Uzbekistan",
-      "hg": null,
-      "ag": null,
+      "hg": 3,
+      "ag": 1,
       "v": "Mercedes-Benz Stadium (Atlanta, USA)"
     },
     {
@@ -1048,7 +1060,7 @@
       "t": "16:30 UTC-4",
       "s": "R32",
       "h": "Germany",
-      "a": "3A/B/C/D/F",
+      "a": "Paraguay",
       "hg": null,
       "ag": null,
       "v": "Gillette Stadium (Boston, USA)"
@@ -1080,8 +1092,8 @@
       "d": "2026-06-30",
       "t": "17:00 UTC-4",
       "s": "R32",
-      "h": "1I",
-      "a": "3C/D/F/G/H",
+      "h": "France",
+      "a": "Sweden",
       "hg": null,
       "ag": null,
       "v": "MetLife Stadium (New York/New Jersey, USA)"
@@ -1092,7 +1104,7 @@
       "t": "12:00 UTC-5",
       "s": "R32",
       "h": "Côte d'Ivoire",
-      "a": "2I",
+      "a": "Norway",
       "hg": null,
       "ag": null,
       "v": "AT&T Stadium (Dallas, USA)"
@@ -1103,7 +1115,7 @@
       "t": "19:00 UTC-6",
       "s": "R32",
       "h": "Mexico",
-      "a": "3C/E/F/H/I",
+      "a": "Ecuador",
       "hg": null,
       "ag": null,
       "v": "Estadio Azteca (Mexico City, MEX)"
@@ -1113,8 +1125,8 @@
       "d": "2026-07-01",
       "t": "12:00 UTC-4",
       "s": "R32",
-      "h": "1L",
-      "a": "3E/H/I/J/K",
+      "h": "England",
+      "a": "DR Congo",
       "hg": null,
       "ag": null,
       "v": "Mercedes-Benz Stadium (Atlanta, USA)"
@@ -1125,7 +1137,7 @@
       "t": "17:00 UTC-7",
       "s": "R32",
       "h": "USA",
-      "a": "3B/E/F/I/J",
+      "a": "Bosnia",
       "hg": null,
       "ag": null,
       "v": "Levi's Stadium (San Francisco Bay Area, USA)"
@@ -1135,8 +1147,8 @@
       "d": "2026-07-01",
       "t": "13:00 UTC-7",
       "s": "R32",
-      "h": "1G",
-      "a": "3A/E/H/I/J",
+      "h": "Belgium",
+      "a": "Senegal",
       "hg": null,
       "ag": null,
       "v": "Lumen Field (Seattle, USA)"
@@ -1146,8 +1158,8 @@
       "d": "2026-07-02",
       "t": "19:00 UTC-4",
       "s": "R32",
-      "h": "2K",
-      "a": "2L",
+      "h": "Portugal",
+      "a": "Croatia",
       "hg": null,
       "ag": null,
       "v": "BMO Field (Toronto, CAN)"
@@ -1157,8 +1169,8 @@
       "d": "2026-07-02",
       "t": "12:00 UTC-7",
       "s": "R32",
-      "h": "1H",
-      "a": "2J",
+      "h": "Spain",
+      "a": "Austria",
       "hg": null,
       "ag": null,
       "v": "SoFi Stadium (Los Angeles, USA)"
@@ -1169,7 +1181,7 @@
       "t": "20:00 UTC-7",
       "s": "R32",
       "h": "Switzerland",
-      "a": "3E/F/G/I/J",
+      "a": "Algeria",
       "hg": null,
       "ag": null,
       "v": "BC Place (Vancouver, CAN)"
@@ -1179,8 +1191,8 @@
       "d": "2026-07-03",
       "t": "18:00 UTC-4",
       "s": "R32",
-      "h": "1J",
-      "a": "2H",
+      "h": "Argentina",
+      "a": "Cabo Verde",
       "hg": null,
       "ag": null,
       "v": "Hard Rock Stadium (Miami, USA)"
@@ -1190,8 +1202,8 @@
       "d": "2026-07-03",
       "t": "20:30 UTC-5",
       "s": "R32",
-      "h": "1K",
-      "a": "3D/E/I/J/L",
+      "h": "Colombia",
+      "a": "Ghana",
       "hg": null,
       "ag": null,
       "v": "Arrowhead Stadium (Kansas City, USA)"
@@ -1202,7 +1214,7 @@
       "t": "13:00 UTC-5",
       "s": "R32",
       "h": "Australia",
-      "a": "2G",
+      "a": "Egypt",
       "hg": null,
       "ag": null,
       "v": "AT&T Stadium (Dallas, USA)"
