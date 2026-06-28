@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-06-27T08:10:21.295Z",
+  "updated": "2026-06-28T00:17:08.440Z",
   "results": {
     "A": [
       [
@@ -293,8 +293,14 @@
         1,
         0
       ],
-      null,
-      null
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ]
     ]
   },
   "advanced": {
@@ -1011,8 +1017,8 @@
       "s": "L",
       "h": "Panama",
       "a": "England",
-      "hg": null,
-      "ag": null,
+      "hg": 0,
+      "ag": 2,
       "v": "MetLife Stadium (New York/New Jersey, USA)"
     },
     {
@@ -1021,8 +1027,8 @@
       "s": "L",
       "h": "Croatia",
       "a": "Ghana",
-      "hg": null,
-      "ag": null,
+      "hg": 2,
+      "ag": 1,
       "v": "Lincoln Financial Field (Philadelphia, USA)"
     },
     {
