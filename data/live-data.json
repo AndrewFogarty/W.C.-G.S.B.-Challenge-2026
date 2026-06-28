@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-06-28T10:16:25.690Z",
+  "updated": "2026-06-28T23:55:20.788Z",
   "results": {
     "A": [
       [
@@ -316,7 +316,9 @@
     ]
   },
   "advanced": {
-    "R16": [],
+    "R16": [
+      "Canada"
+    ],
     "QF": [],
     "SF": [],
     "FINAL": [],
@@ -1050,8 +1052,8 @@
       "s": "R32",
       "h": "South Africa",
       "a": "Canada",
-      "hg": null,
-      "ag": null,
+      "hg": 0,
+      "ag": 1,
       "v": "SoFi Stadium (Los Angeles, USA)"
     },
     {
