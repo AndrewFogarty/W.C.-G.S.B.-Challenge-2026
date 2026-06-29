@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-06-29T14:51:12.650Z",
+  "updated": "2026-06-29T21:08:42.042Z",
   "results": {
     "A": [
       [
@@ -317,7 +317,8 @@
   },
   "advanced": {
     "R16": [
-      "Canada"
+      "Canada",
+      "Brazil"
     ],
     "QF": [],
     "SF": [],
@@ -1085,8 +1086,8 @@
       "s": "R32",
       "h": "Brazil",
       "a": "Japan",
-      "hg": null,
-      "ag": null,
+      "hg": 2,
+      "ag": 1,
       "v": "NRG Stadium (Houston, USA)"
     },
     {
