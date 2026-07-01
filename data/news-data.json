@@ -1,824 +1,105 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-06-30T22:02:36.709Z",
+  "updated": "2026-07-01T10:56:41.948Z",
   "counts": {
-    "preview": 18,
-    "celebration": 3,
-    "news": 22,
-    "injury": 4,
-    "offfield": 1
+    "news": 25,
+    "preview": 11,
+    "injury": 2,
+    "offfield": 5,
+    "celebration": 5
   },
   "items": [
     {
-      "id": "49223441",
-      "headline": "World Cup Daily LIVE: France take on Sweden; Norway claim last-16 place",
-      "description": "Follow live below for all the biggest highlights, news, reaction and analysis on another busy day of World Cup action.",
-      "published": "2026-06-30T21:51:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49223441/paraguay-tv-cuts-vital-pen-mexico-fans-get-noisy-ecuador-hotel",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682281_1296x729_16-9.jpg",
+      "id": "49234695",
+      "headline": "Sebastián Beccacece steps down as Ecuador coach after World Cup exit",
+      "description": "Sebastián Beccacece has confirmed he will not continue as head coach of Ecuador following the team's elimination from the World Cup.",
+      "published": "2026-07-01T10:21:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49234695/sebastian-beccacece-steps-ecuador-coach-world-cup-exit",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682571_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Ecuador"
+      ],
+      "players": [],
+      "score": 209
+    },
+    {
+      "id": "49233418",
+      "headline": "World Cup Daily live: Haaland buys cowboy hat; USMNT, England in action",
+      "description": "We have three matches for you on Wednesday as more round-of-32 action at the 2026 World Cup continues.",
+      "published": "2026-07-01T09:52:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49233418/world-cup-daily-live-haaland-buys-cowboy-hat-usmnt-england-action",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682569_1296x729_16-9.jpg",
       "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "England"
+      ],
+      "players": [],
+      "score": 198
+    },
+    {
+      "id": "49234623",
+      "headline": "Mexico boss: WC knockout win vs. Ecuador a 'perfect night'",
+      "description": "Mexico boss: WC knockout win vs. Ecuador a 'perfect night'",
+      "published": "2026-07-01T09:38:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/49234623/wc-knockout-win-vs-ecuador-perfect-night",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_Presser_Mexico_boss_WC_knockout_win_vs_Ecuador_a_perfect_night_20260701_GLOBAL_FIFA/dm_260701_COM_SOC_Presser_Mexico_boss_WC_knockout_win_vs_Ecuador_a_perfect_night_20260701_GLOBAL_FIFA.jpg",
+      "byline": null,
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
-        "Sweden",
-        "France",
-        "Norway"
+        "Ecuador",
+        "Mexico"
       ],
       "players": [],
-      "score": 219
+      "score": 197
     },
     {
-      "id": "49229812",
-      "headline": "France fans in Paris celebrate Mbappé's goal vs. Sweden",
-      "description": "France fans in Paris celebrate Mbappé's goal vs. Sweden",
-      "published": "2026-06-30T21:54:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/49229812/france-fans-paris-celebrate-mbappe-goal-vs-sweden",
-      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD.jpg",
+      "id": "49234575",
+      "headline": "Brazil's Lucas Paquetá to undergo intensive treatment on hamstring injury in bid to play at World Cup again",
+      "description": "Lucas Paquetá will undergo intensive treatment on a hamstring injury in the hope of playing for Brazil at the World Cup again.",
+      "published": "2026-07-01T09:27:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49234575/brazil-lucas-paqueta-injury-recovery-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682568_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [],
+      "score": 182
+    },
+    {
+      "id": "49234576",
+      "headline": "Mbappé targeting winning WC, not Golden Boot race with Messi",
+      "description": "Mbappé targeting winning WC, not Golden Boot race with Messi",
+      "published": "2026-07-01T09:13:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49234576/mbappe-targeting-winning-wc-not-golden-boot-race-messi",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_Presser_Mbappe_targeting_winning_WC_not_Golden_Boot_race_with_Messi_20260701_GLOBAL_FIF/dm_260701_COM_SOC_Presser_Mbappe_targeting_winning_WC_not_Golden_Boot_race_with_Messi_20260701_GLOBAL_FIF.jpg",
       "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "France",
         "Sweden"
       ],
       "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 210
-    },
-    {
-      "id": "49223897",
-      "headline": "Ronald Koeman steps down as Netherlands head coach after World Cup exit",
-      "description": "Ronald Koeman is out as the Netherlands head coach, following the team's exit to Morocco at the World Cup.",
-      "published": "2026-06-30T21:50:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49223897/ronald-koeman-netherlands-world-cup-exit-morocco",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681967_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Netherlands",
-        "Morocco"
-      ],
-      "players": [],
-      "score": 190
-    },
-    {
-      "id": "49229606",
-      "headline": "Christian Pulisic says he is fit, ready to go the distance for USMNT",
-      "description": "United States men's national team attacker Christian Pulisic said he is ready to go the distance in the team's World Cup round-of-32 match against Bosnia and Herzegovina on Wednesday, no matter how long the game lasts.",
-      "published": "2026-06-30T21:38:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49229606/christian-pulisic-says-fit-ready-go-distance-usmnt",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1679852_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Bosnia"
-      ],
-      "players": [
-        "Christian Pulisic"
-      ],
-      "score": 182
-    },
-    {
-      "id": "49229201",
-      "headline": "Erling Haaland 'the greatest goalscorer in the world' - Norway coach Stale Solbakken",
-      "description": "Norway coach Stale Solbakken described Erling Haaland as the \"greatest goalscorer in the world and I wouldn't swap him for anybody.\"",
-      "published": "2026-06-30T21:37:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49229201/erling-haaland-greatest-goalscorer-world-norway-coach-stale-solbakken",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682301_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 172
-    },
-    {
-      "id": "49228927",
-      "headline": "Does German soccer have a talent crisis?",
-      "description": "Does German soccer have a talent crisis?",
-      "published": "2026-06-30T20:29:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/49228927/does-german-soccer-talent-crisis",
-      "image": "https://a.espncdn.com/media/motion/2026/0630/ss_20260630_162023101_3580462/ss_20260630_162023101_3580462.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 158
-    },
-    {
-      "id": "49224162",
-      "headline": "U.S. Homeland Security Secretary 'so happy' Iran made World Cup exit",
-      "description": "U.S. Department of Homeland Security Secretary Markwayne Mullin has said he is \"so happy\" that Iran are out of the World Cup.",
-      "published": "2026-06-30T20:47:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49224162/top-us-government-official-happy-iran-made-world-cup-exit",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681976_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "IR Iran",
-        "USA"
-      ],
-      "players": [],
-      "score": 152
-    },
-    {
-      "id": "49228507",
-      "headline": "Haaland shows why he's the key to Norway's World Cup dreams",
-      "description": "While he has a very talented and capable supporting cast, Norway's dreams of World Cup glory rest on the shoulders, and goals, of Erling Haaland.",
-      "published": "2026-06-30T20:15:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49228507/norway-ivory-coast-erling-haaland-fifa-world-cup-round-32-analysis",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682240_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "Côte d'Ivoire"
-      ],
-      "players": [],
-      "score": 147
-    },
-    {
-      "id": "49227955",
-      "headline": "Haaland scores late as Norway send Ivory Coast out of World Cup",
-      "description": "Erling Haaland sent Norway into a round-of-16 clash with Brazil by scoring an 86th-minute winner against Ivory Coast in Dallas.",
-      "published": "2026-06-30T19:41:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49227955/norway-ivory-coast-erling-haaland-world-cup-match-report-last-32",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682204_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Norway",
-        "Côte d'Ivoire",
-        "Brazil"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Amad Diallo"
-      ],
-      "score": 143
-    },
-    {
-      "id": "48999982",
-      "headline": "Group E at the 2026 World Cup: Teams, records, stats to know",
-      "description": "Group E at the 2026 World Cup features Germany, Curaçao, Ecuador and Ivory Coast. Find out more about their history at the World Cup.",
-      "published": "2026-06-30T20:28:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48999982/group-e-2026-world-cup-teams-records-stats-know-germany-curacao-ecuador-ivory-coast",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670223_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France",
-        "Germany",
-        "Curaçao",
-        "Ecuador",
-        "Côte d'Ivoire"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49228165",
-      "headline": "Erling Haaland strikes late vs. Ivory Coast to send Norway into last-16 at the World Cup",
-      "description": "Erling Haaland scored the deciding goal in the 86th minute as Norway won their first ever World Cup knockout match, advancing to the round of 16 with a 2-1 victory over Ivory Coast on Tuesday.",
-      "published": "2026-06-30T19:14:21Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/760490",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682206_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Norway",
-        "Côte d'Ivoire"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49227782",
-      "headline": "Declan Rice: England have best set of penalty takers they've ever had",
-      "description": "Declan Rice says England have the best crop of penalty takers they have ever had as they head into the knockout stages of the World Cup.",
-      "published": "2026-06-30T18:32:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49227782/declan-rice-england-best-set-penalty-takers-ever-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682176_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Declan Rice"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49227650",
-      "headline": "Silva on Portugal criticism ahead of Croatia WC match: Part of process",
-      "description": "Portugal midfielder Bernardo Silva accepts the criticism aimed at Portugal for their World Cup performances so far yet believes the team can still lift the trophy.",
-      "published": "2026-06-30T18:26:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49227650/silva-portugal-criticism-ahead-croatia-world-cup-match-part-process",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682171_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Portugal",
-        "Croatia"
-      ],
-      "players": [
-        "Bernardo Silva"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49204443",
-      "headline": "Predicting how many of Africa's historic nine teams will win their R32 matches",
-      "description": "Which of the African teams can extend their impressive runs to date by advancing to the last 16?",
-      "published": "2026-06-30T20:00:34Z",
-      "url": "https://www.espn.com/espn/story/_/id/49204443/african-teams-2026-fifa-world-cup-round-32-ed-dove-predictions",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1680912_2_608x342_16-9.png",
-      "byline": "Ed Dove",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "South Africa",
-        "Ghana",
-        "Morocco",
-        "Cabo Verde",
-        "Côte d'Ivoire",
-        "Senegal"
-      ],
-      "players": [],
-      "score": 136
-    },
-    {
-      "id": "49225036",
-      "headline": "Jordan Pickford: England 'ready to go to war' for Thomas Tuchel",
-      "description": "England goalkeeper Jordan Pickford is in no doubt the players will be \"ready to go to war\" for manager Thomas Tuchel when they take on Congo DR for a place in the World Cup round of 16.",
-      "published": "2026-06-30T13:26:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49225036/jordan-pickford-england-ready-go-war-thomas-tuchel",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682020_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "England",
-        "DR Congo",
-        "Jordan"
-      ],
-      "players": [
-        "Jordan Pickford"
-      ],
-      "score": 134
-    },
-    {
-      "id": "49227849",
-      "headline": "Norway fans celebrate Nusa's goal vs. Côte d'Ivoire",
-      "description": "Norway fans celebrate Nusa's goal vs. Côte d'Ivoire",
-      "published": "2026-06-30T18:36:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49227849/norway-fans-celebrate-nusa-goal-vs-cote-divoire",
-      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_Analysis_Norway_fans_celebrate_NusaE28099s_goal_vs_CC3B4te_dIvoire_GLOBAL_2026-06-30/dm_260630_COM_SOC_Analysis_Norway_fans_celebrate_NusaE28099s_goal_vs_CC3B4te_dIvoire_GLOBAL_2026-06-30.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Côte d'Ivoire",
-        "Norway"
-      ],
-      "players": [],
-      "score": 132
-    },
-    {
-      "id": "49226918",
-      "headline": "Jarell Quansah and Reece James miss England's latest training session",
-      "description": "Jarell Quansah and Reece James were both absent from England's final squad training session ahead of their round of 32 World Cup showdown with the Democratic Republic of Congo",
-      "published": "2026-06-30T17:08:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49226918/jarell-quansah-reece-james-miss-england-latest-training-session",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1680925_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "DR Congo"
-      ],
-      "players": [],
-      "score": 132
-    },
-    {
-      "id": "49221882",
-      "headline": "How Norway's 'Viking Row' was made, and then took over the World Cup",
-      "description": "You've seen the viral images of Norway fans and their \"Viking Row,\" the latest in a long tradition of iconic team chants at the World Cup. Only, this one isn't rooted in history, but the notepad of a superfan.",
-      "published": "2026-06-30T13:10:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49221882/norway-world-cup-viking-row-usa-fans-erling-haaland-martin-odegaard",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681972_1296x729_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49213461",
-      "headline": "Six things South Africa need to fix after FIFA World Cup exit",
-      "description": "South Africa's World Cup can end with pride, as Hugo Broos's side reached the knockout stages for the first time in history, having overcoming an early setback with the opening defeat by Mexico in the process.",
-      "published": "2026-06-30T11:44:26Z",
-      "url": "https://www.espn.com/espn/story/_/id/49213461/six-things-south-africa-need-fix-fifa-world-cup-exit",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1681226_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "South Africa",
-        "Mexico"
-      ],
-      "players": [
-        "Oswin Appollis",
-        "Evidence Makgopa",
-        "Lyle Foster"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49228345",
-      "headline": "Barcelona bring out all the stripes for new 2026-27 home kit",
-      "description": "LaLiga champions Barcelona have released the kit they hope will help them end their wait of more than a decade to win the UEFA Champions League again.",
-      "published": "2026-06-30T20:37:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49228345/barcelona-bring-all-stripes-new-2026-27-home-kit",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682200_2_1080x608_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 131
-    },
-    {
-      "id": "48386952",
-      "headline": "Every team's championship odds for the 2026 World Cup",
-      "description": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
-      "published": "2026-06-30T16:13:48Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682075_1296x729_16-9.jpg",
-      "byline": "Doug Greenberg",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "France",
-        "Brazil",
-        "England",
-        "Spain",
-        "Argentina",
-        "Portugal",
-        "Germany",
-        "Netherlands",
-        "Belgium",
-        "Colombia",
-        "Japan",
-        "Canada",
-        "Mexico",
-        "Norway",
-        "Morocco",
-        "Uruguay",
-        "Ecuador",
-        "Sweden",
-        "Croatia",
-        "Switzerland",
-        "Austria",
-        "Australia",
-        "Senegal",
-        "Czechia",
-        "Paraguay",
-        "Scotland",
-        "Egypt",
-        "Algeria",
-        "Korea Republic",
-        "Ghana",
-        "Panama",
-        "South Africa",
-        "New Zealand",
-        "Iraq",
-        "Cabo Verde",
-        "Uzbekistan",
-        "Jordan",
-        "Haiti"
-      ],
-      "players": [],
-      "score": 130
-    },
-    {
-      "id": "49223929",
-      "headline": "Congo DR scouting report: A closer look at England's round-of-32 World Cup opponents",
-      "description": "ESPN Africa correspondent Ed Dove provides the lowdown on Congo DR ahead of their game against England.",
-      "published": "2026-06-30T15:47:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49223929/congo-dr-scouting-report-closer-look-england-round-32-world-cup-opponents",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681968_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "DR Congo"
-      ],
-      "players": [],
-      "score": 130
-    },
-    {
-      "id": "49186290",
-      "headline": "2026 World Cup: How to bet on U.S. vs. Bosnia-Herzegovina",
-      "description": "Looking to place some World Cup bets? Here's what our experts are considering ahead of the USMNT's Round of 32 game.",
-      "published": "2026-06-30T15:27:55Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49186290/2026-world-cup-how-bet-usa-bosnia-herzegovina-best-picks-odds-props",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1679912_576x324_16-9.jpg",
-      "byline": "Liz Loza and Victoria Matiash",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA",
-        "Bosnia"
-      ],
-      "players": [],
-      "score": 129
-    },
-    {
-      "id": "49224579",
-      "headline": "Colombia vs. Ghana - Kick-off time, team news, how to watch World Cup round of 32 clash",
-      "description": "Ghana will face Colombia in a World Cup round of 32 clash in Kansas City on Friday as the Black Stars look to bounce back from their Croatia loss.",
-      "published": "2026-06-30T13:08:11Z",
-      "url": "https://www.espn.com/espn/story/_/id/49224579/colombia-vs-ghana-kick-team-news-how-watch-world-cup-round-32-clash",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681995_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Ghana",
-        "Colombia",
-        "Croatia"
-      ],
-      "players": [
-        "Caleb Yirenkyi",
-        "Thomas Partey",
-        "James Rodríguez",
-        "Marvin Senaya",
-        "Lawrence Ati Zigi",
-        "Benjamin Asare"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49223352",
-      "headline": "England vs. Congo DR - Kick-off time, team news, how to watch",
-      "description": "Yoane Wissa has scored three times for Congo DR at the 2026 FIFA World Cup and will look to inspire Les Léopards against England.",
-      "published": "2026-06-30T13:06:09Z",
-      "url": "https://www.espn.com/espn/story/_/id/49223352/england-vs-congo-dr-kick-team-news-how-watch",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681956_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "DR Congo"
-      ],
-      "players": [
-        "Yoane Wissa",
-        "Reece James",
-        "Trent Alexander-Arnold",
-        "Tino Livramento",
-        "Jarell Quansah",
-        "Djed Spence",
-        "Fiston Mayele",
-        "Axel Tuanzebe"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49228398",
-      "headline": "Crazy scenes in Oslo as Haaland scores winner for Norway vs. Côte d'Ivoire",
-      "description": "Crazy scenes in Oslo as Haaland scores winner for Norway vs. Côte d'Ivoire",
-      "published": "2026-06-30T20:25:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/49228398/crazy-scenes-oslo-haaland-scores-winner-norway-vs-cote-divoire",
-      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_Analysis_Crazy_scenes_in_Olso_has_Haaland_scores_winner_for_Norway_vs_CC3B4te_dIvoire0_GLOBA/dm_260630_COM_SOC_Analysis_Crazy_scenes_in_Olso_has_Haaland_scores_winner_for_Norway_vs_CC3B4te_dIvoire0_GLOBA.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Côte d'Ivoire",
-        "Norway"
-      ],
-      "players": [],
-      "score": 128
-    },
-    {
-      "id": "49223646",
-      "headline": "Mexico City schools, staff get day off for crucial Ecuador match at Azteca",
-      "description": "Mexico City schools and government staff have been given the day off on Tuesday as the city prepares for huge crowds and traffic for Mexico's crucial knockout round of 32 match vs. Ecuador at Estadio Azteca.",
-      "published": "2026-06-30T14:59:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49223646/mexico-city-schools-staff-day-crucial-ecuador-match-azteca",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681962_1296x729_16-9.jpg",
-      "byline": "Grace Allen",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "players": [],
-      "score": 128
-    },
-    {
-      "id": "49225373",
-      "headline": "Cape Verde President: 'We can beat Argentina 1-0' ahead of 'World Cup destiny'",
-      "description": "Cape Verde President José Maria Neves has said that he believes his country 'can beat Argentina 1-0' in their Round of 32 clash",
-      "published": "2026-06-30T14:43:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49225373/cape-verde-president-beat-argentina-1-0-ahead-world-cup-destiny",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682034_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Cabo Verde",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 128
-    },
-    {
-      "id": "49228332",
-      "headline": "World Cup: One big question for every round-of-16 team",
-      "description": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament. Like do Brazil have a plan?",
-      "published": "2026-06-30T20:09:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682238_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil",
-        "Canada",
-        "Morocco",
-        "Paraguay"
-      ],
-      "players": [],
-      "score": 127
-    },
-    {
-      "id": "49228536",
-      "headline": "Does Ancelotti need to make changes for Brazil vs. Norway?",
-      "description": "Does Ancelotti need to make changes for Brazil vs. Norway?",
-      "published": "2026-06-30T19:49:17Z",
-      "url": "https://www.espn.com/video/clip/_/id/49228536/does-ancelotti-need-make-changes-brazil-vs-norway",
-      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_Analysis_Does_Ancelotti_need_to_make_changes_for_Brazil_vs_Norway3F__GLOBAL_2026-06-30/dm_260630_COM_SOC_Analysis_Does_Ancelotti_need_to_make_changes_for_Brazil_vs_Norway3F__GLOBAL_2026-06-30.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil",
-        "Norway"
-      ],
-      "players": [],
-      "score": 127
-    },
-    {
-      "id": "49213630",
-      "headline": "Ivory Coast vs. Norway - Kick-off time, team news, how to watch as Diomande faces Haaland",
-      "description": "Ivory Coast will take on Norway in a FIFA World Cup round of 32 clash in Arlington, Texas on Tuesday as one of world football's rising stars, Yan Diomande, faces a team featuring the likes of Erling Haaland and Martin Ødegaard.",
-      "published": "2026-06-30T11:52:50Z",
-      "url": "https://www.espn.com/espn/story/_/id/49213630/ivory-coast-vs-norway-kick-team-news-how-watch-diomande-faces-haaland",
-      "image": "https://a.espncdn.com/photo/2026/0629/r1681333_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Côte d'Ivoire",
-        "Norway"
-      ],
-      "players": [
-        "Yan Diomande",
-        "Erling Haaland"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49228418",
-      "headline": "Is Nusa what makes Norway 'special'?",
-      "description": "Is Nusa what makes Norway 'special'?",
-      "published": "2026-06-30T19:38:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/49228418/is-nusa-makes-norway-special",
-      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_Analysis_Is_Nusa_what_makes_Norway_E28098specialE280993F_GLOBAL_2026-06-30/dm_260630_COM_SOC_Analysis_Is_Nusa_what_makes_Norway_E28098specialE280993F_GLOBAL_2026-06-30.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Côte d'Ivoire",
-        "Norway"
-      ],
-      "players": [],
-      "score": 126
-    },
-    {
-      "id": "49178425",
-      "headline": "World Cup: Grades for every eliminated team as they exit the tournament",
-      "description": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how their run compared with expectations.",
-      "published": "2026-06-30T18:33:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682163_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Czechia",
-        "Qatar",
-        "Haiti",
-        "Curaçao",
-        "Tunisia",
-        "Jordan",
-        "Panama",
-        "Uruguay",
-        "Saudi Arabia",
-        "New Zealand",
-        "Iraq",
-        "IR Iran",
-        "Scotland",
-        "Uzbekistan",
-        "Korea Republic",
-        "South Africa",
-        "Netherlands",
-        "Germany",
-        "Japan"
-      ],
-      "players": [],
-      "score": 125
-    },
-    {
-      "id": "49225963",
-      "headline": "Lionel Messi stars with Tom Holland in Spider-Man movie promo",
-      "description": "Given his superhuman soccer talents, it was just a matter of time before Lionel Messi became the latest big-name star to enter the superhero world.",
-      "published": "2026-06-30T16:34:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49225963/lionel-messi-stars-tom-holland-spider-man-brand-new-day-movie-promo",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682056_2_1211x681_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
+        "Kylian Mbappé",
         "Lionel Messi"
       ],
-      "score": 125
-    },
-    {
-      "id": "49226479",
-      "headline": "Son Heung-min 'indescribably hurt' by South Korea World Cup exit",
-      "description": "South Korea captain Son Heung-min has apologized for the team's group-stage exit at the World Cup, saying he is \"indescribably hurt\" and eager to \"win the hearts\" of the nation once again.",
-      "published": "2026-06-30T16:26:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49226479/son-heung-min-indescribably-hurt-south-korea-world-cup-exit",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679087_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Korea Republic"
-      ],
-      "players": [
-        "Son Heung-Min"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49170830",
-      "headline": "Behind the banner: How a World Cup-themed USA tifo was born",
-      "description": "Soccer tifos have been a staple at games since the 1960s. Here's how USA supporters created the storied fan art for a 2025 game as a World Cup sendoff.",
-      "published": "2026-06-30T18:03:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49170830/how-world-cup-themed-usa-tifo-was-born",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678806_1296x729_16-9.jpg",
-      "byline": "Alonzo Olmedo",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 124
-    },
-    {
-      "id": "49223680",
-      "headline": "Neymar pokes fun at German mathematician after Brazil beat Japan",
-      "description": "Neymar poked fun at German mathematician Joachim Klement, who wrongly predicted that Brazil would lose to Japan in the Round of 32 and the Netherlands would lift the World Cup.",
-      "published": "2026-06-30T09:46:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49223680/neymar-pokes-fun-german-mathematician-brazil-beat-japan",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679300_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Brazil",
-        "Netherlands",
-        "Japan"
-      ],
-      "players": [
-        "Neymar"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49223641",
-      "headline": "Lukaku shrugs off criticism ahead of Belgium's WC match vs. Senegal",
-      "description": "Lukaku shrugs off criticism ahead of Belgium's WC match vs. Senegal",
-      "published": "2026-06-30T09:11:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/49223641/lukaku-shrugs-criticism-ahead-belgium-wc-match-vs-senegal",
-      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_Presser_Lukaku_shrugs_off_criticism_ahead_of_Belgiums_WC_match_vs_Senegal_20260630_GLOB/dm_260630_COM_SOC_Presser_Lukaku_shrugs_off_criticism_ahead_of_Belgiums_WC_match_vs_Senegal_20260630_GLOB.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Belgium",
-        "Senegal"
-      ],
-      "players": [
-        "Romelu Lukaku"
-      ],
-      "score": 123
-    },
-    {
-      "id": "48847593",
-      "headline": "How many father-son duos have been in the FIFA World Cup?",
-      "description": "Check out a list of every father-son duo that has played in the FIFA World Cup.",
-      "published": "2026-06-30T19:19:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48847593/how-many-father-son-duos-the-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2022/0317/r987687_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 122
-    },
-    {
-      "id": "49224477",
-      "headline": "Why we think World Cup is 'coming home' for England this summer",
-      "description": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer.",
-      "published": "2026-06-30T15:20:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49224477/fifa-world-cup-england-coming-home-jude-bellingham-harry-kane-thomas-tuchel",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682029_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 120
-    },
-    {
-      "id": "49190018",
-      "headline": "How Mexico's World Cup run brought a small Oregon town to life",
-      "description": "The World Cup melds communities, cultures, homelands, and those left behind. In Woodburn, OR, soccer is more than just a game.",
-      "published": "2026-06-30T15:16:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49190018/how-mexico-world-cup-run-brought-small-oregon-town-life",
-      "image": "https://a.espncdn.com/photo/2026/0626/soc_lead-woodburn_16x9.jpg",
-      "byline": "Roberto José Andrade Franco",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico"
-      ],
-      "players": [],
-      "score": 120
+      "score": 180
     },
     {
       "id": "48972466",
       "headline": "World Cup 2026: Can Lionel Messi and Cristiano Ronaldo finally meet on biggest stage?",
       "description": "In a sixth World Cup for Lionel Messi and Cristiano Ronaldo, could the pair finally face each other in the tournament?",
-      "published": "2026-06-30T07:18:55Z",
+      "published": "2026-07-01T08:39:11Z",
       "url": "https://www.espn.com/soccer/story/_/id/48972466/world-cup-2026-lionel-messi-cristiano-ronaldo-showdown-knockouts-argentina-portugal",
       "image": "https://a.espncdn.com/photo/2026/0605/r1668521_608x342_16-9.png",
       "byline": "Anirudh Menon",
@@ -832,120 +113,754 @@
         "Lionel Messi",
         "Cristiano Ronaldo"
       ],
-      "score": 120
+      "score": 159
     },
     {
-      "id": "49223498",
-      "headline": "Mexico fans welcome Ecuador with a loud reception ahead of WC clash",
-      "description": "Mexico fans welcome Ecuador with a loud reception ahead of WC clash",
-      "published": "2026-06-30T08:35:17Z",
-      "url": "https://www.espn.com/video/clip/_/id/49223498/mexico-fans-welcome-ecuador-loud-reception-ahead-wc-clash",
-      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_News_Mexico_fans_welcome_Ecuador_with_a_loud_reception_ahead_of_WC_clash_20260630_GLOBAL/dm_260630_COM_SOC_News_Mexico_fans_welcome_Ecuador_with_a_loud_reception_ahead_of_WC_clash_20260630_GLOBAL.jpg",
-      "byline": null,
+      "id": "49234453",
+      "headline": "Five reasons why Ivory Coast can still be Africa's next great force despite World Cup exit",
+      "description": "Ivory Coast's 2-1 Last 32 defeat by Norway in Dallas on Tuesday brought their World Cup adventure to an agonising conclusion, but it shouldn't obscure the bigger picture.",
+      "published": "2026-07-01T08:46:36Z",
+      "url": "https://www.espn.com/espn/story/_/id/49234453/five-reasons-why-ivory-coast-africa-next-great-force-world-cup-exit",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1679859_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Côte d'Ivoire",
+        "Norway"
+      ],
+      "players": [],
+      "score": 157
+    },
+    {
+      "id": "49234780",
+      "headline": "Orlando Pirates confirm Relebohile Mofokeng transfer agreement with Belgium's RUSG",
+      "description": "Orlando Pirates have reached an agreement with Royale Union Saint-Gilloise for the transfer of Relebohile Mofokeng pending personal terms and a medical.",
+      "published": "2026-07-01T10:45:11Z",
+      "url": "https://www.espn.com/espn/story/_/id/49234780/orlando-pirates-confirm-relebohile-mofokeng-transfer-agreement-belgium-rusg",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1679059_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "France",
+        "South Africa",
+        "Belgium"
+      ],
+      "players": [
+        "Relebohile Mofokeng",
+        "Kylian Mbappé"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49234752",
+      "headline": "French defender Jérémy Jacquet officially joins Liverpool from Rennes",
+      "description": "Liverpool have completed the signing of France U21 centre-back Jérémy Jacquet from Rennes in a deal worth up to £60million.",
+      "published": "2026-07-01T10:33:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49234752/jeremy-jacquet-liverpool-rennes",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682572_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Kylian Mbappé"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49229146",
+      "headline": "Ranking all 20 Premier League clubs on transfer work for 2025-26 season",
+      "description": "One year on from a bumper 2025 summer Premier League window, we've decided to rate all 20 teams' incoming signings on their immediate impact and scope to improve.",
+      "published": "2026-07-01T10:30:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49229146/ranking-all-20-premier-league-clubs-their-transfer-work-2025-26-season",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682566_1296x729_16-9.jpg",
+      "byline": "Sam Tighe and Bill Connelly",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Kylian Mbappé"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49234121",
+      "headline": "Transfer rumors, news: USMNT's Pulisic on six-man Liverpool shortlist",
+      "description": "USMNT star Christian Pulisic could be headed back to the Premier League. Transfer Talk has the latest.",
+      "published": "2026-07-01T10:29:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675661_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "France",
+        "USA"
+      ],
+      "players": [
+        "Christian Pulisic",
+        "Kylian Mbappé"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49232997",
+      "headline": "Mexico send a World Cup message from 'Fortress Azteca' as fans aid win over Ecuador",
+      "description": "The Estadio Azteca was deafening on Tuesday night as Mexico picked up their first win in a World Cup knockout match in 40 years.",
+      "published": "2026-07-01T09:32:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49232997/mexico-send-world-cup-message-fortress-azteca-fans-aid-win-ecuador",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682565_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
       "kind": "preview",
       "kindLabel": "Match preview",
+      "teams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "players": [],
+      "score": 137
+    },
+    {
+      "id": "49230291",
+      "headline": "Socceroos under no illusions ahead of Egypt: 'Eat or be eaten'",
+      "description": "Australia great respect for Mohamed Salah and Egypt, but Socceroos flyer Jordan Bos says that the team is under no illusions that Friday's FIFA World Cup round of 32 clash is anything other than \"eat or be eaten.\"",
+      "published": "2026-07-01T06:42:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49230291/socceroos-no-illusions-ahead-egypt-eat-eaten",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682362_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia",
+        "Egypt",
+        "Jordan"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Ajdin Hrustic",
+        "Jordan Bos"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49230723",
+      "headline": "Jordan Pickford: England 'prepared' for World Cup penalty shootout",
+      "description": "England have a plan in place if their round of 32 match against Congo DR goes to a dreaded penalty shootout, and Jordan Pickford says England are ready for any scenario.",
+      "published": "2026-07-01T06:32:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49230723/jordan-pickford-england-prepared-world-cup-penalty-shootout",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682372_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Jordan",
+        "DR Congo"
+      ],
+      "players": [
+        "Jordan Pickford"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49224073",
+      "headline": "What it feels like to pull off a World Cup upset, from Paraguay to Cape Verde",
+      "description": "Paraguay's win over Germany in the round of 32 is the latest World Cup shock in a long line of them, including famous upsets like Ireland over Italy in 1994 and Norway over Brazil in 1998. What's it feel like to beat a giant?",
+      "published": "2026-07-01T06:54:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49224073/world-cup-upsets-shocks-ireland-italy-1994-paraguay-germany-2026-cape-verde",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682178_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Germany",
+        "Paraguay",
+        "Brazil",
+        "Cabo Verde",
+        "Norway"
+      ],
+      "players": [],
+      "score": 133
+    },
+    {
+      "id": "48964271",
+      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
+      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
+      "published": "2026-07-01T08:35:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
+      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 132
+    },
+    {
+      "id": "49232657",
+      "headline": "Mexico oust Ecuador for 1st World Cup knockout win in 40 years",
+      "description": "Mexico won their first World Cup knockout stage match in 40 years after dispatching Ecuador 2-0 in front an electric crowd at Estadio Azteca on Tuesday.",
+      "published": "2026-07-01T06:11:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49232657/mexico-ecuador-2026-world-cup-knockout-win",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682505_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "players": [],
+      "score": 132
+    },
+    {
+      "id": "49230675",
+      "headline": "Reece James, Jarell Quansah out of England's World Cup clash with Congo DR",
+      "description": "Thomas Tuchel has confirmed Reece James and Jarell Quansah will miss England's round of 32 clash with Congo DR on Wednesday.",
+      "published": "2026-07-01T00:15:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49230675/reece-james-jarell-quansah-england-world-cup-clash-congo-dr",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682367_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England",
+        "DR Congo"
+      ],
+      "players": [
+        "Reece James",
+        "Jarell Quansah"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49231351",
+      "headline": "Inside the Socceroos camp as they prepare for Egypt",
+      "description": "As history beckons for the Socceroos, they must find a way to harness the motivation from the scale of the task at hand, pay heed to the approach that got them there, and make sure that the players play the game, and not the sense of occasion.",
+      "published": "2026-07-01T06:23:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49231351/inside-socceroos-camp-prepare-egypt",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682425_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "players": [],
+      "score": 130
+    },
+    {
+      "id": "49182452",
+      "headline": "World Cup 2026: Are we witnessing the end of this great Senegal team?",
+      "description": "It's not over, not by any stretch: they have the quality, the firepower to defeat Iraq by a large margin and give themselves a chance to progress.",
+      "published": "2026-07-01T08:05:57Z",
+      "url": "https://www.espn.com/espn/story/_/id/49182452/world-cup-2026-witnessing-end-great-senegal-team-sadio-mane",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678211_608x342_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Senegal",
+        "Iraq"
+      ],
+      "players": [
+        "Sadio Mané"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49232999",
+      "headline": "Raúl Jiménez, Julián Quiñones help Mexico past Ecuador, into Round of 16",
+      "description": "Mexico will now face either England or DR Congo in Mexico City in the Round of 16.",
+      "published": "2026-07-01T04:16:06Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/760491",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682507_608x342_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Mexico",
+        "Ecuador",
+        "DR Congo",
+        "England"
+      ],
+      "players": [],
+      "score": 129
+    },
+    {
+      "id": "49234123",
+      "headline": "Gyökeres hails 'incredible' Mbappé after WC exit to France",
+      "description": "Gyökeres hails 'incredible' Mbappé after WC exit to France",
+      "published": "2026-07-01T07:21:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49234123/gyokeres-hails-incredible-mbappe-wc-exit-france",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_Presser_Gyokeres_hails_incredible_Mbappe_after_WC_exit_to_France_20260701_GLOBAL_FIFA/dm_260701_COM_SOC_Presser_Gyokeres_hails_incredible_Mbappe_after_WC_exit_to_France_20260701_GLOBAL_FIFA.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Sweden"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Viktor Gyökeres"
+      ],
+      "score": 128
+    },
+    {
+      "id": "48939282",
+      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
+      "published": "2026-07-01T09:14:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico",
+        "Canada",
+        "USA"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49229908",
+      "headline": "France have Kylian Mbappé but are so much more -- and that might make them unbeatable",
+      "description": "How do you beat a team with so much attacking firepower? If France's win over Sweden is any indication, it might be impossible.",
+      "published": "2026-07-01T07:08:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49229908/france-mbappe-unbeatable-fifa-world-cup-sweden",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682374_1296x729_16-9.jpg",
+      "byline": "Gabriele Marcotti and Julien Laurens",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Sweden"
+      ],
+      "players": [
+        "Kylian Mbappé"
+      ],
+      "score": 127
+    },
+    {
+      "id": "48957098",
+      "headline": "Group A at the 2026 World Cup: Teams, records, stats to know",
+      "description": "Group A at the 2026 World Cup features Mexico, South Africa, South Korea and Czechia. Find out more about their history at the World Cup.",
+      "published": "2026-07-01T04:13:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48957098/group-2026-world-cup-teams-records-stats-know-mexico-south-korea-czechia-south-africa",
+      "image": "https://a.espncdn.com/photo/2026/0605/r1668559_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Mexico",
+        "South Africa",
+        "Korea Republic",
+        "Czechia"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49231390",
+      "headline": "Amad Diallo: We gave Haaland 'too much space' as Norwegian striker knocks out Ivory Coast",
+      "description": "Ivory Coast winger Amad Diallo said his side gave Manchester City striker Erling Haaland \"too much space\" after the Norway forward scored the late winner in Tuesday's 2-1 World Cup round-of-32 clash in Dallas.",
+      "published": "2026-07-01T00:54:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49231390/amad-diallo-ivory-coast-world-cup-2026-erling-haaland-too-much-space",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682409_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Côte d'Ivoire",
+        "Norway"
+      ],
+      "players": [
+        "Amadou Diallo"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49231398",
+      "headline": "Bielsa takes full blame for Uruguay's World Cup failure as contract ends",
+      "description": "Marcelo Bielsa took full responsibility on Tuesday for Uruguay's group-stage elimination from the 2026 World Cup, calling the exit frustrating and painful as his three-year contract with the federation officially came to an end.",
+      "published": "2026-07-01T00:40:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49231398/marcelo-bielsa-takes-full-blame-uruguay-world-cup-failure-contract-ends",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682379_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49231319",
+      "headline": "England strive to avoid World Cup woe in a city notorious for the dreams it has destroyed",
+      "description": "ESPN's Tom Hamilton warns that Atlanta, where England will play Congo DR at the World Cup, has destroyed dreams before...",
+      "published": "2026-07-01T06:57:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49231319/england-strive-avoid-world-cup-woe-city-notorious-dreams-destroyed",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682419_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "DR Congo"
+      ],
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49227164",
+      "headline": "Are European champions Spain still among World Cup favorites?",
+      "description": "They may have booked a round-of-32 tie vs. Austria as group winners, but Spain's performances raised doubts about the team and coach Luis de la Fuente.",
+      "published": "2026-07-01T06:51:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49227164/are-european-champions-spain-world-cup-favorites",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682172_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Austria"
+      ],
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49232398",
+      "headline": "Mexico fans go wild for opening goal vs. Ecuador at the World Cup",
+      "description": "Mexico fans go wild for opening goal vs. Ecuador at the World Cup",
+      "published": "2026-07-01T02:35:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/49232398/mexico-fans-go-wild-opening-goal-vs-ecuador-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_News_Mexico_fans_go_wild_for_opening_goal_vs_Ecuador_at_the_World_Cup_20260627_GLOBAL_F/dm_260630_COM_SOC_News_Mexico_fans_go_wild_for_opening_goal_vs_Ecuador_at_the_World_Cup_20260627_GLOBAL_F.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
         "Ecuador",
         "Mexico"
       ],
       "players": [],
-      "score": 119
+      "score": 124
     },
     {
-      "id": "49200323",
-      "headline": "Inside how a U.S. academy helped mold World Cup phenom Yan Diomande",
-      "description": "Teenager Yan Diomande is a top target for Europe's biggest clubs this summer. Before he was a star, though, he was a promising winger in Florida called \"Dio.\"",
-      "published": "2026-06-30T11:53:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49200323/inside-how-us-academy-helped-mould-world-cup-phenom-yan-diomande",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680585_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
+      "id": "49231156",
+      "headline": "Pochettino: Bosnia-Herzegovina clash like World Cup final for USMNT",
+      "description": "Pochettino: Bosnia-Herzegovina clash like World Cup final for USMNT",
+      "published": "2026-07-01T00:07:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49231156/bosnia-herzegovina-clash-world-cup-final-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_Presser_Pochettino_Bosnia_Herzegovina_clash_like_World_Cup_final_for_USMNT_20260627_GLO/dm_260630_COM_SOC_Presser_Pochettino_Bosnia_Herzegovina_clash_like_World_Cup_final_for_USMNT_20260627_GLO.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA",
+        "Bosnia"
+      ],
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "48945011",
+      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
+      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
+      "published": "2026-07-01T08:20:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 122
+    },
+    {
+      "id": "48945570",
+      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
+      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
+      "published": "2026-07-01T08:17:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 122
+    },
+    {
+      "id": "49232870",
+      "headline": "Amad Diallo 'proud' after historic World Cup campaign with Ivory Coast",
+      "description": "Amad Diallo 'proud' after historic World Cup campaign with Ivory Coast",
+      "published": "2026-07-01T03:35:31Z",
+      "url": "https://www.espn.com/video/clip/_/id/49232870/amad-diallo-proud-historic-world-cup-campaign-ivory-coast",
+      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_Interview_Amad_Diallo_proud_after_historic_World_Cup_campaign_with_Ivory_Coast_2026062/dm_260630_COM_SOC_Interview_Amad_Diallo_proud_after_historic_World_Cup_campaign_with_Ivory_Coast_2026062.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Côte d'Ivoire",
-        "USA"
+        "Norway"
       ],
       "players": [
-        "Yan Diomande"
+        "Amad Diallo"
       ],
-      "score": 118
+      "score": 122
     },
     {
-      "id": "49223488",
-      "headline": "Thapelo Maseko gave South Africa hope - five positives for Bafana to build on after World Cup exit",
+      "id": "49230873",
+      "headline": "Norway advance thanks to late Haaland winner",
+      "description": "Norway progress to a Round of 16 clash with Brazil after a 86th-minute Erling Haaland goal secured a 2-1 victory over Côte d'Ivoire.",
+      "published": "2026-06-30T23:44:23Z",
+      "url": "https://www.espn.com/video/clip/_/id/49230873/norway-advance-thanks-late-haaland-winner",
+      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_Soccer_Highlight_Norway_advance_thanks_to_late_Haaland_winner_20260601_AUS_ONLY/dm_260630_Soccer_Highlight_Norway_advance_thanks_to_late_Haaland_winner_20260601_AUS_ONLY.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Brazil",
+        "Côte d'Ivoire",
+        "Norway"
+      ],
+      "players": [],
+      "score": 122
+    },
+    {
+      "id": "49233368",
+      "headline": "Could Jürgen Klopp replace Julian Nagelsmann as Germany manager?",
       "description": "",
-      "published": "2026-06-30T11:39:14Z",
-      "url": "https://www.espn.com/espn/story/_/id/49223488/five-positives-bafana-build-world-cup-exit",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681961_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
+      "published": "2026-07-01T04:54:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/49233368/could-jurgen-klopp-replace-julian-nagelsmann-germany-manager",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_ANALYSIS_Could_Jurgen_Klopp_replace_Julian_Nagelsmann_as_Germany_manager_2026_6_30/dm_260701_COM_SOC_ANALYSIS_Could_Jurgen_Klopp_replace_Julian_Nagelsmann_as_Germany_manager_2026_6_30.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "South Africa"
+        "Germany"
       ],
-      "players": [
-        "Relebohile Mofokeng",
-        "Thapelo Maseko",
-        "Teboho Mokoena",
-        "Mbekezeli Mbokazi",
-        "Ime Okon"
-      ],
-      "score": 117
+      "players": [],
+      "score": 121
     },
     {
-      "id": "49223708",
-      "headline": "Hugo Broos will leave Bafana transformed, with a legacy built to last",
-      "description": "Whether Hugo Broos has taken charge of Bafana Bafana for the final time or not, South Africa's World Cup exit must not obscure the scale of the transformation he has overseen over the last five years.",
-      "published": "2026-06-30T11:37:21Z",
-      "url": "https://www.espn.com/espn/story/_/id/49223708/hugo-broos-leave-bafana-transformed-legacy-built-last",
-      "image": "https://a.espncdn.com/photo/2026/0618/r1675791_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
+      "id": "49233326",
+      "headline": "Do Mexico have everything in their favour for the next round?",
+      "description": "",
+      "published": "2026-07-01T04:44:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/49233326/do-mexico-everything-their-favour-next-round",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_ANALYSIS_Do_Mexico_have_everything_in_their_favour_for_the_next_round_2026_6_30/dm_260701_COM_SOC_ANALYSIS_Do_Mexico_have_everything_in_their_favour_for_the_next_round_2026_6_30.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "South Africa"
+        "Ecuador",
+        "Mexico"
       ],
-      "players": [
-        "Aubrey Modiba",
-        "Ronwen Williams",
-        "Relebohile Mofokeng",
-        "Mbekezeli Mbokazi"
-      ],
-      "score": 117
+      "players": [],
+      "score": 121
     },
     {
-      "id": "49224447",
-      "headline": "Jürgen Klinsmann: Germany's World Cup exit to Paraguay 'an embarrassment'",
-      "description": "Jürgen Klinsmann has called Germany's exit from the World Cup at the hands of Paraguay \"an embarrassment.\"",
-      "published": "2026-06-30T12:01:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49224447/jurgen-klinsmann-germany-world-cup-exit-paraguay-embarrassment",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681986_1296x729_16-9.jpg",
+      "id": "49233235",
+      "headline": "Nicol not convinced Brazil will beat Norway",
+      "description": "",
+      "published": "2026-07-01T04:27:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49233235/nicol-not-convinced-brazil-beat-norway",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_ANALYSIS_Nicol_not_convinced_Brazil_will_beat_Norway_2026_6_30/dm_260701_COM_SOC_ANALYSIS_Nicol_not_convinced_Brazil_will_beat_Norway_2026_6_30.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "players": [],
+      "score": 120
+    },
+    {
+      "id": "49233206",
+      "headline": "Jiménez and Quiñones strikes see Mexico into Round of 16",
+      "description": "El Tri sends the Azteca into a frenzy with an impressive 2-0 win over Ecuador, the co-hosts still yet to concede a goal in the tournament.",
+      "published": "2026-07-01T04:25:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/49233206/jimenez-quinones-strikes-see-mexico-round-16",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/Int_260701_Soccer_HIGHLIGHT_Jimnez_and_Quiones_strikes_see_Mexico_into_Round_of_16_202671_AUS/Int_260701_Soccer_HIGHLIGHT_Jimnez_and_Quiones_strikes_see_Mexico_into_Round_of_16_202671_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Ecuador",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 120
+    },
+    {
+      "id": "49223441",
+      "headline": "World Cup Daily: Mexico, Norway, France all ease into R16",
+      "description": "Follow live below for all the biggest highlights, news, reaction and analysis on another busy day of World Cup action.",
+      "published": "2026-07-01T04:10:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49223441/paraguay-tv-cuts-vital-pen-mexico-fans-get-noisy-ecuador-hotel",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682482_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Germany",
-        "Paraguay"
+        "Mexico",
+        "France",
+        "Norway"
       ],
       "players": [],
-      "score": 115
+      "score": 120
     },
     {
-      "id": "49224070",
-      "headline": "Paraguay head coach Gustavo Alfaro hails players as 'legends' after stunning Germany at World Cup",
-      "description": "Paraguay coach Gustavo Alfaro described Monday's epic win over Germany on penalties as the \"greatest victory of my life\" and hailed his \"26 legends.\"",
-      "published": "2026-06-30T11:14:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49224070/paraguay-germany-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681948_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
+      "id": "48811876",
+      "headline": "Socceroos World Cup Daily: Memories of the infamous Grosso flop haunt Australia",
+      "description": "ESPN's Socceroos Cup Diaries has all you need to know about Australia's journey in North America, all in one place.",
+      "published": "2026-07-01T02:23:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48811876/socceroos-world-cup-daily-news-updates-all-need-know",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682396_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Paraguay",
-        "Germany"
+        "Australia"
+      ],
+      "players": [
+        "Cristian Volpato"
+      ],
+      "score": 120
+    },
+    {
+      "id": "49230712",
+      "headline": "Hutchison: 'Biggest upset in World Cup history' if France lose to Paraguay",
+      "description": "Hutchison: 'Biggest upset in World Cup history' if France lose to Paraguay",
+      "published": "2026-06-30T23:30:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/49230712/biggest-upset-world-cup-history-france-lose-paraguay",
+      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_Hutchison_Biggest_upset_in_World_Cup_history_if_France_lose_to_Paraguay/dm_260630_Hutchison_Biggest_upset_in_World_Cup_history_if_France_lose_to_Paraguay.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "France",
+        "Paraguay"
       ],
       "players": [],
-      "score": 114
+      "score": 120
+    },
+    {
+      "id": "49230632",
+      "headline": "Pochettino: U.S. vs. Bosnia-Herzegovina like World Cup 'final'",
+      "description": "USMNT coach Mauricio Pochettino said that Wednesday's round-of-32 match against Bosnia-Herzegovina will be like \"the final of the World Cup.\"",
+      "published": "2026-07-01T03:52:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49230632/mauricio-pochettino-usa-bosnia-herzegovina-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682366_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Bosnia"
+      ],
+      "players": [],
+      "score": 119
+    },
+    {
+      "id": "49009665",
+      "headline": "Group F at the 2026 World Cup: Teams, records, stats to know",
+      "description": "Group F at the 2026 World Cup features Netherlands, Japan, Tunisia and Sweden. Find out more about their history at the World Cup.",
+      "published": "2026-06-30T23:04:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49009665/group-f-2026-world-cup-teams-records-stats-know-netherlands-japan-tunisia-sweden",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670278_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Netherlands",
+        "Japan",
+        "Tunisia",
+        "Sweden"
+      ],
+      "players": [],
+      "score": 119
+    },
+    {
+      "id": "49231131",
+      "headline": "Ivory Coast's Kessié hints at international retirement after World Cup elimination",
+      "description": "Ivory Coast captain Franck Kessié has acknowledged that he's considering his international future following his country's elimination from the 2026 World Cup on Tuesday.",
+      "published": "2026-07-01T00:57:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49231131/ivory-coast-kessie-hints-international-retirement-world-cup-elimination",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682395_2_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Côte d'Ivoire"
+      ],
+      "players": [
+        "Franck Kessié"
+      ],
+      "score": 118
+    },
+    {
+      "id": "49089105",
+      "headline": "2026 World Cup: Fred Warner, Olivia Rodrigo headline celebrities",
+      "description": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "published": "2026-07-01T02:55:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682481_608x342_16-9.jpg",
+      "byline": "ESPN staff",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Marshawn Lynch",
+        "Trinity Rodman",
+        "Zach LaVine",
+        "Patrick Mahomes"
+      ],
+      "score": 117
+    },
+    {
+      "id": "49232399",
+      "headline": "Strand Larsen: Haaland best striker of last decade",
+      "description": "",
+      "published": "2026-07-01T02:35:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/49232399/haaland-best-striker-last-decade",
+      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_PRESSER_Strand_Larsen_Haaland_best_striker_of_last_decade_2026_6_30/dm_260630_COM_SOC_PRESSER_Strand_Larsen_Haaland_best_striker_of_last_decade_2026_6_30.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Côte d'Ivoire",
+        "Norway"
+      ],
+      "players": [],
+      "score": 117
+    },
+    {
+      "id": "49230559",
+      "headline": "FIFA World Cup 2026 stats: Mbappe tops Messi, beats Ronaldo record; Olise one behind Pele; Haaland 25 in 13",
+      "description": "ESPN's By The Numbers brings you best stats from the World Cup action on June 30.",
+      "published": "2026-07-01T04:20:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49230559/fifa-world-cup-2026-stats-kylian-mbappe-tops-lionel-messi-beats-ronaldo-record-michael-olise-pele-erling-haaland-25-mora",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682383_608x342_16-9.jpg",
+      "byline": "Anirudh Menon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 116
     }
   ]
 }

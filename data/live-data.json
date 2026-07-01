@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-06-30T22:02:22.735Z",
+  "updated": "2026-07-01T10:56:19.612Z",
   "results": {
     "A": [
       [
@@ -321,7 +321,9 @@
       "Paraguay",
       "Morocco",
       "Brazil",
-      "Norway"
+      "France",
+      "Norway",
+      "Mexico"
     ],
     "QF": [],
     "SF": [],
@@ -1100,8 +1102,8 @@
       "s": "R32",
       "h": "France",
       "a": "Sweden",
-      "hg": null,
-      "ag": null,
+      "hg": 3,
+      "ag": 0,
       "v": "MetLife Stadium (New York/New Jersey, USA)"
     },
     {
@@ -1122,8 +1124,8 @@
       "s": "R32",
       "h": "Mexico",
       "a": "Ecuador",
-      "hg": null,
-      "ag": null,
+      "hg": 2,
+      "ag": 0,
       "v": "Estadio Azteca (Mexico City, MEX)"
     },
     {
@@ -1230,8 +1232,8 @@
       "d": "2026-07-04",
       "t": "17:00 UTC-4",
       "s": "R16",
-      "h": "W74",
-      "a": "W77",
+      "h": "Paraguay",
+      "a": "France",
       "hg": null,
       "ag": null,
       "v": "Lincoln Financial Field (Philadelphia, USA)"
@@ -1242,7 +1244,7 @@
       "t": "12:00 UTC-5",
       "s": "R16",
       "h": "Canada",
-      "a": "W75",
+      "a": "Morocco",
       "hg": null,
       "ag": null,
       "v": "NRG Stadium (Houston, USA)"
@@ -1252,8 +1254,8 @@
       "d": "2026-07-05",
       "t": "16:00 UTC-4",
       "s": "R16",
-      "h": "W76",
-      "a": "W78",
+      "h": "Brazil",
+      "a": "Norway",
       "hg": null,
       "ag": null,
       "v": "MetLife Stadium (New York/New Jersey, USA)"
