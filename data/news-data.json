@@ -1,21 +1,206 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-02T16:30:40.390Z",
+  "updated": "2026-07-02T20:44:32.252Z",
   "counts": {
-    "news": 21,
     "preview": 14,
-    "offfield": 10,
-    "injury": 1,
-    "celebration": 2
+    "news": 24,
+    "celebration": 2,
+    "offfield": 7,
+    "injury": 1
   },
   "items": [
     {
-      "id": "49248783",
-      "headline": "Children can watch England vs. Mexico in World Cup and still make school - UK Education Secretary",
-      "description": "The Education Secretary says schoolchildren could watch England's early-morning World Cup match against Mexico on Monday and still make it to class after head coach Thomas Tuchel said pupils should be allowed \"an excuse for school.\"",
-      "published": "2026-07-02T16:05:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49248783/education-secretary-thomas-tuchel-children-watch-england-mexico-world-cup-match-make-school",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683347_1296x729_16-9.jpg",
+      "id": "49251303",
+      "headline": "Argentina respect Cape Verde in round of 32: Not here by chance",
+      "description": "Argentina manager Lionel Scaloni said his team has respect for Cape Verde after the opponent reached the round of 32 match on Friday night at Hard Rock Stadium through merit on the field.",
+      "published": "2026-07-02T20:43:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49251303/argentina-respect-cape-verde-round-32",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674635_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 219
+    },
+    {
+      "id": "49251285",
+      "headline": "Cape Verde boss warns: 'We can hurt' Argentina at World Cup",
+      "description": "Cape Verde \"believe\" they can pull off one of the greatest World Cup shocks ever and stun Argentina, according to coach Pedro Leitao Brito.",
+      "published": "2026-07-02T20:39:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49251285/cape-verde-boss-warns-hurt-argentina-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0622/r1677521_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 200
+    },
+    {
+      "id": "49244994",
+      "headline": "World Cup Daily live: Spain vs. Austria updates; Balogun celly in USMNT win",
+      "description": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues.",
+      "published": "2026-07-02T20:23:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49244994/world-cup-daily-spain-portugal-action-round-32-continues",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683217_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA",
+        "Spain",
+        "Austria"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 191
+    },
+    {
+      "id": "49251236",
+      "headline": "Ayew: Ghana want to make nation 'proud' after Accra floods",
+      "description": "Ayew: Ghana want to make nation 'proud' after Accra floods",
+      "published": "2026-07-02T20:24:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/49251236/ghana-want-make-nation-proud-accra-floods",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Presser_Ayew_Ghana_want_to_make_nation_proud_after_Accra_floods_20260702_GLOBAL/dm_260702_COM_SOC_Presser_Ayew_Ghana_want_to_make_nation_proud_after_Accra_floods_20260702_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Ghana"
+      ],
+      "players": [],
+      "score": 190
+    },
+    {
+      "id": "49250855",
+      "headline": "Jordan Ayew: Ghana want to bring pride to Accra flood victims - 'I have friends there'",
+      "description": "Ghana captain Jordan Ayew said he is determined to bring joy to those affected by flooding in Accra when the Black Stars face Colombia in Friday's World Cup round-of-32 meeting.",
+      "published": "2026-07-02T20:26:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49250855/jordan-ayew-ghana-bring-pride-accra-flood-victims",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683483_1296x729_16-9.jpg",
+      "byline": "180530 COLUMNIST PROFILE Ed Dove",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Ghana",
+        "Colombia",
+        "Jordan"
+      ],
+      "players": [
+        "Jordan Ayew"
+      ],
+      "score": 182
+    },
+    {
+      "id": "49250810",
+      "headline": "Fans in Madrid celebrate Spain's opening goal vs. Austria",
+      "description": "Fans in Madrid celebrate Spain's opening goal vs. Austria.",
+      "published": "2026-07-02T19:51:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49250810/fans-madrid-celebrate-spain-opening-goal-vs-austria",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Austria",
+        "Spain"
+      ],
+      "players": [],
+      "score": 166
+    },
+    {
+      "id": "49089105",
+      "headline": "2026 World Cup: Fred Warner, Olivia Rodrigo headline celebrities",
+      "description": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "published": "2026-07-02T19:47:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682481_608x342_16-9.jpg",
+      "byline": "ESPN staff",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Marshawn Lynch",
+        "Trinity Rodman",
+        "Zach LaVine",
+        "Patrick Mahomes"
+      ],
+      "score": 148
+    },
+    {
+      "id": "49248052",
+      "headline": "USMNT cannot appeal Balogun red card, could face extended World Cup ban",
+      "description": "The USMNT has no route to appeal Folarin Balogun's red card against Bosnia and Herzegovina, sources have told ESPN, and he could face an extended ban.",
+      "published": "2026-07-02T20:13:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49248052/usmnt-cannot-appeal-folarin-balogun-red-card-face-extended-world-cup-ban-sources",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683299_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA",
+        "Bosnia"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49250143",
+      "headline": "Declan Rice in 'terrible pain' against Congo DR but says he will be fit for England vs. Mexico",
+      "description": "Thomas Tuchel has revealed Declan Rice was dealing with \"terrible pain\" against Congo DR -- but the England midfielder has assured him he will be fine to face Mexico.",
+      "published": "2026-07-02T18:51:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49250143/declan-rice-terrible-pain-congo-dr-fit-england-mexico",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683441_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "Mexico",
+        "DR Congo"
+      ],
+      "players": [
+        "Declan Rice",
+        "Reece James",
+        "Jarell Quansah"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49245656",
+      "headline": "Pochettino on Balogun's dismissal: 'Never a red card'",
+      "description": "Pochettino on Balogun's dismissal: 'Never a red card'",
+      "published": "2026-07-02T18:41:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49245656/never-red-card",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Presser_Never_a_red_card_Pochettino_disputes_Baloguns_dismissal_for_USMNT_20260702/dm_260702_COM_SOC_Presser_Never_a_red_card_Pochettino_disputes_Baloguns_dismissal_for_USMNT_20260702.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49250311",
+      "headline": "Thomas Tuchel: World Cup 'karma' on England's side at Azteca after 'Hand of God'",
+      "description": "Thomas Tuchel believes England will right the wrongs of the 'Hand of God' as \"karma\" will be on their side for their long-awaited return to the Azteca Stadium.",
+      "published": "2026-07-02T19:19:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49250311/thomas-tuchel-world-cup-karma-england-estadio-azteca-hand-god",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683454_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
@@ -24,43 +209,135 @@
         "Mexico"
       ],
       "players": [],
-      "score": 209
+      "score": 138
     },
     {
-      "id": "49248933",
-      "headline": "Gomez: Pulisic needs to spearhead USMNT attack vs. Belgium",
-      "description": "What does the U.S need from Christian Pulisic to beat Belgium?",
-      "published": "2026-07-02T16:12:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49248933/pulisic-needs-spearhead-usmnt-attack-vs-belgium",
-      "image": "https://a.espncdn.com/media/motion/2026/0702/ss_20260702_120157835_3582152/ss_20260702_120157835_3582152.jpg",
+      "id": "49228332",
+      "headline": "World Cup: One big question for every round-of-16 team",
+      "description": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win without their suspended star striker, Folarin Balogun?",
+      "published": "2026-07-02T17:16:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683320_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Brazil",
+        "Canada",
+        "Morocco",
+        "Paraguay",
+        "Mexico",
+        "France",
+        "Norway",
+        "Belgium",
+        "England",
+        "USA"
+      ],
+      "players": [],
+      "score": 137
+    },
+    {
+      "id": "49249339",
+      "headline": "ESPN FC crew disagree on Balogun's red card for USMNT",
+      "description": "ESPN FC crew disagree on Balogun's red card for USMNT",
+      "published": "2026-07-02T16:58:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49249339/espn-fc-crew-disagree-balogun-red-card-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_ESPN_FC_crew_disagree_on_BalogunE28099s_red_card_for_USMNT__GLOBAL_2026-07-02/dm_260702_COM_SOC_Analysis_ESPN_FC_crew_disagree_on_BalogunE28099s_red_card_for_USMNT__GLOBAL_2026-07-02.jpg",
       "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 136
+    },
+    {
+      "id": "49245153",
+      "headline": "How a bad loss to France helped reshape Colombia's World Cup campaign",
+      "description": "Colombia have won their World Cup group and head into the knockout stage dreaming of a deep run, one that may have been sparked by a humbling defeat to France just months earlier.",
+      "published": "2026-07-02T18:05:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49245153/how-bad-loss-france-help-reshape-colombias-world-cup-campaign",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683177_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Colombia",
+        "France"
+      ],
+      "players": [],
+      "score": 135
+    },
+    {
+      "id": "48953200",
+      "headline": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
+      "description": "Who will Team USA face in the World Cup knockout rounds? What's the likely path? What are the odds? What do projection models say?",
+      "published": "2026-07-02T17:52:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48953200/usmnt-usa-world-cup-scenarios-bracket-permutations-qualify-betting-odds-projections-predictions",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683153_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 135
+    },
+    {
+      "id": "49249126",
+      "headline": "Pubs allowed to stay open until 5 a.m. BST for England vs. Mexico World Cup clash",
+      "description": "Pubs across England and Wales will be able to stay open until 5 a.m. BST for England's World Cup round-of-16 match against Mexico.",
+      "published": "2026-07-02T17:31:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49249126/pubs-allowed-stay-open-5-bst-england-vs-mexico-world-cup-clash",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683379_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 134
+    },
+    {
+      "id": "49245810",
+      "headline": "USMNT shows it can play ugly at this World Cup, which is exactly what it needs to succeed",
+      "description": "Play pretty? Fine. Play nasty? No problem. This USMNT has the tools to deal with every situation, which is handy as it faces Belgium next without its top scorer.",
+      "published": "2026-07-02T14:39:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49245810/usmnt-shows-play-ugly-world-cup-which-exactly-needs-succeed",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683205_1296x729_16-9.jpg",
+      "byline": "Sam Borden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "USA",
         "Belgium"
       ],
-      "players": [
-        "Christian Pulisic"
-      ],
-      "score": 203
+      "players": [],
+      "score": 133
     },
     {
-      "id": "49248908",
-      "headline": "Keller: Belgium will be very dangerous for USMNT",
-      "description": "Keller: Belgium will be very dangerous for USMNT",
-      "published": "2026-07-02T15:57:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/49248908/belgium-very-dangerous-usmnt",
-      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_Keller3A_Belgium_will_be_very_dangerous_for_USMNT_GLOBAL_2026-07-02/dm_260702_COM_SOC_Analysis_Keller3A_Belgium_will_be_very_dangerous_for_USMNT_GLOBAL_2026-07-02.jpg",
-      "byline": null,
+      "id": "49250775",
+      "headline": "Sam Kerr says NWSL was only choice after Chelsea exit",
+      "description": "Gotham FC forward Sam Kerr said that she only considered returning to the NWSL, where she is still the league's leader in regular season goals, when she decided to leave Chelsea after six years at the London club.",
+      "published": "2026-07-02T20:19:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49250775/sam-kerr-nwsl-only-choice-chelsea-exit",
+      "image": "https://a.espncdn.com/photo/2026/0510/r1656192_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Belgium",
-        "USA"
+        "USA",
+        "Australia"
       ],
-      "players": [],
-      "score": 189
+      "players": [
+        "Sam Kerr",
+        "Folarin Balogun"
+      ],
+      "score": 132
     },
     {
       "id": "48386952",
@@ -113,70 +390,296 @@
         "Haiti"
       ],
       "players": [],
-      "score": 178
+      "score": 132
     },
     {
-      "id": "49089105",
-      "headline": "2026 World Cup: Fred Warner, Olivia Rodrigo headline celebrities",
-      "description": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "published": "2026-07-02T15:48:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682481_608x342_16-9.jpg",
-      "byline": "ESPN staff",
+      "id": "49245775",
+      "headline": "From Chelsea wonderkid to Black Stars elder statesman - Baba Rahman's years of recovery lead to Kansas City",
+      "description": "Once the bright young thing of the Ghana setup, Abdul Rahman Baba's career trajectory was transformed by a devastating injury suffered in 2017, but now back in the Black Stars fold, he's relishing the role of elder statesman with the national side.",
+      "published": "2026-07-02T08:18:33Z",
+      "url": "https://www.espn.com/espn/story/_/id/49245775/chelsea-wonderkid-black-stars-baba-rahman-kansas-city",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683203_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Ghana",
+        "Colombia"
+      ],
+      "players": [
+        "Baba Rahman"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49250336",
+      "headline": "Nicol: Fernández and Pastore have been unprofessional to Chelsea",
+      "description": "Nicol: Fernández and Pastore have been unprofessional to Chelsea",
+      "published": "2026-07-02T19:04:29Z",
+      "url": "https://www.espn.com/video/clip/_/id/49250336/fernandez-pastore-unprofessional-chelsea",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_Nicol3A_FernC3A1ndez_and_Pastore_have_been_unprofessional_to_Chelsea_GLOBAL_2026-07-0/dm_260702_COM_SOC_Analysis_Nicol3A_FernC3A1ndez_and_Pastore_have_been_unprofessional_to_Chelsea_GLOBAL_2026-07-0.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Marshawn Lynch",
-        "Trinity Rodman",
-        "Zach LaVine",
-        "Patrick Mahomes"
+      "teams": [
+        "Argentina",
+        "Cabo Verde"
       ],
-      "score": 178
+      "players": [],
+      "score": 127
     },
     {
-      "id": "49228332",
-      "headline": "World Cup: One big question for every round-of-16 team",
-      "description": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win without their suspended star striker, Folarin Balogun?",
-      "published": "2026-07-02T16:23:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683320_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49250058",
+      "headline": "Fournette's funny reaction to being compared to Lukaku",
+      "description": "Fournette's funny reaction to being compared to Lukaku",
+      "published": "2026-07-02T18:32:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49250058/fournette-funny-reaction-being-compared-lukaku",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_FournetteE28099s_funny_reaction_to_being_compared_to_Lukaku_GLOBAL_2026-07-02/dm_260702_COM_SOC_Analysis_FournetteE28099s_funny_reaction_to_being_compared_to_Lukaku_GLOBAL_2026-07-02.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Brazil",
-        "Canada",
-        "Morocco",
-        "Paraguay",
-        "Mexico",
-        "France",
-        "Norway",
         "Belgium",
-        "England",
+        "Senegal"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49248933",
+      "headline": "Gomez: Pulisic needs to spearhead USMNT attack vs. Belgium",
+      "description": "What does the U.S need from Christian Pulisic to beat Belgium?",
+      "published": "2026-07-02T16:12:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49248933/pulisic-needs-spearhead-usmnt-attack-vs-belgium",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/ss_20260702_120157835_3582152/ss_20260702_120157835_3582152.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [
+        "Christian Pulisic"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49249543",
+      "headline": "Will Ronaldo 'step up' for Portugal vs. Croatia?",
+      "description": "Will Ronaldo 'step up' for Portugal vs. Croatia?",
+      "published": "2026-07-02T17:29:57Z",
+      "url": "https://www.espn.com/video/clip/_/id/49249543/will-ronaldo-step-portugal-vs-croatia",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_Will_Ronaldo_E28098step_upE28099_for_Portugal_vs_Croatia3F_GLOBAL_2026-07-02/dm_260702_COM_SOC_Analysis_Will_Ronaldo_E28098step_upE28099_for_Portugal_vs_Croatia3F_GLOBAL_2026-07-02.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Portugal",
+        "Croatia"
+      ],
+      "players": [],
+      "score": 125
+    },
+    {
+      "id": "49246195",
+      "headline": "Belgium's Youri Tielemans downplays Leandro Trossard clash: 'Part of football'",
+      "description": "Youri Tielemans has played down talks of a rift with teammate Leandro Trossard following their on-field scuffle during Belgium's round-of-32 World Cup win against Senegal.",
+      "published": "2026-07-02T09:44:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49246195/belgium-youri-tielemans-downplays-leandro-trossard-clash-part-football",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683214_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "players": [
+        "Leandro Trossard",
+        "Youri Tielemans"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49246064",
+      "headline": "Cristian Romero available for Argentina World Cup knockout vs. Cape Verde - sources",
+      "description": "Argentina have received a boost ahead of Friday's World Cup round of 32 encounter against Cape Verde in Miami with Cristian Romero available.",
+      "published": "2026-07-02T09:14:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49246064/cristian-romero-available-argentina-world-cup-knockout-vs-cape-verde-sources",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683211_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Cabo Verde"
+      ],
+      "players": [
+        "Cristian Romero"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49249348",
+      "headline": "Nicol: Kane tried to trick the referee to get a penalty",
+      "description": "Nicol: Kane tried to trick the referee to get a penalty",
+      "published": "2026-07-02T16:59:51Z",
+      "url": "https://www.espn.com/video/clip/_/id/49249348/kane-tried-trick-referee-get-penalty",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_Nicol3A_Kane_tried_to_trick_the_referee_to_get_a_penalty__GLOBAL_2026-07-02/dm_260702_COM_SOC_Analysis_Nicol3A_Kane_tried_to_trick_the_referee_to_get_a_penalty__GLOBAL_2026-07-02.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
         "USA"
       ],
       "players": [],
-      "score": 172
+      "score": 124
     },
     {
-      "id": "49248052",
-      "headline": "USMNT cannot appeal Folarin Balogun red card, he could face extended World Cup ban - sources",
-      "description": "The USMNT has no route to appeal Folarin Balogun's red card against Bosnia and Herzegovina, sources have told ESPN, and he could face an extended ban.",
-      "published": "2026-07-02T14:51:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49248052/usmnt-cannot-appeal-folarin-balogun-red-card-face-extended-world-cup-ban-sources",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683299_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49249347",
+      "headline": "Were Belgium lucky to be awarded a penalty vs. Senegal?",
+      "description": "Were Belgium lucky to be awarded a penalty vs. Senegal?",
+      "published": "2026-07-02T16:59:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49249347/were-belgium-lucky-awarded-penalty-vs-senegal",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_Were_Belgium_lucky_to_be_awarded_a_penalty_vs_Senegal3F__GLOBAL_2026-07-02/dm_260702_COM_SOC_Analysis_Were_Belgium_lucky_to_be_awarded_a_penalty_vs_Senegal3F__GLOBAL_2026-07-02.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Belgium",
+        "Senegal"
+      ],
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49249335",
+      "headline": "Jones: Victory vs. Bosnia was important for USMNT",
+      "description": "Jones: Victory vs. Bosnia was important for USMNT",
+      "published": "2026-07-02T16:58:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/49249335/victory-vs-bosnia-was-important-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_Jones3A_Victory_vs_Bosnia_was_important_for_USMNT_GLOBAL_2026-07-02/dm_260702_COM_SOC_Analysis_Jones3A_Victory_vs_Bosnia_was_important_for_USMNT_GLOBAL_2026-07-02.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "USA",
         "Bosnia"
       ],
-      "players": [
-        "Folarin Balogun"
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49241028",
+      "headline": "Thomas Tuchel: No signs of England shirt weighing down players at World Cup",
+      "description": "Thomas Tuchel saw spirit rather than any hint of the England shirt weighing heavy as Harry Kane's brace secured a memorable World Cup comeback win against the Democratic Republic of Congo.",
+      "published": "2026-07-02T08:39:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49241028/thomas-tuchel-england-shirt-weighing-heavy-pressure-world-cup-congo-dr",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682957_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "DR Congo"
       ],
-      "score": 153
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49245977",
+      "headline": "Belgium boss backs 'fighting spirit' after Tielemans-Trossard clash",
+      "description": "Belgium boss backs 'fighting spirit' after Tielemans-Trossard clash",
+      "published": "2026-07-02T08:39:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49245977/belgium-boss-backs-fighting-spirit-tielemans-trossard-clash",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Presser_Belgium_boss_backs_fighting_spirit_after_Tielemans_Trossard_clash_20260702_GLO/dm_260702_COM_SOC_Presser_Belgium_boss_backs_fighting_spirit_after_Tielemans_Trossard_clash_20260702_GLO.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "players": [
+        "Leandro Trossard",
+        "Youri Tielemans"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49245936",
+      "headline": "Portugal's Vitinha urges fans to keep faith ahead of Croatia clash",
+      "description": "Vitinha has urged Portugal fans to keep believing in the team ahead of tonight's round of 32 World Cup clash with Croatia in Toronto.",
+      "published": "2026-07-02T08:36:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49245936/portugal-vitinha-urges-fans-keep-faith-ahead-croatia-clash",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683207_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Portugal",
+        "Croatia"
+      ],
+      "players": [
+        "Vitinha"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49248783",
+      "headline": "Children can watch England vs. Mexico in World Cup and still make school - UK Education Secretary",
+      "description": "The Education Secretary says schoolchildren could watch England's early-morning World Cup match against Mexico on Monday and still make it to class after head coach Thomas Tuchel said pupils should be allowed \"an excuse for school.\"",
+      "published": "2026-07-02T16:05:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49248783/education-secretary-thomas-tuchel-children-watch-england-mexico-world-cup-match-make-school",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683347_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "49248908",
+      "headline": "Keller: Belgium will be very dangerous for USMNT",
+      "description": "Keller: Belgium will be very dangerous for USMNT",
+      "published": "2026-07-02T15:57:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49248908/belgium-very-dangerous-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_Keller3A_Belgium_will_be_very_dangerous_for_USMNT_GLOBAL_2026-07-02/dm_260702_COM_SOC_Analysis_Keller3A_Belgium_will_be_very_dangerous_for_USMNT_GLOBAL_2026-07-02.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "49247754",
+      "headline": "Can Pepi step up for USMNT in Balogun's absence?",
+      "description": "Can Pepi step up for USMNT in Balogun's absence?",
+      "published": "2026-07-02T13:52:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49247754/can-pepi-step-usmnt-balogun-absence",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_Can_Pepi_step_up_for_USMNT_in_Baloguns_absence_20260702_GLOBAL_FIFA_WORLD_CUP/dm_260702_COM_SOC_Analysis_Can_Pepi_step_up_for_USMNT_in_Baloguns_absence_20260702_GLOBAL_FIFA_WORLD_CUP.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [
+        "Ricardo Pepi"
+      ],
+      "score": 123
     },
     {
       "id": "49116383",
@@ -201,287 +704,7 @@
         "USA"
       ],
       "players": [],
-      "score": 148
-    },
-    {
-      "id": "49247040",
-      "headline": "2026 World Cup July 2 schedule: Soccer games today",
-      "description": "What is the World Cup schedule today? Find out more about Thursday's Round of 32 matches.",
-      "published": "2026-07-02T15:44:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49247040/2026-world-cup-july-2-schedule-soccer-games-today",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683328_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA",
-        "Spain",
-        "Portugal"
-      ],
-      "players": [
-        "Christian Pulisic"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49246742",
-      "headline": "Relebohile Mofokeng completes four-year deal with RUSG from Orlando Pirates",
-      "description": "Belgian Pro League side Royale Union Saint-Gilloise (RUSG) confirmed the signature of South Africa attacking midfielder Relebohile Mofokeng from Orlando Pirates on a four-year deal on Thursday.",
-      "published": "2026-07-02T13:19:17Z",
-      "url": "https://www.espn.com/espn/story/_/id/49246742/relebohile-mofokeng-completes-four-year-deal-rusg-orlando-pirates",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683236_1296x729_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Belgium",
-        "South Africa"
-      ],
-      "players": [
-        "Relebohile Mofokeng",
-        "Leandro Trossard"
-      ],
-      "score": 140
-    },
-    {
-      "id": "49245810",
-      "headline": "USMNT shows it can play ugly at this World Cup, which is exactly what it needs to succeed",
-      "description": "Play pretty? Fine. Play nasty? No problem. This USMNT has the tools to deal with every situation, which is handy as it faces Belgium next without its top scorer.",
-      "published": "2026-07-02T14:39:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49245810/usmnt-shows-play-ugly-world-cup-which-exactly-needs-succeed",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683205_1296x729_16-9.jpg",
-      "byline": "Sam Borden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 139
-    },
-    {
-      "id": "49244994",
-      "headline": "World Cup Daily live: Balogun celly in USMNT win gets LeBron seal of approval",
-      "description": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues.",
-      "published": "2026-07-02T14:14:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49244994/world-cup-daily-spain-portugal-action-round-32-continues",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683217_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49245775",
-      "headline": "From Chelsea wonderkid to Black Stars elder statesman - Baba Rahman's years of recovery lead to Kansas City",
-      "description": "Once the bright young thing of the Ghana setup, Abdul Rahman Baba's career trajectory was transformed by a devastating injury suffered in 2017, but now back in the Black Stars fold, he's relishing the role of elder statesman with the national side.",
-      "published": "2026-07-02T08:18:33Z",
-      "url": "https://www.espn.com/espn/story/_/id/49245775/chelsea-wonderkid-black-stars-baba-rahman-kansas-city",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683203_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Ghana",
-        "Colombia"
-      ],
-      "players": [
-        "Baba Rahman"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49244156",
-      "headline": "World Cup VAR review: Misapplied protocols leave Balogun wrongly red-carded",
-      "description": "Folarin Balogun was sent off in the USMNT's 2-0 win over Bosnia-Herzegovina on Wednesday, but as our former referee explains, he shouldn't have been.",
-      "published": "2026-07-02T08:40:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49244156/world-cup-var-review-misapplied-protocols-leave-usmnt-folarin-balogun-wrongly-red-carded-world-cup-vs-bosnia-herzegovina",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683151_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Bosnia"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49243502",
-      "headline": "USMNT beats Bosnia-Herzegovina, 1st World Cup knockout win since '02",
-      "description": "The USMNT beat Bosnia-Herzegovina 2-0 in the World Cup round of 32 on Wednesday night for its first knockout win since 2002.",
-      "published": "2026-07-02T11:46:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683119_1296x729_16-9.jpg",
-      "byline": "Sam Borden",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA",
-        "Bosnia"
-      ],
-      "players": [],
-      "score": 132
-    },
-    {
-      "id": "49246195",
-      "headline": "Belgium's Youri Tielemans downplays Leandro Trossard clash: 'Part of football'",
-      "description": "Youri Tielemans has played down talks of a rift with teammate Leandro Trossard following their on-field scuffle during Belgium's round-of-32 World Cup win against Senegal.",
-      "published": "2026-07-02T09:44:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49246195/belgium-youri-tielemans-downplays-leandro-trossard-clash-part-football",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683214_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Belgium",
-        "Senegal"
-      ],
-      "players": [
-        "Leandro Trossard",
-        "Youri Tielemans"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49163915",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "published": "2026-07-02T14:53:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679344_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Christian Pulisic"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49246064",
-      "headline": "Cristian Romero available for Argentina World Cup knockout vs. Cape Verde - sources",
-      "description": "Argentina have received a boost ahead of Friday's World Cup round of 32 encounter against Cape Verde in Miami with Cristian Romero available.",
-      "published": "2026-07-02T09:14:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49246064/cristian-romero-available-argentina-world-cup-knockout-vs-cape-verde-sources",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683211_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Cabo Verde"
-      ],
-      "players": [
-        "Cristian Romero"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49245656",
-      "headline": "'Never a red card' - Pochettino disputes Balogun's dismissal for USMNT",
-      "description": "'Never a red card' - Pochettino disputes Balogun's dismissal for USMNT",
-      "published": "2026-07-02T07:14:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/49245656/never-red-card-pochettino-disputes-balogun-dismissal-usmnt",
-      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Presser_Never_a_red_card_Pochettino_disputes_Baloguns_dismissal_for_USMNT_20260702/dm_260702_COM_SOC_Presser_Never_a_red_card_Pochettino_disputes_Baloguns_dismissal_for_USMNT_20260702.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49241028",
-      "headline": "Thomas Tuchel: No signs of England shirt weighing down players at World Cup",
-      "description": "Thomas Tuchel saw spirit rather than any hint of the England shirt weighing heavy as Harry Kane's brace secured a memorable World Cup comeback win against the Democratic Republic of Congo.",
-      "published": "2026-07-02T08:39:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49241028/thomas-tuchel-england-shirt-weighing-heavy-pressure-world-cup-congo-dr",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682957_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "DR Congo"
-      ],
-      "players": [],
-      "score": 130
-    },
-    {
-      "id": "49245977",
-      "headline": "Belgium boss backs 'fighting spirit' after Tielemans-Trossard clash",
-      "description": "Belgium boss backs 'fighting spirit' after Tielemans-Trossard clash",
-      "published": "2026-07-02T08:39:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/49245977/belgium-boss-backs-fighting-spirit-tielemans-trossard-clash",
-      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Presser_Belgium_boss_backs_fighting_spirit_after_Tielemans_Trossard_clash_20260702_GLO/dm_260702_COM_SOC_Presser_Belgium_boss_backs_fighting_spirit_after_Tielemans_Trossard_clash_20260702_GLO.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Belgium",
-        "Senegal"
-      ],
-      "players": [
-        "Leandro Trossard",
-        "Youri Tielemans"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49245936",
-      "headline": "Portugal's Vitinha urges fans to keep faith ahead of Croatia clash",
-      "description": "Vitinha has urged Portugal fans to keep believing in the team ahead of tonight's round of 32 World Cup clash with Croatia in Toronto.",
-      "published": "2026-07-02T08:36:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49245936/portugal-vitinha-urges-fans-keep-faith-ahead-croatia-clash",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683207_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Portugal",
-        "Croatia"
-      ],
-      "players": [
-        "Vitinha"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49247754",
-      "headline": "Can Pepi step up for USMNT in Balogun's absence?",
-      "description": "Can Pepi step up for USMNT in Balogun's absence?",
-      "published": "2026-07-02T13:52:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/49247754/can-pepi-step-usmnt-balogun-absence",
-      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_Can_Pepi_step_up_for_USMNT_in_Baloguns_absence_20260702_GLOBAL_FIFA_WORLD_CUP/dm_260702_COM_SOC_Analysis_Can_Pepi_step_up_for_USMNT_in_Baloguns_absence_20260702_GLOBAL_FIFA_WORLD_CUP.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Belgium",
-        "USA"
-      ],
-      "players": [
-        "Ricardo Pepi"
-      ],
-      "score": 129
+      "score": 122
     },
     {
       "id": "49224579",
@@ -506,44 +729,7 @@
         "Lawrence Ati Zigi",
         "Benjamin Asare"
       ],
-      "score": 129
-    },
-    {
-      "id": "49244380",
-      "headline": "Klinsmann: USA has quality to beat Belgium without Balogun",
-      "description": "Klinsmann: USA has quality to beat Belgium without Balogun",
-      "published": "2026-07-02T15:10:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/49244380/usa-quality-beat-belgium-balogun",
-      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_ANALYSIS_Klinsmann_USA_have_quality_to_beat_Belgium_without_Balogun_2026_7_1/dm_260701_COM_SOC_ANALYSIS_Klinsmann_USA_have_quality_to_beat_Belgium_without_Balogun_2026_7_1.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 128
-    },
-    {
-      "id": "48972466",
-      "headline": "World Cup 2026: Can Lionel Messi and Cristiano Ronaldo finally meet on biggest stage?",
-      "description": "In a sixth World Cup for Lionel Messi and Cristiano Ronaldo, could the pair finally face each other in the tournament?",
-      "published": "2026-07-02T06:55:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48972466/world-cup-2026-lionel-messi-cristiano-ronaldo-showdown-knockouts-argentina-portugal",
-      "image": "https://a.espncdn.com/photo/2026/0605/r1668521_608x342_16-9.png",
-      "byline": "Anirudh Menon",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Cristiano Ronaldo"
-      ],
-      "score": 128
+      "score": 122
     },
     {
       "id": "49178425",
@@ -577,7 +763,27 @@
         "Japan"
       ],
       "players": [],
-      "score": 127
+      "score": 121
+    },
+    {
+      "id": "48972466",
+      "headline": "World Cup 2026: Can Lionel Messi and Cristiano Ronaldo finally meet on biggest stage?",
+      "description": "In a sixth World Cup for Lionel Messi and Cristiano Ronaldo, could the pair finally face each other in the tournament?",
+      "published": "2026-07-02T06:55:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48972466/world-cup-2026-lionel-messi-cristiano-ronaldo-showdown-knockouts-argentina-portugal",
+      "image": "https://a.espncdn.com/photo/2026/0605/r1668521_608x342_16-9.png",
+      "byline": "Anirudh Menon",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Portugal"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "score": 121
     },
     {
       "id": "49237034",
@@ -596,24 +802,7 @@
       "players": [
         "Diogo Jota"
       ],
-      "score": 127
-    },
-    {
-      "id": "49245153",
-      "headline": "How a bad loss to France help reshape Colombia's World Cup campaign",
-      "description": "Colombia have won their World Cup group and head into the knockout stage dreaming of a deep run, one that may have been sparked by a humbling defeat to France just months earlier.",
-      "published": "2026-07-02T07:41:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49245153/how-bad-loss-france-help-reshape-colombias-world-cup-campaign",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683177_1296x729_16-9.jpg",
-      "byline": "Tim Vickery",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Colombia",
-        "France"
-      ],
-      "players": [],
-      "score": 126
+      "score": 120
     },
     {
       "id": "49204443",
@@ -634,7 +823,7 @@
         "Senegal"
       ],
       "players": [],
-      "score": 126
+      "score": 119
     },
     {
       "id": "49247181",
@@ -651,7 +840,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 124
+      "score": 118
     },
     {
       "id": "49246334",
@@ -670,7 +859,7 @@
       "players": [
         "Pape Gueye"
       ],
-      "score": 123
+      "score": 117
     },
     {
       "id": "49245978",
@@ -688,23 +877,7 @@
       "players": [
         "Brandon Thomas-Asante"
       ],
-      "score": 122
-    },
-    {
-      "id": "49243099",
-      "headline": "FIFA World Cup 2026 stats: Kane joins Messi, passes Pelé, Tielemans goal the latest ever, USA's 4",
-      "description": "ESPN's By The Numbers brings you best stats from the World Cup action on July 1.",
-      "published": "2026-07-02T02:55:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49243099/fifa-world-cup-2026-stats-harry-kane-joins-lionel-messi-passes-pele-youri-tielemans-goal-latest-ever-usa-4",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682964_608x342_16-9.jpg",
-      "byline": "Aaditya Narayan",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 122
+      "score": 116
     },
     {
       "id": "49245702",
@@ -725,57 +898,7 @@
         "Teboho Mokoena",
         "Thapelo Maseko"
       ],
-      "score": 121
-    },
-    {
-      "id": "48953200",
-      "headline": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
-      "description": "Who will Team USA face in the World Cup knockout rounds? What's the likely path? What are the odds? What do projection models say?",
-      "published": "2026-07-02T04:34:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48953200/usmnt-usa-world-cup-scenarios-bracket-permutations-qualify-betting-odds-projections-predictions",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683153_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 121
-    },
-    {
-      "id": "49244418",
-      "headline": "Balogun and Tillman strikes send USA into Round of 16",
-      "description": "Folarin Balogun opens the scoring and is then sent off, before Malik Tillman secures a 2-0 victory over Bosnia and Herzegovina.",
-      "published": "2026-07-02T02:44:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/49244418/balogun-tillman-strikes-send-usa-round-16",
-      "image": "https://a.espncdn.com/media/motion/2026/0701/Int_260701_Soccer_News_Balogun_and_Tillman_strikes_send_USA_into_Round_of_16_202672_AUS/Int_260701_Soccer_News_Balogun_and_Tillman_strikes_send_USA_into_Round_of_16_202672_AUS.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Bosnia"
-      ],
-      "players": [],
-      "score": 121
-    },
-    {
-      "id": "49229820",
-      "headline": "U.S. beats Bosnia-Herzegovina to reach World Cup round of 16",
-      "description": "Folarin Balogun scored his third goal of the World Cup before being sent off with a red card, and Malik Tillman converted on a free kick to give the 10-man U.S. squad a 2-0 win over Bosnia-Herzegovina on Wednesday night to advance to the round of 16.",
-      "published": "2026-07-02T02:37:10Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/760494",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683153_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Bosnia"
-      ],
-      "players": [],
-      "score": 121
+      "score": 115
     },
     {
       "id": "49245771",
@@ -794,7 +917,7 @@
       "players": [
         "Youri Tielemans"
       ],
-      "score": 120
+      "score": 113
     },
     {
       "id": "49234453",
@@ -815,42 +938,7 @@
         "Amad Diallo",
         "Yan Diomande"
       ],
-      "score": 119
-    },
-    {
-      "id": "48939282",
-      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
-      "published": "2026-07-02T08:35:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
-      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "USA"
-      ],
-      "players": [],
-      "score": 118
-    },
-    {
-      "id": "49233296",
-      "headline": "World Cup recap: 10-man U.S. defeat Bosnia-Herzegovina to advance to last 16",
-      "description": "The United States kicked off its 2026 FIFA World Cup knockout stage with a 2-0 win over Bosnia-Herzegovina in the round of 32.",
-      "published": "2026-07-02T02:09:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49233296/live-updates-us-takes-bosnia-herzegovina-round-32-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683089_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA",
-        "Bosnia"
-      ],
-      "players": [],
-      "score": 117
+      "score": 113
     },
     {
       "id": "49241217",
@@ -867,86 +955,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 116
-    },
-    {
-      "id": "48904188",
-      "headline": "USMNT at the World Cup: All-time USA soccer results, stats",
-      "description": "Take a look at the U.S. men national team's performance throughout the tournament's history.",
-      "published": "2026-07-02T02:12:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48904188/usmnt-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2024/1119/r1416737_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 116
-    },
-    {
-      "id": "49244675",
-      "headline": "USMNT's multifaceted win vs. Bosnia-Herzegovina bodes well for World Cup hopes",
-      "description": "The U.S. has found a winning formula at this World Cup, but it had to pivot vs. Bosnia-Herzegovina. It worked, and now a World Cup run looks possible.",
-      "published": "2026-07-02T05:24:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49244675/usmnt-multifaceted-win-vs-bosnia-herzegovina-bodes-well-world-cup-hopes",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683164_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Bosnia"
-      ],
-      "players": [],
-      "score": 113
-    },
-    {
-      "id": "49244157",
-      "headline": "USMNT player ratings: Tillman shines as U.S. books berth in round of 16",
-      "description": "The USMNT are through to the round of 16 thanks to a suburb performance from midfielder Malik Tillman.",
-      "published": "2026-07-02T03:19:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49244157/usmnt-player-ratings-tillman-shines-us-book-berth-round-16",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683152_1296x729_16-9.jpg",
-      "byline": "Ryan Clark",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Matt Turner"
-      ],
-      "score": 113
-    },
-    {
-      "id": "48964271",
-      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
-      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
-      "published": "2026-07-02T06:54:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
-      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 112
-    },
-    {
-      "id": "48945011",
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-02T06:54:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 112
+      "score": 110
     }
   ]
 }
