@@ -1,70 +1,326 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-03T08:37:44.190Z",
+  "updated": "2026-07-03T15:55:06.777Z",
   "counts": {
-    "news": 19,
     "preview": 13,
+    "news": 26,
+    "offfield": 4,
     "injury": 3,
-    "offfield": 5,
-    "celebration": 8
+    "celebration": 2
   },
   "items": [
     {
-      "id": "49245978",
-      "headline": "Ghana's Brandon Thomas-Asante showing why he belongs in the Premier League with Coventry",
-      "description": "The Black Stars forward's journey has taken him from non-league football and the lower reaches of the English pyramid to the Premier League with Coventry City and now, to the biggest stage of all - representing Ghana in the World Cup knockouts.",
-      "published": "2026-07-03T08:04:53Z",
-      "url": "https://www.espn.com/espn/story/_/id/49245978/ghana-brandon-thomas-asante-showing-why-belongs-premier-league-coventry",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683209_1296x729_16-9.jpg",
+      "id": "49255647",
+      "headline": "World Cup Daily live: Travel chaos sees Speed miss Ronaldo game; Messi in action",
+      "description": "It's the final day of the round of 32 at the 2026 FIFA World Cup as we decide the final three spots for the round of 16.",
+      "published": "2026-07-03T14:51:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49255647/world-cup-daily-live-travel-chaos-sees-speed-miss-cristiano-ronaldo-game-messi-action",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683730_832x468_16-9.png",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [],
+      "players": [],
+      "score": 213
+    },
+    {
+      "id": "49178425",
+      "headline": "World Cup: Grades for every eliminated team as they exit the tournament",
+      "description": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how their run compared with expectations.",
+      "published": "2026-07-03T15:11:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678956_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Czechia",
+        "Qatar",
+        "Haiti",
+        "Curaçao",
+        "Tunisia",
+        "Jordan",
+        "Panama",
+        "Uruguay",
+        "Saudi Arabia",
+        "New Zealand",
+        "Iraq",
+        "IR Iran",
+        "Scotland",
+        "Uzbekistan",
+        "Korea Republic",
+        "South Africa",
+        "Netherlands",
+        "Germany",
+        "Japan",
+        "Algeria",
+        "Croatia",
+        "Austria"
+      ],
+      "players": [],
+      "score": 199
+    },
+    {
+      "id": "49228332",
+      "headline": "World Cup: One big question for every round-of-16 team",
+      "description": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win without their suspended star striker, Folarin Balogun?",
+      "published": "2026-07-03T14:19:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683320_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Brazil",
+        "Canada",
+        "Morocco",
+        "Paraguay",
+        "Mexico",
+        "France",
+        "Norway",
+        "Belgium",
+        "England",
+        "USA",
+        "Switzerland",
+        "Portugal",
+        "Spain"
+      ],
+      "players": [],
+      "score": 190
+    },
+    {
+      "id": "49258702",
+      "headline": "Cape Verde head coach has 'belief' in a victory vs. Argentina",
+      "description": "Cape Verde head coach has 'belief' in a victory vs. Argentina.",
+      "published": "2026-07-03T14:15:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49258702/cape-verde-head-coach-belief-victory-vs-argentina",
+      "image": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_Cape_Verde_head_coach_has_belief_in_a_victory_vs_Argentina/dm_260703_Cape_Verde_head_coach_has_belief_in_a_victory_vs_Argentina.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 188
+    },
+    {
+      "id": "49257767",
+      "headline": "England's Harry Kane: 'I feel as good as I've ever felt going onto the pitch'",
+      "description": "England captain Harry Kane has said he feels as good he has ever felt in his career as he looks to extend his remarkable season.",
+      "published": "2026-07-03T12:55:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49257767/feel-good-ever-felt-going-pitch",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682958_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [],
+      "score": 166
+    },
+    {
+      "id": "49256378",
+      "headline": "Jordan Ayew takes centre stage as Ghana end 16-year wait for another World Cup knockout game",
+      "description": "For almost his entire international career, Jordan Ayew has lived in the shadow of Ghana's greatest FIFA World Cup generation. Now it's his chance to shine.",
+      "published": "2026-07-03T11:28:40Z",
+      "url": "https://www.espn.com/espn/story/_/id/49256378/jordan-ayew-ghana-fifa-world-cup-knockout-colombia",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683752_1296x729_16-9.jpg",
       "byline": "Ed Dove",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Ghana",
+        "Jordan"
+      ],
+      "players": [
+        "Jordan Ayew",
+        "Antoine Semenyo"
+      ],
+      "score": 165
+    },
+    {
+      "id": "49256553",
+      "headline": "Coach Carlos Queiroz targeting sixth FIFA World Cup in 2030... with Ghana?",
+      "description": "Ghana head coach Carlos Queiroz appears to have opened the door to extending his stay with the Black Stars, with the 73-year-old setting his sights on a record-equalling sixth FIFA World Cup appearance in four years.",
+      "published": "2026-07-03T11:27:09Z",
+      "url": "https://www.espn.com/espn/story/_/id/49256553/coach-carlos-queiroz-targeting-sixth-fifa-world-cup-2030-ghana",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675330_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Ghana",
+        "Portugal",
+        "Colombia"
+      ],
+      "players": [],
+      "score": 143
+    },
+    {
+      "id": "49257835",
+      "headline": "2026 World Cup July 3 schedule: Soccer games today",
+      "description": "What is the World Cup schedule today? Find out more about Friday's Round of 32 matches.",
+      "published": "2026-07-03T15:24:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49257835/2026-world-cup-july-3-schedule-soccer-games-today",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674800_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Ghana",
+        "Argentina"
+      ],
+      "players": [
+        "Jordan Ayew"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49258291",
+      "headline": "Bayern Munich complete signing of Nathaniel Brown from Frankfurt",
+      "description": "Nathaniel Brown has joined Bayern Munich on a five-year deal, the Bundesliga club have announced.",
+      "published": "2026-07-03T13:31:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49258291/bayern-munich-complete-signing-nathaniel-brown-frankfurt",
+      "image": "https://a.espncdn.com/photo/2025/1002/r1554473_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Ghana"
+      ],
+      "players": [
+        "Nathaniel Brown",
+        "Jordan Ayew"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49255968",
+      "headline": "Transfer rumors, news: Arsenal eye £130m move for Villa duo Rogers, Konsa",
+      "description": "Arsenal are looking at signing Aston Villa defender Ezri Konsa as well as forward Morgan Rogers. Transfer Talk has the latest.",
+      "published": "2026-07-03T12:56:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49255968/transfer-rumors-news-arsenal-eye-double-villa-deal-rogers-konsa",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683736_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Ghana"
+      ],
+      "players": [
+        "Ezri Konsa",
+        "Morgan Rogers",
+        "Jordan Ayew"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49256530",
+      "headline": "How will the USMNT cope without suspended striker Balogun?",
+      "description": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
+      "published": "2026-07-03T12:02:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683754_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49245775",
+      "headline": "From Chelsea wonderkid to Black Stars elder statesman - Baba Rahman's years of recovery lead to Kansas City",
+      "description": "Once the bright young thing of the Ghana setup, Abdul Rahman Baba's career trajectory was transformed by a devastating injury suffered in 2017, but now back in the Black Stars fold, he's relishing the role of elder statesman with the national side.",
+      "published": "2026-07-03T07:58:52Z",
+      "url": "https://www.espn.com/espn/story/_/id/49245775/chelsea-wonderkid-black-stars-baba-rahman-kansas-city",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683203_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Ghana",
+        "Colombia"
+      ],
+      "players": [
+        "Baba Rahman"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49258287",
+      "headline": "Napoli appoint Massimiliano Allegri as new manager, replaces Antonio Conte",
+      "description": "Serie A runners-up Napoli have officially appointed Massimiliano Allegri as their new head coach.",
+      "published": "2026-07-03T15:53:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49258287/napoli-appoint-massimiliano-allegri-new-manager-replaces-antonio-conte",
+      "image": "https://a.espncdn.com/photo/2024/0604/r1341465_1296x729_16-9.jpg",
+      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Ghana"
       ],
       "players": [
-        "Brandon Thomas-Asante"
+        "Jordan Ayew"
       ],
-      "score": 212
+      "score": 133
     },
     {
-      "id": "49204443",
-      "headline": "Predicting how many of Africa's historic nine teams will win their R32 matches",
-      "description": "Which of the African teams can extend their impressive runs to date by advancing to the last 16?",
-      "published": "2026-07-03T08:01:24Z",
-      "url": "https://www.espn.com/espn/story/_/id/49204443/african-teams-2026-fifa-world-cup-round-32-ed-dove-predictions",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1680912_2_608x342_16-9.png",
-      "byline": "Ed Dove",
+      "id": "49225220",
+      "headline": "Julian Nagelsmann out as Germany boss, Jürgen Klopp lined up as replacement",
+      "description": "Julian Nagelsmann is out as the Germany head coach following the team's shock exit from the World Cup in the round of 32, with talks already being sought with Jürgen Klopp to replace him.",
+      "published": "2026-07-03T11:40:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49225220/julian-nagelsmann-germany-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682014_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
-        "South Africa",
-        "Ghana",
-        "Morocco",
-        "Cabo Verde",
-        "Côte d'Ivoire",
-        "Senegal"
+        "Germany"
       ],
       "players": [],
-      "score": 208
+      "score": 133
     },
     {
-      "id": "49197431",
-      "headline": "Lionel Messi has world 'crazy about him' and 'another story to tell' with Argentina - Carlos Tevez",
-      "description": "Former Argentina forward Carlos Tevez has said that Lionel Messi always has \"another story to tell\" and the world is still \"going crazy over him.\"",
-      "published": "2026-07-03T08:00:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49197431/lionel-messi-world-crazy-another-story-tell-argentina-carlos-tevez",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678064_3.jpg",
-      "byline": "ESPN",
+      "id": "49250774",
+      "headline": "How a plucky club \"with a dry pitch\" moulded Thomas Tuchel into England's ideal boss",
+      "description": "ESPN's Tom Hamilton spoke to figures from Thomas Tuchel's past who witnessed his rise to become England's ideal boss.",
+      "published": "2026-07-03T11:10:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49250774/how-plucky-club-dry-pitch-moulded-thomas-tuchel-england-ideal-boss",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683499_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "England"
       ],
-      "players": [
-        "Lionel Messi"
+      "players": [],
+      "score": 133
+    },
+    {
+      "id": "49256422",
+      "headline": "FIFA: VAR correctly denied Croatia equaliser against Portugal",
+      "description": "FIFA has confirmed that Croatia's equaliser against Portugal was correctly ruled out for offside due to technology housed inside the World Cup ball.",
+      "published": "2026-07-03T08:48:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49256422/fifa-var-correctly-denied-croatia-equaliser-portugal",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683749_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Croatia",
+        "Portugal"
       ],
-      "score": 192
+      "players": [],
+      "score": 133
     },
     {
       "id": "49224579",
@@ -89,136 +345,7 @@
         "Lawrence Ati Zigi",
         "Benjamin Asare"
       ],
-      "score": 191
-    },
-    {
-      "id": "49245775",
-      "headline": "From Chelsea wonderkid to Black Stars elder statesman - Baba Rahman's years of recovery lead to Kansas City",
-      "description": "Once the bright young thing of the Ghana setup, Abdul Rahman Baba's career trajectory was transformed by a devastating injury suffered in 2017, but now back in the Black Stars fold, he's relishing the role of elder statesman with the national side.",
-      "published": "2026-07-03T07:58:52Z",
-      "url": "https://www.espn.com/espn/story/_/id/49245775/chelsea-wonderkid-black-stars-baba-rahman-kansas-city",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683203_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Ghana",
-        "Colombia"
-      ],
-      "players": [
-        "Baba Rahman"
-      ],
-      "score": 186
-    },
-    {
-      "id": "49255647",
-      "headline": "World Cup Daily live: Travel chaos sees Speed miss Ronaldo game; Messi in action",
-      "description": "It's the final day of the round of 32 at the 2026 FIFA World Cup as we decide the final three spots for the round of 16.",
-      "published": "2026-07-03T07:51:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49255647/world-cup-daily-live-travel-chaos-sees-speed-miss-cristiano-ronaldo-game-messi-action",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683730_832x468_16-9.png",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [],
-      "players": [],
-      "score": 164
-    },
-    {
-      "id": "49254866",
-      "headline": "Paraguay's inspired return to the World Cup has been a success",
-      "description": "Back at the World Cup for the first time since 2010, Paraguay have already stunned Germany. Now, they face an even greater challenge against an in-form France.",
-      "published": "2026-07-03T07:10:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49254866/paraguays-inspired-return-world-cup-success",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683684_1296x729_16-9.jpg",
-      "byline": "Tim Vickery",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Paraguay",
-        "Germany",
-        "France"
-      ],
-      "players": [],
-      "score": 157
-    },
-    {
-      "id": "49252206",
-      "headline": "Messi, Balogun and why two tackles have sparked World Cup outrage",
-      "description": "U.S. international Folarin Balogun and Argentina's Lionel Messi were at the center of controversy after similar incidents produced opposite outcomes.",
-      "published": "2026-07-03T08:18:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49252206/messi-balogun-why-two-tackles-sparked-world-cup-outrage",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683529_3_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Argentina"
-      ],
-      "players": [
-        "Folarin Balogun",
-        "Lionel Messi"
-      ],
-      "score": 145
-    },
-    {
-      "id": "49255968",
-      "headline": "Transfer rumors, news: Arsenal eye £130m move for Villa duo Rogers, Konsa",
-      "description": "Arsenal are looking at signing Aston Villa defender Ezri Konsa as well as forward Morgan Rogers. Transfer Talk has the latest.",
-      "published": "2026-07-03T08:02:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49255968/transfer-rumors-news-arsenal-eye-double-villa-deal-rogers-konsa",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683736_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Ghana"
-      ],
-      "players": [
-        "Ezri Konsa",
-        "Morgan Rogers",
-        "Brandon Thomas-Asante"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49256149",
-      "headline": "England star Georgia Stanway joins Arsenal on free transfer",
-      "description": "Arsenal have announced the signing of England midfielder Georgia Stanway on a free transfer.",
-      "published": "2026-07-03T08:00:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49256149/england-star-georgia-stanway-joins-arsenal-free-transfer",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670434_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Ghana",
-        "England"
-      ],
-      "players": [
-        "Georgia Stanway",
-        "Brandon Thomas-Asante"
-      ],
-      "score": 144
-    },
-    {
-      "id": "48991002",
-      "headline": "Summer transfer window: Grading big signings in women's soccer",
-      "description": "The women's transfer window is nearly open for the summer. Here are the big deals and how we rated them.",
-      "published": "2026-07-03T08:00:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48991002/summer-transfer-window-grading-big-signings-womens-soccer",
-      "image": "https://a.espncdn.com/photo/2025/0721/r1521738_1296x729_16-9.jpg",
-      "byline": "Emily Keogh and Yash Thakur",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Ghana"
-      ],
-      "players": [
-        "Brandon Thomas-Asante"
-      ],
-      "score": 144
+      "score": 130
     },
     {
       "id": "49255292",
@@ -237,7 +364,7 @@
       "players": [
         "Luka Modric"
       ],
-      "score": 141
+      "score": 130
     },
     {
       "id": "48972466",
@@ -257,23 +384,7 @@
         "Lionel Messi",
         "Cristiano Ronaldo"
       ],
-      "score": 139
-    },
-    {
-      "id": "49242526",
-      "headline": "Have Brazil lost aura that made them defining World Cup team?",
-      "description": "Brazil used to be synonymous with the World Cup, adored for the way they played as much as for winning more than any other team. Have they lost that magic?",
-      "published": "2026-07-03T07:07:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49242526/have-brazil-lost-aura-made-defining-world-cup-team",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1683013_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [],
-      "score": 138
+      "score": 128
     },
     {
       "id": "48811876",
@@ -292,7 +403,136 @@
       "players": [
         "Mohamed Salah"
       ],
-      "score": 138
+      "score": 128
+    },
+    {
+      "id": "49204443",
+      "headline": "Predicting how many of Africa's historic nine teams will win their R32 matches",
+      "description": "Which of the African teams can extend their impressive runs to date by advancing to the last 16?",
+      "published": "2026-07-03T08:01:24Z",
+      "url": "https://www.espn.com/espn/story/_/id/49204443/african-teams-2026-fifa-world-cup-round-32-ed-dove-predictions",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1680912_2_608x342_16-9.png",
+      "byline": "Ed Dove",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "South Africa",
+        "Ghana",
+        "Morocco",
+        "Cabo Verde",
+        "Côte d'Ivoire",
+        "Senegal"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49254866",
+      "headline": "Paraguay's inspired return to the World Cup has been a success",
+      "description": "Back at the World Cup for the first time since 2010, Paraguay have already stunned Germany. Now, they face an even greater challenge against an in-form France.",
+      "published": "2026-07-03T07:10:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49254866/paraguays-inspired-return-world-cup-success",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683684_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Paraguay",
+        "Germany",
+        "France"
+      ],
+      "players": [],
+      "score": 126
+    },
+    {
+      "id": "49256830",
+      "headline": "Martínez: Croatia were offside, the technology is correct",
+      "description": "Martínez: Croatia were offside, the technology is correct",
+      "published": "2026-07-03T12:33:51Z",
+      "url": "https://www.espn.com/video/clip/_/id/49256830/croatia-were-offside-technology-correct",
+      "image": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_Martinez_Croatia_were_offside_the_technology_is_correct/dm_260703_Martinez_Croatia_were_offside_the_technology_is_correct.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Croatia",
+        "Portugal"
+      ],
+      "players": [],
+      "score": 125
+    },
+    {
+      "id": "49256677",
+      "headline": "Rodrigo de Paul warns Argentina to not look beyond Cape Verde",
+      "description": "Rodrigo de Paul has warned his Argentina teammates not to look beyond Friday's round-of-32 World Cup game against Cape Verde.",
+      "published": "2026-07-03T10:49:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49256677/de-paul-warns-teammates-a-mistake-think-ahead-cape-verde-game",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683757_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Cabo Verde"
+      ],
+      "players": [
+        "Rodrigo De Paul",
+        "Lionel Messi"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49256849",
+      "headline": "Ronaldo welcomed after Portugal reach WC Round of 16",
+      "description": "Ronaldo welcomed after Portugal reach WC Round of 16",
+      "published": "2026-07-03T10:28:00Z",
+      "url": "https://www.espn.com/video/clip/_/id/49256849/ronaldo-welcomed-portugal-reach-wc-round-16",
+      "image": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_Ronaldo_welcomed_after_Portugal_reach_WC_Round_of_16/dm_260703_Ronaldo_welcomed_after_Portugal_reach_WC_Round_of_16.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49256786",
+      "headline": "Brazil's Endrick 'at peace' with limited World Cup minutes, has faith in Carlo Ancelotti",
+      "description": "Brazilian teenager Endrick says he is \"at peace\" with the limited playing time he is getting at this World Cup, knowing coach Carlo Ancelotti is doing what's best for the team.",
+      "published": "2026-07-03T10:25:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49256786/brazil-endrick-peace-limited-minutes-world-cup-summer",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683760_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Endrick"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49027532",
+      "headline": "World Cup VAR review: Why were Croatia denied an equalizer due to a chip in the ball?",
+      "description": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
+      "published": "2026-07-03T12:00:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683726_937x527_16-9.jpg",
+      "byline": "Andy Davies",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Croatia",
+        "Portugal"
+      ],
+      "players": [],
+      "score": 124
     },
     {
       "id": "49255237",
@@ -310,62 +550,98 @@
         "Croatia"
       ],
       "players": [],
-      "score": 135
+      "score": 124
     },
     {
-      "id": "49253865",
-      "headline": "Socceroos must stay in the moment during 'difficult' Egypt match",
-      "description": "Australian coach Tony Popovic has warned his side against getting caught up in the occasion as they chase a first-ever FIFA World Cup knockout win, but added, no matter what \"this group's already made history.\"",
-      "published": "2026-07-03T05:56:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49253865/socceroos-stay-moment-difficult-egypt-match",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683631_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia",
-        "Egypt"
-      ],
-      "players": [],
-      "score": 135
-    },
-    {
-      "id": "49252258",
-      "headline": "Mohamed Salah recovers from hamstring for Egypt-Australia",
-      "description": "Mohamed Salah looks set to feature for Egypt in their round of 32 clash with Australia on Friday after recovering from a hamstring strain, but coach Hossam Hassan would not commit to starting the superstar attacker.",
-      "published": "2026-07-03T00:12:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49252258/mohamed-salah-recovers-hamstring-egypt-australia",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680698_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Egypt",
-        "Australia"
-      ],
-      "players": [
-        "Mohamed Salah"
-      ],
-      "score": 134
-    },
-    {
-      "id": "49252369",
-      "headline": "After Spain beat Austria, Lamine Yamal says 'World Cup starts now'",
-      "description": "Lamine Yamal said \"the World Cup starts now\" after shining in Spain's 3-0 win over Austria at SoFi Stadium, with the Barcelona star being named the game's MVP.",
-      "published": "2026-07-03T07:49:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49252369/after-spain-beat-austria-yamal-world-cup-starts-now",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683563_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
+      "id": "49256636",
+      "headline": "Modrić: Croatia gave everything, but it wasn't meant to be",
+      "description": "Modrić: Croatia gave everything, but it wasn't meant to be",
+      "published": "2026-07-03T09:34:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49256636/croatia-gave-everything-meant-be",
+      "image": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_Modric_Croatia_gave_everything_but_it_wasnt_meant_to_be/dm_260703_Modric_Croatia_gave_everything_but_it_wasnt_meant_to_be.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Spain",
-        "Austria"
+        "Croatia"
       ],
       "players": [
-        "Lamine Yamal"
+        "Luka Modric"
       ],
-      "score": 132
+      "score": 123
+    },
+    {
+      "id": "49256591",
+      "headline": "Ronaldo: Portugal's win a tribute to Jota on 'special day'",
+      "description": "Ronaldo: Portugal's win a tribute to Jota on 'special day'",
+      "published": "2026-07-03T09:14:59Z",
+      "url": "https://www.espn.com/video/clip/_/id/49256591/portugal-win-tribute-jota-special-day",
+      "image": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_COM_SOC_Presser_Ronaldo_Portugals_win_a_tribute_to_Jota_on_special_day_20260703_GLOBAL_FIFA/dm_260703_COM_SOC_Presser_Ronaldo_Portugals_win_a_tribute_to_Jota_on_special_day_20260703_GLOBAL_FIFA.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Croatia",
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49256560",
+      "headline": "Portugal's Cristiano Ronaldo to address future at end of World Cup campaign",
+      "description": "Cristiano Ronaldo says he will make a decision regarding his future with the national team after the World Cup but insists \"it's not important right now.\"",
+      "published": "2026-07-03T09:14:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49256560/portugal-cristiano-ronaldo-address-future-end-world-cup-campaign",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683620_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49245978",
+      "headline": "Ghana's Brandon Thomas-Asante showing why he belongs in the Premier League with Coventry",
+      "description": "The Black Stars forward's journey has taken him from non-league football and the lower reaches of the English pyramid to the Premier League with Coventry City and now, to the biggest stage of all - representing Ghana in the World Cup knockouts.",
+      "published": "2026-07-03T08:04:53Z",
+      "url": "https://www.espn.com/espn/story/_/id/49245978/ghana-brandon-thomas-asante-showing-why-belongs-premier-league-coventry",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683209_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Ghana"
+      ],
+      "players": [
+        "Brandon Thomas-Asante"
+      ],
+      "score": 121
+    },
+    {
+      "id": "49197431",
+      "headline": "Lionel Messi has world 'crazy about him' and 'another story to tell' with Argentina - Carlos Tevez",
+      "description": "Former Argentina forward Carlos Tevez has said that Lionel Messi always has \"another story to tell\" and the world is still \"going crazy over him.\"",
+      "published": "2026-07-03T08:00:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49197431/lionel-messi-world-crazy-another-story-tell-argentina-carlos-tevez",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678064_3.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 121
     },
     {
       "id": "49254330",
@@ -384,24 +660,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 131
-    },
-    {
-      "id": "49253970",
-      "headline": "Record 24.4M watched USMNT's World Cup win, per Fox Sports",
-      "description": "The U.S.' victory against Bosnia-Herzegovina on Wednesday night was the most-watched soccer telecast in English-language history, with more than 24.4 million viewers, according to Fox Sports.",
-      "published": "2026-07-03T03:07:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49253970/record-244m-watched-usmnt-world-cup-win",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683217_600x600_1-1.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "USA",
-        "Bosnia"
-      ],
-      "players": [],
-      "score": 129
+      "score": 120
     },
     {
       "id": "49254450",
@@ -418,7 +677,7 @@
         "Austria"
       ],
       "players": [],
-      "score": 129
+      "score": 118
     },
     {
       "id": "49254386",
@@ -435,7 +694,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 129
+      "score": 118
     },
     {
       "id": "49244994",
@@ -452,7 +711,7 @@
         "Croatia"
       ],
       "players": [],
-      "score": 129
+      "score": 118
     },
     {
       "id": "49019838",
@@ -471,7 +730,23 @@
         "Kylian Mbappé",
         "Lionel Messi"
       ],
-      "score": 129
+      "score": 118
+    },
+    {
+      "id": "49242526",
+      "headline": "Have Brazil lost aura that made them defining World Cup team?",
+      "description": "Brazil used to be synonymous with the World Cup, adored for the way they played as much as for winning more than any other team. Have they lost that magic?",
+      "published": "2026-07-03T07:07:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49242526/have-brazil-lost-aura-made-defining-world-cup-team",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1683013_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [],
+      "score": 117
     },
     {
       "id": "49252223",
@@ -488,61 +763,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 128
-    },
-    {
-      "id": "49253939",
-      "headline": "Spain goalkeeper Unai Simón sets World Cup record for clean sheets",
-      "description": "Spain goalkeeper Unai Simón has the longest shutout streak in World Cup history, breaking a 36-year-old record.",
-      "published": "2026-07-03T00:57:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49253939/spain-goalkeeper-unai-simon-sets-world-cup-record-clean-sheets",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683635_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Unai Simón"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49253799",
-      "headline": "Portugal fans in Lisbon celebrate Ronaldo's penalty vs. Croatia",
-      "description": "Portugal fans in Lisbon celebrate Ronaldo's penalty vs. Croatia",
-      "published": "2026-07-03T00:39:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49253799/portugal-fans-lisbon-celebrate-ronaldo-penalty-vs-croatia",
-      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_News_Portugal_fans_in_Lisbon_celebrate_Ronaldos_penalty_vs_Croatia_20260702_GLOBAL_FIF/dm_260702_COM_SOC_News_Portugal_fans_in_Lisbon_celebrate_Ronaldos_penalty_vs_Croatia_20260702_GLOBAL_FIF.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Croatia",
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49027532",
-      "headline": "World Cup VAR review: Why were Croatia denied an equalizer due to a chip in the ball?",
-      "description": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
-      "published": "2026-07-03T06:55:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683726_937x527_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Croatia",
-        "Portugal"
-      ],
-      "players": [],
-      "score": 127
+      "score": 117
     },
     {
       "id": "49256028",
@@ -559,28 +780,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 127
-    },
-    {
-      "id": "49252221",
-      "headline": "Oyarzabal's brace leads Spain past Austria, into Round of 16",
-      "description": "Mikel Oyarzabal scores twice as Spain thrash Austria 3-0 to reach the Round of 16, where they'll face either Portugal or Croatia.",
-      "published": "2026-07-02T22:18:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/49252221/oyarzabal-brace-leads-spain-austria-round-16",
-      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_Soccer_HIGHLIGHT_Oyarzabals_brace_leads_Spain_past_Austria_into_Round_of_16_20260703_AUS/dm_260702_Soccer_HIGHLIGHT_Oyarzabals_brace_leads_Spain_past_Austria_into_Round_of_16_20260703_AUS.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Spain",
-        "Austria",
-        "Portugal",
-        "Croatia"
-      ],
-      "players": [
-        "Mikel Oyarzabal"
-      ],
-      "score": 127
+      "score": 116
     },
     {
       "id": "48939282",
@@ -598,7 +798,7 @@
         "USA"
       ],
       "players": [],
-      "score": 126
+      "score": 116
     },
     {
       "id": "49255721",
@@ -615,60 +815,7 @@
         "Algeria"
       ],
       "players": [],
-      "score": 126
-    },
-    {
-      "id": "49003238",
-      "headline": "Who are the oldest and youngest men to score at the World Cup?",
-      "description": "Pelé is the youngest player to score in World Cup history. Check out which other players made the list of oldest and youngest goal scorers.",
-      "published": "2026-07-03T01:28:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49003238/who-oldest-youngest-men-score-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670338_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Mexico",
-        "Brazil",
-        "England",
-        "Portugal"
-      ],
-      "players": [],
-      "score": 126
-    },
-    {
-      "id": "48956258",
-      "headline": "Cristiano Ronaldo at the World Cup: History, results, stats",
-      "description": "Cristiano Ronaldo made his sixth FIFA World Cup tournament with Portugal. Revisit his World Cup history, including results, goals and assists.",
-      "published": "2026-07-03T01:27:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48956258/cristiano-ronaldo-world-cup-history-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0603/r1667633_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [],
-      "score": 126
-    },
-    {
-      "id": "49073399",
-      "headline": "Spain at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the Spain men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-02T23:35:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49073399/spain-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673639_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 126
+      "score": 115
     },
     {
       "id": "49254352",
@@ -687,25 +834,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 125
-    },
-    {
-      "id": "49249668",
-      "headline": "Spain finally have World Cup mojo back with first knockout win since 2010 final",
-      "description": "Heading into the World Cup, Spain's record since their 2010 triumph was three tournaments, zero knockout wins. But after beating Austria 3-0, they're back in business.",
-      "published": "2026-07-02T23:17:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49249668/spain-world-cup-mojo-back-first-knockout-win-2010-final",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683514_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Spain",
-        "Australia",
-        "Austria"
-      ],
-      "players": [],
-      "score": 125
+      "score": 114
     },
     {
       "id": "49254682",
@@ -724,7 +853,7 @@
       "players": [
         "Rafael Leão"
       ],
-      "score": 124
+      "score": 113
     },
     {
       "id": "48964271",
@@ -738,7 +867,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 123
+      "score": 112
     },
     {
       "id": "48945011",
@@ -752,7 +881,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 123
+      "score": 112
     },
     {
       "id": "48945570",
@@ -766,106 +895,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 123
-    },
-    {
-      "id": "49254340",
-      "headline": "Ronaldo scores 1st KO stage goal before super-sub Ramos rises late",
-      "description": "Ivan Perišić put Croatia ahead before Cristiano Ronaldo levelled from the spot, with Gonçalo Ramos rising in added time to snatch victory for Portugal.",
-      "published": "2026-07-03T01:40:05Z",
-      "url": "https://www.espn.com/video/clip/_/id/49254340/ronaldo-scores-1st-ko-stage-goal-super-sub-ramos-rises-late",
-      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_Soccer_HIGHLIGHT_Ronaldo_scores_1st_KO_stage_goal_before_super_sub_Ramos_rises_late_20260703_AUS/dm_260702_Soccer_HIGHLIGHT_Ronaldo_scores_1st_KO_stage_goal_before_super_sub_Ramos_rises_late_20260703_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Croatia",
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Gonçalo Ramos",
-        "Ivan Perisic"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49089105",
-      "headline": "2026 World Cup: Drake, Shai Gilgeous-Alexander headline celebrities",
-      "description": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "published": "2026-07-03T03:50:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683701_608x342_16-9.jpg",
-      "byline": "ESPN staff",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Marshawn Lynch",
-        "Trinity Rodman",
-        "Zach LaVine",
-        "Patrick Mahomes"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49253213",
-      "headline": "Portugal, Ronaldo survive late scare from Croatia at World Cup",
-      "description": "Gonçalo Ramos headed in a pass from Rafael Leão in stoppage time as Cristiano Ronaldo, who had earlier converted a penalty kick, watched from the bench while Portugal defeated Croatia 2-1 on Thursday, ending Luka Modrić's fifth bid for a World Cup.",
-      "published": "2026-07-03T03:27:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49253213/portugal-ronaldo-survive-late-scare-croatia-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683648_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Croatia",
-        "Portugal"
-      ],
-      "players": [],
-      "score": 122
-    },
-    {
-      "id": "49251814",
-      "headline": "UEFA won't send off players who cover mouth when addressing an opponent",
-      "description": "Players will not be sent off for covering their mouths when speaking to an opponent in UEFA competitions, the governing body confirmed.",
-      "published": "2026-07-02T21:49:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49251814/uefa-wont-send-players-cover-mouth-addressing-opponent",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683533_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 122
-    },
-    {
-      "id": "49252849",
-      "headline": "FIFA World Cup 2026 stats: Ronaldo's first ever and all-time record 25; Yamal's perfect 100; Manzambi youngest with 5",
-      "description": "ESPN's By The Numbers brings you best stats from the World Cup action on July 2.",
-      "published": "2026-07-03T05:17:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49252849/fifa-world-cup-2026-stats-cristiano-ronaldo-first-ever-all-record-25-lamine-yamal-perfect-100",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683617_608x342_16-9.jpg",
-      "byline": "Sunaadh Sagar, Anirudh Menon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 121
-    },
-    {
-      "id": "48847593",
-      "headline": "How many father-son duos have been in the FIFA World Cup?",
-      "description": "Check out a list of every father-son duo that has played in the FIFA World Cup.",
-      "published": "2026-07-03T05:10:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48847593/how-many-father-son-duos-the-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2022/0317/r987687_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 121
+      "score": 112
     }
   ]
 }
