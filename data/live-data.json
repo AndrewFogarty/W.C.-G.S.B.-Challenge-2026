@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-07-02T10:15:59.651Z",
+  "updated": "2026-07-03T08:37:24.490Z",
   "results": {
     "A": [
       [
@@ -325,7 +325,10 @@
       "Norway",
       "Mexico",
       "England",
-      "USA"
+      "USA",
+      "Portugal",
+      "Spain",
+      "Switzerland"
     ],
     "QF": [],
     "SF": [],
@@ -1170,8 +1173,8 @@
       "s": "R32",
       "h": "Portugal",
       "a": "Croatia",
-      "hg": null,
-      "ag": null,
+      "hg": 2,
+      "ag": 1,
       "v": "BMO Field (Toronto, CAN)"
     },
     {
@@ -1181,8 +1184,8 @@
       "s": "R32",
       "h": "Spain",
       "a": "Austria",
-      "hg": null,
-      "ag": null,
+      "hg": 3,
+      "ag": 0,
       "v": "SoFi Stadium (Los Angeles, USA)"
     },
     {
@@ -1192,8 +1195,8 @@
       "s": "R32",
       "h": "Switzerland",
       "a": "Algeria",
-      "hg": null,
-      "ag": null,
+      "hg": 2,
+      "ag": 0,
       "v": "BC Place (Vancouver, CAN)"
     },
     {
