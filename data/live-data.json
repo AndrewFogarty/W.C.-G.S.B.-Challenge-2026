@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-07-03T15:54:45.596Z",
+  "updated": "2026-07-04T07:28:30.475Z",
   "results": {
     "A": [
       [
@@ -328,7 +328,9 @@
       "USA",
       "Portugal",
       "Spain",
-      "Switzerland"
+      "Switzerland",
+      "Colombia",
+      "Egypt"
     ],
     "QF": [],
     "SF": [],
@@ -1206,8 +1208,8 @@
       "s": "R32",
       "h": "Argentina",
       "a": "Cabo Verde",
-      "hg": null,
-      "ag": null,
+      "hg": 1,
+      "ag": 1,
       "v": "Hard Rock Stadium (Miami, USA)"
     },
     {
@@ -1217,8 +1219,8 @@
       "s": "R32",
       "h": "Colombia",
       "a": "Ghana",
-      "hg": null,
-      "ag": null,
+      "hg": 1,
+      "ag": 0,
       "v": "Arrowhead Stadium (Kansas City, USA)"
     },
     {
@@ -1228,8 +1230,8 @@
       "s": "R32",
       "h": "Australia",
       "a": "Egypt",
-      "hg": null,
-      "ag": null,
+      "hg": 1,
+      "ag": 1,
       "v": "AT&T Stadium (Dallas, USA)"
     },
     {
