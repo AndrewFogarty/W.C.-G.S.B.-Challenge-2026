@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-07-04T11:57:17.589Z",
+  "updated": "2026-07-04T20:01:31.849Z",
   "results": {
     "A": [
       [
@@ -332,7 +332,9 @@
       "Colombia",
       "Egypt"
     ],
-    "QF": [],
+    "QF": [
+      "Morocco"
+    ],
     "SF": [],
     "FINAL": [],
     "champion": null
@@ -1252,8 +1254,8 @@
       "s": "R16",
       "h": "Canada",
       "a": "Morocco",
-      "hg": null,
-      "ag": null,
+      "hg": 0,
+      "ag": 3,
       "v": "NRG Stadium (Houston, USA)"
     },
     {

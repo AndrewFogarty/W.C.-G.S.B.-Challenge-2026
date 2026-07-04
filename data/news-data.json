@@ -1,78 +1,222 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-04T15:47:27.501Z",
+  "updated": "2026-07-04T20:01:44.835Z",
   "counts": {
-    "preview": 14,
-    "news": 27,
+    "news": 32,
+    "preview": 10,
+    "injury": 2,
     "offfield": 3,
-    "celebration": 4
+    "celebration": 1
   },
   "items": [
     {
-      "id": "49265379",
-      "headline": "World Cup Daily live: Cape Verde overshadow Taylor Swift-Travis Kelce wedding; Canada face Morocco in R16",
-      "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as the Round of 16 begins.",
-      "published": "2026-07-04T15:06:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49265379/world-cup-daily-live-cape-verde-overshadow-taylor-swift-travis-kelce-wedding-round-16-begins-canada-morocco-paraguay-france",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684268_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Canada",
-        "Morocco",
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 218
-    },
-    {
-      "id": "49268221",
-      "headline": "Sutcliffe: An earlier kick-off would have disadvantaged England",
-      "description": "Sutcliffe: An earlier kick-off would have disadvantaged England",
-      "published": "2026-07-04T14:37:00Z",
-      "url": "https://www.espn.com/video/clip/_/id/49268221/earlier-kick-disadvantaged-england",
-      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_Sutcliffe_An_earlier_kick_off_would_have_disadvantaged_England/dm_260704_Sutcliffe_An_earlier_kick_off_would_have_disadvantaged_England.jpg",
+      "id": "49270728",
+      "headline": "Burley: Morocco's quality was too much for Canada",
+      "description": "Burley: Morocco's quality was too much for Canada",
+      "published": "2026-07-04T19:47:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49270728/morocco-quality-was-too-much-canada",
+      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_COM_SOC_Analysis_Burley3A_MoroccoE28099s_quality_was_too_much_for_Canada_GLOBAL_2026-07-01/dm_260704_COM_SOC_Analysis_Burley3A_MoroccoE28099s_quality_was_too_much_for_Canada_GLOBAL_2026-07-01.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
+      "teams": [
+        "Canada",
+        "Morocco"
+      ],
+      "players": [],
+      "score": 210
+    },
+    {
+      "id": "49270707",
+      "headline": "Jones: Canada had a good World Cup despite defeat vs. Morocco",
+      "description": "Jones: Canada had a good World Cup despite defeat vs. Morocco",
+      "published": "2026-07-04T19:46:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/49270707/canada-had-good-world-cup-defeat-vs-morocco",
+      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_COM_SOC_Analysis_Jones3A_Canada_had_a_good_World_Cup_despite_defeat_vs_Morocco_GLOBAL_2026-07-01/dm_260704_COM_SOC_Analysis_Jones3A_Canada_had_a_good_World_Cup_despite_defeat_vs_Morocco_GLOBAL_2026-07-01.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Canada",
+        "Morocco"
+      ],
+      "players": [],
+      "score": 200
+    },
+    {
+      "id": "49270695",
+      "headline": "USMNT a 'true representation of what America is' - Tim Ream",
+      "description": "USMNT defender Tim Ream said that the diverse background of the players on the USMNT is \"a true representation of what America is.\"",
+      "published": "2026-07-04T19:55:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49270695/usmnt-true-representation-america-tim-ream",
+      "image": "https://a.espncdn.com/photo/2026/0629/r1681605_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Tim Ream",
+        "Sergiño Dest",
+        "Folarin Balogun"
+      ],
+      "score": 193
+    },
+    {
+      "id": "49270667",
+      "headline": "Norway's Stale Solbakken denies disrespecting Brazil's Carlo Ancelotti before World Cup clash",
+      "description": "Norway coach Stale Solbakken said it is a \"great honour\" to face Carlo Ancelotti in Sunday's World Cup round of 16 tie against Brazil after rejecting claims he disrespected the Selecao coach.",
+      "published": "2026-07-04T19:53:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49270667/norway-stale-solbakken-denies-disrespecting-brazil-carlo-ancelotti-world-cup-clash",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684512_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Norway",
+        "Brazil"
+      ],
+      "players": [],
+      "score": 189
+    },
+    {
+      "id": "49265379",
+      "headline": "World Cup Daily live: Canada first host eliminated, Cape Verde overshadow Taylor Swift-Travis Kelce wedding",
+      "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as the round of 16 begins.",
+      "published": "2026-07-04T19:29:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49265379/world-cup-daily-live-cape-verde-overshadow-taylor-swift-travis-kelce-wedding-round-16-begins-canada-morocco-paraguay-france",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684503_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Canada",
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 169
+    },
+    {
+      "id": "49266468",
+      "headline": "England hotel guarded by riot police in Mexico before World Cup clash",
+      "description": "More than 100 riot police in bullet-proof vests are guarding the hotel where England are staying before playing Mexico at the World Cup.",
+      "published": "2026-07-04T19:22:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49266468/england-receive-hostile-welcome-mexico-city-hotel-ahead-world-cup-clash",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684282_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "England",
         "Mexico"
       ],
       "players": [],
-      "score": 198
+      "score": 168
     },
     {
-      "id": "49251656",
-      "headline": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
-      "description": "In the blink of an eye, we're down to the final 16 nations left competing for the 2026 World Cup. What do our writers and experts think the field looks like from worst to best of the teams remaining?",
-      "published": "2026-07-04T15:46:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49251656/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
-      "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg",
-      "byline": "James Tyler",
+      "id": "49264132",
+      "headline": "Morocco send Canada crashing out of World Cup",
+      "description": "Azzedine Ounahi scored twice in the second half as Morocco beat co-hosts Canada 3-0 in Houston to book their place in the World Cup quarterfinals.",
+      "published": "2026-07-04T19:16:54Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/760502",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684436_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Canada",
+        "Morocco"
+      ],
+      "players": [],
+      "score": 163
+    },
+    {
+      "id": "49269592",
+      "headline": "France's Aurélien Tchouaméni out vs. Paraguay with groin injury",
+      "description": "Aurélien Tchouaméni, who left Friday's training with adductor pain, sits out France's World Cup round-of-16 match Saturday vs. Paraguay in Philadelphia, and he could also miss a potential quarterfinal on July 9 should France advance.",
+      "published": "2026-07-04T19:56:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49269592/france-aurelien-tchouameni-groin-injury-vs-paraguay",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679610_1296x729_16-9.jpg",
+      "byline": "Julien Laurens",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "France",
+        "Paraguay"
+      ],
+      "players": [
+        "Aurélien Tchouaméni"
+      ],
+      "score": 147
+    },
+    {
+      "id": "49265988",
+      "headline": "Transfer rumors, news: Premier League clubs on alert over Barcelona and France defender",
+      "description": "Chelsea, Liverpool, Arsenal, Manchester City and Bayern Munich have been alerted over a potential deal for Barcelona defender Jules Kounde. Transfer Talk has the latest.",
+      "published": "2026-07-04T17:34:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49265988/transfer-rumors-news-premier-league-clubs-alert-barcelona-france-defender",
+      "image": "https://a.espncdn.com/photo/2025/1209/r1587360_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA",
+        "France"
+      ],
+      "players": [
+        "Jules Koundé",
+        "Tim Ream"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49269287",
+      "headline": "Chelsea sign Manaka Matsukubo from North Carolina Courage",
+      "description": "Chelsea have completed the signing of midfielder Manaka Matsukubo from North Carolina Courage on a five-year contract.",
+      "published": "2026-07-04T16:25:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49269287/chelsea-sign-manaka-matsukubo-north-carolina-courage",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684413_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Tim Ream"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49270095",
+      "headline": "Ounahi's Morocco opener sparks scenes in Casablanca",
+      "description": "Ounahi's Morocco opener sparks scenes in Casablanca",
+      "published": "2026-07-04T18:26:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/49270095/ounahi-morocco-opener-sparks-scenes-casablanca",
+      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_Ounahis_Morocco_opener_sparks_scenes_in_Casablanca/dm_260704_Ounahis_Morocco_opener_sparks_scenes_in_Casablanca.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "England",
-        "Spain",
-        "France",
-        "Brazil",
-        "Argentina",
-        "Portugal",
-        "Morocco",
-        "Colombia",
-        "Norway",
-        "USA",
-        "Mexico",
-        "Belgium",
-        "Egypt",
-        "Paraguay",
-        "Canada",
-        "Switzerland"
+        "Morocco"
       ],
       "players": [],
-      "score": 190
+      "score": 138
+    },
+    {
+      "id": "49269137",
+      "headline": "FIFPRO: World Cup players need protection from racist abuse",
+      "description": "The FIFPRO players union said on Saturday that more must be done to protect footballers from racist abuse at the World Cup being held in North America.",
+      "published": "2026-07-04T16:27:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49269137/fifpro-world-cup-players-need-protection-racist-abuse",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682163_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 133
     },
     {
       "id": "49247972",
@@ -97,7 +241,220 @@
         "Spain"
       ],
       "players": [],
-      "score": 187
+      "score": 130
+    },
+    {
+      "id": "49269921",
+      "headline": "Ream: Pochettino has embraced American culture during World Cup",
+      "description": "Ream: Pochettino has embraced American culture during World Cup",
+      "published": "2026-07-04T18:09:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49269921/pochettino-embraced-american-culture-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_COM_SOC_Analysis_Ream3A_Pochettino_has_embraced_American_culture_during_World_Cup_GLOBAL_2026-07-01/dm_260704_COM_SOC_Analysis_Ream3A_Pochettino_has_embraced_American_culture_during_World_Cup_GLOBAL_2026-07-01.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49251656",
+      "headline": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
+      "description": "In the blink of an eye, we're down to the final 16 nations left competing for the 2026 World Cup. What do our writers and experts think the field looks like from worst to best of the teams remaining?",
+      "published": "2026-07-04T17:51:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49251656/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+      "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg",
+      "byline": "James Tyler",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Spain",
+        "France",
+        "Brazil",
+        "Argentina",
+        "Portugal",
+        "Morocco",
+        "Colombia",
+        "Norway",
+        "USA",
+        "Mexico",
+        "Belgium",
+        "Egypt",
+        "Paraguay",
+        "Canada",
+        "Switzerland"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49268317",
+      "headline": "2026 World Cup July 4 schedule: Soccer games today",
+      "description": "What is the World Cup schedule today? Find out more about Saturday's Round of 16 matches.",
+      "published": "2026-07-04T15:33:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49268317/2026-world-cup-july-4-schedule-soccer-games-today",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1681087_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Canada",
+        "France"
+      ],
+      "players": [
+        "Tim Ream"
+      ],
+      "score": 126
+    },
+    {
+      "id": "48386952",
+      "headline": "Every team's championship odds for the 2026 World Cup",
+      "description": "Odds for every team to advance through the round of 16 and to win the 2026 World Cup.",
+      "published": "2026-07-04T16:37:43Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684409_608x342_16-9.jpg",
+      "byline": "Doug Greenberg",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Brazil",
+        "England",
+        "Spain",
+        "Argentina",
+        "Portugal",
+        "Germany",
+        "Netherlands",
+        "Belgium",
+        "Colombia",
+        "Japan",
+        "Canada",
+        "Mexico",
+        "Norway",
+        "Morocco",
+        "Uruguay",
+        "Ecuador",
+        "Sweden",
+        "Croatia",
+        "Switzerland",
+        "Austria",
+        "Australia",
+        "Senegal",
+        "Czechia",
+        "Paraguay",
+        "Scotland",
+        "Egypt",
+        "Algeria",
+        "Korea Republic",
+        "Ghana",
+        "Panama",
+        "South Africa",
+        "New Zealand",
+        "Iraq",
+        "Cabo Verde",
+        "Uzbekistan",
+        "Jordan",
+        "Haiti"
+      ],
+      "players": [],
+      "score": 125
+    },
+    {
+      "id": "48972466",
+      "headline": "World Cup 2026: Can Lionel Messi and Cristiano Ronaldo finally meet on biggest stage?",
+      "description": "In a sixth World Cup for Lionel Messi and Cristiano Ronaldo, could the pair finally face each other in the tournament?",
+      "published": "2026-07-04T08:26:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48972466/world-cup-2026-lionel-messi-cristiano-ronaldo-showdown-knockouts-argentina-portugal",
+      "image": "https://a.espncdn.com/photo/2026/0605/r1668521_608x342_16-9.png",
+      "byline": "Anirudh Menon",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Portugal"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49266437",
+      "headline": "Marc Guéhi labels Mexico as the favourites ahead of England clash",
+      "description": "Marc Guéhi has said he believes Mexico are the favourites for England's World Cup last-16 clash at the Estadio Azteca.",
+      "published": "2026-07-04T10:06:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49266437/marc-guehi-labels-mexico-favourites-ahead-england-clash",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684283_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49261996",
+      "headline": "USMNT World Cup coach Pochettino throws first pitch. How did he do?",
+      "description": "U.S. coach Mauricio Pochettino was the latest soccer star to throw the first pitch at an MLB game this summer. How did he and he fellow footballers do?",
+      "published": "2026-07-04T13:18:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684241_2_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "England"
+      ],
+      "players": [
+        "Trinity Rodman",
+        "Mario Balotelli",
+        "Matt Turner",
+        "Aitana Bonmatí"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49268221",
+      "headline": "Sutcliffe: An earlier kick-off would have disadvantaged England",
+      "description": "Sutcliffe: An earlier kick-off would have disadvantaged England",
+      "published": "2026-07-04T14:37:00Z",
+      "url": "https://www.espn.com/video/clip/_/id/49268221/earlier-kick-disadvantaged-england",
+      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_Sutcliffe_An_earlier_kick_off_would_have_disadvantaged_England/dm_260704_Sutcliffe_An_earlier_kick_off_would_have_disadvantaged_England.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 122
+    },
+    {
+      "id": "49267524",
+      "headline": "Why Ancelotti is key to Brazil winning sixth World Cup title",
+      "description": "Carlo Ancelotti was not everyone's choice for the Brazil job, but while the days of Jogo Bonito are gone, the experienced coach has the nation dreaming of success.",
+      "published": "2026-07-04T13:18:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49267524/why-carlo-ancelotti-key-brazil-winning-sixth-world-cup-title",
+      "image": "https://a.espncdn.com/photo/2026/0629/r1681530_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [],
+      "score": 120
     },
     {
       "id": "49178425",
@@ -137,23 +494,45 @@
         "Ghana"
       ],
       "players": [],
-      "score": 166
+      "score": 120
     },
     {
-      "id": "49267524",
-      "headline": "Why Ancelotti is key to Brazil winning sixth World Cup title",
-      "description": "Carlo Ancelotti was not everyone's choice for the Brazil job, but while the days of Jogo Bonito are gone, the experienced coach has the nation dreaming of success.",
-      "published": "2026-07-04T13:18:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49267524/why-carlo-ancelotti-key-brazil-winning-sixth-world-cup-title",
-      "image": "https://a.espncdn.com/photo/2026/0629/r1681530_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49265115",
+      "headline": "How can Brazil stop Haaland? It might come down to their midfield",
+      "description": "Brazil face Norway in the round of 16 of the World Cup, and the showdown against Erling Haaland and Carlo Ancelotti's midfielders will be one to watch.",
+      "published": "2026-07-04T07:23:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684222_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
-        "Brazil"
+        "Brazil",
+        "Norway"
       ],
       "players": [],
-      "score": 156
+      "score": 120
+    },
+    {
+      "id": "49204443",
+      "headline": "Predicting how many of Africa's historic nine teams will win their R32 matches",
+      "description": "Which of the African teams can extend their impressive runs to date by advancing to the last 16?",
+      "published": "2026-07-04T07:22:03Z",
+      "url": "https://www.espn.com/espn/story/_/id/49204443/african-teams-2026-fifa-world-cup-round-32-ed-dove-predictions",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1680912_2_608x342_16-9.png",
+      "byline": "Ed Dove",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "South Africa",
+        "Ghana",
+        "Morocco",
+        "Cabo Verde",
+        "Côte d'Ivoire",
+        "Senegal"
+      ],
+      "players": [],
+      "score": 120
     },
     {
       "id": "49228332",
@@ -184,174 +563,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 146
-    },
-    {
-      "id": "49265988",
-      "headline": "Transfer rumors, news: Premier League clubs on alert over Barcelona and France defender",
-      "description": "Chelsea, Liverpool, Arsenal, Manchester City and Bayern Munich have been alerted over a potential deal for Barcelona defender Jules Kounde. Transfer Talk has the latest.",
-      "published": "2026-07-04T10:24:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49265988/transfer-rumors-news-premier-league-clubs-alert-barcelona-france-defender",
-      "image": "https://a.espncdn.com/photo/2025/1209/r1587360_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "France"
-      ],
-      "players": [
-        "Jules Koundé",
-        "Declan Rice"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49266576",
-      "headline": "Former Arsenal star Lia Wälti joins Brighton from Juventus",
-      "description": "Brighton & Hove Albion have completed the signing of midfielder Lia Walti from Juventus for an undisclosed fee.",
-      "published": "2026-07-04T10:23:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49266576/lia-walti-brighton-arsenal-juventus-wsl-swizterland-women",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684286_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Declan Rice"
-      ],
-      "score": 137
-    },
-    {
-      "id": "48991002",
-      "headline": "Summer transfer window: Grading big signings in women's soccer",
-      "description": "The women's transfer window is nearly open for the summer. Here are the big deals and how we rated them.",
-      "published": "2026-07-04T10:20:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48991002/summer-transfer-window-grading-big-signings-womens-soccer",
-      "image": "https://a.espncdn.com/photo/2025/0721/r1521738_1296x729_16-9.jpg",
-      "byline": "Emily Keogh and Yash Thakur",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Declan Rice"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49266468",
-      "headline": "England receive hostile welcome at Mexico City hotel ahead of World Cup clash",
-      "description": "England received a hostile welcome as they arrived at their Mexico City hotel ahead of Sunday night's World Cup last-16 tie against Mexico.",
-      "published": "2026-07-04T13:05:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49266468/england-receive-hostile-welcome-mexico-city-hotel-ahead-world-cup-clash",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684282_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [],
-      "score": 135
-    },
-    {
-      "id": "49154575",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "published": "2026-07-04T09:40:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "byline": "Grace Allen",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Declan Rice"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49266541",
-      "headline": "England booed as they arrive at Mexico hotel",
-      "description": "England booed as they arrive at Mexico hotel",
-      "published": "2026-07-04T10:00:05Z",
-      "url": "https://www.espn.com/video/clip/_/id/49266541/england-booed-arrive-mexico-hotel",
-      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_England_booed_as_they_arrive_at_Mexico_hotel/dm_260704_England_booed_as_they_arrive_at_Mexico_hotel.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [],
-      "score": 131
-    },
-    {
-      "id": "48972466",
-      "headline": "World Cup 2026: Can Lionel Messi and Cristiano Ronaldo finally meet on biggest stage?",
-      "description": "In a sixth World Cup for Lionel Messi and Cristiano Ronaldo, could the pair finally face each other in the tournament?",
-      "published": "2026-07-04T08:26:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48972466/world-cup-2026-lionel-messi-cristiano-ronaldo-showdown-knockouts-argentina-portugal",
-      "image": "https://a.espncdn.com/photo/2026/0605/r1668521_608x342_16-9.png",
-      "byline": "Anirudh Menon",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Cristiano Ronaldo"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49266437",
-      "headline": "Marc Guéhi labels Mexico as the favourites ahead of England clash",
-      "description": "Marc Guéhi has said he believes Mexico are the favourites for England's World Cup last-16 clash at the Estadio Azteca.",
-      "published": "2026-07-04T10:06:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49266437/marc-guehi-labels-mexico-favourites-ahead-england-clash",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684283_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [],
-      "score": 130
-    },
-    {
-      "id": "49261996",
-      "headline": "USMNT World Cup coach Pochettino throws first pitch. How did he do?",
-      "description": "U.S. coach Mauricio Pochettino was the latest soccer star to throw the first pitch at an MLB game this summer. How did he and he fellow footballers do?",
-      "published": "2026-07-04T13:18:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684241_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "England"
-      ],
-      "players": [
-        "Trinity Rodman",
-        "Mario Balotelli",
-        "Matt Turner",
-        "Aitana Bonmatí"
-      ],
-      "score": 129
+      "score": 119
     },
     {
       "id": "49264397",
@@ -368,45 +580,24 @@
         "England"
       ],
       "players": [],
-      "score": 126
+      "score": 119
     },
     {
-      "id": "49265115",
-      "headline": "How can Brazil stop Haaland? It might come down to their midfield",
-      "description": "Brazil face Norway in the round of 16 of the World Cup, and the showdown against Erling Haaland and Carlo Ancelotti's midfielders will be one to watch.",
-      "published": "2026-07-04T07:23:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684222_1296x729_16-9.jpg",
-      "byline": "Tim Vickery",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49265879",
+      "headline": "Cape Verde's dream run over after late Argentina strike in extra time",
+      "description": "Argentina end Cape Verde's fairytale run at the FIFA World Cup with a winning goal late in extra time",
+      "published": "2026-07-04T07:02:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49265879/cape-verde-dream-run-late-argentina-strike-extra",
+      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_Soccer_Highlight_Highlight_Cape_Verdes_dream_run_over_after_late_Argentina_strike_in_extra_time_20/dm_260704_Soccer_Highlight_Highlight_Cape_Verdes_dream_run_over_after_late_Argentina_strike_in_extra_time_20.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
-        "Brazil",
-        "Norway"
-      ],
-      "players": [],
-      "score": 126
-    },
-    {
-      "id": "49204443",
-      "headline": "Predicting how many of Africa's historic nine teams will win their R32 matches",
-      "description": "Which of the African teams can extend their impressive runs to date by advancing to the last 16?",
-      "published": "2026-07-04T07:22:03Z",
-      "url": "https://www.espn.com/espn/story/_/id/49204443/african-teams-2026-fifa-world-cup-round-32-ed-dove-predictions",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1680912_2_608x342_16-9.png",
-      "byline": "Ed Dove",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "South Africa",
-        "Ghana",
-        "Morocco",
         "Cabo Verde",
-        "Côte d'Ivoire",
-        "Senegal"
+        "Argentina"
       ],
       "players": [],
-      "score": 126
+      "score": 118
     },
     {
       "id": "49266219",
@@ -425,24 +616,7 @@
       "players": [
         "Declan Rice"
       ],
-      "score": 124
-    },
-    {
-      "id": "49265879",
-      "headline": "Cape Verde's dream run over after late Argentina strike in extra time",
-      "description": "Argentina end Cape Verde's fairytale run at the FIFA World Cup with a winning goal late in extra time",
-      "published": "2026-07-04T07:02:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49265879/cape-verde-dream-run-late-argentina-strike-extra",
-      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_Soccer_Highlight_Highlight_Cape_Verdes_dream_run_over_after_late_Argentina_strike_in_extra_time_20/dm_260704_Soccer_Highlight_Highlight_Cape_Verdes_dream_run_over_after_late_Argentina_strike_in_extra_time_20.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Cabo Verde",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 124
+      "score": 117
     },
     {
       "id": "49265438",
@@ -459,7 +633,24 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 124
+      "score": 117
+    },
+    {
+      "id": "49266541",
+      "headline": "England booed as they arrive at Mexico hotel",
+      "description": "England booed as they arrive at Mexico hotel",
+      "published": "2026-07-04T10:00:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/49266541/england-booed-arrive-mexico-hotel",
+      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_England_booed_as_they_arrive_at_Mexico_hotel/dm_260704_England_booed_as_they_arrive_at_Mexico_hotel.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 115
     },
     {
       "id": "49255647",
@@ -476,26 +667,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 122
-    },
-    {
-      "id": "49262637",
-      "headline": "Messi, Argentina nearly suffered historic World Cup upset from Cape Verde -- but they fight on",
-      "description": "No one could have predicted Argentina would nearly be bounced from the World Cup by Cape Verde, but the round of 32 gave us an instant classic.",
-      "published": "2026-07-04T02:45:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49262637/messi-argentina-nearly-suffered-historic-world-cup-upset-cape-verde",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684100_2_1296x729_16-9.jpg",
-      "byline": "Rob Dawson and Lizzy Becherano",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Cabo Verde"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 122
+      "score": 115
     },
     {
       "id": "49246507",
@@ -513,50 +685,7 @@
       "players": [
         "Mbekezeli Mbokazi"
       ],
-      "score": 120
-    },
-    {
-      "id": "49117037",
-      "headline": "2026 World Cup Golden Boot tracker: Will Messi, Mbappe, or other score most goals?",
-      "description": "We're into the round of 32 at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
-      "published": "2026-07-04T01:19:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1676221_1296x729_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Argentina",
-        "France",
-        "Norway",
-        "USA"
-      ],
-      "players": [
-        "Harry Kane",
-        "Lionel Messi",
-        "Kylian Mbappé",
-        "Erling Haaland",
-        "Folarin Balogun"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49263170",
-      "headline": "Argentina break Cape Verde hearts in extra time at World Cup; Lionel Messi scores",
-      "description": "Argentina were taken into extra time by Cape Verde but eventually prevailed 3-2, with Lionel Messi on the scoresheet, in the round of 32 in Miami on Friday.",
-      "published": "2026-07-04T02:27:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49263170/argentina-break-cape-verde-hearts-extra-world-cup-lionel-messi-scores",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1684027_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 119
+      "score": 114
     },
     {
       "id": "48953200",
@@ -572,7 +701,7 @@
         "USA"
       ],
       "players": [],
-      "score": 119
+      "score": 113
     },
     {
       "id": "49265994",
@@ -589,7 +718,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 118
+      "score": 112
     },
     {
       "id": "49265781",
@@ -606,25 +735,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 118
-    },
-    {
-      "id": "49085479",
-      "headline": "Lionel Messi at the World Cup: History, results, stats",
-      "description": "Here's how Lionel Messi has performed for Argentina at the World Cup throughout his career.",
-      "published": "2026-07-04T00:49:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49085479/lionel-messi-world-cup-history-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674372_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 118
+      "score": 112
     },
     {
       "id": "48939282",
@@ -642,7 +753,7 @@
         "USA"
       ],
       "players": [],
-      "score": 117
+      "score": 111
     },
     {
       "id": "49260423",
@@ -659,66 +770,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 117
-    },
-    {
-      "id": "48964271",
-      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
-      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
-      "published": "2026-07-04T08:19:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
-      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 115
-    },
-    {
-      "id": "48945011",
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-04T08:19:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 115
-    },
-    {
-      "id": "48945570",
-      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
-      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
-      "published": "2026-07-04T08:13:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 115
-    },
-    {
-      "id": "49264513",
-      "headline": "Colombia see off Ghana to head back to World Cup round of 16",
-      "description": "Colombia controlled Ghana on a sweltering night at Arrowhead Stadium, allowing Los Cafeteros to advance to the round of 16 at the World Cup with a 1-0 victory Friday night.",
-      "published": "2026-07-04T05:28:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49264513/colombia-ghana-fifa-world-cup-2026-round-32",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684195_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Colombia",
-        "Ghana"
-      ],
-      "players": [],
-      "score": 115
+      "score": 110
     },
     {
       "id": "49263953",
@@ -737,42 +789,66 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 115
+      "score": 109
     },
     {
-      "id": "49003238",
-      "headline": "Who are the oldest and youngest men to score at the World Cup?",
-      "description": "Pelé is the youngest player to score in World Cup history. Check out which other players made the list of oldest and youngest goal scorers.",
-      "published": "2026-07-04T00:50:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49003238/who-oldest-youngest-men-score-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670338_608x342_16-9.jpg",
+      "id": "48964271",
+      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
+      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
+      "published": "2026-07-04T08:19:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
+      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 108
+    },
+    {
+      "id": "48945011",
+      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
+      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
+      "published": "2026-07-04T08:19:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 108
+    },
+    {
+      "id": "48945570",
+      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
+      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
+      "published": "2026-07-04T08:13:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Mexico",
-        "Brazil",
-        "England",
-        "Portugal"
-      ],
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
       "players": [],
-      "score": 115
+      "score": 108
     },
     {
-      "id": "49084603",
-      "headline": "Argentina at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the Argentina men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-04T00:49:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49084603/argentina-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674317_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49264513",
+      "headline": "Colombia see off Ghana to head back to World Cup round of 16",
+      "description": "Colombia controlled Ghana on a sweltering night at Arrowhead Stadium, allowing Los Cafeteros to advance to the round of 16 at the World Cup with a 1-0 victory Friday night.",
+      "published": "2026-07-04T05:28:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49264513/colombia-ghana-fifa-world-cup-2026-round-32",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684195_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Colombia",
+        "Ghana"
       ],
       "players": [],
-      "score": 115
+      "score": 108
     },
     {
       "id": "49265176",
@@ -789,7 +865,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 114
+      "score": 107
     },
     {
       "id": "49265105",
@@ -806,7 +882,7 @@
         "Ghana"
       ],
       "players": [],
-      "score": 113
+      "score": 107
     },
     {
       "id": "49264069",
@@ -823,7 +899,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 113
+      "score": 107
     },
     {
       "id": "49264170",
@@ -842,26 +918,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 113
-    },
-    {
-      "id": "49263234",
-      "headline": "Lionel Messi nets in 8th straight to retake Golden Boot lead",
-      "description": "Lionel Messi scored again, making Friday's contest against Cape Verde the record-extending eighth consecutive World Cup match in which Argentina's captain delivered at least one goal.",
-      "published": "2026-07-04T02:43:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49263234/lionel-messi-nets-8th-straight-golden-boot-lead",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684120_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Cabo Verde"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 113
+      "score": 107
     },
     {
       "id": "49262035",
@@ -877,42 +934,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 112
-    },
-    {
-      "id": "49254994",
-      "headline": "Jhon Arias guides Colombia past Ghana into round of 16",
-      "description": "Colombia booked the last place in the World Cup's round of 16 as they beat Ghana 1-0 in Kansas City. Jhon Arias grabbed the only goal after 14 minutes as the earned a meeting with Switzerland in Vancouver.",
-      "published": "2026-07-04T03:52:17Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/760501",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684205_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Colombia",
-        "Ghana",
-        "Switzerland"
-      ],
-      "players": [],
-      "score": 112
-    },
-    {
-      "id": "49264784",
-      "headline": "Full-time scenes in Colombia as they reach the World Cup round of 16",
-      "description": "Full-time scenes in Colombia as they reach the World Cup round of 16",
-      "published": "2026-07-04T03:46:47Z",
-      "url": "https://www.espn.com/video/clip/_/id/49264784/full-scenes-colombia-reach-world-cup-round-16",
-      "image": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_COM_SOC_News_Full_time_scenes_in_Colombia_as_they_reach_the_World_Cup_round_of_16_20260703_GLOBA/dm_260703_COM_SOC_News_Full_time_scenes_in_Colombia_as_they_reach_the_World_Cup_round_of_16_20260703_GLOBA.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Colombia",
-        "Ghana"
-      ],
-      "players": [],
-      "score": 112
+      "score": 106
     }
   ]
 }
