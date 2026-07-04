@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-07-04T20:01:31.849Z",
+  "updated": "2026-07-04T23:43:57.114Z",
   "results": {
     "A": [
       [
@@ -333,6 +333,7 @@
       "Egypt"
     ],
     "QF": [
+      "France",
       "Morocco"
     ],
     "SF": [],
@@ -1243,8 +1244,8 @@
       "s": "R16",
       "h": "Paraguay",
       "a": "France",
-      "hg": null,
-      "ag": null,
+      "hg": 0,
+      "ag": 1,
       "v": "Lincoln Financial Field (Philadelphia, USA)"
     },
     {
