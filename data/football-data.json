@@ -1,6 +1,6 @@
 {
   "source": "API-Football (api-sports.io)",
-  "updated": "2026-07-05T18:47:24.417Z",
+  "updated": "2026-07-05T22:17:03.102Z",
   "season": 2026,
   "teams": {
     "Mexico": {
@@ -155098,6 +155098,460 @@
                 "pos": "F",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/345748.png"
+              }
+            ]
+          }
+        },
+        "kind": "recent"
+      }
+    },
+    "France|Morocco": {
+      "h2h": {
+        "home": "France",
+        "away": "Morocco",
+        "total": 1,
+        "homeWins": 1,
+        "awayWins": 0,
+        "draws": 0,
+        "homeWinPct": 100,
+        "awayWinPct": 0,
+        "drawPct": 0,
+        "years": 26
+      },
+      "fixtureId": 1578539,
+      "lineup": {
+        "sides": {
+          "home": {
+            "team": "France",
+            "formation": "4-2-3-1",
+            "coach": "Didier Deschamps",
+            "startXI": [
+              {
+                "id": 22221,
+                "name": "Mike Maignan",
+                "number": 16,
+                "pos": "G",
+                "grid": "1:1",
+                "photo": "https://media.api-sports.io/football/players/22221.png"
+              },
+              {
+                "id": 1257,
+                "name": "Jules Koundé",
+                "number": 5,
+                "pos": "D",
+                "grid": "2:4",
+                "photo": "https://media.api-sports.io/football/players/1257.png"
+              },
+              {
+                "id": 1149,
+                "name": "Dayot Upamecano",
+                "number": 4,
+                "pos": "D",
+                "grid": "2:3",
+                "photo": "https://media.api-sports.io/football/players/1149.png"
+              },
+              {
+                "id": 22090,
+                "name": "William Saliba",
+                "number": 17,
+                "pos": "D",
+                "grid": "2:2",
+                "photo": "https://media.api-sports.io/football/players/22090.png"
+              },
+              {
+                "id": 2724,
+                "name": "Lucas Digne",
+                "number": 3,
+                "pos": "D",
+                "grid": "2:1",
+                "photo": "https://media.api-sports.io/football/players/2724.png"
+              },
+              {
+                "id": 22147,
+                "name": "Manu Koné",
+                "number": 6,
+                "pos": "M",
+                "grid": "3:2",
+                "photo": "https://media.api-sports.io/football/players/22147.png"
+              },
+              {
+                "id": 272,
+                "name": "Adrien Rabiot",
+                "number": 14,
+                "pos": "M",
+                "grid": "3:1",
+                "photo": "https://media.api-sports.io/football/players/272.png"
+              },
+              {
+                "id": 153,
+                "name": "Ousmane Dembélé",
+                "number": 7,
+                "pos": "M",
+                "grid": "4:3",
+                "photo": "https://media.api-sports.io/football/players/153.png"
+              },
+              {
+                "id": 19617,
+                "name": "Michael Olise",
+                "number": 11,
+                "pos": "M",
+                "grid": "4:2",
+                "photo": "https://media.api-sports.io/football/players/19617.png"
+              },
+              {
+                "id": 161904,
+                "name": "Bradley Barcola",
+                "number": 12,
+                "pos": "M",
+                "grid": "4:1",
+                "photo": "https://media.api-sports.io/football/players/161904.png"
+              },
+              {
+                "id": 278,
+                "name": "Kylian Mbappé",
+                "number": 10,
+                "pos": "F",
+                "grid": "5:1",
+                "photo": "https://media.api-sports.io/football/players/278.png"
+              }
+            ],
+            "subs": [
+              {
+                "id": 343027,
+                "name": "Désiré Doué",
+                "number": 20,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/343027.png"
+              },
+              {
+                "id": 156477,
+                "name": "Rayan Cherki",
+                "number": 24,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/156477.png"
+              },
+              {
+                "id": 347211,
+                "name": "Robin Risser",
+                "number": 23,
+                "pos": "G",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/347211.png"
+              },
+              {
+                "id": 21628,
+                "name": "Brice Samba",
+                "number": 1,
+                "pos": "G",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/21628.png"
+              },
+              {
+                "id": 161907,
+                "name": "Malo Gusto",
+                "number": 2,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/161907.png"
+              },
+              {
+                "id": 1145,
+                "name": "Ibrahima Konaté",
+                "number": 15,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/1145.png"
+              },
+              {
+                "id": 47300,
+                "name": "Theo Hernández",
+                "number": 19,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/47300.png"
+              },
+              {
+                "id": 33,
+                "name": "Lucas Hernández",
+                "number": 21,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/33.png"
+              },
+              {
+                "id": 20995,
+                "name": "Maxence Lacroix",
+                "number": 26,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/20995.png"
+              },
+              {
+                "id": 1271,
+                "name": "Aurélien Tchouaméni",
+                "number": 8,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/1271.png"
+              },
+              {
+                "id": 2290,
+                "name": "N'Golo Kanté",
+                "number": 13,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/2290.png"
+              },
+              {
+                "id": 336657,
+                "name": "Warren Zaïre-Emery",
+                "number": 18,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/336657.png"
+              },
+              {
+                "id": 274300,
+                "name": "Maghnes Akliouche",
+                "number": 25,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/274300.png"
+              },
+              {
+                "id": 21509,
+                "name": "Marcus Thuram",
+                "number": 9,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/21509.png"
+              },
+              {
+                "id": 25927,
+                "name": "Jean-Philippe Mateta",
+                "number": 22,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/25927.png"
+              }
+            ]
+          },
+          "away": {
+            "team": "Morocco",
+            "formation": "4-2-3-1",
+            "coach": "Mohamed Ouahbi",
+            "startXI": [
+              {
+                "id": 2701,
+                "name": "Yassine Bounou",
+                "number": 1,
+                "pos": "G",
+                "grid": "1:1",
+                "photo": "https://media.api-sports.io/football/players/2701.png"
+              },
+              {
+                "id": 9,
+                "name": "Achraf Hakimi",
+                "number": 2,
+                "pos": "D",
+                "grid": "2:4",
+                "photo": "https://media.api-sports.io/football/players/9.png"
+              },
+              {
+                "id": 18814,
+                "name": "Issa Diop",
+                "number": 14,
+                "pos": "D",
+                "grid": "2:3",
+                "photo": "https://media.api-sports.io/football/players/18814.png"
+              },
+              {
+                "id": 326183,
+                "name": "Redouane Halhal",
+                "number": 25,
+                "pos": "D",
+                "grid": "2:2",
+                "photo": "https://media.api-sports.io/football/players/326183.png"
+              },
+              {
+                "id": 545,
+                "name": "Noussair Mazraoui",
+                "number": 3,
+                "pos": "D",
+                "grid": "2:1",
+                "photo": "https://media.api-sports.io/football/players/545.png"
+              },
+              {
+                "id": 438688,
+                "name": "Ayyoub Bouaddi",
+                "number": 6,
+                "pos": "M",
+                "grid": "3:2",
+                "photo": "https://media.api-sports.io/football/players/438688.png"
+              },
+              {
+                "id": 277003,
+                "name": "Neil El Aynaoui",
+                "number": 24,
+                "pos": "M",
+                "grid": "3:1",
+                "photo": "https://media.api-sports.io/football/players/277003.png"
+              },
+              {
+                "id": 744,
+                "name": "Brahim Díaz",
+                "number": 10,
+                "pos": "M",
+                "grid": "4:3",
+                "photo": "https://media.api-sports.io/football/players/744.png"
+              },
+              {
+                "id": 129678,
+                "name": "Azzedine Ounahi",
+                "number": 8,
+                "pos": "M",
+                "grid": "4:2",
+                "photo": "https://media.api-sports.io/football/players/129678.png"
+              },
+              {
+                "id": 340573,
+                "name": "Bilal El Khannouss",
+                "number": 23,
+                "pos": "M",
+                "grid": "4:1",
+                "photo": "https://media.api-sports.io/football/players/340573.png"
+              },
+              {
+                "id": 161897,
+                "name": "Ismael Saibari",
+                "number": 11,
+                "pos": "F",
+                "grid": "5:1",
+                "photo": "https://media.api-sports.io/football/players/161897.png"
+              }
+            ],
+            "subs": [
+              {
+                "id": 36579,
+                "name": "Soufiane Rahimi",
+                "number": 9,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/36579.png"
+              },
+              {
+                "id": 74,
+                "name": "Sofyan Amrabat",
+                "number": 4,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/74.png"
+              },
+              {
+                "id": 336659,
+                "name": "Chemsdine Talbi",
+                "number": 7,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/336659.png"
+              },
+              {
+                "id": 50042,
+                "name": "Marwane Saadane",
+                "number": 5,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/50042.png"
+              },
+              {
+                "id": 415431,
+                "name": "Samir El Mourabet",
+                "number": 15,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/415431.png"
+              },
+              {
+                "id": 2702,
+                "name": "Munir El Kajoui",
+                "number": 12,
+                "pos": "G",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/2702.png"
+              },
+              {
+                "id": 2703,
+                "name": "Ahmed Reda Tagnaouti",
+                "number": 22,
+                "pos": "G",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/2703.png"
+              },
+              {
+                "id": 162451,
+                "name": "Anass Salah-Eddine",
+                "number": 26,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/162451.png"
+              },
+              {
+                "id": 283252,
+                "name": "Zakaria El Ouahdi",
+                "number": 13,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/283252.png"
+              },
+              {
+                "id": 146772,
+                "name": "Youssef Belammari",
+                "number": 19,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/146772.png"
+              },
+              {
+                "id": 278898,
+                "name": "Chadi Riad",
+                "number": 18,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/278898.png"
+              },
+              {
+                "id": 191289,
+                "name": "Amine Sbai",
+                "number": 17,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/191289.png"
+              },
+              {
+                "id": 369544,
+                "name": "Gessime Yassine",
+                "number": 16,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/369544.png"
+              },
+              {
+                "id": 2722,
+                "name": "Ayoub El Kaabi",
+                "number": 20,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/2722.png"
+              },
+              {
+                "id": 535046,
+                "name": "Ayoube Amaimouni Echghouyab",
+                "number": 21,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/535046.png"
               }
             ]
           }
