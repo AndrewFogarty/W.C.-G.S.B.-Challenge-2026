@@ -1,14 +1,135 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-05T15:00:26.198Z",
+  "updated": "2026-07-05T18:47:24.967Z",
   "counts": {
-    "preview": 8,
-    "news": 31,
-    "offfield": 4,
+    "offfield": 5,
+    "news": 29,
+    "preview": 9,
     "injury": 2,
     "celebration": 3
   },
   "items": [
+    {
+      "id": "49277378",
+      "headline": "USMNT's Folarin Balogun has red card suspended by FIFA, available to face Belgium",
+      "description": "FIFA has suspended the red card U.S. striker Folarin Balogun received in the team's match against Bosnia-Herzegovina, making him available to face Belgium in the round of 16 at the World Cup.",
+      "published": "2026-07-05T17:43:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49277378/usmnt-folarin-balogun-red-card-suspended-belgium",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1676265_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA",
+        "Bosnia",
+        "Belgium"
+      ],
+      "players": [],
+      "score": 210
+    },
+    {
+      "id": "49277501",
+      "headline": "Mexico fans' serenata outside England hotel woke me up, and probably Three Lions too",
+      "description": "Playing in Mexico is intimidating, and it's more than the atmosphere of the Azteca. As England learned, it's Mexico's City's embrace of the cause.",
+      "published": "2026-07-05T17:53:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49277501/mexico-fans-serenata-england-hotel-world-cup-match-woke-probably-three-lions-too",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684796_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 209
+    },
+    {
+      "id": "48386952",
+      "headline": "Every team's championship odds for the 2026 World Cup",
+      "description": "Odds for every team to advance through the round of 16 and to win the 2026 World Cup.",
+      "published": "2026-07-05T16:17:33Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682586_576x324_16-9.jpg",
+      "byline": "Doug Greenberg",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Brazil",
+        "England",
+        "Spain",
+        "Argentina",
+        "Portugal",
+        "Germany",
+        "Netherlands",
+        "Belgium",
+        "Colombia",
+        "Japan",
+        "Canada",
+        "Mexico",
+        "Norway",
+        "Morocco",
+        "Uruguay",
+        "Ecuador",
+        "Sweden",
+        "Croatia",
+        "Switzerland",
+        "Austria",
+        "Australia",
+        "Senegal",
+        "Czechia",
+        "Paraguay",
+        "Scotland",
+        "Egypt",
+        "Algeria",
+        "Korea Republic",
+        "Ghana",
+        "Panama",
+        "South Africa",
+        "New Zealand",
+        "Iraq",
+        "Cabo Verde",
+        "Uzbekistan",
+        "Jordan",
+        "Haiti"
+      ],
+      "players": [],
+      "score": 186
+    },
+    {
+      "id": "49276691",
+      "headline": "Mexico fans blast horns, set off fireworks outside England's hotel to try and disrupt players' sleep",
+      "description": "Despite police blockades, dozens of Mexican fans gathered outside the England national team's hotel until the early hours of Sunday morning, hoping to disrupt players' sleep ahead of their World Cup round-of-16 match against co-host Mexico.",
+      "published": "2026-07-05T15:58:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49276691/mexico-fans-disruption-england-hotel-team-sleep-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684798_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 185
+    },
+    {
+      "id": "49276146",
+      "headline": "Mexico squad return luxury watches gifted by influencer",
+      "description": "Mexico have had to return luxury watches that were gifted to them by the YouTuber Stevewilldoit.",
+      "published": "2026-07-05T14:31:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49276146/mexico-luxury-watches-return-fifa-rules-stevewilldoit-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684754_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico"
+      ],
+      "players": [],
+      "score": 164
+    },
     {
       "id": "49117037",
       "headline": "2026 World Cup Golden Boot tracker: Will Messi, Mbappe, or other score most goals?",
@@ -33,23 +154,7 @@
         "Erling Haaland",
         "Folarin Balogun"
       ],
-      "score": 210
-    },
-    {
-      "id": "49276146",
-      "headline": "Mexico squad return luxury watches gifted by influencer",
-      "description": "Mexico have had to return luxury watches that were gifted to them by the YouTuber Stevewilldoit.",
-      "published": "2026-07-05T14:31:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49276146/mexico-luxury-watches-return-fifa-rules-stevewilldoit-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684754_1296x729_16-9.jpg",
-      "byline": "Hannah Ryan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico"
-      ],
-      "players": [],
-      "score": 209
+      "score": 164
     },
     {
       "id": "49178425",
@@ -89,86 +194,7 @@
         "Ghana"
       ],
       "players": [],
-      "score": 190
-    },
-    {
-      "id": "49274470",
-      "headline": "World Cup Daily live: Mexico fans try to give England sleepless night",
-      "description": "Enjoy all the features, news, video analysis and color from around the World Cup as Brazil face Norway and England take on Mexico.",
-      "published": "2026-07-05T14:54:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49274470/mexico-england-brazil-norway-round-16",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684712_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Mexico",
-        "Brazil",
-        "Norway",
-        "England"
-      ],
-      "players": [],
-      "score": 189
-    },
-    {
-      "id": "49275459",
-      "headline": "Brazil vs. Norway: Gabriel and Haaland take rivalry to international stage",
-      "description": "One of the most compelling and ferocious Premier League rivalries hits the world stage on Sunday as Brazil face Norway in a thrilling round-of-16 clash.",
-      "published": "2026-07-05T13:17:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49275459/brazil-vs-norway-gabriel-haaland-take-rivalry-international-stage",
-      "image": "https://a.espncdn.com/photo/2025/0203/r1446867_1296x729_16-9.jpg",
-      "byline": "Olivia Pagden",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Brazil",
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Gabriel Magalhães"
-      ],
-      "score": 169
-    },
-    {
-      "id": "48939282",
-      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
-      "published": "2026-07-05T13:12:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
-      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "USA"
-      ],
-      "players": [],
-      "score": 167
-    },
-    {
-      "id": "49266645",
-      "headline": "World Cup pride, joy and anxiety: What watching a family member play means",
-      "description": "It's incredible for families who have seen loved ones go from kicking a ball around the house to walking out on the biggest stage there is at a World Cup.",
-      "published": "2026-07-05T12:12:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49266645/world-cup-pride-joy-anxiety-watching-family-member-play-means",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684297_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "USA",
-        "England"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Alexander Freeman",
-        "Marcus Rashford"
-      ],
-      "score": 149
+      "score": 144
     },
     {
       "id": "49115778",
@@ -190,7 +216,48 @@
         "Denzel Dumfries",
         "Harry Kane"
       ],
-      "score": 142
+      "score": 137
+    },
+    {
+      "id": "49274470",
+      "headline": "World Cup Daily live: Mexico fans try to give England sleepless night",
+      "description": "Enjoy all the features, news, video analysis and color from around the World Cup as Brazil face Norway and England take on Mexico.",
+      "published": "2026-07-05T13:23:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49274470/mexico-england-brazil-norway-round-16",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684712_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Mexico",
+        "Brazil",
+        "Norway"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 134
+    },
+    {
+      "id": "49275459",
+      "headline": "Brazil vs. Norway: Gabriel and Haaland take rivalry to international stage",
+      "description": "One of the most compelling and ferocious Premier League rivalries hits the world stage on Sunday as Brazil face Norway in a thrilling round-of-16 clash.",
+      "published": "2026-07-05T13:17:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49275459/brazil-vs-norway-gabriel-haaland-take-rivalry-international-stage",
+      "image": "https://a.espncdn.com/photo/2025/0203/r1446867_1296x729_16-9.jpg",
+      "byline": "Olivia Pagden",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Gabriel Magalhães"
+      ],
+      "score": 134
     },
     {
       "id": "49275053",
@@ -211,7 +278,25 @@
         "Jerome Opoku",
         "Gideon Mensah"
       ],
-      "score": 140
+      "score": 134
+    },
+    {
+      "id": "48939282",
+      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
+      "published": "2026-07-05T13:12:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico",
+        "Canada",
+        "USA"
+      ],
+      "players": [],
+      "score": 132
     },
     {
       "id": "48972466",
@@ -231,7 +316,7 @@
         "Lionel Messi",
         "Cristiano Ronaldo"
       ],
-      "score": 138
+      "score": 132
     },
     {
       "id": "49274934",
@@ -251,7 +336,7 @@
         "Jordan Ayew",
         "Antoine Semenyo"
       ],
-      "score": 138
+      "score": 132
     },
     {
       "id": "49275122",
@@ -268,7 +353,25 @@
         "Belgium"
       ],
       "players": [],
-      "score": 136
+      "score": 130
+    },
+    {
+      "id": "49249888",
+      "headline": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
+      "description": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out.",
+      "published": "2026-07-05T17:20:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49249888/world-cup-postcards-travel-usa-los-angeles-mexico-guadalajara-canada-vancouver",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683920_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Canada",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 128
     },
     {
       "id": "49274751",
@@ -285,21 +388,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 133
-    },
-    {
-      "id": "48964271",
-      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
-      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
-      "published": "2026-07-05T12:12:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
-      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 132
+      "score": 127
     },
     {
       "id": "49272206",
@@ -318,7 +407,29 @@
       "players": [
         "Jordan Bos"
       ],
-      "score": 130
+      "score": 124
+    },
+    {
+      "id": "49266645",
+      "headline": "World Cup pride, joy and anxiety: What watching a family member play means",
+      "description": "It's incredible for families who have seen loved ones go from kicking a ball around the house to walking out on the biggest stage there is at a World Cup.",
+      "published": "2026-07-05T12:12:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49266645/world-cup-pride-joy-anxiety-watching-family-member-play-means",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684297_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "USA",
+        "England"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Alexander Freeman",
+        "Marcus Rashford"
+      ],
+      "score": 123
     },
     {
       "id": "49271996",
@@ -339,7 +450,7 @@
         "Tim Ream",
         "Chris Richards"
       ],
-      "score": 129
+      "score": 123
     },
     {
       "id": "49275333",
@@ -358,7 +469,7 @@
       "players": [
         "Jordan Henderson"
       ],
-      "score": 128
+      "score": 123
     },
     {
       "id": "49272367",
@@ -377,7 +488,23 @@
       "players": [
         "Kylian Mbappé"
       ],
-      "score": 128
+      "score": 122
+    },
+    {
+      "id": "49274218",
+      "headline": "Football Australia backs Tony Popovic after World Cup exit",
+      "description": "Football Australia has branded the Socceroos' run to the knockout stages of the FIFA World Cup as an \"enormous success,\" backing Tony Popovic to lead Australia's men into next January's AFC Asian Cup.",
+      "published": "2026-07-05T05:58:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49274218/football-australia-backs-tony-popovic-world-cup-exit",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675949_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia"
+      ],
+      "players": [],
+      "score": 120
     },
     {
       "id": "49274881",
@@ -397,23 +524,7 @@
         "Pape Gueye",
         "Pathé Ciss"
       ],
-      "score": 125
-    },
-    {
-      "id": "49274218",
-      "headline": "Football Australia backs Tony Popovic after World Cup exit",
-      "description": "Football Australia has branded the Socceroos' run to the knockout stages of the FIFA World Cup as an \"enormous success,\" backing Tony Popovic to lead Australia's men into next January's AFC Asian Cup.",
-      "published": "2026-07-05T05:58:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49274218/football-australia-backs-tony-popovic-world-cup-exit",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675949_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia"
-      ],
-      "players": [],
-      "score": 125
+      "score": 119
     },
     {
       "id": "49272754",
@@ -430,7 +541,24 @@
         "Mexico"
       ],
       "players": [],
-      "score": 124
+      "score": 119
+    },
+    {
+      "id": "49272640",
+      "headline": "Thomas Tuchel: England must 'not lose their heads' amid tricky Mexico buildup at World Cup",
+      "description": "Thomas Tuchel has told his England players \"not to lose their heads\" despite a turbulent buildup to their World Cup round-of-16 clash against Mexico.",
+      "published": "2026-07-05T04:30:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49272640/thomas-tuchel-england-not-lose-your-heads-amid-tricky-mexico-buildup-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684648_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 118
     },
     {
       "id": "49246507",
@@ -448,24 +576,21 @@
       "players": [
         "Mbekezeli Mbokazi"
       ],
-      "score": 123
+      "score": 117
     },
     {
-      "id": "49272640",
-      "headline": "Thomas Tuchel: England must 'not lose their heads' amid tricky Mexico buildup at World Cup",
-      "description": "Thomas Tuchel has told his England players \"not to lose their heads\" despite a turbulent buildup to their World Cup round-of-16 clash against Mexico.",
-      "published": "2026-07-05T04:30:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49272640/thomas-tuchel-england-not-lose-your-heads-amid-tricky-mexico-buildup-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684648_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
+      "id": "48964271",
+      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
+      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
+      "published": "2026-07-05T12:12:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
+      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
       "players": [],
-      "score": 123
+      "score": 116
     },
     {
       "id": "48945011",
@@ -479,7 +604,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 122
+      "score": 116
     },
     {
       "id": "48945570",
@@ -493,7 +618,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 122
+      "score": 116
     },
     {
       "id": "49274458",
@@ -512,7 +637,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 122
+      "score": 116
     },
     {
       "id": "49274699",
@@ -529,7 +654,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 120
+      "score": 114
     },
     {
       "id": "49274691",
@@ -546,7 +671,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 120
+      "score": 114
     },
     {
       "id": "49271617",
@@ -562,7 +687,7 @@
         "France"
       ],
       "players": [],
-      "score": 120
+      "score": 114
     },
     {
       "id": "49272518",
@@ -579,25 +704,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 119
-    },
-    {
-      "id": "49249888",
-      "headline": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
-      "description": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out.",
-      "published": "2026-07-05T07:15:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49249888/world-cup-postcards-travel-usa-los-angeles-mexico-guadalajara-canada-vancouver",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683920_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Canada",
-        "Mexico"
-      ],
-      "players": [],
-      "score": 118
+      "score": 113
     },
     {
       "id": "49272405",
@@ -614,26 +721,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 116
-    },
-    {
-      "id": "49271796",
-      "headline": "Mbappé penalty edges past Paraguay as France reach World Cup quarterfinals",
-      "description": "Kylian Mbappé scored the only goal from the penalty spot as France defeated Paraguay 1-0 in the World Cup round of 16 in Philadelphia on Saturday.",
-      "published": "2026-07-05T03:52:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49271796/kylian-mbappe-penalty-leads-france-paraguay-world-cup-quarterfinals",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684604_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Paraguay"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 116
+      "score": 111
     },
     {
       "id": "48979217",
@@ -651,7 +739,23 @@
       "players": [
         "Kylian Mbappé"
       ],
-      "score": 116
+      "score": 111
+    },
+    {
+      "id": "49083555",
+      "headline": "France at the men's World Cup: All-time results and stats",
+      "description": "Take a look at the France men's national team's performance throughout the tournament's history.",
+      "published": "2026-07-04T23:13:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49083555/france-men-world-cup-all-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674268_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "France"
+      ],
+      "players": [],
+      "score": 108
     },
     {
       "id": "49272965",
@@ -672,7 +776,7 @@
       "players": [
         "Jordan Ayew"
       ],
-      "score": 113
+      "score": 107
     },
     {
       "id": "49272197",
@@ -691,23 +795,7 @@
       "players": [
         "Kylian Mbappé"
       ],
-      "score": 113
-    },
-    {
-      "id": "49083555",
-      "headline": "France at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the France men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-04T23:13:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49083555/france-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674268_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France"
-      ],
-      "players": [],
-      "score": 113
+      "score": 107
     },
     {
       "id": "48811876",
@@ -723,7 +811,7 @@
         "Australia"
       ],
       "players": [],
-      "score": 112
+      "score": 106
     },
     {
       "id": "49272642",
@@ -742,24 +830,7 @@
         "Pape Gueye",
         "Ismaïla Sarr"
       ],
-      "score": 112
-    },
-    {
-      "id": "49273080",
-      "headline": "Football Australia has to ask the tough questions after World Cup exit",
-      "description": "After the pain of the penalty shootout loss to Egypt subsides, Football Australia needs to think long and hard about who will be entrusted with a generation of talent that is amongst the most exciting the country has ever produced.",
-      "published": "2026-07-05T02:15:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49273080/football-australia-ask-tough-questions-world-cup-exit",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684666_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Egypt"
-      ],
-      "players": [],
-      "score": 111
+      "score": 106
     },
     {
       "id": "49272561",
@@ -778,7 +849,24 @@
       "players": [
         "Rayan Cherki"
       ],
-      "score": 111
+      "score": 106
+    },
+    {
+      "id": "49273080",
+      "headline": "Football Australia has to ask the tough questions after World Cup exit",
+      "description": "After the pain of the penalty shootout loss to Egypt subsides, Football Australia needs to think long and hard about who will be entrusted with a generation of talent that is amongst the most exciting the country has ever produced.",
+      "published": "2026-07-05T02:15:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49273080/football-australia-ask-tough-questions-world-cup-exit",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684666_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "players": [],
+      "score": 105
     },
     {
       "id": "49273040",
@@ -795,7 +883,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 110
+      "score": 104
     },
     {
       "id": "49250774",
@@ -811,7 +899,7 @@
         "England"
       ],
       "players": [],
-      "score": 108
+      "score": 102
     },
     {
       "id": "49272368",
@@ -829,7 +917,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 107
+      "score": 102
     },
     {
       "id": "49272360",
@@ -846,59 +934,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 107
-    },
-    {
-      "id": "49265379",
-      "headline": "World Cup Daily recap: France, Morocco advance; Cape Verde overshadow Taylor Swift-Travis Kelce wedding",
-      "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as the round of 16 begins.",
-      "published": "2026-07-04T23:47:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49265379/world-cup-daily-live-cape-verde-overshadow-taylor-swift-travis-kelce-wedding-round-16-begins-canada-morocco-paraguay-france",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684605_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco",
-        "Cabo Verde",
-        "France"
-      ],
-      "players": [],
-      "score": 107
-    },
-    {
-      "id": "49027532",
-      "headline": "World Cup VAR review: Did France deserve penalty or was it a dive?",
-      "description": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
-      "published": "2026-07-04T23:36:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684592_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Paraguay"
-      ],
-      "players": [],
-      "score": 107
-    },
-    {
-      "id": "49264137",
-      "headline": "Kylian Mbappé guides France to World Cup quarterfinals, Paraguay eliminated",
-      "description": "Kylian Mbappé scored his 19th career World Cup goal, and France survived stifling heat to beat Paraguay 1-0 on Saturday, sending Les Bleus into the quarterfinals for the fourth straight time.",
-      "published": "2026-07-04T23:11:37Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/760503",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684590_594x334_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay",
-        "France"
-      ],
-      "players": [],
-      "score": 106
+      "score": 102
     }
   ]
 }
