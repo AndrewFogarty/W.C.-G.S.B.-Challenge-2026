@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-07-06T12:58:12.153Z",
+  "updated": "2026-07-06T23:40:33.169Z",
   "results": {
     "A": [
       [
@@ -336,7 +336,8 @@
       "France",
       "Morocco",
       "Norway",
-      "England"
+      "England",
+      "Spain"
     ],
     "SF": [],
     "FINAL": [],
@@ -1290,8 +1291,8 @@
       "s": "R16",
       "h": "Portugal",
       "a": "Spain",
-      "hg": null,
-      "ag": null,
+      "hg": 0,
+      "ag": 1,
       "v": "AT&T Stadium (Dallas, USA)"
     },
     {
