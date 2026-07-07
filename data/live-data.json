@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-07-07T10:40:59.805Z",
+  "updated": "2026-07-07T18:26:05.198Z",
   "results": {
     "A": [
       [
@@ -338,7 +338,8 @@
       "Norway",
       "England",
       "Spain",
-      "Belgium"
+      "Belgium",
+      "Argentina"
     ],
     "SF": [],
     "FINAL": [],
@@ -1314,8 +1315,8 @@
       "s": "R16",
       "h": "Argentina",
       "a": "Egypt",
-      "hg": null,
-      "ag": null,
+      "hg": 3,
+      "ag": 2,
       "v": "Mercedes-Benz Stadium (Atlanta, USA)"
     },
     {
@@ -1345,8 +1346,8 @@
       "d": "2026-07-10",
       "t": "12:00 UTC-7",
       "s": "QF",
-      "h": "W93",
-      "a": "W94",
+      "h": "Spain",
+      "a": "Belgium",
       "hg": null,
       "ag": null,
       "v": "SoFi Stadium (Los Angeles, USA)"
