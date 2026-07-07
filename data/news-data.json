@@ -1,14 +1,816 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-06T23:40:49.113Z",
+  "updated": "2026-07-07T10:41:15.589Z",
   "counts": {
-    "news": 24,
+    "news": 31,
+    "injury": 6,
+    "offfield": 1,
     "preview": 5,
-    "celebration": 6,
-    "injury": 3,
-    "offfield": 10
+    "celebration": 5
   },
   "items": [
+    {
+      "id": "49294310",
+      "headline": "Lorenzo: Colombia wil need 'tactical discipline' vs. Switzerland",
+      "description": "Lorenzo: Colombia wil need 'tactical discipline' vs. Switzerland",
+      "published": "2026-07-07T10:19:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/49294310/colombia-wil-need-tactical-discipline-vs-switzerland",
+      "image": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_COM_SOC_Presser_Lorenzo_Colombia_wil_need_tactical_discipline_vs_Switzerland_20260707_GLOBAL/dm_260707_COM_SOC_Presser_Lorenzo_Colombia_wil_need_tactical_discipline_vs_Switzerland_20260707_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Colombia",
+        "Switzerland"
+      ],
+      "players": [],
+      "score": 209
+    },
+    {
+      "id": "49294192",
+      "headline": "Mauricio Pochettino disappointed that politics overshadowed USA's World Cup",
+      "description": "Mauricio Pochettino as admitted his disappointment at the \"politics and manipulation\" which overshadowed the United States' World Cup exit following President Donald Trump's intervention.",
+      "published": "2026-07-07T10:13:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49294192/mauricio-pochettino-disappointed-politics-overshadowed-usa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685744_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 199
+    },
+    {
+      "id": "49294148",
+      "headline": "Bruno Fernandes: 'Portugal had quality to win Word Cup,' midfielder rues 'missed opportunity'",
+      "description": "Portugal will look back at this World Cup as a \"missed opportunity,\" Bruno Fernandes has said.",
+      "published": "2026-07-07T10:13:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49294148/bruno-fernandes-portugal-world-cup-2026-cristiano-ronaldo",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685743_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [],
+      "score": 189
+    },
+    {
+      "id": "49293140",
+      "headline": "World Cup Daily live: Messi fans troll Speed after Ronaldo exit; Argentina, Colombia in action",
+      "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as we figure out the last two teams to make the quarterfinals.",
+      "published": "2026-07-07T09:18:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49293140/world-cup-daily-live-messi-fans-troll-speed-ronaldo-exit-argentina-colombia-action",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685739_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Portugal",
+        "Colombia"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "score": 181
+    },
+    {
+      "id": "49293165",
+      "headline": "USMNT will look back at 2026 World Cup as a missed opportunity",
+      "description": "It all broke right for the U.S. this tournament: the draw, the injuries, the decisions. And yet America is once again coming to terms with a round-of-16 exit.",
+      "published": "2026-07-07T08:57:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49293165/usmnt-look-back-2026-world-cup-missed-opportunity",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685686_1296x729_16-9.jpg",
+      "byline": "Sam Borden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [],
+      "score": 181
+    },
+    {
+      "id": "49293889",
+      "headline": "Garcia: Belgium played with 'mastery and dedication' vs. USMNT",
+      "description": "Garcia: Belgium played with 'mastery and dedication' vs. USMNT",
+      "published": "2026-07-07T08:25:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/49293889/belgium-played-mastery-dedication-vs-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_Garcia_Belgium_played_with_mastery_and_dedication_vs_USMNT/dm_260707_Garcia_Belgium_played_with_mastery_and_dedication_vs_USMNT.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 157
+    },
+    {
+      "id": "49293834",
+      "headline": "Harry Kane: England must 'calm down' after emotionally draining Mexico victory",
+      "description": "Harry Kane said England will have to \"calm down\" after their emotionally draining win over Mexico at the Azteca Stadium.",
+      "published": "2026-07-07T08:24:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49293834/england-harry-kane-mexico-mexico-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685382_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 147
+    },
+    {
+      "id": "49294044",
+      "headline": "Tyler Adams: Balogun red card saga 'did not affect' USMNT in game vs. Belgium",
+      "description": "Tyler Adams: Balogun red card saga 'did not affect' USMNT in game vs. Belgium",
+      "published": "2026-07-07T09:09:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/49294044/balogun-red-card-saga-did-not-affect-usmnt-game-vs-belgium",
+      "image": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_Tyler_Adams_Balogun_red_card_saga_did_not_affect_USMNT_in_game_vs_Belgium/dm_260707_Tyler_Adams_Balogun_red_card_saga_did_not_affect_USMNT_in_game_vs_Belgium.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Belgium",
+        "USA"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49293102",
+      "headline": "USMNT dismisses Balogun noise in World Cup exit: 'Not an excuse'",
+      "description": "The U.S. men's national team crashed out of the World Cup on Tuesday in a 4-1 loss to Belgium, but players denied that the whirlwind surrounding Folarin Balogun's reversed suspension was a distraction.",
+      "published": "2026-07-07T05:58:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49293102/usmnt-dismisses-balogun-noise-2026-fifa-world-cup-exit",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685718_1296x729_16-9.jpg",
+      "byline": "Sam Borden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [
+        "Tim Ream",
+        "Tyler Adams"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49291866",
+      "headline": "Injured Pulisic 'disappointed in myself' as World Cup ends",
+      "description": "Christian Pulisic was forced off with an ankle injury in the second half of the United States' World Cup round of 16 loss  against Belgium.",
+      "published": "2026-07-07T05:16:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685659_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [
+        "Christian Pulisic"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49291529",
+      "headline": "USMNT's World Cup dream crushed by Belgium in round of 16",
+      "description": "Even with Folarin Balogun back up front, the United States men's national team crashed out of the World Cup in the round of 16 again.",
+      "published": "2026-07-07T05:21:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685672_1296x729_16-9.jpg",
+      "byline": "Sam Borden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [],
+      "score": 136
+    },
+    {
+      "id": "49293733",
+      "headline": "Scaloni: Argentina 'will give everything' in Egypt clash",
+      "description": "Scaloni: Argentina 'will give everything' in Egypt clash",
+      "published": "2026-07-07T07:24:59Z",
+      "url": "https://www.espn.com/video/clip/_/id/49293733/argentina-give-everything-egypt-clash",
+      "image": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_Scaloni_Argentina_will_give_everything_in_Egypt_clash/dm_260707_Scaloni_Argentina_will_give_everything_in_Egypt_clash.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Egypt"
+      ],
+      "players": [],
+      "score": 134
+    },
+    {
+      "id": "49294332",
+      "headline": "Ex-Chelsea boss Liam Rosenior named Paris FC head coach",
+      "description": "Former Chelsea manager Liam Rosenior has been named as the new head coach of Ligue 1 side Paris FC.",
+      "published": "2026-07-07T10:39:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49294332/liam-rosenior-chelsea-paris-fc",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685747_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49264242",
+      "headline": "USMNT dumped out of World Cup as Belgium hit four in Seattle",
+      "description": "The United States' hopes for a deep World Cup run at home ended when Charles De Ketelaere scored twice and assisted on another goal, helping Belgium expose the Americans' defensive liabilities in a 4-1 win Monday night that earned a quarterfinal berth.",
+      "published": "2026-07-07T03:20:43Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/760507",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685679_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [],
+      "score": 133
+    },
+    {
+      "id": "49284373",
+      "headline": "World Cup Daily live: Spain knock out Portugal; Kane loses voice; USMNT prepares for Belgium",
+      "description": "Enjoy all the features, news, video analysis and color from around the World Cup as Portugal face Spain and the USMNT takes on Belgium.",
+      "published": "2026-07-07T02:28:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49284373/world-cup-daily-live-usmnt-belgium-spain-portugal-cristiano-ronaldo-round-16",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685538_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA",
+        "Belgium",
+        "Spain",
+        "Portugal"
+      ],
+      "players": [],
+      "score": 132
+    },
+    {
+      "id": "49291613",
+      "headline": "Gotham FC moving to 'world-class' Etihad Park, home of NYCFC",
+      "description": "Gotham FC will play home games at Etihad Park in Queens, New York, beginning in 2028, putting the reigning NWSL champions inside New York City limits for the first time.",
+      "published": "2026-07-07T09:15:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49291613/gotham-fc-moving-etihad-park-home-nycfc",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685643_1296x729_16-9.png",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "48964271",
+      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
+      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
+      "published": "2026-07-07T07:25:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
+      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 131
+    },
+    {
+      "id": "49292862",
+      "headline": "Neymar was Ancelotti's gamble at the World Cup, and it failed",
+      "description": "Carlo Ancelotti calling up Neymar to Brazil's World Cup squad was always a risk, and it backfired badly when they got eliminated to Norway in the round of 16.",
+      "published": "2026-07-07T07:05:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49292862/neymar-was-ancelottis-gamble-world-cup-failed",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685711_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "players": [
+        "Neymar"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49282960",
+      "headline": "World Cup recap: Belgium strikes four past U.S. as co-host bows out in last 16",
+      "description": "Enjoy all that happened from Monday's 2026 World Cup round-of-16 match as Belgium defeated the United States 4-1.",
+      "published": "2026-07-07T03:35:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49282960/world-cup-live-updates-united-states-takes-belgium-last-16",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685620_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [],
+      "score": 128
+    },
+    {
+      "id": "49291209",
+      "headline": "MVP Rodri shines vs. Portugal, seeks more from Spain in QFs",
+      "description": "Spain midfielder Rodri was named the best player in his team's 1-0 victory over Portugal but warned they still have \"room for improvement\" ahead of the World Cup quarterfinals",
+      "published": "2026-07-07T00:23:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49291209/mvp-rodri-shines-vs-portugal-seeks-more-spain-world-cup-quarterfinals",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685609_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain",
+        "Portugal"
+      ],
+      "players": [
+        "Rodri"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49290967",
+      "headline": "Switzerland fear 'huge issue' as Manzambi, 2 others leave training",
+      "description": "Johan Manzambi, the breakout star for Switzerland at the World Cup, left training early on Monday ahead of Tuesday's round of 16 match against Colombia.",
+      "published": "2026-07-07T00:11:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49290967/switzerland-johan-manzambi-injury-colombia-2006-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685611_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Switzerland",
+        "Colombia"
+      ],
+      "players": [
+        "Johan Manzambi",
+        "Rubén Vargas",
+        "Djibril Sow"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49289290",
+      "headline": "Folarin Balogun named in starting XI for U.S. vs. Belgium",
+      "description": "Mauricio Pochettino put Folarin Balogun in the starting lineup for the United States in its round-of-16 match with Belgium in the FIFA World Cup on Monday in Seattle.",
+      "published": "2026-07-07T00:05:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49289290/folarin-balogun-named-starting-xi-us-vs-belgium",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672212_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 126
+    },
+    {
+      "id": "48939282",
+      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
+      "published": "2026-07-07T07:32:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico",
+        "Canada",
+        "USA"
+      ],
+      "players": [],
+      "score": 125
+    },
+    {
+      "id": "49293650",
+      "headline": "Pochettino: USA were not good enough vs. Belgium",
+      "description": "Pochettino: USA were not good enough vs. Belgium",
+      "published": "2026-07-07T06:48:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/49293650/usa-were-not-good-enough-vs-belgium",
+      "image": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_COM_SOC_Presser_Pochettino_USA_were_not_good_enough_vs_Belgium_20260707_GLOBAL_FIFA_WORLD_CUP/dm_260707_COM_SOC_Presser_Pochettino_USA_were_not_good_enough_vs_Belgium_20260707_GLOBAL_FIFA_WORLD_CUP.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49291738",
+      "headline": "USMNT player ratings: Pulisic & Co. struggle in World Cup exit",
+      "description": "This USMNT was supposed to be special, but terrible performances throughout the U.S. roster led to a bitter World Cup exit in the round of 16.",
+      "published": "2026-07-07T04:38:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685681_1296x729_16-9.jpg",
+      "byline": "Ryan Clark",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Christian Pulisic",
+        "Sergiño Dest"
+      ],
+      "score": 124
+    },
+    {
+      "id": "48904188",
+      "headline": "USMNT at the World Cup: All-time USA soccer results, stats",
+      "description": "Take a look at the U.S. men national team's performance throughout the tournament's history.",
+      "published": "2026-07-07T02:08:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48904188/usmnt-world-cup-all-results-stats",
+      "image": "https://a.espncdn.com/photo/2024/1119/r1416737_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49290017",
+      "headline": "Cristiano Ronaldo exits final World Cup with 'clear conscience'",
+      "description": "An emotional Cristiano Ronaldo said he had a \"clear conscience\" as he exited his final World Cup as Portugal were eliminated 1-0 by Spain in the round of 16 in Arlington, Texas, on Monday.",
+      "published": "2026-07-06T23:45:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49290017/cristiano-ronaldo-portugal-spain-last-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685550_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Portugal",
+        "Spain"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49291935",
+      "headline": "Brussels goes wild as Belgium retakes the lead in under two minutes",
+      "description": "",
+      "published": "2026-07-07T01:40:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49291935/brussels-goes-wild-belgium-retakes-lead-two-minutes",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_NEWS_Brussels_goes_wild_as_Belgium_retakes_the_lead_in_under_two_minutes_2026_7_6/dm_260706_COM_SOC_NEWS_Brussels_goes_wild_as_Belgium_retakes_the_lead_in_under_two_minutes_2026_7_6.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "49292813",
+      "headline": "Mauricio Pochettino mum on USMNT future, tells fans to keep faith",
+      "description": "Mauricio Pochettino would not offer an indication about whether he wants to remain as coach of the United States men's national team following the Americans' exit from the World Cup here on Monday.",
+      "published": "2026-07-07T05:19:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49292813/mauricio-pochettino-usa-coach-future-2026-world-cup-belgium",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685713_1296x729_16-9.jpg",
+      "byline": "Sam Borden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 122
+    },
+    {
+      "id": "49291453",
+      "headline": "Belgium fans in Brussels celebrate electric start vs. USA",
+      "description": "",
+      "published": "2026-07-07T00:43:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/49291453/belgium-fans-brussels-celebrate-electric-start-vs-usa",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_NEWS_Belgium_fans_in_Brussels_celebrate_electric_start_vs_USA_2026_7_5/dm_260706_COM_SOC_NEWS_Belgium_fans_in_Brussels_celebrate_electric_start_vs_USA_2026_7_5.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 122
+    },
+    {
+      "id": "48945011",
+      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
+      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
+      "published": "2026-07-07T07:24:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 121
+    },
+    {
+      "id": "48945570",
+      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
+      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
+      "published": "2026-07-07T07:23:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 121
+    },
+    {
+      "id": "49292936",
+      "headline": "Why Spain's substitutes were so important vs. Portugal",
+      "description": "Alex Kirkland reacts to Spain's late 1-0 win over Portugal to advance to the quarterfinals.",
+      "published": "2026-07-07T04:45:29Z",
+      "url": "https://www.espn.com/video/clip/_/id/49292936/why-spain-substitutes-were-important-vs-portugal",
+      "image": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_SPAIN_WC_REAX_16x9_SC4U/dm_260707_SPAIN_WC_REAX_16x9_SC4U.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Portugal"
+      ],
+      "players": [],
+      "score": 121
+    },
+    {
+      "id": "49292810",
+      "headline": "Belgium seemingly reference Balogun, troll U.S. after round-of-16 win",
+      "description": "Belgium defeated the USMNT 4-1 in the 2026 World Cup round-of-16 match Monday night -- and poked fun at the U.S. afterward.",
+      "published": "2026-07-07T04:25:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49292810/belgium-trolls-united-states-2026-world-cup-victory-round-16",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685708_608x342_16-9.jpg",
+      "byline": "Anthony Gharib",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [],
+      "score": 121
+    },
+    {
+      "id": "49291137",
+      "headline": "Belgium handed the United States a FIFA World Cup reality check",
+      "description": "The United States' World Cup dream went up in smoke Monday, comprehensively dismantled 4-1 by Belgium in a display that will linger long in the memory.",
+      "published": "2026-07-07T04:16:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49291137/belgium-handed-united-states-fifa-world-cup-reality-check",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685642_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "players": [],
+      "score": 120
+    },
+    {
+      "id": "49292707",
+      "headline": "Martinez confirms Portugal resignation",
+      "description": "",
+      "published": "2026-07-07T03:42:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49292707/martinez-confirms-portugal-resignation",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_PRESSER_Martinez_confirms_Portugal_resignation_2026_7_6/dm_260706_COM_SOC_PRESSER_Martinez_confirms_Portugal_resignation_2026_7_6.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal",
+        "Spain"
+      ],
+      "players": [],
+      "score": 120
+    },
+    {
+      "id": "49292145",
+      "headline": "Portugal's World Cup run ends",
+      "description": "Bill Connelly breaks down Portugal's 1-0 loss to Spain and Roberto Martínez's decision to play Cristiano Ronaldo the full 90.",
+      "published": "2026-07-07T02:05:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/49292145/portugal-world-cup-run-ends",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_portugal_ia/dm_260706_portugal_ia.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal",
+        "Spain"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 120
+    },
+    {
+      "id": "49292499",
+      "headline": "Jones: USMNT didn't live up to hype",
+      "description": "",
+      "published": "2026-07-07T03:37:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49292499/usmnt-live-hype",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_ANALYSIS_Jones_USMNT_didnt_live_up_to_hype_2026_7_6/dm_260706_COM_SOC_ANALYSIS_Jones_USMNT_didnt_live_up_to_hype_2026_7_6.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 119
+    },
+    {
+      "id": "49290125",
+      "headline": "Burley: Portugal were never winning World Cup with Ronaldo up front",
+      "description": "",
+      "published": "2026-07-07T03:37:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49290125/portugal-were-never-winning-world-cup-ronaldo-front",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_ANALYSIS_Burley_Portugal_were_never_winning_World_Cup_with_Ronaldo_up_front_2026_7_6/dm_260706_COM_SOC_ANALYSIS_Burley_Portugal_were_never_winning_World_Cup_with_Ronaldo_up_front_2026_7_6.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal",
+        "Spain"
+      ],
+      "players": [],
+      "score": 119
+    },
+    {
+      "id": "49292695",
+      "headline": "What's next for Pochettino and the USMNT?",
+      "description": "",
+      "published": "2026-07-07T03:36:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/49292695/next-pochettino-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_ANALYSIS_Whats_next_for_Pochettino_and_the_USMNT_2026_7_6/dm_260706_COM_SOC_ANALYSIS_Whats_next_for_Pochettino_and_the_USMNT_2026_7_6.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 119
+    },
+    {
+      "id": "49292304",
+      "headline": "Gomez: The USMNT picked a bad time to have a bad game",
+      "description": "Gomez: The USMNT picked a bad time to have a bad game",
+      "published": "2026-07-07T02:27:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/49292304/usmnt-picked-bad-bad-game",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/ss_20260706_222057683_3586671/ss_20260706_222057683_3586671.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 118
+    },
+    {
+      "id": "48956258",
+      "headline": "Cristiano Ronaldo at the World Cup: History, results, stats",
+      "description": "Cristiano Ronaldo made his sixth FIFA World Cup tournament with Portugal. Revisit his World Cup history, including results, goals and assists.",
+      "published": "2026-07-06T21:59:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48956258/cristiano-ronaldo-world-cup-history-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0603/r1667633_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [],
+      "score": 118
+    },
+    {
+      "id": "49292279",
+      "headline": "Freese's horror mistake seals USA's loss to Belgium",
+      "description": "A shocking error from USA goalkeeper Matt Freese paves the way for Belgium's third goal en route to a 4-1 win in Seattle.",
+      "published": "2026-07-07T02:18:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/49292279/freese-horror-mistake-seals-usa-loss-belgium",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/Int_260706_Soccer_HIGHLIGHT_Freeses_horror_mistake_seals_USAs_loss_to_Belgium_202677_AUS/Int_260706_Soccer_HIGHLIGHT_Freeses_horror_mistake_seals_USAs_loss_to_Belgium_202677_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 117
+    },
+    {
+      "id": "49292015",
+      "headline": "USA fans in disbelief after Freese mistake gifts Belgium a third goal",
+      "description": "",
+      "published": "2026-07-07T01:51:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/49292015/usa-fans-disbelief-freese-mistake-gifts-belgium-third-goal",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_NEWS_COM_SOC_NEWS_USA_fans_in_disbelief_after_Freese_mistake_gifts_Belgium_a_third_goal_2/dm_260706_COM_SOC_NEWS_COM_SOC_NEWS_USA_fans_in_disbelief_after_Freese_mistake_gifts_Belgium_a_third_goal_2.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 117
+    },
+    {
+      "id": "49289909",
+      "headline": "Ronaldo's World Cup career ends with a whimper as Spain's subs win it late",
+      "description": "Spain's late winner knocked out Portugal and closed the book on Cristiano Ronaldo's time on the world's biggest stage.",
+      "published": "2026-07-07T00:16:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49289909/cristiano-ronaldo-portugal-world-cup-career-ends-whimper-spain-subs-win-late",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685545_1296x729_16-9.jpg",
+      "byline": "Bill Connelly and Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 117
+    },
+    {
+      "id": "49291609",
+      "headline": "De Ketelaere's first-half double puts Belgium ahead vs. USA",
+      "description": "Belgium go up 1-0 in the ninth minute before Malik Tillman's deflected strike levels scores, only for Charles De Ketelaere to reclaim their lead minutes later.",
+      "published": "2026-07-07T01:07:56Z",
+      "url": "https://www.espn.com/video/clip/_/id/49291609/de-ketelaere-first-half-double-puts-belgium-ahead-vs-usa",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/Int_260706_Soccer_HIGHLIGHT_De_Ketelaeres_first_half_double_puts_Belgium_ahead_vs_USA_202677_AUS/Int_260706_Soccer_HIGHLIGHT_De_Ketelaeres_first_half_double_puts_Belgium_ahead_vs_USA_202677_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [],
+      "score": 116
+    },
     {
       "id": "49290833",
       "headline": "Ronaldo compares Euro 2016 win to a World Cup after Portugal eliminated",
@@ -25,975 +827,24 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 213
+      "score": 116
     },
     {
-      "id": "49282960",
-      "headline": "World Cup live updates: United States takes on Belgium in last 16",
-      "description": "Enjoy all the updates from Monday's 2026 World Cup round-of-16 match between the United States and Belgium.",
-      "published": "2026-07-06T23:31:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49282960/world-cup-live-updates-united-states-takes-belgium-last-16",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685144_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 209
-    },
-    {
-      "id": "49289909",
-      "headline": "Ronaldo's World Cup career ends with a whimper as Spain's subs win it late",
-      "description": "Spain's late winner knocked out Portugal and closed the book on Cristiano Ronaldo's time on the world's biggest stage.",
-      "published": "2026-07-06T23:23:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49289909/cristiano-ronaldo-portugal-world-cup-career-ends-whimper-spain-subs-win-late",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685545_1296x729_16-9.jpg",
-      "byline": "Bill Connelly and Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 193
-    },
-    {
-      "id": "49290017",
-      "headline": "Cristiano Ronaldo exits final World Cup with 'clear conscience'",
-      "description": "An emotional Cristiano Ronaldo said he had a \"clear conscience\" as he exited his final World Cup as Portugal were eliminated 1-0 by Spain in the round of 16 in Arlington, Texas, on Monday.",
-      "published": "2026-07-06T23:21:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49290017/cristiano-ronaldo-portugal-spain-last-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685550_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Portugal",
-        "Spain"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 190
-    },
-    {
-      "id": "49289290",
-      "headline": "Folarin Balogun named in starting XI for U.S. vs. Belgium",
-      "description": "Mauricio Pochettino put Folarin Balogun in the starting lineup for the United States in its round-of-16 match with Belgium in the FIFA World Cup on Monday in Seattle.",
-      "published": "2026-07-06T23:30:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49289290/folarin-balogun-named-starting-xi-us-vs-belgium",
-      "image": "https://a.espncdn.com/photo/2026/0613/r1672212_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 172
-    },
-    {
-      "id": "49290322",
-      "headline": "Roberto Martinez steps down, says Portugal 'didn't fail'",
-      "description": "Roberto Martinez confirmed that he is leaving his job as Portugal coach after Monday's 1-0 World Cup round-of-16 defeat to Spain, while denying that the result was \"a failure.\"",
-      "published": "2026-07-06T23:11:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49290322/roberto-martinez-steps-says-portugal-fail",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685571_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal",
-        "Spain"
-      ],
-      "players": [],
-      "score": 169
-    },
-    {
-      "id": "49284373",
-      "headline": "World Cup Daily live: Spain knock out Portugal; Kane loses voice; USMNT prepares for Belgium",
-      "description": "Enjoy all the features, news, video analysis and color from around the World Cup as Portugal face Spain and the USMNT take on Belgium.",
-      "published": "2026-07-06T22:33:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49284373/world-cup-daily-live-usmnt-belgium-spain-portugal-cristiano-ronaldo-round-16",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685538_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "USA",
-        "Belgium",
-        "Spain",
-        "Portugal"
-      ],
-      "players": [],
-      "score": 162
-    },
-    {
-      "id": "49284362",
-      "headline": "Transfer rumors, news: Man United eye move for Chelsea's Santos",
-      "description": "Manchester United are looking to strengthen their midfield by signing Andrey Santos from Chelsea. Transfer Talk has the latest.",
-      "published": "2026-07-06T23:25:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49284362/transfer-rumors-news-arsenal-eye-wan-bissaka-white-replacement",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685572_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Andrey Santos",
-        "Lamine Yamal"
-      ],
-      "score": 145
-    },
-    {
-      "id": "48956258",
-      "headline": "Cristiano Ronaldo at the World Cup: History, results, stats",
-      "description": "Cristiano Ronaldo made his sixth FIFA World Cup tournament with Portugal. Revisit his World Cup history, including results, goals and assists.",
-      "published": "2026-07-06T21:59:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48956258/cristiano-ronaldo-world-cup-history-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0603/r1667633_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [],
-      "score": 144
-    },
-    {
-      "id": "49289653",
-      "headline": "France appeal to FIFA over controversial Michael Olise yellow card vs. Paraguay - sources",
-      "description": "France's football federation has appealed to FIFA to get the yellow card shown to Michael Olise during the team's win over Paraguay rescinded, sources told ESPN.",
-      "published": "2026-07-06T22:35:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49289653/france-appeals-fifa-controversial-michael-olise-yellow-card-vs-paraguay",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685521_1296x729_16-9.jpg",
-      "byline": "Julien Laurens",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "France",
-        "Paraguay"
-      ],
-      "players": [
-        "Michael Olise"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49264217",
-      "headline": "Cristiano Ronaldo's World Cup career ends as Spain beat Portugal",
-      "description": "Cristiano Ronaldo's World Cup dream ended in tears as Mikel Merino stepped off the bench to fire Spain into the quarterfinals with an injury-time winner in Dallas.",
-      "published": "2026-07-06T21:31:50Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/760506",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685471_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Portugal",
-        "Spain"
-      ],
-      "players": [],
-      "score": 141
-    },
-    {
-      "id": "49152393",
-      "headline": "World Cup 2026: Which teams have been eliminated?",
-      "description": "The biggest World Cup in history featuring 48 teams is shrinking fast. Which nations have been condemned to elimination?",
-      "published": "2026-07-06T23:07:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49152393/world-cup-2026-which-teams-eliminated",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685550_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain",
-        "Tunisia",
-        "Haiti",
-        "Jordan",
-        "Panama",
-        "Qatar",
-        "Czechia",
-        "Curaçao",
-        "Iraq",
-        "Uruguay",
-        "Saudi Arabia",
-        "New Zealand",
-        "Scotland",
-        "Uzbekistan",
-        "Korea Republic",
-        "IR Iran"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49284889",
-      "headline": "UEFA says FIFA 'crossed a red line' with Folarin Balogun red-card-ban U-turn",
-      "description": "UEFA have strongly criticized FIFA's decision to suspend USMNT striker Folarin Balogun's red card, thus allowing the United States striker to be available for the World Cup round-of-16 match against Belgium.",
-      "published": "2026-07-06T21:59:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49284889/uefa-fifa-folarin-balogun-red-card-ban-overturned-usmnt",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685212_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 139
-    },
-    {
-      "id": "49287344",
-      "headline": "FIFA reject Belgium request; Balogun still clear to play vs. Belgium",
-      "description": "FIFA has ruled a request from the Belgium federation for an explanation of Folarin Balogun's suspended red card as \"inadmissible,\" meaning it has no grounds to appeal the decision and the U.S. forward remains cleared to play against Belgium on Monday.",
-      "published": "2026-07-06T21:52:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49287344/fifa-reject-belgium-request-balogun-clear-play-belgium",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683107_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Belgium",
-        "USA"
-      ],
-      "players": [],
-      "score": 139
-    },
-    {
-      "id": "49286603",
-      "headline": "President Donald Trump confirms he asked FIFA to review Balogun red card",
-      "description": "President Donald Trump said Monday he called FIFA president Gianni Infantino to review the red card given to USMNT striker Folarin Balogun in the team's match against Bosnia-Herzegovina, calling it a \"horrible\" call.",
-      "published": "2026-07-06T21:51:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49286603/us-president-donald-trump-confirms-asked-fifa-review-balogun-red-card",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683113_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Belgium",
-        "Bosnia"
-      ],
-      "players": [],
-      "score": 139
-    },
-    {
-      "id": "49288775",
-      "headline": "FA considering appeal Jarell Quansah's red card in England win over Mexico",
-      "description": "The Football Association are considering whether to appeal Jarell Quansah's red card against Mexico, sources have told ESPN.",
-      "published": "2026-07-06T19:55:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49288775/fa-considering-appeal-jarell-quansah-red-card-england-win-mexico",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685486_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [
-        "Jarell Quansah"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49285549",
-      "headline": "England's Jordan Henderson out of World Cup with suspected broken arm - sources",
-      "description": "Jordan Henderson is expected to be ruled out for the rest of the World Cup after suffering a suspected broken bone in celebrating England's 3-2 win over Mexico, sources have told ESPN.",
-      "published": "2026-07-06T17:52:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49285549/england-jordan-henderson-world-cup-suspected-broken-arm-sources",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685408_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "England",
-        "Mexico",
-        "Jordan"
-      ],
-      "players": [
-        "Jordan Henderson"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49072408",
-      "headline": "Group H at the 2026 World Cup: Teams, records, stats to know",
-      "description": "Group H at the 2026 World Cup features Spain, Cape Verde, Saudi Arabia and Uruguay. Find out more about their history at the World Cup.",
-      "published": "2026-07-06T21:17:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49072408/group-h-2026-world-cup-teams-records-stats-know-spain-cape-verde-uruguay-saudi-arabia",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673599_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Portugal",
-        "Spain",
-        "Saudi Arabia",
-        "Cabo Verde",
-        "Uruguay"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 136
-    },
-    {
-      "id": "49095589",
-      "headline": "Group K at the 2026 World Cup: Teams, records, stats to know",
-      "description": "Group K at the 2026 World Cup features Portugal, DR Congo, Uzbekistan and Colombia. Find out more about their history at the World Cup.",
-      "published": "2026-07-06T21:17:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49095589/group-k-2026-world-cup-teams-records-stats-know-portugal-dr-congo-uzbekistan-colombia",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674875_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Portugal",
-        "DR Congo",
-        "Uzbekistan",
-        "Colombia"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 136
-    },
-    {
-      "id": "49073399",
-      "headline": "Spain at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the Spain men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-06T21:16:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49073399/spain-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673639_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 136
-    },
-    {
-      "id": "49287887",
-      "headline": "Trump: I asked FIFA to review Balogun red card",
-      "description": "Trump: I asked FIFA to review Balogun red card",
-      "published": "2026-07-06T18:31:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49287887/asked-fifa-review-balogun-red-card",
-      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_Trump_I_asked_FIFA_to_review_Balogun_red_card/dm_260706_Trump_I_asked_FIFA_to_review_Balogun_red_card.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Belgium",
-        "USA"
-      ],
-      "players": [],
-      "score": 134
-    },
-    {
-      "id": "49286368",
-      "headline": "World Cup: USA odds shorten versus Belgium after Balogun red card reprieve",
-      "description": "Team USA's leading scorer Folarin Balogun's return to the lineup has shortened already-favorited USA's odds to advance.",
-      "published": "2026-07-06T15:22:02Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49286368/world-cup-usa-belgium-odds-balogun-red-card",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683295_576x324_16-9.jpg",
-      "byline": "David Purdum",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49117037",
-      "headline": "2026 World Cup Golden Boot tracker: Will Messi, Mbappe, or other score most goals?",
-      "description": "We're into the round of 32 at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
-      "published": "2026-07-06T17:05:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1676221_1296x729_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Argentina",
-        "France",
-        "Norway",
-        "USA"
-      ],
-      "players": [
-        "Harry Kane",
-        "Lionel Messi",
-        "Kylian Mbappé",
-        "Erling Haaland",
-        "Folarin Balogun"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49286007",
-      "headline": "Belgium want FIFA to explain Balogun reversal, challenge USMNT striker's eligibility",
-      "description": "The Belgian soccer federation wants an explanation from FIFA about a decision to let United States forward Folarin Balogun play at the World Cup despite getting a red card in his previous game.",
-      "published": "2026-07-06T16:37:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49286007/belgium-ask-fifa-explain-balogun-reversal-challenge-usmnt-strikers-eligibility",
-      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_FIFAs_Balogun_suspension_decision_has_caused_uproar/dm_260706_FIFAs_Balogun_suspension_decision_has_caused_uproar.jpg",
-      "byline": "Rob Dawson",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Belgium",
-        "USA"
-      ],
-      "players": [],
-      "score": 131
-    },
-    {
-      "id": "49290215",
-      "headline": "Spain advance after Mikel Merino's 91st-minute match-winner",
-      "description": "Cristiano Ronaldo bids farewell to the international stage after Portugal fell 1-0 to Spain in Dallas.",
-      "published": "2026-07-06T21:54:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49290215/spain-advance-mikel-merino-91st-minute-match-winner",
-      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_Soccer_HIGHLIGHT_Spain_advance_after_Mikel_Merinos_91st_minute_match_winner_20260707_AUS/dm_260706_Soccer_HIGHLIGHT_Spain_advance_after_Mikel_Merinos_91st_minute_match_winner_20260707_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal",
-        "Spain"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Mikel Merino"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49289485",
-      "headline": "Harry Kane jokes his 'voice is back' after 'all-timer of an interview' at World Cup",
-      "description": "England captain Harry Kane has made clear that his \"voice is back,\" after sounding worse for wear in his media duties following his side's stunning 3-2 World Cup win over Mexico.",
-      "published": "2026-07-06T21:52:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49289485/harry-kane-england-mexico-voice-back-world-cup-reaction",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685153_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49288829",
-      "headline": "Spain beat Portugal as Ronaldo's World Cup career comes to end",
-      "description": "Mikel Merino scored a late goal to send Spain past Portugal in the round of 16 on Monday and into a FIFA World Cup quarterfinal for the first time since they won it all in 2010.",
-      "published": "2026-07-06T23:03:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49288829/spain-beat-portugal-world-cup-quarters-2010",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685556_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Portugal"
-      ],
-      "players": [],
-      "score": 129
-    },
-    {
-      "id": "49288802",
-      "headline": "Dan Burn's towering clearances against Mexico epitomise Thomas Tuchel's World Cup masterplan",
-      "description": "ESPN's Tom Hamilton doffs the cap to Dan Burn, whose mighty defending encapsulates England's mentality under Thomas Tuchel.",
-      "published": "2026-07-06T20:48:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49288802/dan-burn-world-cup-towering-blocks-headed-clearances-other-half-epitomise-england-specialists",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685517_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [
-        "Dan Burn"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49289684",
-      "headline": "England's Burn: I'll never forget the win over Mexico",
-      "description": "England's Burn: I'll never forget the win over Mexico",
-      "published": "2026-07-06T20:47:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/49289684/never-forget-win-mexico",
-      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_Englands_Burn_Ill_never_forget_the_win_over_Mexico/dm_260706_Englands_Burn_Ill_never_forget_the_win_over_Mexico.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [
-        "Dan Burn"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49290125",
-      "headline": "Burley: Portugal were never winning World Cup with Ronaldo up front",
+      "id": "49291524",
+      "headline": "Kansas City erupts after Tillman's equalizer",
       "description": "",
-      "published": "2026-07-06T21:43:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/49290125/portugal-were-never-winning-world-cup-ronaldo-front",
-      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_ANALYSIS_Burley_Portugal_were_never_winning_World_Cup_with_Ronaldo_up_front_2026_7_6/dm_260706_COM_SOC_ANALYSIS_Burley_Portugal_were_never_winning_World_Cup_with_Ronaldo_up_front_2026_7_6.jpg",
+      "published": "2026-07-07T00:51:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/49291524/kansas-city-erupts-tillman-equalizer",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_NEWS_Kansas_City_erupts_after_Tillmans_equalizer_2026_7_6/dm_260706_COM_SOC_NEWS_Kansas_City_erupts_after_Tillmans_equalizer_2026_7_6.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Portugal",
-        "Spain"
-      ],
-      "players": [],
-      "score": 127
-    },
-    {
-      "id": "49178425",
-      "headline": "World Cup: Grades for every eliminated team as they exit the tournament",
-      "description": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how their run compared with expectations.",
-      "published": "2026-07-06T21:36:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1685061_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Czechia",
-        "Qatar",
-        "Haiti",
-        "Curaçao",
-        "Tunisia",
-        "Jordan",
-        "Panama",
-        "Uruguay",
-        "Saudi Arabia",
-        "New Zealand",
-        "Iraq",
-        "IR Iran",
-        "Scotland",
-        "Uzbekistan",
-        "Korea Republic",
-        "South Africa",
-        "Netherlands",
-        "Germany",
-        "Japan",
-        "Algeria",
-        "Croatia",
-        "Austria",
-        "Cabo Verde",
-        "Australia",
-        "Ghana",
-        "Brazil",
-        "Mexico"
-      ],
-      "players": [],
-      "score": 127
-    },
-    {
-      "id": "49290065",
-      "headline": "Was Martinez wrong not to sub Ronaldo vs. Spain?",
-      "description": "",
-      "published": "2026-07-06T21:35:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/49290065/was-martinez-wrong-not-sub-ronaldo-vs-spain",
-      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_ANALYSIS_Was_Martinez_wrong_not_to_sub_Ronaldo_vs_Spain_2026_7_6/dm_260706_COM_SOC_ANALYSIS_Was_Martinez_wrong_not_to_sub_Ronaldo_vs_Spain_2026_7_6.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal",
-        "Spain"
-      ],
-      "players": [],
-      "score": 127
-    },
-    {
-      "id": "49247825",
-      "headline": "2026 World Cup: How to bet on U.S. vs. Belgium",
-      "description": "Looking to place some World Cup bets? Here's what our experts are considering ahead of the USMNT's round-of-16 game.",
-      "published": "2026-07-06T15:52:05Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49247825/2026-world-cup-how-bet-usa-belgium-round-16-best-picks-odds-props",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685325_576x324_16-9.jpg",
-      "byline": "Liz Loza and Victoria Matiash",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 127
-    },
-    {
-      "id": "49289948",
-      "headline": "Portuguese heartbreak in Lisbon as Merino scores winner for Spain",
-      "description": "Portuguese heartbreak in Lisbon as Merino scores winner for Spain",
-      "published": "2026-07-06T21:18:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49289948/portuguese-heartbreak-lisbon-merino-scores-winner-spain",
-      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_Analysis_Portuguese_heartbreak_in_Lisbon_as_Merino_scores_winner_for_Spain_GLOBAL_2026-07-/dm_260706_COM_SOC_Analysis_Portuguese_heartbreak_in_Lisbon_as_Merino_scores_winner_for_Spain_GLOBAL_2026-07-.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal",
-        "Spain"
-      ],
-      "players": [],
-      "score": 126
-    },
-    {
-      "id": "49289906",
-      "headline": "Madness in Madrid as Spain score a late winner vs. Portugal",
-      "description": "Madness in Madrid as Spain score a late winner vs. Portugal",
-      "published": "2026-07-06T21:08:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/49289906/madness-madrid-spain-score-late-winner-vs-portugal",
-      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_Madness_in_Madrid_as_Spain_score_a_late_winner_vs_Portugal/dm_260706_Madness_in_Madrid_as_Spain_score_a_late_winner_vs_Portugal.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Portugal"
-      ],
-      "players": [],
-      "score": 126
-    },
-    {
-      "id": "49287890",
-      "headline": "Ex-USMNT kit man's side hustle is gifting Balogun & Co. custom Nike Air Max 90s",
-      "description": "Players often get swag on international duty, but the U.S.'s former kit man and his wife had something special for the Americans' Nike athletes.",
-      "published": "2026-07-06T20:06:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49287890/ex-usmnt-kit-man-side-hustle-gifting-folarin-balogun-co-custom-nike-air-max-90s-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685415_1296x729_16-9.jpg",
-      "byline": "Sam Borden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 125
-    },
-    {
-      "id": "49287087",
-      "headline": "Bellingham, Yamal, Messi unveil World Cup final match ball",
-      "description": "In a move that is in no way tempting fate, Lionel Messi, Jude Bellingham and Lamine Yamal have all posed with the new-look World Cup final match ball.",
-      "published": "2026-07-06T18:05:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49287087/world-cup-final-adidas-trionda-match-ball-argentina-lionel-messi-england-jude-bellingham-spain-lamine-yamal",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685358_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "Spain"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Jude Bellingham",
-        "Lamine Yamal"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49089105",
-      "headline": "2026 World Cup: Jalen Brunson, Jay Z headline celebrities",
-      "description": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "published": "2026-07-06T20:31:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684966_608x342_16-9.jpg",
-      "byline": "ESPN staff",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Marshawn Lynch",
-        "Trinity Rodman",
-        "Zach LaVine",
-        "Patrick Mahomes"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49284562",
-      "headline": "Sepp Blatter on Folarin Balogun ban reversal: 'Red cards are not overturned by political phone calls'",
-      "description": "FIFA has been accused of overturning United States striker Folarin Balogun's red card based on \"political phone calls\" by its former president Sepp Blatter.",
-      "published": "2026-07-06T11:35:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49284562/world-cup-sepp-blatter-folarin-balogun-ban-reversal-red-cards-not-overturned-political-phone-calls",
-      "image": "https://a.espncdn.com/photo/2026/0127/r1606125_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Mexico",
-        "USA"
-      ],
-      "players": [],
-      "score": 124
-    },
-    {
-      "id": "49288020",
-      "headline": "Giuliani: U.S. involvement in Balogun red reversal won't affect USMNT legacy",
-      "description": "Andrew Giuliani, the head of the White House task force on the World Cup, told ESPN on Monday that he has no concerns at all over FIFA's decision to reduce Folarin Balogun's suspension affecting the legacy or credibility of what the USMNT accomplishes.",
-      "published": "2026-07-06T18:43:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49288020/giuliani-us-involvement-balogun-red-reversal-not-affect-usmnt-legacy",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683295_1296x729_16-9.jpg",
-      "byline": "Sam Borden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 123
-    },
-    {
-      "id": "48847593",
-      "headline": "How many father-son duos have been in the FIFA World Cup?",
-      "description": "Check out a list of every father-son duo that has played in the FIFA World Cup.",
-      "published": "2026-07-06T20:47:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48847593/how-many-father-son-duos-the-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2022/0317/r987687_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 122
-    },
-    {
-      "id": "49285203",
-      "headline": "Mexico's World Cup knockout 'hurts deeply,' says captain Edson Álvarez",
-      "description": "Mexico captain Edson Álvarez has admitted his country's elimination from the World Cup \"hurts deeply\" but is upbeat about the team's future.",
-      "published": "2026-07-06T12:27:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49285203/mexicos-world-cup-knockout-hurts-deeply-says-captain-edson-alvarez",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685262_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "players": [],
-      "score": 122
-    },
-    {
-      "id": "49287266",
-      "headline": "Sir Keir Starmer stepped in to help prevent earlier Mexico vs. England kick-off",
-      "description": "Sir Keir Starmer intervened to prevent FIFA bringing forward kick-off at the Estadio Azteca amid concerns the change could give World Cup co-hosts Mexico an unfair advantage over England.",
-      "published": "2026-07-06T17:43:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49287266/sir-keir-starmer-stepped-help-prevent-earlier-mexico-vs-england-kick-off",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685367_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [],
-      "score": 121
-    },
-    {
-      "id": "49283694",
-      "headline": "Two things can be true about Balogun's World Cup reprieve",
-      "description": "For USMNT fans, seeing Folarin Balogun play against Belgium after FIFA rescinded his suspension will feel a bit odd -- a jumble of joy tinged with a heavy slice of unease.",
-      "published": "2026-07-06T15:27:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49283694/two-things-true-baloguns-world-cup-reprieve",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685234_1296x729_16-9.jpg",
-      "byline": "Sam Borden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49285837",
-      "headline": "What's next for Brazil after another painful World Cup exit?",
-      "description": "Brazil had to wait 28 years to win their first World Cup. Sunday's elimination means they'll be waiting 28 years, at least, for their next one.",
-      "published": "2026-07-06T17:15:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49285837/next-brazil-another-painful-world-cup-exit",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685284_1296x729_16-9.jpg",
-      "byline": "Gabriele Marcotti",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [],
-      "score": 120
-    },
-    {
-      "id": "48386952",
-      "headline": "Every team's championship odds for the 2026 World Cup",
-      "description": "Odds for every team to advance through the round of 16 and to win the 2026 World Cup.",
-      "published": "2026-07-06T17:09:02Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685382_1296x729_16-9.jpg",
-      "byline": "Doug Greenberg",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Brazil",
-        "England",
-        "Spain",
-        "Argentina",
-        "Portugal",
-        "Germany",
-        "Netherlands",
         "Belgium",
-        "Colombia",
-        "Japan",
-        "Canada",
-        "Mexico",
-        "Norway",
-        "Morocco",
-        "Uruguay",
-        "Ecuador",
-        "Sweden",
-        "Croatia",
-        "Switzerland",
-        "Austria",
-        "Australia",
-        "Senegal",
-        "Czechia",
-        "Paraguay",
-        "Scotland",
-        "Egypt",
-        "Algeria",
-        "Korea Republic",
-        "Ghana",
-        "Panama",
-        "South Africa",
-        "New Zealand",
-        "Iraq",
-        "Cabo Verde",
-        "Uzbekistan",
-        "Jordan",
-        "Haiti"
+        "USA"
       ],
       "players": [],
-      "score": 120
-    },
-    {
-      "id": "49242526",
-      "headline": "Have Brazil lost aura that made them defining World Cup team?",
-      "description": "Brazil used to be synonymous with the World Cup, adored for the way they played as much as for winning more than any other team. Have they lost that magic?",
-      "published": "2026-07-06T16:58:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49242526/have-brazil-lost-aura-made-defining-world-cup-team",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1683013_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [],
-      "score": 120
-    },
-    {
-      "id": "48352807",
-      "headline": "World Cup kit ranking: Which teams will look best in 2026?",
-      "description": "The 2026 World Cup will be the first with 48 teams, bringing a total of more than 100 kits! Here they all are, ranked from worst to first.",
-      "published": "2026-07-06T14:44:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
-      "image": "https://a.espncdn.com/photo/2026/0401/r1637137_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Algeria",
-        "Argentina",
-        "Australia",
-        "Austria",
-        "Brazil",
-        "Belgium",
-        "Canada",
-        "Colombia",
-        "DR Congo",
-        "Croatia",
-        "Curaçao",
-        "Czechia",
-        "Ecuador",
-        "Egypt",
-        "England",
-        "France",
-        "Germany",
-        "Ghana",
-        "Haiti",
-        "Iraq",
-        "IR Iran",
-        "Côte d'Ivoire",
-        "Japan",
-        "Jordan",
-        "Mexico",
-        "Morocco",
-        "New Zealand",
-        "Netherlands",
-        "Norway",
-        "Panama",
-        "Paraguay",
-        "Portugal",
-        "Qatar",
-        "Saudi Arabia",
-        "Scotland",
-        "Senegal",
-        "Spain",
-        "South Africa",
-        "Korea Republic",
-        "Sweden",
-        "Switzerland",
-        "Tunisia",
-        "Uruguay",
-        "USA",
-        "Uzbekistan"
-      ],
-      "players": [],
-      "score": 117
+      "score": 115
     }
   ]
 }
