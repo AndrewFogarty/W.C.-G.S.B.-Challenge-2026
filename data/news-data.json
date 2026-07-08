@@ -1,22 +1,203 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-08T18:10:41.482Z",
+  "updated": "2026-07-08T22:16:03.440Z",
   "counts": {
+    "news": 39,
+    "offfield": 3,
+    "injury": 2,
     "preview": 2,
-    "offfield": 7,
-    "news": 32,
-    "injury": 4,
-    "celebration": 3
+    "celebration": 2
   },
   "items": [
     {
+      "id": "49309137",
+      "headline": "Morgan Rogers: Has anyone ever stopped Norway's Erling Haaland?",
+      "description": "",
+      "published": "2026-07-08T21:27:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49309137/england-vs-norway-world-cup-quarter-final-morgan-rogers-erling-haaland",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686572_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [
+        "Morgan Rogers",
+        "Erling Haaland"
+      ],
+      "score": 212
+    },
+    {
+      "id": "49301983",
+      "headline": "World Cup Daily live: Tournament's 3,000th goal one of most controversial? First 'rest day' after 27 days of action",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we have our final eight teams of the 2026 FIFA World Cup.",
+      "published": "2026-07-08T21:12:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49301983/world-cup-daily-live-tournaments-3000th-goal-one-most-controversial-first-break-27-days",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686305_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 206
+    },
+    {
+      "id": "49309084",
+      "headline": "Rogers: We know Haaland's threat and the quality Norway possess",
+      "description": "Rogers: We know Haaland's threat and the quality Norway possess",
+      "published": "2026-07-08T21:00:38Z",
+      "url": "https://www.espn.com/video/clip/_/id/49309084/know-haaland-threat-quality-norway-possess",
+      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Rogers_We_know_Haalands_threat_and_the_quality_Norway_possess/dm_260708_Rogers_We_know_Haalands_threat_and_the_quality_Norway_possess.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [
+        "Morgan Rogers"
+      ],
+      "score": 191
+    },
+    {
+      "id": "49306669",
+      "headline": "England's Jordan Henderson has surgery, eyes return at World Cup",
+      "description": "Jordan Henderson has undergone surgery on his arm in Kansas City after breaking it in the celebrations following England's 3-2 win over Mexico on Sunday.",
+      "published": "2026-07-08T20:44:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49306669/england-jordan-henderson-undergoes-surgery-broken-arm-mexico-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1686135_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England",
+        "Mexico",
+        "Jordan"
+      ],
+      "players": [
+        "Jordan Henderson"
+      ],
+      "score": 185
+    },
+    {
+      "id": "49308990",
+      "headline": "Rogers: England showed 'grit and determination' in Mexico victory",
+      "description": "Rogers: England showed 'grit and determination' in Mexico victory",
+      "published": "2026-07-08T20:38:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/49308990/england-showed-grit-determination-mexico-victory",
+      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Rogers_England_showed_grit_and_determination_in_Mexico_victory/dm_260708_Rogers_England_showed_grit_and_determination_in_Mexico_victory.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [
+        "Morgan Rogers"
+      ],
+      "score": 181
+    },
+    {
+      "id": "49308965",
+      "headline": "Norway's Martin Ødegaard on facing England in World Cup: 'We were underdogs against Brazil too'",
+      "description": "Martin Ødegaard has said that \"underdogs\" Norway are ready for their \"big test\" against England in Saturday's World Cup quarterfinal.",
+      "published": "2026-07-08T20:46:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49308965/martin-odegaard-facing-england-world-cup-were-underdogs-brazil-too",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686565_594x334_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "England",
+        "Brazil"
+      ],
+      "players": [
+        "Martin Ødegaard"
+      ],
+      "score": 161
+    },
+    {
+      "id": "49308434",
+      "headline": "Justin Bieber joins World Cup final halftime show lineup",
+      "description": "Justin Bieber will bring his swag to the World Cup's star-studded, Super Bowl-style halftime show, joining fellow headliners Madonna, Shakira and BTS, FIFA announced Wednesday.",
+      "published": "2026-07-08T19:42:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49308434/justin-bieber-2026-world-cup-final-half-show-lineup",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686545_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 154
+    },
+    {
+      "id": "49304151",
+      "headline": "Transfer rumors, news: MLS clubs eye move for Salah",
+      "description": "Several MLS clubs are reportedly looking to sign free agent Mohamed Salah. Transfer Talk has the latest.",
+      "published": "2026-07-08T22:14:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49304151/transfer-rumors-news-psg-spurs-chelsea-eye-usmnt-monaco-striker-folarin-balogun",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686605_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "Egypt"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Jordan Henderson"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49298797",
+      "headline": "USMNT failed at the World Cup because of the players -- no coach could save them",
+      "description": "U.S. fans expected more out of the USMNT's expensive, famous coach at the World Cup, but there was one problem: the players.",
+      "published": "2026-07-08T20:17:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49298797/usmnt-failed-world-cup-players-no-coach-save-them",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1686045_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 141
+    },
+    {
+      "id": "49308227",
+      "headline": "Odegaard: Norway's quarterfinal against England a 'massive test'",
+      "description": "Odegaard: Norway's quarterfinal against England a 'massive test'",
+      "published": "2026-07-08T18:38:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/49308227/norway-quarterfinal-england-massive-test",
+      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Odegaard_Norways_quarterfinal_against_England_a_massive_test/dm_260708_Odegaard_Norways_quarterfinal_against_England_a_massive_test.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "players": [
+        "Martin Ødegaard"
+      ],
+      "score": 138
+    },
+    {
       "id": "49303740",
-      "headline": "World Cup 2026 today: Live updates, news as Argentina, Switzerland complete quarterfinal lineup - July 8",
+      "headline": "World Cup 2026 today: Live updates and news -- as it happened on July 8",
       "description": "After a thrilling conclusion to the round of 16, we have our quarterfinal line up all set. Follow everything from the World Cup across the day with ESPN.",
-      "published": "2026-07-08T17:52:00Z",
+      "published": "2026-07-08T18:06:05Z",
       "url": "https://www.espn.com/soccer/story/_/id/49303740/world-cup-2026-today-blog-08-06-2026-live-updates-news-fixtures-schedule-results-argentina-narrowly-advance-world-cup-quarter-finals-thriller-egypt-3-2-switzerland-beat-colombia-penalties",
       "image": "https://a.espncdn.com/photo/2026/0708/r1686375_1296x729_16-9.jpg",
-      "byline": "Grace Allen and Tom Masters",
+      "byline": "Grace Allen, Tom Masters and Nina Hristova",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
@@ -29,7 +210,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 222
+      "score": 136
     },
     {
       "id": "49307345",
@@ -50,40 +231,77 @@
         "Declan Rice",
         "Marc Guéhi"
       ],
-      "score": 210
+      "score": 134
     },
     {
-      "id": "49301983",
-      "headline": "World Cup Daily live: Tournament's 3,000th goal one of most controversial? First 'rest day' after 27 days of action",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we have our final eight teams of the 2026 FIFA World Cup.",
-      "published": "2026-07-08T16:36:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49301983/world-cup-daily-live-tournaments-3000th-goal-one-most-controversial-first-break-27-days",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686305_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 196
-    },
-    {
-      "id": "49307095",
-      "headline": "French players call for justice after Mbappé racially abused by a Paraguay senator",
-      "description": "French players call for justice after Mbappé racially abused by a Paraguay senator",
-      "published": "2026-07-08T16:15:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49307095/french-players-call-justice-mbappe-racially-abused-paraguay-senator",
-      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_French_players_call_for_justice_after_Mbappe_racially_abused_by_a_Paraguay_senator/dm_260708_French_players_call_for_justice_after_Mbappe_racially_abused_by_a_Paraguay_senator.jpg",
+      "id": "49308571",
+      "headline": "Ruben Amorim: I made mistakes at Man United",
+      "description": "Ruben Amorim: I made mistakes at Man United",
+      "published": "2026-07-08T19:30:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49308571/made-mistakes-man-united",
+      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Ruben_Amorim_I_made_mistakes_at_Man_United/dm_260708_Ruben_Amorim_I_made_mistakes_at_Man_United.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "France",
-        "Paraguay"
+        "England"
       ],
       "players": [
-        "Kylian Mbappé"
+        "Morgan Rogers"
       ],
-      "score": 180
+      "score": 129
+    },
+    {
+      "id": "49308168",
+      "headline": "After rejecting France, Bouaddi can end their World Cup with Morocco",
+      "description": "Ayyoub Bouaddi chose Morocco over France to ensure he'd play at the 2026 World Cup. Now the two teams collide in a 2022 semifinal rematch.",
+      "published": "2026-07-08T19:27:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49308168/after-rejecting-france-bouaddi-end-their-world-cup-morocco",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686524_1296x729_16-9.jpg",
+      "byline": "Julien Laurens",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Morocco"
+      ],
+      "players": [
+        "Ayyoub Bouaddi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49305559",
+      "headline": "Egypt FA: 'Cannot remain silent' about decisions in Argentina match",
+      "description": "The Egyptian FA said it \"cannot remain silent regarding the refereeing decisions\" following the team's round-of-16 loss to Argentina at the World Cup.",
+      "published": "2026-07-08T20:40:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49305559/egypt-argentina-world-cup-2026-referee-var-knockout",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1686018_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Egypt",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 128
+    },
+    {
+      "id": "49300759",
+      "headline": "U.S. World Cup loss sets betting records, big profits for house",
+      "description": "The United States' run in its home World Cup led to record soccer betting handle and allowed American sportsbooks to profit handsomely when it came to an end.",
+      "published": "2026-07-08T19:17:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49300759/us-world-cup-loss-sets-betting-records-net-profits-house",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685642_1296x729_16-9.jpg",
+      "byline": "Doug Greenberg",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 126
     },
     {
       "id": "49307058",
@@ -102,7 +320,47 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 173
+      "score": 126
+    },
+    {
+      "id": "49306794",
+      "headline": "FIFA rejects France's appeal of Michael Olise's yellow card",
+      "description": "FIFA has dismissed an appeal made by the French Football Federation [FFF] to rescind Michael Olise's yellow card against Paraguay",
+      "published": "2026-07-08T17:10:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49306794/michael-olise-yellow-card-appeal-fifa-france-vs-morocco-2026-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686420_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Paraguay"
+      ],
+      "players": [
+        "Michael Olise",
+        "Aurélien Tchouaméni",
+        "Kylian Mbappé"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49307095",
+      "headline": "French players call for justice after Mbappé racially abused by a Paraguay senator",
+      "description": "French players call for justice after Mbappé racially abused by a Paraguay senator",
+      "published": "2026-07-08T16:15:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49307095/french-players-call-justice-mbappe-racially-abused-paraguay-senator",
+      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_French_players_call_for_justice_after_Mbappe_racially_abused_by_a_Paraguay_senator/dm_260708_French_players_call_for_justice_after_Mbappe_racially_abused_by_a_Paraguay_senator.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Paraguay"
+      ],
+      "players": [
+        "Kylian Mbappé"
+      ],
+      "score": 124
     },
     {
       "id": "48386952",
@@ -155,235 +413,7 @@
         "Haiti"
       ],
       "players": [],
-      "score": 158
-    },
-    {
-      "id": "49306669",
-      "headline": "England's Jordan Henderson undergoes surgery on broken arm, to remain at Kansas camp",
-      "description": "Jordan Henderson has undergone surgery on his arm in Kansas after breaking it in the celebrations following England's 3-2 win over Mexico on Sunday.",
-      "published": "2026-07-08T15:39:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49306669/england-jordan-henderson-undergoes-surgery-broken-arm-mexico-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1686135_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "England",
-        "Mexico",
-        "Jordan"
-      ],
-      "players": [
-        "Jordan Henderson"
-      ],
-      "score": 153
-    },
-    {
-      "id": "49306794",
-      "headline": "FIFA rejects France's appeal of Michael Olise's yellow card",
-      "description": "FIFA has dismissed an appeal made by the French Football Federation [FFF] to rescind Michael Olise's yellow card against Paraguay",
-      "published": "2026-07-08T17:10:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49306794/michael-olise-yellow-card-appeal-fifa-france-vs-morocco-2026-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686420_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Paraguay"
-      ],
-      "players": [
-        "Michael Olise",
-        "Aurélien Tchouaméni",
-        "Kylian Mbappé"
-      ],
-      "score": 151
-    },
-    {
-      "id": "49308011",
-      "headline": "Ipswich Town confirm signing of Brazilian striker Emersonn from Toulouse",
-      "description": "Ipswich have announced the signing of Brazilian striker Emersonn from Toulouse.",
-      "published": "2026-07-08T18:09:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49308011/ipswich-town-confirm-signing-brazilian-striker-emersonn-toulouse",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686517_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Emersonn",
-        "Lionel Messi"
-      ],
-      "score": 145
-    },
-    {
-      "id": "49301831",
-      "headline": "EU lawmakers want Gianni Infantino investigated over Trump contact",
-      "description": "Dozens of European lawmakers are gathering support to launch an investigation in the European Parliament of FIFA boss Gianni Infantino over his involvement in the decision to permit U.S. striker Folarin Balogun to play despite an earlier red card.",
-      "published": "2026-07-08T18:08:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49301831/eu-lawmakers-want-gianni-infantino-investigated-trump-contact",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686231_600x400_3-2.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "USA"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 145
-    },
-    {
-      "id": "49304151",
-      "headline": "Transfer rumors, news: PSG, Spurs, Chelsea eye USMNT striker",
-      "description": "Paris Saint-Germain, Tottenham Hotspur and Chelsea are vying for the signature of USMNT and Monaco striker Folarin Balogun. Transfer Talk has the latest.",
-      "published": "2026-07-08T17:20:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49304151/transfer-rumors-news-psg-spurs-chelsea-eye-usmnt-monaco-striker-folarin-balogun",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685144_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun",
-        "Lionel Messi"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49018363",
-      "headline": "Two-time Ballon d'Or winner Alexia Putellas joins WSL side London City Lionesses",
-      "description": "Two-time Ballon d'Or winner and former Barcelona star Alexia Putellas has joined London City Lionesses.",
-      "published": "2026-07-08T17:17:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49018363/two-ballon-dor-winner-alexia-putellas-joins-wsl-side-london-city-lionesses",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670740_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "Spain"
-      ],
-      "players": [
-        "Alexia Putellas",
-        "Lionel Messi"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49307337",
-      "headline": "Man United agree £50m deal to sign Chelsea midfielder Andrey Santos - sources",
-      "description": "Manchester United have agreed a deal with Chelsea for midfielder Andrey Santos, sources have told ESPN.",
-      "published": "2026-07-08T16:55:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49307337/man-united-agree-50m-deal-sign-chelsea-midfielder-andrey-santos-sources",
-      "image": "https://a.espncdn.com/photo/2026/0404/r1638498_800x533_3-2.jpg",
-      "byline": "Rob Dawson",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Andrey Santos",
-        "Lionel Messi"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49298797",
-      "headline": "USMNT failed at the World Cup because of the players -- no coach could save them",
-      "description": "U.S. fans expected more out of the USMNT's expensive, famous coach at the World Cup, but there was one problem: the players.",
-      "published": "2026-07-08T15:24:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49298797/usmnt-failed-world-cup-players-no-coach-save-them",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1686045_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 140
-    },
-    {
-      "id": "49307917",
-      "headline": "Griezmann: It's been my dream to come to MLS since I was 18",
-      "description": "Griezmann: It's been my dream to come to MLS since I was 18",
-      "published": "2026-07-08T17:40:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49307917/my-dream-come-mls-was-18",
-      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Griezmann_Its_been_my_dream_to_come_to_MLS_since_I_was_18/dm_260708_Griezmann_Its_been_my_dream_to_come_to_MLS_since_I_was_18.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Antoine Griezmann",
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49299241",
-      "headline": "Lionel Messi says goal celeb 'huge release' after missed pen",
-      "description": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup.",
-      "published": "2026-07-08T12:43:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49299241/martinez-told-messi-enjoy-last-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1686056_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina",
-        "Egypt"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Lautaro Martínez"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49305559",
-      "headline": "Egypt FA: 'Cannot remain silent' about decisions in Argentina match",
-      "description": "The Egyptian FA said it \"cannot remain silent regarding the refereeing decisions\" following the team's round-of-16 loss to Argentina at the World Cup.",
-      "published": "2026-07-08T17:22:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49305559/egypt-argentina-world-cup-2026-referee-var-knockout",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1686018_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Egypt",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 129
-    },
-    {
-      "id": "49300502",
-      "headline": "Lionel Messi on Argentina's comeback: We never give up",
-      "description": "Lionel Messi on Argentina's comeback: We never give up",
-      "published": "2026-07-08T12:45:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/49300502/never-give-up",
-      "image": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_Lionel_Messi_on_Argentinas_comeback_We_never_give_up/dm_260707_Lionel_Messi_on_Argentinas_comeback_We_never_give_up.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
+      "score": 122
     },
     {
       "id": "49305676",
@@ -399,7 +429,7 @@
         "Croatia"
       ],
       "players": [],
-      "score": 123
+      "score": 117
     },
     {
       "id": "49178425",
@@ -441,7 +471,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 123
+      "score": 117
     },
     {
       "id": "49305287",
@@ -457,7 +487,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 123
+      "score": 116
     },
     {
       "id": "49301381",
@@ -474,7 +504,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 122
+      "score": 116
     },
     {
       "id": "49117037",
@@ -500,7 +530,7 @@
         "Erling Haaland",
         "Folarin Balogun"
       ],
-      "score": 122
+      "score": 116
     },
     {
       "id": "49305327",
@@ -517,7 +547,7 @@
         "Egypt"
       ],
       "players": [],
-      "score": 121
+      "score": 115
     },
     {
       "id": "49294844",
@@ -540,7 +570,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 121
+      "score": 114
     },
     {
       "id": "49304708",
@@ -558,7 +588,7 @@
         "Egypt"
       ],
       "players": [],
-      "score": 119
+      "score": 113
     },
     {
       "id": "49301521",
@@ -581,7 +611,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 119
+      "score": 113
     },
     {
       "id": "49304505",
@@ -598,7 +628,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 118
+      "score": 112
     },
     {
       "id": "49304441",
@@ -614,26 +644,7 @@
         "England"
       ],
       "players": [],
-      "score": 117
-    },
-    {
-      "id": "49300312",
-      "headline": "Jordan Henderson 'proud' of 'special' England despite injury at World Cup",
-      "description": "Jordan Henderson spoke of his pride at being part of a \"special\" England team as the injured midfielder reflected on an unforgettable night that ended in a Mexican hospital.",
-      "published": "2026-07-07T22:09:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49300312/jordan-henderson-proud-special-england-injury-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1686135_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "England",
-        "Jordan"
-      ],
-      "players": [
-        "Jordan Henderson"
-      ],
-      "score": 117
+      "score": 111
     },
     {
       "id": "49303884",
@@ -653,7 +664,7 @@
         "Dayot Upamecano",
         "Robin Risser"
       ],
-      "score": 116
+      "score": 110
     },
     {
       "id": "49301503",
@@ -671,7 +682,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 115
+      "score": 109
     },
     {
       "id": "48352807",
@@ -731,24 +742,7 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 114
-    },
-    {
-      "id": "49300357",
-      "headline": "Argentina shock Egypt with heroic second half recovery",
-      "description": "Argentina advance to the quarterfinals following an historic 3-2 comeback win over Egypt.",
-      "published": "2026-07-07T22:14:57Z",
-      "url": "https://www.espn.com/video/clip/_/id/49300357/argentina-shock-egypt-heroic-second-half-recovery",
-      "image": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_Soccer_Highlight_Argentina_shock_Egypt_with_heroic_second_half_recovery_20260708_AUS_ONLY/dm_260707_Soccer_Highlight_Argentina_shock_Egypt_with_heroic_second_half_recovery_20260708_AUS_ONLY.jpg",
-      "byline": null,
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Egypt",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 114
+      "score": 108
     },
     {
       "id": "48939282",
@@ -766,7 +760,7 @@
         "USA"
       ],
       "players": [],
-      "score": 113
+      "score": 107
     },
     {
       "id": "49303801",
@@ -782,24 +776,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 113
-    },
-    {
-      "id": "49299468",
-      "headline": "FIFA suspended 2 U.S. staff members for Belgium game",
-      "description": "Two staff members of the United States men's soccer team were suspended by FIFA from Monday's round-of-16 game against Belgium.",
-      "published": "2026-07-07T22:20:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49299468/fifa-suspended-usa-soccer-staff-members-belgium",
-      "image": "https://a.espncdn.com/photo/2021/0701/r875096_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 112
+      "score": 107
     },
     {
       "id": "48964271",
@@ -813,7 +790,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 111
+      "score": 105
     },
     {
       "id": "48945011",
@@ -827,7 +804,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 111
+      "score": 105
     },
     {
       "id": "48945570",
@@ -841,7 +818,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 111
+      "score": 105
     },
     {
       "id": "47978642",
@@ -859,7 +836,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 111
+      "score": 105
     },
     {
       "id": "49300361",
@@ -875,7 +852,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 111
+      "score": 104
     },
     {
       "id": "49302913",
@@ -891,7 +868,7 @@
         "Egypt"
       ],
       "players": [],
-      "score": 109
+      "score": 103
     },
     {
       "id": "49302632",
@@ -907,7 +884,7 @@
         "Egypt"
       ],
       "players": [],
-      "score": 108
+      "score": 101
     },
     {
       "id": "49300023",
@@ -925,7 +902,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 106
+      "score": 100
     },
     {
       "id": "49301582",
@@ -942,7 +919,7 @@
         "Belgium"
       ],
       "players": [],
-      "score": 106
+      "score": 99
     },
     {
       "id": "49302076",
@@ -959,7 +936,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 106
+      "score": 99
     },
     {
       "id": "49300589",
@@ -978,7 +955,29 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 105
+      "score": 99
+    },
+    {
+      "id": "49293140",
+      "headline": "World Cup Daily recap: Argentina, Messi produce late magic; Switzerland sneak past Colombia",
+      "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as we figure out the last two teams to make the quarterfinals.",
+      "published": "2026-07-07T23:20:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49293140/world-cup-daily-live-messi-fans-troll-speed-ronaldo-exit-argentina-colombia-action",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1686158_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Portugal",
+        "Switzerland",
+        "Colombia"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "score": 99
     }
   ]
 }
