@@ -1,6 +1,6 @@
 {
   "source": "API-Football (api-sports.io)",
-  "updated": "2026-07-07T22:39:38.458Z",
+  "updated": "2026-07-08T07:42:59.103Z",
   "season": 2026,
   "teams": {
     "Mexico": {
@@ -156023,47 +156023,47 @@
         "sides": {
           "home": {
             "team": "Spain",
-            "formation": "",
+            "formation": "4-2-3-1",
             "coach": "Luis de la Fuente",
             "startXI": [
               {
                 "id": 47270,
-                "name": "Unai Simón",
+                "name": "U. Simon",
                 "number": 23,
                 "pos": "G",
-                "grid": null,
+                "grid": "1:1",
                 "photo": "https://media.api-sports.io/football/players/47270.png"
               },
               {
                 "id": 47519,
-                "name": "Pedro Porro",
+                "name": "P. Porro",
                 "number": 12,
                 "pos": "D",
-                "grid": null,
+                "grid": "2:4",
                 "photo": "https://media.api-sports.io/football/players/47519.png"
               },
               {
                 "id": 396623,
-                "name": "Pau Cubarsí",
+                "name": "P. Cubarsi",
                 "number": 22,
                 "pos": "D",
-                "grid": null,
+                "grid": "2:3",
                 "photo": "https://media.api-sports.io/football/players/396623.png"
               },
               {
                 "id": 622,
-                "name": "Aymeric Laporte",
+                "name": "A. Laporte",
                 "number": 14,
                 "pos": "D",
-                "grid": null,
+                "grid": "2:2",
                 "photo": "https://media.api-sports.io/football/players/622.png"
               },
               {
                 "id": 47380,
-                "name": "Marc Cucurella",
+                "name": "M. Cucurella",
                 "number": 24,
                 "pos": "D",
-                "grid": null,
+                "grid": "2:1",
                 "photo": "https://media.api-sports.io/football/players/47380.png"
               },
               {
@@ -156071,7 +156071,7 @@
                 "name": "Rodri",
                 "number": 16,
                 "pos": "M",
-                "grid": null,
+                "grid": "3:2",
                 "photo": "https://media.api-sports.io/football/players/44.png"
               },
               {
@@ -156079,7 +156079,7 @@
                 "name": "Pedri",
                 "number": 20,
                 "pos": "M",
-                "grid": null,
+                "grid": "3:1",
                 "photo": "https://media.api-sports.io/football/players/133609.png"
               },
               {
@@ -156087,70 +156087,38 @@
                 "name": "Lamine Yamal",
                 "number": 19,
                 "pos": "M",
-                "grid": null,
+                "grid": "4:3",
                 "photo": "https://media.api-sports.io/football/players/386828.png"
               },
               {
                 "id": 1323,
-                "name": "Dani Olmo",
+                "name": "D. Olmo",
                 "number": 10,
                 "pos": "M",
-                "grid": null,
+                "grid": "4:2",
                 "photo": "https://media.api-sports.io/football/players/1323.png"
               },
               {
                 "id": 182219,
-                "name": "Alex Baena",
+                "name": "A. Baena",
                 "number": 15,
                 "pos": "M",
-                "grid": null,
+                "grid": "4:1",
                 "photo": "https://media.api-sports.io/football/players/182219.png"
               },
               {
                 "id": 47323,
-                "name": "Mikel Oyarzabal",
+                "name": "M. Oyarzabal",
                 "number": 21,
                 "pos": "F",
-                "grid": null,
+                "grid": "5:1",
                 "photo": "https://media.api-sports.io/football/players/47323.png"
               }
             ],
             "subs": [
               {
-                "id": 931,
-                "name": "Ferran Torres",
-                "number": 7,
-                "pos": "F",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/931.png"
-              },
-              {
-                "id": 328,
-                "name": "Fabián Ruiz",
-                "number": 8,
-                "pos": "M",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/328.png"
-              },
-              {
-                "id": 47311,
-                "name": "Mikel Merino",
-                "number": 6,
-                "pos": "M",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/47311.png"
-              },
-              {
-                "id": 47348,
-                "name": "Borja Iglesias",
-                "number": 26,
-                "pos": "F",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/47348.png"
-              },
-              {
                 "id": 19465,
-                "name": "David Raya",
+                "name": "D. Raya",
                 "number": 1,
                 "pos": "G",
                 "grid": null,
@@ -156158,83 +156126,115 @@
               },
               {
                 "id": 182718,
-                "name": "Joan García",
+                "name": "J. Garcia",
                 "number": 13,
                 "pos": "G",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/182718.png"
               },
               {
-                "id": 619,
-                "name": "Eric García",
-                "number": 4,
-                "pos": "D",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/619.png"
-              },
-              {
                 "id": 753,
-                "name": "Marcos Llorente",
+                "name": "M. Llorente",
                 "number": 5,
                 "pos": "M",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/753.png"
               },
               {
-                "id": 295793,
-                "name": "Marc Pubill",
-                "number": 2,
-                "pos": "D",
+                "id": 328,
+                "name": "F. Ruiz",
+                "number": 8,
+                "pos": "M",
                 "grid": null,
-                "photo": "https://media.api-sports.io/football/players/295793.png"
+                "photo": "https://media.api-sports.io/football/players/328.png"
               },
               {
-                "id": 563,
-                "name": "Alejandro Grimaldo",
-                "number": 3,
-                "pos": "D",
+                "id": 931,
+                "name": "F. Torres",
+                "number": 7,
+                "pos": "F",
                 "grid": null,
-                "photo": "https://media.api-sports.io/football/players/563.png"
+                "photo": "https://media.api-sports.io/football/players/931.png"
               },
               {
                 "id": 47315,
-                "name": "Martín Zubimendi",
+                "name": "M. Zubimendi",
                 "number": 18,
                 "pos": "M",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/47315.png"
               },
               {
-                "id": 183799,
-                "name": "Nico Williams",
-                "number": 17,
-                "pos": "F",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/183799.png"
-              },
-              {
                 "id": 296667,
-                "name": "Pablo Gavi",
+                "name": "Gavi",
                 "number": 9,
                 "pos": "M",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/296667.png"
               },
               {
+                "id": 563,
+                "name": "A. Grimaldo",
+                "number": 3,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/563.png"
+              },
+              {
+                "id": 47348,
+                "name": "B. Iglesias",
+                "number": 26,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/47348.png"
+              },
+              {
+                "id": 47311,
+                "name": "M. Merino",
+                "number": 6,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/47311.png"
+              },
+              {
+                "id": 619,
+                "name": "E. Garcia",
+                "number": 4,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/619.png"
+              },
+              {
+                "id": 184226,
+                "name": "Y. Pino",
+                "number": 11,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/184226.png"
+              },
+              {
+                "id": 183799,
+                "name": "N. Williams",
+                "number": 17,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/183799.png"
+              },
+              {
                 "id": 338751,
-                "name": "Víctor Muñoz",
+                "name": "V. Munoz",
                 "number": 25,
                 "pos": "F",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/338751.png"
               },
               {
-                "id": 184226,
-                "name": "Yéremy Pino",
-                "number": 11,
-                "pos": "M",
+                "id": 295793,
+                "name": "M. Pubill",
+                "number": 2,
+                "pos": "D",
                 "grid": null,
-                "photo": "https://media.api-sports.io/football/players/184226.png"
+                "photo": "https://media.api-sports.io/football/players/295793.png"
               }
             ]
           },
@@ -156245,7 +156245,7 @@
             "startXI": [
               {
                 "id": 730,
-                "name": "Thibaut Courtois",
+                "name": "T. Courtois",
                 "number": 1,
                 "pos": "G",
                 "grid": "1:1",
@@ -156253,7 +156253,7 @@
               },
               {
                 "id": 2920,
-                "name": "Timothy Castagne",
+                "name": "T. Castagne",
                 "number": 21,
                 "pos": "D",
                 "grid": "2:4",
@@ -156261,7 +156261,7 @@
               },
               {
                 "id": 312964,
-                "name": "Nathan Ngoy",
+                "name": "N. Ngoy",
                 "number": 25,
                 "pos": "D",
                 "grid": "2:3",
@@ -156269,7 +156269,7 @@
               },
               {
                 "id": 69,
-                "name": "Brandon Mechele",
+                "name": "B. Mechele",
                 "number": 4,
                 "pos": "D",
                 "grid": "2:2",
@@ -156277,7 +156277,7 @@
               },
               {
                 "id": 162007,
-                "name": "Maxim De Cuyper",
+                "name": "M. De Cuyper",
                 "number": 5,
                 "pos": "D",
                 "grid": "2:1",
@@ -156285,7 +156285,7 @@
               },
               {
                 "id": 162714,
-                "name": "Amadou Onana",
+                "name": "A. Onana",
                 "number": 24,
                 "pos": "M",
                 "grid": "3:2",
@@ -156293,7 +156293,7 @@
               },
               {
                 "id": 2120,
-                "name": "Nicolas Raskin",
+                "name": "N. Raskin",
                 "number": 23,
                 "pos": "M",
                 "grid": "3:1",
@@ -156301,7 +156301,7 @@
               },
               {
                 "id": 25458,
-                "name": "Dodi Lukebakio",
+                "name": "D. Lukebakio",
                 "number": 14,
                 "pos": "M",
                 "grid": "4:3",
@@ -156309,7 +156309,7 @@
               },
               {
                 "id": 2926,
-                "name": "Youri Tielemans",
+                "name": "Y. Tielemans",
                 "number": 8,
                 "pos": "M",
                 "grid": "4:2",
@@ -156317,7 +156317,7 @@
               },
               {
                 "id": 1946,
-                "name": "Leandro Trossard",
+                "name": "L. Trossard",
                 "number": 10,
                 "pos": "M",
                 "grid": "4:1",
@@ -156325,7 +156325,7 @@
               },
               {
                 "id": 147859,
-                "name": "Charles De Ketelaere",
+                "name": "C. De Ketelaere",
                 "number": 17,
                 "pos": "F",
                 "grid": "5:1",
@@ -156334,80 +156334,104 @@
             ],
             "subs": [
               {
-                "id": 78,
-                "name": "Hans Vanaken",
-                "number": 20,
-                "pos": "M",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/78.png"
-              },
-              {
-                "id": 1422,
-                "name": "Jérémy Doku",
-                "number": 11,
-                "pos": "F",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/1422.png"
-              },
-              {
-                "id": 907,
-                "name": "Romelu Lukaku",
-                "number": 9,
-                "pos": "F",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/907.png"
-              },
-              {
-                "id": 1417,
-                "name": "Alexis Saelemaekers",
-                "number": 22,
-                "pos": "F",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/1417.png"
-              },
-              {
-                "id": 20,
-                "name": "Axel Witsel",
-                "number": 6,
-                "pos": "M",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/20.png"
-              },
-              {
-                "id": 340151,
-                "name": "Mike Penders",
-                "number": 13,
-                "pos": "G",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/340151.png"
-              },
-              {
                 "id": 162511,
-                "name": "Senne Lammens",
+                "name": "S. Lammens",
                 "number": 12,
                 "pos": "G",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/162511.png"
               },
               {
-                "id": 375974,
-                "name": "Joaquin Seys",
-                "number": 18,
-                "pos": "D",
+                "id": 340151,
+                "name": "M. Penders",
+                "number": 13,
+                "pos": "G",
                 "grid": null,
-                "photo": "https://media.api-sports.io/football/players/375974.png"
+                "photo": "https://media.api-sports.io/football/players/340151.png"
+              },
+              {
+                "id": 20,
+                "name": "A. Witsel",
+                "number": 6,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/20.png"
+              },
+              {
+                "id": 907,
+                "name": "R. Lukaku",
+                "number": 9,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/907.png"
+              },
+              {
+                "id": 629,
+                "name": "K. De Bruyne",
+                "number": 7,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/629.png"
+              },
+              {
+                "id": 78,
+                "name": "H. Vanaken",
+                "number": 20,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/78.png"
+              },
+              {
+                "id": 1417,
+                "name": "A. Saelemaekers",
+                "number": 22,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/1417.png"
+              },
+              {
+                "id": 1422,
+                "name": "J. Doku",
+                "number": 11,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/1422.png"
               },
               {
                 "id": 204043,
-                "name": "Arthur Theate",
+                "name": "A. Theate",
                 "number": 3,
                 "pos": "D",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/204043.png"
               },
               {
+                "id": 340077,
+                "name": "M. Fernandez-Pardo",
+                "number": 26,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/340077.png"
+              },
+              {
+                "id": 335056,
+                "name": "D. Moreira",
+                "number": 19,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/335056.png"
+              },
+              {
+                "id": 264,
+                "name": "T. Meunier",
+                "number": 15,
+                "pos": "D",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/264.png"
+              },
+              {
                 "id": 162141,
-                "name": "Koni De Winter",
+                "name": "K. De Winter",
                 "number": 16,
                 "pos": "D",
                 "grid": null,
@@ -156415,43 +156439,19 @@
               },
               {
                 "id": 304228,
-                "name": "Zeno Debast",
+                "name": "Z. Debast",
                 "number": 2,
                 "pos": "D",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/304228.png"
               },
               {
-                "id": 264,
-                "name": "Thomas Meunier",
-                "number": 15,
+                "id": 375974,
+                "name": "J. Seys",
+                "number": 18,
                 "pos": "D",
                 "grid": null,
-                "photo": "https://media.api-sports.io/football/players/264.png"
-              },
-              {
-                "id": 335056,
-                "name": "Diego Moreira",
-                "number": 19,
-                "pos": "F",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/335056.png"
-              },
-              {
-                "id": 629,
-                "name": "Kevin De Bruyne",
-                "number": 7,
-                "pos": "M",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/629.png"
-              },
-              {
-                "id": 340077,
-                "name": "Matías Fernández-Pardo",
-                "number": 26,
-                "pos": "F",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/340077.png"
+                "photo": "https://media.api-sports.io/football/players/375974.png"
               }
             ]
           }
@@ -156460,15 +156460,5 @@
       }
     }
   },
-  "live": [
-    {
-      "home": "Switzerland",
-      "away": "Colombia",
-      "hg": 0,
-      "ag": 0,
-      "elapsed": null,
-      "extra": null,
-      "status": "BT"
-    }
-  ]
+  "live": []
 }
