@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-07-08T13:17:27.003Z",
+  "updated": "2026-07-09T22:46:07.083Z",
   "results": {
     "A": [
       [
@@ -342,7 +342,9 @@
       "Argentina",
       "Switzerland"
     ],
-    "SF": [],
+    "SF": [
+      "France"
+    ],
     "FINAL": [],
     "champion": null
   },
@@ -1338,8 +1340,8 @@
       "s": "QF",
       "h": "France",
       "a": "Morocco",
-      "hg": null,
-      "ag": null,
+      "hg": 2,
+      "ag": 0,
       "v": "Gillette Stadium (Boston, USA)"
     },
     {
