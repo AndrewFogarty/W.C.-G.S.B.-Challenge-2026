@@ -1,19 +1,54 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-10T10:36:00.381Z",
+  "updated": "2026-07-10T17:23:21.971Z",
   "counts": {
+    "news": 32,
     "preview": 5,
-    "injury": 3,
-    "news": 28,
-    "offfield": 8,
-    "celebration": 4
+    "celebration": 1,
+    "offfield": 7,
+    "injury": 3
   },
   "items": [
+    {
+      "id": "49326055",
+      "headline": "Have France been 'tested' in the World Cup yet?",
+      "description": "Have France been 'tested' in the World Cup yet?",
+      "published": "2026-07-10T17:14:14Z",
+      "url": "https://www.espn.com/video/clip/_/id/49326055/have-france-tested-world-cup-yet",
+      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Analysis_Have_France_been_E28098testedE28099_in_the_World_Cup_yet3F_GLOBAL_2026-07-10/dm_260710_COM_SOC_Analysis_Have_France_been_E28098testedE28099_in_the_World_Cup_yet3F_GLOBAL_2026-07-10.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Morocco"
+      ],
+      "players": [],
+      "score": 210
+    },
+    {
+      "id": "49326003",
+      "headline": "Vinícius Júnior says sorry to Brazil fans after World Cup 'disappointment'",
+      "description": "Vincius Junior has apologised to Brazil's supporters and admitted feeling an \"enormous\" sense of frustration after their World Cup exit.",
+      "published": "2026-07-10T17:08:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49326003/vinicius-junior-says-sorry-brazil-fans-world-cup-disappointment",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687379_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Vinícius Júnior"
+      ],
+      "score": 203
+    },
     {
       "id": "49320148",
       "headline": "World Cup Daily live: Remix of teen Haaland's rap song hits No. 1; Spain to face Belgium",
       "description": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action.",
-      "published": "2026-07-10T09:53:11Z",
+      "published": "2026-07-10T16:59:05Z",
       "url": "https://www.espn.com/soccer/story/_/id/49320148/world-cup-daily-live-remix-teen-erling-haaland-rap-song-hits-no-1-spain-face-belgium",
       "image": "https://a.espncdn.com/photo/2026/0710/r1687224_2_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -27,7 +62,205 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 221
+      "score": 201
+    },
+    {
+      "id": "48386952",
+      "headline": "Every team's championship odds for the 2026 World Cup: France odds shorten, Spain ahead of Argentina, England",
+      "description": "Updated odds for the remaining eight teams to advance to the final and to win the 2026 World Cup.",
+      "published": "2026-07-10T17:04:21Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687332_1296x729_16-9.jpg",
+      "byline": "Doug Greenberg",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "France",
+        "Brazil",
+        "England",
+        "Spain",
+        "Argentina",
+        "Portugal",
+        "Germany",
+        "Netherlands",
+        "Belgium",
+        "Colombia",
+        "Japan",
+        "Canada",
+        "Mexico",
+        "Norway",
+        "Morocco",
+        "Uruguay",
+        "Ecuador",
+        "Sweden",
+        "Croatia",
+        "Switzerland",
+        "Austria",
+        "Australia",
+        "Senegal",
+        "Czechia",
+        "Paraguay",
+        "Scotland",
+        "Egypt",
+        "Algeria",
+        "Korea Republic",
+        "Ghana",
+        "Panama",
+        "South Africa",
+        "New Zealand",
+        "Iraq",
+        "Cabo Verde",
+        "Uzbekistan",
+        "Jordan",
+        "Haiti"
+      ],
+      "players": [],
+      "score": 189
+    },
+    {
+      "id": "49325637",
+      "headline": "FIFA selling nearly 1,200 World Cup final tickets at $7,380 each",
+      "description": "FIFA had nearly 1,200 category two tickets priced at $7,380 on sale Friday for the World Cup final on July 19 at MetLife Stadium in East Rutherford, New Jersey.",
+      "published": "2026-07-10T16:23:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49325637/nearly-1200-tickets-fifa-sale-site-world-cup-final-7380-dollars-each",
+      "image": "https://a.espncdn.com/photo/2026/0109/r1598571_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 165
+    },
+    {
+      "id": "49309967",
+      "headline": "Norway scouting report: What can England expect in their World Cup quarterfinal?",
+      "description": "ESPN speaks to Norwegian journalist Thore Haugstad for the lowdown on England's quarterfinal opponents.",
+      "published": "2026-07-10T16:07:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49309967/norway-scouting-report-england-expect-their-world-cup-quarterfinal",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686612_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "players": [],
+      "score": 158
+    },
+    {
+      "id": "49323047",
+      "headline": "Messi, Mbappé, Kane: Why are so many players taking stuttering penalties at the World Cup?",
+      "description": "Messi, Mbappé and Kane have all missed stuttering penalties at the World Cup. So why are so many players taking them?",
+      "published": "2026-07-10T16:04:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49323047/lionel-messi-kylian-mbappe-harry-kane-why-many-players-stuttering-penalties-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687248_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Lionel Messi",
+        "Kylian Mbappé",
+        "Harry Kane"
+      ],
+      "score": 147
+    },
+    {
+      "id": "49325317",
+      "headline": "Álvarez's return could be Argentina's antidote to their Messi dependency",
+      "description": "A sense of celebration has hung over Argentina ever since Qatar 2022, even into this World Cup. That must change in the business end of the tournament.",
+      "published": "2026-07-10T15:35:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49325317/julian-alvarez-return-argentina-antidote-their-lionel-messi-dependency-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687344_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina",
+        "Qatar"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Julián Álvarez"
+      ],
+      "score": 147
+    },
+    {
+      "id": "49322102",
+      "headline": "Transfer rumors, news: Arsenal eye Club Brugge forward to replace Trossard",
+      "description": "Arsenal are set to push forward with an approach for Club Brugge attacking midfielder Christos Tzolis.",
+      "published": "2026-07-10T16:40:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49322102/transfer-rumors-news-arsenal-eye-club-brugge-forward-replace-trossard",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687374_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Christos Tzolis",
+        "Vinícius Júnior"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49325725",
+      "headline": "England's Niamh Charles completes transfer to Man City from Chelsea",
+      "description": "England defender Niamh Charles has joined Women's Super League champions Manchester City on a three-year deal.",
+      "published": "2026-07-10T16:24:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49325725/england-niamh-charles-completes-transfer-man-city-chelsea",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687367_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Brazil",
+        "England"
+      ],
+      "players": [
+        "Niamh Charles",
+        "Vinícius Júnior"
+      ],
+      "score": 144
+    },
+    {
+      "id": "48991002",
+      "headline": "Summer transfer window: Grading big signings in women's soccer",
+      "description": "The women's transfer window is nearly open for the summer. Here are the big deals and how we rated them.",
+      "published": "2026-07-10T16:21:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48991002/summer-transfer-window-grading-big-signings-womens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686387_1296x729_16-9.jpg",
+      "byline": "Emily Keogh and Yash Thakur",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Vinícius Júnior"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49319548",
+      "headline": "France's Kylian Mbappé allays any World Cup injury concern: 'I'm all good'",
+      "description": "Kylian Mbappé has downplayed concerns over what he described as a \"knock on his ankle\" during France's 2-0 World Cup quarterfinal win over Morocco.",
+      "published": "2026-07-10T12:37:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49319548/france-kylian-mbappe-allays-world-cup-injury-concern-all-good-morocco",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1687109_1296x729_16-9.jpg",
+      "byline": "Julien Laurens",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "France",
+        "Morocco"
+      ],
+      "players": [
+        "Kylian Mbappé"
+      ],
+      "score": 140
     },
     {
       "id": "49322481",
@@ -47,7 +280,82 @@
         "Marc Guéhi",
         "Declan Rice"
       ],
-      "score": 216
+      "score": 136
+    },
+    {
+      "id": "49326093",
+      "headline": "McManaman: England should have too much quality for Norway",
+      "description": "McManaman: England should have too much quality for Norway",
+      "published": "2026-07-10T17:22:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/49326093/england-too-much-quality-norway",
+      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Analysis_McManaman3A_England_should_have_too_much_quality_for_Norway_GLOBAL_2026-07-10/dm_260710_COM_SOC_Analysis_McManaman3A_England_should_have_too_much_quality_for_Norway_GLOBAL_2026-07-10.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "England",
+        "Norway"
+      ],
+      "players": [
+        "Vinícius Júnior"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49322084",
+      "headline": "Police officer injured, arrests made amid London disorder after France beat Morocco",
+      "description": "A police officer was injured and four people were arrested after disorder broke out in London following France's 2-0 win against Morocco in the World Cup quarterfinal on Thursday.",
+      "published": "2026-07-10T09:55:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49322084/police-officer-injured-arrests-made-amid-london-disorder-france-beat-morocco-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687227_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "France",
+        "Morocco"
+      ],
+      "players": [],
+      "score": 133
+    },
+    {
+      "id": "49316632",
+      "headline": "Forget Messi & Co., because this is Erling Haaland's World Cup",
+      "description": "In a different timeline, Haaland could have played for England, but the man has become the avatar for Norway and, in many ways, the World Cup as a whole. Can he launch them past England in the quarterfinals?",
+      "published": "2026-07-10T15:19:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49316632/erling-haaland-norway-world-cup-manchester-city-england-striker-analysis-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686972_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49318195",
+      "headline": "On eve of World Cup record, why doesn't England's Pickford get more love?",
+      "description": "Jordan Pickford has been a mainstay as England goalkeeper for eight years. Somwhow, he has not yet won the trust of the country's supporters.",
+      "published": "2026-07-10T15:18:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49318195/jordan-pickford-england-goalkeepers-world-cup-peter-shilton-record-thomas-tuchel",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1687025_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Jordan"
+      ],
+      "players": [
+        "Jordan Pickford"
+      ],
+      "score": 130
     },
     {
       "id": "49313872",
@@ -67,31 +375,50 @@
         "Harry Kane",
         "Erling Haaland"
       ],
-      "score": 201
+      "score": 130
     },
     {
-      "id": "49322084",
-      "headline": "Police officer injured, arrests made amid London disorder after France beat Morocco",
-      "description": "A police officer was injured and four people were arrested after disorder broke out in London following France's 2-0 win against Morocco in the World Cup quarterfinal on Thursday.",
-      "published": "2026-07-10T09:55:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49322084/police-officer-injured-arrests-made-amid-london-disorder-france-beat-morocco-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687227_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49323404",
+      "headline": "England's Bellingham, Norway's Ødegaard have World Cup at their feet",
+      "description": "At first glance, Jude Bellingham and Martin Ødegaard are vastly different. But both have been maligned and questioned recently yet are now on top form.",
+      "published": "2026-07-10T15:02:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49323404/england-jude-bellingham-norway-martin-odegaard-world-cup-their-feet",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687267_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "France",
-        "Morocco"
+        "England",
+        "Norway"
+      ],
+      "players": [
+        "Jude Bellingham",
+        "Martin Ødegaard"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49323493",
+      "headline": "Jorge Jesus named Portugal coach, would welcome Cristiano Ronaldo back",
+      "description": "Newly named Portugal coach Jorge Jesus said on Friday that there is still room on the team for star Cristiano Ronaldo.",
+      "published": "2026-07-10T15:24:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49323493/jorge-jesus-portugal-head-coach-world-cup-exit",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687269_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
       ],
       "players": [],
-      "score": 193
+      "score": 127
     },
     {
       "id": "49317008",
-      "headline": "Instead of its biggest World Cup star, Pulisic was U.S.'s biggest mystery",
+      "headline": "USMNT's Pulisic flopped at this World Cup, but does he deserve the blame?",
       "description": "In his prime at a World Cup on home soil, this summer was Christian Pulisic's moment, but for a number of reasons, he failed to meet it.",
-      "published": "2026-07-10T06:34:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49317008/instead-biggest-world-cup-star-christian-pulisic-was-usmnt-biggest-mystery",
+      "published": "2026-07-10T13:43:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49317008/instead-being-usmnt-biggest-world-cup-star-pulisic-was-biggest-mystery",
       "image": "https://a.espncdn.com/photo/2026/0707/r1685681_1296x729_16-9.jpg",
       "byline": "Sam Borden",
       "kind": "news",
@@ -102,7 +429,274 @@
       "players": [
         "Christian Pulisic"
       ],
-      "score": 167
+      "score": 127
+    },
+    {
+      "id": "49322106",
+      "headline": "Deschamps: France really proud to be in semifinals for third time in a row",
+      "description": "Deschamps: France really proud to be in semifinals for third time in a row",
+      "published": "2026-07-10T07:42:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/49322106/france-really-proud-semifinals-third-row",
+      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Presser_Deschamps_France_really_proud_to_be_in_semifinals_for_third_time_in_a_row_202607/dm_260710_COM_SOC_Presser_Deschamps_France_really_proud_to_be_in_semifinals_for_third_time_in_a_row_202607.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "France",
+        "Morocco"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49322056",
+      "headline": "Nico O'Reilly wary of Erling Haaland 'mind games' ahead of England-Norway World Cup quarterfinal",
+      "description": "Nico O'Reilly has said that Erling Haaland is playing mind games by saying England are \"clear favourites\" to win their World Cup quarterfinal with Norway.",
+      "published": "2026-07-10T07:39:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49322056/nico-oreilly-erling-haaland-mind-games-england-norway-world-cup-quarterfinal",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687217_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [
+        "Nico O'Reilly",
+        "Erling Haaland"
+      ],
+      "score": 127
+    },
+    {
+      "id": "48352807",
+      "headline": "World Cup kit ranking: Which teams will look best in 2026?",
+      "description": "The 2026 World Cup will be the first with 48 teams, bringing a total of more than 100 kits! Here they all are, ranked from worst to first.",
+      "published": "2026-07-10T14:29:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637137_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Algeria",
+        "Argentina",
+        "Australia",
+        "Austria",
+        "Brazil",
+        "Belgium",
+        "Canada",
+        "Colombia",
+        "DR Congo",
+        "Croatia",
+        "Curaçao",
+        "Czechia",
+        "Ecuador",
+        "Egypt",
+        "England",
+        "France",
+        "Germany",
+        "Ghana",
+        "Haiti",
+        "Iraq",
+        "IR Iran",
+        "Côte d'Ivoire",
+        "Japan",
+        "Jordan",
+        "Mexico",
+        "Morocco",
+        "New Zealand",
+        "Netherlands",
+        "Norway",
+        "Panama",
+        "Paraguay",
+        "Portugal",
+        "Qatar",
+        "Saudi Arabia",
+        "Scotland",
+        "Senegal",
+        "Spain",
+        "South Africa",
+        "Korea Republic",
+        "Sweden",
+        "Switzerland",
+        "Tunisia",
+        "Uruguay",
+        "USA",
+        "Uzbekistan"
+      ],
+      "players": [],
+      "score": 126
+    },
+    {
+      "id": "49178425",
+      "headline": "World Cup: Grades for every eliminated team as each exits the tournament",
+      "description": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how its run compared with expectations.",
+      "published": "2026-07-10T14:26:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687311_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Czechia",
+        "Qatar",
+        "Haiti",
+        "Curaçao",
+        "Tunisia",
+        "Jordan",
+        "Panama",
+        "Uruguay",
+        "Saudi Arabia",
+        "New Zealand",
+        "Iraq",
+        "IR Iran",
+        "Scotland",
+        "Uzbekistan",
+        "Korea Republic",
+        "South Africa",
+        "Netherlands",
+        "Germany",
+        "Japan",
+        "Algeria",
+        "Croatia",
+        "Austria",
+        "Cabo Verde",
+        "Australia",
+        "Ghana",
+        "Brazil",
+        "Mexico",
+        "Morocco"
+      ],
+      "players": [],
+      "score": 126
+    },
+    {
+      "id": "49324516",
+      "headline": "South African FA say Hugo Broos remains in his role despite exit reports",
+      "description": "The South African Football Association (SAFA) have denied that Hugo Broos has left his role as head coach.",
+      "published": "2026-07-10T14:22:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49324516/south-african-fa-say-hugo-broos-remains-role-exit-reports",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675701_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa"
+      ],
+      "players": [],
+      "score": 125
+    },
+    {
+      "id": "49323027",
+      "headline": "Erling Haaland defends Kylian Mbappé after penalty miss vs. Morocco",
+      "description": "Erling Haaland has said he believes France captain Kylian Mbappé was made to wait \"too long\" to take a penalty against Morocco in Thursday's World cup quarterfinal.",
+      "published": "2026-07-10T12:01:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49323027/erling-haaland-defends-kylian-mbappe-penalty-miss-vs-morocco",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687245_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Morocco"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Kylian Mbappé"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49321114",
+      "headline": "Emerging Socceroo takes leap to Bundesliga",
+      "description": "Promising midfielder Paul Okon-Engstler is headed to Germany, the first of an emerging batch of Socceroos to move to bigger leagues.",
+      "published": "2026-07-10T04:22:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49321114/fifa-world-cup-australia-socceroos-paul-okon-engstler-bundesliga-lucas-herrington-nestory-irankunda",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687189_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "Germany"
+      ],
+      "players": [
+        "Paul Okon-Engstler",
+        "Lucas Herrington",
+        "Nestory Irankunda"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49322938",
+      "headline": "'Frustrated' Bruno Fernandes reacts to Portugal's World Cup exit",
+      "description": "Manchester United captain Bruno Fernandes is still coming to terms with Portugal's early exit from the World Cup.",
+      "published": "2026-07-10T11:25:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49322938/bruno-fernandes-portugal-world-cup-defeat-spain-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687243_2_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [],
+      "score": 121
+    },
+    {
+      "id": "49322876",
+      "headline": "Egypt are welcomed back by thousands of fans after World Cup exit",
+      "description": "Egypt are welcomed back by thousands of fans after World Cup exit",
+      "published": "2026-07-10T11:03:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/49322876/egypt-welcomed-back-thousands-fans-world-cup-exit",
+      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_News_Egypt_are_welcomed_back_by_thousands_of_fans_after_World_Cup_exit__20260710_GLOBAL/dm_260710_COM_SOC_News_Egypt_are_welcomed_back_by_thousands_of_fans_after_World_Cup_exit__20260710_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Egypt"
+      ],
+      "players": [],
+      "score": 120
+    },
+    {
+      "id": "49319245",
+      "headline": "Burley: Quansah red card ban 'makes a mockery of FIFA'",
+      "description": "Burley: Quansah red card ban 'makes a mockery of FIFA'",
+      "published": "2026-07-10T00:38:59Z",
+      "url": "https://www.espn.com/video/clip/_/id/49319245/quansah-red-card-ban-makes-mockery-fifa",
+      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_Burley_Quansah_red_card_ban_makes_a_mockery_of_FIFA/dm_260709_Burley_Quansah_red_card_ban_makes_a_mockery_of_FIFA.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Jarell Quansah"
+      ],
+      "score": 120
+    },
+    {
+      "id": "49322144",
+      "headline": "Gavi: Even at seventy percent, Lamine Yamal is still the best",
+      "description": "Gavi: Even at seventy percent, Lamine Yamal is still the best",
+      "published": "2026-07-10T07:55:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/49322144/even-seventy-percent-lamine-yamal-best",
+      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Presser_Gavi_Even_at_seven_percent_Lamine_Yamal_is_still_the_best_20260710_GLOBAL_FIFA_WO/dm_260710_COM_SOC_Presser_Gavi_Even_at_seven_percent_Lamine_Yamal_is_still_the_best_20260710_GLOBAL_FIFA_WO.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "Spain"
+      ],
+      "players": [
+        "Gavi",
+        "Lamine Yamal"
+      ],
+      "score": 119
     },
     {
       "id": "49294844",
@@ -125,141 +719,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 158
-    },
-    {
-      "id": "49322144",
-      "headline": "Gavi: Even at seventy percent, Lamine Yamal is still the best",
-      "description": "Gavi: Even at seventy percent, Lamine Yamal is still the best",
-      "published": "2026-07-10T07:55:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/49322144/even-seventy-percent-lamine-yamal-best",
-      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Presser_Gavi_Even_at_seven_percent_Lamine_Yamal_is_still_the_best_20260710_GLOBAL_FIFA_WO/dm_260710_COM_SOC_Presser_Gavi_Even_at_seven_percent_Lamine_Yamal_is_still_the_best_20260710_GLOBAL_FIFA_WO.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Belgium",
-        "Spain"
-      ],
-      "players": [
-        "Gavi",
-        "Lamine Yamal"
-      ],
-      "score": 149
-    },
-    {
-      "id": "49322106",
-      "headline": "Deschamps: France really proud to be in semifinals for third time in a row",
-      "description": "Deschamps: France really proud to be in semifinals for third time in a row",
-      "published": "2026-07-10T07:42:58Z",
-      "url": "https://www.espn.com/video/clip/_/id/49322106/france-really-proud-semifinals-third-row",
-      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Presser_Deschamps_France_really_proud_to_be_in_semifinals_for_third_time_in_a_row_202607/dm_260710_COM_SOC_Presser_Deschamps_France_really_proud_to_be_in_semifinals_for_third_time_in_a_row_202607.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "France",
-        "Morocco"
-      ],
-      "players": [],
-      "score": 148
-    },
-    {
-      "id": "49322102",
-      "headline": "Transfer rumors, news: Man United, Newcastle eye Nottingham Forest's Williams",
-      "description": "Manchester United are interested in Nottingham Forest's Neco Williams, but they could face competition to sign him. Transfer Talk has the latest.",
-      "published": "2026-07-10T09:37:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49322102/transfer-rumors-news-man-united-newcastle-eye-nottingham-forest-neco-williams",
-      "image": "https://a.espncdn.com/photo/2026/0515/r1658767_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Neco Williams",
-        "Erling Haaland"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49322056",
-      "headline": "Nico O'Reilly wary of Erling Haaland 'mind games' ahead of England-Norway World Cup quarterfinal",
-      "description": "Nico O'Reilly has said that Erling Haaland is playing mind games by saying England are \"clear favourites\" to win their World Cup quarterfinal with Norway.",
-      "published": "2026-07-10T07:39:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49322056/nico-oreilly-erling-haaland-mind-games-england-norway-world-cup-quarterfinal",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687217_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Norway"
-      ],
-      "players": [
-        "Nico O'Reilly",
-        "Erling Haaland"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49321114",
-      "headline": "Emerging Socceroo takes leap to Bundesliga",
-      "description": "Promising midfielder Paul Okon-Engstler is headed to Germany, the first of an emerging batch of Socceroos to move to bigger leagues.",
-      "published": "2026-07-10T04:22:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49321114/fifa-world-cup-australia-socceroos-paul-okon-engstler-bundesliga-lucas-herrington-nestory-irankunda",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687189_1296x729_16-9.jpg",
-      "byline": "AAP",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "Germany"
-      ],
-      "players": [
-        "Paul Okon-Engstler",
-        "Lucas Herrington",
-        "Nestory Irankunda"
-      ],
-      "score": 136
-    },
-    {
-      "id": "49319548",
-      "headline": "France's Kylian Mbappé allays any World Cup injury concern: 'I'm all good'",
-      "description": "Kylian Mbappé has downplayed concerns over what he described as a \"knock on his ankle\" during France's 2-0 World Cup quarterfinal win over Morocco.",
-      "published": "2026-07-10T01:03:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49319548/france-kylian-mbappe-allays-world-cup-injury-concern-all-good-morocco",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687109_1296x729_16-9.jpg",
-      "byline": "Julien Laurens",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "France",
-        "Morocco"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49319245",
-      "headline": "Burley: Quansah red card ban 'makes a mockery of FIFA'",
-      "description": "Burley: Quansah red card ban 'makes a mockery of FIFA'",
-      "published": "2026-07-10T00:38:59Z",
-      "url": "https://www.espn.com/video/clip/_/id/49319245/quansah-red-card-ban-makes-mockery-fifa",
-      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_Burley_Quansah_red_card_ban_makes_a_mockery_of_FIFA/dm_260709_Burley_Quansah_red_card_ban_makes_a_mockery_of_FIFA.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Jarell Quansah"
-      ],
-      "score": 130
+      "score": 118
     },
     {
       "id": "49322082",
@@ -278,45 +738,7 @@
       "players": [
         "Kylian Mbappé"
       ],
-      "score": 128
-    },
-    {
-      "id": "49318195",
-      "headline": "On eve of World Cup record, why doesn't England's Pickford get more love?",
-      "description": "Jordan Pickford has been a mainstay as England goalkeeper for eight years. Somwhow, he has not yet won the trust of the country's supporters.",
-      "published": "2026-07-10T07:15:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49318195/jordan-pickford-england-goalkeepers-world-cup-peter-shilton-record-thomas-tuchel",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687025_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Jordan"
-      ],
-      "players": [
-        "Jordan Pickford"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49316632",
-      "headline": "Forget Messi & Co., because this is Erling Haaland's World Cup",
-      "description": "In a different timeline, Haaland could have played for England, but the man has become the avatar for Norway and, in many ways, the World Cup as a whole. Can he launch them past England in the quarterfinals?",
-      "published": "2026-07-10T06:26:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49316632/erling-haaland-norway-world-cup-manchester-city-england-striker-analysis-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686972_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "England"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 127
+      "score": 118
     },
     {
       "id": "49319003",
@@ -336,44 +758,7 @@
         "Jarell Quansah",
         "Nico O'Reilly"
       ],
-      "score": 127
-    },
-    {
-      "id": "49317664",
-      "headline": "Jarell Quansah's extended World Cup ban 'very frustrating' - Bukayo Saka",
-      "description": "England's Bukayo Saka has said Jarell Quansah's two-game World Cup ban is \"very frustrating.\"",
-      "published": "2026-07-09T22:44:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49317664/jarell-quansah-extended-world-cup-ban-very-frustrating-bukayo-saka",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685146_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Jarell Quansah"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49317174",
-      "headline": "Norway's Haaland: Chances of winning World Cup 'really low', pressure fully on England",
-      "description": "Norway striker Erling Haaland has said that his side's chances of winning the World Cup are \"really low\" -- and that all the pressure is on England ahead of their World Cup quarterfinal in Miami.",
-      "published": "2026-07-09T22:50:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49317174/norway-erling-haaland-chances-really-low-world-cup-pressure-england-quarterfinal",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686981_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Norway",
-        "England"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 124
+      "score": 117
     },
     {
       "id": "49320949",
@@ -392,7 +777,7 @@
       "players": [
         "Ayyoub Bouaddi"
       ],
-      "score": 123
+      "score": 113
     },
     {
       "id": "49318578",
@@ -411,7 +796,7 @@
       "players": [
         "Thibaut Courtois"
       ],
-      "score": 123
+      "score": 112
     },
     {
       "id": "49319041",
@@ -430,82 +815,7 @@
         "France"
       ],
       "players": [],
-      "score": 123
-    },
-    {
-      "id": "49318853",
-      "headline": "France fans celebrate as Mbappé scores first goal vs. Morocco",
-      "description": "France fans celebrate as Mbappé scores first goal vs. Morocco",
-      "published": "2026-07-09T22:21:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49318853/france-fans-celebrate-mbappe-scores-first-goal-vs-morocco",
-      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_France_fans_celebrate_as_Mbappe_scores_first_goal_vs_Morocco/dm_260709_France_fans_celebrate_as_Mbappe_scores_first_goal_vs_Morocco.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France",
-        "Morocco"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49315827",
-      "headline": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-      "description": "England fullback Jarell Quansah has been suspended for two matches after receiving a red card in his side's World Cup round-of-16 win over Mexico.",
-      "published": "2026-07-09T19:35:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49315827/england-jarell-quansah-suspended-two-world-cup-matches-mexico-red",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685486_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton and James Olley",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [
-        "Jarell Quansah"
-      ],
-      "score": 122
-    },
-    {
-      "id": "48979217",
-      "headline": "Kylian Mbappe at the World Cup: History, results, stats",
-      "description": "As Mbappé aims to lead France back to soccer's mountaintop, here is a look at his career at the FIFA World Cup.",
-      "published": "2026-07-09T22:09:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48979217/kylian-mbappe-fifa-world-cup-history-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667132_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49019838",
-      "headline": "Who scored the most goals in men's World Cup history?",
-      "description": "Argentina's Lionel Messi scored the most goals in men's World Cup history. Check out which other soccer stars made the list.",
-      "published": "2026-07-09T22:07:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49019838/who-scored-most-goals-men-world-cup-history",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677710_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Lionel Messi"
-      ],
-      "score": 121
+      "score": 112
     },
     {
       "id": "48945011",
@@ -519,7 +829,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 120
+      "score": 110
     },
     {
       "id": "48945570",
@@ -533,7 +843,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 120
+      "score": 110
     },
     {
       "id": "48939282",
@@ -551,7 +861,7 @@
         "USA"
       ],
       "players": [],
-      "score": 120
+      "score": 110
     },
     {
       "id": "49319513",
@@ -570,7 +880,7 @@
       "players": [
         "Kylian Mbappé"
       ],
-      "score": 119
+      "score": 108
     },
     {
       "id": "49309123",
@@ -588,7 +898,7 @@
       "players": [
         "Gilberto Mora"
       ],
-      "score": 118
+      "score": 108
     },
     {
       "id": "49319258",
@@ -607,7 +917,7 @@
       "players": [
         "Lamine Yamal"
       ],
-      "score": 118
+      "score": 108
     },
     {
       "id": "49319230",
@@ -626,7 +936,7 @@
       "players": [
         "Kylian Mbappé"
       ],
-      "score": 118
+      "score": 108
     },
     {
       "id": "49319699",
@@ -645,23 +955,7 @@
       "players": [
         "Ayyoub Bouaddi"
       ],
-      "score": 118
-    },
-    {
-      "id": "49083555",
-      "headline": "France at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the France men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-09T22:10:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49083555/france-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674268_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France"
-      ],
-      "players": [],
-      "score": 118
+      "score": 108
     },
     {
       "id": "49320198",
@@ -677,24 +971,7 @@
         "England"
       ],
       "players": [],
-      "score": 117
-    },
-    {
-      "id": "49318480",
-      "headline": "Luis de la Fuente unbothered by Spain's World Cup favorites tag",
-      "description": "Spain news conference",
-      "published": "2026-07-10T02:11:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49318480/luis-de-la-fuente-unbothered-spain-world-cup-favorites-tag",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687150_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 117
+      "score": 107
     },
     {
       "id": "49318321",
@@ -713,186 +990,7 @@
       "players": [
         "Kylian Mbappé"
       ],
-      "score": 117
-    },
-    {
-      "id": "49316584",
-      "headline": "Keir Starmer's England intervention 'more egregious' than Balogun reversal - U.S. official",
-      "description": "Sir Keir Starmer's intervention on the Mexico v England kick-off time was \"far more egregious\" than United States President Donald Trump lobbying FIFA over Folarin Balogun's red card, the White House's top World Cup executive has said.",
-      "published": "2026-07-09T18:09:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49316584/keir-starmer-england-mexico-intervention-world-cup-egregious-balogun-white-house",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686934_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "Mexico",
-        "USA"
-      ],
-      "players": [],
-      "score": 117
-    },
-    {
-      "id": "49117037",
-      "headline": "2026 World Cup Golden Boot tracker: Will Messi, Mbappé, or other score most goals?",
-      "description": "We're into the quarterfinals at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
-      "published": "2026-07-09T23:28:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1676221_1296x729_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina",
-        "France",
-        "Norway",
-        "USA"
-      ],
-      "players": [
-        "Harry Kane",
-        "Lionel Messi",
-        "Kylian Mbappé",
-        "Erling Haaland",
-        "Folarin Balogun"
-      ],
-      "score": 116
-    },
-    {
-      "id": "49318912",
-      "headline": "Joy for France fans after Dembélé doubles lead vs. Morocco",
-      "description": "Joy for France fans after Dembélé doubles lead vs. Morocco",
-      "published": "2026-07-09T22:27:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49318912/joy-france-fans-dembele-doubles-lead-vs-morocco",
-      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_Joy_for_France_fans_after_Dembele_doubles_lead_vs_Morocco/dm_260709_Joy_for_France_fans_after_Dembele_doubles_lead_vs_Morocco.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Morocco"
-      ],
-      "players": [
-        "Ousmane Dembélé"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49319244",
-      "headline": "France advance to third consecutive World Cup semifinal",
-      "description": "France move on to the World Cup semifinals after defeating Morocco 2-0 through a stunning second half from their superstars.",
-      "published": "2026-07-09T23:28:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/49319244/france-advance-third-consecutive-world-cup-semifinal",
-      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_soccer_Highlight_France_advance_to_third_consecutive_World_Cup_semifinal_20260710_AUS_ONLY/dm_260709_soccer_Highlight_France_advance_to_third_consecutive_World_Cup_semifinal_20260710_AUS_ONLY.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco",
-        "France"
-      ],
-      "players": [],
-      "score": 113
-    },
-    {
-      "id": "49317185",
-      "headline": "Mbappé guides France past Morocco to World Cup semifinals",
-      "description": "Kylian Mbappé recovered from a missed penalty to score his 20th World Cup goal and help send France through to the semifinals with a 2-0 win over Morocco.",
-      "published": "2026-07-09T22:57:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49317185/mbappe-guides-france-morocco-world-cup-semifinals",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687058_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Morocco"
-      ],
-      "players": [],
-      "score": 113
-    },
-    {
-      "id": "49318813",
-      "headline": "FIFA World Cup 2026 stats: Mbappe tops Messi (again), breaks multiple records; Mbappe, Dembele first since Ronaldo, Rivaldo",
-      "description": "ESPN's By The Numbers brings you best stats from the World Cup action on July 9.",
-      "published": "2026-07-10T01:32:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49318813/fifa-world-cup-2026-stats-kylian-mbappe-tops-lionel-messi-breaks-multiple-records-france-ousmane-dembele-ronaldo-rivaldo",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687103_1296x729_16-9.jpg",
-      "byline": "Anirudh Menon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 112
-    },
-    {
-      "id": "49317421",
-      "headline": "France vs. Morocco player ratings as Kylian Mbappé and Ousmane Dembelé strike to seal World Cup semifinals spot",
-      "description": "Here's how the France team rated as Les Bleus went one step closer to a third consecutive World Cup final in a 2-0 win over Morocco.",
-      "published": "2026-07-09T22:43:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49317421/france-morocco-kylian-mbappe-desire-doue-ousmane-dembele-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687040_1296x729_16-9.jpg",
-      "byline": "David Cartlidge",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Morocco"
-      ],
-      "players": [],
-      "score": 112
-    },
-    {
-      "id": "49293147",
-      "headline": "Kylian Mbappé scores after missed penalty as France dispatch Morocco in World Cup quarterfinal",
-      "description": "Kylian Mbappé had a goal and an assist after missing a first-half penalty kick, Ousmane Dembélé scored the other goal and France beat Morocco 2-0 Thursday in the World Cup quarterfinals.",
-      "published": "2026-07-09T22:35:36Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/760510",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687070_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Morocco"
-      ],
-      "players": [],
-      "score": 112
-    },
-    {
-      "id": "49309361",
-      "headline": "World Cup recap: Mbappé, Dembelé strike to send France to last four over Morocco",
-      "description": "Enjoy all that happened from Thursday's 2026 World Cup quarterfinal in Foxborough as France defeated Morocco 2-0.",
-      "published": "2026-07-09T22:01:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49309361/world-cup-updates-france-take-morocco-first-quarterfinal-showdown",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687050_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Morocco"
-      ],
-      "players": [],
-      "score": 111
-    },
-    {
-      "id": "49021847",
-      "headline": "Who scored the most goals in a single men's World Cup?",
-      "description": "Just Fontaine scored the most goals in a single men's World Cup. Check out which other players made the list.",
-      "published": "2026-07-09T22:12:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49021847/who-scored-most-goals-single-men-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670957_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Kylian Mbappé",
-        "Lionel Messi"
-      ],
-      "score": 110
+      "score": 107
     }
   ]
 }
