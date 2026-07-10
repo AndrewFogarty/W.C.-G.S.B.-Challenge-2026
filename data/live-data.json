@@ -1,6 +1,6 @@
 {
   "source": "openfootball/worldcup.json (2026)",
-  "updated": "2026-07-09T22:46:07.083Z",
+  "updated": "2026-07-10T21:32:36.115Z",
   "results": {
     "A": [
       [
@@ -343,7 +343,8 @@
       "Switzerland"
     ],
     "SF": [
-      "France"
+      "France",
+      "Spain"
     ],
     "FINAL": [],
     "champion": null
@@ -1351,8 +1352,8 @@
       "s": "QF",
       "h": "Spain",
       "a": "Belgium",
-      "hg": null,
-      "ag": null,
+      "hg": 2,
+      "ag": 1,
       "v": "SoFi Stadium (Los Angeles, USA)"
     },
     {
