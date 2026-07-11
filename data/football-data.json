@@ -1,6 +1,6 @@
 {
   "source": "API-Football (api-sports.io)",
-  "updated": "2026-07-11T20:28:46.233Z",
+  "updated": "2026-07-11T23:37:19.124Z",
   "season": 2026,
   "teams": {
     "Mexico": {
@@ -155671,6 +155671,30 @@
             ],
             "subs": [
               {
+                "id": 39043,
+                "name": "Fredrik Aursnes",
+                "number": 14,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/39043.png"
+              },
+              {
+                "id": 278133,
+                "name": "Oscar Bobb",
+                "number": 22,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/278133.png"
+              },
+              {
+                "id": 314511,
+                "name": "Antonio Nusa",
+                "number": 20,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/314511.png"
+              },
+              {
                 "id": 264378,
                 "name": "Sander Tangvik",
                 "number": 12,
@@ -155735,14 +155759,6 @@
                 "photo": "https://media.api-sports.io/football/players/36980.png"
               },
               {
-                "id": 39043,
-                "name": "Fredrik Aursnes",
-                "number": 14,
-                "pos": "M",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/39043.png"
-              },
-              {
                 "id": 39143,
                 "name": "Kristian Thorstvedt",
                 "number": 18,
@@ -155759,14 +155775,6 @@
                 "photo": "https://media.api-sports.io/football/players/277930.png"
               },
               {
-                "id": 278133,
-                "name": "Oscar Bobb",
-                "number": 22,
-                "pos": "M",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/278133.png"
-              },
-              {
                 "id": 39073,
                 "name": "Jens Petter Hauge",
                 "number": 23,
@@ -155781,14 +155789,6 @@
                 "pos": "F",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/2032.png"
-              },
-              {
-                "id": 314511,
-                "name": "Antonio Nusa",
-                "number": 20,
-                "pos": "M",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/314511.png"
               }
             ]
           },
@@ -155838,20 +155838,20 @@
                 "photo": "https://media.api-sports.io/football/players/307123.png"
               },
               {
-                "id": 138908,
-                "name": "Elliot Anderson",
-                "number": 8,
-                "pos": "M",
-                "grid": "3:2",
-                "photo": "https://media.api-sports.io/football/players/138908.png"
-              },
-              {
                 "id": 2937,
                 "name": "Declan Rice",
                 "number": 4,
                 "pos": "M",
-                "grid": "3:1",
+                "grid": "3:2",
                 "photo": "https://media.api-sports.io/football/players/2937.png"
+              },
+              {
+                "id": 138908,
+                "name": "Elliot Anderson",
+                "number": 8,
+                "pos": "M",
+                "grid": "3:1",
+                "photo": "https://media.api-sports.io/football/players/138908.png"
               },
               {
                 "id": 136723,
@@ -155887,6 +155887,22 @@
               }
             ],
             "subs": [
+              {
+                "id": 19586,
+                "name": "Eberechi Eze",
+                "number": 21,
+                "pos": "M",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/19586.png"
+              },
+              {
+                "id": 1460,
+                "name": "Bukayo Saka",
+                "number": 7,
+                "pos": "F",
+                "grid": null,
+                "photo": "https://media.api-sports.io/football/players/1460.png"
+              },
               {
                 "id": 19088,
                 "name": "Dean Henderson",
@@ -155958,22 +155974,6 @@
                 "pos": "M",
                 "grid": null,
                 "photo": "https://media.api-sports.io/football/players/19170.png"
-              },
-              {
-                "id": 19586,
-                "name": "Eberechi Eze",
-                "number": 21,
-                "pos": "M",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/19586.png"
-              },
-              {
-                "id": 1460,
-                "name": "Bukayo Saka",
-                "number": 7,
-                "pos": "F",
-                "grid": null,
-                "photo": "https://media.api-sports.io/football/players/1460.png"
               },
               {
                 "id": 909,
@@ -157344,5 +157344,15 @@
       }
     }
   },
-  "live": []
+  "live": [
+    {
+      "home": "Norway",
+      "away": "England",
+      "hg": 1,
+      "ag": 2,
+      "elapsed": 113,
+      "extra": null,
+      "status": "ET"
+    }
+  ]
 }

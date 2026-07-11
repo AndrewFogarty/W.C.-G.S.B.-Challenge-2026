@@ -1,21 +1,56 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-11T20:28:47.164Z",
+  "updated": "2026-07-11T23:37:19.702Z",
   "counts": {
-    "preview": 5,
-    "news": 31,
-    "offfield": 3,
+    "news": 32,
+    "preview": 4,
     "celebration": 5,
+    "offfield": 3,
     "injury": 4
   },
   "items": [
     {
+      "id": "49337986",
+      "headline": "The scenes in London as Jude Bellingham gives England the lead",
+      "description": "The scenes in London as Jude Bellingham gives England the lead",
+      "published": "2026-07-11T23:23:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/49337986/the-scenes-london-jude-bellingham-gives-england-lead",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_The_scenes_in_London_as_Jude_Bellingham_gives_England_the_lead/dm_260711_The_scenes_in_London_as_Jude_Bellingham_gives_England_the_lead.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Jude Bellingham"
+      ],
+      "score": 213
+    },
+    {
+      "id": "49337726",
+      "headline": "England and Norway fans react to Heggem's disallowed goal",
+      "description": "England and Norway fans react to Heggem's disallowed goal",
+      "published": "2026-07-11T22:59:48Z",
+      "url": "https://www.espn.com/video/clip/_/id/49337726/england-norway-fans-react-heggem-disallowed-goal",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_NEWS_England_and_Norway_fans_react_to_Heggems_disallowed_goal_2026_7_11/dm_260711_COM_SOC_NEWS_England_and_Norway_fans_react_to_Heggems_disallowed_goal_2026_7_11.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [],
+      "score": 199
+    },
+    {
       "id": "49329265",
-      "headline": "World Cup live updates: Norway take on England in quarterfinal clash",
+      "headline": "World Cup live updates: England and Norway still level, off to extra time",
       "description": "Enjoy all the updates from Saturday's match as Norway take on England in Miami Gardens in 2026 FIFA World Cup quarterfinal action.",
-      "published": "2026-07-11T20:11:41Z",
+      "published": "2026-07-11T23:01:51Z",
       "url": "https://www.espn.com/soccer/story/_/id/49329265/world-cup-live-updates-norway-take-england-quarterfinal-clash",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687579_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687924_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "preview",
       "kindLabel": "Match preview",
@@ -24,13 +59,13 @@
         "England"
       ],
       "players": [],
-      "score": 219
+      "score": 198
     },
     {
       "id": "49329226",
       "headline": "World Cup daily: Free England-Norway ticket in Haaland look-alike contest",
       "description": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
-      "published": "2026-07-11T20:12:02Z",
+      "published": "2026-07-11T22:38:40Z",
       "url": "https://www.espn.com/soccer/story/_/id/49329226/world-cup-daily-england-norway-argentina-switzerland-quarterfinals-erling-haaland",
       "image": "https://a.espncdn.com/photo/2026/0711/r1687666_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -41,7 +76,153 @@
         "England"
       ],
       "players": [],
-      "score": 200
+      "score": 179
+    },
+    {
+      "id": "49337390",
+      "headline": "Fans in London go wild as Jude Bellingham equalises for England",
+      "description": "Fans in London go wild as Jude Bellingham equalises for England",
+      "published": "2026-07-11T22:01:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/49337390/fans-london-go-wild-jude-bellingham-equalises-england",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_Fans_in_London_go_wild_as_Jude_Bellingham_equalises_for_England/dm_260711_Fans_in_London_go_wild_as_Jude_Bellingham_equalises_for_England.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Jude Bellingham"
+      ],
+      "score": 178
+    },
+    {
+      "id": "49337310",
+      "headline": "Crazy scenes in Oslo has Norway take the lead vs. England",
+      "description": "Crazy scenes in Oslo has Norway take the lead vs. England",
+      "published": "2026-07-11T21:51:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49337310/crazy-scenes-oslo-norway-take-lead-vs-england",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Fans_Crazy_scenes_in_Olso_has_Norway_take_the_lead_vs_England_GLOBAL_2026-07-11/dm_260711_COM_SOC_Fans_Crazy_scenes_in_Olso_has_Norway_take_the_lead_vs_England_GLOBAL_2026-07-11.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [],
+      "score": 157
+    },
+    {
+      "id": "49324116",
+      "headline": "Jordan Pickford breaks Peter Shilton's record for most England World Cup appearances",
+      "description": "Jordan Pickford has broken the record for most England World Cup appearances after featuring in Saturday's quarterfinal against Norway.",
+      "published": "2026-07-11T21:15:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49324116/jordan-pickford-world-cup-appearance-record-england-peter-shilton",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687929_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Norway",
+        "Jordan"
+      ],
+      "players": [
+        "Jordan Pickford"
+      ],
+      "score": 149
+    },
+    {
+      "id": "49336872",
+      "headline": "Jordan Henderson: Breaking arm in England celebrations 'was not my finest hour'",
+      "description": "England midfielder Jordan Henderson joked it was \"not my finest hour\" after he suffered a broken arm while celebrating the World Cup round of 16 win over Mexico last weekend.",
+      "published": "2026-07-11T21:14:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49336872/jordan-henderson-england-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687916_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England",
+        "Mexico",
+        "Jordan"
+      ],
+      "players": [],
+      "score": 143
+    },
+    {
+      "id": "49331445",
+      "headline": "Transfer rumors, news: Salah could return to U.S. post-World Cup with MLS team",
+      "description": "MLS team Sporting Kansas City have emerged as a candidate to sign former Liverpool star Mohamed Salah. Transfer talk has the latest.",
+      "published": "2026-07-11T20:06:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49331445/transfer-rumors-news-salah-return-us-post-world-cup-mls-team",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1684018_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "USA"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Jude Bellingham"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49334704",
+      "headline": "Jürgen Klopp reaches agreement on 'key points' of deal to become new Germany head coach",
+      "description": "Jürgen Klopp has reached an agreement on the \"key points\" of a deal to become the new Germany head coach, the German football federation has said.",
+      "published": "2026-07-11T20:54:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49334704/jurgen-klopp-germany-world-cup-julian-nagelsmann",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683833_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 138
+    },
+    {
+      "id": "49333373",
+      "headline": "South Africa midfielder Jayden Adams dies at age 25, weeks after World Cup appearance",
+      "description": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died at age 25, the South African Football Players Union has confirmed.",
+      "published": "2026-07-11T22:22:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49333373/south-africa-midfielder-jayden-adams-dies-aged-25-weeks-world-cup-appearance",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687731_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa"
+      ],
+      "players": [
+        "Jayden Adams"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49336670",
+      "headline": "Italy tap Paolo Maldini, Leonardo in technical director, advisor roles",
+      "description": "The Italian football federation took another step Saturday toward a rebuild of their national team by hiring Paolo Maldini as technical director and former Brazil international and 1994 World Cup winner Leonardo as advisor.",
+      "published": "2026-07-11T20:24:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49336670/italy-tap-paolo-maldini-leonardo-technical-director-advisor-roles",
+      "image": "https://a.espncdn.com/photo/2018/0805/r410650_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Brazil"
+      ],
+      "players": [
+        "Jude Bellingham"
+      ],
+      "score": 128
     },
     {
       "id": "49335655",
@@ -60,23 +241,81 @@
       "players": [
         "Noni Madueke"
       ],
-      "score": 192
+      "score": 128
     },
     {
-      "id": "49334704",
-      "headline": "Jürgen Klopp reaches agreement on 'key points' of deal to become new Germany head coach",
-      "description": "Jürgen Klopp has reached an agreement on the \"key points\" of a deal to become the new Germany head coach, the German football federation has said.",
-      "published": "2026-07-11T16:29:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49334704/jurgen-klopp-germany-world-cup-julian-nagelsmann",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683833_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49333681",
+      "headline": "Will Thomas Tuchel be sacked if England lose to Norway?",
+      "description": "Will Thomas Tuchel be sacked if England lose to Norway?",
+      "published": "2026-07-11T13:52:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/49333681/will-thomas-tuchel-sacked-england-lose-norway",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Analysis_Will_Thomas_Tuchel_be_sacked_if_England_lose_to_Norway__20260711_GLOBAL_FIFA_W/dm_260711_COM_SOC_Analysis_Will_Thomas_Tuchel_be_sacked_if_England_lose_to_Norway__20260711_GLOBAL_FIFA_W.jpg",
+      "byline": null,
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Germany"
+        "England",
+        "Norway"
       ],
       "players": [],
-      "score": 186
+      "score": 127
+    },
+    {
+      "id": "49335133",
+      "headline": "Jayden Adams defied childhood odds to make Bafana & Cloetesville proud at the World Cup",
+      "description": "South Africa midfielder Jayden Adams rose above his humble beginnings in a 25-year life that defied all odds.",
+      "published": "2026-07-11T17:59:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49335133/jayden-adams-south-africa-world-cup-bafana-bafana",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687814_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "South Africa"
+      ],
+      "players": [
+        "Jude Bellingham"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49334998",
+      "headline": "Chelsea prioritise exit for wantaway Alejandro Garnacho - sources",
+      "description": "Chelsea are demanding €50 million ($57m) for Alejandro Garnacho after the winger did not report back to the club for preseason training, sources have told ESPN.",
+      "published": "2026-07-11T17:01:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49334998/chelsea-prioritise-exit-wantaway-alejandro-garnacho-sources",
+      "image": "https://a.espncdn.com/photo/2026/0423/r1648071_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Alejandro Garnacho",
+        "Jude Bellingham"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49331547",
+      "headline": "England captain Harry Kane details 'surreal' golf round with Donald Trump",
+      "description": "England captain Harry Kane has confirmed that he played golf with U.S. President Donald Trump, describing it as a \"pretty surreal experience.\"",
+      "published": "2026-07-11T15:52:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49331547/england-captain-harry-kane-details-surreal-golf-round-donald-trump-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687664_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "USA"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 121
     },
     {
       "id": "49334380",
@@ -95,7 +334,42 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 166
+      "score": 121
+    },
+    {
+      "id": "49333265",
+      "headline": "The best viral Viking rows that have taken over the World Cup",
+      "description": "The best viral Viking rows that have taken over the World Cup",
+      "published": "2026-07-11T12:37:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/49333265/the-best-viral-viking-rows-taken-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_News_The_best_viral_Viking_rows_that_have_taken_over_the_World_Cup_20260711_GLOBAL_FIFA/dm_260711_COM_SOC_News_The_best_viral_Viking_rows_that_have_taken_over_the_World_Cup_20260711_GLOBAL_FIFA.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [],
+      "score": 121
+    },
+    {
+      "id": "49333770",
+      "headline": "Will Cristiano Ronaldo play at the next World Cup?",
+      "description": "Will Cristiano Ronaldo play at the next World Cup?",
+      "published": "2026-07-11T14:04:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/49333770/will-cristiano-ronaldo-play-next-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Analysis_Will_Cristiano_Ronaldo_play_at_the_next_World_Cup_20260711_GLOBAL_FIFA_WORLD_C/dm_260711_COM_SOC_Analysis_Will_Cristiano_Ronaldo_play_at_the_next_World_Cup_20260711_GLOBAL_FIFA_WORLD_C.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 119
     },
     {
       "id": "48352807",
@@ -155,27 +429,27 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 153
+      "score": 118
     },
     {
-      "id": "49331445",
-      "headline": "Transfer rumors, news: Salah could return to U.S. post-World Cup with MLS team",
-      "description": "MLS team Sporting Kansas City have emerged as a candidate to sign former Liverpool star Mohamed Salah. Transfer talk has the latest.",
-      "published": "2026-07-11T20:06:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49331445/transfer-rumors-news-salah-return-us-post-world-cup-mls-team",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1684018_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49313872",
+      "headline": "Harry Kane vs. Erling Haaland: How do England, Norway stars compare? Key stats before World Cup clash",
+      "description": "Who will come out on top in the World Cup quarterfinal, Harry Kane or Erling Haaland? Here is what the stats say.",
+      "published": "2026-07-11T07:42:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49313872/harry-kane-erling-haaland-comparison-key-stats-england-norway-world-cup-quarterfinal",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686784_2_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "England",
-        "USA"
+        "Norway"
       ],
       "players": [
-        "Mohamed Salah",
-        "Noni Madueke"
+        "Harry Kane",
+        "Erling Haaland"
       ],
-      "score": 144
+      "score": 118
     },
     {
       "id": "48386952",
@@ -228,190 +502,7 @@
         "Haiti"
       ],
       "players": [],
-      "score": 141
-    },
-    {
-      "id": "49336670",
-      "headline": "Italy tap Paolo Maldini, Leonardo in technical director, advisor roles",
-      "description": "The Italian football federation took another step Saturday toward a rebuild of their national team by hiring Paolo Maldini as technical director and former Brazil international and 1994 World Cup winner Leonardo as advisor.",
-      "published": "2026-07-11T20:24:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49336670/italy-tap-paolo-maldini-leonardo-technical-director-advisor-roles",
-      "image": "https://a.espncdn.com/photo/2018/0805/r410650_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Brazil"
-      ],
-      "players": [
-        "Noni Madueke"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49333770",
-      "headline": "Will Cristiano Ronaldo play at the next World Cup?",
-      "description": "Will Cristiano Ronaldo play at the next World Cup?",
-      "published": "2026-07-11T14:04:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/49333770/will-cristiano-ronaldo-play-next-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Analysis_Will_Cristiano_Ronaldo_play_at_the_next_World_Cup_20260711_GLOBAL_FIFA_WORLD_C/dm_260711_COM_SOC_Analysis_Will_Cristiano_Ronaldo_play_at_the_next_World_Cup_20260711_GLOBAL_FIFA_WORLD_C.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49333681",
-      "headline": "Will Thomas Tuchel be sacked if England lose to Norway?",
-      "description": "Will Thomas Tuchel be sacked if England lose to Norway?",
-      "published": "2026-07-11T13:52:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/49333681/will-thomas-tuchel-sacked-england-lose-norway",
-      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Analysis_Will_Thomas_Tuchel_be_sacked_if_England_lose_to_Norway__20260711_GLOBAL_FIFA_W/dm_260711_COM_SOC_Analysis_Will_Thomas_Tuchel_be_sacked_if_England_lose_to_Norway__20260711_GLOBAL_FIFA_W.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "Norway"
-      ],
-      "players": [],
-      "score": 132
-    },
-    {
-      "id": "49333373",
-      "headline": "South Africa midfielder Jayden Adams dies aged 25, weeks after World Cup appearance",
-      "description": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died aged 25, the South African Football Players Union has confirmed.",
-      "published": "2026-07-11T18:46:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49333373/south-africa-midfielder-jayden-adams-dies-aged-25-weeks-world-cup-appearance",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687731_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa"
-      ],
-      "players": [
-        "Jayden Adams"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49335133",
-      "headline": "Jayden Adams defied childhood odds to make Bafana & Cloetesville proud at the World Cup",
-      "description": "South Africa midfielder Jayden Adams rose above his humble beginnings in a 25-year life that defied all odds.",
-      "published": "2026-07-11T17:59:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49335133/jayden-adams-south-africa-world-cup-bafana-bafana",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687814_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "South Africa"
-      ],
-      "players": [
-        "Noni Madueke"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49334998",
-      "headline": "Chelsea prioritise exit for wantaway Alejandro Garnacho - sources",
-      "description": "Chelsea are demanding €50 million ($57m) for Alejandro Garnacho after the winger did not report back to the club for preseason training, sources have told ESPN.",
-      "published": "2026-07-11T17:01:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49334998/chelsea-prioritise-exit-wantaway-alejandro-garnacho-sources",
-      "image": "https://a.espncdn.com/photo/2026/0423/r1648071_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Alejandro Garnacho",
-        "Noni Madueke"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49331547",
-      "headline": "England captain Harry Kane details 'surreal' golf round with Donald Trump",
-      "description": "England captain Harry Kane has confirmed that he played golf with U.S. President Donald Trump, describing it as a \"pretty surreal experience.\"",
-      "published": "2026-07-11T15:52:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49331547/england-captain-harry-kane-details-surreal-golf-round-donald-trump-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687664_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "USA"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49333265",
-      "headline": "The best viral Viking rows that have taken over the World Cup",
-      "description": "The best viral Viking rows that have taken over the World Cup",
-      "published": "2026-07-11T12:37:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/49333265/the-best-viral-viking-rows-taken-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_News_The_best_viral_Viking_rows_that_have_taken_over_the_World_Cup_20260711_GLOBAL_FIFA/dm_260711_COM_SOC_News_The_best_viral_Viking_rows_that_have_taken_over_the_World_Cup_20260711_GLOBAL_FIFA.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "England",
-        "Norway"
-      ],
-      "players": [],
-      "score": 125
-    },
-    {
-      "id": "49327981",
-      "headline": "Wild scenes in Madrid as Merino scores winner for Spain vs. Belgium",
-      "description": "Wild scenes in Madrid as Merino scores winner for Spain vs. Belgium",
-      "published": "2026-07-11T12:33:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49327981/wild-scenes-madrid-merino-scores-winner-spain-vs-belgium",
-      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Fans_Crazy_scenes_in_Madrid_as_Merino_scores_winner_for_Spain_vs_Belgium__GLOBAL_2026-07-/dm_260710_COM_SOC_Fans_Crazy_scenes_in_Madrid_as_Merino_scores_winner_for_Spain_vs_Belgium__GLOBAL_2026-07-.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Belgium",
-        "Spain"
-      ],
-      "players": [],
-      "score": 125
-    },
-    {
-      "id": "49313872",
-      "headline": "Harry Kane vs. Erling Haaland: How do England, Norway stars compare? Key stats before World Cup clash",
-      "description": "Who will come out on top in the World Cup quarterfinal, Harry Kane or Erling Haaland? Here is what the stats say.",
-      "published": "2026-07-11T07:42:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49313872/harry-kane-erling-haaland-comparison-key-stats-england-norway-world-cup-quarterfinal",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686784_2_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Norway"
-      ],
-      "players": [
-        "Harry Kane",
-        "Erling Haaland"
-      ],
-      "score": 123
+      "score": 117
     },
     {
       "id": "49332313",
@@ -430,7 +521,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 120
+      "score": 115
     },
     {
       "id": "49178425",
@@ -473,7 +564,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 119
+      "score": 114
     },
     {
       "id": "49330344",
@@ -490,27 +581,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 118
-    },
-    {
-      "id": "49332216",
-      "headline": "Thibaut Courtois backs Senne Lammens to return stronger after Belgium-Spain error",
-      "description": "Thibaut Courtois has backed his Belgium teammate Senne Lammens to \"get stronger from this\" after the Manchester United goalkeeper made an error for Mikel Merino's winner in Belgium's 2-1 World Cup quarterfinal loss to Spain.",
-      "published": "2026-07-11T09:43:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49332216/thibaut-courtois-backs-senne-lammens-return-stronger-belgium-spain-error",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687691_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Belgium",
-        "Spain"
-      ],
-      "players": [
-        "Thibaut Courtois",
-        "Senne Lammens"
-      ],
-      "score": 117
+      "score": 113
     },
     {
       "id": "49328075",
@@ -530,7 +601,27 @@
         "Marc Guéhi",
         "Declan Rice"
       ],
-      "score": 117
+      "score": 113
+    },
+    {
+      "id": "49332216",
+      "headline": "Thibaut Courtois backs Senne Lammens to return stronger after Belgium-Spain error",
+      "description": "Thibaut Courtois has backed his Belgium teammate Senne Lammens to \"get stronger from this\" after the Manchester United goalkeeper made an error for Mikel Merino's winner in Belgium's 2-1 World Cup quarterfinal loss to Spain.",
+      "published": "2026-07-11T09:43:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49332216/thibaut-courtois-backs-senne-lammens-return-stronger-belgium-spain-error",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687691_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "Spain"
+      ],
+      "players": [
+        "Thibaut Courtois",
+        "Senne Lammens"
+      ],
+      "score": 112
     },
     {
       "id": "49332199",
@@ -549,7 +640,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 116
+      "score": 112
     },
     {
       "id": "49330563",
@@ -566,7 +657,7 @@
         "France"
       ],
       "players": [],
-      "score": 114
+      "score": 109
     },
     {
       "id": "49329398",
@@ -583,7 +674,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 114
+      "score": 109
     },
     {
       "id": "49294844",
@@ -606,7 +697,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 113
+      "score": 108
     },
     {
       "id": "49328835",
@@ -623,7 +714,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 113
+      "score": 108
     },
     {
       "id": "49309967",
@@ -640,25 +731,7 @@
         "England"
       ],
       "players": [],
-      "score": 111
-    },
-    {
-      "id": "49323047",
-      "headline": "Messi, Mbappé, Kane: Why are so many players taking stuttering penalties at the World Cup?",
-      "description": "Messi, Mbappé and Kane have all missed stuttering penalties at the World Cup. So why are so many players taking them?",
-      "published": "2026-07-11T07:43:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49323047/lionel-messi-kylian-mbappe-harry-kane-why-many-players-stuttering-penalties-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687248_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Lionel Messi",
-        "Kylian Mbappé",
-        "Harry Kane"
-      ],
-      "score": 110
+      "score": 106
     },
     {
       "id": "49329042",
@@ -677,7 +750,25 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 110
+      "score": 106
+    },
+    {
+      "id": "49323047",
+      "headline": "Messi, Mbappé, Kane: Why are so many players taking stuttering penalties at the World Cup?",
+      "description": "Messi, Mbappé and Kane have all missed stuttering penalties at the World Cup. So why are so many players taking them?",
+      "published": "2026-07-11T07:43:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49323047/lionel-messi-kylian-mbappe-harry-kane-why-many-players-stuttering-penalties-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687248_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Lionel Messi",
+        "Kylian Mbappé",
+        "Harry Kane"
+      ],
+      "score": 105
     },
     {
       "id": "48945011",
@@ -691,7 +782,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 107
+      "score": 102
     },
     {
       "id": "48945570",
@@ -705,25 +796,23 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 107
+      "score": 102
     },
     {
-      "id": "49327290",
-      "headline": "Spain beat Belgium late to set to World Cup semifinal vs. France",
-      "description": "In an outcome that felt inevitable for most of the game, Spain beat Belgium 2-1 with a late goal from a familiar face Friday.",
-      "published": "2026-07-10T22:50:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49327290/spain-belgium-world-cup-quarterfinal-merino-semifinal-france",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687514_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49330698",
+      "headline": "Scaloni defers to Messi on World Cup penalty duties",
+      "description": "Argentina coach Lionel Scaloni confirmed that Lionel Messi retains full authority over whether he continues to take penalty kicks despite his recent World Cup struggles.",
+      "published": "2026-07-11T04:06:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49330698/scaloni-defers-messi-world-cup-penalty-duties",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687635_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Spain",
-        "Belgium",
-        "France"
+        "Argentina"
       ],
       "players": [],
-      "score": 107
+      "score": 101
     },
     {
       "id": "49329795",
@@ -742,23 +831,7 @@
       "players": [
         "Lisandro Martínez"
       ],
-      "score": 106
-    },
-    {
-      "id": "49330698",
-      "headline": "Scaloni defers to Messi on World Cup penalty duties",
-      "description": "Argentina coach Lionel Scaloni confirmed that Lionel Messi retains full authority over whether he continues to take penalty kicks despite his recent World Cup struggles.",
-      "published": "2026-07-11T04:06:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49330698/scaloni-defers-messi-world-cup-penalty-duties",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687635_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
-      "score": 105
+      "score": 101
     },
     {
       "id": "49329575",
@@ -778,7 +851,7 @@
         "Harry Kane",
         "Erling Haaland"
       ],
-      "score": 105
+      "score": 100
     },
     {
       "id": "49329568",
@@ -792,42 +865,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 105
-    },
-    {
-      "id": "49073399",
-      "headline": "Spain at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the Spain men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-10T21:04:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49073399/spain-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673639_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 105
-    },
-    {
-      "id": "49328198",
-      "headline": "Party in Madrid as Spain beat Belgium to qualify for the World Cup semi-finals",
-      "description": "Party in Madrid as Spain beat Belgium to qualify for the World Cup semi-finals",
-      "published": "2026-07-10T21:46:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49328198/party-madrid-spain-beat-belgium-qualify-world-cup-semi-finals",
-      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Fans_Party_in_Madrid_has_Spain_beat_Belgium_to_qualify_for_the_World_Cup_semi-finals_GLOBA/dm_260710_COM_SOC_Fans_Party_in_Madrid_has_Spain_beat_Belgium_to_qualify_for_the_World_Cup_semi-finals_GLOBA.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Belgium",
-        "Spain"
-      ],
-      "players": [],
-      "score": 103
+      "score": 100
     },
     {
       "id": "49330039",
@@ -844,27 +882,24 @@
         "Spain"
       ],
       "players": [],
-      "score": 102
+      "score": 98
     },
     {
-      "id": "49320148",
-      "headline": "World Cup Daily live: Remix of teen Haaland's rap song hits No. 1; Spain defeat Belgium",
-      "description": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action.",
-      "published": "2026-07-10T23:06:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49320148/world-cup-daily-live-remix-teen-erling-haaland-rap-song-hits-no-1-spain-face-belgium",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687224_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49328198",
+      "headline": "Party in Madrid as Spain beat Belgium to qualify for the World Cup semi-finals",
+      "description": "Party in Madrid as Spain beat Belgium to qualify for the World Cup semi-finals",
+      "published": "2026-07-10T21:46:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49328198/party-madrid-spain-beat-belgium-qualify-world-cup-semi-finals",
+      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Fans_Party_in_Madrid_has_Spain_beat_Belgium_to_qualify_for_the_World_Cup_semi-finals_GLOBA/dm_260710_COM_SOC_Fans_Party_in_Madrid_has_Spain_beat_Belgium_to_qualify_for_the_World_Cup_semi-finals_GLOBA.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
-        "Norway",
         "Belgium",
         "Spain"
       ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 101
+      "players": [],
+      "score": 98
     },
     {
       "id": "49328898",
@@ -883,7 +918,7 @@
       "players": [
         "Lamine Yamal"
       ],
-      "score": 101
+      "score": 96
     },
     {
       "id": "49328659",
@@ -902,7 +937,7 @@
       "players": [
         "Mikel Merino"
       ],
-      "score": 101
+      "score": 96
     },
     {
       "id": "49328373",
@@ -920,7 +955,7 @@
       "players": [
         "Senne Lammens"
       ],
-      "score": 99
+      "score": 95
     },
     {
       "id": "49328361",
@@ -939,42 +974,7 @@
       "players": [
         "Lamine Yamal"
       ],
-      "score": 99
-    },
-    {
-      "id": "48939282",
-      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
-      "published": "2026-07-10T23:05:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
-      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "USA"
-      ],
-      "players": [],
-      "score": 98
-    },
-    {
-      "id": "49327208",
-      "headline": "Senne Lammens mistake sends Spain into World Cup semifinal at Belgium's expense",
-      "description": "Mikel Merino scored in the 88th minute on a rebound yielded by backup Belgium goalkeeper Senne Lammens, and Spain advanced to the World Cup semifinals with a 2-1 victory on Friday.",
-      "published": "2026-07-10T23:01:43Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/760511",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687515_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 98
+      "score": 95
     }
   ]
 }
