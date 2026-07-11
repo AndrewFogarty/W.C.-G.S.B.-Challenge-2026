@@ -1,18 +1,202 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-11T10:40:33.335Z",
+  "updated": "2026-07-11T14:36:14.695Z",
   "counts": {
-    "news": 32,
-    "preview": 6,
-    "injury": 5,
-    "celebration": 5
+    "preview": 5,
+    "news": 28,
+    "offfield": 3,
+    "celebration": 7,
+    "injury": 5
   },
   "items": [
+    {
+      "id": "48386952",
+      "headline": "Every team's championship odds for the 2026 World Cup: France odds shorten, Spain ahead of Argentina, England",
+      "description": "Updated odds for the remaining teams to advance to the final and to win the 2026 World Cup.",
+      "published": "2026-07-11T14:32:17Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687332_1296x729_16-9.jpg",
+      "byline": "Doug Greenberg",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "France",
+        "Brazil",
+        "England",
+        "Spain",
+        "Argentina",
+        "Portugal",
+        "Germany",
+        "Netherlands",
+        "Belgium",
+        "Colombia",
+        "Japan",
+        "Canada",
+        "Mexico",
+        "Norway",
+        "Morocco",
+        "Uruguay",
+        "Ecuador",
+        "Sweden",
+        "Croatia",
+        "Switzerland",
+        "Austria",
+        "Australia",
+        "Senegal",
+        "Czechia",
+        "Paraguay",
+        "Scotland",
+        "Egypt",
+        "Algeria",
+        "Korea Republic",
+        "Ghana",
+        "Panama",
+        "South Africa",
+        "New Zealand",
+        "Iraq",
+        "Cabo Verde",
+        "Uzbekistan",
+        "Jordan",
+        "Haiti"
+      ],
+      "players": [],
+      "score": 219
+    },
+    {
+      "id": "49333770",
+      "headline": "Will Cristiano Ronaldo play at the next World Cup?",
+      "description": "Will Cristiano Ronaldo play at the next World Cup?",
+      "published": "2026-07-11T14:04:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/49333770/will-cristiano-ronaldo-play-next-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Analysis_Will_Cristiano_Ronaldo_play_at_the_next_World_Cup_20260711_GLOBAL_FIFA_WORLD_C/dm_260711_COM_SOC_Analysis_Will_Cristiano_Ronaldo_play_at_the_next_World_Cup_20260711_GLOBAL_FIFA_WORLD_C.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 202
+    },
+    {
+      "id": "49333681",
+      "headline": "Will Thomas Tuchel be sacked if England lose to Norway?",
+      "description": "Will Thomas Tuchel be sacked if England lose to Norway?",
+      "published": "2026-07-11T13:52:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/49333681/will-thomas-tuchel-sacked-england-lose-norway",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Analysis_Will_Thomas_Tuchel_be_sacked_if_England_lose_to_Norway__20260711_GLOBAL_FIFA_W/dm_260711_COM_SOC_Analysis_Will_Thomas_Tuchel_be_sacked_if_England_lose_to_Norway__20260711_GLOBAL_FIFA_W.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [],
+      "score": 201
+    },
+    {
+      "id": "49333373",
+      "headline": "South Africa midfielder Jayden Adams dies aged 25, weeks after World Cup appearance",
+      "description": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died aged 25, the South African Football Players Union has confirmed.",
+      "published": "2026-07-11T13:51:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49333373/south-africa-midfielder-jayden-adams-dies-aged-25-weeks-world-cup-appearance",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687731_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa"
+      ],
+      "players": [
+        "Jayden Adams"
+      ],
+      "score": 182
+    },
+    {
+      "id": "49329226",
+      "headline": "World Cup daily: Free England-Norway ticket in Haaland look-alike contest",
+      "description": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
+      "published": "2026-07-11T13:32:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49329226/world-cup-daily-england-norway-argentina-switzerland-quarterfinals-erling-haaland",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687666_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "players": [],
+      "score": 168
+    },
+    {
+      "id": "49178425",
+      "headline": "World Cup: Grades for every eliminated team as each exits the tournament",
+      "description": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how its run compared with expectations.",
+      "published": "2026-07-11T13:16:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687738_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Czechia",
+        "Qatar",
+        "Haiti",
+        "Curaçao",
+        "Tunisia",
+        "Jordan",
+        "Panama",
+        "Uruguay",
+        "Saudi Arabia",
+        "New Zealand",
+        "Iraq",
+        "IR Iran",
+        "Scotland",
+        "Uzbekistan",
+        "Korea Republic",
+        "South Africa",
+        "Netherlands",
+        "Germany",
+        "Japan",
+        "Algeria",
+        "Croatia",
+        "Austria",
+        "Cabo Verde",
+        "Australia",
+        "Ghana",
+        "Brazil",
+        "Mexico",
+        "Morocco"
+      ],
+      "players": [],
+      "score": 158
+    },
+    {
+      "id": "49333265",
+      "headline": "The best viral Viking rows that have taken over the World Cup",
+      "description": "The best viral Viking rows that have taken over the World Cup",
+      "published": "2026-07-11T12:37:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/49333265/the-best-viral-viking-rows-taken-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_News_The_best_viral_Viking_rows_that_have_taken_over_the_World_Cup_20260711_GLOBAL_FIFA/dm_260711_COM_SOC_News_The_best_viral_Viking_rows_that_have_taken_over_the_World_Cup_20260711_GLOBAL_FIFA.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [],
+      "score": 154
+    },
     {
       "id": "49332313",
       "headline": "Start Dan Burn? How Norway's Erling Haaland stacks up against England defenders",
       "description": "Does Thomas Tuchel start Dan Burn? How Norway's Erling Haaland stacks up against England defenders",
-      "published": "2026-07-11T10:29:16Z",
+      "published": "2026-07-11T11:40:25Z",
       "url": "https://www.espn.com/soccer/story/_/id/49332313/start-dan-burn-how-norway-erling-haaland-stacks-england-defenders-world-cup-quarterfinal",
       "image": "https://a.espncdn.com/photo/2026/0711/r1687681_1296x729_16-9.jpg",
       "byline": "Olivia Pagden",
@@ -25,7 +209,81 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 213
+      "score": 139
+    },
+    {
+      "id": "49331445",
+      "headline": "Transfer rumors, news: Could Man United sign Paraguay GK as Lammens competition?",
+      "description": "Manchester United are rumoured to be interested in Paraguay goalkeeper Orlando Gill. Transfer talk has the latest.",
+      "published": "2026-07-11T10:23:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49331445/transfer-rumors-news-man-united-sign-paraguay-gk-senne-lammens-competition",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687673_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "South Africa",
+        "Paraguay"
+      ],
+      "players": [
+        "Jayden Adams"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49124668",
+      "headline": "Man City beat Arsenal to signing of Leicester teenager Jeremy Monga",
+      "description": "Manchester City have completed the signing of winger Jeremy Monga from Leicester City.",
+      "published": "2026-07-11T09:38:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49124668/jeremy-monga-man-city-leicester-city-premier-league-transfers",
+      "image": "https://a.espncdn.com/photo/2026/0620/r1676555_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "South Africa"
+      ],
+      "players": [
+        "Jayden Adams"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49327981",
+      "headline": "Wild scenes in Madrid as Merino scores winner for Spain vs. Belgium",
+      "description": "Wild scenes in Madrid as Merino scores winner for Spain vs. Belgium",
+      "published": "2026-07-11T12:33:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49327981/wild-scenes-madrid-merino-scores-winner-spain-vs-belgium",
+      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Fans_Crazy_scenes_in_Madrid_as_Merino_scores_winner_for_Spain_vs_Belgium__GLOBAL_2026-07-/dm_260710_COM_SOC_Fans_Crazy_scenes_in_Madrid_as_Merino_scores_winner_for_Spain_vs_Belgium__GLOBAL_2026-07-.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Belgium",
+        "Spain"
+      ],
+      "players": [],
+      "score": 134
+    },
+    {
+      "id": "49313872",
+      "headline": "Harry Kane vs. Erling Haaland: How do England, Norway stars compare? Key stats before World Cup clash",
+      "description": "Who will come out on top in the World Cup quarterfinal, Harry Kane or Erling Haaland? Here is what the stats say.",
+      "published": "2026-07-11T07:42:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49313872/harry-kane-erling-haaland-comparison-key-stats-england-norway-world-cup-quarterfinal",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686784_2_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [
+        "Harry Kane",
+        "Erling Haaland"
+      ],
+      "score": 132
     },
     {
       "id": "49332216",
@@ -45,7 +303,63 @@
         "Thibaut Courtois",
         "Senne Lammens"
       ],
-      "score": 202
+      "score": 126
+    },
+    {
+      "id": "49330344",
+      "headline": "Belgium ran out of 'lady luck' in World Cup exit, Garcia says",
+      "description": "Belgium manager Rudy Garcia bemoaned the fact that lady luck wasn't on his team's side in the Red Devils' 2-1 World Cup quarterfinal defeat to Spain.",
+      "published": "2026-07-11T02:50:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49330344/belgium-ran-lady-luck-world-cup-exit-garcia-says",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687571_1024x576_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Belgium",
+        "Spain"
+      ],
+      "players": [],
+      "score": 126
+    },
+    {
+      "id": "49328075",
+      "headline": "England given World Cup boost as Marc Guéhi, Declan Rice return to training ahead of Norway clash",
+      "description": "Marc Guéhi and Declan Rice handed England a fitness boost as they both trained ahead of the World Cup quarter-final with Norway in Miami.",
+      "published": "2026-07-11T00:44:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49328075/england-marc-guehi-declan-rice-back-training-ahead-norway-world-cup-clash",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687230_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [
+        "Marc Guéhi",
+        "Declan Rice"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49331547",
+      "headline": "England captain Harry Kane details 'surreal' golf round with Donald Trump",
+      "description": "England captain Harry Kane has confirmed he played golf with U.S. President Donald Trump, describing it as a \"pretty surreal experience.\"",
+      "published": "2026-07-11T09:25:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49331547/england-captain-harry-kane-details-surreal-golf-round-donald-trump-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687664_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "USA"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 125
     },
     {
       "id": "49332199",
@@ -64,7 +378,43 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 191
+      "score": 125
+    },
+    {
+      "id": "49330563",
+      "headline": "Manner of defeat to France takes gloss off Morocco's World Cup positives",
+      "description": "It's reasonable to ask whether Morocco's three-knockout-game run in 2026 is inferior to their three-knockout-game run in 2022.",
+      "published": "2026-07-11T03:41:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49330563/manner-defeat-france-takes-gloss-morocco-fifa-world-cup-2026-positives",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1687096_608x342_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Morocco",
+        "France"
+      ],
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "49326683",
+      "headline": "Belgium's Courtois exits with injury before Spain winner",
+      "description": "Belgium captain Youri Tielemans was a late scratch from Belgium's lineup for their World Cup quarterfinal match against Spain on Friday.",
+      "published": "2026-07-10T22:35:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49326683/belgium-youri-tielemans-injury-warmup-spain-world-cup-quarterfinal",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687511_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Belgium",
+        "Spain"
+      ],
+      "players": [
+        "Youri Tielemans"
+      ],
+      "score": 123
     },
     {
       "id": "49294844",
@@ -87,164 +437,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 178
-    },
-    {
-      "id": "49329226",
-      "headline": "World Cup daily: Free England-Norway ticket for Erling Haaland look-alike",
-      "description": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
-      "published": "2026-07-11T07:53:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49329226/world-cup-daily-england-norway-argentina-switzerland-quarterfinals-erling-haaland",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687666_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "England"
-      ],
-      "players": [],
-      "score": 166
-    },
-    {
-      "id": "48945011",
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-11T07:50:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 152
-    },
-    {
-      "id": "49313872",
-      "headline": "Harry Kane vs. Erling Haaland: How do England, Norway stars compare? Key stats before World Cup clash",
-      "description": "Who will come out on top in the World Cup quarterfinal, Harry Kane or Erling Haaland? Here is what the stats say.",
-      "published": "2026-07-11T07:42:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49313872/harry-kane-erling-haaland-comparison-key-stats-england-norway-world-cup-quarterfinal",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686784_2_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Norway"
-      ],
-      "players": [
-        "Harry Kane",
-        "Erling Haaland"
-      ],
-      "score": 148
-    },
-    {
-      "id": "48945570",
-      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
-      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
-      "published": "2026-07-11T07:49:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 142
-    },
-    {
-      "id": "49330344",
-      "headline": "Belgium ran out of 'lady luck' in World Cup exit, Garcia says",
-      "description": "Belgium manager Rudy Garcia bemoaned the fact that lady luck wasn't on his team's side in the Red Devils' 2-1 World Cup quarterfinal defeat to Spain.",
-      "published": "2026-07-11T02:50:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49330344/belgium-ran-lady-luck-world-cup-exit-garcia-says",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687571_1024x576_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Belgium",
-        "Spain"
-      ],
-      "players": [],
-      "score": 132
-    },
-    {
-      "id": "49328075",
-      "headline": "England given World Cup boost as Marc Guéhi, Declan Rice return to training ahead of Norway clash",
-      "description": "Marc Guéhi and Declan Rice handed England a fitness boost as they both trained ahead of the World Cup quarter-final with Norway in Miami.",
-      "published": "2026-07-11T00:44:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49328075/england-marc-guehi-declan-rice-back-training-ahead-norway-world-cup-clash",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687230_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "England",
-        "Norway"
-      ],
-      "players": [
-        "Marc Guéhi",
-        "Declan Rice"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49331547",
-      "headline": "England captain Harry Kane details 'surreal' golf round with Donald Trump",
-      "description": "England captain Harry Kane has confirmed he played golf with U.S. President Donald Trump, describing it as a \"pretty surreal experience.\"",
-      "published": "2026-07-11T09:25:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49331547/england-captain-harry-kane-details-surreal-golf-round-donald-trump-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687664_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "USA"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49330563",
-      "headline": "Manner of defeat to France takes gloss off Morocco's World Cup positives",
-      "description": "It's reasonable to ask whether Morocco's three-knockout-game run in 2026 is inferior to their three-knockout-game run in 2022.",
-      "published": "2026-07-11T03:41:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49330563/manner-defeat-france-takes-gloss-morocco-fifa-world-cup-2026-positives",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687096_608x342_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Morocco",
-        "France"
-      ],
-      "players": [],
-      "score": 129
-    },
-    {
-      "id": "49326683",
-      "headline": "Belgium's Courtois exits with injury before Spain winner",
-      "description": "Belgium captain Youri Tielemans was a late scratch from Belgium's lineup for their World Cup quarterfinal match against Spain on Friday.",
-      "published": "2026-07-10T22:35:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49326683/belgium-youri-tielemans-injury-warmup-spain-world-cup-quarterfinal",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687511_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Belgium",
-        "Spain"
-      ],
-      "players": [
-        "Youri Tielemans"
-      ],
-      "score": 129
+      "score": 122
     },
     {
       "id": "49329398",
@@ -261,7 +454,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 128
+      "score": 122
     },
     {
       "id": "49328835",
@@ -278,7 +471,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 127
+      "score": 121
     },
     {
       "id": "49309967",
@@ -295,7 +488,7 @@
         "England"
       ],
       "players": [],
-      "score": 126
+      "score": 120
     },
     {
       "id": "49323047",
@@ -313,7 +506,7 @@
         "Kylian Mbappé",
         "Harry Kane"
       ],
-      "score": 125
+      "score": 119
     },
     {
       "id": "49329042",
@@ -332,7 +525,35 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 125
+      "score": 119
+    },
+    {
+      "id": "48945011",
+      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
+      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
+      "published": "2026-07-11T07:50:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 116
+    },
+    {
+      "id": "48945570",
+      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
+      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
+      "published": "2026-07-11T07:49:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 116
     },
     {
       "id": "49330479",
@@ -345,7 +566,7 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Norway"
+        "Portugal"
       ],
       "players": [
         "Temwa Chawinga",
@@ -353,9 +574,9 @@
         "Marta",
         "Barbra Banda",
         "Hannah Anderson",
-        "Erling Haaland"
+        "Cristiano Ronaldo"
       ],
-      "score": 122
+      "score": 116
     },
     {
       "id": "49329795",
@@ -374,7 +595,54 @@
       "players": [
         "Lisandro Martínez"
       ],
-      "score": 121
+      "score": 115
+    },
+    {
+      "id": "49330097",
+      "headline": "Racing Louisville FC vs. Bay FC - Game Highlights",
+      "description": "Watch the Game Highlights from Racing Louisville FC vs. Bay FC, 07/11/2026",
+      "published": "2026-07-11T02:19:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49330097/racing-louisville-fc-vs-bay-fc-game-highlights",
+      "image": "https://a.espncdn.com/media/motion/wsc/2026/0711/13cfb059-8a0a-4572-943c-c8493ce7dcbc/13cfb059-8a0a-4572-943c-c8493ce7dcbc.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Karlie Lema",
+        "Claire Hutton",
+        "Kennedy Fuller",
+        "Alex Pfeiffer",
+        "Avery Ciorbu",
+        "Cristiano Ronaldo"
+      ],
+      "score": 115
+    },
+    {
+      "id": "49330093",
+      "headline": "Boston Legacy FC vs. Chicago Stars - Game Highlights",
+      "description": "Watch the Game Highlights from Boston Legacy FC vs. Chicago Stars, 07/11/2026",
+      "published": "2026-07-11T02:17:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/49330093/boston-legacy-fc-vs-chicago-stars-game-highlights",
+      "image": "https://a.espncdn.com/media/motion/wsc/2026/0711/edeee633-29c4-461e-97c3-64800f738d24/edeee633-29c4-461e-97c3-64800f738d24.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Aïssata Traoré",
+        "Jameese Joseph",
+        "Amanda Gutierres",
+        "Ivonne Chacón",
+        "Jordyn Huitema",
+        "Nichelle Prince",
+        "Cristiano Ronaldo"
+      ],
+      "score": 115
     },
     {
       "id": "49327290",
@@ -392,7 +660,7 @@
         "France"
       ],
       "players": [],
-      "score": 121
+      "score": 115
     },
     {
       "id": "49330698",
@@ -408,72 +676,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 120
-    },
-    {
-      "id": "49330097",
-      "headline": "Racing Louisville FC vs. Bay FC - Game Highlights",
-      "description": "Watch the Game Highlights from Racing Louisville FC vs. Bay FC, 07/11/2026",
-      "published": "2026-07-11T02:19:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49330097/racing-louisville-fc-vs-bay-fc-game-highlights",
-      "image": "https://a.espncdn.com/media/motion/wsc/2026/0711/13cfb059-8a0a-4572-943c-c8493ce7dcbc/13cfb059-8a0a-4572-943c-c8493ce7dcbc.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Karlie Lema",
-        "Claire Hutton",
-        "Kennedy Fuller",
-        "Alex Pfeiffer",
-        "Avery Ciorbu",
-        "Erling Haaland"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49330093",
-      "headline": "Boston Legacy FC vs. Chicago Stars - Game Highlights",
-      "description": "Watch the Game Highlights from Boston Legacy FC vs. Chicago Stars, 07/11/2026",
-      "published": "2026-07-11T02:17:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49330093/boston-legacy-fc-vs-chicago-stars-game-highlights",
-      "image": "https://a.espncdn.com/media/motion/wsc/2026/0711/edeee633-29c4-461e-97c3-64800f738d24/edeee633-29c4-461e-97c3-64800f738d24.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Aïssata Traoré",
-        "Jameese Joseph",
-        "Amanda Gutierres",
-        "Ivonne Chacón",
-        "Jordyn Huitema",
-        "Nichelle Prince",
-        "Erling Haaland"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49073399",
-      "headline": "Spain at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the Spain men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-10T21:04:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49073399/spain-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673639_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 120
+      "score": 114
     },
     {
       "id": "49329575",
@@ -493,7 +696,25 @@
         "Harry Kane",
         "Erling Haaland"
       ],
-      "score": 119
+      "score": 114
+    },
+    {
+      "id": "49073399",
+      "headline": "Spain at the men's World Cup: All-time results and stats",
+      "description": "Take a look at the Spain men's national team's performance throughout the tournament's history.",
+      "published": "2026-07-10T21:04:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49073399/spain-men-world-cup-all-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673639_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 114
     },
     {
       "id": "49329568",
@@ -507,7 +728,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 119
+      "score": 113
     },
     {
       "id": "49328198",
@@ -524,7 +745,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 118
+      "score": 112
     },
     {
       "id": "49330039",
@@ -541,26 +762,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 117
-    },
-    {
-      "id": "49326340",
-      "headline": "Switzerland's Johan Manzambi to miss Argentina World Cup quarterfinal clash - Murat Yakin",
-      "description": "Switzerland head coach Murat Yakin confirmed that attacking midfielder Johan Manzambi won't be available for Saturday night's FIFA World Cup quarterfinal against Argentina.",
-      "published": "2026-07-10T18:15:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49326340/switzerland-johan-manzambi-miss-argentina-world-cup-quarterfinal-clash-murat-yakin",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1685611_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Switzerland",
-        "Argentina"
-      ],
-      "players": [
-        "Johan Manzambi"
-      ],
-      "score": 117
+      "score": 111
     },
     {
       "id": "49320148",
@@ -580,7 +782,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 116
+      "score": 110
     },
     {
       "id": "49326972",
@@ -598,7 +800,7 @@
       "players": [
         "Jáminton Campaz"
       ],
-      "score": 116
+      "score": 110
     },
     {
       "id": "49328898",
@@ -617,7 +819,7 @@
       "players": [
         "Lamine Yamal"
       ],
-      "score": 116
+      "score": 110
     },
     {
       "id": "49327160",
@@ -634,7 +836,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 116
+      "score": 110
     },
     {
       "id": "49327064",
@@ -651,24 +853,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 116
-    },
-    {
-      "id": "49326819",
-      "headline": "Norway vs. England more than Harry Kane vs. Erling Haaland face-off - Ståle Solbakken",
-      "description": "Norway head coach Ståle Solbakken has said his team's World Cup quarterfinal meeting with England is more than just Harry Kane vs. Erling Haaland.",
-      "published": "2026-07-10T19:29:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49326819/norway-vs-england-more-harry-kane-vs-erling-haaland-face-stale-solbakken",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687438_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Norway",
-        "England"
-      ],
-      "players": [],
-      "score": 116
+      "score": 110
     },
     {
       "id": "49328659",
@@ -687,7 +872,7 @@
       "players": [
         "Mikel Merino"
       ],
-      "score": 115
+      "score": 109
     },
     {
       "id": "49328373",
@@ -705,7 +890,7 @@
       "players": [
         "Senne Lammens"
       ],
-      "score": 114
+      "score": 108
     },
     {
       "id": "49328361",
@@ -724,7 +909,7 @@
       "players": [
         "Lamine Yamal"
       ],
-      "score": 114
+      "score": 108
     },
     {
       "id": "48939282",
@@ -742,7 +927,7 @@
         "USA"
       ],
       "players": [],
-      "score": 113
+      "score": 107
     },
     {
       "id": "49327208",
@@ -759,125 +944,7 @@
         "Belgium"
       ],
       "players": [],
-      "score": 113
-    },
-    {
-      "id": "49328779",
-      "headline": "Leboeuf: France favourites against Spain in 'final before the final'",
-      "description": "Leboeuf: France favourites against Spain in 'final before the final'",
-      "published": "2026-07-10T22:52:51Z",
-      "url": "https://www.espn.com/video/clip/_/id/49328779/france-favourites-spain-final-final",
-      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_Leboeuf_France_favourites_against_Spain_in_final_before_the_final/dm_260710_Leboeuf_France_favourites_against_Spain_in_final_before_the_final.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Belgium",
-        "Spain",
-        "France"
-      ],
-      "players": [],
-      "score": 112
-    },
-    {
-      "id": "49328247",
-      "headline": "Merino sends Spain to the semis, but La Roja need more from wasteful attack",
-      "description": "You'd think a team boasting Lamine Yamal would score goals for fun, but to beat Belgium, Spain needed midfielder Mikel Merino to net the winner.",
-      "published": "2026-07-10T22:40:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49328247/mikel-merino-sends-spain-world-cup-semifinals-beating-belgium-la-roja-need-more-wasteful-attack",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687529_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle and Gabriele Marcotti",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 112
-    },
-    {
-      "id": "49327676",
-      "headline": "Jesus: Ronaldo decision will be made after personal conversation",
-      "description": "Jesus: Ronaldo decision will be made after personal conversation",
-      "published": "2026-07-10T20:52:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/49327676/ronaldo-decision-made-personal-conversation",
-      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_Jesus_Ronaldo_decision_will_be_made_after_personal_conversation/dm_260710_Jesus_Ronaldo_decision_will_be_made_after_personal_conversation.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 112
-    },
-    {
-      "id": "49327058",
-      "headline": "Spain vs. Belgium player ratings as Mikel Merino upstages Lamine Yamal World Cup quarterfinal",
-      "description": "Spain turned to their super sub Mikel Merino once again as they triumphed over Belgium in the World Cup quarterfinals",
-      "published": "2026-07-10T21:59:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49327058/spain-vs-belgium-player-ratings-mikel-merino-upstages-lamine-yamal-world-cup-quarterfinal",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687514_1296x729_16-9.jpg",
-      "byline": "David Cartlidge",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Belgium",
-        "Spain"
-      ],
-      "players": [],
-      "score": 111
-    },
-    {
-      "id": "49327981",
-      "headline": "Crazy scenes in Madrid as Merino scores winner for Spain vs. Belgium",
-      "description": "Crazy scenes in Madrid as Merino scores winner for Spain vs. Belgium",
-      "published": "2026-07-10T21:11:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/49327981/crazy-scenes-madrid-merino-scores-winner-spain-vs-belgium",
-      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Fans_Crazy_scenes_in_Madrid_as_Merino_scores_winner_for_Spain_vs_Belgium__GLOBAL_2026-07-/dm_260710_COM_SOC_Fans_Crazy_scenes_in_Madrid_as_Merino_scores_winner_for_Spain_vs_Belgium__GLOBAL_2026-07-.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Belgium",
-        "Spain"
-      ],
-      "players": [],
-      "score": 110
-    },
-    {
-      "id": "49320409",
-      "headline": "World Cup recap: Merino scores winner for Spain vs. Belgium to advance to last four",
-      "description": "Enjoy all that happened from Wednesday's 2026 World Cup quarterfinal match in Inglewood between Spain and Belgium.",
-      "published": "2026-07-10T21:01:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49320409/world-cup-updates-spain-take-belgium-second-quarterfinal",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687509_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 110
-    },
-    {
-      "id": "49328942",
-      "headline": "FIFA selling 2026 World Cup final pitch in $450 pieces",
-      "description": "Even the field for the World Cup final is for sale",
-      "published": "2026-07-10T23:33:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49328942/fifa-2026-world-cup-final-pitch-sale-piece",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687578_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 109
+      "score": 107
     }
   ]
 }
