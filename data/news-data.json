@@ -1,14 +1,67 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-11T17:42:13.818Z",
+  "updated": "2026-07-11T20:28:47.164Z",
   "counts": {
-    "offfield": 4,
-    "news": 30,
+    "preview": 5,
+    "news": 31,
+    "offfield": 3,
     "celebration": 5,
-    "preview": 4,
-    "injury": 5
+    "injury": 4
   },
   "items": [
+    {
+      "id": "49329265",
+      "headline": "World Cup live updates: Norway take on England in quarterfinal clash",
+      "description": "Enjoy all the updates from Saturday's match as Norway take on England in Miami Gardens in 2026 FIFA World Cup quarterfinal action.",
+      "published": "2026-07-11T20:11:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49329265/world-cup-live-updates-norway-take-england-quarterfinal-clash",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687579_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "players": [],
+      "score": 219
+    },
+    {
+      "id": "49329226",
+      "headline": "World Cup daily: Free England-Norway ticket in Haaland look-alike contest",
+      "description": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
+      "published": "2026-07-11T20:12:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49329226/world-cup-daily-england-norway-argentina-switzerland-quarterfinals-erling-haaland",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687666_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "players": [],
+      "score": 200
+    },
+    {
+      "id": "49335655",
+      "headline": "Ezri Konsa starts for England at right-back against Norway as John Stones, Noni Madueke come into team",
+      "description": "England have made two changes and a further positional switch for their World Cup quarterfinal with Norway in Miami on Saturday.",
+      "published": "2026-07-11T19:58:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49335655/england-world-cup-norway-team-news-sources-noni-madueke-marc-guehi-quarterfinal",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687880_2_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton and James Olley",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [
+        "Noni Madueke"
+      ],
+      "score": 192
+    },
     {
       "id": "49334704",
       "headline": "Jürgen Klopp reaches agreement on 'key points' of deal to become new Germany head coach",
@@ -23,24 +76,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 210
-    },
-    {
-      "id": "49329226",
-      "headline": "World Cup daily: Free England-Norway ticket in Haaland look-alike contest",
-      "description": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
-      "published": "2026-07-11T17:00:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49329226/world-cup-daily-england-norway-argentina-switzerland-quarterfinals-erling-haaland",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687666_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "England"
-      ],
-      "players": [],
-      "score": 209
+      "score": 186
     },
     {
       "id": "49334380",
@@ -59,7 +95,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 190
+      "score": 166
     },
     {
       "id": "48352807",
@@ -119,7 +155,27 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 177
+      "score": 153
+    },
+    {
+      "id": "49331445",
+      "headline": "Transfer rumors, news: Salah could return to U.S. post-World Cup with MLS team",
+      "description": "MLS team Sporting Kansas City have emerged as a candidate to sign former Liverpool star Mohamed Salah. Transfer talk has the latest.",
+      "published": "2026-07-11T20:06:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49331445/transfer-rumors-news-salah-return-us-post-world-cup-mls-team",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1684018_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "USA"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Noni Madueke"
+      ],
+      "score": 144
     },
     {
       "id": "48386952",
@@ -172,7 +228,26 @@
         "Haiti"
       ],
       "players": [],
-      "score": 165
+      "score": 141
+    },
+    {
+      "id": "49336670",
+      "headline": "Italy tap Paolo Maldini, Leonardo in technical director, advisor roles",
+      "description": "The Italian football federation took another step Saturday toward a rebuild of their national team by hiring Paolo Maldini as technical director and former Brazil international and 1994 World Cup winner Leonardo as advisor.",
+      "published": "2026-07-11T20:24:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49336670/italy-tap-paolo-maldini-leonardo-technical-director-advisor-roles",
+      "image": "https://a.espncdn.com/photo/2018/0805/r410650_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Brazil"
+      ],
+      "players": [
+        "Noni Madueke"
+      ],
+      "score": 133
     },
     {
       "id": "49333770",
@@ -190,7 +265,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 158
+      "score": 133
     },
     {
       "id": "49333681",
@@ -207,13 +282,13 @@
         "Norway"
       ],
       "players": [],
-      "score": 156
+      "score": 132
     },
     {
       "id": "49333373",
       "headline": "South Africa midfielder Jayden Adams dies aged 25, weeks after World Cup appearance",
       "description": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died aged 25, the South African Football Players Union has confirmed.",
-      "published": "2026-07-11T16:22:26Z",
+      "published": "2026-07-11T18:46:52Z",
       "url": "https://www.espn.com/soccer/story/_/id/49333373/south-africa-midfielder-jayden-adams-dies-aged-25-weeks-world-cup-appearance",
       "image": "https://a.espncdn.com/photo/2026/0711/r1687731_1296x729_16-9.jpg",
       "byline": "Leonard Solms",
@@ -225,44 +300,45 @@
       "players": [
         "Jayden Adams"
       ],
-      "score": 141
+      "score": 130
     },
     {
-      "id": "49331445",
-      "headline": "Transfer rumors, news: Could Man United sign Paraguay GK as Lammens competition?",
-      "description": "Manchester United are rumoured to be interested in Paraguay goalkeeper Orlando Gill. Transfer talk has the latest.",
-      "published": "2026-07-11T10:23:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49331445/transfer-rumors-news-man-united-sign-paraguay-gk-senne-lammens-competition",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687673_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49335133",
+      "headline": "Jayden Adams defied childhood odds to make Bafana & Cloetesville proud at the World Cup",
+      "description": "South Africa midfielder Jayden Adams rose above his humble beginnings in a 25-year life that defied all odds.",
+      "published": "2026-07-11T17:59:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49335133/jayden-adams-south-africa-world-cup-bafana-bafana",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687814_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "Paraguay"
+        "England",
+        "South Africa"
       ],
       "players": [
-        "Lionel Messi"
+        "Noni Madueke"
       ],
-      "score": 134
+      "score": 129
     },
     {
-      "id": "49124668",
-      "headline": "Man City beat Arsenal to signing of Leicester teenager Jeremy Monga",
-      "description": "Manchester City have completed the signing of winger Jeremy Monga from Leicester City.",
-      "published": "2026-07-11T09:38:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49124668/jeremy-monga-man-city-leicester-city-premier-league-transfers",
-      "image": "https://a.espncdn.com/photo/2026/0620/r1676555_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49334998",
+      "headline": "Chelsea prioritise exit for wantaway Alejandro Garnacho - sources",
+      "description": "Chelsea are demanding €50 million ($57m) for Alejandro Garnacho after the winger did not report back to the club for preseason training, sources have told ESPN.",
+      "published": "2026-07-11T17:01:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49334998/chelsea-prioritise-exit-wantaway-alejandro-garnacho-sources",
+      "image": "https://a.espncdn.com/photo/2026/0423/r1648071_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "England"
       ],
       "players": [
-        "Lionel Messi"
+        "Alejandro Garnacho",
+        "Noni Madueke"
       ],
-      "score": 133
+      "score": 128
     },
     {
       "id": "49331547",
@@ -281,7 +357,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 130
+      "score": 126
     },
     {
       "id": "49333265",
@@ -298,7 +374,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 129
+      "score": 125
     },
     {
       "id": "49327981",
@@ -315,7 +391,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 129
+      "score": 125
     },
     {
       "id": "49313872",
@@ -335,7 +411,7 @@
         "Harry Kane",
         "Erling Haaland"
       ],
-      "score": 127
+      "score": 123
     },
     {
       "id": "49332313",
@@ -354,7 +430,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 124
+      "score": 120
     },
     {
       "id": "49178425",
@@ -397,7 +473,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 123
+      "score": 119
     },
     {
       "id": "49330344",
@@ -414,27 +490,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 122
-    },
-    {
-      "id": "49328075",
-      "headline": "England given World Cup boost as Marc Guéhi, Declan Rice return to training ahead of Norway clash",
-      "description": "Marc Guéhi and Declan Rice handed England a fitness boost as they both trained ahead of the World Cup quarter-final with Norway in Miami.",
-      "published": "2026-07-11T00:44:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49328075/england-marc-guehi-declan-rice-back-training-ahead-norway-world-cup-clash",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687230_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "England",
-        "Norway"
-      ],
-      "players": [
-        "Marc Guéhi",
-        "Declan Rice"
-      ],
-      "score": 122
+      "score": 118
     },
     {
       "id": "49332216",
@@ -454,7 +510,27 @@
         "Thibaut Courtois",
         "Senne Lammens"
       ],
-      "score": 121
+      "score": 117
+    },
+    {
+      "id": "49328075",
+      "headline": "England given World Cup boost as Marc Guéhi, Declan Rice return to training ahead of Norway clash",
+      "description": "Marc Guéhi and Declan Rice handed England a fitness boost as they both trained ahead of the World Cup quarter-final with Norway in Miami.",
+      "published": "2026-07-11T00:44:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49328075/england-marc-guehi-declan-rice-back-training-ahead-norway-world-cup-clash",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687230_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [
+        "Marc Guéhi",
+        "Declan Rice"
+      ],
+      "score": 117
     },
     {
       "id": "49332199",
@@ -473,7 +549,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 121
+      "score": 116
     },
     {
       "id": "49330563",
@@ -490,7 +566,7 @@
         "France"
       ],
       "players": [],
-      "score": 118
+      "score": 114
     },
     {
       "id": "49329398",
@@ -507,26 +583,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 118
-    },
-    {
-      "id": "49326683",
-      "headline": "Belgium's Courtois exits with injury before Spain winner",
-      "description": "Belgium captain Youri Tielemans was a late scratch from Belgium's lineup for their World Cup quarterfinal match against Spain on Friday.",
-      "published": "2026-07-10T22:35:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49326683/belgium-youri-tielemans-injury-warmup-spain-world-cup-quarterfinal",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687511_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Belgium",
-        "Spain"
-      ],
-      "players": [
-        "Youri Tielemans"
-      ],
-      "score": 118
+      "score": 114
     },
     {
       "id": "49294844",
@@ -549,7 +606,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 117
+      "score": 113
     },
     {
       "id": "49328835",
@@ -566,7 +623,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 117
+      "score": 113
     },
     {
       "id": "49309967",
@@ -583,7 +640,25 @@
         "England"
       ],
       "players": [],
-      "score": 115
+      "score": 111
+    },
+    {
+      "id": "49323047",
+      "headline": "Messi, Mbappé, Kane: Why are so many players taking stuttering penalties at the World Cup?",
+      "description": "Messi, Mbappé and Kane have all missed stuttering penalties at the World Cup. So why are so many players taking them?",
+      "published": "2026-07-11T07:43:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49323047/lionel-messi-kylian-mbappe-harry-kane-why-many-players-stuttering-penalties-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687248_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Lionel Messi",
+        "Kylian Mbappé",
+        "Harry Kane"
+      ],
+      "score": 110
     },
     {
       "id": "49329042",
@@ -602,25 +677,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 115
-    },
-    {
-      "id": "49323047",
-      "headline": "Messi, Mbappé, Kane: Why are so many players taking stuttering penalties at the World Cup?",
-      "description": "Messi, Mbappé and Kane have all missed stuttering penalties at the World Cup. So why are so many players taking them?",
-      "published": "2026-07-11T07:43:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49323047/lionel-messi-kylian-mbappe-harry-kane-why-many-players-stuttering-penalties-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687248_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Lionel Messi",
-        "Kylian Mbappé",
-        "Harry Kane"
-      ],
-      "score": 114
+      "score": 110
     },
     {
       "id": "48945011",
@@ -634,7 +691,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 111
+      "score": 107
     },
     {
       "id": "48945570",
@@ -648,7 +705,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 111
+      "score": 107
     },
     {
       "id": "49327290",
@@ -666,23 +723,7 @@
         "France"
       ],
       "players": [],
-      "score": 111
-    },
-    {
-      "id": "49330698",
-      "headline": "Scaloni defers to Messi on World Cup penalty duties",
-      "description": "Argentina coach Lionel Scaloni confirmed that Lionel Messi retains full authority over whether he continues to take penalty kicks despite his recent World Cup struggles.",
-      "published": "2026-07-11T04:06:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49330698/scaloni-defers-messi-world-cup-penalty-duties",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687635_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
-      "score": 110
+      "score": 107
     },
     {
       "id": "49329795",
@@ -701,7 +742,23 @@
       "players": [
         "Lisandro Martínez"
       ],
-      "score": 110
+      "score": 106
+    },
+    {
+      "id": "49330698",
+      "headline": "Scaloni defers to Messi on World Cup penalty duties",
+      "description": "Argentina coach Lionel Scaloni confirmed that Lionel Messi retains full authority over whether he continues to take penalty kicks despite his recent World Cup struggles.",
+      "published": "2026-07-11T04:06:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49330698/scaloni-defers-messi-world-cup-penalty-duties",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687635_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [],
+      "score": 105
     },
     {
       "id": "49329575",
@@ -721,7 +778,7 @@
         "Harry Kane",
         "Erling Haaland"
       ],
-      "score": 109
+      "score": 105
     },
     {
       "id": "49329568",
@@ -735,7 +792,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 109
+      "score": 105
     },
     {
       "id": "49073399",
@@ -753,24 +810,7 @@
       "players": [
         "Lamine Yamal"
       ],
-      "score": 109
-    },
-    {
-      "id": "49330039",
-      "headline": "Courtois backs Lammens after error leads to Spain winner",
-      "description": "",
-      "published": "2026-07-11T02:07:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/49330039/courtois-backs-lammens-error-leads-spain-winner",
-      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_PRESSER_Courtois_backs_Lammens_after_error_leads_to_Spain_winner_2026_7_10/dm_260710_COM_SOC_PRESSER_Courtois_backs_Lammens_after_error_leads_to_Spain_winner_2026_7_10.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Belgium",
-        "Spain"
-      ],
-      "players": [],
-      "score": 107
+      "score": 105
     },
     {
       "id": "49328198",
@@ -787,7 +827,24 @@
         "Spain"
       ],
       "players": [],
-      "score": 107
+      "score": 103
+    },
+    {
+      "id": "49330039",
+      "headline": "Courtois backs Lammens after error leads to Spain winner",
+      "description": "",
+      "published": "2026-07-11T02:07:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/49330039/courtois-backs-lammens-error-leads-spain-winner",
+      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_PRESSER_Courtois_backs_Lammens_after_error_leads_to_Spain_winner_2026_7_10/dm_260710_COM_SOC_PRESSER_Courtois_backs_Lammens_after_error_leads_to_Spain_winner_2026_7_10.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium",
+        "Spain"
+      ],
+      "players": [],
+      "score": 102
     },
     {
       "id": "49320148",
@@ -807,7 +864,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 105
+      "score": 101
     },
     {
       "id": "49328898",
@@ -826,7 +883,7 @@
       "players": [
         "Lamine Yamal"
       ],
-      "score": 105
+      "score": 101
     },
     {
       "id": "49328659",
@@ -845,7 +902,7 @@
       "players": [
         "Mikel Merino"
       ],
-      "score": 105
+      "score": 101
     },
     {
       "id": "49328373",
@@ -863,7 +920,7 @@
       "players": [
         "Senne Lammens"
       ],
-      "score": 104
+      "score": 99
     },
     {
       "id": "49328361",
@@ -882,7 +939,7 @@
       "players": [
         "Lamine Yamal"
       ],
-      "score": 104
+      "score": 99
     },
     {
       "id": "48939282",
@@ -900,7 +957,7 @@
         "USA"
       ],
       "players": [],
-      "score": 102
+      "score": 98
     },
     {
       "id": "49327208",
@@ -917,60 +974,7 @@
         "Belgium"
       ],
       "players": [],
-      "score": 102
-    },
-    {
-      "id": "49328779",
-      "headline": "Leboeuf: France favourites against Spain in 'final before the final'",
-      "description": "Leboeuf: France favourites against Spain in 'final before the final'",
-      "published": "2026-07-10T22:52:51Z",
-      "url": "https://www.espn.com/video/clip/_/id/49328779/france-favourites-spain-final-final",
-      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_Leboeuf_France_favourites_against_Spain_in_final_before_the_final/dm_260710_Leboeuf_France_favourites_against_Spain_in_final_before_the_final.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Belgium",
-        "Spain",
-        "France"
-      ],
-      "players": [],
-      "score": 102
-    },
-    {
-      "id": "49327676",
-      "headline": "Jesus: Ronaldo decision will be made after personal conversation",
-      "description": "Jesus: Ronaldo decision will be made after personal conversation",
-      "published": "2026-07-10T20:52:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/49327676/ronaldo-decision-made-personal-conversation",
-      "image": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_Jesus_Ronaldo_decision_will_be_made_after_personal_conversation/dm_260710_Jesus_Ronaldo_decision_will_be_made_after_personal_conversation.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 102
-    },
-    {
-      "id": "49328247",
-      "headline": "Merino sends Spain to the semis, but La Roja need more from wasteful attack",
-      "description": "You'd think a team boasting Lamine Yamal would score goals for fun, but to beat Belgium, Spain needed midfielder Mikel Merino to net the winner.",
-      "published": "2026-07-10T22:40:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49328247/mikel-merino-sends-spain-world-cup-semifinals-beating-belgium-la-roja-need-more-wasteful-attack",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687529_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle and Gabriele Marcotti",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Belgium"
-      ],
-      "players": [],
-      "score": 101
+      "score": 98
     }
   ]
 }
