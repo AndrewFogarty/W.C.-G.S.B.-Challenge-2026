@@ -1,14 +1,81 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-12T15:36:14.288Z",
+  "updated": "2026-07-12T18:41:59.362Z",
   "counts": {
-    "news": 32,
+    "offfield": 6,
+    "preview": 5,
+    "news": 30,
     "celebration": 6,
-    "preview": 4,
-    "offfield": 5,
     "injury": 1
   },
   "items": [
+    {
+      "id": "49344483",
+      "headline": "Xhaka: Switzerland red card vs. Argentina 'killed the game'",
+      "description": "Xhaka: Switzerland red card vs. Argentina 'killed the game'",
+      "published": "2026-07-12T17:40:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/49344483/switzerland-red-card-vs-argentina-killed-game",
+      "image": "https://a.espncdn.com/media/motion/2026/0712/dm_260712_Xhaka_Switzerland_red_card_vs_Argentina_killed_the_game/dm_260712_Xhaka_Switzerland_red_card_vs_Argentina_killed_the_game.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Switzerland",
+        "Argentina"
+      ],
+      "players": [
+        "Granit Xhaka"
+      ],
+      "score": 223
+    },
+    {
+      "id": "49341436",
+      "headline": "Lionel Messi praises 'not normal' Argentina as World Cup semifinal awaits",
+      "description": "Lionel Messi has said Argentina's remarkable run of success is \"not normal\" after the reigning world champions beat Switzerland to reach the World Cup semifinals, where they will face England.",
+      "published": "2026-07-12T16:36:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49341436/lionel-messi-praises-not-normal-argentina-world-cup-semifinal-awaits",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688222_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Switzerland",
+        "England"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 199
+    },
+    {
+      "id": "49340531",
+      "headline": "World Cup Daily live: Spidercam debate rumbles on as four semifinalists confirmed",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
+      "published": "2026-07-12T17:11:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688220_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 194
+    },
+    {
+      "id": "49343877",
+      "headline": "FIFA, FIFPRO in heat protocol talks after World Cup concerns - sources",
+      "description": "FIFA and global players' union FIFPRO are in discussions over establishing protocols to avoid games being played in excessive heat, sources have told ESPN.",
+      "published": "2026-07-12T16:37:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49343877/fifa-world-cup-fifpro-temperature-heat-protocol-talks-sources",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688340_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 173
+    },
     {
       "id": "49342621",
       "headline": "Haaland, Norway are rowing home, but this World Cup cemented them as superstars",
@@ -26,7 +93,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 212
+      "score": 168
     },
     {
       "id": "49178425",
@@ -71,7 +138,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 199
+      "score": 154
     },
     {
       "id": "48386952",
@@ -124,13 +191,34 @@
         "Haiti"
       ],
       "players": [],
-      "score": 188
+      "score": 143
+    },
+    {
+      "id": "49342691",
+      "headline": "Newcastle considering Danilo Santos if Bruno Guimarães joins Arsenal - sources",
+      "description": "Newcastle are considering signing Brazil midfielder Danilo Santos as a possible replacement for Arsenal target Bruno Guimarães, sources have told ESPN.",
+      "published": "2026-07-12T13:29:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49342691/newcastle-considering-danilo-santos-bruno-guimaraes-joins-arsenal-sources",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688272_1296x729_16-9.jpg",
+      "byline": "Daniel Bocatto",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Switzerland",
+        "Brazil"
+      ],
+      "players": [
+        "Danilo Santos",
+        "Bruno Guimarães",
+        "Granit Xhaka"
+      ],
+      "score": 137
     },
     {
       "id": "49334623",
       "headline": "World Cup semifinals: What you need to know, predictions, odds",
       "description": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions.",
-      "published": "2026-07-12T14:12:36Z",
+      "published": "2026-07-12T15:37:10Z",
       "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688282_2_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -144,7 +232,24 @@
         "Spain"
       ],
       "players": [],
-      "score": 178
+      "score": 135
+    },
+    {
+      "id": "49027532",
+      "headline": "World Cup VAR review: Embolo sent off as Ream's 'mistaken identity' loophole appears again",
+      "description": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
+      "published": "2026-07-12T11:47:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688150_1296x729_16-9.jpg",
+      "byline": "Andy Davies",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "players": [],
+      "score": 132
     },
     {
       "id": "49339438",
@@ -161,38 +266,41 @@
         "Norway"
       ],
       "players": [],
-      "score": 164
+      "score": 130
     },
     {
-      "id": "49340531",
-      "headline": "World Cup Daily live: Spidercam debate rumbles on as four semifinalists confirmed",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
-      "published": "2026-07-12T13:52:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688220_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 163
-    },
-    {
-      "id": "49342349",
-      "headline": "Thomas Tuchel on England World Cup semifinal vs Argentina: Nowhere in world I'd rather be",
-      "description": "Thomas Tuchel has said there is \"nowhere else in the whole wide world\" he would rather be than leading England into a World Cup semifinal against reigning champions Argentina.",
-      "published": "2026-07-12T11:52:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49342349/thomas-tuchel-england-world-cup-semifinal-vs-argentina-nowhere-world-rather-be",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685172_1296x729_16-9.jpg",
+      "id": "49342142",
+      "headline": "Senegal sack manager Pape Thiaw after World Cup exit",
+      "description": "Senegal have sacked manager Pape Thiaw in the wake of their exit from the World Cup in the round of 32.",
+      "published": "2026-07-12T11:00:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49342142/senegal-sack-manager-pape-thiaw-world-cup-exit",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688244_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "England",
-        "Argentina"
+        "Senegal"
       ],
       "players": [],
-      "score": 144
+      "score": 130
+    },
+    {
+      "id": "49154575",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
+      "published": "2026-07-12T10:51:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
     },
     {
       "id": "49341844",
@@ -210,40 +318,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 142
-    },
-    {
-      "id": "49027532",
-      "headline": "World Cup VAR review: Embolo sent off as Ream's 'mistaken identity' loophole appears again",
-      "description": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
-      "published": "2026-07-12T11:47:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688150_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "players": [],
-      "score": 136
-    },
-    {
-      "id": "49342142",
-      "headline": "Senegal sack manager Pape Thiaw after World Cup exit",
-      "description": "Senegal have sacked manager Pape Thiaw in the wake of their exit from the World Cup in the round of 32.",
-      "published": "2026-07-12T11:00:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49342142/senegal-sack-manager-pape-thiaw-world-cup-exit",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688244_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [],
-      "score": 135
+      "score": 128
     },
     {
       "id": "49341457",
@@ -263,7 +338,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 132
+      "score": 128
     },
     {
       "id": "49339724",
@@ -282,45 +357,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 132
-    },
-    {
-      "id": "49341436",
-      "headline": "Lionel Messi praises 'not normal' Argentina as World Cup semifinal awaits",
-      "description": "Lionel Messi has said Argentina's remarkable run of success is \"not normal\" after the reigning world champions beat Switzerland to reach the World Cup semifinals, where they will face England.",
-      "published": "2026-07-12T08:30:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49341436/lionel-messi-praises-not-normal-argentina-world-cup-semifinal-awaits",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688222_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Switzerland",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49340676",
-      "headline": "Are there signs of tension between Tuchel and Bellingham?",
-      "description": "Are there signs of tension between Tuchel and Bellingham?",
-      "published": "2026-07-12T05:02:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49340676/are-there-signs-tension-tuchel-bellingham",
-      "image": "https://a.espncdn.com/media/motion/2026/0712/dm_260712_COM_SOC_ANALYSIS_Are_there_signs_of_tension_between_Tuchel_and_Bellingham_2026_7_12/dm_260712_COM_SOC_ANALYSIS_Are_there_signs_of_tension_between_Tuchel_and_Bellingham_2026_7_12.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 129
+      "score": 127
     },
     {
       "id": "48939282",
@@ -338,7 +375,7 @@
         "USA"
       ],
       "players": [],
-      "score": 128
+      "score": 124
     },
     {
       "id": "49340795",
@@ -357,7 +394,7 @@
       "players": [
         "Julián Álvarez"
       ],
-      "score": 128
+      "score": 124
     },
     {
       "id": "49340628",
@@ -374,7 +411,25 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 128
+      "score": 123
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-07-12T10:50:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 121
     },
     {
       "id": "49334079",
@@ -388,7 +443,24 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 125
+      "score": 121
+    },
+    {
+      "id": "49342349",
+      "headline": "Thomas Tuchel on England World Cup semifinal vs Argentina: Nowhere in world I'd rather be",
+      "description": "Thomas Tuchel has said there is \"nowhere else in the whole wide world\" he would rather be than leading England into a World Cup semifinal against reigning champions Argentina.",
+      "published": "2026-07-12T11:52:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49342349/thomas-tuchel-england-world-cup-semifinal-vs-argentina-nowhere-world-rather-be",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685172_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 120
     },
     {
       "id": "49339629",
@@ -405,7 +477,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 124
+      "score": 119
     },
     {
       "id": "49339892",
@@ -424,7 +496,7 @@
       "players": [
         "Jude Bellingham"
       ],
-      "score": 124
+      "score": 119
     },
     {
       "id": "49341900",
@@ -441,7 +513,25 @@
         "Norway"
       ],
       "players": [],
-      "score": 122
+      "score": 118
+    },
+    {
+      "id": "49085479",
+      "headline": "Lionel Messi at the World Cup: History, results, stats",
+      "description": "Here's how Lionel Messi has performed for Argentina at the World Cup throughout his career.",
+      "published": "2026-07-12T03:52:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49085479/lionel-messi-world-cup-history-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674372_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 118
     },
     {
       "id": "49341491",
@@ -461,7 +551,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 122
+      "score": 117
     },
     {
       "id": "49339784",
@@ -478,25 +568,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 122
-    },
-    {
-      "id": "49085479",
-      "headline": "Lionel Messi at the World Cup: History, results, stats",
-      "description": "Here's how Lionel Messi has performed for Argentina at the World Cup throughout his career.",
-      "published": "2026-07-12T03:52:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49085479/lionel-messi-world-cup-history-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674372_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 122
+      "score": 117
     },
     {
       "id": "49308560",
@@ -520,40 +592,7 @@
         "Gustavo Puerta",
         "Johan Manzambi"
       ],
-      "score": 121
-    },
-    {
-      "id": "49341618",
-      "headline": "Scaloni on Argentina's World Cup: 'Sometimes luck can be on your side'",
-      "description": "Scaloni on Argentina's World Cup: 'Sometimes luck can be on your side'",
-      "published": "2026-07-12T08:46:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/49341618/somes-luck-your-side",
-      "image": "https://a.espncdn.com/media/motion/2026/0712/dm_260712_COM_SOC_Presser_Scaloni_on_Argentinas_World_Cup_Sometimes_luck_can_be_on_your_side_20260712/dm_260712_COM_SOC_Presser_Scaloni_on_Argentinas_World_Cup_Sometimes_luck_can_be_on_your_side_20260712.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "players": [],
-      "score": 120
-    },
-    {
-      "id": "49341544",
-      "headline": "Jude Bellingham could be 'England's greatest ever footballer' - Gary Lineker",
-      "description": "Former England striker Gary Lineker has said he believes Jude Bellingham could be the country's \"greatest ever\" footballer.",
-      "published": "2026-07-12T08:40:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49341544/jude-bellingham-englands-greatest-ever-footballer-gary-lineker",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688223_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 120
+      "score": 116
     },
     {
       "id": "49341185",
@@ -573,7 +612,40 @@
         "Erling Haaland",
         "Jude Bellingham"
       ],
-      "score": 120
+      "score": 116
+    },
+    {
+      "id": "49341618",
+      "headline": "Scaloni on Argentina's World Cup: 'Sometimes luck can be on your side'",
+      "description": "Scaloni on Argentina's World Cup: 'Sometimes luck can be on your side'",
+      "published": "2026-07-12T08:46:03Z",
+      "url": "https://www.espn.com/video/clip/_/id/49341618/somes-luck-your-side",
+      "image": "https://a.espncdn.com/media/motion/2026/0712/dm_260712_COM_SOC_Presser_Scaloni_on_Argentinas_World_Cup_Sometimes_luck_can_be_on_your_side_20260712/dm_260712_COM_SOC_Presser_Scaloni_on_Argentinas_World_Cup_Sometimes_luck_can_be_on_your_side_20260712.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "players": [],
+      "score": 115
+    },
+    {
+      "id": "49341544",
+      "headline": "Jude Bellingham could be 'England's greatest ever footballer' - Gary Lineker",
+      "description": "Former England striker Gary Lineker has said he believes Jude Bellingham could be the country's \"greatest ever\" footballer.",
+      "published": "2026-07-12T08:40:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49341544/jude-bellingham-englands-greatest-ever-footballer-gary-lineker",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688223_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [],
+      "score": 115
     },
     {
       "id": "49340137",
@@ -593,7 +665,7 @@
         "Lionel Messi",
         "Julián Álvarez"
       ],
-      "score": 120
+      "score": 115
     },
     {
       "id": "49340290",
@@ -610,35 +682,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 120
-    },
-    {
-      "id": "48945011",
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-12T10:52:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 119
-    },
-    {
-      "id": "48945570",
-      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
-      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
-      "published": "2026-07-12T10:52:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 119
+      "score": 115
     },
     {
       "id": "49084603",
@@ -654,7 +698,35 @@
         "Argentina"
       ],
       "players": [],
-      "score": 119
+      "score": 115
+    },
+    {
+      "id": "48945011",
+      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
+      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
+      "published": "2026-07-12T10:52:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 114
+    },
+    {
+      "id": "48945570",
+      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
+      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
+      "published": "2026-07-12T10:52:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 114
     },
     {
       "id": "49340964",
@@ -673,24 +745,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 117
-    },
-    {
-      "id": "49341062",
-      "headline": "Kane praises 'incredible' Bellingham after England's win vs. Norway",
-      "description": "Kane praises 'incredible' Bellingham after England's win vs. Norway",
-      "published": "2026-07-12T06:43:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49341062/kane-praises-incredible-bellingham-england-win-vs-norway",
-      "image": "https://a.espncdn.com/media/motion/2026/0712/dm_260712_COM_SOC_Presser_Kane_praises_incredible_Bellingham_after_Englands_win_vs_Norway_20260712_GLO/dm_260712_COM_SOC_Presser_Kane_praises_incredible_Bellingham_after_Englands_win_vs_Norway_20260712_GLO.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Norway"
-      ],
-      "players": [],
-      "score": 117
+      "score": 113
     },
     {
       "id": "47978642",
@@ -708,7 +763,24 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 117
+      "score": 113
+    },
+    {
+      "id": "49341062",
+      "headline": "Kane praises 'incredible' Bellingham after England's win vs. Norway",
+      "description": "Kane praises 'incredible' Bellingham after England's win vs. Norway",
+      "published": "2026-07-12T06:43:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/49341062/kane-praises-incredible-bellingham-england-win-vs-norway",
+      "image": "https://a.espncdn.com/media/motion/2026/0712/dm_260712_COM_SOC_Presser_Kane_praises_incredible_Bellingham_after_Englands_win_vs_Norway_20260712_GLO/dm_260712_COM_SOC_Presser_Kane_praises_incredible_Bellingham_after_Englands_win_vs_Norway_20260712_GLO.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Norway"
+      ],
+      "players": [],
+      "score": 112
     },
     {
       "id": "49339306",
@@ -727,7 +799,7 @@
       "players": [
         "Jude Bellingham"
       ],
-      "score": 116
+      "score": 112
     },
     {
       "id": "49338957",
@@ -746,7 +818,7 @@
       "players": [
         "Jude Bellingham"
       ],
-      "score": 116
+      "score": 112
     },
     {
       "id": "49340416",
@@ -763,7 +835,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 115
+      "score": 111
     },
     {
       "id": "49339911",
@@ -780,7 +852,7 @@
         "England"
       ],
       "players": [],
-      "score": 115
+      "score": 111
     },
     {
       "id": "49340812",
@@ -797,7 +869,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 115
+      "score": 110
     },
     {
       "id": "49339687",
@@ -815,26 +887,7 @@
         "England"
       ],
       "players": [],
-      "score": 114
-    },
-    {
-      "id": "49339250",
-      "headline": "Haaland silenced by England as World Cup 'insane journey' ends for Norway",
-      "description": "Erling Haaland was subbed off late in extra time as Norway's World Cup run ended in a 2-1 quarterfinal loss to England.",
-      "published": "2026-07-12T03:12:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49339250/erling-haaland-england-subbed-late-norway-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688088_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "England"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 114
+      "score": 110
     },
     {
       "id": "49327226",
@@ -852,7 +905,7 @@
         "England"
       ],
       "players": [],
-      "score": 113
+      "score": 108
     },
     {
       "id": "49329226",
@@ -869,55 +922,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 113
-    },
-    {
-      "id": "49340159",
-      "headline": "Limbs in Argentina has Alvarez makes it 2-1 vs. Switzerland",
-      "description": "Limbs in Argentina has Alvarez makes it 2-1 vs. Switzerland",
-      "published": "2026-07-12T03:49:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49340159/limbs-argentina-alvarez-makes-2-1-vs-switzerland",
-      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Fans_Limbs_in_Argentina_has_Alvarez_makes_it_2-1_vs_Switzerland_GLOBAL_2026-07-12/dm_260711_COM_SOC_Fans_Limbs_in_Argentina_has_Alvarez_makes_it_2-1_vs_Switzerland_GLOBAL_2026-07-12.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "players": [],
-      "score": 112
-    },
-    {
-      "id": "49340130",
-      "headline": "Tuchel: England were lucky in decisive moments vs. Norway",
-      "description": "Tuchel: England were lucky in decisive moments vs. Norway",
-      "published": "2026-07-12T03:43:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/49340130/england-were-lucky-decisive-moments-vs-norway",
-      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_Tuchel_England_were_lucky_in_decisive_moments_vs_Norway/dm_260711_Tuchel_England_were_lucky_in_decisive_moments_vs_Norway.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Norway"
-      ],
-      "players": [],
-      "score": 112
-    },
-    {
-      "id": "49338924",
-      "headline": "FIFA World Cup 2026 stats: Messi sets new record, overtakes Mbappe; Alvarez ties Maradona; Bellingham second after Pele",
-      "description": "ESPN's By The Numbers brings you best stats from the World Cup action on July 11",
-      "published": "2026-07-12T05:17:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49338924/fifa-world-cup-2026-stats-lionel-messi-new-record-kylian-mbappe-julian-alvarez-tie-diego-maradona-jude-bellingham-second-pele",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688176_608x342_16-9.jpg",
-      "byline": "Anirudh Menon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 111
+      "score": 108
     }
   ]
 }
