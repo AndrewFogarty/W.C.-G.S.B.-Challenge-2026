@@ -1,27 +1,103 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-13T17:02:00.808Z",
+  "updated": "2026-07-13T20:42:00.711Z",
   "counts": {
-    "news": 31,
-    "preview": 9,
-    "offfield": 6,
-    "injury": 1,
-    "celebration": 1
+    "news": 27,
+    "preview": 10,
+    "injury": 2,
+    "offfield": 7,
+    "celebration": 2
   },
   "items": [
     {
       "id": "49348483",
-      "headline": "World Cup Daily live: Happy Birthday to Lamine Yamal, and the World Cup itself",
+      "headline": "World Cup Daily live: Haaland returns to Norway with stuffed raccoon in tow",
       "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
-      "published": "2026-07-13T16:01:30Z",
+      "published": "2026-07-13T20:30:35Z",
       "url": "https://www.espn.com/soccer/story/_/id/49348483/world-cup-daily-live-happy-birthday-lamine-yamal-world-cup-itself",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688573_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688820_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [],
+      "teams": [
+        "Norway"
+      ],
       "players": [],
-      "score": 204
+      "score": 210
+    },
+    {
+      "id": "49352322",
+      "headline": "Pickford: England can't just focus on Messi in semifinal vs. Argentina",
+      "description": "Pickford: England can't just focus on Messi in semifinal vs. Argentina",
+      "published": "2026-07-13T19:13:23Z",
+      "url": "https://www.espn.com/video/clip/_/id/49352322/england-just-focus-messi-semifinal-vs-argentina",
+      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Presser_Pickford_England_cant_just_focus_on_Messi_in_semifinal_vs_Argentina_20260713/dm_260713_COM_SOC_Presser_Pickford_England_cant_just_focus_on_Messi_in_semifinal_vs_Argentina_20260713.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Jordan Pickford",
+        "Lionel Messi"
+      ],
+      "score": 201
+    },
+    {
+      "id": "49350803",
+      "headline": "Who is Iván Barton? The South American referee set to take charge of Spain vs. France in the World Cup semifinal",
+      "description": "France and Spain are set to face each other in a blockbuster semifinal of the World Cup as stars Lamine Yamal and Kylian Mbappé fight to earn a place in the final.",
+      "published": "2026-07-13T18:47:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49350803/who-ivan-barton-referee-spain-france-world-cup-semifinal",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688667_1296x729_16-9.jpg",
+      "byline": "Olivia Pagden",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain",
+        "France"
+      ],
+      "players": [],
+      "score": 196
+    },
+    {
+      "id": "49351324",
+      "headline": "England vs. Argentina - who are Argentina's key players to look out for aside from Messi? Which familiar Premier League faces could pose a threat?",
+      "description": "Messi won't be the only Argentina player for England to fear in the World Cup semifinal clash between the two.",
+      "published": "2026-07-13T18:48:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49351324/england-argentina-world-cup-2026-semifinal-premier-league-players-lionel-messi-enzo-fernandes-julian-alvarez-emi-martinez",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688643_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 191
+    },
+    {
+      "id": "49351350",
+      "headline": "Why McAfee is comparing Christian Pulisic to Paul George",
+      "description": "Why McAfee is comparing Christian Pulisic to Paul George",
+      "published": "2026-07-13T17:12:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49351350/why-mcafee-comparing-christian-pulisic-paul-george",
+      "image": "https://a.espncdn.com/media/motion/2026/0713/ss_20260713_125924629_3592818782/ss_20260713_125924629_3592818782.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Christian Pulisic",
+        "Paul George",
+        "Pat McAfee"
+      ],
+      "score": 168
     },
     {
       "id": "48352807",
@@ -81,7 +157,7 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 198
+      "score": 153
     },
     {
       "id": "49350743",
@@ -98,75 +174,46 @@
         "England"
       ],
       "players": [],
-      "score": 188
+      "score": 143
     },
     {
-      "id": "49350274",
-      "headline": "Preparing for penalties: How goalkeepers get ready for World Cup shootouts",
-      "description": "Since the shootout debuted at the 1982 World Cup, 39 knockout games have been decided from the penalty spot. What does preparation look like for the goalkeepers?",
-      "published": "2026-07-13T16:24:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49350274/penalties-world-cup-england-spain-france-argentina-shootout-stats-psychology",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688681_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [],
-      "players": [],
-      "score": 184
-    },
-    {
-      "id": "49349440",
-      "headline": "France counterattack, Argentina set pieces: How World Cup semifinalists score goals",
-      "description": "We're down to the final four of the World Cup, with the four top-ranked teams set to square off. Yet all of them use very different attacking styles in order to score goals; let's break it down.",
-      "published": "2026-07-13T15:00:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49349440/world-cup-semifinalists-score-goals-france-olise-spain-yamal-england-argentina-messi",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688629_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49351658",
+      "headline": "Would Youri Tielemans be a good signing for Man United?",
+      "description": "Would Youri Tielemans be a good signing for Man United?",
+      "published": "2026-07-13T17:36:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49351658/would-youri-tielemans-good-signing-man-united",
+      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "France",
-        "Spain",
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 176
-    },
-    {
-      "id": "49344633",
-      "headline": "Argentina scouting report: How can England stop Lionel Messi and co. in the World Cup semfinal?",
-      "description": "ESPN Argentina's Nico Baier provides the lowdown on England's World Cup semifinal opponents.",
-      "published": "2026-07-13T13:09:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49344633/argentina-scouting-report-england-lionel-messi-world-cup-semfinal-2026",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688378_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 154
-    },
-    {
-      "id": "49349593",
-      "headline": "Police investigating death of South Africa World Cup player Jayden Adams",
-      "description": "Police said Monday they are investigating the death of South Africa World Cup football player Jayden Adams, after his body was discovered this weekend at a property in the city of Cape Town.",
-      "published": "2026-07-13T13:04:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49349593/police-investigating-death-south-africa-world-cup-player-jayden-adams",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687814_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa"
+        "Argentina"
       ],
       "players": [
-        "Jayden Adams"
+        "Youri Tielemans",
+        "Jordan Pickford"
       ],
-      "score": 147
+      "score": 140
+    },
+    {
+      "id": "49351182",
+      "headline": "Liverpool sign goalkeeper Khiara Keating as free agent from Man City",
+      "description": "Liverpool have signed England goalkeeper Khiara Keating after her contract at Manchester City expired.",
+      "published": "2026-07-13T17:00:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49351182/liverpool-sign-goalkeeper-khiara-keating-free-agent-manchester-city",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688724_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Khiara Keating",
+        "Jordan Pickford"
+      ],
+      "score": 139
     },
     {
       "id": "49350801",
@@ -187,71 +234,101 @@
         "Matt Turner",
         "Jayden Adams"
       ],
-      "score": 144
+      "score": 139
+    },
+    {
+      "id": "49350274",
+      "headline": "Preparing for penalties: How goalkeepers get ready for World Cup shootouts",
+      "description": "Since the shootout debuted at the 1982 World Cup, 39 knockout games have been decided from the penalty spot. What does preparation look like for the goalkeepers?",
+      "published": "2026-07-13T16:24:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49350274/penalties-world-cup-england-spain-france-argentina-shootout-stats-psychology",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688681_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [],
+      "players": [],
+      "score": 139
     },
     {
       "id": "49345384",
-      "headline": "2026 World Cup: Best bets for the semifinal round",
+      "headline": "2026 World Cup: Best bets for France-Spain and England-Argentina semifinal games",
       "description": "Looking to place some World Cup bets? Take a look at what our experts are considering ahead of the semifinal round.",
-      "published": "2026-07-13T16:02:33Z",
+      "published": "2026-07-13T17:31:34Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/49345384/fifa-world-cup-betting-semifinal-round-best-bets-picks-odds-props-futures-2026",
       "image": "https://a.espncdn.com/photo/2026/0713/r1688691_576x324_16-9.jpg",
       "byline": "Victoria Matiash and Liz Loza",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
-        "South Africa",
-        "England",
         "Argentina",
+        "England",
         "France",
         "Spain"
       ],
       "players": [
-        "Jayden Adams"
+        "Jordan Pickford"
       ],
-      "score": 141
+      "score": 137
     },
     {
-      "id": "49348546",
-      "headline": "Pau Cubarsí calls for tolerance after Spain's ex-PM questions nationality of France players",
-      "description": "Spain defender Pau Cubarsí has called for tolerance after the nation's former Prime Minister, Mariano Rajoy, claimed that France \"don't have any French players.\"",
-      "published": "2026-07-13T12:39:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49348546/pau-cubarsi-tolerance-spain-mariano-rajoy-questions-nationality-france-players",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688572_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
+      "id": "49350138",
+      "headline": "NWSL Power Rankings: Gotham rocket up the order as Esther makes history",
+      "description": "Even without Sam Kerr, Gotham are showing the rest of the NWSL how potent their attack is, challenging Washington at the top of ESPN's Power Rankings.",
+      "published": "2026-07-13T16:31:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49350138/nwsl-power-rankings-njny-gotham-fc-rocket-order-esther-gonzalez-makes-history",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688717_1296x729_16-9.jpg",
+      "byline": "Arianna Cascone",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Jordan Pickford"
+      ],
+      "score": 134
+    },
+    {
+      "id": "49349481",
+      "headline": "Slaven Bilić returns for second stint as Croatia head coach",
+      "description": "Slaven Bilić has been appointed as the new head coach of Croatia.",
+      "published": "2026-07-13T20:38:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49349481/croatia-slaven-bilic-head-coach-zlatko-dalic",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688608_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Spain",
-        "France"
+        "Croatia"
       ],
-      "players": [
-        "Pau Cubarsí"
-      ],
-      "score": 136
+      "players": [],
+      "score": 130
     },
     {
-      "id": "49349006",
-      "headline": "Inside Spain's World Cup camp: Can good vibes carry them to title?",
-      "description": "As they prepare to face France's four musketeers, Spain have built their own powerful \"all for one\" mentality together in their World Cup summer camp.",
-      "published": "2026-07-13T13:24:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49349006/inside-spain-world-cup-camp-good-vibes-carry-title",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688584_1296x729_16-9.jpg",
-      "byline": "Graham Hunter",
+      "id": "49349440",
+      "headline": "France counterattack, Argentina set pieces: How World Cup semifinalists score goals",
+      "description": "We're down to the final four of the World Cup, with the four top-ranked teams set to square off. Yet all of them use very different attacking styles in order to score goals; let's break it down.",
+      "published": "2026-07-13T15:00:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49349440/world-cup-semifinalists-score-goals-france-olise-spain-yamal-england-argentina-messi",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688629_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
+        "France",
         "Spain",
-        "France"
+        "Argentina",
+        "England"
       ],
       "players": [],
-      "score": 134
+      "score": 130
     },
     {
       "id": "49308560",
       "headline": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
       "description": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season.",
-      "published": "2026-07-13T16:59:27Z",
+      "published": "2026-07-13T17:11:32Z",
       "url": "https://www.espn.com/soccer/story/_/id/49308560/world-cup-breakout-stars-diomande-freeman-manzambi-puerta",
       "image": "https://a.espncdn.com/photo/2026/0711/r1687974_2_1296x729_16-9.jpg",
       "byline": "Mohamed Mohamed",
@@ -271,7 +348,24 @@
         "Johan Manzambi",
         "Ismael Saibari"
       ],
-      "score": 133
+      "score": 128
+    },
+    {
+      "id": "49349006",
+      "headline": "Inside Spain's World Cup camp: Can good vibes carry them to title?",
+      "description": "As they prepare to face France's four musketeers, Spain have built their own powerful \"all for one\" mentality together in their World Cup summer camp.",
+      "published": "2026-07-13T13:24:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49349006/inside-spain-world-cup-camp-good-vibes-carry-title",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688584_1296x729_16-9.jpg",
+      "byline": "Graham Hunter",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain",
+        "France"
+      ],
+      "players": [],
+      "score": 128
     },
     {
       "id": "49348754",
@@ -287,7 +381,7 @@
       "players": [
         "Julián Álvarez"
       ],
-      "score": 133
+      "score": 128
     },
     {
       "id": "49350741",
@@ -306,7 +400,7 @@
         "Enzo Fernández",
         "Jayden Adams"
       ],
-      "score": 132
+      "score": 126
     },
     {
       "id": "49163915",
@@ -324,7 +418,7 @@
       "players": [
         "Jayden Adams"
       ],
-      "score": 131
+      "score": 126
     },
     {
       "id": "49348805",
@@ -343,7 +437,7 @@
         "Ibrahima Konaté",
         "Maxence Lacroix"
       ],
-      "score": 131
+      "score": 126
     },
     {
       "id": "49333016",
@@ -360,7 +454,25 @@
         "Argentina"
       ],
       "players": [],
-      "score": 129
+      "score": 124
+    },
+    {
+      "id": "49349593",
+      "headline": "Police investigating death of South Africa World Cup player Jayden Adams",
+      "description": "Police said Monday they are investigating the death of South Africa World Cup football player Jayden Adams, after his body was discovered this weekend at a property in the city of Cape Town.",
+      "published": "2026-07-13T13:04:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49349593/police-investigating-death-south-africa-world-cup-player-jayden-adams",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687814_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa"
+      ],
+      "players": [
+        "Jayden Adams"
+      ],
+      "score": 122
     },
     {
       "id": "49342647",
@@ -377,7 +489,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 128
+      "score": 122
     },
     {
       "id": "49344843",
@@ -393,7 +505,26 @@
         "USA"
       ],
       "players": [],
-      "score": 126
+      "score": 121
+    },
+    {
+      "id": "49348546",
+      "headline": "Pau Cubarsí calls for tolerance after Spain's ex-PM questions nationality of France players",
+      "description": "Spain defender Pau Cubarsí has called for tolerance after the nation's former Prime Minister, Mariano Rajoy, claimed that France \"don't have any French players.\"",
+      "published": "2026-07-13T12:39:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49348546/pau-cubarsi-tolerance-spain-mariano-rajoy-questions-nationality-france-players",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688572_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "France"
+      ],
+      "players": [
+        "Pau Cubarsí"
+      ],
+      "score": 121
     },
     {
       "id": "48939282",
@@ -411,7 +542,40 @@
         "USA"
       ],
       "players": [],
-      "score": 126
+      "score": 120
+    },
+    {
+      "id": "49344633",
+      "headline": "Argentina scouting report: How can England stop Lionel Messi and co. in the World Cup semfinal?",
+      "description": "ESPN Argentina's Nico Baier provides the lowdown on England's World Cup semifinal opponents.",
+      "published": "2026-07-13T13:09:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49344633/argentina-scouting-report-england-lionel-messi-world-cup-semfinal-2026",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688378_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 119
+    },
+    {
+      "id": "49349449",
+      "headline": "Fans in England must live up to 'exemplary' World Cup crowds - police chief",
+      "description": "Football's chief police officer has praised the behaviour of England fans at the World Cup -- and hopes those watching the matches from the UK start to follow their example.",
+      "published": "2026-07-13T13:03:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49349449/fans-england-live-exemplary-world-cup-crowds-police-chief",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688035_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [],
+      "score": 119
     },
     {
       "id": "49341844",
@@ -429,39 +593,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 125
-    },
-    {
-      "id": "49349449",
-      "headline": "Fans in England must live up to 'exemplary' World Cup crowds - police chief",
-      "description": "Football's chief police officer has praised the behaviour of England fans at the World Cup -- and hopes those watching the matches from the UK start to follow their example.",
-      "published": "2026-07-13T13:03:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49349449/fans-england-live-exemplary-world-cup-crowds-police-chief",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688035_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 124
-    },
-    {
-      "id": "49349481",
-      "headline": "Slaven Bilić returns for second stint as Croatia head coach",
-      "description": "Slaven Bilić has been appointed as the new head coach of Croatia.",
-      "published": "2026-07-13T12:48:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49349481/croatia-slaven-bilic-head-coach-zlatko-dalic",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688608_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Croatia"
-      ],
-      "players": [],
-      "score": 124
+      "score": 119
     },
     {
       "id": "49348696",
@@ -480,7 +612,7 @@
         "Lamine Yamal",
         "Rodri"
       ],
-      "score": 122
+      "score": 116
     },
     {
       "id": "49335902",
@@ -494,7 +626,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 119
+      "score": 114
     },
     {
       "id": "49178425",
@@ -539,7 +671,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 117
+      "score": 112
     },
     {
       "id": "48945570",
@@ -553,7 +685,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 112
+      "score": 107
     },
     {
       "id": "49344483",
@@ -572,7 +704,23 @@
       "players": [
         "Granit Xhaka"
       ],
-      "score": 110
+      "score": 104
+    },
+    {
+      "id": "49347526",
+      "headline": "Pape Thiaw had to go after disastrous World Cup, but his Senegal legacy will never be forgotten",
+      "description": "Thiaw's story - his remarkable triumph, and his World Cup failure - is one of nuanced situations",
+      "published": "2026-07-13T02:37:12Z",
+      "url": "https://www.espn.com/espn/story/_/id/49347526/pape-thiaw-disastrous-fifa-world-cup-2026-senegal-legacy-never-forgotten",
+      "image": "https://a.espncdn.com/photo/2026/0621/r1677227_608x342_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Senegal"
+      ],
+      "players": [],
+      "score": 103
     },
     {
       "id": "49344700",
@@ -591,23 +739,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 109
-    },
-    {
-      "id": "49347526",
-      "headline": "Pape Thiaw had to go after disastrous World Cup, but his Senegal legacy will never be forgotten",
-      "description": "Thiaw's story - his remarkable triumph, and his World Cup failure - is one of nuanced situations",
-      "published": "2026-07-13T02:37:12Z",
-      "url": "https://www.espn.com/espn/story/_/id/49347526/pape-thiaw-disastrous-fifa-world-cup-2026-senegal-legacy-never-forgotten",
-      "image": "https://a.espncdn.com/photo/2026/0621/r1677227_608x342_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [],
-      "score": 108
+      "score": 103
     },
     {
       "id": "49346256",
@@ -626,7 +758,7 @@
       "players": [
         "Jude Bellingham"
       ],
-      "score": 106
+      "score": 100
     },
     {
       "id": "49341436",
@@ -646,7 +778,21 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 105
+      "score": 100
+    },
+    {
+      "id": "49340531",
+      "headline": "World Cup Daily live: Spidercam debate rumbles on as four semifinalists confirmed",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
+      "published": "2026-07-13T01:16:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688220_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 97
     },
     {
       "id": "49346270",
@@ -663,21 +809,7 @@
         "England"
       ],
       "players": [],
-      "score": 103
-    },
-    {
-      "id": "49340531",
-      "headline": "World Cup Daily live: Spidercam debate rumbles on as four semifinalists confirmed",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
-      "published": "2026-07-13T01:16:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688220_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 102
+      "score": 97
     },
     {
       "id": "49344988",
@@ -696,7 +828,7 @@
         "England"
       ],
       "players": [],
-      "score": 99
+      "score": 93
     },
     {
       "id": "49345374",
@@ -710,23 +842,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 97
-    },
-    {
-      "id": "49342142",
-      "headline": "Senegal sack manager Pape Thiaw after World Cup exit",
-      "description": "Senegal have sacked manager Pape Thiaw in the wake of their exit from the World Cup in the round of 32.",
-      "published": "2026-07-12T11:00:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49342142/senegal-sack-manager-pape-thiaw-world-cup-exit",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688244_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [],
-      "score": 97
+      "score": 92
     },
     {
       "id": "49339438",
@@ -743,7 +859,23 @@
         "Norway"
       ],
       "players": [],
-      "score": 96
+      "score": 91
+    },
+    {
+      "id": "49342142",
+      "headline": "Senegal sack manager Pape Thiaw after World Cup exit",
+      "description": "Senegal have sacked manager Pape Thiaw in the wake of their exit from the World Cup in the round of 32.",
+      "published": "2026-07-12T11:00:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49342142/senegal-sack-manager-pape-thiaw-world-cup-exit",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688244_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Senegal"
+      ],
+      "players": [],
+      "score": 91
     },
     {
       "id": "49343877",
@@ -757,7 +889,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 95
+      "score": 89
     },
     {
       "id": "49342621",
@@ -776,7 +908,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 94
+      "score": 89
     },
     {
       "id": "49341457",
@@ -796,165 +928,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 94
-    },
-    {
-      "id": "49334623",
-      "headline": "World Cup semifinals: What you need to know, predictions, odds",
-      "description": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions.",
-      "published": "2026-07-12T15:37:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688282_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "France",
-        "Norway",
-        "Spain"
-      ],
-      "players": [],
-      "score": 92
-    },
-    {
-      "id": "48386952",
-      "headline": "Every team's championship odds for the 2026 World Cup: Favorites France, Spain to meet in semis",
-      "description": "Updated odds for the remaining teams to advance to the final and to win the 2026 World Cup.",
-      "published": "2026-07-12T14:20:21Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688292_1296x729_16-9.jpg",
-      "byline": "Doug Greenberg",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Brazil",
-        "England",
-        "Spain",
-        "Argentina",
-        "Portugal",
-        "Germany",
-        "Netherlands",
-        "Belgium",
-        "Colombia",
-        "Japan",
-        "Canada",
-        "Mexico",
-        "Norway",
-        "Morocco",
-        "Uruguay",
-        "Ecuador",
-        "Sweden",
-        "Croatia",
-        "Switzerland",
-        "Austria",
-        "Australia",
-        "Senegal",
-        "Czechia",
-        "Paraguay",
-        "Scotland",
-        "Egypt",
-        "Algeria",
-        "Korea Republic",
-        "Ghana",
-        "Panama",
-        "South Africa",
-        "New Zealand",
-        "Iraq",
-        "Cabo Verde",
-        "Uzbekistan",
-        "Jordan",
-        "Haiti"
-      ],
-      "players": [],
-      "score": 90
-    },
-    {
-      "id": "49334079",
-      "headline": "What it's like to transfer clubs during a World Cup, and does it ever go wrong?",
-      "description": "Plenty of players have moved clubs during a major tournament, but what is that experience like and how much does it impact negotiations?",
-      "published": "2026-07-12T07:12:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49334079/what-transfer-clubs-world-cup-does-ever-go-wrong",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688211_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 87
-    },
-    {
-      "id": "49342349",
-      "headline": "Thomas Tuchel on England World Cup semifinal vs Argentina: Nowhere in world I'd rather be",
-      "description": "Thomas Tuchel has said there is \"nowhere else in the whole wide world\" he would rather be than leading England into a World Cup semifinal against reigning champions Argentina.",
-      "published": "2026-07-12T11:52:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49342349/thomas-tuchel-england-world-cup-semifinal-vs-argentina-nowhere-world-rather-be",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685172_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 86
-    },
-    {
-      "id": "49341900",
-      "headline": "Alf-Inge Haaland: Norway 'robbed' vs England at World Cup, 'well done referee'",
-      "description": "Alf-Inge Haaland claims Norway were \"robbed\" in their World Cup quarterfinal but hopes England go on to win the tournament after knocking out his homeland.",
-      "published": "2026-07-12T10:24:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49341900/alf-inge-haaland-norway-robbed-world-cup-2026-england-well-done-referee-erling-haaland",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688236_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Norway"
-      ],
-      "players": [],
-      "score": 84
-    },
-    {
-      "id": "49341491",
-      "headline": "Messi: World Cup semifinal against England will be a 'special match'",
-      "description": "Messi: World Cup semifinal against England will be a 'special match'",
-      "published": "2026-07-12T08:15:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/49341491/world-cup-semifinal-england-special-match",
-      "image": "https://a.espncdn.com/media/motion/2026/0712/dm_260712_COM_SOC_Presser_Messi_World_Cup_semifinal_against_England_will_be_a_special_match_20260712_GL/dm_260712_COM_SOC_Presser_Messi_World_Cup_semifinal_against_England_will_be_a_special_match_20260712_GL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Switzerland",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 84
-    },
-    {
-      "id": "49341618",
-      "headline": "Scaloni on Argentina's World Cup: 'Sometimes luck can be on your side'",
-      "description": "Scaloni on Argentina's World Cup: 'Sometimes luck can be on your side'",
-      "published": "2026-07-12T08:46:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/49341618/somes-luck-your-side",
-      "image": "https://a.espncdn.com/media/motion/2026/0712/dm_260712_COM_SOC_Presser_Scaloni_on_Argentinas_World_Cup_Sometimes_luck_can_be_on_your_side_20260712/dm_260712_COM_SOC_Presser_Scaloni_on_Argentinas_World_Cup_Sometimes_luck_can_be_on_your_side_20260712.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "players": [],
-      "score": 82
+      "score": 89
     }
   ]
 }
