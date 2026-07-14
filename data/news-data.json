@@ -1,51 +1,88 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-14T12:02:35.285Z",
+  "updated": "2026-07-14T16:46:48.537Z",
   "counts": {
-    "news": 29,
-    "preview": 10,
-    "offfield": 7,
+    "offfield": 4,
+    "news": 32,
+    "celebration": 2,
+    "preview": 8,
     "injury": 2
   },
   "items": [
     {
-      "id": "49357441",
-      "headline": "Barcelona edge Atlético Madrid, Arsenal as club with most players in 2026 World Cup semis",
-      "description": "Spanish champions Barcelona have more players than any other club still competing for World Cup glory.",
-      "published": "2026-07-14T11:59:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49357441/barcelona-players-world-cup-2026-semifinals-atletico-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689002_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49358886",
+      "headline": "USMNT's Folarin Balogun: World Cup ban overturn affected teammates",
+      "description": "United States striker Folarin Balogun revealed that he predicted President Donald Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy.\"",
+      "published": "2026-07-14T16:17:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685293_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Spain"
+        "USA"
       ],
-      "players": [],
-      "score": 210
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 214
     },
     {
-      "id": "49351670",
-      "headline": "Forget Wonderwall, England's World Cup semifinal opponents Argentina have their own special anthem too",
-      "description": "One of the defining images of this World Cup has been England's full-time rendition of Wonderwall in unison with the fans. They're not the only team to have generated a bond with their travelling support however.",
-      "published": "2026-07-14T11:04:12Z",
-      "url": "https://www.espn.com/football/story/_/id/49351670/world-cup-england-argentina-wonderwall-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688168_1296x729_16-9.jpg",
-      "byline": "David Cartlidge",
+      "id": "49353029",
+      "headline": "Why England vs. Argentina is World Cup's best, angriest, most chaotic rivalry",
+      "description": "Wednesday will see England and Argentina meet for the first time since 2005, and it's a rivalry that has defined the World Cup thanks to some unforgettable encounters. Here's why this game is so compelling.",
+      "published": "2026-07-14T15:59:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49353029/england-argentina-world-cup-rivalry-antonio-rattin-diego-maradona-hand-god-michael-owen-david-beckham",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688924_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "England"
+        "England",
+        "Argentina"
       ],
       "players": [],
-      "score": 199
+      "score": 209
+    },
+    {
+      "id": "49357302",
+      "headline": "What is the Hand of God? Why did Diego Maradona's goal in 1986 stand?",
+      "description": "There are few goals in football history that have generated as much debate, legacy and, in many corners furore as Diego Maradona's \"Hand of God\" -- scored at the 1986 World Cup against England.",
+      "published": "2026-07-14T15:33:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49357302/diego-maradona-hand-god-england-argentina-handball-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688927_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 195
+    },
+    {
+      "id": "49358709",
+      "headline": "Harry Kane: England can't be dragged into emotional baggage of Argentina game",
+      "description": "Harry Kane says a World Cup semifinal against historic rivals Argentina is \"as big as it gets\" but stressed England cannot be drawn into the emotional baggage surrounding the fixture.",
+      "published": "2026-07-14T15:13:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49358709/harry-kane-england-argentina-world-cup-2026-semifinal",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689059_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 185
     },
     {
       "id": "49356289",
       "headline": "World Cup Daily live: Haaland latest star to inspire baby name boom",
       "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as we build up to the first semifinal -- France vs. Spain.",
-      "published": "2026-07-14T11:11:25Z",
+      "published": "2026-07-14T15:11:09Z",
       "url": "https://www.espn.com/soccer/story/_/id/49356289/world-cup-daily-live-norway-erling-haaland-latest-star-inspire-baby-name-boom",
       "image": "https://a.espncdn.com/photo/2026/0714/r1688980_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -56,30 +93,51 @@
         "France"
       ],
       "players": [],
-      "score": 198
+      "score": 177
     },
     {
-      "id": "49356904",
-      "headline": "Diego Maradona Jr.: England semifinal a 'special occasion' for Argentina",
-      "description": "Diego Maradona Jr., son of the late Argentina legend Diego Maradona, described Wednesday's World Cup semifinal clash against England as a \"special occasion\" for his fellow countrymen and by no means an \"ordinary game.\"",
-      "published": "2026-07-14T10:53:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49356904/diego-maradona-jr-england-semifinal-special-occasion-argentina",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1688993_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49358524",
+      "headline": "Moreno backs Bellingham to thrive in 'prickly' environment",
+      "description": "Moreno backs Bellingham to thrive in 'prickly' environment",
+      "published": "2026-07-14T14:39:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/49358524/moreno-backs-bellingham-thrive-prickly-environment",
+      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_Analysis_Moreno_backs_Bellingham_to_thrive_in_prickly_environment_20260714_GLOBAL_FIFA/dm_260714_COM_SOC_Analysis_Moreno_backs_Bellingham_to_thrive_in_prickly_environment_20260714_GLOBAL_FIFA.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina",
         "England"
       ],
-      "players": [],
-      "score": 187
+      "players": [
+        "Jude Bellingham"
+      ],
+      "score": 160
+    },
+    {
+      "id": "49358043",
+      "headline": "Who is Ismail Elfath, the England vs. Argentina World Cup semifinal referee? Is he Messi's good-luck charm?",
+      "description": "Ismail Elfath has the unenviable task of officiating Wednesday's semifinal. But who is he? And why might he be a good-luck charm for Lionel Messi?",
+      "published": "2026-07-14T14:01:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49358043/who-ismail-elfath-england-argentina-world-cup-semifinal-referee-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689040_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 149
     },
     {
       "id": "49356529",
       "headline": "Folarin Balogun joins Klutch Sports agency after breakout World Cup",
       "description": "United States forward Folarin Balogun has signed with LeBron James' agency Klutch Sports following a breakout World Cup that elevated his profile on and off the pitch.",
-      "published": "2026-07-14T11:48:24Z",
+      "published": "2026-07-14T15:52:05Z",
       "url": "https://www.espn.com/soccer/story/_/id/49356529/folarin-balogun-joins-lebron-james-klutch-sports-agency-breakout-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0705/r1684884_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -91,102 +149,43 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 175
+      "score": 144
     },
     {
-      "id": "49356590",
-      "headline": "Lamine Yamal: Spain, France semifinal my 'most important match,' I'm not afraid",
-      "description": "Spain winger Lamine Yamal has described the World Cup semifinal against France as \"the most important match\" in his career.",
-      "published": "2026-07-14T09:18:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49356590/lamine-yamal-spain-france-semifinal-my-most-important-match-not-afraid",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1688978_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
+      "id": "49358184",
+      "headline": "How the midfield will decide France vs. Spain",
+      "description": "How the midfield will decide France vs. Spain",
+      "published": "2026-07-14T13:55:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/49358184/how-midfield-decide-france-vs-spain",
+      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_Analysis_How_the_midfield_will_decide_France_vs_Spain_20260714_GLOBAL_FIFA_WORLD_CUP/dm_260714_COM_SOC_Analysis_How_the_midfield_will_decide_France_vs_Spain_20260714_GLOBAL_FIFA_WORLD_CUP.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Spain",
-        "France"
+        "France",
+        "Spain"
       ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 169
+      "players": [],
+      "score": 136
     },
     {
-      "id": "49356432",
-      "headline": "England's Nico O'Reilly relishing 'once-in-a-lifetime' opportunity to mark Lionel Messi",
-      "description": "Nico O'Reilly is backing himself to come through the \"once-in-a-lifetime\" task of marking Lionel Messi and turning his dream of winning the World Cup into reality.",
-      "published": "2026-07-14T08:31:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49356432/england-nico-oreilly-relishing-once-life-opportunity-mark-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1688972_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49353204",
+      "headline": "The USMNT's struggles at the World Cup can't be fixed by overhauling youth development",
+      "description": "Everyone thinks they can fix the USMNT. But maybe the U.S. is actually making progress and luck just hasn't been on its side -- what then?",
+      "published": "2026-07-14T15:29:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688895_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "England"
+        "USA"
       ],
       "players": [
-        "Nico O'Reilly",
-        "Lionel Messi"
+        "Christian Pulisic",
+        "Giovanni Reyna"
       ],
-      "score": 148
-    },
-    {
-      "id": "49356176",
-      "headline": "Transfer rumors, news: Liverpool, Chelsea, Spurs eye Norway World Cup star",
-      "description": "Liverpool, Chelsea and Tottenham Hotspur are interested in Benfica winger Andreas Schjelderup. Transfer Talk has the latest.",
-      "published": "2026-07-14T11:02:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49356176/transfer-rumors-news-liverpool-chelsea-spurs-eye-norway-world-cup-star-andreas-schjelderup",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687944_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain",
-        "Norway"
-      ],
-      "players": [
-        "Andreas Schjelderup",
-        "Lamine Yamal"
-      ],
-      "score": 143
-    },
-    {
-      "id": "48990955",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "published": "2026-07-14T09:52:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688632_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49356655",
-      "headline": "Luka Vuskovic signs for Brighton from Tottenham",
-      "description": "Brighton and Hove Albion have completed the signing of Luka Vuskovic from Tottenham, the south coast club confirmed on Tuesday.",
-      "published": "2026-07-14T09:47:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49356655/luka-vuskovic-signs-brighton-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0612/r1671919_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Luka Vuskovic",
-        "Lamine Yamal"
-      ],
-      "score": 142
+      "score": 131
     },
     {
       "id": "49333016",
@@ -203,7 +202,43 @@
         "Argentina"
       ],
       "players": [],
-      "score": 138
+      "score": 131
+    },
+    {
+      "id": "49350614",
+      "headline": "Messi's first match vs. England: Here's his record vs. world's top teams",
+      "description": "Until Wednesday's second semifinal of the 2026 World Cup kicks off, it's a strange historical quirk that Lionel Messi has never played against England.",
+      "published": "2026-07-14T14:30:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49350614/world-cup-2026-semifinal-argentina-lionel-messi-first-match-england-record-vs-brazil-germany-italy-spain",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688690_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49356904",
+      "headline": "Diego Maradona Jr.: England semifinal a 'special occasion' for Argentina",
+      "description": "Diego Maradona Jr., son of the late Argentina legend Diego Maradona, described Wednesday's World Cup semifinal clash against England as a \"special occasion\" for his fellow countrymen and by no means an \"ordinary game.\"",
+      "published": "2026-07-14T10:53:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49356904/diego-maradona-jr-england-semifinal-special-occasion-argentina",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688993_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 130
     },
     {
       "id": "49342647",
@@ -220,7 +255,26 @@
         "Argentina"
       ],
       "players": [],
-      "score": 136
+      "score": 129
+    },
+    {
+      "id": "49358167",
+      "headline": "Should World Cup semifinalists be concerned about the change of ball?",
+      "description": "Should World Cup semifinalists be concerned about the change of ball?",
+      "published": "2026-07-14T14:48:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49358167/should-world-cup-semifinalists-concerned-change-ball",
+      "image": "https://a.espncdn.com/media/motion/2026/0714/ss_20260714_095145469_3593342602/ss_20260714_095145469_3593342602.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "England",
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 127
     },
     {
       "id": "49356103",
@@ -240,7 +294,24 @@
         "Harry Kane",
         "Jude Bellingham"
       ],
-      "score": 134
+      "score": 127
+    },
+    {
+      "id": "49357909",
+      "headline": "England vs Argentina: No extra UK police being sent for World Cup semifinal",
+      "description": "No further officers from the UK are being sent to Atlanta for the World Cup semifinal between England and Argentina on Wednesday",
+      "published": "2026-07-14T13:26:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49357909/england-vs-argentina-no-extra-uk-police-being-sent-world-cup-semifinal",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689028_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 125
     },
     {
       "id": "49351324",
@@ -257,7 +328,7 @@
         "England"
       ],
       "players": [],
-      "score": 132
+      "score": 125
     },
     {
       "id": "49353462",
@@ -276,44 +347,56 @@
       "players": [
         "Lamine Yamal"
       ],
-      "score": 131
+      "score": 124
     },
     {
-      "id": "48945011",
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-14T08:21:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
+      "id": "49357803",
+      "headline": "Gianni Infantino reported to IOC over Donald Trump ties at World Cup",
+      "description": "A complaint alleging FIFA president Gianni Infantino has breached rules on political neutrality in his dealings with President Donald Trump has been submitted to the International Olympic Committee.",
+      "published": "2026-07-14T14:39:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49357803/gianni-infantino-reported-ioc-donald-trump-ties-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 130
+      "score": 123
     },
     {
-      "id": "49356593",
-      "headline": "Babajide, Madugu welcome expanded WAFCON as Nigeria target another title",
-      "description": "Nigeria forward Rinsola Babajide and coach Justin Madugu believe the expansion of the Women's Africa Cup of Nations to 16 teams will make this year's tournament more competitive.",
-      "published": "2026-07-14T09:21:40Z",
-      "url": "https://www.espn.com/espn/story/_/id/49356593/babajide-madugu-welcome-expanded-wafcon-nigeria-target-another-title",
-      "image": "https://a.espncdn.com/photo/2025/0804/r1527622_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
+      "id": "49357441",
+      "headline": "Barcelona edge Atlético Madrid, Arsenal as club with most players in 2026 World Cup semis",
+      "description": "Spanish champions Barcelona have more players than any other club still competing for World Cup glory.",
+      "published": "2026-07-14T11:59:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49357441/barcelona-players-world-cup-2026-semifinals-atletico-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689002_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Spain"
       ],
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "49356590",
+      "headline": "Lamine Yamal: Spain, France semifinal my 'most important match,' I'm not afraid",
+      "description": "Spain winger Lamine Yamal has described the World Cup semifinal against France as \"the most important match\" in his career.",
+      "published": "2026-07-14T09:18:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49356590/lamine-yamal-spain-france-semifinal-my-most-important-match-not-afraid",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688978_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "France"
+      ],
       "players": [
-        "Chiamaka Nnadozie",
-        "Rasheedat Ajibade",
-        "Ashleigh Plumptre",
-        "Asisat Oshoala",
-        "Rinsola Babajide",
         "Lamine Yamal"
       ],
-      "score": 129
+      "score": 122
     },
     {
       "id": "49350803",
@@ -330,7 +413,43 @@
         "France"
       ],
       "players": [],
-      "score": 129
+      "score": 122
+    },
+    {
+      "id": "49351670",
+      "headline": "Forget Wonderwall, England's World Cup semifinal opponents Argentina have their own special anthem too",
+      "description": "One of the defining images of this World Cup has been England's full-time rendition of Wonderwall in unison with the fans. They're not the only team to have generated a bond with their travelling support however.",
+      "published": "2026-07-14T11:04:12Z",
+      "url": "https://www.espn.com/football/story/_/id/49351670/world-cup-england-argentina-wonderwall-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688168_1296x729_16-9.jpg",
+      "byline": "David Cartlidge",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 121
+    },
+    {
+      "id": "49356432",
+      "headline": "England's Nico O'Reilly relishing 'once-in-a-lifetime' opportunity to mark Lionel Messi",
+      "description": "Nico O'Reilly is backing himself to come through the \"once-in-a-lifetime\" task of marking Lionel Messi and turning his dream of winning the World Cup into reality.",
+      "published": "2026-07-14T08:31:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49356432/england-nico-oreilly-relishing-once-life-opportunity-mark-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688972_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Nico O'Reilly",
+        "Lionel Messi"
+      ],
+      "score": 121
     },
     {
       "id": "49354102",
@@ -349,7 +468,7 @@
       "players": [
         "Declan Rice"
       ],
-      "score": 128
+      "score": 121
     },
     {
       "id": "48939282",
@@ -367,7 +486,7 @@
         "USA"
       ],
       "players": [],
-      "score": 127
+      "score": 120
     },
     {
       "id": "49356332",
@@ -385,7 +504,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 127
+      "score": 120
     },
     {
       "id": "49344572",
@@ -404,45 +523,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
-    },
-    {
-      "id": "49350614",
-      "headline": "Messi's first match vs. England: Here's his record vs. world's top teams",
-      "description": "Until Wednesday's second semifinal of the 2026 World Cup kicks off, it's a strange historical quirk that Lionel Messi has never played against England.",
-      "published": "2026-07-14T07:39:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49350614/world-cup-2026-semifinal-argentina-lionel-messi-first-match-england-record-vs-brazil-germany-italy-spain",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688690_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49353204",
-      "headline": "The USMNT's struggles at the World Cup can't be fixed by overhauling youth development",
-      "description": "Everyone thinks they can fix the USMNT. But maybe the U.S. is actually making progress and luck just hasn't been on its side -- what then?",
-      "published": "2026-07-14T07:38:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688895_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Christian Pulisic",
-        "Giovanni Reyna"
-      ],
-      "score": 126
+      "score": 120
     },
     {
       "id": "49344633",
@@ -459,7 +540,21 @@
         "England"
       ],
       "players": [],
-      "score": 124
+      "score": 117
+    },
+    {
+      "id": "48945011",
+      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
+      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
+      "published": "2026-07-14T08:21:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 113
     },
     {
       "id": "48945570",
@@ -473,7 +568,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 120
+      "score": 113
     },
     {
       "id": "49356237",
@@ -487,7 +582,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 119
+      "score": 112
     },
     {
       "id": "49352486",
@@ -507,7 +602,7 @@
       "players": [
         "Jordan Pickford"
       ],
-      "score": 119
+      "score": 112
     },
     {
       "id": "49354271",
@@ -524,7 +619,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 118
+      "score": 111
     },
     {
       "id": "49354566",
@@ -541,7 +636,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 114
+      "score": 106
     },
     {
       "id": "49354318",
@@ -558,7 +653,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 113
+      "score": 106
     },
     {
       "id": "49348483",
@@ -574,7 +669,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 113
+      "score": 106
     },
     {
       "id": "49353144",
@@ -592,7 +687,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 113
+      "score": 106
     },
     {
       "id": "49353729",
@@ -609,7 +704,7 @@
         "England"
       ],
       "players": [],
-      "score": 110
+      "score": 103
     },
     {
       "id": "49353621",
@@ -626,7 +721,7 @@
         "England"
       ],
       "players": [],
-      "score": 110
+      "score": 102
     },
     {
       "id": "49353597",
@@ -643,7 +738,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 110
+      "score": 102
     },
     {
       "id": "49353555",
@@ -660,7 +755,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 109
+      "score": 102
     },
     {
       "id": "49352322",
@@ -680,23 +775,7 @@
         "Jordan Pickford",
         "Lionel Messi"
       ],
-      "score": 108
-    },
-    {
-      "id": "49349481",
-      "headline": "Slaven Bilić returns for second stint as Croatia head coach",
-      "description": "Slaven Bilić has been appointed as the new head coach of Croatia.",
-      "published": "2026-07-13T20:38:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49349481/croatia-slaven-bilic-head-coach-zlatko-dalic",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688608_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Croatia"
-      ],
-      "players": [],
-      "score": 107
+      "score": 101
     },
     {
       "id": "49349440",
@@ -715,21 +794,7 @@
         "England"
       ],
       "players": [],
-      "score": 107
-    },
-    {
-      "id": "49350274",
-      "headline": "Preparing for penalties: How goalkeepers get ready for World Cup shootouts",
-      "description": "Since the shootout debuted at the 1982 World Cup, 39 knockout games have been decided from the penalty spot. What does preparation look like for the goalkeepers?",
-      "published": "2026-07-13T16:24:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49350274/penalties-world-cup-england-spain-france-argentina-shootout-stats-psychology",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688681_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [],
-      "players": [],
-      "score": 106
+      "score": 100
     },
     {
       "id": "49351350",
@@ -749,85 +814,21 @@
         "Paul George",
         "Pat McAfee"
       ],
-      "score": 105
+      "score": 98
     },
     {
-      "id": "49308560",
-      "headline": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
-      "description": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season.",
-      "published": "2026-07-13T17:11:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49308560/world-cup-breakout-stars-diomande-freeman-manzambi-puerta",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687974_2_1296x729_16-9.jpg",
-      "byline": "Mohamed Mohamed",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Switzerland",
-        "USA",
-        "Colombia",
-        "Côte d'Ivoire",
-        "Morocco"
-      ],
-      "players": [
-        "Alex Freeman",
-        "Yan Diomande",
-        "Gustavo Puerta",
-        "Johan Manzambi",
-        "Ismael Saibari"
-      ],
-      "score": 105
-    },
-    {
-      "id": "49349006",
-      "headline": "Inside Spain's World Cup camp: Can good vibes carry them to title?",
-      "description": "As they prepare to face France's four musketeers, Spain have built their own powerful \"all for one\" mentality together in their World Cup summer camp.",
-      "published": "2026-07-13T13:24:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49349006/inside-spain-world-cup-camp-good-vibes-carry-title",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688584_1296x729_16-9.jpg",
-      "byline": "Graham Hunter",
+      "id": "49350274",
+      "headline": "Preparing for penalties: How goalkeepers get ready for World Cup shootouts",
+      "description": "Since the shootout debuted at the 1982 World Cup, 39 knockout games have been decided from the penalty spot. What does preparation look like for the goalkeepers?",
+      "published": "2026-07-13T16:24:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49350274/penalties-world-cup-england-spain-france-argentina-shootout-stats-psychology",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688681_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
       "kind": "preview",
       "kindLabel": "Match preview",
-      "teams": [
-        "Spain",
-        "France"
-      ],
-      "players": [],
-      "score": 105
-    },
-    {
-      "id": "49348754",
-      "headline": "Barcelona's offer for Julián Álvarez on table for limited time - president Joan Laporta",
-      "description": "Barcelona's \"substantial offer\" to sign Atlético Madrid forward Julián Álvarez still stands but only for a limited time, Barça president Joan Laporta has warned.",
-      "published": "2026-07-13T11:45:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49348754/barcelona-offer-julian-alvarez-table-limited-president-joan-laporta-arsenal-psg",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677862_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
       "teams": [],
-      "players": [
-        "Julián Álvarez"
-      ],
-      "score": 105
-    },
-    {
-      "id": "49348805",
-      "headline": "France defenders 'not focusing on one particular player' ahead of semifinal",
-      "description": "France defenders 'not focusing on one particular player' ahead of semifinal",
-      "published": "2026-07-13T10:01:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/49348805/france-defenders-not-focusing-one-particular-player-ahead-semifinal",
-      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_France_defenders_not_focusing_on_one_particular_player_ahead_of_semifinal/dm_260713_France_defenders_not_focusing_on_one_particular_player_ahead_of_semifinal.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Ibrahima Konaté",
-        "Maxence Lacroix"
-      ],
-      "score": 103
+      "players": [],
+      "score": 98
     },
     {
       "id": "48352807",
@@ -887,24 +888,7 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 100
-    },
-    {
-      "id": "49350743",
-      "headline": "When Diego Maradona relived his 'Hand of God' goal against England",
-      "description": "When Diego Maradona relived his 'Hand of God' goal against England",
-      "published": "2026-07-13T15:48:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49350743/when-diego-maradona-relived-hand-god-goal-england",
-      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_When_Diego_Maradona_relived_his_Hand_of_God_goal_against_England/dm_260713_When_Diego_Maradona_relived_his_Hand_of_God_goal_against_England.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 100
+      "score": 93
     }
   ]
 }
