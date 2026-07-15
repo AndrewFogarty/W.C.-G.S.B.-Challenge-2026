@@ -1,26 +1,25 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-15T20:38:51.811Z",
+  "updated": "2026-07-15T21:38:50.971Z",
   "counts": {
-    "news": 35,
-    "preview": 5,
-    "offfield": 4,
-    "injury": 1,
-    "celebration": 3
+    "news": 32,
+    "celebration": 6,
+    "preview": 6,
+    "offfield": 3,
+    "injury": 1
   },
   "items": [
     {
-      "id": "49369523",
-      "headline": "BOXPARK goes crazy as as Gordon gives England the lead vs. Argentina",
-      "description": "BOXPARK goes crazy as as Gordon gives England the lead vs. Argentina",
-      "published": "2026-07-15T20:28:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49369523/boxpark-goes-crazy-gordon-gives-england-lead-vs-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1.jpg",
+      "id": "49370327",
+      "headline": "Leboeuf: Tuchel is responsible for England semifinal loss",
+      "description": "Leboeuf: Tuchel is responsible for England semifinal loss",
+      "published": "2026-07-15T21:32:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49370327/tuchel-responsible-england-semifinal-loss",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_Leboeuf_Tuchel_is_responsible_for_England_semifinal_loss/dm_260715_Leboeuf_Tuchel_is_responsible_for_England_semifinal_loss.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
         "England"
       ],
       "players": [],
@@ -28,11 +27,11 @@
     },
     {
       "id": "49363385",
-      "headline": "World Cup Daily live: Gordon gives England lead over Argentina in semifinal",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as England and Argentina battle for a place in the 2026 FIFA World Cup final.",
-      "published": "2026-07-15T20:21:12Z",
+      "headline": "World Cup Daily live: Martínez with winner vs. England to send Argentina to final",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as Argentina book a spot in the 2026 FIFA World Cup final.",
+      "published": "2026-07-15T21:28:14Z",
       "url": "https://www.espn.com/soccer/story/_/id/49363385/world-cup-daily-live-argentina-fans-take-atlanta-england-game-spain-celebrates-reaching-final",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689658_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689694_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
@@ -44,30 +43,67 @@
       "score": 200
     },
     {
-      "id": "49368693",
-      "headline": "FIFA defends semifinal referee after France, Deschamps criticism",
-      "description": "FIFA's director of refereeing Pierluigi Collina defended the referee in Tuesday's semifinal between France and Spain following criticism from France coach Didier Deschamps.",
-      "published": "2026-07-15T19:24:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49368693/fifa-referee-france-didier-deschamps-spain-2026-world-cup-collina",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689629_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "49369871",
+      "headline": "Mahomes, Brady lead reaction to Argentina-England World Cup comeback",
+      "description": "The sports world was thrilled by Argentina's dramatic 2-1 comeback win over England to advance to the World Cup Final.",
+      "published": "2026-07-15T21:23:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49369871/2026-fifa-world-cup-semifinal-comeback-argentina-england-social-media-reaction",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685996_608x342_16-9.jpg",
+      "byline": "ESPN staff",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "France",
-        "Spain"
+        "Argentina",
+        "England"
       ],
-      "players": [],
-      "score": 188
+      "players": [
+        "Patrick Mahomes",
+        "Lionel Messi"
+      ],
+      "score": 193
     },
     {
-      "id": "49352315",
-      "headline": "Harry Kane becomes England's second most capped player of all time",
-      "description": "Harry Kane is now England's second most capped player of all time, as he started Wednesday's World Cup semifinal against Argentina.",
-      "published": "2026-07-15T19:09:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49352315/harry-kane-england-argentina-england-caps-record-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689622_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49084603",
+      "headline": "Argentina at the men's World Cup: All-time results and stats",
+      "description": "Take a look at the Argentina men's national team's performance throughout the tournament's history.",
+      "published": "2026-07-15T21:22:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49084603/argentina-men-world-cup-all-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674317_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [],
+      "score": 187
+    },
+    {
+      "id": "49085479",
+      "headline": "Lionel Messi at the World Cup: History, results, stats",
+      "description": "Here's how Lionel Messi has performed for Argentina at the World Cup throughout his career.",
+      "published": "2026-07-15T21:21:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49085479/lionel-messi-world-cup-history-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674372_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 180
+    },
+    {
+      "id": "49361414",
+      "headline": "Argentina come from behind, score two in six minutes against England to reach World Cup final",
+      "description": "Defending champion Argentina rallied to beat England 2-1 on Wednesday and reach the World Cup final.",
+      "published": "2026-07-15T21:22:15Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/760515",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689705_1296x729_16-9.jpg",
+      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -75,55 +111,77 @@
         "Argentina"
       ],
       "players": [],
-      "score": 178
+      "score": 160
     },
     {
-      "id": "49368478",
-      "headline": "Post Malone, Tom Cruise, IShowSpeed headline World Cup closing ceremony",
-      "description": "A wide array of performers, from Post Malone to Tom Cruise to streamer IShowSpeed, will help close out the World Cup, FIFA said Tuesday.",
-      "published": "2026-07-15T19:00:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49368478/post-malone-tom-cruise-ishowspeed-world-cup-closing-ceremony",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689611_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "48847593",
+      "headline": "How many father-son duos have been in the FIFA World Cup?",
+      "description": "Check out a list of every father-son duo that has played in the FIFA World Cup.",
+      "published": "2026-07-15T21:19:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48847593/how-many-father-son-duos-the-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2022/0317/r987687_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 164
+      "score": 146
     },
     {
-      "id": "49368040",
-      "headline": "Morgan Rogers, Djed Spence and Reece James start for England in Argentina semifinal showdown",
-      "description": "England have made three changes for their World Cup semifinal against Argentina with Morgan Rogers, Djed Spence and Reece James all starting.",
-      "published": "2026-07-15T17:55:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49368040/england-team-news-world-cup-2026-england-argentina-morgan-rogers-djed-spence-reece-james",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689590_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49369042",
+      "headline": "Keylor Navas headlines Liga MX squad for MLS ASG",
+      "description": "Costa Rican goalkeeper Keylor Navas, a three-time World Cup participant, headlines the Liga MX squad set to face MLS stars in the All-Star Game on July 29 in Chicago.",
+      "published": "2026-07-15T20:02:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49369042/keylor-navas-headlines-liga-mx-squad-mls-asg",
+      "image": "https://a.espncdn.com/photo/2024/0524/r1336863_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
-        "England",
         "Argentina"
       ],
-      "players": [],
-      "score": 156
+      "players": [
+        "Keylor Navas",
+        "Gilberto Mora",
+        "Patrick Mahomes"
+      ],
+      "score": 140
     },
     {
-      "id": "49368280",
-      "headline": "Rogers, Spence & James start: Reacting to England's XI to face Argentina",
-      "description": "Rogers, Spence & James start: Reacting to England's XI to face Argentina",
-      "published": "2026-07-15T17:51:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49368280/reacting-england-xi-face-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_Rogers_Spence_James_start_Reacting_to_Englands_XI_to_face_Argentina/dm_260715_Rogers_Spence_James_start_Reacting_to_Englands_XI_to_face_Argentina.jpg",
-      "byline": null,
+      "id": "49369105",
+      "headline": "Argentina stun England with late rally to reach World Cup final",
+      "description": "Argentina sealed a dramatic semifinal fightback against England at Mercedes-Benz Stadium with two goals in the final five minutes to clinch a 2-1 win and book a World Cup final clash with Spain on Sunday.",
+      "published": "2026-07-15T21:33:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49369105/england-argentina-2026-fifa-world-cup-semifinal-final",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689691_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
         "England",
-        "Argentina"
+        "Argentina",
+        "Spain"
       ],
       "players": [],
-      "score": 155
+      "score": 139
+    },
+    {
+      "id": "49369819",
+      "headline": "Buenos Aires goes wild as Enzo Fernandez levels it for Argentina",
+      "description": "Buenos Aires goes wild as Enzo Fernandez levels it for Argentina",
+      "published": "2026-07-15T20:59:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/49369819/buenos-aires-goes-wild-enzo-fernandez-levels-argentina",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_Buenos_Aires_goes_wild_as_Enzo_Fernandez_levels_it_for_Argentina/dm_260715_Buenos_Aires_goes_wild_as_Enzo_Fernandez_levels_it_for_Argentina.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Enzo Fernández"
+      ],
+      "score": 139
     },
     {
       "id": "49367986",
@@ -142,26 +200,21 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 139
     },
     {
-      "id": "49367104",
-      "headline": "Mason Greenwood signs with Fenerbahçe from Marseille",
-      "description": "Former Manchester United forward Mason Greenwood on Wednesday signed for Fenerbahçe to join his third club in three years.",
-      "published": "2026-07-15T15:48:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49367104/mason-greenwood-signs-fenerbahce-marseille",
-      "image": "https://a.espncdn.com/photo/2026/0203/r1610028_2_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Mason Greenwood",
-        "Lionel Messi"
-      ],
-      "score": 138
+      "id": "48779774",
+      "headline": "Who has the most assists in the FIFA World Cup?",
+      "description": "Here is a look at the players with the most career assists at the FIFA World Cup since 1966.",
+      "published": "2026-07-15T21:18:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48779774/who-most-assists-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637158_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 135
     },
     {
       "id": "49368103",
@@ -175,21 +228,149 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 135
+      "score": 134
     },
     {
-      "id": "49368198",
-      "headline": "Fans can pay $80 to attend pre-World Cup final news conference",
-      "description": "FIFA is to stage the World Cup final news conference in front of paying fans with supporters having to pay in excess of $80 (£60) to watch the coaches and players from the two finalists.",
-      "published": "2026-07-15T18:02:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49368198/2026-world-cup-final-press-conference-fanatics-fest-fans",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689594_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
+      "id": "49369942",
+      "headline": "Incredible scenes in Buenos Aires as Martinez gives Argentina the lead",
+      "description": "Incredible scenes in Buenos Aires as Martinez gives Argentina the lead",
+      "published": "2026-07-15T21:35:38Z",
+      "url": "https://www.espn.com/video/clip/_/id/49369942/incredible-scenes-buenos-aires-martinez-gives-argentina-lead",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_Incredible_scenes_in_Buenos_Aires_as_Martinez_gives_Argentina_the_lead/dm_260715_Incredible_scenes_in_Buenos_Aires_as_Martinez_gives_Argentina_the_lead.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
-      "teams": [],
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49368280",
+      "headline": "Rogers, Spence & James start: Reacting to England's XI to face Argentina",
+      "description": "Rogers, Spence & James start: Reacting to England's XI to face Argentina",
+      "published": "2026-07-15T17:51:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49368280/reacting-england-xi-face-argentina",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_Rogers_Spence_James_start_Reacting_to_Englands_XI_to_face_Argentina/dm_260715_Rogers_Spence_James_start_Reacting_to_Englands_XI_to_face_Argentina.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
       "players": [],
+      "score": 133
+    },
+    {
+      "id": "40532807",
+      "headline": "Messi first met Yamal as a baby. The World Cup final will be their next meeting",
+      "description": "Little did Lionel Messi know when he picked up the baby Lamine Yamal two decades ago that he was holding a future World Cup final opponent in his arms.",
+      "published": "2026-07-15T21:16:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/40532807/lionel-messi-baby-lamine-yamal-barcelona-spain-argentina-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2024/0710/r1356880_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Lionel Messi"
+      ],
       "score": 132
+    },
+    {
+      "id": "49367842",
+      "headline": "From baby pictures to World Cup final opponents - When Messi met Yamal",
+      "description": "From baby pictures to World Cup final opponents - When Messi met Yamal",
+      "published": "2026-07-15T21:06:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/49367842/from-baby-pictures-world-cup-final-opponents-messi-met-yamal",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Feature_From_baby_pictures_to_World_Cup_final_opponents_When_Messi_met_Yamal_20260715/dm_260715_COM_SOC_Feature_From_baby_pictures_to_World_Cup_final_opponents_When_Messi_met_Yamal_20260715.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49370074",
+      "headline": "Buenos Aires reacts as Argentina book their place in the World Cup final",
+      "description": "Buenos Aires reacts as Argentina book their place in the World Cup final",
+      "published": "2026-07-15T21:26:01Z",
+      "url": "https://www.espn.com/video/clip/_/id/49370074/buenos-aires-reacts-argentina-book-their-place-world-cup-final",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_Beunos_Aires_reacts_as_Argentina_book_their_place_in_the_World_Cup_final/dm_260715_Beunos_Aires_reacts_as_Argentina_book_their_place_in_the_World_Cup_final.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [],
+      "score": 130
+    },
+    {
+      "id": "49370160",
+      "headline": "McManaman: England only have themselves to blame for Argentina comeback",
+      "description": "McManaman: England only have themselves to blame for Argentina comeback",
+      "published": "2026-07-15T21:18:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49370160/england-only-blame-argentina-comeback",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_McManaman_England_only_have_themselves_to_blame_for_Argentina_comeback/dm_260715_McManaman_England_only_have_themselves_to_blame_for_Argentina_comeback.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 129
+    },
+    {
+      "id": "49369956",
+      "headline": "Pain in London as Martínez gives Argentina the lead vs. England",
+      "description": "Pain in London as Martínez gives Argentina the lead vs. England",
+      "published": "2026-07-15T21:07:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49369956/pain-london-martinez-gives-argentina-lead-vs-england",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Fans_Pain_in_London_as_MartC3ADnez_gives_Argentina_the_lead_vs_England_GLOBAL_2026-07-15/dm_260715_COM_SOC_Fans_Pain_in_London_as_MartC3ADnez_gives_Argentina_the_lead_vs_England_GLOBAL_2026-07-15.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 129
+    },
+    {
+      "id": "49369523",
+      "headline": "Fans goes crazy as Gordon gives England the lead vs. Argentina",
+      "description": "Fans goes crazy as Gordon gives England the lead vs. Argentina",
+      "published": "2026-07-15T20:42:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/49369523/fans-goes-crazy-gordon-gives-england-lead-vs-argentina",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 129
     },
     {
       "id": "49365557",
@@ -206,7 +387,58 @@
         "England"
       ],
       "players": [],
-      "score": 130
+      "score": 128
+    },
+    {
+      "id": "49368693",
+      "headline": "FIFA defends semifinal referee after France, Deschamps criticism",
+      "description": "FIFA's director of refereeing Pierluigi Collina defended the referee in Tuesday's semifinal between France and Spain following criticism from France coach Didier Deschamps.",
+      "published": "2026-07-15T19:24:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49368693/fifa-referee-france-didier-deschamps-spain-2026-world-cup-collina",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689629_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Spain"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49352315",
+      "headline": "Harry Kane becomes England's second most capped player of all time",
+      "description": "Harry Kane is now England's second most capped player of all time, as he started Wednesday's World Cup semifinal against Argentina.",
+      "published": "2026-07-15T19:09:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49352315/harry-kane-england-argentina-england-caps-record-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689622_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 126
+    },
+    {
+      "id": "49368040",
+      "headline": "Morgan Rogers, Djed Spence and Reece James start for England in Argentina semifinal showdown",
+      "description": "England have made three changes for their World Cup semifinal against Argentina with Morgan Rogers, Djed Spence and Reece James all starting.",
+      "published": "2026-07-15T17:55:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49368040/england-team-news-world-cup-2026-england-argentina-morgan-rogers-djed-spence-reece-james",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689590_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 124
     },
     {
       "id": "49344382",
@@ -222,63 +454,7 @@
         "USA"
       ],
       "players": [],
-      "score": 126
-    },
-    {
-      "id": "49367237",
-      "headline": "Fraud case against ex-Serie A referee chief dropped",
-      "description": "Milan's public prosecutor has dismissed the case against former Italian referee designator Gianluca Rocchi and his deputy Andrea Gervasoni for alleged sports fraud.",
-      "published": "2026-07-15T16:05:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49367237/fraud-case-former-serie-referee-chief-dropped",
-      "image": "https://a.espncdn.com/photo/2026/0426/r1649572_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49367207",
-      "headline": "England World Cup winner Nobby Stiles died with a brain condition caused by repeatedly heading a football, coroner rules",
-      "description": "England 1966 World Cup winner Nobby Stiles died with a brain condition caused by repeatedly heading a football, a coroner has ruled.",
-      "published": "2026-07-15T15:54:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49367207/nobby-stiles-england-world-cup-winner-headers-brain-condition-1966",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689528_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49362319",
-      "headline": "Kylian Mbappé critical of tactics by 'sloppy' France in loss",
-      "description": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
-      "published": "2026-07-15T15:18:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49362319/kylian-mbappe-critical-tactics-sloppy-france-loss",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689315_1296x729_16-9.jpg",
-      "byline": "Julien Laurens",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Spain"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 125
+      "score": 124
     },
     {
       "id": "49364445",
@@ -295,25 +471,35 @@
         "Spain"
       ],
       "players": [],
-      "score": 124
+      "score": 123
     },
     {
-      "id": "49366651",
-      "headline": "Roberto Di Matteo backs Xabi Alonso to get Chelsea back to UEFA Champions League",
-      "description": "Roberto Di Matteo -- who led Chelsea to their first UEFA Champions League title in 2011/12 -- has backed new manager Xabi Alonso to lead the Blues back into Europe's premier club competition in his first season at the helm.",
-      "published": "2026-07-15T14:11:41Z",
-      "url": "https://www.espn.com/espn/story/_/id/49366651/roberto-di-matteo-backs-xabi-alonso-get-chelsea-back-uefa-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689500_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
+      "id": "49368478",
+      "headline": "Post Malone, Tom Cruise, IShowSpeed headline World Cup closing ceremony",
+      "description": "A wide array of performers, from Post Malone to Tom Cruise to streamer IShowSpeed, will help close out the World Cup, FIFA said Tuesday.",
+      "published": "2026-07-15T19:00:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49368478/post-malone-tom-cruise-ishowspeed-world-cup-closing-ceremony",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689611_1296x729_16-9.jpg",
+      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
+      "teams": [],
+      "players": [],
+      "score": 122
+    },
+    {
+      "id": "49368198",
+      "headline": "Fans can pay $80 to attend pre-World Cup final news conference",
+      "description": "FIFA is to stage the World Cup final news conference in front of paying fans with supporters having to pay in excess of $80 (£60) to watch the coaches and players from the two finalists.",
+      "published": "2026-07-15T18:02:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49368198/2026-world-cup-final-press-conference-fanatics-fest-fans",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689594_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 121
     },
     {
       "id": "49366431",
@@ -332,7 +518,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 122
+      "score": 121
     },
     {
       "id": "49342647",
@@ -349,7 +535,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 122
+      "score": 120
     },
     {
       "id": "49363259",
@@ -369,7 +555,7 @@
         "Ezri Konsa",
         "Marc Guéhi"
       ],
-      "score": 121
+      "score": 119
     },
     {
       "id": "49178425",
@@ -415,7 +601,7 @@
         "France"
       ],
       "players": [],
-      "score": 119
+      "score": 118
     },
     {
       "id": "49364817",
@@ -434,7 +620,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 119
+      "score": 118
     },
     {
       "id": "49365585",
@@ -455,7 +641,7 @@
         "Mikel Oyarzabal",
         "Dani Olmo"
       ],
-      "score": 118
+      "score": 116
     },
     {
       "id": "49357302",
@@ -472,7 +658,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 117
+      "score": 115
     },
     {
       "id": "48939282",
@@ -490,7 +676,7 @@
         "USA"
       ],
       "players": [],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49294190",
@@ -504,7 +690,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 114
+      "score": 112
     },
     {
       "id": "49358043",
@@ -523,7 +709,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 113
+      "score": 111
     },
     {
       "id": "49344572",
@@ -542,27 +728,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 113
-    },
-    {
-      "id": "49360792",
-      "headline": "France vs. Spain player ratings as La Roja reach World Cup final after Rodri silences Mbappé and Co.",
-      "description": "Spain produced a dominant World Cup display as they saw off a France team full of supporters -- how did ESPN rate the players' performances?",
-      "published": "2026-07-15T07:06:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49360792/france-vs-spain-player-ratings-la-roja-reach-world-cup-final-rodri-silences-mbappe-co",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689221_1296x729_16-9.jpg",
-      "byline": "David Cartlidge",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "France"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Kylian Mbappé"
-      ],
-      "score": 113
+      "score": 111
     },
     {
       "id": "48769330",
@@ -576,7 +742,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 113
+      "score": 111
     },
     {
       "id": "49360500",
@@ -594,7 +760,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 111
+      "score": 110
     },
     {
       "id": "49361909",
@@ -613,40 +779,6 @@
       "players": [
         "Dan Burn"
       ],
-      "score": 111
-    },
-    {
-      "id": "49344633",
-      "headline": "Argentina scouting report: How can England stop Lionel Messi and Co. in the World Cup semifinal?",
-      "description": "ESPN Argentina's Nico Baier provides the lowdown on England's World Cup semifinal opponents.",
-      "published": "2026-07-15T07:14:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49344633/argentina-scouting-report-england-lionel-messi-world-cup-semfinal-2026",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688378_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 110
-    },
-    {
-      "id": "49351670",
-      "headline": "Forget Wonderwall, England's World Cup semifinal opponents Argentina have their own special anthem too",
-      "description": "One of the defining images of this World Cup has been England's full-time rendition of Wonderwall in unison with the fans. They're not the only team to have generated a bond with their travelling support however.",
-      "published": "2026-07-15T07:11:50Z",
-      "url": "https://www.espn.com/football/story/_/id/49351670/world-cup-england-argentina-wonderwall-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688168_1296x729_16-9.jpg",
-      "byline": "David Cartlidge",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
       "score": 110
     },
     {
@@ -664,21 +796,38 @@
         "England"
       ],
       "players": [],
-      "score": 110
+      "score": 109
     },
     {
-      "id": "49361775",
-      "headline": "France-Spain player ratings: Porro, Rodri earn high marks",
-      "description": "Spain received strong performances up and down the lineup as they beat France to make the World Cup final.",
-      "published": "2026-07-14T23:55:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49361775/france-spain-player-ratings-porro-rodri-earn-high-marks-mbappe-fails-make-impact-2026-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689292_1296x729_16-9.jpg",
-      "byline": "Danny Lewis",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49344633",
+      "headline": "Argentina scouting report: How can England stop Lionel Messi and Co. in the World Cup semifinal?",
+      "description": "ESPN Argentina's Nico Baier provides the lowdown on England's World Cup semifinal opponents.",
+      "published": "2026-07-15T07:14:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49344633/argentina-scouting-report-england-lionel-messi-world-cup-semfinal-2026",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688378_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "France",
-        "Spain"
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 108
+    },
+    {
+      "id": "49351670",
+      "headline": "Forget Wonderwall, England's World Cup semifinal opponents Argentina have their own special anthem too",
+      "description": "One of the defining images of this World Cup has been England's full-time rendition of Wonderwall in unison with the fans. They're not the only team to have generated a bond with their travelling support however.",
+      "published": "2026-07-15T07:11:50Z",
+      "url": "https://www.espn.com/football/story/_/id/49351670/world-cup-england-argentina-wonderwall-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688168_1296x729_16-9.jpg",
+      "byline": "David Cartlidge",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
       ],
       "players": [],
       "score": 108
@@ -695,7 +844,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 107
+      "score": 105
     },
     {
       "id": "48945570",
@@ -709,169 +858,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 107
-    },
-    {
-      "id": "49364200",
-      "headline": "What went wrong in France's disappointing loss?",
-      "description": "Julien Laurens reports on the France's struggles in the 2-0 loss against Spain in the World Cup semifinals.",
-      "published": "2026-07-15T03:21:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/49364200/what-went-wrong-france-disappointing-loss",
-      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_What_went_wrong_in_Frances_disappointing_loss/dm_260714_What_went_wrong_in_Frances_disappointing_loss.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Spain"
-      ],
-      "players": [],
-      "score": 104
-    },
-    {
-      "id": "49363424",
-      "headline": "Thomas Tuchel: 'No cracks' in Jude Bellingham relationship",
-      "description": "Thomas Tuchel insists there are \"no cracks\" with Jude Bellingham and believes the pair are closer than ever before despite the England star publicly hitting back at his manager.",
-      "published": "2026-07-15T01:01:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49363424/thomas-tuchel-jude-bellingham-england-fifa-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689378_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Jude Bellingham"
-      ],
-      "score": 104
-    },
-    {
-      "id": "49363093",
-      "headline": "Thomas Tuchel: England weighing man-marking plan for Lionel Messi",
-      "description": "England coach Thomas Tuchel said he has considered man-marking Lionel Messi in Wednesday's World Cup semifinal against Argentina.",
-      "published": "2026-07-15T00:35:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49363093/thomas-tuchel-england-lionel-messi-argentina-fifa-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689358_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 103
-    },
-    {
-      "id": "49363150",
-      "headline": "FIFA World Cup 2026 stats: Yamal 6 - 0 Mbappé; Spain, Simón set WC record with 6; France's 0.3 worst in 60 years",
-      "description": "ESPN's By The Numbers brings you best stats from the World Cup action on July 14.",
-      "published": "2026-07-15T01:34:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49363150/fifa-world-cup-2026-stats-lamine-yamal-6-0-kylian-mbappe-spain-unai-simon-set-wc-record-6-france-worst-60-years",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689382_1296x729_16-9.jpg",
-      "byline": "Sunaadh Sagar",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "France"
-      ],
-      "players": [],
-      "score": 101
-    },
-    {
-      "id": "49362211",
-      "headline": "De la Fuente hails 'best team in the world' after Spain sink France",
-      "description": "Luis de la Fuente said Spain are \"feeling unbeatable\" after reaching the World Cup final with a 2-0 win over France.",
-      "published": "2026-07-15T01:23:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49362211/de-la-fuente-hails-best-team-world-spain-sink-france-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689312_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "France"
-      ],
-      "players": [],
-      "score": 101
-    },
-    {
-      "id": "49363551",
-      "headline": "Tuchel discusses England's plan to stop Messi",
-      "description": "Tuchel discusses England's plan to stop Messi",
-      "published": "2026-07-15T01:22:51Z",
-      "url": "https://www.espn.com/video/clip/_/id/49363551/tuchel-discusses-england-plan-stop-messi",
-      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_PRESSER_Tuchel_discusses_Englands_plan_to_stop_Messi_2026_7_14/dm_260714_COM_SOC_PRESSER_Tuchel_discusses_Englands_plan_to_stop_Messi_2026_7_14.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 101
-    },
-    {
-      "id": "49117037",
-      "headline": "2026 World Cup Golden Boot tracker: Will Messi, Mbappé, or Kane score the most goals?",
-      "description": "We're into the last few games of the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
-      "published": "2026-07-14T23:11:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1676221_1296x729_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina",
-        "France"
-      ],
-      "players": [
-        "Harry Kane",
-        "Lionel Messi",
-        "Kylian Mbappé",
-        "Jude Bellingham"
-      ],
-      "score": 101
-    },
-    {
-      "id": "49363387",
-      "headline": "De la Fuente: When Spain are a team we're unbeatable",
-      "description": "De la Fuente: When Spain are a team we're unbeatable",
-      "published": "2026-07-15T00:51:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/49363387/spain-team-unbeatable",
-      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_De_la_Fuente_When_Spain_are_a_team_were_unbeatable/dm_260714_De_la_Fuente_When_Spain_are_a_team_were_unbeatable.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Spain"
-      ],
-      "players": [],
-      "score": 100
-    },
-    {
-      "id": "49356289",
-      "headline": "World Cup Daily live: Spain score twice to defeat France, become first finalist",
-      "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as we saw Spain defeat France to become the tournament's first finalist.",
-      "published": "2026-07-15T00:00:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49356289/world-cup-daily-live-norway-erling-haaland-latest-star-inspire-baby-name-boom",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689221_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "France"
-      ],
-      "players": [],
-      "score": 99
+      "score": 105
     }
   ]
 }
