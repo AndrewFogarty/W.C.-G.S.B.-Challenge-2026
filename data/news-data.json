@@ -1,14 +1,62 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-15T18:03:10.029Z",
+  "updated": "2026-07-15T19:33:37.242Z",
   "counts": {
-    "news": 30,
+    "news": 32,
     "preview": 6,
-    "offfield": 5,
+    "offfield": 6,
     "injury": 1,
-    "celebration": 6
+    "celebration": 3
   },
   "items": [
+    {
+      "id": "49368693",
+      "headline": "FIFA defends semifinal referee after France, Deschamps criticism",
+      "description": "FIFA's director of refereeing Pierluigi Collina defended the referee in Tuesday's semifinal between France and Spain following criticism from France coach Didier Deschamps.",
+      "published": "2026-07-15T19:24:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49368693/fifa-referee-france-didier-deschamps-spain-2026-world-cup-collina",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689629_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Spain"
+      ],
+      "players": [],
+      "score": 210
+    },
+    {
+      "id": "49352315",
+      "headline": "Harry Kane becomes England's second most capped player of all time",
+      "description": "Harry Kane is now England's second most capped player of all time, as he started Wednesday's World Cup semifinal against Argentina.",
+      "published": "2026-07-15T19:09:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49352315/harry-kane-england-argentina-england-caps-record-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689622_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 199
+    },
+    {
+      "id": "49368478",
+      "headline": "Post Malone, Tom Cruise, IShowSpeed headline World Cup closing ceremony",
+      "description": "A wide array of performers, from Post Malone to Tom Cruise to streamer IShowSpeed, will help close out the World Cup, FIFA said Tuesday.",
+      "published": "2026-07-15T19:00:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49368478/post-malone-tom-cruise-ishowspeed-world-cup-closing-ceremony",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689611_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 185
+    },
     {
       "id": "49368040",
       "headline": "Morgan Rogers, Djed Spence and Reece James start for England in Argentina semifinal showdown",
@@ -24,7 +72,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 210
+      "score": 178
     },
     {
       "id": "49368280",
@@ -41,7 +89,35 @@
         "Argentina"
       ],
       "players": [],
-      "score": 209
+      "score": 176
+    },
+    {
+      "id": "49368103",
+      "headline": "Tottenham guaranteed to have a World Cup winner for the third time in a row",
+      "description": "A Tottenham Hotspur player will be a World Cup winner. no matter who emerges victorious in the final.",
+      "published": "2026-07-15T18:54:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49368103/spurs-tottenham-world-cup-2026-spain-england-argentina",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689609_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 157
+    },
+    {
+      "id": "49368198",
+      "headline": "Fans can pay $80 to attend pre-World Cup final news conference",
+      "description": "FIFA is to stage the World Cup final news conference in front of paying fans with supporters having to pay in excess of $80 (£60) to watch the coaches and players from the two finalists.",
+      "published": "2026-07-15T18:02:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49368198/2026-world-cup-final-press-conference-fanatics-fest-fans",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689594_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 154
     },
     {
       "id": "49366431",
@@ -60,7 +136,211 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 186
+      "score": 134
+    },
+    {
+      "id": "49365030",
+      "headline": "Transfer rumors, news: USMNT striker Balogun on Juventus shortlist",
+      "description": "Juventus are considering a move for AS Monaco and USMNT striker Folarin Balogun. Transfer Talk has the latest.",
+      "published": "2026-07-15T11:33:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684884_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49365557",
+      "headline": "Argentina vice president before World Cup semifinal: England are 'invaders'",
+      "description": "England have been described as \"invaders\" and \"usurping pirates\" by Argentina's vice president ahead of the teams' World Cup semifinal clash.",
+      "published": "2026-07-15T14:31:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49365557/argentina-vice-president-world-cup-semifinal-england-invaders",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689456_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 131
+    },
+    {
+      "id": "49365367",
+      "headline": "London City Lionesses sign Kadidiatou Diani from sister club OL Lyonnes",
+      "description": "London City Lionesses have confirmed the signing of France international Kadidiatou Diani from sister club OL Lyonnes on a controversial three-year-deal.",
+      "published": "2026-07-15T09:20:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49365367/london-city-lionesses-sign-kadidiatou-diani-exit-sister-club-ol-lyonnes",
+      "image": "https://a.espncdn.com/photo/2026/0502/r1652301_1296x729_16-9.jpg",
+      "byline": "Emily Keogh",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Kadidiatou Diani",
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "48991002",
+      "headline": "Summer transfer window: Grading big signings in women's soccer",
+      "description": "The women's transfer window is nearly open for the summer. Here are the big deals and how we rated them.",
+      "published": "2026-07-15T09:15:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48991002/summer-transfer-window-grading-big-signings-womens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0502/r1652301_1296x729_16-9.jpg",
+      "byline": "Emily Keogh and Yash Thakur",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-07-15T08:09:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49344382",
+      "headline": "Who should coach USMNT next? 11 potential replacements for Pochettino",
+      "description": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S. Soccer's hiring pool.",
+      "published": "2026-07-15T17:45:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689242_1296x729_16-9.jpg",
+      "byline": "Multiple contributors",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 127
+    },
+    {
+      "id": "49362319",
+      "headline": "Kylian Mbappé critical of tactics by 'sloppy' France in loss",
+      "description": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
+      "published": "2026-07-15T15:18:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49362319/kylian-mbappe-critical-tactics-sloppy-france-loss",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689315_1296x729_16-9.jpg",
+      "byline": "Julien Laurens",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Spain"
+      ],
+      "players": [
+        "Kylian Mbappé"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49364445",
+      "headline": "France move from Deschamps to Zidane wondering what could have been",
+      "description": "France's Didier Deschamps era ended with a shock World Cup semifinal defeat to Spain. Is Zinedine Zidane better placed to get more out of this clearly talented group?",
+      "published": "2026-07-15T07:38:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49364445/france-move-deschamps-zidane-wondering-couldve-been",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689431_1296x729_16-9.jpg",
+      "byline": "Gabriele Marcotti",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "France",
+        "Spain"
+      ],
+      "players": [],
+      "score": 126
+    },
+    {
+      "id": "49365038",
+      "headline": "Linda Motlhalo says Banyana are still among Africa's giants ahead of WAFCON",
+      "description": "Banyana Banyana midfielder Linda Motlhalo said South Africa are still among Africa's top teams, ahead of the Women's Africa Cup of Nations (WAFCON), and that the country is producing enough quality players.",
+      "published": "2026-07-15T08:17:41Z",
+      "url": "https://www.espn.com/espn/story/_/id/49365038/linda-motlhalo-says-banyana-africa-giants-ahead-wafcon",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689441_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "South Africa"
+      ],
+      "players": [
+        "Linda Motlhalo",
+        "Thembi Kgatlana",
+        "Refiloe Jane",
+        "Lionel Messi"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49342647",
+      "headline": "Hand of God, Beckham vs. Simeone: Ranking the most controversial England-Argentina moments",
+      "description": "England take on Argentina in the 2026 World Cup semifinal and there have been plenty of controversial moments in the fixture over the years.",
+      "published": "2026-07-15T07:13:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49342647/england-argentina-world-cup-semifinal-2026-hand-god-david-beckham-diego-simeone-ranking-controversial",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688570_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49363259",
+      "headline": "England's Marc Guéhi says pressure on Argentina in World Cup semifinal",
+      "description": "Marc Guehi said all the pressure is on Argentina ahead of England's semifinal against the reigning champions on Wednesday, while Ezri Konsa added the team must ignore the external noise over the rivalry between the two countries.",
+      "published": "2026-07-15T06:29:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49363259/england-marc-guehi-pressure-argentina-world-cup-semifinal",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1660867_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [
+        "Ezri Konsa",
+        "Marc Guéhi"
+      ],
+      "score": 122
     },
     {
       "id": "49178425",
@@ -106,24 +386,26 @@
         "France"
       ],
       "players": [],
-      "score": 173
+      "score": 121
     },
     {
-      "id": "49365557",
-      "headline": "Argentina vice president before World Cup semifinal: England are 'invaders'",
-      "description": "England have been described as \"invaders\" and \"usurping pirates\" by Argentina's vice president ahead of the teams' World Cup semifinal clash.",
-      "published": "2026-07-15T14:31:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49365557/argentina-vice-president-world-cup-semifinal-england-invaders",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689456_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49364817",
+      "headline": "England won't be burdened by Argentina World Cup history but one problem remains: how to stop Lionel Messi",
+      "description": "England won't be weighed down by the history of their Argentina rivalry, writes Tom Hamilton, but they must stop Lionel Messi.",
+      "published": "2026-07-15T06:55:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49364817/england-wont-burdened-argentina-world-cup-history-problem-remains-how-stop-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689437_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
-        "Argentina",
-        "England"
+        "England",
+        "Argentina"
       ],
-      "players": [],
-      "score": 164
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 121
     },
     {
       "id": "49365585",
@@ -144,7 +426,24 @@
         "Mikel Oyarzabal",
         "Dani Olmo"
       ],
-      "score": 162
+      "score": 119
+    },
+    {
+      "id": "49357302",
+      "headline": "What is the Hand of God? Why did Diego Maradona's goal in 1986 stand?",
+      "description": "There are few goals in football history that have generated as much debate, legacy and, in many corners, furor as Diego Maradona's \"Hand of God\" -- scored at the 1986 World Cup against England.",
+      "published": "2026-07-15T07:12:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49357302/diego-maradona-hand-god-england-argentina-handball-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688927_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 118
     },
     {
       "id": "48939282",
@@ -162,244 +461,7 @@
         "USA"
       ],
       "players": [],
-      "score": 139
-    },
-    {
-      "id": "49365030",
-      "headline": "Transfer rumors, news: USMNT striker Balogun on Juventus shortlist",
-      "description": "Juventus are considering a move for AS Monaco and USMNT striker Folarin Balogun. Transfer Talk has the latest.",
-      "published": "2026-07-15T11:33:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684884_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun",
-        "Lionel Messi"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49365367",
-      "headline": "London City Lionesses sign Kadidiatou Diani from sister club OL Lyonnes",
-      "description": "London City Lionesses have confirmed the signing of France international Kadidiatou Diani from sister club OL Lyonnes on a controversial three-year-deal.",
-      "published": "2026-07-15T09:20:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49365367/london-city-lionesses-sign-kadidiatou-diani-exit-sister-club-ol-lyonnes",
-      "image": "https://a.espncdn.com/photo/2026/0502/r1652301_1296x729_16-9.jpg",
-      "byline": "Emily Keogh",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina",
-        "France"
-      ],
-      "players": [
-        "Kadidiatou Diani",
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "48991002",
-      "headline": "Summer transfer window: Grading big signings in women's soccer",
-      "description": "The women's transfer window is nearly open for the summer. Here are the big deals and how we rated them.",
-      "published": "2026-07-15T09:15:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48991002/summer-transfer-window-grading-big-signings-womens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0502/r1652301_1296x729_16-9.jpg",
-      "byline": "Emily Keogh and Yash Thakur",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49344382",
-      "headline": "Who should coach USMNT next? 11 potential replacements for Pochettino",
-      "description": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S. Soccer's hiring pool.",
-      "published": "2026-07-15T17:45:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689242_1296x729_16-9.jpg",
-      "byline": "Multiple contributors",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 130
-    },
-    {
-      "id": "48990955",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "published": "2026-07-15T08:09:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49362319",
-      "headline": "Kylian Mbappé critical of tactics by 'sloppy' France in loss",
-      "description": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
-      "published": "2026-07-15T15:18:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49362319/kylian-mbappe-critical-tactics-sloppy-france-loss",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689315_1296x729_16-9.jpg",
-      "byline": "Julien Laurens",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Spain"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49364445",
-      "headline": "France move from Deschamps to Zidane wondering what could have been",
-      "description": "France's Didier Deschamps era ended with a shock World Cup semifinal defeat to Spain. Is Zinedine Zidane better placed to get more out of this clearly talented group?",
-      "published": "2026-07-15T07:38:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49364445/france-move-deschamps-zidane-wondering-couldve-been",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689431_1296x729_16-9.jpg",
-      "byline": "Gabriele Marcotti",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "France",
-        "Spain"
-      ],
-      "players": [],
-      "score": 128
-    },
-    {
-      "id": "49365038",
-      "headline": "Linda Motlhalo says Banyana are still among Africa's giants ahead of WAFCON",
-      "description": "Banyana Banyana midfielder Linda Motlhalo said South Africa are still among Africa's top teams, ahead of the Women's Africa Cup of Nations (WAFCON), and that the country is producing enough quality players.",
-      "published": "2026-07-15T08:17:41Z",
-      "url": "https://www.espn.com/espn/story/_/id/49365038/linda-motlhalo-says-banyana-africa-giants-ahead-wafcon",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689441_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "South Africa"
-      ],
-      "players": [
-        "Linda Motlhalo",
-        "Thembi Kgatlana",
-        "Refiloe Jane",
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49342647",
-      "headline": "Hand of God, Beckham vs. Simeone: Ranking the most controversial England-Argentina moments",
-      "description": "England take on Argentina in the 2026 World Cup semifinal and there have been plenty of controversial moments in the fixture over the years.",
-      "published": "2026-07-15T07:13:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49342647/england-argentina-world-cup-semifinal-2026-hand-god-david-beckham-diego-simeone-ranking-controversial",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688570_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 126
-    },
-    {
-      "id": "49363259",
-      "headline": "England's Marc Guéhi says pressure on Argentina in World Cup semifinal",
-      "description": "Marc Guehi said all the pressure is on Argentina ahead of England's semifinal against the reigning champions on Wednesday, while Ezri Konsa added the team must ignore the external noise over the rivalry between the two countries.",
-      "published": "2026-07-15T06:29:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49363259/england-marc-guehi-pressure-argentina-world-cup-semifinal",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1660867_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [
-        "Ezri Konsa",
-        "Marc Guéhi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49364817",
-      "headline": "England won't be burdened by Argentina World Cup history but one problem remains: how to stop Lionel Messi",
-      "description": "England won't be weighed down by the history of their Argentina rivalry, writes Tom Hamilton, but they must stop Lionel Messi.",
-      "published": "2026-07-15T06:55:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49364817/england-wont-burdened-argentina-world-cup-history-problem-remains-how-stop-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689437_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "48945011",
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-15T07:45:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 121
-    },
-    {
-      "id": "49357302",
-      "headline": "What is the Hand of God? Why did Diego Maradona's goal in 1986 stand?",
-      "description": "There are few goals in football history that have generated as much debate, legacy and, in many corners, furor as Diego Maradona's \"Hand of God\" -- scored at the 1986 World Cup against England.",
-      "published": "2026-07-15T07:12:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49357302/diego-maradona-hand-god-england-argentina-handball-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1688927_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 121
+      "score": 117
     },
     {
       "id": "49294190",
@@ -413,7 +475,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 118
+      "score": 115
     },
     {
       "id": "49358043",
@@ -432,7 +494,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 117
+      "score": 114
     },
     {
       "id": "49344572",
@@ -451,7 +513,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 117
+      "score": 114
     },
     {
       "id": "49360792",
@@ -471,7 +533,7 @@
         "Lamine Yamal",
         "Kylian Mbappé"
       ],
-      "score": 117
+      "score": 114
     },
     {
       "id": "48769330",
@@ -485,7 +547,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 116
+      "score": 114
     },
     {
       "id": "49360500",
@@ -503,7 +565,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49361909",
@@ -522,7 +584,7 @@
       "players": [
         "Dan Burn"
       ],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49344633",
@@ -539,24 +601,7 @@
         "England"
       ],
       "players": [],
-      "score": 114
-    },
-    {
-      "id": "49351670",
-      "headline": "Forget Wonderwall, England's World Cup semifinal opponents Argentina have their own special anthem too",
-      "description": "One of the defining images of this World Cup has been England's full-time rendition of Wonderwall in unison with the fans. They're not the only team to have generated a bond with their travelling support however.",
-      "published": "2026-07-15T07:11:50Z",
-      "url": "https://www.espn.com/football/story/_/id/49351670/world-cup-england-argentina-wonderwall-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688168_1296x729_16-9.jpg",
-      "byline": "David Cartlidge",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 114
+      "score": 112
     },
     {
       "id": "49363588",
@@ -573,7 +618,24 @@
         "England"
       ],
       "players": [],
-      "score": 114
+      "score": 112
+    },
+    {
+      "id": "49351670",
+      "headline": "Forget Wonderwall, England's World Cup semifinal opponents Argentina have their own special anthem too",
+      "description": "One of the defining images of this World Cup has been England's full-time rendition of Wonderwall in unison with the fans. They're not the only team to have generated a bond with their travelling support however.",
+      "published": "2026-07-15T07:11:50Z",
+      "url": "https://www.espn.com/football/story/_/id/49351670/world-cup-england-argentina-wonderwall-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688168_1296x729_16-9.jpg",
+      "byline": "David Cartlidge",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 111
     },
     {
       "id": "49361775",
@@ -590,7 +652,21 @@
         "Spain"
       ],
       "players": [],
-      "score": 112
+      "score": 110
+    },
+    {
+      "id": "48945011",
+      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
+      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
+      "published": "2026-07-15T07:45:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 108
     },
     {
       "id": "48945570",
@@ -604,43 +680,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 111
-    },
-    {
-      "id": "48979217",
-      "headline": "Kylian Mbappe at the World Cup: History, results, stats",
-      "description": "As Mbappé aims to lead France back to soccer's mountaintop, here is a look at his career at the FIFA World Cup.",
-      "published": "2026-07-14T21:10:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48979217/kylian-mbappe-fifa-world-cup-history-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667132_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 109
-    },
-    {
-      "id": "49073399",
-      "headline": "Spain at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the Spain men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-14T21:06:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49073399/spain-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673639_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 109
+      "score": 108
     },
     {
       "id": "49364200",
@@ -657,7 +697,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "49363424",
@@ -675,7 +715,7 @@
       "players": [
         "Jude Bellingham"
       ],
-      "score": 107
+      "score": 105
     },
     {
       "id": "49363093",
@@ -694,23 +734,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 107
-    },
-    {
-      "id": "49083555",
-      "headline": "France at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the France men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-14T21:09:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49083555/france-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674268_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France"
-      ],
-      "players": [],
-      "score": 106
+      "score": 105
     },
     {
       "id": "49363150",
@@ -727,7 +751,7 @@
         "France"
       ],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49362211",
@@ -744,7 +768,7 @@
         "France"
       ],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49363551",
@@ -761,7 +785,24 @@
         "England"
       ],
       "players": [],
-      "score": 105
+      "score": 103
+    },
+    {
+      "id": "49363387",
+      "headline": "De la Fuente: When Spain are a team we're unbeatable",
+      "description": "De la Fuente: When Spain are a team we're unbeatable",
+      "published": "2026-07-15T00:51:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/49363387/spain-team-unbeatable",
+      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_De_la_Fuente_When_Spain_are_a_team_were_unbeatable/dm_260714_De_la_Fuente_When_Spain_are_a_team_were_unbeatable.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Spain"
+      ],
+      "players": [],
+      "score": 102
     },
     {
       "id": "49117037",
@@ -784,24 +825,7 @@
         "Kylian Mbappé",
         "Jude Bellingham"
       ],
-      "score": 105
-    },
-    {
-      "id": "49363387",
-      "headline": "De la Fuente: When Spain are a team we're unbeatable",
-      "description": "De la Fuente: When Spain are a team we're unbeatable",
-      "published": "2026-07-15T00:51:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/49363387/spain-team-unbeatable",
-      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_De_la_Fuente_When_Spain_are_a_team_were_unbeatable/dm_260714_De_la_Fuente_When_Spain_are_a_team_were_unbeatable.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Spain"
-      ],
-      "players": [],
-      "score": 104
+      "score": 102
     },
     {
       "id": "49356289",
@@ -818,7 +842,7 @@
         "France"
       ],
       "players": [],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49363098",
@@ -835,7 +859,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49361948",
@@ -848,40 +872,6 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 103
-    },
-    {
-      "id": "49361910",
-      "headline": "World Cup favorites France unravel as Spain book spot in final with ease",
-      "description": "Spain have sealed their place in the 2026 World Cup final, but why did France collapse so easily?",
-      "published": "2026-07-14T23:32:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49361910/world-cup-favorites-france-unravel-spain-book-spot-final-ease",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689255_1296x729_16-9.jpg",
-      "byline": "Multiple contributors",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Spain"
-      ],
-      "players": [],
-      "score": 102
-    },
-    {
-      "id": "49362324",
-      "headline": "Didier Deschamps: France weren't good enough to beat Spain",
-      "description": "France head coach Didier Deschamps said his team wasn't technically sound enough in his team's 2-0 loss to Spain in the FIFA World Cup semifinals.",
-      "published": "2026-07-14T22:49:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49362324/didier-deschamps-france-spain-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689311_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
         "Spain"
       ],
       "players": [],
