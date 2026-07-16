@@ -1,13 +1,29 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-16T17:51:14.386Z",
+  "updated": "2026-07-16T18:57:34.399Z",
   "counts": {
+    "celebration": 4,
     "offfield": 3,
     "news": 39,
-    "preview": 2,
-    "celebration": 4
+    "preview": 2
   },
   "items": [
+    {
+      "id": "49373548",
+      "headline": "World Cup daily: Argentina fans party after dramatic World Cup semifinal win",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as the 2026 FIFA World Cup is nearing its end.",
+      "published": "2026-07-16T18:29:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49373548/world-cup-daily-argentina-fans-party-dramatic-world-cup-semifinal-win",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1689893_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [],
+      "score": 216
+    },
     {
       "id": "49375290",
       "headline": "UK urges FIFA investigation of Argentina over Falklands banner",
@@ -23,7 +39,7 @@
         "England"
       ],
       "players": [],
-      "score": 212
+      "score": 200
     },
     {
       "id": "49377607",
@@ -40,7 +56,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 209
+      "score": 198
     },
     {
       "id": "49377186",
@@ -60,7 +76,7 @@
         "Jude Bellingham",
         "Valentín Barco"
       ],
-      "score": 192
+      "score": 180
     },
     {
       "id": "49370934",
@@ -77,7 +93,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 175
+      "score": 163
     },
     {
       "id": "49178425",
@@ -124,7 +140,7 @@
         "England"
       ],
       "players": [],
-      "score": 163
+      "score": 151
     },
     {
       "id": "49367577",
@@ -142,24 +158,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 152
-    },
-    {
-      "id": "49375338",
-      "headline": "England Rugby team gestures to fans in Argentina ahead of WC semifinal",
-      "description": "England Rugby team gestures to fans in Argentina ahead of WC semifinal",
-      "published": "2026-07-16T11:40:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49375338/england-rugby-team-gestures-fans-argentina-ahead-wc-semifinal",
-      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_News_England_Rugby_team_gestures_to_fans_in_Argentina_ahead_of_WC_semifinal_20260716_GLO/dm_260716_COM_SOC_News_England_Rugby_team_gestures_to_fans_in_Argentina_ahead_of_WC_semifinal_20260716_GLO.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 150
+      "score": 140
     },
     {
       "id": "49374387",
@@ -178,7 +177,24 @@
         "Michael Olise",
         "Jude Bellingham"
       ],
-      "score": 139
+      "score": 138
+    },
+    {
+      "id": "49375338",
+      "headline": "England Rugby team gestures to fans in Argentina ahead of WC semifinal",
+      "description": "England Rugby team gestures to fans in Argentina ahead of WC semifinal",
+      "published": "2026-07-16T11:40:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/49375338/england-rugby-team-gestures-fans-argentina-ahead-wc-semifinal",
+      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_News_England_Rugby_team_gestures_to_fans_in_Argentina_ahead_of_WC_semifinal_20260716_GLO/dm_260716_COM_SOC_News_England_Rugby_team_gestures_to_fans_in_Argentina_ahead_of_WC_semifinal_20260716_GLO.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 138
     },
     {
       "id": "48990955",
@@ -196,26 +212,59 @@
       "players": [
         "Jude Bellingham"
       ],
-      "score": 139
+      "score": 137
     },
     {
-      "id": "49373548",
-      "headline": "World Cup daily: Argentina fans party after dramatic World Cup semifinal win",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as the 2026 FIFA World Cup is nearing its end.",
-      "published": "2026-07-16T16:21:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49373548/world-cup-daily-argentina-fans-party-dramatic-world-cup-semifinal-win",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689893_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49375118",
+      "headline": "Argentina fans flood Buenos Aires to celebrate WC semifinal victory",
+      "description": "Argentina fans flood Buenos Aires to celebrate WC semifinal victory",
+      "published": "2026-07-16T10:56:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/49375118/argentina-fans-flood-buenos-aires-celebrate-wc-semifinal-victory",
+      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Misc_Argentina_fans_flood_Buenos_Aires_to_celebrate_WC_semifinal_victory_20260716_GLOBAL/dm_260716_COM_SOC_Misc_Argentina_fans_flood_Buenos_Aires_to_celebrate_WC_semifinal_victory_20260716_GLOBAL.jpg",
+      "byline": null,
       "kind": "celebration",
       "kindLabel": "Celebration",
       "teams": [
-        "England",
-        "Argentina"
+        "Argentina",
+        "England"
       ],
-      "players": [
-        "Jude Bellingham"
+      "players": [],
+      "score": 125
+    },
+    {
+      "id": "48939282",
+      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
+      "published": "2026-07-16T14:16:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico",
+        "Canada",
+        "USA"
       ],
-      "score": 138
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "49371861",
+      "headline": "Tuchel: It makes no sense to engage in England criticism",
+      "description": "Tuchel: It makes no sense to engage in England criticism",
+      "published": "2026-07-16T13:39:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/49371861/makes-no-sense-engage-england-criticism",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Presser_Tuchel_It_makes_no_sense_to_engage_in_England_criticism_20260715_GLOBAL_FIFA_WO/dm_260715_COM_SOC_Presser_Tuchel_It_makes_no_sense_to_engage_in_England_criticism_20260715_GLOBAL_FIFA_WO.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 122
     },
     {
       "id": "49375234",
@@ -234,59 +283,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 134
-    },
-    {
-      "id": "49375118",
-      "headline": "Argentina fans flood Buenos Aires to celebrate WC semifinal victory",
-      "description": "Argentina fans flood Buenos Aires to celebrate WC semifinal victory",
-      "published": "2026-07-16T10:56:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49375118/argentina-fans-flood-buenos-aires-celebrate-wc-semifinal-victory",
-      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Misc_Argentina_fans_flood_Buenos_Aires_to_celebrate_WC_semifinal_victory_20260716_GLOBAL/dm_260716_COM_SOC_Misc_Argentina_fans_flood_Buenos_Aires_to_celebrate_WC_semifinal_victory_20260716_GLOBAL.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 127
-    },
-    {
-      "id": "48939282",
-      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
-      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
-      "published": "2026-07-16T14:16:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
-      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "USA"
-      ],
-      "players": [],
-      "score": 125
-    },
-    {
-      "id": "49371861",
-      "headline": "Tuchel: It makes no sense to engage in England criticism",
-      "description": "Tuchel: It makes no sense to engage in England criticism",
-      "published": "2026-07-16T13:39:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/49371861/makes-no-sense-engage-england-criticism",
-      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Presser_Tuchel_It_makes_no_sense_to_engage_in_England_criticism_20260715_GLOBAL_FIFA_WO/dm_260715_COM_SOC_Presser_Tuchel_It_makes_no_sense_to_engage_in_England_criticism_20260715_GLOBAL_FIFA_WO.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 124
+      "score": 122
     },
     {
       "id": "49359428",
@@ -300,7 +297,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 123
+      "score": 121
     },
     {
       "id": "49373339",
@@ -319,7 +316,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 123
+      "score": 121
     },
     {
       "id": "49374394",
@@ -336,7 +333,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 122
+      "score": 120
     },
     {
       "id": "49373334",
@@ -353,7 +350,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 121
+      "score": 119
     },
     {
       "id": "49374869",
@@ -373,7 +370,7 @@
         "Cristian Romero",
         "Lisandro Martínez"
       ],
-      "score": 121
+      "score": 119
     },
     {
       "id": "48769330",
@@ -387,7 +384,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 121
+      "score": 119
     },
     {
       "id": "49352246",
@@ -403,7 +400,7 @@
         "USA"
       ],
       "players": [],
-      "score": 120
+      "score": 118
     },
     {
       "id": "49374635",
@@ -422,7 +419,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 120
+      "score": 118
     },
     {
       "id": "49374628",
@@ -439,7 +436,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 118
+      "score": 116
     },
     {
       "id": "49372122",
@@ -456,7 +453,7 @@
         "England"
       ],
       "players": [],
-      "score": 116
+      "score": 114
     },
     {
       "id": "49374545",
@@ -473,7 +470,7 @@
         "England"
       ],
       "players": [],
-      "score": 116
+      "score": 114
     },
     {
       "id": "49372064",
@@ -492,7 +489,7 @@
       "players": [
         "Dan Burn"
       ],
-      "score": 116
+      "score": 114
     },
     {
       "id": "49374240",
@@ -509,25 +506,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 113
-    },
-    {
-      "id": "49368783",
-      "headline": "Argentina show why they're reigning World Cup champs with epic comeback over England",
-      "description": "Argentina flipped the script yet again with two late goals to stun England, sending them to the World Cup final with a chance to repeat as champions vs. Spain.",
-      "published": "2026-07-16T06:17:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49368783/argentina-show-why-world-cup-champs-epic-comeback-england",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689691_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano, Tom Hamilton, Mark Ogden and James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 113
+      "score": 112
     },
     {
       "id": "49371042",
@@ -545,7 +524,7 @@
       "players": [
         "Lautaro Martínez"
       ],
-      "score": 112
+      "score": 110
     },
     {
       "id": "49371915",
@@ -562,7 +541,7 @@
         "England"
       ],
       "players": [],
-      "score": 110
+      "score": 109
     },
     {
       "id": "49372614",
@@ -579,21 +558,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 110
-    },
-    {
-      "id": "48945011",
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-16T06:27:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 109
+      "score": 108
     },
     {
       "id": "49370656",
@@ -611,7 +576,21 @@
         "Spain"
       ],
       "players": [],
-      "score": 109
+      "score": 108
+    },
+    {
+      "id": "48945011",
+      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
+      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
+      "published": "2026-07-16T06:27:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 107
     },
     {
       "id": "49372956",
@@ -627,7 +606,7 @@
         "England"
       ],
       "players": [],
-      "score": 108
+      "score": 107
     },
     {
       "id": "49371265",
@@ -644,7 +623,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "49371461",
@@ -662,7 +641,7 @@
         "England"
       ],
       "players": [],
-      "score": 107
+      "score": 105
     },
     {
       "id": "47978642",
@@ -680,7 +659,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 107
+      "score": 105
     },
     {
       "id": "49371643",
@@ -699,23 +678,6 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 106
-    },
-    {
-      "id": "49370513",
-      "headline": "Wayne Rooney: England would have lost belief after Tuchel's second-half subs in Argentina World Cup defeat",
-      "description": "England players will have lost belief at Thomas Tuchel's second-half substitutions in the World Cup semifinal defeat to Argentina, according to former captain Wayne Rooney.",
-      "published": "2026-07-16T00:57:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49370513/wayne-rooney-alan-shearer-england-reaction-world-cup-semifinal-argentina-defeat-substitutes",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689747_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [],
       "score": 105
     },
     {
@@ -735,7 +697,41 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 105
+      "score": 104
+    },
+    {
+      "id": "49370513",
+      "headline": "Wayne Rooney: England would have lost belief after Tuchel's second-half subs in Argentina World Cup defeat",
+      "description": "England players will have lost belief at Thomas Tuchel's second-half substitutions in the World Cup semifinal defeat to Argentina, according to former captain Wayne Rooney.",
+      "published": "2026-07-16T00:57:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49370513/wayne-rooney-alan-shearer-england-reaction-world-cup-semifinal-argentina-defeat-substitutes",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689747_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 103
+    },
+    {
+      "id": "49371891",
+      "headline": "Has Tuchel achieved more than Southgate for England?",
+      "description": "Has Tuchel achieved more than Southgate for England?",
+      "published": "2026-07-16T00:41:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49371891/has-tuchel-achieved-more-southgate-england",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Analysis_Has_Tuchel_achieved_more_than_Southgate_for_England3F_GLOBAL_2026-07-16/dm_260715_COM_SOC_Analysis_Has_Tuchel_achieved_more_than_Southgate_for_England3F_GLOBAL_2026-07-16.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 103
     },
     {
       "id": "49371006",
@@ -754,7 +750,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49117037",
@@ -774,24 +770,7 @@
         "Kylian Mbappé",
         "Lionel Messi"
       ],
-      "score": 105
-    },
-    {
-      "id": "49371891",
-      "headline": "Has Tuchel achieved more than Southgate for England?",
-      "description": "Has Tuchel achieved more than Southgate for England?",
-      "published": "2026-07-16T00:41:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/49371891/has-tuchel-achieved-more-southgate-england",
-      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Analysis_Has_Tuchel_achieved_more_than_Southgate_for_England3F_GLOBAL_2026-07-16/dm_260715_COM_SOC_Analysis_Has_Tuchel_achieved_more_than_Southgate_for_England3F_GLOBAL_2026-07-16.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 104
+      "score": 103
     },
     {
       "id": "49371792",
@@ -808,7 +787,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 104
+      "score": 102
     },
     {
       "id": "49371648",
@@ -825,7 +804,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 103
+      "score": 102
     },
     {
       "id": "49371639",
@@ -842,7 +821,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 103
+      "score": 102
     },
     {
       "id": "49363385",
@@ -859,7 +838,7 @@
         "England"
       ],
       "players": [],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49368108",
@@ -876,7 +855,24 @@
         "Argentina"
       ],
       "players": [],
-      "score": 102
+      "score": 101
+    },
+    {
+      "id": "49371229",
+      "headline": "Royal family lead England tributes after World Cup semifinal exit: Three Lions 'will rise again'",
+      "description": "Messages of commiseration and support poured in for England following their dramatic World Cup semifinal defeat to Argentina.",
+      "published": "2026-07-15T23:28:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49371229/king-charles-prince-william-royal-family-sir-keir-starmer-react-england-world-cup-semifinal-exit-gutted",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689791_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 101
     }
   ]
 }
