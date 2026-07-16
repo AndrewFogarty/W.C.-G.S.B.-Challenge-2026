@@ -1,28 +1,66 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-16T16:38:06.689Z",
+  "updated": "2026-07-16T17:51:14.386Z",
   "counts": {
-    "celebration": 4,
+    "offfield": 3,
     "news": 39,
-    "preview": 3,
-    "offfield": 2
+    "preview": 2,
+    "celebration": 4
   },
   "items": [
     {
-      "id": "49373548",
-      "headline": "World Cup daily: Argentina fans party after dramatic World Cup semifinal win",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as the 2026 FIFA World Cup is nearing its end.",
-      "published": "2026-07-16T16:21:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49373548/world-cup-daily-argentina-fans-party-dramatic-world-cup-semifinal-win",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689893_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49375290",
+      "headline": "UK urges FIFA investigation of Argentina over Falklands banner",
+      "description": "The British government on Thursday urged FIFA to investigate Argentina's team after players celebrating their 2-1 win over England in the World Cup semifinals posed with a banner that claimed sovereignty over the contested Falkland Islands.",
+      "published": "2026-07-16T17:40:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49375290/argentina-inappropriate-falklands-banner-england-world-cup-clash-minister",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1689950_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 212
+    },
+    {
+      "id": "49377607",
+      "headline": "Ibrahimović: England players must 'look in the mirror' after World Cup exit",
+      "description": "Zlatan Ibrahimovic has told England's players to \"look in the mirror\" and ask \"how good you really are\" after the Three Lions suffered their latest failure to reach a World Cup final with defeat to Argentina.",
+      "published": "2026-07-16T17:31:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49377607/england-world-cup-zlatan-ibrahimovic-look-mirror-world-cup-exit",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1690058_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
         "Argentina"
       ],
       "players": [],
-      "score": 217
+      "score": 209
+    },
+    {
+      "id": "49377186",
+      "headline": "England midfielder Bellingham slaps Argentina's Barco on the head after World Cup semifinal exit",
+      "description": "England midfielder Jude Bellingham slapped the back of Argentina player Valentín Barco's head after their World Cup semifinal defeat in Atlanta.",
+      "published": "2026-07-16T16:51:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49377186/england-jude-bellingham-slap-argentina-valentin-barco-world-cup-semifinal-defeat",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689709_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [
+        "Jude Bellingham",
+        "Valentín Barco"
+      ],
+      "score": 192
     },
     {
       "id": "49370934",
@@ -39,7 +77,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 196
+      "score": 175
     },
     {
       "id": "49178425",
@@ -86,7 +124,7 @@
         "England"
       ],
       "players": [],
-      "score": 185
+      "score": 163
     },
     {
       "id": "49367577",
@@ -104,7 +142,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 174
+      "score": 152
     },
     {
       "id": "49375338",
@@ -121,24 +159,63 @@
         "England"
       ],
       "players": [],
-      "score": 172
+      "score": 150
     },
     {
-      "id": "49375290",
-      "headline": "Argentina 'inappropriate' for Falklands banner in England World Cup clash - minister",
-      "description": "Argentina have been criticized as \"inappropriate\" for a banner about the Falklands Islands after beating England at the World Cup.",
-      "published": "2026-07-16T12:48:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49375290/argentina-inappropriate-falklands-banner-england-world-cup-clash-minister",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689950_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49374387",
+      "headline": "Transfer rumors, news: Bayern star Olise wants Real Madrid move",
+      "description": "Bayern Munich winger Michael Olise wants to make a move to Real Madrid this summer. Transfer Talk has the latest.",
+      "published": "2026-07-16T14:00:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49374387/transfer-rumors-news-bayern-munich-star-michael-olise-wants-real-madrid-move",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1681953_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Argentina",
         "England"
       ],
-      "players": [],
-      "score": 163
+      "players": [
+        "Michael Olise",
+        "Jude Bellingham"
+      ],
+      "score": 139
+    },
+    {
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-07-16T13:50:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Jude Bellingham"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49373548",
+      "headline": "World Cup daily: Argentina fans party after dramatic World Cup semifinal win",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as the 2026 FIFA World Cup is nearing its end.",
+      "published": "2026-07-16T16:21:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49373548/world-cup-daily-argentina-fans-party-dramatic-world-cup-semifinal-win",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1689893_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [
+        "Jude Bellingham"
+      ],
+      "score": 138
     },
     {
       "id": "49375234",
@@ -157,57 +234,6 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 146
-    },
-    {
-      "id": "49374387",
-      "headline": "Transfer rumors, news: Bayern star Olise wants Real Madrid move",
-      "description": "Bayern Munich winger Michael Olise wants to make a move to Real Madrid this summer. Transfer Talk has the latest.",
-      "published": "2026-07-16T14:00:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49374387/transfer-rumors-news-bayern-munich-star-michael-olise-wants-real-madrid-move",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681953_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Michael Olise",
-        "Harry Kane"
-      ],
-      "score": 141
-    },
-    {
-      "id": "48990955",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "published": "2026-07-16T13:50:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49359428",
-      "headline": "What College Football Playoff expansion could learn from the 2026 World Cup",
-      "description": "World Cup expansion had its critics, but access was a goal. That hasn't been the thing for the CFP.",
-      "published": "2026-07-16T15:34:29Z",
-      "url": "https://www.espn.com/college-football/story/_/id/49359428/world-cup-2026-expansion-college-football-playoff",
-      "image": "https://a.espncdn.com/photo/2026/0714/cfp_world-cup-expanded_16x9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
       "score": 134
     },
     {
@@ -225,7 +251,7 @@
         "England"
       ],
       "players": [],
-      "score": 128
+      "score": 127
     },
     {
       "id": "48939282",
@@ -243,7 +269,7 @@
         "USA"
       ],
       "players": [],
-      "score": 126
+      "score": 125
     },
     {
       "id": "49371861",
@@ -260,44 +286,21 @@
         "England"
       ],
       "players": [],
-      "score": 126
-    },
-    {
-      "id": "49375156",
-      "headline": "Hearts, Scotland keeper Craig Gordon announces retirement: 'Gloves are finally off'",
-      "description": "Hearts and Scotland goalkeeper Craig Gordon has announced his retirement from football at the age of 43.",
-      "published": "2026-07-16T11:09:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49375156/hearts-scotland-goalkeeper-craig-gordon-announces-retirement-gloves-off",
-      "image": "https://a.espncdn.com/photo/2026/0612/r1671913_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Scotland"
-      ],
-      "players": [
-        "Craig Gordon",
-        "Cristian Romero"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49374394",
-      "headline": "Laurens: Half-time shows should be left to American sports",
-      "description": "Laurens: Halftime shows should be left to American sports",
-      "published": "2026-07-16T12:24:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49374394/half-shows-left-american-sports",
-      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Laurens_Halftime_shows_should_be_left_to_American_sports_20260716_GLOBAL_FIFA/dm_260716_COM_SOC_Analysis_Laurens_Halftime_shows_should_be_left_to_American_sports_20260716_GLOBAL_FIFA.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
       "score": 124
+    },
+    {
+      "id": "49359428",
+      "headline": "What College Football Playoff expansion could learn from the 2026 World Cup",
+      "description": "World Cup expansion had its critics, but access was a goal. That hasn't been the thing for the CFP.",
+      "published": "2026-07-16T15:34:29Z",
+      "url": "https://www.espn.com/college-football/story/_/id/49359428/world-cup-2026-expansion-college-football-playoff",
+      "image": "https://a.espncdn.com/photo/2026/0714/cfp_world-cup-expanded_16x9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 123
     },
     {
       "id": "49373339",
@@ -316,7 +319,24 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 124
+      "score": 123
+    },
+    {
+      "id": "49374394",
+      "headline": "Laurens: Half-time shows should be left to American sports",
+      "description": "Laurens: Halftime shows should be left to American sports",
+      "published": "2026-07-16T12:24:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/49374394/half-shows-left-american-sports",
+      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Laurens_Halftime_shows_should_be_left_to_American_sports_20260716_GLOBAL_FIFA/dm_260716_COM_SOC_Analysis_Laurens_Halftime_shows_should_be_left_to_American_sports_20260716_GLOBAL_FIFA.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 122
     },
     {
       "id": "49373334",
@@ -333,7 +353,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 123
+      "score": 121
     },
     {
       "id": "49374869",
@@ -353,7 +373,7 @@
         "Cristian Romero",
         "Lisandro Martínez"
       ],
-      "score": 123
+      "score": 121
     },
     {
       "id": "48769330",
@@ -367,7 +387,23 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 123
+      "score": 121
+    },
+    {
+      "id": "49352246",
+      "headline": "World Cup time capsule: Images the USMNT will remember forever",
+      "description": "For a month, the USMNT captured the attention of the country, and through these images, this was a World Cup that U.S. Soccer won't soon forget.",
+      "published": "2026-07-16T10:54:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49352246/2026-world-cup-capsule-images-usmnt-remember-forever",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688781_1296x729_16-9.jpg",
+      "byline": "Sam Borden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 120
     },
     {
       "id": "49374635",
@@ -386,23 +422,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 122
-    },
-    {
-      "id": "49352246",
-      "headline": "World Cup time capsule: Images the USMNT will remember forever",
-      "description": "For a month, the USMNT captured the attention of the country, and through these images, this was a World Cup that U.S. Soccer won't soon forget.",
-      "published": "2026-07-16T10:54:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49352246/2026-world-cup-capsule-images-usmnt-remember-forever",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688781_1296x729_16-9.jpg",
-      "byline": "Sam Borden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 121
+      "score": 120
     },
     {
       "id": "49374628",
@@ -419,7 +439,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 120
+      "score": 118
     },
     {
       "id": "49372122",
@@ -436,7 +456,7 @@
         "England"
       ],
       "players": [],
-      "score": 118
+      "score": 116
     },
     {
       "id": "49374545",
@@ -453,7 +473,7 @@
         "England"
       ],
       "players": [],
-      "score": 118
+      "score": 116
     },
     {
       "id": "49372064",
@@ -472,7 +492,7 @@
       "players": [
         "Dan Burn"
       ],
-      "score": 117
+      "score": 116
     },
     {
       "id": "49374240",
@@ -489,7 +509,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49368783",
@@ -507,7 +527,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 114
+      "score": 113
     },
     {
       "id": "49371042",
@@ -525,7 +545,7 @@
       "players": [
         "Lautaro Martínez"
       ],
-      "score": 114
+      "score": 112
     },
     {
       "id": "49371915",
@@ -542,21 +562,7 @@
         "England"
       ],
       "players": [],
-      "score": 112
-    },
-    {
-      "id": "48945011",
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-16T06:27:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
-      "byline": "Tom Chambers",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 111
+      "score": 110
     },
     {
       "id": "49372614",
@@ -573,7 +579,21 @@
         "Argentina"
       ],
       "players": [],
-      "score": 111
+      "score": 110
+    },
+    {
+      "id": "48945011",
+      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
+      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
+      "published": "2026-07-16T06:27:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 109
     },
     {
       "id": "49370656",
@@ -591,7 +611,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 111
+      "score": 109
     },
     {
       "id": "49372956",
@@ -607,7 +627,7 @@
         "England"
       ],
       "players": [],
-      "score": 110
+      "score": 108
     },
     {
       "id": "49371265",
@@ -624,7 +644,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 109
+      "score": 108
     },
     {
       "id": "49371461",
@@ -642,7 +662,7 @@
         "England"
       ],
       "players": [],
-      "score": 109
+      "score": 107
     },
     {
       "id": "47978642",
@@ -660,7 +680,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 109
+      "score": 107
     },
     {
       "id": "49371643",
@@ -679,7 +699,24 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 108
+      "score": 106
+    },
+    {
+      "id": "49370513",
+      "headline": "Wayne Rooney: England would have lost belief after Tuchel's second-half subs in Argentina World Cup defeat",
+      "description": "England players will have lost belief at Thomas Tuchel's second-half substitutions in the World Cup semifinal defeat to Argentina, according to former captain Wayne Rooney.",
+      "published": "2026-07-16T00:57:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49370513/wayne-rooney-alan-shearer-england-reaction-world-cup-semifinal-argentina-defeat-substitutes",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689747_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 105
     },
     {
       "id": "49370835",
@@ -698,7 +735,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 107
+      "score": 105
     },
     {
       "id": "49371006",
@@ -717,58 +754,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 107
-    },
-    {
-      "id": "49370513",
-      "headline": "Wayne Rooney: England would have lost belief after Tuchel's second-half subs in Argentina World Cup defeat",
-      "description": "England players will have lost belief at Thomas Tuchel's second-half substitutions in the World Cup semifinal defeat to Argentina, according to former captain Wayne Rooney.",
-      "published": "2026-07-16T00:57:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49370513/wayne-rooney-alan-shearer-england-reaction-world-cup-semifinal-argentina-defeat-substitutes",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689747_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 106
-    },
-    {
-      "id": "49371891",
-      "headline": "Has Tuchel achieved more than Southgate for England?",
-      "description": "Has Tuchel achieved more than Southgate for England?",
-      "published": "2026-07-16T00:41:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/49371891/has-tuchel-achieved-more-southgate-england",
-      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Analysis_Has_Tuchel_achieved_more_than_Southgate_for_England3F_GLOBAL_2026-07-16/dm_260715_COM_SOC_Analysis_Has_Tuchel_achieved_more_than_Southgate_for_England3F_GLOBAL_2026-07-16.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 106
-    },
-    {
-      "id": "49371792",
-      "headline": "Argentina risk FIFA punishment as players hold Falklands banner after win vs. England",
-      "description": "Argentina players celebrated their World Cup semi-final victory over England by holding a banner about the Falkland Islands on the pitch in Atlanta.",
-      "published": "2026-07-16T00:30:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49371792/argentina-fifa-players-hold-falklands-malvinas-banner-world-cup-win-vs-england",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689834_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 106
+      "score": 105
     },
     {
       "id": "49117037",
@@ -788,7 +774,41 @@
         "Kylian Mbappé",
         "Lionel Messi"
       ],
-      "score": 106
+      "score": 105
+    },
+    {
+      "id": "49371891",
+      "headline": "Has Tuchel achieved more than Southgate for England?",
+      "description": "Has Tuchel achieved more than Southgate for England?",
+      "published": "2026-07-16T00:41:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49371891/has-tuchel-achieved-more-southgate-england",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Analysis_Has_Tuchel_achieved_more_than_Southgate_for_England3F_GLOBAL_2026-07-16/dm_260715_COM_SOC_Analysis_Has_Tuchel_achieved_more_than_Southgate_for_England3F_GLOBAL_2026-07-16.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 104
+    },
+    {
+      "id": "49371792",
+      "headline": "Argentina risk FIFA punishment as players hold Falklands banner after win vs. England",
+      "description": "Argentina players celebrated their World Cup semi-final victory over England by holding a banner about the Falkland Islands on the pitch in Atlanta.",
+      "published": "2026-07-16T00:30:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49371792/argentina-fifa-players-hold-falklands-malvinas-banner-world-cup-win-vs-england",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1689834_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 104
     },
     {
       "id": "49371648",
@@ -805,7 +825,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49371639",
@@ -822,7 +842,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49363385",
@@ -839,7 +859,7 @@
         "England"
       ],
       "players": [],
-      "score": 104
+      "score": 103
     },
     {
       "id": "49368108",
@@ -856,24 +876,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 104
-    },
-    {
-      "id": "49371229",
-      "headline": "Royal family lead England tributes after World Cup semifinal exit: Three Lions 'will rise again'",
-      "description": "Messages of commiseration and support poured in for England following their dramatic World Cup semifinal defeat to Argentina.",
-      "published": "2026-07-15T23:28:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49371229/king-charles-prince-william-royal-family-sir-keir-starmer-react-england-world-cup-semifinal-exit-gutted",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689791_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 104
+      "score": 102
     }
   ]
 }
