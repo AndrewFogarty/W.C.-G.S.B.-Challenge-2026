@@ -1,13 +1,46 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-17T15:59:37.447Z",
+  "updated": "2026-07-17T17:20:25.413Z",
   "counts": {
-    "news": 38,
-    "offfield": 3,
+    "news": 39,
     "celebration": 5,
+    "offfield": 2,
     "preview": 2
   },
   "items": [
+    {
+      "id": "49384849",
+      "headline": "World Cup beer sales hopping for host cities across U.S.",
+      "description": "The World Cup has been a bonanza for beer in the U.S., with host cities reporting a 14% bump in sales at bars, restaurants and stadiums in the first four weeks of the tournament.",
+      "published": "2026-07-17T17:12:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49384849/world-cup-beer-sales-hopping-host-cities-us",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690494_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 210
+    },
+    {
+      "id": "49380811",
+      "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
+      "published": "2026-07-17T16:30:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 199
+    },
     {
       "id": "49384614",
       "headline": "Gary Neville has 'big problem' with Thomas Tuchel's England 'DNA' comment",
@@ -22,30 +55,13 @@
         "England"
       ],
       "players": [],
-      "score": 210
-    },
-    {
-      "id": "49380811",
-      "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
-      "published": "2026-07-17T14:48:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 198
+      "score": 188
     },
     {
       "id": "49384171",
       "headline": "Sources: No concerns about World Cup final despite air quality issues",
       "description": "The World Cup final is not under any threat despite the air quality warnings in the area, sources told ESPN.",
-      "published": "2026-07-17T14:33:51Z",
+      "published": "2026-07-17T16:02:11Z",
       "url": "https://www.espn.com/soccer/story/_/id/49384171/no-concerns-world-cup-final-air-quality-issues-sources",
       "image": "https://a.espncdn.com/photo/2026/0717/r1690431_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -56,7 +72,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 188
+      "score": 178
     },
     {
       "id": "49383212",
@@ -73,7 +89,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 173
+      "score": 161
     },
     {
       "id": "49376001",
@@ -91,7 +107,7 @@
         "USA"
       ],
       "players": [],
-      "score": 162
+      "score": 150
     },
     {
       "id": "49382615",
@@ -108,7 +124,43 @@
         "Argentina"
       ],
       "players": [],
-      "score": 153
+      "score": 141
+    },
+    {
+      "id": "49379413",
+      "headline": "Messi is the best player at the World Cup, and the best male athlete of all time",
+      "description": "Lionel Messi has long been considered the greatest soccer player ever, but he's so much more than that. He's the best male athlete, in any sport, in history.",
+      "published": "2026-07-17T13:46:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49379413/messi-best-player-2026-world-cup-best-male-athlete-ever",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1690198_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49382352",
+      "headline": "Arsenal sign teenage goalkeeper Isabella Damm from Brondby",
+      "description": "Arsenal have announced the signing of 18-year-old goalkeeper Isabella Damm from Brondby IF.",
+      "published": "2026-07-17T10:15:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49382352/arsenal-sign-teenage-goalkeeper-isabella-damm-brondby",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690337_1296x729_16-9.jpg",
+      "byline": "Olivia Pagden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 134
     },
     {
       "id": "40532807",
@@ -128,13 +180,30 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 144
+      "score": 132
+    },
+    {
+      "id": "49382249",
+      "headline": "World Cup winners to be awarded championship rings",
+      "description": "The winners of the World Cup will be awarded championship rings in addition to the traditional trophy and gold medals.",
+      "published": "2026-07-17T16:50:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49382249/world-cup-winners-awarded-championship-rings",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690339_1296x729_16-9.jpg",
+      "byline": "James Dielhenn",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [],
+      "score": 129
     },
     {
       "id": "49382484",
       "headline": "Mauricio Pochettino to make decision on USMNT future next week",
       "description": "Mauricio Pochettino said he will make a decision regarding his future as coach of the United States national team next week.",
-      "published": "2026-07-17T15:56:23Z",
+      "published": "2026-07-17T15:58:27Z",
       "url": "https://www.espn.com/soccer/story/_/id/49382484/mauricio-pochettino-make-decision-usmnt-future-next-week",
       "image": "https://a.espncdn.com/photo/2026/0619/r1675847_1296x729_16-9.jpg",
       "byline": "Adriana Garcia",
@@ -144,66 +213,7 @@
         "USA"
       ],
       "players": [],
-      "score": 140
-    },
-    {
-      "id": "49363167",
-      "headline": "For USWNT star Lindsey Heaps, transfer to Denver Summit marks welcome return home",
-      "description": "Lindsey Heaps and her family speak to ESPN about her path to the USWNT, to France, and back to Colorado with new NWSL team Denver Summit FC.",
-      "published": "2026-07-17T11:23:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49363167/for-uswnt-star-lindsey-heaps-transfer-denver-summit-marks-welcome-return-home",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689843_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain",
-        "USA",
-        "France"
-      ],
-      "players": [
-        "Lindsey Heaps",
-        "Lamine Yamal"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49379413",
-      "headline": "Messi is the best player at the World Cup, and the best male athlete of all time",
-      "description": "Lionel Messi has long been considered the greatest soccer player ever, but he's so much more than that. He's the best male athlete, in any sport, in history.",
-      "published": "2026-07-17T13:46:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49379413/messi-best-player-2026-world-cup-best-male-athlete-ever",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1690198_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49382855",
-      "headline": "Julián Álvarez will play at Atlético Madrid next season - club president",
-      "description": "Atlético Madrid president Enrique Cerezo has firmly declared the club will not transfer Julián Álvarez this summer despite Barcelona's attempt to lure the Argentina striker to the Camp Nou.",
-      "published": "2026-07-17T10:58:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49382855/julian-alvarez-continue-atletico-madrid-player-says-club-president",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664775_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [
-        "Julián Álvarez",
-        "Lamine Yamal"
-      ],
-      "score": 137
+      "score": 128
     },
     {
       "id": "48636037",
@@ -222,26 +232,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 129
-    },
-    {
-      "id": "49382861",
-      "headline": "Jarrod Bowen confirms West Ham stay despite Premier League relegation",
-      "description": "Jarrod Bowen will stay at West Ham this season despite their relegation to the Championship, he has confirmed.",
-      "published": "2026-07-17T11:10:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49382861/jarrod-bowen-confirms-west-ham-stay-premier-league-relegation",
-      "image": "https://a.espncdn.com/photo/2026/0131/r1608451_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Jarrod Bowen",
-        "Lamine Yamal"
-      ],
-      "score": 126
+      "score": 127
     },
     {
       "id": "49352194",
@@ -255,7 +246,25 @@
       "kindLabel": "Match preview",
       "teams": [],
       "players": [],
-      "score": 126
+      "score": 124
+    },
+    {
+      "id": "49163915",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "published": "2026-07-17T10:14:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 122
     },
     {
       "id": "49382483",
@@ -273,24 +282,7 @@
       "players": [
         "Declan Rice"
       ],
-      "score": 124
-    },
-    {
-      "id": "49382249",
-      "headline": "World Cup winners to be awarded championship rings",
-      "description": "The winners of the World Cup will be awarded championship rings in addition to the traditional trophy and gold medals.",
-      "published": "2026-07-17T11:26:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49382249/world-cup-winners-awarded-championship-rings",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690339_1296x729_16-9.jpg",
-      "byline": "James Dielhenn",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "France"
-      ],
-      "players": [],
-      "score": 123
+      "score": 122
     },
     {
       "id": "49382231",
@@ -309,7 +301,7 @@
       "players": [
         "Jude Bellingham"
       ],
-      "score": 123
+      "score": 121
     },
     {
       "id": "49377661",
@@ -325,7 +317,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 119
+      "score": 117
     },
     {
       "id": "49382182",
@@ -342,7 +334,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 119
+      "score": 117
     },
     {
       "id": "49382105",
@@ -358,7 +350,7 @@
         "England"
       ],
       "players": [],
-      "score": 119
+      "score": 117
     },
     {
       "id": "48769330",
@@ -372,7 +364,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 119
+      "score": 117
     },
     {
       "id": "48352807",
@@ -432,7 +424,7 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 118
+      "score": 115
     },
     {
       "id": "48945011",
@@ -446,7 +438,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 112
+      "score": 110
     },
     {
       "id": "48945570",
@@ -460,7 +452,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 112
+      "score": 110
     },
     {
       "id": "49373548",
@@ -476,7 +468,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 110
+      "score": 108
     },
     {
       "id": "49375290",
@@ -493,7 +485,7 @@
         "England"
       ],
       "players": [],
-      "score": 109
+      "score": 107
     },
     {
       "id": "49380261",
@@ -509,7 +501,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 106
+      "score": 104
     },
     {
       "id": "49379737",
@@ -528,7 +520,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "48939282",
@@ -546,7 +538,7 @@
         "USA"
       ],
       "players": [],
-      "score": 104
+      "score": 102
     },
     {
       "id": "49379953",
@@ -563,7 +555,7 @@
         "England"
       ],
       "players": [],
-      "score": 104
+      "score": 102
     },
     {
       "id": "49379951",
@@ -580,7 +572,7 @@
         "England"
       ],
       "players": [],
-      "score": 104
+      "score": 102
     },
     {
       "id": "49379943",
@@ -597,7 +589,7 @@
         "England"
       ],
       "players": [],
-      "score": 104
+      "score": 102
     },
     {
       "id": "49379948",
@@ -614,7 +606,7 @@
         "England"
       ],
       "players": [],
-      "score": 104
+      "score": 102
     },
     {
       "id": "49378771",
@@ -633,7 +625,7 @@
       "players": [
         "Tim Ream"
       ],
-      "score": 104
+      "score": 102
     },
     {
       "id": "49378610",
@@ -653,7 +645,7 @@
         "Lamine Yamal",
         "Pedro Porro"
       ],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49379130",
@@ -670,7 +662,7 @@
         "Sweden"
       ],
       "players": [],
-      "score": 102
+      "score": 100
     },
     {
       "id": "49378971",
@@ -686,7 +678,7 @@
         "USA"
       ],
       "players": [],
-      "score": 101
+      "score": 99
     },
     {
       "id": "49378852",
@@ -702,7 +694,7 @@
         "England"
       ],
       "players": [],
-      "score": 100
+      "score": 98
     },
     {
       "id": "49378162",
@@ -718,7 +710,7 @@
         "England"
       ],
       "players": [],
-      "score": 99
+      "score": 97
     },
     {
       "id": "49377186",
@@ -738,7 +730,7 @@
         "Jude Bellingham",
         "Valentín Barco"
       ],
-      "score": 98
+      "score": 96
     },
     {
       "id": "49375338",
@@ -755,7 +747,7 @@
         "England"
       ],
       "players": [],
-      "score": 97
+      "score": 95
     },
     {
       "id": "49377607",
@@ -772,7 +764,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 96
+      "score": 94
     },
     {
       "id": "49375118",
@@ -789,7 +781,7 @@
         "England"
       ],
       "players": [],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49370934",
@@ -806,7 +798,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 91
+      "score": 89
     },
     {
       "id": "49375234",
@@ -825,7 +817,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 91
+      "score": 89
     },
     {
       "id": "49178425",
@@ -872,7 +864,7 @@
         "England"
       ],
       "players": [],
-      "score": 90
+      "score": 88
     },
     {
       "id": "49359428",
@@ -886,7 +878,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 89
+      "score": 87
     },
     {
       "id": "49367577",
@@ -904,7 +896,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 89
+      "score": 87
     }
   ]
 }
