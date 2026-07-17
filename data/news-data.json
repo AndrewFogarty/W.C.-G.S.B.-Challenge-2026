@@ -1,13 +1,69 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-17T18:30:51.302Z",
+  "updated": "2026-07-17T19:42:49.107Z",
   "counts": {
     "news": 38,
-    "offfield": 4,
-    "celebration": 4,
-    "preview": 2
+    "preview": 3,
+    "offfield": 3,
+    "celebration": 4
   },
   "items": [
+    {
+      "id": "49380811",
+      "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
+      "published": "2026-07-17T19:35:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 210
+    },
+    {
+      "id": "49385606",
+      "headline": "Didier Deschamps confirms Kylian Mbappé 'available' for third place playoff with Golden Boot in sights",
+      "description": "Didier Deschamps confirmed Kylian Mbappe is \"available\" for the World Cup third place playoff with England and highlighted his plans to make changes in his final match as France boss.",
+      "published": "2026-07-17T19:00:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49385606/deschamps-confirms-mbappe-available-third-place-playoff-golden-boot-sights",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1687040_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "England"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Ibrahima Konaté"
+      ],
+      "score": 202
+    },
+    {
+      "id": "49385557",
+      "headline": "Pique: Yamal ahead of where Messi was at age 19",
+      "description": "Pique: Yamal ahead of where Messi was at age 19",
+      "published": "2026-07-17T18:47:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49385557/yamal-ahead-where-messi-was-age-19",
+      "image": "https://a.espncdn.com/media/motion/2026/0717/ss_20260717_143814555_3595678879/ss_20260717_143814555_3595678879.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Lionel Messi"
+      ],
+      "score": 201
+    },
     {
       "id": "49385416",
       "headline": "Merino: The strength of Spain is that we are a team",
@@ -25,24 +81,7 @@
       "players": [
         "Mikel Merino"
       ],
-      "score": 213
-    },
-    {
-      "id": "49380811",
-      "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
-      "published": "2026-07-17T18:08:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 199
+      "score": 181
     },
     {
       "id": "49384849",
@@ -58,7 +97,7 @@
         "USA"
       ],
       "players": [],
-      "score": 189
+      "score": 168
     },
     {
       "id": "49384614",
@@ -74,7 +113,7 @@
         "England"
       ],
       "players": [],
-      "score": 176
+      "score": 154
     },
     {
       "id": "49384171",
@@ -91,44 +130,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 169
-    },
-    {
-      "id": "49383212",
-      "headline": "Slovenia's Slavko Vinčić announced as referee for World Cup final",
-      "description": "Slovenia's Slavko Vinčić announced as referee for World Cup final",
-      "published": "2026-07-17T11:36:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49383212/slovenia-slavko-vini-announced-referee-world-cup-final",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_COM_SOC_News_Slovenias_Slavko_Vincic_announced_as_referee_for_World_Cup_final_20260717_GLOBAL_F/dm_260717_COM_SOC_News_Slovenias_Slavko_Vincic_announced_as_referee_for_World_Cup_final_20260717_GLOBAL_F.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 150
-    },
-    {
-      "id": "49381951",
-      "headline": "Transfer rumors, news: Porro's World Cup for Spain catches Barça's eye",
-      "description": "The Pedro Porro-Lamine Yamal partnership has been a boon for Spain at this World Cup, and Barça want to reunite the pair. Transfer Talk has the latest.",
-      "published": "2026-07-17T17:31:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49381951/transfer-rumors-news-arsenal-accelerate-morgan-rogers-aston-villa-christos-tzolis",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689231_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Pedro Porro",
-        "Mikel Merino"
-      ],
-      "score": 144
+      "score": 147
     },
     {
       "id": "49384050",
@@ -141,71 +143,13 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Dominik Szoboszlai",
-        "Lamine Yamal"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49376001",
-      "headline": "Just tuning in for World Cup final? Let's catch you up on what you've missed",
-      "description": "For those who are just tuning in, here are the highlights of the World Cup so far, from Lionel Messi heroics and underdog upsets to brave USMNT performances.",
-      "published": "2026-07-17T10:49:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49376001/just-tuning-world-cup-final-let-catch-what-missed",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690357_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina",
-        "USA"
-      ],
-      "players": [],
-      "score": 138
-    },
-    {
-      "id": "49363167",
-      "headline": "For USWNT star Lindsey Heaps, transfer to Denver Summit marks welcome return home",
-      "description": "Lindsey Heaps and her family speak to ESPN about her path to the USWNT, to France, and back to Colorado with new NWSL team Denver Summit FC.",
-      "published": "2026-07-17T11:23:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49363167/for-uswnt-star-lindsey-heaps-transfer-denver-summit-marks-welcome-return-home",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689843_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain",
-        "USA",
         "France"
       ],
       "players": [
-        "Lindsey Heaps",
-        "Lamine Yamal"
+        "Dominik Szoboszlai",
+        "Kylian Mbappé"
       ],
-      "score": 134
-    },
-    {
-      "id": "49375075",
-      "headline": "2026 World Cup final: Best bets for Spain vs. Argentina",
-      "description": "Looking to place some bets for the World Cup final? Take a look at what our experts are considering.",
-      "published": "2026-07-17T18:26:41Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49375075/fifa-world-cup-betting-final-round-best-bets-picks-odds-props-futures-2026-spain-argentina",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690489_576x324_16-9.jpg",
-      "byline": "Victoria Matiash and Liz Loza",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Mikel Merino"
-      ],
-      "score": 133
+      "score": 136
     },
     {
       "id": "49379413",
@@ -223,42 +167,62 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 131
     },
     {
-      "id": "49385168",
-      "headline": "Source: MLS down to 3 names to replace commissioner Garber",
-      "description": "The list of candidates to succeed Don Garber as MLS commissioner is down to three, with LAFC co-owner Larry Berg, 49ers Enterprises president Paraag Marathe and former Fox executive David Nathanson the three finalists, a source confirmed to ESPN.",
-      "published": "2026-07-17T17:40:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49385168/mls-3-names-replace-commissioner-garber",
-      "image": "https://a.espncdn.com/photo/2025/1205/r1585009_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49382352",
+      "headline": "Arsenal sign teenage goalkeeper Isabella Damm from Brondby",
+      "description": "Arsenal have announced the signing of 18-year-old goalkeeper Isabella Damm from Brondby IF.",
+      "published": "2026-07-17T10:15:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49382352/arsenal-sign-teenage-goalkeeper-isabella-damm-brondby",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690337_1296x729_16-9.jpg",
+      "byline": "Olivia Pagden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Argentina"
+        "Spain"
       ],
       "players": [
-        "Mikel Merino"
+        "Lamine Yamal"
       ],
-      "score": 132
+      "score": 131
     },
     {
-      "id": "49382615",
-      "headline": "Who is Slavko Vincic? Spain vs. Argentina referee for World Cup final drew Real Madrid backlash, Jose Mourinho praise",
-      "description": "Slovenian referee Slavko Vincic will officiate the World Cup final between Spain and Argentina on Sunday. But who is he, what's his record, and what have been his major moments?",
-      "published": "2026-07-17T11:36:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49382615/who-slavko-vincic-spain-vs-argentina-referee-world-cup-final-real-madrid-jose-mourinho-jude-bellingham",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690353_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49375075",
+      "headline": "2026 World Cup Final: Best bets for Spain vs. Argentina",
+      "description": "Looking to place some bets for the World Cup Final? Take a look at what our experts are considering.",
+      "published": "2026-07-17T17:06:55Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49375075/fifa-world-cup-betting-final-round-best-bets-picks-odds-props-futures-2026-spain-argentina",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690489_576x324_16-9.jpg",
+      "byline": "Victoria Matiash and Liz Loza",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
+        "France",
         "Spain",
         "Argentina"
       ],
+      "players": [
+        "Kylian Mbappé"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49383212",
+      "headline": "Slovenia's Slavko Vinčić announced as referee for World Cup final",
+      "description": "Slovenia's Slavko Vinčić announced as referee for World Cup final",
+      "published": "2026-07-17T11:36:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/49383212/slovenia-slavko-vini-announced-referee-world-cup-final",
+      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_COM_SOC_News_Slovenias_Slavko_Vincic_announced_as_referee_for_World_Cup_final_20260717_GLOBAL_F/dm_260717_COM_SOC_News_Slovenias_Slavko_Vincic_announced_as_referee_for_World_Cup_final_20260717_GLOBAL_F.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
       "players": [],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49382249",
@@ -275,7 +239,7 @@
         "France"
       ],
       "players": [],
-      "score": 127
+      "score": 126
     },
     {
       "id": "49384172",
@@ -288,12 +252,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "France"
       ],
       "players": [
-        "Mikel Merino"
+        "Kylian Mbappé"
       ],
-      "score": 127
+      "score": 125
     },
     {
       "id": "49382484",
@@ -309,7 +273,7 @@
         "USA"
       ],
       "players": [],
-      "score": 126
+      "score": 124
     },
     {
       "id": "48636037",
@@ -328,26 +292,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 125
-    },
-    {
-      "id": "49382861",
-      "headline": "Jarrod Bowen confirms West Ham stay despite Premier League relegation",
-      "description": "Jarrod Bowen will stay at West Ham this season despite their relegation to the Championship, he has confirmed.",
-      "published": "2026-07-17T11:10:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49382861/jarrod-bowen-confirms-west-ham-stay-premier-league-relegation",
-      "image": "https://a.espncdn.com/photo/2026/0131/r1608451_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Jarrod Bowen",
-        "Lamine Yamal"
-      ],
-      "score": 122
+      "score": 123
     },
     {
       "id": "49352194",
@@ -361,7 +306,25 @@
       "kindLabel": "Match preview",
       "teams": [],
       "players": [],
-      "score": 122
+      "score": 120
+    },
+    {
+      "id": "49163915",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "published": "2026-07-17T10:14:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 119
     },
     {
       "id": "49382483",
@@ -379,7 +342,7 @@
       "players": [
         "Declan Rice"
       ],
-      "score": 120
+      "score": 119
     },
     {
       "id": "40532807",
@@ -399,7 +362,42 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 120
+      "score": 119
+    },
+    {
+      "id": "49382615",
+      "headline": "Who is Slavko Vincic? Spain vs. Argentina referee for World Cup final drew Real Madrid backlash, Jose Mourinho praise",
+      "description": "Slovenian referee Slavko Vincic will officiate the World Cup final between Spain and Argentina on Sunday. But who is he, what's his record, and what have been his major moments?",
+      "published": "2026-07-17T11:36:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49382615/who-slavko-vincic-spain-vs-argentina-referee-world-cup-final-real-madrid-jose-mourinho-jude-bellingham",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690353_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 118
+    },
+    {
+      "id": "49376001",
+      "headline": "Just tuning in for World Cup final? Let's catch you up on what you've missed",
+      "description": "For those who are just tuning in, here are the highlights of the World Cup so far, from Lionel Messi heroics and underdog upsets to brave USMNT performances.",
+      "published": "2026-07-17T10:49:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49376001/just-tuning-world-cup-final-let-catch-what-missed",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690357_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina",
+        "USA"
+      ],
+      "players": [],
+      "score": 117
     },
     {
       "id": "49382231",
@@ -418,7 +416,7 @@
       "players": [
         "Jude Bellingham"
       ],
-      "score": 119
+      "score": 117
     },
     {
       "id": "49377661",
@@ -434,7 +432,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 115
+      "score": 114
     },
     {
       "id": "49382182",
@@ -451,7 +449,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 115
+      "score": 114
     },
     {
       "id": "49382105",
@@ -467,7 +465,7 @@
         "England"
       ],
       "players": [],
-      "score": 115
+      "score": 113
     },
     {
       "id": "48769330",
@@ -481,7 +479,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 115
+      "score": 113
     },
     {
       "id": "48352807",
@@ -541,7 +539,7 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 114
+      "score": 112
     },
     {
       "id": "48945011",
@@ -555,7 +553,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "48945570",
@@ -569,7 +567,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "49373548",
@@ -585,7 +583,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 107
+      "score": 105
     },
     {
       "id": "49375290",
@@ -602,7 +600,7 @@
         "England"
       ],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49380261",
@@ -618,7 +616,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 102
+      "score": 100
     },
     {
       "id": "49379737",
@@ -637,7 +635,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 101
+      "score": 99
     },
     {
       "id": "48939282",
@@ -655,75 +653,7 @@
         "USA"
       ],
       "players": [],
-      "score": 101
-    },
-    {
-      "id": "49379953",
-      "headline": "Should Messi win the Ballon d'Or if Argentina win the World Cup?",
-      "description": "Should Messi win the Ballon d'Or if Argentina win the World Cup?",
-      "published": "2026-07-16T22:38:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49379953/should-messi-win-ballon-dor-argentina-win-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Should_Messi_win_the_Ballon_dOr_if_Argentina_win_the_World_Cup3F__GLOBAL_2026-07-/dm_260716_COM_SOC_Analysis_Should_Messi_win_the_Ballon_dOr_if_Argentina_win_the_World_Cup3F__GLOBAL_2026-07-.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 100
-    },
-    {
-      "id": "49379951",
-      "headline": "Has Tuchel 'failed' as England head coach?",
-      "description": "Has Tuchel 'failed' as England head coach?",
-      "published": "2026-07-16T22:38:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/49379951/has-tuchel-failed-england-head-coach",
-      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Has_Tuchel_E28098failedE28099_as_England_head_coach3F_GLOBAL_2026-07-16/dm_260716_COM_SOC_Analysis_Has_Tuchel_E28098failedE28099_as_England_head_coach3F_GLOBAL_2026-07-16.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 100
-    },
-    {
-      "id": "49379943",
-      "headline": "Was Messi the difference between England and Argentina?",
-      "description": "Was Messi the difference between England and Argentina?",
-      "published": "2026-07-16T22:37:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/49379943/was-messi-difference-england-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Was_Messi_the_difference_between_England_and_Argentina3F__GLOBAL_2026-07-16/dm_260716_COM_SOC_Analysis_Was_Messi_the_difference_between_England_and_Argentina3F__GLOBAL_2026-07-16.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 100
-    },
-    {
-      "id": "49379948",
-      "headline": "Nicol: I blame Tuchel for England's loss vs. Argentina",
-      "description": "Nicol: I blame Tuchel for England's loss vs. Argentina",
-      "published": "2026-07-16T22:37:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49379948/blame-tuchel-england-loss-vs-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Nicol3A_I_blame_Tuchel_for_EnglandE28099s_loss_vs_Argentina_GLOBAL_2026-07-16/dm_260716_COM_SOC_Analysis_Nicol3A_I_blame_Tuchel_for_EnglandE28099s_loss_vs_Argentina_GLOBAL_2026-07-16.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 100
+      "score": 99
     },
     {
       "id": "49378771",
@@ -742,7 +672,75 @@
       "players": [
         "Tim Ream"
       ],
-      "score": 100
+      "score": 99
+    },
+    {
+      "id": "49379953",
+      "headline": "Should Messi win the Ballon d'Or if Argentina win the World Cup?",
+      "description": "Should Messi win the Ballon d'Or if Argentina win the World Cup?",
+      "published": "2026-07-16T22:38:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49379953/should-messi-win-ballon-dor-argentina-win-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Should_Messi_win_the_Ballon_dOr_if_Argentina_win_the_World_Cup3F__GLOBAL_2026-07-/dm_260716_COM_SOC_Analysis_Should_Messi_win_the_Ballon_dOr_if_Argentina_win_the_World_Cup3F__GLOBAL_2026-07-.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 98
+    },
+    {
+      "id": "49379951",
+      "headline": "Has Tuchel 'failed' as England head coach?",
+      "description": "Has Tuchel 'failed' as England head coach?",
+      "published": "2026-07-16T22:38:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/49379951/has-tuchel-failed-england-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Has_Tuchel_E28098failedE28099_as_England_head_coach3F_GLOBAL_2026-07-16/dm_260716_COM_SOC_Analysis_Has_Tuchel_E28098failedE28099_as_England_head_coach3F_GLOBAL_2026-07-16.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 98
+    },
+    {
+      "id": "49379943",
+      "headline": "Was Messi the difference between England and Argentina?",
+      "description": "Was Messi the difference between England and Argentina?",
+      "published": "2026-07-16T22:37:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/49379943/was-messi-difference-england-argentina",
+      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Was_Messi_the_difference_between_England_and_Argentina3F__GLOBAL_2026-07-16/dm_260716_COM_SOC_Analysis_Was_Messi_the_difference_between_England_and_Argentina3F__GLOBAL_2026-07-16.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 98
+    },
+    {
+      "id": "49379948",
+      "headline": "Nicol: I blame Tuchel for England's loss vs. Argentina",
+      "description": "Nicol: I blame Tuchel for England's loss vs. Argentina",
+      "published": "2026-07-16T22:37:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/49379948/blame-tuchel-england-loss-vs-argentina",
+      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Nicol3A_I_blame_Tuchel_for_EnglandE28099s_loss_vs_Argentina_GLOBAL_2026-07-16/dm_260716_COM_SOC_Analysis_Nicol3A_I_blame_Tuchel_for_EnglandE28099s_loss_vs_Argentina_GLOBAL_2026-07-16.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 98
     },
     {
       "id": "49378610",
@@ -762,7 +760,7 @@
         "Lamine Yamal",
         "Pedro Porro"
       ],
-      "score": 99
+      "score": 97
     },
     {
       "id": "49379130",
@@ -779,7 +777,7 @@
         "Sweden"
       ],
       "players": [],
-      "score": 98
+      "score": 96
     },
     {
       "id": "49378971",
@@ -795,7 +793,7 @@
         "USA"
       ],
       "players": [],
-      "score": 97
+      "score": 95
     },
     {
       "id": "49378852",
@@ -811,7 +809,7 @@
         "England"
       ],
       "players": [],
-      "score": 97
+      "score": 95
     },
     {
       "id": "49378162",
@@ -827,7 +825,7 @@
         "England"
       ],
       "players": [],
-      "score": 95
+      "score": 93
     },
     {
       "id": "49377186",
@@ -847,7 +845,7 @@
         "Jude Bellingham",
         "Valentín Barco"
       ],
-      "score": 95
+      "score": 93
     },
     {
       "id": "49377607",
@@ -864,7 +862,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49375338",
@@ -881,7 +879,7 @@
         "England"
       ],
       "players": [],
-      "score": 93
+      "score": 91
     }
   ]
 }
