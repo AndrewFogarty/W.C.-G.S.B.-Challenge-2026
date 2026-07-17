@@ -1,13 +1,30 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-17T20:36:51.765Z",
+  "updated": "2026-07-17T21:31:29.306Z",
   "counts": {
-    "celebration": 6,
-    "news": 37,
-    "preview": 3,
-    "offfield": 2
+    "news": 38,
+    "celebration": 5,
+    "preview": 2,
+    "offfield": 3
   },
   "items": [
+    {
+      "id": "49380811",
+      "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
+      "published": "2026-07-17T21:26:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 210
+    },
     {
       "id": "49385575",
       "headline": "Third place matches at the men's World Cup: Winners, results",
@@ -20,30 +37,13 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 212
-    },
-    {
-      "id": "49380811",
-      "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
-      "published": "2026-07-17T19:35:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 198
+      "score": 200
     },
     {
       "id": "49385606",
       "headline": "Didier Deschamps confirms Kylian Mbappé 'available' for third place playoff with Golden Boot in sights",
       "description": "Didier Deschamps confirmed Kylian Mbappe is \"available\" for the World Cup third place playoff with England and highlighted his plans to make changes in his final match as France boss.",
-      "published": "2026-07-17T19:00:34Z",
+      "published": "2026-07-17T20:42:00Z",
       "url": "https://www.espn.com/soccer/story/_/id/49385606/deschamps-confirms-mbappe-available-third-place-playoff-golden-boot-sights",
       "image": "https://a.espncdn.com/photo/2026/0709/r1687040_1296x729_16-9.jpg",
       "byline": "PA",
@@ -57,13 +57,13 @@
         "Kylian Mbappé",
         "Ibrahima Konaté"
       ],
-      "score": 191
+      "score": 192
     },
     {
       "id": "49385557",
       "headline": "Pique: Yamal ahead of where Messi was at age 19",
       "description": "Pique: Yamal ahead of where Messi was at age 19",
-      "published": "2026-07-17T18:47:33Z",
+      "published": "2026-07-17T21:06:54Z",
       "url": "https://www.espn.com/video/clip/_/id/49385557/yamal-ahead-where-messi-was-age-19",
       "image": "https://a.espncdn.com/media/motion/2026/0717/ss_20260717_143814555_3595678879/ss_20260717_143814555_3595678879.jpg",
       "byline": null,
@@ -76,7 +76,7 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 189
+      "score": 191
     },
     {
       "id": "49385416",
@@ -95,7 +95,7 @@
       "players": [
         "Mikel Merino"
       ],
-      "score": 169
+      "score": 168
     },
     {
       "id": "49384849",
@@ -111,7 +111,27 @@
         "USA"
       ],
       "players": [],
-      "score": 156
+      "score": 155
+    },
+    {
+      "id": "49385488",
+      "headline": "World Cup breakout star Johan Manzambi joins Aston Villa",
+      "description": "World Cup breakout star Johan Manzambi joined Champions League-bound Aston Villa on Friday in a record transfer deal for a Swiss player.",
+      "published": "2026-07-17T18:54:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49385488/world-cup-breakout-star-johan-manzambi-aston-villa",
+      "image": "https://a.espncdn.com/photo/2026/0622/r1677812_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "France",
+        "Switzerland"
+      ],
+      "players": [
+        "Johan Manzambi",
+        "Kylian Mbappé"
+      ],
+      "score": 141
     },
     {
       "id": "49384614",
@@ -127,7 +147,27 @@
         "England"
       ],
       "players": [],
-      "score": 143
+      "score": 141
+    },
+    {
+      "id": "49381951",
+      "headline": "Transfer rumors, news: Porro's World Cup for Spain catches Barça's eye",
+      "description": "The Pedro Porro-Lamine Yamal partnership has been a boon for Spain at this World Cup, and Barça want to reunite the pair. Transfer Talk has the latest.",
+      "published": "2026-07-17T17:31:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49381951/transfer-rumors-news-arsenal-accelerate-morgan-rogers-aston-villa-christos-tzolis",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689231_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "France",
+        "Spain"
+      ],
+      "players": [
+        "Pedro Porro",
+        "Kylian Mbappé"
+      ],
+      "score": 139
     },
     {
       "id": "49384171",
@@ -144,26 +184,45 @@
         "Spain"
       ],
       "players": [],
-      "score": 136
+      "score": 134
     },
     {
-      "id": "49384050",
-      "headline": "Dominik Szoboszlai commits Liverpool future with new long-term contract",
-      "description": "Liverpool midfielder Dominik Szoboszlai has signed a new long-term contract at Anfield.",
-      "published": "2026-07-17T14:00:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49384050/dominik-szoboszlai-commits-liverpool-future-new-long-term-contract",
-      "image": "https://a.espncdn.com/photo/2026/0404/r1638408_4_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49385168",
+      "headline": "Source: MLS down to 3 names to replace commissioner Garber",
+      "description": "The list of candidates to succeed Don Garber as MLS commissioner is down to three, with LAFC co-owner Larry Berg, 49ers Enterprises president Paraag Marathe and former Fox executive David Nathanson the three finalists, a source confirmed to ESPN.",
+      "published": "2026-07-17T19:04:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49385168/mls-3-names-replace-commissioner-garber",
+      "image": "https://a.espncdn.com/photo/2025/1205/r1585009_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "France"
       ],
       "players": [
-        "Dominik Szoboszlai",
         "Kylian Mbappé"
       ],
-      "score": 135
+      "score": 129
+    },
+    {
+      "id": "49375075",
+      "headline": "2026 World Cup final: Best bets for Spain vs. Argentina",
+      "description": "Looking to place some bets for the World Cup final? Take a look at what our experts are considering.",
+      "published": "2026-07-17T18:26:41Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49375075/fifa-world-cup-betting-final-round-best-bets-picks-odds-props-futures-2026-spain-argentina",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690489_576x324_16-9.jpg",
+      "byline": "Victoria Matiash and Liz Loza",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Spain",
+        "Argentina"
+      ],
+      "players": [
+        "Kylian Mbappé"
+      ],
+      "score": 128
     },
     {
       "id": "49379413",
@@ -180,26 +239,6 @@
       ],
       "players": [
         "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49375075",
-      "headline": "2026 World Cup Final: Best bets for Spain vs. Argentina",
-      "description": "Looking to place some bets for the World Cup Final? Take a look at what our experts are considering.",
-      "published": "2026-07-17T17:06:55Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49375075/fifa-world-cup-betting-final-round-best-bets-picks-odds-props-futures-2026-spain-argentina",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690489_576x324_16-9.jpg",
-      "byline": "Victoria Matiash and Liz Loza",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Spain",
-        "Argentina"
-      ],
-      "players": [
-        "Kylian Mbappé"
       ],
       "score": 128
     },
@@ -218,7 +257,7 @@
         "France"
       ],
       "players": [],
-      "score": 124
+      "score": 123
     },
     {
       "id": "49382484",
@@ -234,7 +273,7 @@
         "USA"
       ],
       "players": [],
-      "score": 123
+      "score": 122
     },
     {
       "id": "49384172",
@@ -247,12 +286,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "France"
+        "Spain"
       ],
       "players": [
-        "Kylian Mbappé"
+        "Lamine Yamal"
       ],
-      "score": 123
+      "score": 122
     },
     {
       "id": "48636037",
@@ -271,7 +310,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 122
+      "score": 121
     },
     {
       "id": "49352194",
@@ -285,7 +324,7 @@
       "kindLabel": "Match preview",
       "teams": [],
       "players": [],
-      "score": 119
+      "score": 118
     },
     {
       "id": "49382483",
@@ -303,7 +342,7 @@
       "players": [
         "Declan Rice"
       ],
-      "score": 117
+      "score": 116
     },
     {
       "id": "40532807",
@@ -323,7 +362,7 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 117
+      "score": 116
     },
     {
       "id": "49382615",
@@ -340,7 +379,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 116
+      "score": 115
     },
     {
       "id": "49383212",
@@ -357,7 +396,25 @@
         "Spain"
       ],
       "players": [],
-      "score": 116
+      "score": 115
+    },
+    {
+      "id": "49376001",
+      "headline": "Just tuning in for World Cup final? Let's catch you up on what you've missed",
+      "description": "For those who are just tuning in, here are the highlights of the World Cup so far, from Lionel Messi heroics and underdog upsets to brave USMNT performances.",
+      "published": "2026-07-17T10:49:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49376001/just-tuning-world-cup-final-let-catch-what-missed",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690357_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina",
+        "USA"
+      ],
+      "players": [],
+      "score": 114
     },
     {
       "id": "49382231",
@@ -376,25 +433,7 @@
       "players": [
         "Jude Bellingham"
       ],
-      "score": 116
-    },
-    {
-      "id": "49376001",
-      "headline": "Just tuning in for World Cup final? Let's catch you up on what you've missed",
-      "description": "For those who are just tuning in, here are the highlights of the World Cup so far, from Lionel Messi heroics and underdog upsets to brave USMNT performances.",
-      "published": "2026-07-17T10:49:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49376001/just-tuning-world-cup-final-let-catch-what-missed",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690357_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina",
-        "USA"
-      ],
-      "players": [],
-      "score": 115
+      "score": 114
     },
     {
       "id": "49377661",
@@ -410,7 +449,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 112
+      "score": 111
     },
     {
       "id": "49382182",
@@ -427,7 +466,21 @@
         "Argentina"
       ],
       "players": [],
-      "score": 112
+      "score": 111
+    },
+    {
+      "id": "48769330",
+      "headline": "Prepare yourself for the ultimate day of sport -- mark your calendars",
+      "description": "Mark down July 19 into your calendars as a day you need to be in front of the TV watching a day of sport that will go down in history.",
+      "published": "2026-07-17T06:39:21Z",
+      "url": "https://www.espn.com/golf/story/_/id/48769330/prepare-ultimate-day-sport-mark-calendars-open-belgium-grand-prix-fifa-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658040_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [],
+      "players": [],
+      "score": 111
     },
     {
       "id": "49382105",
@@ -443,21 +496,7 @@
         "England"
       ],
       "players": [],
-      "score": 112
-    },
-    {
-      "id": "48769330",
-      "headline": "Prepare yourself for the ultimate day of sport -- mark your calendars",
-      "description": "Mark down July 19 into your calendars as a day you need to be in front of the TV watching a day of sport that will go down in history.",
-      "published": "2026-07-17T06:39:21Z",
-      "url": "https://www.espn.com/golf/story/_/id/48769330/prepare-ultimate-day-sport-mark-calendars-open-belgium-grand-prix-fifa-world-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/0514/r1658040_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [],
-      "players": [],
-      "score": 112
+      "score": 110
     },
     {
       "id": "48352807",
@@ -517,7 +556,7 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 111
+      "score": 109
     },
     {
       "id": "48945011",
@@ -531,7 +570,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 105
+      "score": 104
     },
     {
       "id": "48945570",
@@ -545,7 +584,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 105
+      "score": 104
     },
     {
       "id": "49373548",
@@ -561,7 +600,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 104
+      "score": 102
     },
     {
       "id": "49375290",
@@ -578,7 +617,7 @@
         "England"
       ],
       "players": [],
-      "score": 102
+      "score": 100
     },
     {
       "id": "49380261",
@@ -594,7 +633,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 99
+      "score": 97
     },
     {
       "id": "49379737",
@@ -613,7 +652,7 @@
         "Switzerland"
       ],
       "players": [],
-      "score": 98
+      "score": 97
     },
     {
       "id": "48939282",
@@ -631,7 +670,7 @@
         "USA"
       ],
       "players": [],
-      "score": 97
+      "score": 96
     },
     {
       "id": "49379953",
@@ -648,7 +687,7 @@
         "England"
       ],
       "players": [],
-      "score": 97
+      "score": 96
     },
     {
       "id": "49379951",
@@ -665,7 +704,7 @@
         "England"
       ],
       "players": [],
-      "score": 97
+      "score": 96
     },
     {
       "id": "49379943",
@@ -682,7 +721,7 @@
         "England"
       ],
       "players": [],
-      "score": 97
+      "score": 96
     },
     {
       "id": "49379948",
@@ -699,7 +738,7 @@
         "England"
       ],
       "players": [],
-      "score": 97
+      "score": 96
     },
     {
       "id": "49378771",
@@ -718,7 +757,24 @@
       "players": [
         "Tim Ream"
       ],
-      "score": 97
+      "score": 96
+    },
+    {
+      "id": "49379130",
+      "headline": "Pelé's 1958 World Cup final jersey sells for $4.9M at auction",
+      "description": "The jersey Pelé wore during Brazil's 5-2 victory over Sweden in the 1958 FIFA World Cup final sold at Sotheby's for $4.88 million on Thursday.",
+      "published": "2026-07-16T21:17:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49379130/pele-1958-world-cup-final-brazil-jersey-auction-price",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1690177_1296x729_16-9.jpg",
+      "byline": "Dan Hajducky",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "Sweden"
+      ],
+      "players": [],
+      "score": 94
     },
     {
       "id": "49378610",
@@ -738,24 +794,7 @@
         "Lamine Yamal",
         "Pedro Porro"
       ],
-      "score": 96
-    },
-    {
-      "id": "49379130",
-      "headline": "Pelé's 1958 World Cup final jersey sells for $4.9M at auction",
-      "description": "The jersey Pelé wore during Brazil's 5-2 victory over Sweden in the 1958 FIFA World Cup final sold at Sotheby's for $4.88 million on Thursday.",
-      "published": "2026-07-16T21:17:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49379130/pele-1958-world-cup-final-brazil-jersey-auction-price",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1690177_1296x729_16-9.jpg",
-      "byline": "Dan Hajducky",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil",
-        "Sweden"
-      ],
-      "players": [],
-      "score": 95
+      "score": 94
     },
     {
       "id": "49378971",
@@ -771,7 +810,7 @@
         "USA"
       ],
       "players": [],
-      "score": 94
+      "score": 93
     },
     {
       "id": "49378852",
@@ -787,7 +826,7 @@
         "England"
       ],
       "players": [],
-      "score": 94
+      "score": 92
     },
     {
       "id": "49378162",
@@ -803,7 +842,7 @@
         "England"
       ],
       "players": [],
-      "score": 92
+      "score": 90
     },
     {
       "id": "49377186",
@@ -823,23 +862,6 @@
         "Jude Bellingham",
         "Valentín Barco"
       ],
-      "score": 91
-    },
-    {
-      "id": "49375338",
-      "headline": "England Rugby team gestures to fans in Argentina ahead of WC semifinal",
-      "description": "England Rugby team gestures to fans in Argentina ahead of WC semifinal",
-      "published": "2026-07-16T11:40:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49375338/england-rugby-team-gestures-fans-argentina-ahead-wc-semifinal",
-      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_News_England_Rugby_team_gestures_to_fans_in_Argentina_ahead_of_WC_semifinal_20260716_GLO/dm_260716_COM_SOC_News_England_Rugby_team_gestures_to_fans_in_Argentina_ahead_of_WC_semifinal_20260716_GLO.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
       "score": 90
     },
     {
@@ -857,24 +879,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 89
-    },
-    {
-      "id": "49375118",
-      "headline": "Argentina fans flood Buenos Aires to celebrate WC semifinal victory",
-      "description": "Argentina fans flood Buenos Aires to celebrate WC semifinal victory",
-      "published": "2026-07-16T10:56:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49375118/argentina-fans-flood-buenos-aires-celebrate-wc-semifinal-victory",
-      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Misc_Argentina_fans_flood_Buenos_Aires_to_celebrate_WC_semifinal_victory_20260716_GLOBAL/dm_260716_COM_SOC_Misc_Argentina_fans_flood_Buenos_Aires_to_celebrate_WC_semifinal_victory_20260716_GLOBAL.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 86
+      "score": 88
     }
   ]
 }
