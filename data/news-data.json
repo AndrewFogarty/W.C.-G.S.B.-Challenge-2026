@@ -1,36 +1,19 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-18T22:28:01.054Z",
+  "updated": "2026-07-18T23:30:12.693Z",
   "counts": {
-    "news": 33,
-    "preview": 11,
-    "injury": 1,
-    "offfield": 1,
-    "celebration": 2
+    "news": 28,
+    "celebration": 5,
+    "offfield": 2,
+    "preview": 12,
+    "injury": 1
   },
   "items": [
     {
-      "id": "49257085",
-      "headline": "Kylian Mbappé equals Lionel Messi's all-time World Cup goals record",
-      "description": "Kylian Mbappé has equalled Lionel Messi's all-time World Cup goalscoring record as he scored his 21st goal in the tournament.",
-      "published": "2026-07-18T22:24:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49257085/kylian-mbappe-lionel-messi-all-world-cup-goals-record",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1691006_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Kylian Mbappé",
-        "Lionel Messi"
-      ],
-      "score": 209
-    },
-    {
       "id": "49387153",
-      "headline": "World Cup Daily live: France, England play for third place; Messi, Brady in KD's all-star selfie",
-      "description": "Enjoy all the features, news, video analysis and color from around the World Cup as we decide who finishes in third place between England and France.",
-      "published": "2026-07-18T21:40:08Z",
+      "headline": "World Cup Daily live: England defeat France for third place; Messi, Brady in KD's all-star selfie",
+      "description": "Enjoy all the features, news, video analysis and color from around the World Cup as England edge France in the third-place match.",
+      "published": "2026-07-18T23:26:26Z",
       "url": "https://www.espn.com/soccer/story/_/id/49387153/world-cup-daily-kevin-durant-tom-brady-lionel-messi-selfie-france-england-third-place-playoff",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690743_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -43,7 +26,141 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 202
+      "score": 213
+    },
+    {
+      "id": "49019838",
+      "headline": "Who scored the most goals in men's World Cup history?",
+      "description": "Argentina's Lionel Messi scored the most goals in men's World Cup history. Check out which other soccer stars made the list.",
+      "published": "2026-07-18T23:17:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49019838/who-scored-most-goals-men-world-cup-history",
+      "image": "https://a.espncdn.com/photo/2026/0622/r1677710_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Lionel Messi"
+      ],
+      "score": 200
+    },
+    {
+      "id": "49021847",
+      "headline": "Who scored the most goals in a single men's World Cup?",
+      "description": "Just Fontaine scored the most goals in a single men's World Cup. Check out which other players made the list.",
+      "published": "2026-07-18T23:19:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49021847/who-scored-most-goals-single-men-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670957_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Kylian Mbappé",
+        "Lionel Messi"
+      ],
+      "score": 199
+    },
+    {
+      "id": "49083555",
+      "headline": "France at the men's World Cup: All-time results and stats",
+      "description": "Take a look at the France men's national team's performance throughout the tournament's history.",
+      "published": "2026-07-18T23:17:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49083555/france-men-world-cup-all-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674268_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "France"
+      ],
+      "players": [],
+      "score": 187
+    },
+    {
+      "id": "48979217",
+      "headline": "Kylian Mbappe at the World Cup: History, results, stats",
+      "description": "As Mbappé aims to lead France back to soccer's mountaintop, here is a look at his career at the FIFA World Cup.",
+      "published": "2026-07-18T23:15:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48979217/kylian-mbappe-fifa-world-cup-history-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0602/r1667132_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Kylian Mbappé"
+      ],
+      "score": 170
+    },
+    {
+      "id": "48779774",
+      "headline": "Who has the most assists in the FIFA World Cup?",
+      "description": "Here is a look at the players with the most career assists at the FIFA World Cup since 1966.",
+      "published": "2026-07-18T23:16:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48779774/who-most-assists-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637158_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 166
+    },
+    {
+      "id": "49385575",
+      "headline": "Third place matches at the men's World Cup: Winners, results",
+      "description": "Who has won the third-place playoff at the men's World Cup? Find out all the winners throughout the tournament's history.",
+      "published": "2026-07-18T23:12:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49385575/third-place-matches-men-world-cup-winners-results",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690544_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [],
+      "players": [],
+      "score": 153
+    },
+    {
+      "id": "49257085",
+      "headline": "Kylian Mbappé surpasses Lionel Messi's all-time World Cup goal-scoring record",
+      "description": "Kylian Mbappé has leapfrogged Lionel Messi on the all-time World Cup goal-scoring chart as he scored his 21st and 22nd career goals in the tournament.",
+      "published": "2026-07-18T23:25:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49257085/kylian-mbappe-lionel-messi-all-world-cup-goals-record",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1691006_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Kylian Mbappé",
+        "Lionel Messi"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49392368",
+      "headline": "Chelsea agree £117m deal for Aston Villa's Morgan Rogers - sources",
+      "description": "Chelsea are set to make Morgan Rogers the most expensive player in British history after agreeing a £117 million deal with Aston Villa, sources have told ESPN.",
+      "published": "2026-07-18T19:21:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49392368/chelsea-agree-117m-deal-aston-villa-morgan-rogers-sources-transfer",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690881_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Morgan Rogers",
+        "Lionel Messi"
+      ],
+      "score": 139
     },
     {
       "id": "49394018",
@@ -59,40 +176,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 198
-    },
-    {
-      "id": "49393307",
-      "headline": "Future of hydration breaks undecided - FIFA's Arsène Wenger",
-      "description": "",
-      "published": "2026-07-18T20:42:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49393307/future-hydration-breaks-undecided-fifa-arsene-wenger",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678036_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 173
-    },
-    {
-      "id": "49393019",
-      "headline": "France vs. England: Thomas Tuchel names Ivan Toney in much-changed World Cup team",
-      "description": "Thomas Tuchel has made seven changes to the England team that lost the World Cup semifinal against France on Wednesday.",
-      "published": "2026-07-18T20:43:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49393019/france-vs-england-thomas-tuchel-names-ivan-toney-much-changed-team-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690931_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "France"
-      ],
-      "players": [
-        "Ivan Toney"
-      ],
-      "score": 170
+      "score": 136
     },
     {
       "id": "49392880",
@@ -112,7 +196,23 @@
         "Lionel Messi",
         "Lamine Yamal"
       ],
-      "score": 168
+      "score": 136
+    },
+    {
+      "id": "49391868",
+      "headline": "Is Pochettino holding out for a club job over the USMNT?",
+      "description": "Is Pochettino holding out for a club job over the USMNT?",
+      "published": "2026-07-18T16:42:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49391868/is-pochettino-holding-club-job-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_Is_Pochettino_holding_out_for_a_club_job_over_the_USMNT_20260718_GLOBAL_FIFA_W/dm_260718_COM_SOC_Analysis_Is_Pochettino_holding_out_for_a_club_job_over_the_USMNT_20260718_GLOBAL_FIFA_W.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 134
     },
     {
       "id": "49392587",
@@ -129,7 +229,96 @@
         "Argentina"
       ],
       "players": [],
-      "score": 154
+      "score": 133
+    },
+    {
+      "id": "49391978",
+      "headline": "What time is France vs. England? World Cup July 18 schedule",
+      "description": "What is the World Cup schedule today? Find out more about Saturday's third place match.",
+      "published": "2026-07-18T17:38:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49391978/what-france-vs-england-world-cup-july-18-schedule",
+      "image": "https://a.espncdn.com/photo/2026/0612/r1671843_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "France",
+        "England"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49392165",
+      "headline": "England beat France 6-4 in chaotic third-place World Cup playoff",
+      "description": "England beat France 6-4 in chaotic third-place World Cup playoff on Saturday in Miami.",
+      "published": "2026-07-18T23:26:06Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/760516",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690990_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "England"
+      ],
+      "players": [],
+      "score": 130
+    },
+    {
+      "id": "49393769",
+      "headline": "England hold off France in all-time World Cup classic to win third-place playoff",
+      "description": "Bukayo Saka's hat trick helped England survive a dramatic second-half comeback to beat France 6-4 in Saturday's chaotic third-place playoff.",
+      "published": "2026-07-18T23:15:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49393769/england-hold-france-all-world-cup-classic-win-third-place-playoff-kylian-mbappe-bukayo-saka",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1691024_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "France"
+      ],
+      "players": [],
+      "score": 130
+    },
+    {
+      "id": "49391152",
+      "headline": "Spain's Aymeric Laporte suggests Argentina often 'leave one in' on opponents",
+      "description": "Ahead of the World Cup final Sunday, Spain defender Aymeric Laporte has suggested that Argentina are prone to using \"aggressive tactics\" in games.",
+      "published": "2026-07-18T17:18:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49391152/spain-argentina-world-cup-final-2026-aymeric-laporte",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690802_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 130
+    },
+    {
+      "id": "49393019",
+      "headline": "France vs. England: Thomas Tuchel names Ivan Toney in much-changed World Cup team",
+      "description": "Thomas Tuchel has made seven changes to the England team that lost the World Cup semifinal against France on Wednesday.",
+      "published": "2026-07-18T20:43:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49393019/france-vs-england-thomas-tuchel-names-ivan-toney-much-changed-team-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690931_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "France"
+      ],
+      "players": [
+        "Ivan Toney"
+      ],
+      "score": 129
     },
     {
       "id": "49392007",
@@ -147,40 +336,64 @@
       "players": [
         "Emiliano Martínez"
       ],
-      "score": 138
+      "score": 127
     },
     {
-      "id": "49391868",
-      "headline": "Is Pochettino holding out for a club job over the USMNT?",
-      "description": "Is Pochettino holding out for a club job over the USMNT?",
-      "published": "2026-07-18T16:42:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/49391868/is-pochettino-holding-club-job-usmnt",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_Is_Pochettino_holding_out_for_a_club_job_over_the_USMNT_20260718_GLOBAL_FIFA_W/dm_260718_COM_SOC_Analysis_Is_Pochettino_holding_out_for_a_club_job_over_the_USMNT_20260718_GLOBAL_FIFA_W.jpg",
+      "id": "49392260",
+      "headline": "Gotham-Seattle play with extra hydration breaks, weather delay in NYC",
+      "description": "The NWSL implemented two hydration breaks per half at a Gotham FC game in New York City for the second time in four days on Saturday due to poor air quality from smoke blown in by distant Canadian wildfires.",
+      "published": "2026-07-18T19:01:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49392260/gotham-seattle-play-extra-hydration-breaks-lightning-delay-nyc",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690870_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49392595",
+      "headline": "Onuoha: Morgan Rogers joining Chelsea is Alonso's statement of intent",
+      "description": "Onuoha: Morgan Rogers joining Chelsea is Alonso's statement of intent",
+      "published": "2026-07-18T18:54:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49392595/morgan-rogers-joining-chelsea-alonso-statement-intent",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Onuoha_Morgan_Rogers_joining_Chelsea_is_Alonsos_statement_of_intent/dm_260718_Onuoha_Morgan_Rogers_joining_Chelsea_is_Alonsos_statement_of_intent.jpg",
       "byline": null,
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "USA"
+        "France"
       ],
-      "players": [],
-      "score": 135
+      "players": [
+        "Morgan Rogers",
+        "Lionel Messi"
+      ],
+      "score": 126
     },
     {
-      "id": "49391152",
-      "headline": "Spain's Aymeric Laporte suggests Argentina often 'leave one in' on opponents",
-      "description": "Ahead of the World Cup final Sunday, Spain defender Aymeric Laporte has suggested that Argentina are prone to using \"aggressive tactics\" in games.",
-      "published": "2026-07-18T17:18:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49391152/spain-argentina-world-cup-final-2026-aymeric-laporte",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690802_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49392372",
+      "headline": "Wrexham beat Man United in Helsinki friendly as Andrey Santos makes strong debut",
+      "description": "Andrey Santos made a bright first Manchester United appearance as they fell to a 1-0 preseason friendly loss to Wrexham in Helsinki.",
+      "published": "2026-07-18T18:44:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49392372/wrexham-manchester-united-friendly-result-recap-helsinki-preseason",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690888_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Spain",
-        "Argentina"
+        "France"
       ],
-      "players": [],
-      "score": 131
+      "players": [
+        "Andrey Santos",
+        "Sam Smith",
+        "Lionel Messi"
+      ],
+      "score": 126
     },
     {
       "id": "49381908",
@@ -200,7 +413,21 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 125
+      "score": 123
+    },
+    {
+      "id": "49393307",
+      "headline": "Future of hydration breaks undecided - FIFA's Arsène Wenger",
+      "description": "",
+      "published": "2026-07-18T20:42:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49393307/future-hydration-breaks-undecided-fifa-arsene-wenger",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678036_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 122
     },
     {
       "id": "49387821",
@@ -220,7 +447,42 @@
         "Lionel Messi",
         "Lamine Yamal"
       ],
-      "score": 121
+      "score": 119
+    },
+    {
+      "id": "49391213",
+      "headline": "Asking Barcelona locals if they want Yamal or Messi to win the World Cup",
+      "description": "Asking Barcelona locals if they want Yamal or Messi to win the World Cup",
+      "published": "2026-07-18T14:41:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/49391213/asking-barcelona-locals-want-yamal-messi-win-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_fans_Asking_Barcelona_locals_if_they_want_Yamal_or_Messi_to_win_the_World_Cup_GLOBAL_2026-/dm_260718_COM_SOC_fans_Asking_Barcelona_locals_if_they_want_Yamal_or_Messi_to_win_the_World_Cup_GLOBAL_2026-.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 117
+    },
+    {
+      "id": "49389517",
+      "headline": "John Stones: England experiencing \"suffering, pain\" after World Cup despair",
+      "description": "John Stones truly felt England could win the World Cup and has yet to process the devastating semifinal loss to Argentina ahead of their bronze medal meeting with France.",
+      "published": "2026-07-18T08:35:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49389517/john-stones-england-experiencing-suffering-pain-world-cup-despair",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690729_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "France",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 117
     },
     {
       "id": "49389236",
@@ -240,24 +502,7 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 119
-    },
-    {
-      "id": "49391213",
-      "headline": "Asking Barcelona locals if they want Yamal or Messi to win the World Cup",
-      "description": "Asking Barcelona locals if they want Yamal or Messi to win the World Cup",
-      "published": "2026-07-18T14:41:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/49391213/asking-barcelona-locals-want-yamal-messi-win-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_fans_Asking_Barcelona_locals_if_they_want_Yamal_or_Messi_to_win_the_World_Cup_GLOBAL_2026-/dm_260718_COM_SOC_fans_Asking_Barcelona_locals_if_they_want_Yamal_or_Messi_to_win_the_World_Cup_GLOBAL_2026-.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 118
+      "score": 117
     },
     {
       "id": "48939282",
@@ -275,43 +520,7 @@
         "USA"
       ],
       "players": [],
-      "score": 118
-    },
-    {
-      "id": "49389517",
-      "headline": "John Stones: England experiencing \"suffering, pain\" after World Cup despair",
-      "description": "John Stones truly felt England could win the World Cup and has yet to process the devastating semifinal loss to Argentina ahead of their bronze medal meeting with France.",
-      "published": "2026-07-18T08:35:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49389517/john-stones-england-experiencing-suffering-pain-world-cup-despair",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690729_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "France",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 118
-    },
-    {
-      "id": "49163915",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "published": "2026-07-18T11:41:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 117
+      "score": 116
     },
     {
       "id": "49385857",
@@ -330,7 +539,7 @@
       "players": [
         "Rodri"
       ],
-      "score": 116
+      "score": 115
     },
     {
       "id": "49386315",
@@ -346,7 +555,26 @@
         "England"
       ],
       "players": [],
-      "score": 115
+      "score": 113
+    },
+    {
+      "id": "49388164",
+      "headline": "Messi, Scaloni shrug off World Cup final pressure at star-studded event",
+      "description": "Lionel Messi, Lionel Scaloni, and Emiliano Martinez attended a star-studded event in New York on Friday ahead of the World Cup final, downplaying the pressure to defend their title on Sunday against Spain.",
+      "published": "2026-07-18T03:55:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49388164/argentina-messi-scaloni-shrug-world-cup-final-pressure-star-studded-event",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690696_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 113
     },
     {
       "id": "48352807",
@@ -406,26 +634,7 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 114
-    },
-    {
-      "id": "49388164",
-      "headline": "Messi, Scaloni shrug off World Cup final pressure at star-studded event",
-      "description": "Lionel Messi, Lionel Scaloni, and Emiliano Martinez attended a star-studded event in New York on Friday ahead of the World Cup final, downplaying the pressure to defend their title on Sunday against Spain.",
-      "published": "2026-07-18T03:55:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49388164/argentina-messi-scaloni-shrug-world-cup-final-pressure-star-studded-event",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690696_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 114
+      "score": 112
     },
     {
       "id": "49390159",
@@ -441,7 +650,7 @@
         "France"
       ],
       "players": [],
-      "score": 113
+      "score": 111
     },
     {
       "id": "49387156",
@@ -459,7 +668,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 112
+      "score": 110
     },
     {
       "id": "49363512",
@@ -476,7 +685,21 @@
         "Argentina"
       ],
       "players": [],
-      "score": 110
+      "score": 108
+    },
+    {
+      "id": "48769330",
+      "headline": "Prepare yourself for the ultimate day of sport -- mark your calendars",
+      "description": "Mark down July 19 into your calendars as a day you need to be in front of the TV watching a day of sport that will go down in history.",
+      "published": "2026-07-18T06:34:31Z",
+      "url": "https://www.espn.com/golf/story/_/id/48769330/prepare-ultimate-day-sport-mark-calendars-open-belgium-grand-prix-fifa-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658040_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [],
+      "players": [],
+      "score": 108
     },
     {
       "id": "49389483",
@@ -492,21 +715,7 @@
         "England"
       ],
       "players": [],
-      "score": 109
-    },
-    {
-      "id": "48769330",
-      "headline": "Prepare yourself for the ultimate day of sport -- mark your calendars",
-      "description": "Mark down July 19 into your calendars as a day you need to be in front of the TV watching a day of sport that will go down in history.",
-      "published": "2026-07-18T06:34:31Z",
-      "url": "https://www.espn.com/golf/story/_/id/48769330/prepare-ultimate-day-sport-mark-calendars-open-belgium-grand-prix-fifa-world-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/0514/r1658040_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [],
-      "players": [],
-      "score": 109
+      "score": 107
     },
     {
       "id": "49389431",
@@ -524,7 +733,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 108
+      "score": 107
     },
     {
       "id": "49389338",
@@ -542,7 +751,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "49382615",
@@ -559,7 +768,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 106
+      "score": 104
     },
     {
       "id": "49385557",
@@ -578,7 +787,7 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 104
+      "score": 102
     },
     {
       "id": "48945011",
@@ -592,7 +801,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 102
+      "score": 101
     },
     {
       "id": "48945570",
@@ -606,7 +815,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 102
+      "score": 100
     },
     {
       "id": "49387604",
@@ -622,7 +831,7 @@
         "England"
       ],
       "players": [],
-      "score": 101
+      "score": 99
     },
     {
       "id": "49386932",
@@ -638,7 +847,7 @@
         "England"
       ],
       "players": [],
-      "score": 100
+      "score": 99
     },
     {
       "id": "49387336",
@@ -655,27 +864,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 97
-    },
-    {
-      "id": "49386817",
-      "headline": "Moreno: Yamal needs to elevate his game against Messi",
-      "description": "Moreno: Yamal needs to elevate his game against Messi",
-      "published": "2026-07-17T22:28:31Z",
-      "url": "https://www.espn.com/video/clip/_/id/49386817/yamal-needs-elevate-game-messi",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Moreno_Yamal_needs_to_elevate_his_game_against_Messi/dm_260717_Moreno_Yamal_needs_to_elevate_his_game_against_Messi.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Lionel Messi"
-      ],
-      "score": 97
+      "score": 96
     },
     {
       "id": "49380811",
@@ -692,189 +881,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 96
-    },
-    {
-      "id": "49386867",
-      "headline": "Hislop: I'll believe Pochettino stays at USMNT when I see it",
-      "description": "Hislop: I'll believe Pochettino stays at USMNT when I see it",
-      "published": "2026-07-17T22:42:47Z",
-      "url": "https://www.espn.com/video/clip/_/id/49386867/believe-pochettino-stays-usmnt-see-it",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Hislop_Ill_believe_Pochettino_stays_at_USMNT_when_I_see_it/dm_260717_Hislop_Ill_believe_Pochettino_stays_at_USMNT_when_I_see_it.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 94
-    },
-    {
-      "id": "49386822",
-      "headline": "Hislop: WC final will be Spain's tactics vs. Argentina's pure grit",
-      "description": "Hislop: WC final will be Spain's tactics vs. Argentina's pure grit",
-      "published": "2026-07-17T22:29:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49386822/wc-final-spain-tactics-vs-argentina-pure-grit",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Hislop_WC_final_will_be_Spains_tactics_vs_Argentinas_pure_grit/dm_260717_Hislop_WC_final_will_be_Spains_tactics_vs_Argentinas_pure_grit.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 94
-    },
-    {
-      "id": "49386787",
-      "headline": "Moreno: England were scared to win",
-      "description": "Moreno: England were scared to win",
-      "published": "2026-07-17T22:21:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/49386787/england-were-scared-win",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Moreno_England_were_scared_to_win/dm_260717_Moreno_England_were_scared_to_win.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 94
-    },
-    {
-      "id": "49385606",
-      "headline": "Didier Deschamps confirms Kylian Mbappé 'available' for third place playoff with Golden Boot in sights",
-      "description": "Didier Deschamps confirmed Kylian Mbappe is \"available\" for the World Cup third place playoff with England and highlighted his plans to make changes in his final match as France boss.",
-      "published": "2026-07-17T20:42:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49385606/deschamps-confirms-mbappe-available-third-place-playoff-golden-boot-sights",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687040_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "England"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Ibrahima Konaté"
-      ],
-      "score": 94
-    },
-    {
-      "id": "49385575",
-      "headline": "Third place matches at the men's World Cup: Winners, results",
-      "description": "Who has won the third-place playoff at the men's World Cup? Find out all the winners throughout the tournament's history.",
-      "published": "2026-07-17T19:51:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49385575/third-place-matches-men-world-cup-winners-results",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690544_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [],
-      "players": [],
-      "score": 93
-    },
-    {
-      "id": "49386705",
-      "headline": "FIFA president Infantino proclaims World Cup a success at U.N.",
-      "description": "FIFA President Gianni Infantino deemed the FIFA World Cup a success on Friday, saying the tournament achieved its mission of uniting people from all corners of the globe.",
-      "published": "2026-07-17T23:37:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49386705/fifa-president-infantino-proclaims-world-cup-success-un",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690607_1024x576_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 92
-    },
-    {
-      "id": "49385416",
-      "headline": "Merino: The strength of Spain is that we are a team",
-      "description": "Merino: The strength of Spain is that we are a team",
-      "published": "2026-07-17T18:15:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49385416/strength-spain-are-team",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Merino_The_strength_of_Spain_is_that_we_are_a_team/dm_260717_Merino_The_strength_of_Spain_is_that_we_are_a_team.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Mikel Merino"
-      ],
-      "score": 91
-    },
-    {
-      "id": "49384849",
-      "headline": "World Cup beer sales hopping for host cities across U.S.",
-      "description": "The World Cup has been a bonanza for beer in the U.S., with host cities reporting a 14% bump in sales at bars, restaurants and stadiums in the first four weeks of the tournament.",
-      "published": "2026-07-17T18:04:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49384849/world-cup-beer-sales-hopping-host-cities-us",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690494_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 87
-    },
-    {
-      "id": "49384171",
-      "headline": "Sources: No concerns about World Cup final despite air quality issues",
-      "description": "The World Cup final is not under any threat despite the air quality warnings in the area, sources told ESPN.",
-      "published": "2026-07-17T17:40:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49384171/no-concerns-world-cup-final-air-quality-issues-sources",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690431_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 87
-    },
-    {
-      "id": "49382484",
-      "headline": "Mauricio Pochettino to make decision on USMNT future next week",
-      "description": "Mauricio Pochettino said he will make a decision regarding his future as coach of the United States national team next week.",
-      "published": "2026-07-17T15:58:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49382484/mauricio-pochettino-make-decision-usmnt-future-next-week",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675847_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 84
-    },
-    {
-      "id": "49384614",
-      "headline": "Gary Neville has 'big problem' with Thomas Tuchel's England 'DNA' comment",
-      "description": "Former England defender Gary Neville has said he has a \"big problem\" with Thomas Tuchel suggesting England's \"DNA\" needs to change in major tournaments.",
-      "published": "2026-07-17T15:42:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49384614/gary-neville-big-problem-thomas-tuchel-england-dna-comment",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684648_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 84
+      "score": 95
     }
   ]
 }
