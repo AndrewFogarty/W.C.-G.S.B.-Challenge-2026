@@ -1,18 +1,37 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-18T10:53:06.042Z",
+  "updated": "2026-07-18T11:51:10.592Z",
   "counts": {
     "news": 34,
     "preview": 8,
-    "celebration": 5,
-    "offfield": 1
+    "offfield": 2,
+    "celebration": 4
   },
   "items": [
+    {
+      "id": "49385857",
+      "headline": "Back to his best, Rodri has powered Spain to World Cup final",
+      "description": "Other Spain players get the attention, but midfielder Rodri is the key to them stopping Lionel Messi and Argentina.",
+      "published": "2026-07-18T11:13:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49385857/back-best-rodri-powered-spain-2026-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690558_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [
+        "Rodri"
+      ],
+      "score": 212
+    },
     {
       "id": "49387153",
       "headline": "World Cup Daily live: Messi, Brady in Durant's all-star selfie; France, England play for third place",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as we decide who finishes in third place between England and France.",
-      "published": "2026-07-18T09:59:38Z",
+      "published": "2026-07-18T11:17:04Z",
       "url": "https://www.espn.com/soccer/story/_/id/49387153/world-cup-daily-kevin-durant-tom-brady-lionel-messi-selfie-france-england-third-place-playoff",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690743_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -25,7 +44,103 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 212
+      "score": 202
+    },
+    {
+      "id": "49381908",
+      "headline": "Who wins World Cup final battle between Messi and Yamal? We do",
+      "description": "We've all seen the image of Lionel Messi bathing Lamine Yamal, and amazingly, both men will go head-to-head in Sunday's World Cup final. Will Yamal take the crown, or will the veteran magician retain his place as the GOAT?",
+      "published": "2026-07-18T11:02:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49381908/world-cup-final-spain-argentina-lamine-yamal-lionel-messi-gab-marcotti",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690755_1296x729_16-9.jpg",
+      "byline": "Gabriele Marcotti",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Lionel Messi"
+      ],
+      "score": 201
+    },
+    {
+      "id": "48352807",
+      "headline": "World Cup kit ranking: Which teams will look best in 2026?",
+      "description": "The 2026 World Cup will be the first with 48 teams, bringing a total of more than 100 kits! Here they all are, ranked from worst to first.",
+      "published": "2026-07-18T11:42:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637137_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Algeria",
+        "Argentina",
+        "Australia",
+        "Austria",
+        "Brazil",
+        "Belgium",
+        "Canada",
+        "Colombia",
+        "DR Congo",
+        "Croatia",
+        "Curaçao",
+        "Czechia",
+        "Ecuador",
+        "Egypt",
+        "England",
+        "France",
+        "Germany",
+        "Ghana",
+        "Haiti",
+        "Iraq",
+        "IR Iran",
+        "Côte d'Ivoire",
+        "Japan",
+        "Jordan",
+        "Mexico",
+        "Morocco",
+        "New Zealand",
+        "Netherlands",
+        "Norway",
+        "Panama",
+        "Paraguay",
+        "Portugal",
+        "Qatar",
+        "Saudi Arabia",
+        "Scotland",
+        "Senegal",
+        "Spain",
+        "South Africa",
+        "Korea Republic",
+        "Sweden",
+        "Switzerland",
+        "Tunisia",
+        "Uruguay",
+        "USA",
+        "Uzbekistan"
+      ],
+      "players": [],
+      "score": 180
+    },
+    {
+      "id": "49390159",
+      "headline": "Deschamps reflects on final game as France head coach",
+      "description": "Deschamps reflects on final game as France head coach",
+      "published": "2026-07-18T10:57:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/49390159/deschamps-reflects-final-game-france-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Deschamps_reflects_on_final_game_as_France_head_coach/dm_260718_Deschamps_reflects_on_final_game_as_France_head_coach.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [],
+      "score": 169
     },
     {
       "id": "49363512",
@@ -42,7 +157,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 197
+      "score": 156
     },
     {
       "id": "49389517",
@@ -60,79 +175,27 @@
         "Argentina"
       ],
       "players": [],
-      "score": 196
+      "score": 154
     },
     {
-      "id": "49389483",
-      "headline": "Wayne Rooney rows down river after losing bet at World Cup",
-      "description": "Wayne Rooney rowed down a river on Saturday morning after honouring a lost bet at the World Cup.",
-      "published": "2026-07-18T08:17:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49389483/wayne-rooney-rows-river-losing-bet-world-cup",
-      "image": "https://a.espncdn.com/photo/2025/1024/r1565123_1296x729_16-9.jpg",
+      "id": "49389509",
+      "headline": "Transfer rumors, news: Barcelona, Real Madrid want Romero",
+      "description": "Argentina defender Cristian Romero is set to leave Tottenham amid interest from clubs including Barcelona and Real Madrid. Transfer Talk has the latest.",
+      "published": "2026-07-18T08:55:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49389509/transfer-rumors-news-barcelona-real-madrid-atletico-inter-milan-tottenham-argentina-cristian-romero",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690735_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 176
-    },
-    {
-      "id": "49389431",
-      "headline": "Trump questions Kane's 'defensive' role in England's WC exit to Argentina",
-      "description": "Trump questions Kane's 'defensive' role in England's WC exit to Argentina",
-      "published": "2026-07-18T08:03:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49389431/trump-questions-kane-defensive-role-england-wc-exit-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_Trump_questions_Kanes_defensive_role_in_EnglandE28099s_WC_exit_to_Argentina_GLOBAL/dm_260718_COM_SOC_Analysis_Trump_questions_Kanes_defensive_role_in_EnglandE28099s_WC_exit_to_Argentina_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "France",
+        "Spain",
         "Argentina"
-      ],
-      "players": [],
-      "score": 166
-    },
-    {
-      "id": "49389236",
-      "headline": "Messi gives his take on 'crazy' full-circle Lamine Yamal fixture",
-      "description": "Messi gives his take on 'crazy' full-circle Lamine Yamal fixture.",
-      "published": "2026-07-18T07:03:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49389236/messi-gives-take-crazy-full-circle-lamine-yamal-fixture",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Messi_gives_his_take_on_crazy_full_circle_Lamine_Yamal_fixture/dm_260718_Messi_gives_his_take_on_crazy_full_circle_Lamine_Yamal_fixture.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Spain"
       ],
       "players": [
-        "Lamine Yamal",
-        "Lionel Messi"
+        "Cristian Romero",
+        "Rodri"
       ],
-      "score": 156
-    },
-    {
-      "id": "49389338",
-      "headline": "Tuchel reveals he has 'no regrets' over his decisions vs. Argentina",
-      "description": "Tuchel reveals he has 'no regrets' over his decisions vs. Argentina",
-      "published": "2026-07-18T07:37:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/49389338/tuchel-reveals-no-regrets-decisions-vs-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_Tuchel_reveals_he_has_E216/dm_260718_COM_SOC_Analysis_Tuchel_reveals_he_has_E216.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "France",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 155
+      "score": 141
     },
     {
       "id": "49387821",
@@ -152,72 +215,43 @@
         "Lionel Messi",
         "Lamine Yamal"
       ],
-      "score": 138
-    },
-    {
-      "id": "48769330",
-      "headline": "Prepare yourself for the ultimate day of sport -- mark your calendars",
-      "description": "Mark down July 19 into your calendars as a day you need to be in front of the TV watching a day of sport that will go down in history.",
-      "published": "2026-07-18T06:34:31Z",
-      "url": "https://www.espn.com/golf/story/_/id/48769330/prepare-ultimate-day-sport-mark-calendars-open-belgium-grand-prix-fifa-world-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/0514/r1658040_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [],
-      "players": [],
       "score": 137
     },
     {
-      "id": "49154575",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "published": "2026-07-18T06:32:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "byline": "Grace Allen",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49389483",
+      "headline": "Wayne Rooney rows down river after losing bet at World Cup",
+      "description": "Wayne Rooney rowed down a river on Saturday morning after honouring a lost bet at the World Cup.",
+      "published": "2026-07-18T08:17:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49389483/wayne-rooney-rows-river-losing-bet-world-cup",
+      "image": "https://a.espncdn.com/photo/2025/1024/r1565123_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "France"
+        "England"
       ],
-      "players": [
-        "Lionel Messi"
-      ],
+      "players": [],
       "score": 135
     },
     {
-      "id": "49152393",
-      "headline": "World Cup 2026: Which teams have been eliminated?",
-      "description": "The biggest World Cup in history featuring 48 teams is shrinking fast. Which nations have been condemned to elimination?",
-      "published": "2026-07-18T06:23:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49152393/world-cup-2026-which-teams-eliminated",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685550_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49389236",
+      "headline": "Messi gives his take on 'crazy' full-circle Lamine Yamal fixture",
+      "description": "Messi gives his take on 'crazy' full-circle Lamine Yamal fixture.",
+      "published": "2026-07-18T07:03:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/49389236/messi-gives-take-crazy-full-circle-lamine-yamal-fixture",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Messi_gives_his_take_on_crazy_full_circle_Lamine_Yamal_fixture/dm_260718_Messi_gives_his_take_on_crazy_full_circle_Lamine_Yamal_fixture.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
-        "France",
-        "Tunisia",
-        "Haiti",
-        "Jordan",
-        "Panama",
-        "Qatar",
-        "Czechia",
-        "Curaçao",
-        "Iraq",
-        "Uruguay",
-        "Saudi Arabia",
-        "New Zealand",
-        "Scotland",
-        "Uzbekistan",
-        "Korea Republic",
-        "IR Iran"
+        "Argentina",
+        "Spain"
       ],
       "players": [
+        "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 135
     },
     {
       "id": "49386315",
@@ -233,7 +267,7 @@
         "England"
       ],
       "players": [],
-      "score": 132
+      "score": 131
     },
     {
       "id": "49388164",
@@ -252,7 +286,31 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 132
+      "score": 130
+    },
+    {
+      "id": "49389834",
+      "headline": "Women's AFCON 2026 is first major test of South Africa's new generation",
+      "description": "Desiree Ellis' South Africa squad for the 2026 Women's Africa Cup of Nations (WAFCON) in Morocco (July 26 - August 16) features mostly locally-based talent.",
+      "published": "2026-07-18T09:30:45Z",
+      "url": "https://www.espn.com/espn/story/_/id/49389834/women-afcon-2026-first-major-test-south-africa-new-generation",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690740_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "South Africa",
+        "Morocco"
+      ],
+      "players": [
+        "Thembi Kgatlana",
+        "Refiloe Jane",
+        "Linda Motlhalo",
+        "Gabriela Salgado",
+        "Rodri"
+      ],
+      "score": 129
     },
     {
       "id": "49387156",
@@ -270,25 +328,57 @@
         "Argentina"
       ],
       "players": [],
-      "score": 129
+      "score": 128
     },
     {
-      "id": "48955344",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "published": "2026-07-18T06:30:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "48769330",
+      "headline": "Prepare yourself for the ultimate day of sport -- mark your calendars",
+      "description": "Mark down July 19 into your calendars as a day you need to be in front of the TV watching a day of sport that will go down in history.",
+      "published": "2026-07-18T06:34:31Z",
+      "url": "https://www.espn.com/golf/story/_/id/48769330/prepare-ultimate-day-sport-mark-calendars-open-belgium-grand-prix-fifa-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658040_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [],
+      "players": [],
+      "score": 125
+    },
+    {
+      "id": "49389431",
+      "headline": "Trump questions Kane's 'defensive' role in England's WC exit to Argentina",
+      "description": "Trump questions Kane's 'defensive' role in England's WC exit to Argentina",
+      "published": "2026-07-18T08:03:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49389431/trump-questions-kane-defensive-role-england-wc-exit-argentina",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_Trump_questions_Kanes_defensive_role_in_EnglandE28099s_WC_exit_to_Argentina_GLOBAL/dm_260718_COM_SOC_Analysis_Trump_questions_Kanes_defensive_role_in_EnglandE28099s_WC_exit_to_Argentina_GLOBAL.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "France"
+        "England",
+        "France",
+        "Argentina"
       ],
-      "players": [
-        "Lionel Messi"
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49389338",
+      "headline": "Tuchel reveals he has 'no regrets' over his decisions vs. Argentina",
+      "description": "Tuchel reveals he has 'no regrets' over his decisions vs. Argentina",
+      "published": "2026-07-18T07:37:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49389338/tuchel-reveals-no-regrets-decisions-vs-argentina",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_Tuchel_reveals_he_has_E216/dm_260718_COM_SOC_Analysis_Tuchel_reveals_he_has_E216.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "France",
+        "Argentina"
       ],
-      "score": 126
+      "players": [],
+      "score": 124
     },
     {
       "id": "49382615",
@@ -305,7 +395,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 123
+      "score": 122
     },
     {
       "id": "49385557",
@@ -324,7 +414,7 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 121
+      "score": 120
     },
     {
       "id": "48945011",
@@ -338,7 +428,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 119
+      "score": 118
     },
     {
       "id": "48945570",
@@ -352,7 +442,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 119
+      "score": 118
     },
     {
       "id": "49387604",
@@ -368,7 +458,7 @@
         "England"
       ],
       "players": [],
-      "score": 118
+      "score": 116
     },
     {
       "id": "49386932",
@@ -384,7 +474,7 @@
         "England"
       ],
       "players": [],
-      "score": 118
+      "score": 116
     },
     {
       "id": "49387336",
@@ -401,24 +491,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 115
-    },
-    {
-      "id": "49380811",
-      "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
-      "published": "2026-07-17T23:53:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 114
+      "score": 113
     },
     {
       "id": "49386817",
@@ -438,7 +511,24 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 114
+      "score": 113
+    },
+    {
+      "id": "49380811",
+      "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
+      "published": "2026-07-17T23:53:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 112
     },
     {
       "id": "48939282",
@@ -456,7 +546,7 @@
         "USA"
       ],
       "players": [],
-      "score": 113
+      "score": 112
     },
     {
       "id": "49386867",
@@ -472,7 +562,41 @@
         "USA"
       ],
       "players": [],
-      "score": 112
+      "score": 110
+    },
+    {
+      "id": "49386822",
+      "headline": "Hislop: WC final will be Spain's tactics vs. Argentina's pure grit",
+      "description": "Hislop: WC final will be Spain's tactics vs. Argentina's pure grit",
+      "published": "2026-07-17T22:29:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49386822/wc-final-spain-tactics-vs-argentina-pure-grit",
+      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Hislop_WC_final_will_be_Spains_tactics_vs_Argentinas_pure_grit/dm_260717_Hislop_WC_final_will_be_Spains_tactics_vs_Argentinas_pure_grit.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 110
+    },
+    {
+      "id": "49386787",
+      "headline": "Moreno: England were scared to win",
+      "description": "Moreno: England were scared to win",
+      "published": "2026-07-17T22:21:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/49386787/england-were-scared-win",
+      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Moreno_England_were_scared_to_win/dm_260717_Moreno_England_were_scared_to_win.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 110
     },
     {
       "id": "49385606",
@@ -492,41 +616,7 @@
         "Kylian Mbappé",
         "Ibrahima Konaté"
       ],
-      "score": 112
-    },
-    {
-      "id": "49386822",
-      "headline": "Hislop: WC final will be Spain's tactics vs. Argentina's pure grit",
-      "description": "Hislop: WC final will be Spain's tactics vs. Argentina's pure grit",
-      "published": "2026-07-17T22:29:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49386822/wc-final-spain-tactics-vs-argentina-pure-grit",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Hislop_WC_final_will_be_Spains_tactics_vs_Argentinas_pure_grit/dm_260717_Hislop_WC_final_will_be_Spains_tactics_vs_Argentinas_pure_grit.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 111
-    },
-    {
-      "id": "49386787",
-      "headline": "Moreno: England were scared to win",
-      "description": "Moreno: England were scared to win",
-      "published": "2026-07-17T22:21:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/49386787/england-were-scared-win",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Moreno_England_were_scared_to_win/dm_260717_Moreno_England_were_scared_to_win.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 111
+      "score": 110
     },
     {
       "id": "49385575",
@@ -540,7 +630,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 110
+      "score": 109
     },
     {
       "id": "49386705",
@@ -554,7 +644,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 109
+      "score": 108
     },
     {
       "id": "49385416",
@@ -573,7 +663,7 @@
       "players": [
         "Mikel Merino"
       ],
-      "score": 108
+      "score": 107
     },
     {
       "id": "49379413",
@@ -591,7 +681,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 108
+      "score": 107
     },
     {
       "id": "49384849",
@@ -607,7 +697,7 @@
         "USA"
       ],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49384171",
@@ -624,7 +714,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 104
+      "score": 103
     },
     {
       "id": "49382249",
@@ -641,7 +731,7 @@
         "France"
       ],
       "players": [],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49382484",
@@ -657,7 +747,7 @@
         "USA"
       ],
       "players": [],
-      "score": 102
+      "score": 100
     },
     {
       "id": "49384614",
@@ -673,7 +763,7 @@
         "England"
       ],
       "players": [],
-      "score": 101
+      "score": 100
     },
     {
       "id": "48636037",
@@ -692,7 +782,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 101
+      "score": 99
     },
     {
       "id": "49352194",
@@ -706,7 +796,24 @@
       "kindLabel": "Match preview",
       "teams": [],
       "players": [],
-      "score": 98
+      "score": 96
+    },
+    {
+      "id": "49383212",
+      "headline": "Slovenia's Slavko Vinčić announced as referee for World Cup final",
+      "description": "Slovenia's Slavko Vinčić announced as referee for World Cup final",
+      "published": "2026-07-17T11:36:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/49383212/slovenia-slavko-vini-announced-referee-world-cup-final",
+      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_COM_SOC_News_Slovenias_Slavko_Vincic_announced_as_referee_for_World_Cup_final_20260717_GLOBAL_F/dm_260717_COM_SOC_News_Slovenias_Slavko_Vincic_announced_as_referee_for_World_Cup_final_20260717_GLOBAL_F.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 94
     },
     {
       "id": "49382483",
@@ -724,7 +831,7 @@
       "players": [
         "Declan Rice"
       ],
-      "score": 96
+      "score": 94
     },
     {
       "id": "40532807",
@@ -744,41 +851,6 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 96
-    },
-    {
-      "id": "49383212",
-      "headline": "Slovenia's Slavko Vinčić announced as referee for World Cup final",
-      "description": "Slovenia's Slavko Vinčić announced as referee for World Cup final",
-      "published": "2026-07-17T11:36:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49383212/slovenia-slavko-vini-announced-referee-world-cup-final",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_COM_SOC_News_Slovenias_Slavko_Vincic_announced_as_referee_for_World_Cup_final_20260717_GLOBAL_F/dm_260717_COM_SOC_News_Slovenias_Slavko_Vincic_announced_as_referee_for_World_Cup_final_20260717_GLOBAL_F.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 95
-    },
-    {
-      "id": "49376001",
-      "headline": "Just tuning in for World Cup final? Let's catch you up on what you've missed",
-      "description": "For those who are just tuning in, here are the highlights of the World Cup so far, from Lionel Messi heroics and underdog upsets to brave USMNT performances.",
-      "published": "2026-07-17T10:49:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49376001/just-tuning-world-cup-final-let-catch-what-missed",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690357_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina",
-        "USA"
-      ],
-      "players": [],
       "score": 94
     },
     {
@@ -798,56 +870,25 @@
       "players": [
         "Jude Bellingham"
       ],
-      "score": 94
+      "score": 93
     },
     {
-      "id": "49377661",
-      "headline": "Press and possess: Spain's secret sauce is a suffocating defense",
-      "description": "Spain are known as the modern purveyors of the beautiful game, but what has got them to within 90 minutes of another World Cup win is an elite defense.",
-      "published": "2026-07-17T08:45:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49377661/press-possess-spain-secret-sauce-2026-fifa-world-cup-suffocating-defense",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1690081_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
+      "id": "49376001",
+      "headline": "Just tuning in for World Cup final? Let's catch you up on what you've missed",
+      "description": "For those who are just tuning in, here are the highlights of the World Cup so far, from Lionel Messi heroics and underdog upsets to brave USMNT performances.",
+      "published": "2026-07-17T10:49:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49376001/just-tuning-world-cup-final-let-catch-what-missed",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690357_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Spain"
+        "Spain",
+        "Argentina",
+        "USA"
       ],
       "players": [],
-      "score": 91
-    },
-    {
-      "id": "49382182",
-      "headline": "Falklands War veteran asks FIFA to 'do something' about Argentina banner at World Cup",
-      "description": "A British Falklands War veteran called on FIFA to intervene after Argentina's national team posed with a banner claiming sovereignty over the contested islands.",
-      "published": "2026-07-17T08:44:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49382182/falklands-war-veteran-asks-fifa-do-argentina-banner-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689950_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 91
-    },
-    {
-      "id": "49382105",
-      "headline": "Harry Kane: 'Empty feeling' after England's World Cup heartbreak",
-      "description": "Heartbroken captain Harry Kane vowed to fight on as England continue to search for the \"final piece of the jigsaw\" that can take them from nearly men to trophy-winners.",
-      "published": "2026-07-17T08:26:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49382105/harry-kane-empty-feeling-england-world-cup-heartbreak",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689791_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 90
+      "score": 92
     }
   ]
 }
