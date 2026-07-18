@@ -1,6 +1,6 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-18T12:54:26.681Z",
+  "updated": "2026-07-18T14:20:20.085Z",
   "counts": {
     "news": 34,
     "preview": 8,
@@ -8,6 +8,25 @@
     "celebration": 4
   },
   "items": [
+    {
+      "id": "49387153",
+      "headline": "World Cup Daily live: Messi, Brady in Durant's all-star selfie; France, England play for third place",
+      "description": "Enjoy all the features, news, video analysis and color from around the World Cup as we decide who finishes in third place between England and France.",
+      "published": "2026-07-18T14:16:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49387153/world-cup-daily-kevin-durant-tom-brady-lionel-messi-selfie-france-england-third-place-playoff",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690743_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "England"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 213
+    },
     {
       "id": "49385857",
       "headline": "Back to his best, Rodri has powered Spain to World Cup final",
@@ -25,26 +44,7 @@
       "players": [
         "Rodri"
       ],
-      "score": 210
-    },
-    {
-      "id": "49387153",
-      "headline": "World Cup Daily live: Messi, Brady in Durant's all-star selfie; France, England play for third place",
-      "description": "Enjoy all the features, news, video analysis and color from around the World Cup as we decide who finishes in third place between England and France.",
-      "published": "2026-07-18T11:17:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49387153/world-cup-daily-kevin-durant-tom-brady-lionel-messi-selfie-france-england-third-place-playoff",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690743_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 201
+      "score": 198
     },
     {
       "id": "49381908",
@@ -64,7 +64,7 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 199
+      "score": 197
     },
     {
       "id": "48352807",
@@ -124,7 +124,7 @@
         "Uzbekistan"
       ],
       "players": [],
-      "score": 178
+      "score": 176
     },
     {
       "id": "49390159",
@@ -140,7 +140,7 @@
         "France"
       ],
       "players": [],
-      "score": 167
+      "score": 165
     },
     {
       "id": "49363512",
@@ -157,7 +157,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 154
+      "score": 152
     },
     {
       "id": "49389517",
@@ -175,7 +175,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 153
+      "score": 150
     },
     {
       "id": "49389509",
@@ -188,14 +188,14 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Spain",
+        "France",
         "Argentina"
       ],
       "players": [
         "Cristian Romero",
-        "Rodri"
+        "Lionel Messi"
       ],
-      "score": 139
+      "score": 137
     },
     {
       "id": "49387821",
@@ -215,7 +215,7 @@
         "Lionel Messi",
         "Lamine Yamal"
       ],
-      "score": 135
+      "score": 133
     },
     {
       "id": "49389483",
@@ -231,7 +231,7 @@
         "England"
       ],
       "players": [],
-      "score": 133
+      "score": 131
     },
     {
       "id": "49389236",
@@ -251,7 +251,25 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 131
+    },
+    {
+      "id": "49163915",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "published": "2026-07-18T11:41:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
     },
     {
       "id": "49386315",
@@ -267,7 +285,31 @@
         "England"
       ],
       "players": [],
-      "score": 129
+      "score": 127
+    },
+    {
+      "id": "49389834",
+      "headline": "Women's AFCON 2026 is first major test of South Africa's new generation",
+      "description": "Desiree Ellis' South Africa squad for the 2026 Women's Africa Cup of Nations (WAFCON) in Morocco (July 26 - August 16) features mostly locally-based talent.",
+      "published": "2026-07-18T09:30:45Z",
+      "url": "https://www.espn.com/espn/story/_/id/49389834/women-afcon-2026-first-major-test-south-africa-new-generation",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690740_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "South Africa",
+        "Morocco"
+      ],
+      "players": [
+        "Thembi Kgatlana",
+        "Refiloe Jane",
+        "Linda Motlhalo",
+        "Gabriela Salgado",
+        "Lionel Messi"
+      ],
+      "score": 126
     },
     {
       "id": "49388164",
@@ -286,31 +328,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 129
-    },
-    {
-      "id": "49389834",
-      "headline": "Women's AFCON 2026 is first major test of South Africa's new generation",
-      "description": "Desiree Ellis' South Africa squad for the 2026 Women's Africa Cup of Nations (WAFCON) in Morocco (July 26 - August 16) features mostly locally-based talent.",
-      "published": "2026-07-18T09:30:45Z",
-      "url": "https://www.espn.com/espn/story/_/id/49389834/women-afcon-2026-first-major-test-south-africa-new-generation",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690740_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "South Africa",
-        "Morocco"
-      ],
-      "players": [
-        "Thembi Kgatlana",
-        "Refiloe Jane",
-        "Linda Motlhalo",
-        "Gabriela Salgado",
-        "Rodri"
-      ],
-      "score": 128
+      "score": 126
     },
     {
       "id": "49387156",
@@ -327,20 +345,6 @@
         "USA",
         "Argentina"
       ],
-      "players": [],
-      "score": 126
-    },
-    {
-      "id": "48769330",
-      "headline": "Prepare yourself for the ultimate day of sport -- mark your calendars",
-      "description": "Mark down July 19 into your calendars as a day you need to be in front of the TV watching a day of sport that will go down in history.",
-      "published": "2026-07-18T06:34:31Z",
-      "url": "https://www.espn.com/golf/story/_/id/48769330/prepare-ultimate-day-sport-mark-calendars-open-belgium-grand-prix-fifa-world-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/0514/r1658040_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [],
       "players": [],
       "score": 124
     },
@@ -360,7 +364,21 @@
         "Argentina"
       ],
       "players": [],
-      "score": 123
+      "score": 121
+    },
+    {
+      "id": "48769330",
+      "headline": "Prepare yourself for the ultimate day of sport -- mark your calendars",
+      "description": "Mark down July 19 into your calendars as a day you need to be in front of the TV watching a day of sport that will go down in history.",
+      "published": "2026-07-18T06:34:31Z",
+      "url": "https://www.espn.com/golf/story/_/id/48769330/prepare-ultimate-day-sport-mark-calendars-open-belgium-grand-prix-fifa-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658040_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [],
+      "players": [],
+      "score": 121
     },
     {
       "id": "49389338",
@@ -378,7 +396,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 122
+      "score": 120
     },
     {
       "id": "49382615",
@@ -395,7 +413,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 120
+      "score": 118
     },
     {
       "id": "49385557",
@@ -414,7 +432,7 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 118
+      "score": 116
     },
     {
       "id": "48945011",
@@ -428,7 +446,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 116
+      "score": 114
     },
     {
       "id": "48945570",
@@ -442,7 +460,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 116
+      "score": 114
     },
     {
       "id": "49387604",
@@ -458,7 +476,7 @@
         "England"
       ],
       "players": [],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49386932",
@@ -474,7 +492,7 @@
         "England"
       ],
       "players": [],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49387336",
@@ -491,7 +509,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 112
+      "score": 110
     },
     {
       "id": "49386817",
@@ -511,7 +529,7 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 111
+      "score": 109
     },
     {
       "id": "49380811",
@@ -528,7 +546,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 110
+      "score": 108
     },
     {
       "id": "48939282",
@@ -546,7 +564,7 @@
         "USA"
       ],
       "players": [],
-      "score": 110
+      "score": 108
     },
     {
       "id": "49386867",
@@ -562,7 +580,7 @@
         "USA"
       ],
       "players": [],
-      "score": 109
+      "score": 107
     },
     {
       "id": "49385606",
@@ -582,7 +600,7 @@
         "Kylian Mbappé",
         "Ibrahima Konaté"
       ],
-      "score": 109
+      "score": 107
     },
     {
       "id": "49386822",
@@ -599,7 +617,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "49386787",
@@ -616,7 +634,7 @@
         "England"
       ],
       "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "49385575",
@@ -630,7 +648,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 107
+      "score": 105
     },
     {
       "id": "49386705",
@@ -644,7 +662,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 106
+      "score": 104
     },
     {
       "id": "49385416",
@@ -663,7 +681,7 @@
       "players": [
         "Mikel Merino"
       ],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49379413",
@@ -681,7 +699,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49384849",
@@ -697,7 +715,7 @@
         "USA"
       ],
       "players": [],
-      "score": 102
+      "score": 100
     },
     {
       "id": "49384171",
@@ -714,7 +732,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 101
+      "score": 99
     },
     {
       "id": "49382249",
@@ -731,7 +749,7 @@
         "France"
       ],
       "players": [],
-      "score": 100
+      "score": 98
     },
     {
       "id": "49382484",
@@ -747,7 +765,7 @@
         "USA"
       ],
       "players": [],
-      "score": 99
+      "score": 96
     },
     {
       "id": "49384614",
@@ -763,7 +781,7 @@
         "England"
       ],
       "players": [],
-      "score": 98
+      "score": 96
     },
     {
       "id": "48636037",
@@ -782,7 +800,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 98
+      "score": 96
     },
     {
       "id": "49352194",
@@ -796,7 +814,7 @@
       "kindLabel": "Match preview",
       "teams": [],
       "players": [],
-      "score": 95
+      "score": 93
     },
     {
       "id": "49382483",
@@ -814,7 +832,7 @@
       "players": [
         "Declan Rice"
       ],
-      "score": 93
+      "score": 91
     },
     {
       "id": "40532807",
@@ -834,7 +852,7 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49383212",
@@ -851,7 +869,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 92
+      "score": 90
     },
     {
       "id": "49376001",
@@ -869,26 +887,7 @@
         "USA"
       ],
       "players": [],
-      "score": 91
-    },
-    {
-      "id": "49382231",
-      "headline": "Jude Bellingham shares taxi driver's poem in 'unity' message after World Cup",
-      "description": "Jude Bellingham has called for continued unity after England's World Cup exit against Argentina, insisting that \"when we're together, we can achieve big things.\"",
-      "published": "2026-07-17T09:05:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49382231/jude-bellingham-england-taxi-driver-poem-unity-message-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688074_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [
-        "Jude Bellingham"
-      ],
-      "score": 91
+      "score": 89
     }
   ]
 }
