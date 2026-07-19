@@ -1,22 +1,22 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-19T21:31:33.499Z",
+  "updated": "2026-07-19T22:29:45.808Z",
   "counts": {
     "news": 32,
-    "preview": 4,
+    "celebration": 8,
+    "offfield": 5,
     "injury": 1,
-    "offfield": 3,
-    "celebration": 8
+    "preview": 2
   },
   "items": [
     {
-      "id": "49402540",
-      "headline": "World Cup final halftime show: Rating every performer as Madonna, BTS, Justin Bieber and Shakira star",
-      "description": "The first World Cup final halftime show brought together some of the biggest names in music, with BTS, Justin Bieber, Madonna and Shakira -- but how did we rate them?",
-      "published": "2026-07-19T21:30:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49402540/world-cup-final-half-show-2026-rating-every-performer-madonna-bts-justin-bieber-shakira-headline-argentina-spain",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691427_1296x729_16-9.jpg",
-      "byline": "Matt Morlidge and Tom Masters",
+      "id": "49404415",
+      "headline": "Argentina fans in tears after World Cup final defeat to Spain",
+      "description": "Argentina fans in tears after World Cup final defeat to Spain",
+      "published": "2026-07-19T22:26:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49404415/argentina-fans-tears-world-cup-final-defeat-spain",
+      "image": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_COM_SOC_News_Argentina_fans_in_tears_after_World_Cup_final_defeat_to_Spain_20260719_GLOBAL_FIFA/dm_260719_COM_SOC_News_Argentina_fans_in_tears_after_World_Cup_final_defeat_to_Spain_20260719_GLOBAL_FIFA.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -27,40 +27,102 @@
       "score": 210
     },
     {
-      "id": "49397462",
-      "headline": "World Cup final LIVE: Spain, Argentina face off in New Jersey",
-      "description": "Enjoy all the features, news, video analysis and color from around the World Cup as Spain and Lamine Yamal take on Argentina and Lionel Messi in the final.",
-      "published": "2026-07-19T20:45:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49397462/world-cup-daily-live-final-countdown-spain-argentina-get-ready-take-new-york-messi-yamal",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691404_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "48912587",
+      "headline": "Who are the youngest and oldest FIFA World Cup winners?",
+      "description": "Mbappé and Messi both used the World Cup stage to show age is merely a number. Here is a look at the youngest and oldest World Cup final winners in history.",
+      "published": "2026-07-19T22:26:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48912587/who-youngest-oldest-fifa-world-cup-winners",
+      "image": "https://a.espncdn.com/media/motion/2026/0510/dm_260510_How_Argentina_arranged_an_entire_match_just_for_a_young_Lionel_Messi/dm_260510_How_Argentina_arranged_an_entire_match_just_for_a_young_Lionel_Messi.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [],
+      "players": [],
+      "score": 203
+    },
+    {
+      "id": "49027532",
+      "headline": "World Cup VAR review: Why Fernandez red card was deserved as Argentina lose World Cup final",
+      "description": "Spain have won the World Cup, and we've reviewed every VAR decision and refereeing controversy of the tournament, including Enzo Fernandez's red card in the final as Argentina lost.",
+      "published": "2026-07-19T22:26:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691483_1296x729_16-9.jpg",
+      "byline": "Andy Davies",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 202
+    },
+    {
+      "id": "49073399",
+      "headline": "Spain at the men's World Cup: All-time results and stats",
+      "description": "Take a look at the Spain men's national team's performance throughout the tournament's history.",
+      "published": "2026-07-19T22:22:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49073399/spain-men-world-cup-all-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673639_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 190
+    },
+    {
+      "id": "48847593",
+      "headline": "How many father-son duos have been in the FIFA World Cup?",
+      "description": "Check out a list of every father-son duo that has played in the FIFA World Cup.",
+      "published": "2026-07-19T22:21:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48847593/how-many-father-son-duos-the-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2022/0317/r987687_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 166
+    },
+    {
+      "id": "49085479",
+      "headline": "Lionel Messi at the World Cup: History, results, stats",
+      "description": "Here's how Lionel Messi has performed for Argentina at the World Cup throughout his career.",
+      "published": "2026-07-19T22:20:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49085479/lionel-messi-world-cup-history-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674372_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 160
+    },
+    {
+      "id": "49404327",
+      "headline": "Torres strikes in extra time to crown Spain World Cup champions",
+      "description": "Ferran Torres' strike in extra time proves enough to defeat Argentina 1-0 in the FIFA World Cup final, as Lionel Messi exits the World Cup stage for perhaps the final time.",
+      "published": "2026-07-19T22:20:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/49404327/torres-strikes-extra-crown-spain-world-cup-champions",
+      "image": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_Soccer_HIGHLIGHT_Torres_strikes_in_extra_time_to_crown_Spain_World_Cup_champions_20260720_AUS/dm_260719_Soccer_HIGHLIGHT_Torres_strikes_in_extra_time_to_crown_Spain_World_Cup_champions_20260720_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Spain",
         "Argentina"
       ],
       "players": [],
-      "score": 208
-    },
-    {
-      "id": "49089105",
-      "headline": "2026 World Cup final: President Trump, Timothée Chalamet headline celebrities in attendance",
-      "description": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "published": "2026-07-19T20:51:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691371_608x342_16-9.jpg",
-      "byline": "ESPN staff",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Marshawn Lynch",
-        "Trinity Rodman",
-        "Zach LaVine",
-        "Patrick Mahomes"
-      ],
-      "score": 188
+      "score": 160
     },
     {
       "id": "49402754",
@@ -79,7 +141,273 @@
       "players": [
         "Lisandro Martínez"
       ],
-      "score": 187
+      "score": 145
+    },
+    {
+      "id": "49404214",
+      "headline": "Spain 1-0 Argentina: Ferran Torres scores extra time winner as Enzo Fernández sent off",
+      "description": "Ferran Torres scored an extra time winner as Spain defeated 10-man Argentina 1-0 after extra time to win the World Cup.",
+      "published": "2026-07-19T22:13:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49404214/spain-1-0-argentina-world-cup-2026-result-score-recap-ferran-torres-enzo-fernandez",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691470_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 142
+    },
+    {
+      "id": "49404291",
+      "headline": "Madrid erupts at full-time as Spain crowned World Cup champions",
+      "description": "Madrid erupts at full-time as Spain crowned World Cup champions",
+      "published": "2026-07-19T22:18:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/49404291/madrid-erupts-full-spain-crowned-world-cup-champions",
+      "image": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_COM_SOC_Misc_Madrid_erupts_at_full_time_as_Spain_crowned_World_Cup_champions_20260719_GLOBAL_FIF/dm_260719_COM_SOC_Misc_Madrid_erupts_at_full_time_as_Spain_crowned_World_Cup_champions_20260719_GLOBAL_FIF.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 140
+    },
+    {
+      "id": "49400680",
+      "headline": "Lionel Messi becomes first man to start three World Cup finals",
+      "description": "Lionel Messi has officially become the oldest outfield player to ever take the field in a World Cup final, after starting for Argentina as they take on Spain.",
+      "published": "2026-07-19T20:34:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49400680/world-cup-final-2026-spain-vs-argentina-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691373_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49397315",
+      "headline": "Transfer rumors, news: Barcelona set deadline for Argentina's Álvarez; Spain's Rodri wants Real Madrid",
+      "description": "Barcelona have set a deadline of July 31 for Atlético Madrid to accept their offer to sign Argentina striker Julián Álvarez. Transfer Talk has the latest.",
+      "published": "2026-07-19T18:40:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49397315/transfer-rumors-news-barcelona-set-deadline-argentina-alvarez-spain-rodri-wants-real-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688643_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49400794",
+      "headline": "Argentina make 3 changes to World Cup final lineup vs. Spain",
+      "description": "Argentina have made three changes to the starting lineup for the 2026 World Cup final against Spain, with Rodrigo De Paul, Nico González and Gonzalo Montiel set to kick off for the defending champions.",
+      "published": "2026-07-19T19:19:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49400794/argentina-spain-fifa-2026-world-cup-final-starting-lineups",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691291_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 134
+    },
+    {
+      "id": "49391635",
+      "headline": "Real Madrid 'win' 2026 World Cup with more goal scorers than any other club",
+      "description": "Barcelona's Ferran Torres was Spain's final hero, but when it comes to which club's players scored the most goals this summer, it's Real Madrid who 'won' the World Cup.",
+      "published": "2026-07-19T22:25:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49391635/real-madrid-win-2026-world-cup-more-goal-scorers-other-club",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691480_1296x729_16-9.jpg",
+      "byline": "Eduardo Sánchez Gil",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Kylian Mbappé"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49404025",
+      "headline": "Scenes in Spain as Ferran Torres scores extra-time opener in World Cup final",
+      "description": "Scenes in Spain as Ferran Torres scores extra-time opener in World Cup final",
+      "published": "2026-07-19T22:11:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/49404025/scenes-spain-ferran-torres-scores-extra-opener-world-cup-final",
+      "image": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_COM_SOC_Misc_Scenes_in_Spain_as_Ferran_Torres_scores_extra_time_opener_in_World_Cup_final_202607/dm_260719_COM_SOC_Misc_Scenes_in_Spain_as_Ferran_Torres_scores_extra_time_opener_in_World_Cup_final_202607.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49403084",
+      "headline": "Spain edge Argentina after extra time to win 2nd World Cup title",
+      "description": "Ferran Torres clinched Spain's second World Cup title with an extra-time winner against reigning world champions Argentina in a bad-tempered final.",
+      "published": "2026-07-19T22:22:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49403084/2026-world-cup-final-spain-argentina-score-ferran-torres",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691457_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 130
+    },
+    {
+      "id": "49403905",
+      "headline": "Wayne Rooney blasts first World Cup final halftime show: 'It didn't get me going'",
+      "description": "Former England forward Wayne Rooney slammed the first World Cup final halftime show, saying the best part was \"when it finished.\"",
+      "published": "2026-07-19T22:19:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49403905/wayne-rooney-blasts-first-world-cup-final-half-show-get-going",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691443_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 130
+    },
+    {
+      "id": "49386139",
+      "headline": "Spain set all-time unbeaten record with World Cup final win",
+      "description": "Spain have set a new mark for an undefeated run in international football after beating Argentina 1-0 in Sunday's World Cup final.",
+      "published": "2026-07-19T22:17:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49386139/spain-world-cup-win-unbeaten-record-argentina-lamine-yamal",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690572_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 130
+    },
+    {
+      "id": "49397462",
+      "headline": "World Cup final LIVE: Spain crowned champions after 1-0 win vs. Argentina",
+      "description": "Spain are 2026 World Cup champions! Enjoy all the reaction, news, video analysis and color after the final.",
+      "published": "2026-07-19T22:15:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49397462/world-cup-daily-live-final-countdown-spain-argentina-get-ready-take-new-york-messi-yamal",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691404_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 130
+    },
+    {
+      "id": "49402540",
+      "headline": "World Cup final halftime show: Rating every performer as Madonna, BTS, Justin Bieber and Shakira star",
+      "description": "The first World Cup final halftime show brought together some of the biggest names in music, with BTS, Justin Bieber, Madonna and Shakira -- but how did we rate them?",
+      "published": "2026-07-19T21:59:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49402540/world-cup-final-half-show-2026-rating-every-performer-madonna-bts-justin-bieber-shakira-headline-argentina-spain",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691427_1296x729_16-9.jpg",
+      "byline": "Matt Morlidge and Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 129
+    },
+    {
+      "id": "49065000",
+      "headline": "We got a Scorigami! How England's 6-4 win vs. France made World Cup history",
+      "description": "In the 103rd and penultimate game of the 2026 World Cup, a Scorigami finally happened, but what is it?",
+      "published": "2026-07-19T17:27:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49065000/so-close-germany-nearly-got-world-cup-scorigami-that",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691093_1296x729_16-9.jpg",
+      "byline": "Connor O'Halloran",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England",
+        "France"
+      ],
+      "players": [],
+      "score": 129
+    },
+    {
+      "id": "49401541",
+      "headline": "Harry Kane warns England are 'still in that grieving stage' but strongly backs Thomas Tuchel",
+      "description": "Harry Kane admitted England will be \"grieving\" their World Cup heartbreak for some time to come although he backed Thomas Tuchel to stay on as head coach.",
+      "published": "2026-07-19T18:57:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49401541/harry-kane-warns-england-that-grieving-stage-strongly-backs-manager-thomas-tuchel",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691326_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49089105",
+      "headline": "2026 World Cup final: President Trump, Timothée Chalamet headline celebrities in attendance",
+      "description": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "published": "2026-07-19T20:51:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691371_608x342_16-9.jpg",
+      "byline": "ESPN staff",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Marshawn Lynch",
+        "Trinity Rodman",
+        "Zach LaVine",
+        "Patrick Mahomes"
+      ],
+      "score": 127
     },
     {
       "id": "49116383",
@@ -104,80 +432,23 @@
         "USA"
       ],
       "players": [],
-      "score": 179
+      "score": 127
     },
     {
-      "id": "49400680",
-      "headline": "Lionel Messi becomes first man to start three World Cup finals",
-      "description": "Lionel Messi has officially become the oldest outfield player to ever take the field in a World Cup final, after starting for Argentina as they take on Spain.",
-      "published": "2026-07-19T20:34:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49400680/world-cup-final-2026-spain-vs-argentina-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691373_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 171
-    },
-    {
-      "id": "49401541",
-      "headline": "Harry Kane warns England are 'still in that grieving stage' but strongly backs Thomas Tuchel",
-      "description": "Harry Kane admitted England will be \"grieving\" their World Cup heartbreak for some time to come although he backed Thomas Tuchel to stay on as head coach.",
-      "published": "2026-07-19T18:57:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49401541/harry-kane-warns-england-that-grieving-stage-strongly-backs-manager-thomas-tuchel",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691326_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 149
-    },
-    {
-      "id": "49397315",
-      "headline": "Transfer rumors, news: Barcelona set deadline for Argentina's Álvarez; Spain's Rodri wants Real Madrid",
-      "description": "Barcelona have set a deadline of July 31 for Atlético Madrid to accept their offer to sign Argentina striker Julián Álvarez. Transfer Talk has the latest.",
-      "published": "2026-07-19T18:40:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49397315/transfer-rumors-news-barcelona-set-deadline-argentina-alvarez-spain-rodri-wants-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688643_1296x729_16-9.jpg",
+      "id": "49398261",
+      "headline": "England should sack Thomas Tuchel after World Cup third place - Danny Murphy",
+      "description": "Former England midfielder Danny Murphy has said Thomas Tuchel should be sacked despite guiding the country to their best World Cup finish in 60 years.",
+      "published": "2026-07-19T10:59:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49398261/danny-murphy-england-pundits-thomas-tuchel-sacked-fifa-world-cup-third-place",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691172_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Lisandro Martínez"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49400794",
-      "headline": "Argentina make 3 changes to World Cup final lineup vs. Spain",
-      "description": "Argentina have made three changes to the starting lineup for the 2026 World Cup final against Spain, with Rodrigo De Paul, Nico González and Gonzalo Montiel set to kick off for the defending champions.",
-      "published": "2026-07-19T19:19:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49400794/argentina-spain-fifa-2026-world-cup-final-starting-lineups",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691291_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Spain"
+        "England"
       ],
       "players": [],
-      "score": 136
+      "score": 125
     },
     {
       "id": "49401540",
@@ -194,40 +465,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 135
-    },
-    {
-      "id": "49065000",
-      "headline": "We got a Scorigami! How England's 6-4 win vs. France made World Cup history",
-      "description": "In the 103rd and penultimate game of the 2026 World Cup, a Scorigami finally happened, but what is it?",
-      "published": "2026-07-19T17:27:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49065000/so-close-germany-nearly-got-world-cup-scorigami-that",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691093_1296x729_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "England",
-        "France"
-      ],
-      "players": [],
-      "score": 131
-    },
-    {
-      "id": "49398261",
-      "headline": "England should sack Thomas Tuchel after World Cup third place - Danny Murphy",
-      "description": "Former England midfielder Danny Murphy has said Thomas Tuchel should be sacked despite guiding the country to their best World Cup finish in 60 years.",
-      "published": "2026-07-19T10:59:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49398261/danny-murphy-england-pundits-thomas-tuchel-sacked-fifa-world-cup-third-place",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691172_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 126
+      "score": 124
     },
     {
       "id": "49400888",
@@ -245,7 +483,7 @@
         "IR Iran"
       ],
       "players": [],
-      "score": 124
+      "score": 123
     },
     {
       "id": "49398752",
@@ -259,7 +497,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 119
+      "score": 118
     },
     {
       "id": "49398782",
@@ -277,7 +515,7 @@
       "players": [
         "Senne Lammens"
       ],
-      "score": 119
+      "score": 118
     },
     {
       "id": "49398747",
@@ -296,27 +534,25 @@
       "players": [
         "Aurélien Tchouaméni"
       ],
-      "score": 119
+      "score": 117
     },
     {
-      "id": "49117037",
-      "headline": "2026 World Cup Golden Boot tracker: Can Messi catch Mbappé in race to be top scorer?",
-      "description": "There's only one match left to play at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
-      "published": "2026-07-19T08:50:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689789_1296x729_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "France"
-      ],
+      "id": "48780088",
+      "headline": "Which players have scored a hat trick in the World Cup?",
+      "description": "Bukayo Saka was the most recent player to score a hat trick in the World Cup. See who else joins him on the list in history.",
+      "published": "2026-07-19T02:31:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48780088/which-players-scored-hat-trick-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674590_2_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
       "players": [
         "Kylian Mbappé",
+        "Cristiano Ronaldo",
         "Lionel Messi"
       ],
-      "score": 114
+      "score": 111
     },
     {
       "id": "48939282",
@@ -334,7 +570,7 @@
         "USA"
       ],
       "players": [],
-      "score": 112
+      "score": 110
     },
     {
       "id": "49397380",
@@ -352,7 +588,7 @@
       "players": [
         "Declan Rice"
       ],
-      "score": 112
+      "score": 110
     },
     {
       "id": "49397379",
@@ -370,7 +606,7 @@
       "players": [
         "Kylian Mbappé"
       ],
-      "score": 112
+      "score": 110
     },
     {
       "id": "49397346",
@@ -389,25 +625,7 @@
       "players": [
         "Bukayo Saka"
       ],
-      "score": 112
-    },
-    {
-      "id": "48780088",
-      "headline": "Which players have scored a hat trick in the World Cup?",
-      "description": "Bukayo Saka was the most recent player to score a hat trick in the World Cup. See who else joins him on the list in history.",
-      "published": "2026-07-19T02:31:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48780088/which-players-scored-hat-trick-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674590_2_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [
-        "Kylian Mbappé",
-        "Cristiano Ronaldo",
-        "Lionel Messi"
-      ],
-      "score": 112
+      "score": 110
     },
     {
       "id": "48979217",
@@ -425,7 +643,7 @@
       "players": [
         "Kylian Mbappé"
       ],
-      "score": 111
+      "score": 110
     },
     {
       "id": "48769330",
@@ -439,7 +657,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 110
+      "score": 109
     },
     {
       "id": "49395836",
@@ -456,26 +674,23 @@
         "France"
       ],
       "players": [],
-      "score": 109
+      "score": 107
     },
     {
-      "id": "49394841",
-      "headline": "Mbappé makes World Cup history as all-time top scorer",
-      "description": "Mbappé makes World Cup history as all-time scorer",
-      "published": "2026-07-19T00:48:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/49394841/mbappe-makes-world-cup-history-all-scorer",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_Mbappe_makes_World_Cup_history_as_alltime_top_scorer_20260719_GLOBAL_FIFA_WORL/dm_260718_COM_SOC_Analysis_Mbappe_makes_World_Cup_history_as_alltime_top_scorer_20260719_GLOBAL_FIFA_WORL.jpg",
-      "byline": null,
+      "id": "49083555",
+      "headline": "France at the men's World Cup: All-time results and stats",
+      "description": "Take a look at the France men's national team's performance throughout the tournament's history.",
+      "published": "2026-07-19T02:26:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49083555/france-men-world-cup-all-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674268_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
       "kind": "celebration",
       "kindLabel": "Celebration",
       "teams": [
-        "England",
         "France"
       ],
-      "players": [
-        "Kylian Mbappé"
-      ],
-      "score": 109
+      "players": [],
+      "score": 107
     },
     {
       "id": "49370934",
@@ -492,23 +707,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 108
-    },
-    {
-      "id": "49083555",
-      "headline": "France at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the France men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-19T02:26:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49083555/france-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674268_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "France"
-      ],
-      "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "49382615",
@@ -525,26 +724,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 107
-    },
-    {
-      "id": "49019838",
-      "headline": "Who scored the most goals in men's World Cup history?",
-      "description": "Argentina's Lionel Messi scored the most goals in men's World Cup history. Check out which other soccer stars made the list.",
-      "published": "2026-07-18T23:17:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49019838/who-scored-most-goals-men-world-cup-history",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677710_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Lionel Messi"
-      ],
-      "score": 107
+      "score": 106
     },
     {
       "id": "49396450",
@@ -560,26 +740,7 @@
         "England"
       ],
       "players": [],
-      "score": 104
-    },
-    {
-      "id": "49387153",
-      "headline": "World Cup Daily recap: England defeat France for third place; Messi, Brady in KD's all-star selfie",
-      "description": "Enjoy all the features, news, video analysis and color from around the World Cup as England edge France in the third-place match.",
-      "published": "2026-07-19T02:12:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49387153/world-cup-daily-kevin-durant-tom-brady-lionel-messi-selfie-france-england-third-place-playoff",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690743_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 104
+      "score": 103
     },
     {
       "id": "48945011",
@@ -593,7 +754,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 103
+      "score": 102
     },
     {
       "id": "49396469",
@@ -611,7 +772,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49393769",
@@ -628,42 +789,7 @@
         "France"
       ],
       "players": [],
-      "score": 103
-    },
-    {
-      "id": "49394760",
-      "headline": "Player ratings: Bukayo Saka gets 9/10 as England beat France to seal third place",
-      "description": "Bukayo Saka was the star of the show as England secured third place at the 2026 FIFA World Cup on Saturday with a 6-4 win over France at Hard Rock Stadium.",
-      "published": "2026-07-19T01:36:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49394760/player-ratings-bukayo-saka-gets-9-10-england-beat-france-seal-third-place",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1691057_1296x729_16-9.jpg",
-      "byline": "Adam Brown",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "France"
-      ],
-      "players": [
-        "Bukayo Saka"
-      ],
-      "score": 103
-    },
-    {
-      "id": "49394018",
-      "headline": "Argentina fans take over Times Square ahead of World Cup final",
-      "description": "Argentina fans take over Times Square ahead of World Cup final",
-      "published": "2026-07-18T21:47:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/49394018/argentina-fans-take-s-square-ahead-world-cup-final",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_News_Argentina_fans_take_over_Times_Square_ahead_of_World_Cup_final_20260718_GLOBAL_FIFA/dm_260718_COM_SOC_News_Argentina_fans_take_over_Times_Square_ahead_of_World_Cup_final_20260718_GLOBAL_FIFA.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49396092",
@@ -680,7 +806,7 @@
         "France"
       ],
       "players": [],
-      "score": 101
+      "score": 100
     },
     {
       "id": "49396011",
@@ -695,72 +821,6 @@
       "teams": [
         "England"
       ],
-      "players": [],
-      "score": 101
-    },
-    {
-      "id": "49395078",
-      "headline": "McManaman: I don't know if Saka would have changed things for England",
-      "description": "McManaman: I don't know if Saka would have changed things for England",
-      "published": "2026-07-19T00:21:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/49395078/know-saka-changed-things-england",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_McManaman_I_dont_know_if_Saka_would_have_changed_things_for_England/dm_260718_McManaman_I_dont_know_if_Saka_would_have_changed_things_for_England.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Bukayo Saka"
-      ],
-      "score": 101
-    },
-    {
-      "id": "49394944",
-      "headline": "Burley: Bellingham carried England in the World Cup",
-      "description": "Burley: Bellingham carried England in the World Cup",
-      "published": "2026-07-19T00:20:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49394944/bellingham-carried-england-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Burley_Bellingham_carried_England_in_the_World_Cup/dm_260718_Burley_Bellingham_carried_England_in_the_World_Cup.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Jude Bellingham"
-      ],
-      "score": 101
-    },
-    {
-      "id": "49394546",
-      "headline": "FIFA World Cup 2026 stats: Mbappé tops Messi with 22; Olise breaks Pelé's record with 7; Bellingham's 7 most-ever for England",
-      "description": "ESPN's By The Numbers brings you best stats from the World Cup action on July 18.",
-      "published": "2026-07-19T01:22:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49394546/fifa-world-cup-2026-stats-kylian-mbappe-tops-lionel-messi-22-michael-olise-breaks-pele-record-7-jude-bellingham-7-most-ever-england",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1691001_1296x729_16-9.jpg",
-      "byline": "Sunaadh Sagar",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 100
-    },
-    {
-      "id": "49385575",
-      "headline": "Third place matches at the men's World Cup: Winners, results",
-      "description": "Who has won the third-place playoff at the men's World Cup? Find out all the winners throughout the tournament's history.",
-      "published": "2026-07-18T23:12:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49385575/third-place-matches-men-world-cup-winners-results",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690544_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [],
       "players": [],
       "score": 100
     },
@@ -779,75 +839,7 @@
         "Kylian Mbappé",
         "Lionel Messi"
       ],
-      "score": 99
-    },
-    {
-      "id": "49395405",
-      "headline": "Saka nets hat trick to seal bronze medal for England",
-      "description": "Bukayo Sake scores a World Cup hat trick for the Three Lions as England defeat France 6-4 in an epic third place play-off barnstormer.",
-      "published": "2026-07-19T00:39:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49395405/saka-nets-hat-trick-seal-bronze-medal-england",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_WC_Highlight_Saka_nets_hat_trick_to_seal_bronze_medal_for_England_20260719_AUS_ONLY/dm_260718_WC_Highlight_Saka_nets_hat_trick_to_seal_bronze_medal_for_England_20260719_AUS_ONLY.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "France"
-      ],
-      "players": [],
-      "score": 99
-    },
-    {
-      "id": "49395399",
-      "headline": "McManaman: Spain have to be perfect to beat Argentina",
-      "description": "McManaman: Spain have to be perfect to beat Argentina",
-      "published": "2026-07-19T00:35:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49395399/spain-perfect-beat-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_McManaman_Spain_have_to_be_perfect_to_beat_Argentina/dm_260718_McManaman_Spain_have_to_be_perfect_to_beat_Argentina.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 99
-    },
-    {
-      "id": "49395240",
-      "headline": "Klinsmann: The World Cup final will be an extreme mental battle",
-      "description": "Klinsmann: The World Cup final will be an extreme mental battle",
-      "published": "2026-07-19T00:23:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/49395240/world-cup-final-extreme-mental-battle",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Klinsmann_The_World_Cup_final_will_be_an_extreme_mental_battle/dm_260718_Klinsmann_The_World_Cup_final_will_be_an_extreme_mental_battle.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Spain"
-      ],
-      "players": [],
       "score": 98
-    },
-    {
-      "id": "49394849",
-      "headline": "McManaman: Tuchel's excuses after the game were 'ridiculous'",
-      "description": "McManaman: Tuchel's excuses after the game were 'ridiculous'",
-      "published": "2026-07-18T23:43:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49394849/tuchel-excuses-game-were-ridiculous",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_McManaman_Tuchels_excuses_after_the_game_were_ridiculous_20260719_GLOBAL_FI/dm_260718_COM_SOC_Analysis_McManaman_Tuchels_excuses_after_the_game_were_ridiculous_20260719_GLOBAL_FI.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "France"
-      ],
-      "players": [],
-      "score": 97
     }
   ]
 }
