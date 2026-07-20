@@ -1,20 +1,89 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-20T20:14:25.685Z",
+  "updated": "2026-07-20T23:37:43.241Z",
   "counts": {
-    "offfield": 8,
-    "news": 27,
-    "celebration": 9,
+    "celebration": 10,
+    "news": 28,
+    "offfield": 6,
     "injury": 3,
     "preview": 1
   },
   "items": [
     {
+      "id": "49413188",
+      "headline": "Spain celebrate World Cup glory with trophy lift in Madrid",
+      "description": "Spain celebrate World Cup glory with trophy lift in Madrid",
+      "published": "2026-07-20T22:47:31Z",
+      "url": "https://www.espn.com/video/clip/_/id/49413188/spain-celebrate-world-cup-glory-trophy-lift-madrid",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_Spain_celebrate_World_Cup_glory_with_trophy_lift_in_Madrid_NEW/dm_260720_Spain_celebrate_World_Cup_glory_with_trophy_lift_in_Madrid_NEW.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 216
+    },
+    {
+      "id": "49412933",
+      "headline": "Argentina squad arrive home after World Cup final defeat",
+      "description": "Argentina squad arrive home after World Cup final defeat",
+      "published": "2026-07-20T22:11:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49412933/argentina-squad-arrive-home-world-cup-final-defeat",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_Misc_Argentina_squad_arrive_home_after_World_Cup_final_defeat_20260720_GLOBAL_FIFA_WORLD/dm_260720_COM_SOC_Misc_Argentina_squad_arrive_home_after_World_Cup_final_defeat_20260720_GLOBAL_FIFA_WORLD.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 198
+    },
+    {
+      "id": "49412597",
+      "headline": "Shaka pays heartfelt tribute to Kevin Keegan: 'He was a better human being'",
+      "description": "Shaka pays heartfelt tribute to Kevin Keegan: 'He was a better human being'",
+      "published": "2026-07-20T21:02:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49412597/was-better-human-being",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_News_Shaka_pays_heartfelt_tribute_to_Kevin_Keegan_He_was_a_better_human_being_2026072/dm_260720_COM_SOC_News_Shaka_pays_heartfelt_tribute_to_Kevin_Keegan_He_was_a_better_human_being_2026072.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 186
+    },
+    {
+      "id": "49412497",
+      "headline": "Is Messi the most important figure in football history?",
+      "description": "Is Messi the most important figure in football history?",
+      "published": "2026-07-20T20:39:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/49412497/is-messi-most-important-figure-football-history",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_Analysis_Is_Messi_the_most_important_figure_in_football_history_20260720_GLOBAL_FIFA_WO/dm_260720_COM_SOC_Analysis_Is_Messi_the_most_important_figure_in_football_history_20260720_GLOBAL_FIFA_WO.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 186
+    },
+    {
       "id": "49412098",
-      "headline": "FIFA to investigate violent clash beween Spain and Argentina after World Cup final",
-      "description": "FIFA has opened a disciplinary investigation into the ugly scenes which marred the end of Sunday's World Cup involving several Argentina players and coaches physically attacking members of the Spain team.",
-      "published": "2026-07-20T19:50:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49412098/fifa-investigate-violent-clash-beween-spain-argentina-world-cup-final",
+      "headline": "FIFA to investigate violent clash between Spain and Argentina after World Cup final",
+      "description": "FIFA has opened a disciplinary investigation into the ugly scenes that marred the end of Sunday's World Cup final when players and coaches of Argentina and Spain clashed on the field.",
+      "published": "2026-07-20T22:35:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49412098/fifa-investigate-violent-clash-spain-argentina-world-cup-final",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691847_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
       "kind": "offfield",
@@ -26,7 +95,24 @@
       "players": [
         "Leandro Paredes"
       ],
-      "score": 224
+      "score": 173
+    },
+    {
+      "id": "49412458",
+      "headline": "Are referees too hesitant to give out early bookings?",
+      "description": "Are referees too hesitant to give out early bookings?",
+      "published": "2026-07-20T20:28:48Z",
+      "url": "https://www.espn.com/video/clip/_/id/49412458/are-referees-too-hesitant-give-early-bookings",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_Analysis_Are_referees_too_hesitant_to_give_out_early_bookings_20260720_GLOBAL_FIFA_WORL/dm_260720_COM_SOC_Analysis_Are_referees_too_hesitant_to_give_out_early_bookings_20260720_GLOBAL_FIFA_WORL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 165
     },
     {
       "id": "49411239",
@@ -42,7 +128,46 @@
         "Spain"
       ],
       "players": [],
-      "score": 199
+      "score": 144
+    },
+    {
+      "id": "49407887",
+      "headline": "Transfer rumors, news: Barça could look at move for either Vlahovic or Núñez",
+      "description": "Barcelona are looking at other options at strikers if they fail to sign Julián Álvarez. Transfer Talk has the latest.",
+      "published": "2026-07-20T19:49:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49407887/transfer-rumors-news-arsenal-eye-shock-move-ex-man-city-defender-stones",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691851_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Dusan Vlahovic",
+        "Darwin Núñez",
+        "Lionel Messi"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49411172",
+      "headline": "Spain celebrate World Cup triumph with open-top bus parade in Madrid",
+      "description": "Spain have greeted hundreds of thousands of supporters in Madrid with an open top bus parade after winning the World Cup.",
+      "published": "2026-07-20T22:26:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49411172/spain-celebrate-world-cup-triumph-open-top-bus-parade-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691891_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 138
     },
     {
       "id": "49411317",
@@ -61,29 +186,33 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 191
+      "score": 136
     },
     {
-      "id": "48891969",
-      "headline": "Which World Cup records are most likely to be broken in 2026?",
-      "description": "The latest World Cup presents an opportunity to make history, and North America's expanded tournament this summer could be one to rewrite the record books.",
-      "published": "2026-07-20T16:04:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
-      "image": "https://a.espncdn.com/photo/2026/0529/r1665514_1296x729_16-9.jpg",
-      "byline": "Roberto Rojas",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [],
-      "players": [],
-      "score": 177
+      "id": "49410927",
+      "headline": "Sources: Messi, De Paul on hiatus for next 2 Miami games",
+      "description": "Lionel Messi and Rodrigo De Paul will take some time before rejoining Inter Miami CF for the MLS season following their participation in the FIFA World Cup with Argentina, sources told ESPN.",
+      "published": "2026-07-20T22:31:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49410927/messi-de-paul-hiatus-next-2-miami-games",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691309_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
     },
     {
       "id": "49410508",
       "headline": "Spain World Cup champions return home for a royal welcome, parade",
       "description": "Spain's World Cup-winning team returned home on Monday, where the 26-man squad is due to meet with Spain's royals and Prime Minister Pedro Sánchez.",
-      "published": "2026-07-20T16:40:23Z",
+      "published": "2026-07-20T22:09:36Z",
       "url": "https://www.espn.com/soccer/story/_/id/49410508/spain-world-cup-champions-return-home-royal-welcome-parade",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691725_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691924_1024x576_16-9.jpg",
       "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
@@ -91,7 +220,21 @@
         "Spain"
       ],
       "players": [],
-      "score": 165
+      "score": 128
+    },
+    {
+      "id": "49406672",
+      "headline": "How the 2026 FIFA World Cup was like no other as it inspired and incensed",
+      "description": "The 2026 World Cup and all that went into it -- the gorgeous and garish, the cinematic and corrupt -- will no doubt live long in memory.",
+      "published": "2026-07-20T14:17:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49406672/how-2026-fifa-world-cup-was-no-other-inspired-incensed",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691652_1296x729_16-9.jpg",
+      "byline": "Sam Borden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [],
+      "players": [],
+      "score": 126
     },
     {
       "id": "49409980",
@@ -108,96 +251,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 160
-    },
-    {
-      "id": "49410201",
-      "headline": "Spain open as betting favorite to repeat at 2030 World Cup",
-      "description": "With the 2026 World Cup complete, bookmakers are already looking ahead four years to the 2030 tournament, where they have already installed co-host Spain as the favorite to repeat as world champion.",
-      "published": "2026-07-20T19:05:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49410201/spain-open-betting-favorite-repeat-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691755_1296x729_16-9.jpg",
-      "byline": "Doug Greenberg",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Spain"
-      ],
-      "players": [],
-      "score": 148
-    },
-    {
-      "id": "49407887",
-      "headline": "Transfer rumors, news: Barça could look at move for either Vlahovic or Núñez",
-      "description": "Barcelona are looking at other options at strikers if they fail to sign Julián Álvarez. Transfer Talk has the latest.",
-      "published": "2026-07-20T19:49:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49407887/transfer-rumors-news-arsenal-eye-shock-move-ex-man-city-defender-stones",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691851_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Dusan Vlahovic",
-        "Darwin Núñez",
-        "Leandro Paredes"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49410880",
-      "headline": "Konrad Laimer signs new three-year deal with Bayern Munich",
-      "description": "Bayern Munich defender Konrad Laimer on Monday signed a new three-year deal with the club.",
-      "published": "2026-07-20T17:19:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49410880/konrad-laimer-signs-new-three-year-deal-bayern-munich",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691793_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain",
-        "Austria"
-      ],
-      "players": [
-        "Konrad Laimer",
-        "Leandro Paredes"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49411172",
-      "headline": "Spain celebrate World Cup triumph with open-top bus parade in Madrid",
-      "description": "Spain have greeted hundreds of thousands of supporters in Madrid with an open top bus parade after winning the World Cup.",
-      "published": "2026-07-20T20:08:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49411172/spain-celebrate-world-cup-triumph-open-top-bus-parade-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691828_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Leandro Paredes"
-      ],
-      "score": 140
-    },
-    {
-      "id": "49406672",
-      "headline": "How the 2026 FIFA World Cup was like no other as it inspired and incensed",
-      "description": "The 2026 World Cup and all that went into it -- the gorgeous and garish, the cinematic and corrupt -- will no doubt live long in memory.",
-      "published": "2026-07-20T14:17:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49406672/how-2026-fifa-world-cup-was-no-other-inspired-incensed",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691652_1296x729_16-9.jpg",
-      "byline": "Sam Borden",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [],
-      "players": [],
-      "score": 131
+      "score": 125
     },
     {
       "id": "49408336",
@@ -215,72 +269,7 @@
       "players": [
         "Rodri"
       ],
-      "score": 131
-    },
-    {
-      "id": "49408793",
-      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
-      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
-      "published": "2026-07-20T18:07:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Leandro Paredes"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49409930",
-      "headline": "Source: Italy sound out Pep Guardiola for manager role",
-      "description": "Italy have sounded out the possibility of appointing Pep Guardiola as their next coach after missing out on this summer's World Cup, a source told ESPN.",
-      "published": "2026-07-20T16:03:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49409930/italy-sound-pep-guardiola-manager-role-source",
-      "image": "https://a.espncdn.com/photo/2026/0524/r1662975_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 130
-    },
-    {
-      "id": "49410987",
-      "headline": "Alan Shearer leads tributes to Kevin Keegan: 'Sleep easy Boss'",
-      "description": "Alan Shearer paid tribute to his hero and friend Kevin Keegan following the death of his former Newcastle manager at the age of 75.",
-      "published": "2026-07-20T17:29:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49410987/alan-shearer-leads-tributes-kevin-keegan-sleep-easy-boss",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691796_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "players": [
-        "Leandro Paredes"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49395879",
-      "headline": "Ranking the 2026 World Cup's best viral moments, from Merlin the Duck to the Viking Row",
-      "description": "Forget the football! These meme-worthy moments helped make the 2026 FIFA World Cup one of the most memorable in history.",
-      "published": "2026-07-20T13:55:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49395879/ranking-2026-world-cups-best-viral-moments-merlin-duck-viking-row",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691737_2_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 129
+      "score": 125
     },
     {
       "id": "49407412",
@@ -298,7 +287,52 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 129
+      "score": 124
+    },
+    {
+      "id": "49410201",
+      "headline": "Spain open as betting favorite to repeat at 2030 World Cup",
+      "description": "With the 2026 World Cup complete, bookmakers are already looking ahead four years to the 2030 tournament, where they have already installed co-host Spain as the favorite to repeat as world champion.",
+      "published": "2026-07-20T19:05:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49410201/spain-open-betting-favorite-repeat-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691755_1296x729_16-9.jpg",
+      "byline": "Doug Greenberg",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Spain"
+      ],
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "49395879",
+      "headline": "Ranking the 2026 World Cup's best viral moments, from Merlin the Duck to the Viking Row",
+      "description": "Forget the football! These meme-worthy moments helped make the 2026 FIFA World Cup one of the most memorable in history.",
+      "published": "2026-07-20T13:55:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49395879/ranking-2026-world-cups-best-viral-moments-merlin-duck-viking-row",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691737_2_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 123
+    },
+    {
+      "id": "48891969",
+      "headline": "Which World Cup records are most likely to be broken in 2026?",
+      "description": "The latest World Cup presents an opportunity to make history, and North America's expanded tournament this summer could be one to rewrite the record books.",
+      "published": "2026-07-20T16:04:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
+      "image": "https://a.espncdn.com/photo/2026/0529/r1665514_1296x729_16-9.jpg",
+      "byline": "Roberto Rojas",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [],
+      "players": [],
+      "score": 122
     },
     {
       "id": "49407994",
@@ -316,7 +350,7 @@
       "players": [
         "Leandro Paredes"
       ],
-      "score": 127
+      "score": 122
     },
     {
       "id": "49408622",
@@ -334,7 +368,7 @@
       "players": [
         "Marc Cucurella"
       ],
-      "score": 126
+      "score": 121
     },
     {
       "id": "49405676",
@@ -350,7 +384,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 126
+      "score": 121
     },
     {
       "id": "49407978",
@@ -368,7 +402,7 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 126
+      "score": 121
     },
     {
       "id": "49409908",
@@ -388,7 +422,21 @@
         "Lionel Messi",
         "Kylian Mbappé"
       ],
-      "score": 125
+      "score": 120
+    },
+    {
+      "id": "49409930",
+      "headline": "Source: Italy sound out Pep Guardiola for manager role",
+      "description": "Italy have sounded out the possibility of appointing Pep Guardiola as their next coach after missing out on this summer's World Cup, a source told ESPN.",
+      "published": "2026-07-20T16:03:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49409930/italy-sound-pep-guardiola-manager-role-source",
+      "image": "https://a.espncdn.com/photo/2026/0524/r1662975_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 115
     },
     {
       "id": "49401634",
@@ -406,7 +454,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 120
+      "score": 115
     },
     {
       "id": "49409683",
@@ -422,7 +470,7 @@
         "Belgium"
       ],
       "players": [],
-      "score": 120
+      "score": 115
     },
     {
       "id": "49408199",
@@ -439,7 +487,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 120
+      "score": 115
     },
     {
       "id": "49178425",
@@ -487,7 +535,21 @@
         "Argentina"
       ],
       "players": [],
-      "score": 119
+      "score": 114
+    },
+    {
+      "id": "49409811",
+      "headline": "Zlatan Ibrahimović bid 'farewell' to punditry career live on air after World Cup final",
+      "description": "Zlatan Ibrahimović announced on air that is he is to quit punditry after the World Cup final.",
+      "published": "2026-07-20T14:06:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49409811/zlatan-ibrahimovic-bids-farewell-punditry-career-live-air-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691735_594x334_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 112
     },
     {
       "id": "49408594",
@@ -505,21 +567,7 @@
       "players": [
         "Unai Simón"
       ],
-      "score": 118
-    },
-    {
-      "id": "49409811",
-      "headline": "Zlatan Ibrahimović bid 'farewell' to punditry career live on air after World Cup final",
-      "description": "Zlatan Ibrahimović announced on air that is he is to quit punditry after the World Cup final.",
-      "published": "2026-07-20T14:06:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49409811/zlatan-ibrahimovic-bids-farewell-punditry-career-live-air-world-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691735_594x334_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 117
+      "score": 112
     },
     {
       "id": "49408542",
@@ -537,7 +585,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 117
+      "score": 112
     },
     {
       "id": "49408312",
@@ -555,7 +603,7 @@
       "players": [
         "Dani Olmo"
       ],
-      "score": 116
+      "score": 111
     },
     {
       "id": "49408002",
@@ -573,7 +621,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 114
+      "score": 109
     },
     {
       "id": "49407850",
@@ -592,7 +640,7 @@
         "Marc Cucurella",
         "Rodri"
       ],
-      "score": 113
+      "score": 108
     },
     {
       "id": "49408104",
@@ -608,7 +656,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 112
+      "score": 107
     },
     {
       "id": "49402540",
@@ -625,7 +673,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 112
+      "score": 107
     },
     {
       "id": "49407999",
@@ -651,7 +699,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 112
+      "score": 107
     },
     {
       "id": "47978642",
@@ -669,7 +717,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 109
+      "score": 104
     },
     {
       "id": "49085479",
@@ -687,25 +735,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 109
-    },
-    {
-      "id": "49073399",
-      "headline": "Spain at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the Spain men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-19T23:44:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49073399/spain-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673639_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 109
+      "score": 104
     },
     {
       "id": "49405801",
@@ -724,37 +754,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 107
-    },
-    {
-      "id": "49084603",
-      "headline": "Argentina at the men's World Cup: All-time results and stats",
-      "description": "Take a look at the Argentina men's national team's performance throughout the tournament's history.",
-      "published": "2026-07-19T23:54:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49084603/argentina-men-world-cup-all-results-stats",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674317_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
-      "score": 107
-    },
-    {
-      "id": "48772008",
-      "headline": "Who has won World Cup and Champions League in the same year?",
-      "description": "Fabián Ruiz was the last soccer player to win the UEFA Champions League and the FIFA World Cup in the same year. Find out who else joins him on the list.",
-      "published": "2026-07-19T23:39:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48772008/who-won-world-cup-champions-league-same-year",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691559_608x342_16-9.jpg",
-      "byline": "Keith Jenkins",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 107
+      "score": 102
     },
     {
       "id": "49406228",
@@ -770,7 +770,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 106
+      "score": 101
     },
     {
       "id": "48939282",
@@ -788,7 +788,7 @@
         "USA"
       ],
       "players": [],
-      "score": 106
+      "score": 101
     },
     {
       "id": "49405653",
@@ -807,7 +807,23 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 106
+      "score": 101
+    },
+    {
+      "id": "49084603",
+      "headline": "Argentina at the men's World Cup: All-time results and stats",
+      "description": "Take a look at the Argentina men's national team's performance throughout the tournament's history.",
+      "published": "2026-07-19T23:54:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49084603/argentina-men-world-cup-all-results-stats",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674317_608x342_16-9.jpg",
+      "byline": "Keith Jenkins",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [],
+      "score": 101
     },
     {
       "id": "49405766",
@@ -824,7 +840,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 106
+      "score": 101
     },
     {
       "id": "49405864",
@@ -843,7 +859,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 104
+      "score": 99
     },
     {
       "id": "49404955",
@@ -857,24 +873,7 @@
       "kindLabel": "Celebration",
       "teams": [],
       "players": [],
-      "score": 103
-    },
-    {
-      "id": "49406168",
-      "headline": "Luis de la Fuente's team ethos won the World Cup for Spain",
-      "description": "Luis de la Fuente's Spain lifted the 2026 FIFA World Cup through a series of performances that were the incarnate version of what your little league coach meant when he said, \"there is no 'I' in team.\"",
-      "published": "2026-07-20T01:48:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49406168/luis-de-la-fuentes-team-ethos-won-world-cup-spain",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691598_1296x729_16-9.jpg",
-      "byline": "Gab Marcotti",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 102
+      "score": 98
     }
   ]
 }
