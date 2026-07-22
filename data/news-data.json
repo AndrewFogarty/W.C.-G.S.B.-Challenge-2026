@@ -1,13 +1,63 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-22T21:21:28.345Z",
+  "updated": "2026-07-22T22:31:59.486Z",
   "counts": {
+    "news": 33,
+    "offfield": 7,
     "injury": 2,
-    "news": 31,
-    "offfield": 8,
-    "celebration": 7
+    "celebration": 6
   },
   "items": [
+    {
+      "id": "49427611",
+      "headline": "Burley: England's approach against Argentina was inexcusable",
+      "description": "Burley: England's approach against Argentina was inexcusable",
+      "published": "2026-07-22T22:07:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49427611/england-approach-argentina-was-inexcusable",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Burley_Englands_approach_against_Argentina_was_inexcusable/dm_260722_Burley_Englands_approach_against_Argentina_was_inexcusable.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 209
+    },
+    {
+      "id": "49427167",
+      "headline": "Nicol: Argentina's Ayala should be sacked after World Cup conduct",
+      "description": "Nicol: Argentina's Ayala should be sacked after World Cup conduct",
+      "published": "2026-07-22T21:45:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/49427167/argentina-ayala-sacked-world-cup-conduct",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Nicol_Argentinas_Ayala_should_be_sacked_after_World_Cup_conduct/dm_260722_Nicol_Argentinas_Ayala_should_be_sacked_after_World_Cup_conduct.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 201
+    },
+    {
+      "id": "49427474",
+      "headline": "Burley: Any of Spain's midfield combinations could've worked",
+      "description": "Burley: Any of Spain's midfield combinations could've worked",
+      "published": "2026-07-22T21:45:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/49427474/spain-midfield-combinations-worked",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Burley_Any_of_Spains_midfield_combinations_couldve_worked/dm_260722_Burley_Any_of_Spains_midfield_combinations_couldve_worked.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 199
+    },
     {
       "id": "49425976",
       "headline": "Lewandowski: Didn't see best from Yamal at World Cup",
@@ -25,7 +75,7 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 215
+      "score": 183
     },
     {
       "id": "49426841",
@@ -41,7 +91,7 @@
         "USA"
       ],
       "players": [],
-      "score": 210
+      "score": 178
     },
     {
       "id": "49426371",
@@ -60,7 +110,82 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 190
+      "score": 158
+    },
+    {
+      "id": "49426845",
+      "headline": "Arsenal's William Saliba to miss extended period with back injury, avoids surgery",
+      "description": "Arsenal have confirmed that William Saliba will not require back surgery but will be out for an extended period.",
+      "published": "2026-07-22T21:53:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49426845/arsenal-william-saliba-miss-extended-period-back-injury-avoids-surgery",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682289_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "William Saliba",
+        "Lamine Yamal"
+      ],
+      "score": 146
+    },
+    {
+      "id": "49427686",
+      "headline": "How a volcano scuppered plans for Robert Lewandowski to move to the Premier League",
+      "description": "How a volcano scuppered plans for Robert Lewandowski to move to the Premier League",
+      "published": "2026-07-22T22:21:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49427686/how-volcano-scuppered-plans-robert-lewandowski-move-premier-league",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_How_a_volcano_scuppered_plans_for_Robert_Lewandowski_to_move_to_the_Premier_League/dm_260722_How_a_volcano_scuppered_plans_for_Robert_Lewandowski_to_move_to_the_Premier_League.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Robert Lewandowski",
+        "Lamine Yamal"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49422693",
+      "headline": "Transfer rumors, news: Man United eye move for Camavinga",
+      "description": "Manchester United are exploring the possibility of signing Real Madrid midfielder Eduardo Camavinga. Transfer Talk has the latest.",
+      "published": "2026-07-22T20:18:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49422693/transfer-rumors-news-arsenal-spurs-chelsea-want-man-united-winger-marcus-rashford",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692531_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Eduardo Camavinga",
+        "Lamine Yamal"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49426891",
+      "headline": "Wrexham Women secure historic win in Champions League debut",
+      "description": "Wrexham Women made history by beating FC Pyunik 4-2 in their first ever European fixture to book a spot in the Women's Champions League third-round qualifiers.",
+      "published": "2026-07-22T20:38:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49426891/wrexham-women-secure-historic-win-champions-league-debut",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692537_1296x729_16-9.jpg",
+      "byline": "Olivia Pagden",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 137
     },
     {
       "id": "49423331",
@@ -80,7 +205,7 @@
         "Lionel Messi",
         "Lamine Yamal"
       ],
-      "score": 168
+      "score": 136
     },
     {
       "id": "49416547",
@@ -94,143 +219,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 161
-    },
-    {
-      "id": "49423199",
-      "headline": "ESPN's outrageous, fanciful, way too early African XI for the 2030 FIFA World Cup",
-      "description": "ESPN have taken on the foolish task of predicting the African continent's best XI for the 2030 FIFA World Cup in four years' time.",
-      "published": "2026-07-22T10:24:38Z",
-      "url": "https://www.espn.com/espn/story/_/id/49423199/espn-outrageous-fanciful-way-too-early-african-xi-2030-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0114/r1600409_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Côte d'Ivoire",
-        "Morocco"
-      ],
-      "players": [
-        "Yahia Fofana",
-        "Achraf Hakimi",
-        "Victor Osimhen",
-        "Ayyoub Bouaddi",
-        "Yan Diomande",
-        "Ousmane Diomande"
-      ],
-      "score": 147
-    },
-    {
-      "id": "49426845",
-      "headline": "Arsenal's William Saliba to miss extended period with back injury, avoids surgery",
-      "description": "Arsenal have confirmed that William Saliba will not require back injury but will be out for an extended period.",
-      "published": "2026-07-22T20:29:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49426845/arsenal-william-saliba-miss-extended-period-back-injury-avoids-surgery",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682289_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "William Saliba",
-        "Lamine Yamal"
-      ],
-      "score": 146
-    },
-    {
-      "id": "49422693",
-      "headline": "Transfer rumors, news: Man United eye move for Camavinga",
-      "description": "Manchester United are exploring the possibility of signing Real Madrid midfielder Eduardo Camavinga. Transfer Talk has the latest.",
-      "published": "2026-07-22T20:18:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49422693/transfer-rumors-news-arsenal-spurs-chelsea-want-man-united-winger-marcus-rashford",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692531_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Eduardo Camavinga",
-        "Lamine Yamal"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49426151",
-      "headline": "Chelsea's Alejandro Garnacho nears loan move to Aston Villa - sources",
-      "description": "Alejandro Garnacho is on the brink of a loan move to Aston Villa from Chelsea per ESPN sources.",
-      "published": "2026-07-22T18:33:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49426151/chelsea-alejandro-garnacho-nears-loan-move-aston-villa-sources",
-      "image": "https://a.espncdn.com/photo/2026/0303/r1622788_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Alejandro Garnacho",
-        "Lamine Yamal"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49426891",
-      "headline": "Wrexham Women secure historic win in Champions League debut",
-      "description": "Wrexham Women made history by beating FC Pyunik 4-2 in their first ever European fixture to book a spot in the Women's Champions League third-round qualifiers.",
-      "published": "2026-07-22T20:38:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49426891/wrexham-women-secure-historic-win-champions-league-debut",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692537_1296x729_16-9.jpg",
-      "byline": "Olivia Pagden",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 139
-    },
-    {
-      "id": "48990955",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "published": "2026-07-22T17:19:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692203_2_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49423285",
-      "headline": "Spain's Gavi: Argentina players shouldn't be punished for World Cup final fracas",
-      "description": "Spain midfielder Gavi said he believes Argentina players should not be punished by FIFA for their actions after Sunday's World Cup final.",
-      "published": "2026-07-22T11:32:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49423285/spain-gavi-argentina-players-shouldnt-punished-world-cup-final-fracas",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692336_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [
-        "Gavi"
-      ],
-      "score": 138
+      "score": 130
     },
     {
       "id": "49422933",
@@ -255,7 +244,85 @@
       "players": [
         "Oswin Appollis"
       ],
-      "score": 126
+      "score": 125
+    },
+    {
+      "id": "49416781",
+      "headline": "Why Spain are top of the world in both men's and women's games",
+      "description": "It's no coincidence that Spain are the first nation to hold both the men's and women's World Cups simultaneously. It's been a generation in the making.",
+      "published": "2026-07-22T15:01:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49416781/why-spain-top-world-mens-womens-soccer-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692061_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 119
+    },
+    {
+      "id": "49423285",
+      "headline": "Spain's Gavi: Argentina players shouldn't be punished for World Cup final fracas",
+      "description": "Spain midfielder Gavi said he believes Argentina players should not be punished by FIFA for their actions after Sunday's World Cup final.",
+      "published": "2026-07-22T11:32:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49423285/spain-gavi-argentina-players-shouldnt-punished-world-cup-final-fracas",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692336_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [
+        "Gavi"
+      ],
+      "score": 117
+    },
+    {
+      "id": "49418623",
+      "headline": "World Cup musings: Argentina let Messi down; England have regressed",
+      "description": "Now that the dust has settled on the 2026 FIFA World Cup, what better time for Gabriele Marcotti to pause and reflect on what we've seen?",
+      "published": "2026-07-22T11:19:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49418623/world-cup-musings-argentina-let-messi-england-regressed",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692281_1296x729_16-9.jpg",
+      "byline": "Gab Marcotti",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 116
+    },
+    {
+      "id": "49423199",
+      "headline": "ESPN's outrageous, fanciful, way too early African XI for the 2030 FIFA World Cup",
+      "description": "ESPN have taken on the foolish task of predicting the African continent's best XI for the 2030 FIFA World Cup in four years' time.",
+      "published": "2026-07-22T10:24:38Z",
+      "url": "https://www.espn.com/espn/story/_/id/49423199/espn-outrageous-fanciful-way-too-early-african-xi-2030-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0114/r1600409_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Côte d'Ivoire",
+        "Morocco"
+      ],
+      "players": [
+        "Yahia Fofana",
+        "Achraf Hakimi",
+        "Victor Osimhen",
+        "Ayyoub Bouaddi",
+        "Yan Diomande",
+        "Ousmane Diomande"
+      ],
+      "score": 115
     },
     {
       "id": "49407999",
@@ -281,42 +348,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 123
-    },
-    {
-      "id": "49416781",
-      "headline": "Why Spain are top of the world in both men's and women's games",
-      "description": "It's no coincidence that Spain are the first nation to hold both the men's and women's World Cups simultaneously. It's been a generation in the making.",
-      "published": "2026-07-22T15:01:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416781/why-spain-top-world-mens-womens-soccer-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692061_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 120
-    },
-    {
-      "id": "49418623",
-      "headline": "World Cup musings: Argentina let Messi down; England have regressed",
-      "description": "Now that the dust has settled on the 2026 FIFA World Cup, what better time for Gabriele Marcotti to pause and reflect on what we've seen?",
-      "published": "2026-07-22T11:19:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49418623/world-cup-musings-argentina-let-messi-england-regressed",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692281_1296x729_16-9.jpg",
-      "byline": "Gab Marcotti",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 118
+      "score": 111
     },
     {
       "id": "49422788",
@@ -339,7 +371,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 111
+      "score": 109
     },
     {
       "id": "49422826",
@@ -363,7 +395,7 @@
         "Côte d'Ivoire"
       ],
       "players": [],
-      "score": 111
+      "score": 109
     },
     {
       "id": "49421412",
@@ -381,7 +413,7 @@
       "players": [
         "Guillermo Ochoa"
       ],
-      "score": 111
+      "score": 109
     },
     {
       "id": "49422731",
@@ -397,7 +429,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 110
+      "score": 108
     },
     {
       "id": "49420870",
@@ -414,7 +446,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "49420440",
@@ -428,7 +460,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49410623",
@@ -457,7 +489,7 @@
         "Lamine Yamal",
         "Christian Pulisic"
       ],
-      "score": 101
+      "score": 100
     },
     {
       "id": "49412098",
@@ -476,7 +508,7 @@
       "players": [
         "Leandro Paredes"
       ],
-      "score": 98
+      "score": 96
     },
     {
       "id": "49418224",
@@ -495,7 +527,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 94
+      "score": 93
     },
     {
       "id": "49416894",
@@ -509,7 +541,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49420286",
@@ -523,23 +555,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 90
-    },
-    {
-      "id": "49417273",
-      "headline": "Emi Martínez considering Argentina future after World Cup final heartbreak",
-      "description": "Argentina goalkeeper Emiliano Martínez is considering his international future after suffering the heartache of World Cup final defeat.",
-      "published": "2026-07-21T16:50:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49417273/emi-martinez-argentina-2026-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692073_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
-      "score": 87
+      "score": 89
     },
     {
       "id": "49413564",
@@ -559,7 +575,23 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 87
+      "score": 86
+    },
+    {
+      "id": "49417273",
+      "headline": "Emi Martínez considering Argentina future after World Cup final heartbreak",
+      "description": "Argentina goalkeeper Emiliano Martínez is considering his international future after suffering the heartache of World Cup final defeat.",
+      "published": "2026-07-21T16:50:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49417273/emi-martinez-argentina-2026-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692073_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [],
+      "score": 85
     },
     {
       "id": "49415922",
@@ -577,7 +609,7 @@
       "players": [
         "Álex Baena"
       ],
-      "score": 86
+      "score": 85
     },
     {
       "id": "49416558",
@@ -593,7 +625,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 80
+      "score": 78
     },
     {
       "id": "49416015",
@@ -612,7 +644,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 80
+      "score": 78
     },
     {
       "id": "49416184",
@@ -629,7 +661,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 78
+      "score": 76
     },
     {
       "id": "49411823",
@@ -655,7 +687,7 @@
         "Kylian Mbappé",
         "Vozinha"
       ],
-      "score": 76
+      "score": 74
     },
     {
       "id": "49415443",
@@ -669,7 +701,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 71
+      "score": 69
     },
     {
       "id": "49413636",
@@ -689,7 +721,7 @@
         "Erling Haaland",
         "Vozinha"
       ],
-      "score": 69
+      "score": 67
     },
     {
       "id": "49413188",
@@ -705,7 +737,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49412497",
@@ -724,7 +756,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49412933",
@@ -741,7 +773,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 59
+      "score": 57
     },
     {
       "id": "49410508",
@@ -757,7 +789,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 59
+      "score": 57
     },
     {
       "id": "49412597",
@@ -774,7 +806,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 58
+      "score": 56
     },
     {
       "id": "49411317",
@@ -793,7 +825,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 58
+      "score": 56
     },
     {
       "id": "49412458",
@@ -810,7 +842,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49409980",
@@ -827,7 +859,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49411239",
@@ -843,7 +875,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 55
+      "score": 53
     },
     {
       "id": "49410201",
@@ -859,34 +891,6 @@
         "USA",
         "Spain"
       ],
-      "players": [],
-      "score": 55
-    },
-    {
-      "id": "49395879",
-      "headline": "Ranking the 2026 World Cup's best viral moments, from Merlin the Duck to the Viking Row",
-      "description": "Forget the football! These meme-worthy moments helped make the 2026 FIFA World Cup one of the most memorable in history.",
-      "published": "2026-07-20T13:55:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49395879/ranking-2026-world-cups-best-viral-moments-merlin-duck-viking-row",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691737_2_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 55
-    },
-    {
-      "id": "48891969",
-      "headline": "Which World Cup records are most likely to be broken in 2026?",
-      "description": "The latest World Cup presents an opportunity to make history, and North America's expanded tournament this summer could be one to rewrite the record books.",
-      "published": "2026-07-20T16:04:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
-      "image": "https://a.espncdn.com/photo/2026/0529/r1665514_1296x729_16-9.jpg",
-      "byline": "Roberto Rojas",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [],
       "players": [],
       "score": 53
     }
