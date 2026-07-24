@@ -1,14 +1,298 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-23T22:04:25.740Z",
+  "updated": "2026-07-24T15:48:07.731Z",
   "counts": {
-    "news": 35,
-    "offfield": 8,
+    "news": 37,
+    "injury": 4,
     "preview": 1,
-    "injury": 2,
-    "celebration": 2
+    "offfield": 5,
+    "celebration": 1
   },
   "items": [
+    {
+      "id": "49438479",
+      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
+      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
+      "published": "2026-07-24T14:31:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 208
+    },
+    {
+      "id": "49438321",
+      "headline": "Spain's Luis de la Fuente: Doubting Rodri an 'insult to footballing intelligence'",
+      "description": "Spain coach Luis de la Fuente never had any doubts that Manchester City midfielder Rodri would be a major asset for the team at the World Cup despite concerns about his recent injuries.",
+      "published": "2026-07-24T11:11:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49438321/rodri-spain-luis-da-la-fuente-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691549_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 207
+    },
+    {
+      "id": "49438196",
+      "headline": "The moment Jürgen Klopp was announced as new Germany head coach",
+      "description": "The moment Jürgen Klopp was announced as new Germany head coach",
+      "published": "2026-07-24T10:17:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49438196/the-moment-jurgen-klopp-was-announced-new-germany-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 182
+    },
+    {
+      "id": "49258815",
+      "headline": "Jürgen Klopp named Germany head coach after Julian Nagelsmann departure",
+      "description": "Jürgen Klopp has been named Germany's head coach, following the national team's disappointing World Cup and the resignation of Julian Nagelsmann.",
+      "published": "2026-07-24T12:52:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49258815/jurgen-klopp-germany-manager-world-cup-julian-nagalesmann-resigns",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693111_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 176
+    },
+    {
+      "id": "49409382",
+      "headline": "Forget whether Germany need Klopp. Does Klopp need Germany?",
+      "description": "Jürgen Klopp ended his nine-year spell as Liverpool manager by saying he was too tired to carry on. Now, as Germany boss, is he game to coach again?",
+      "published": "2026-07-24T11:39:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693112_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 164
+    },
+    {
+      "id": "49433484",
+      "headline": "How Spain won the World Cup without a marquee goal scorer or elite defense",
+      "description": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
+      "published": "2026-07-24T08:36:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49433484/how-spain-won-world-cup-marquee-goal-scorer-elite-defense",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692876_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Marc Cucurella",
+        "Pedro Porro",
+        "Aymeric Laporte",
+        "Pau Cubarsí",
+        "Álex Baena",
+        "Mikel Oyarzabal",
+        "Rodri",
+        "Mikel Merino",
+        "Martín Zubimendi"
+      ],
+      "score": 152
+    },
+    {
+      "id": "49438651",
+      "headline": "Pep Guardiola turns down Italy, he'll take year off - source",
+      "description": "Pep Guardiola's intention remains to take \"at least one year\" out of the game despite being approached to take over the vacant Italy coaching job, a source told ESPN.",
+      "published": "2026-07-24T14:11:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49438651/pep-guardiola-turns-italy-take-year-source",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692091_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49434425",
+      "headline": "Darke: Premier League race promises to be a classic based on summer transfers",
+      "description": "It is too early for title race predictions, but even a month ahead of the new season, it is clear that the storylines are intriguing and fascinating.",
+      "published": "2026-07-24T14:23:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49434425/premier-league-ian-darke-transfers-arsenal-manchester-city-manchester-united-liverpool-chelsea",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693174_1296x729_16-9.jpg",
+      "byline": "Ian Darke",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49439836",
+      "headline": "Ilhan Fandi the magic man as Singapore snatch opening ASEAN Championship win over Cambodia",
+      "description": "Ilhan Fandi's stunning 101st-minute strike handed Singapore a dramatic 2-1 win over Cambodia in their ASEAN Championship opener.",
+      "published": "2026-07-24T15:29:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49439836/ilhan-fandi-magic-man-singapore-opening-asean-championship-win-cambodia",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693199_1279x720_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ilhan Fandi",
+        "Lamine Yamal"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49439835",
+      "headline": "Belgium name Van Bommel to replace Rudi Garcia as manager",
+      "description": "Former Netherlands international Mark van Bommel has taken over as head coach of Belgium's national team following their run to the World Cup quarterfinals.",
+      "published": "2026-07-24T15:19:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49439835/belgium-name-mark-van-bommel-replace-rudi-garcia-manager",
+      "image": "https://a.espncdn.com/photo/2023/0918/r1226341_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Belgium",
+        "Netherlands"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49416547",
+      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
+      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
+      "published": "2026-07-24T06:30:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
+      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 132
+    },
+    {
+      "id": "49439075",
+      "headline": "Enzo Maresca: It's a 'privilege' to succeed Pep Guardiola at Man City",
+      "description": "Enzo Maresca has said it's a \"privilege\" to succeed Pep Guardiola at Manchester City.",
+      "published": "2026-07-24T14:33:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49439075/enzo-maresca-man-city-manager-rodri-transfer-news",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693173_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49439637",
+      "headline": "Maresca 'privileged' to succeed Guardiola at Man City",
+      "description": "Maresca 'privileged' to succeed Guardiola at Man City",
+      "published": "2026-07-24T14:27:26Z",
+      "url": "https://www.espn.com/video/clip/_/id/49439637/maresca-privileged-succeed-guardiola-man-city",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_Maresca_privileged_to_succeed_Guardiola_at_Man_City/dm_260724_Maresca_privileged_to_succeed_Guardiola_at_Man_City.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49439310",
+      "headline": "Senegal's appeal against being stripped of AFCON crown to be heard in October",
+      "description": "Senegal's appeal against the decision to strip them of the Africa Cup of Nations title will be heard on Oct. 8.",
+      "published": "2026-07-24T14:12:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49439310/senegal-afcon-appeal-final-morocco-cas",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693188_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Senegal",
+        "Morocco"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49163915",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "published": "2026-07-24T12:23:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49426177",
+      "headline": "Grading FIFA's changes to the World Cup, from expansion to hydration breaks",
+      "description": "Now that the World Cup is over, let's evaluate all the things that FIFA did differently. Which new features earned A's, and which ones were utter flops?",
+      "published": "2026-07-24T07:11:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49426177/grading-fifa-world-cup-changes-expansion-hydration-breaks-tickets-substitutes-red-cards",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 113
+    },
     {
       "id": "49435363",
       "headline": "Colombia backs Néstor Lorenzo with extension after World Cup",
@@ -23,7 +307,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 209
+      "score": 113
     },
     {
       "id": "49178425",
@@ -83,198 +367,7 @@
         "DR Congo"
       ],
       "players": [],
-      "score": 198
-    },
-    {
-      "id": "49426177",
-      "headline": "Grading FIFA's changes to the World Cup, from expansion to hydration breaks",
-      "description": "Now that the World Cup is over, let's evaluate all the things that FIFA did differently. Which new features earned A's, and which ones were utter flops?",
-      "published": "2026-07-23T15:41:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49426177/grading-fifa-world-cup-changes-expansion-hydration-breaks-tickets-substitutes-red-cards",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 176
-    },
-    {
-      "id": "49431378",
-      "headline": "CAF support Gianni Infantino's FIFA bid because of his 'loyalty' to Africa - Patrice Motsepe",
-      "description": "CAF president Patrice Motsepe threw his support behind FIFA president Gianni Infantino on Tuesday, despite a tumultuous FIFA World Cup that has sparked calls for his resignation.",
-      "published": "2026-07-23T12:02:12Z",
-      "url": "https://www.espn.com/espn/story/_/id/49431378/caf-support-gianni-infantino-fifa-bid-loyalty-africa-patrice-motsepe",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 168
-    },
-    {
-      "id": "49430497",
-      "headline": "Argentina FA deny president, treasurer summoned to give evidence to U.S. court",
-      "description": "Argentina's Football Association has denied reports that its president or its treasurer have ‌been summoned to give evidence by United States courts.",
-      "published": "2026-07-23T11:41:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49430497/argentina-fa-deny-president-treasurer-summoned-give-evidence-us-court",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692724_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [],
-      "score": 154
-    },
-    {
-      "id": "49430012",
-      "headline": "Transfer rumors, news: Chelsea near move for Palace's Lacroix",
-      "description": "Chelsea are reportedly looking to strengthen their defense by signing Crystal Palace defender Maxence Lacroix. Transfer Talk has the latest.",
-      "published": "2026-07-23T20:55:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49430012/transfer-rumors-news-liverpool-leading-race-psg-bradley-barcola",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692934_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "South Africa"
-      ],
-      "players": [
-        "Maxence Lacroix",
-        "Folarin Balogun"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49433728",
-      "headline": "Luka Modric signs contract extension at AC Milan to June 2027",
-      "description": "Croatia midfielder Luka Modric has signed a contract extension with AC Milan for another season.",
-      "published": "2026-07-23T18:05:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49433728/luka-modric-signs-contract-extension-ac-milan-june-2027",
-      "image": "https://a.espncdn.com/photo/2026/0223/r1619102_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "South Africa",
-        "Croatia"
-      ],
-      "players": [
-        "Luka Modric",
-        "Folarin Balogun"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49430111",
-      "headline": "Nicol: Pochettino changed the identity of the USMNT",
-      "description": "Nicol: Pochettino changed the identity of the USMNT",
-      "published": "2026-07-23T08:01:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/49430111/pochettino-changed-identity-usmnt",
-      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 139
-    },
-    {
-      "id": "49433927",
-      "headline": "Why Alejandro Garnacho's Aston Villa move starts as a loan",
-      "description": "Why Alejandro Garnacho's Aston Villa move starts as a loan",
-      "published": "2026-07-23T17:11:17Z",
-      "url": "https://www.espn.com/video/clip/_/id/49433927/why-alejandro-garnacho-aston-villa-move-starts-loan",
-      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_Why_Alejandro_Garnachos_Aston_Villa_move_starts_as_a_loan/dm_260723_Why_Alejandro_Garnachos_Aston_Villa_move_starts_as_a_loan.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "South Africa"
-      ],
-      "players": [
-        "Alejandro Garnacho",
-        "Folarin Balogun"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49433509",
-      "headline": "Where to watch 2026 summer preseason soccer: Liverpool and more",
-      "description": "ESPN will present six soccer preseason games ahead of the 2026-27 season. Here's how to watch the action across ESPN platforms.",
-      "published": "2026-07-23T17:31:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49433509/where-watch-2026-summer-preseason-soccer-liverpool-more",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692862_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "South Africa"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49434293",
-      "headline": "Lindop: Iraola didn't want to 'sell himself' to fans",
-      "description": "Lindop: Iraola didn't want to 'sell himself' to fans",
-      "published": "2026-07-23T17:56:39Z",
-      "url": "https://www.espn.com/video/clip/_/id/49434293/iraola-want-sell-fans",
-      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_Lindop_Iraola_didnt_want_to_sell_himself_to_fans/dm_260723_Lindop_Iraola_didnt_want_to_sell_himself_to_fans.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49434259",
-      "headline": "Tighe: Iraola faces unknown territory at Liverpool",
-      "description": "Tighe: Iraola faces unknown territory at Liverpool",
-      "published": "2026-07-23T17:54:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/49434259/iraola-faces-unknown-territory-liverpool",
-      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_Tighe_Iraola_faces_unknown_territory_at_Liverpool/dm_260723_Tighe_Iraola_faces_unknown_territory_at_Liverpool.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49416547",
-      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
-      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
-      "published": "2026-07-23T06:40:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
-      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 123
+      "score": 102
     },
     {
       "id": "49422933",
@@ -299,7 +392,25 @@
       "players": [
         "Oswin Appollis"
       ],
-      "score": 122
+      "score": 95
+    },
+    {
+      "id": "49431378",
+      "headline": "CAF support Gianni Infantino's FIFA bid because of his 'loyalty' to Africa - Patrice Motsepe",
+      "description": "CAF president Patrice Motsepe threw his support behind FIFA president Gianni Infantino on Tuesday, despite a tumultuous FIFA World Cup that has sparked calls for his resignation.",
+      "published": "2026-07-23T12:02:12Z",
+      "url": "https://www.espn.com/espn/story/_/id/49431378/caf-support-gianni-infantino-fifa-bid-loyalty-africa-patrice-motsepe",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 91
     },
     {
       "id": "49365449",
@@ -343,31 +454,7 @@
         "Noah Botic",
         "Luka Jovanovic"
       ],
-      "score": 118
-    },
-    {
-      "id": "49422826",
-      "headline": "Africa's FIFA World Cup, though historic, was characterised by 'what ifs'",
-      "description": "",
-      "published": "2026-07-23T06:37:29Z",
-      "url": "https://www.espn.com/espn/story/_/id/49422826/africa-fifa-world-cup-historic-was-characterised-ifs",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684714_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa",
-        "Ghana",
-        "Senegal",
-        "Morocco",
-        "Egypt",
-        "Cabo Verde",
-        "Tunisia",
-        "Algeria",
-        "Côte d'Ivoire"
-      ],
-      "players": [],
-      "score": 117
+      "score": 91
     },
     {
       "id": "49425976",
@@ -386,23 +473,24 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 117
+      "score": 90
     },
     {
-      "id": "49411239",
-      "headline": "Stargazing: Inside the last days of Spain's quest for a second World Cup",
-      "description": "There was something in the air as Spain prepared for the World Cup final. No, not the smoke of Canadian wildfires, but a certain inevitability.",
-      "published": "2026-07-23T09:50:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49411239/stargazing-last-days-spain-quest-second-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691831_2_1296x729_16-9.jpg",
-      "byline": "Graham Hunter",
+      "id": "49430497",
+      "headline": "Argentina FA deny president, treasurer summoned to give evidence to U.S. court",
+      "description": "Argentina's Football Association has denied reports that its president or its treasurer have ‌been summoned to give evidence by United States courts.",
+      "published": "2026-07-23T11:41:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49430497/argentina-fa-deny-president-treasurer-summoned-give-evidence-us-court",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692724_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Spain"
+        "Argentina",
+        "USA"
       ],
       "players": [],
-      "score": 112
+      "score": 88
     },
     {
       "id": "49423199",
@@ -426,7 +514,47 @@
         "Yan Diomande",
         "Ousmane Diomande"
       ],
-      "score": 110
+      "score": 83
+    },
+    {
+      "id": "49430111",
+      "headline": "Nicol: Pochettino changed the identity of the USMNT",
+      "description": "Nicol: Pochettino changed the identity of the USMNT",
+      "published": "2026-07-23T08:01:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/49430111/pochettino-changed-identity-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 82
+    },
+    {
+      "id": "49422826",
+      "headline": "Africa's FIFA World Cup, though historic, was characterised by 'what ifs'",
+      "description": "",
+      "published": "2026-07-23T06:37:29Z",
+      "url": "https://www.espn.com/espn/story/_/id/49422826/africa-fifa-world-cup-historic-was-characterised-ifs",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684714_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa",
+        "Ghana",
+        "Senegal",
+        "Morocco",
+        "Egypt",
+        "Cabo Verde",
+        "Tunisia",
+        "Algeria",
+        "Côte d'Ivoire"
+      ],
+      "players": [],
+      "score": 80
     },
     {
       "id": "49407999",
@@ -452,7 +580,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 107
+      "score": 80
     },
     {
       "id": "49427167",
@@ -469,7 +597,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 106
+      "score": 79
     },
     {
       "id": "49426841",
@@ -485,7 +613,7 @@
         "USA"
       ],
       "players": [],
-      "score": 96
+      "score": 69
     },
     {
       "id": "49427611",
@@ -502,7 +630,7 @@
         "England"
       ],
       "players": [],
-      "score": 94
+      "score": 67
     },
     {
       "id": "49427474",
@@ -518,7 +646,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 94
+      "score": 67
     },
     {
       "id": "49426371",
@@ -537,7 +665,7 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 93
+      "score": 66
     },
     {
       "id": "49423331",
@@ -557,7 +685,7 @@
         "Lionel Messi",
         "Lamine Yamal"
       ],
-      "score": 91
+      "score": 64
     },
     {
       "id": "49416781",
@@ -573,7 +701,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 83
+      "score": 57
     },
     {
       "id": "49423285",
@@ -592,7 +720,7 @@
       "players": [
         "Gavi"
       ],
-      "score": 81
+      "score": 55
     },
     {
       "id": "49418623",
@@ -611,7 +739,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 81
+      "score": 54
     },
     {
       "id": "49422788",
@@ -634,7 +762,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 74
+      "score": 47
     },
     {
       "id": "49421412",
@@ -652,7 +780,7 @@
       "players": [
         "Guillermo Ochoa"
       ],
-      "score": 74
+      "score": 47
     },
     {
       "id": "49422731",
@@ -668,7 +796,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 73
+      "score": 46
     },
     {
       "id": "49420870",
@@ -685,7 +813,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 71
+      "score": 45
     },
     {
       "id": "49420440",
@@ -699,7 +827,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 66
+      "score": 40
     },
     {
       "id": "49410623",
@@ -728,7 +856,7 @@
         "Lamine Yamal",
         "Christian Pulisic"
       ],
-      "score": 64
+      "score": 38
     },
     {
       "id": "49412098",
@@ -747,7 +875,7 @@
       "players": [
         "Leandro Paredes"
       ],
-      "score": 61
+      "score": 34
     },
     {
       "id": "49418224",
@@ -766,7 +894,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 57
+      "score": 31
     },
     {
       "id": "49416894",
@@ -780,7 +908,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 56
+      "score": 30
     },
     {
       "id": "49420286",
@@ -794,7 +922,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 53
+      "score": 27
     },
     {
       "id": "49417273",
@@ -810,7 +938,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 50
+      "score": 24
     },
     {
       "id": "49413564",
@@ -830,137 +958,7 @@
         "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 50
-    },
-    {
-      "id": "49415922",
-      "headline": "Alex Baena makes history with World Cup triumph, becomes first player to achieve unique feat",
-      "description": "Álex Baena has made history, becoming the first player to win the Euros, Olympic Games and World Cup back-to-back.",
-      "published": "2026-07-21T09:34:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49415922/alex-baena-makes-history-world-cup-triumph-becomes-first-player-achieve-unique-feat-lionel-messi-angel-di-maria",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692031_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Álex Baena"
-      ],
-      "score": 49
-    },
-    {
-      "id": "49416558",
-      "headline": "Enzo Fernández to 'keep giving his all' for Argentina after World Cup heartbreak",
-      "description": "Argentina's Enzo Fernández has said wearing his country's shirt is the \"greatest honour\" for him and has pledged to keep giving everything for the team following heartache in the World Cup final.",
-      "published": "2026-07-21T11:52:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416558/enzo-fernandez-argentina-world-cup-red-card",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692040_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
-      "score": 43
-    },
-    {
-      "id": "49416015",
-      "headline": "Argentina, without Lionel Messi, greeted by fans in Buenos Aires after World Cup return",
-      "description": "Thousands of fans gathered in Buenos Aires on Monday evening to give a warm welcome to the Argentina football squad, who arrived home without captain Lionel Messi after their World Cup final loss to Spain.",
-      "published": "2026-07-21T09:56:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416015/argentina-lionel-messi-greeted-fans-buenos-aires-world-cup-return",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692032_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 43
-    },
-    {
-      "id": "49416184",
-      "headline": "Gary Neville slams Argentina: 'Without Messi, they'd struggle to get to the semifinals'",
-      "description": "Gary Neville has sharply criticised Argentina's style of play in the World Cup final against Spain and is the latest pundit to slam Lionel Scaloni's men for their tactics.",
-      "published": "2026-07-21T10:50:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416184/gary-neville-argentina-world-cup-2026-criticism-stick-football",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692035_1296x729_16-9.jpg",
-      "byline": "Hannah Ryan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 41
-    },
-    {
-      "id": "49411823",
-      "headline": "How will 2026 World Cup be remembered: Messi? Haaland? Cape Verde? Trump?",
-      "description": "Every World Cup has one enduring legacy. 2022 was Messi's win. 2018 was Mbappe's breakout. What will 2026 be remembered for?",
-      "published": "2026-07-21T07:09:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49411823/how-2026-world-cup-remembered-messi-haaland-cape-verde-trump",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691923_1296x729_16-9.png",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Argentina",
-        "France",
-        "Cabo Verde",
-        "Spain",
-        "Norway"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Erling Haaland",
-        "Kylian Mbappé",
-        "Vozinha"
-      ],
-      "score": 39
-    },
-    {
-      "id": "49415443",
-      "headline": "CONMEBOL president says the next World Cup will have 64 teams",
-      "description": "The president of CONMEBOL has said on social media that the 2030 World Cup will be a \"64-team tournament.\"",
-      "published": "2026-07-21T08:27:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49415443/fifa-world-cup-2030-64-teams-gianni-infantino-conmebol",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691513_1296x729_16-9.jpg",
-      "byline": "Hannah Ryan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 34
-    },
-    {
-      "id": "49413636",
-      "headline": "Erling Haaland, Vozinha gain most followers on Instagram during World Cup",
-      "description": "The Norwegian striker and the goalie from Cape Verde were among the most followed players on Instagram during the 2026 World Cup.",
-      "published": "2026-07-21T02:35:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49413636/erling-haaland-vozinha-most-instagram-followed-world-cup-players-2026-world-cup-tournament",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1691959_608x342_16-9.jpg",
-      "byline": "Anthony Gharib",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "Cabo Verde"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Vozinha"
-      ],
-      "score": 32
+      "score": 24
     }
   ]
 }
