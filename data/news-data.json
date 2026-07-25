@@ -1,13 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-25T09:07:41.171Z",
+  "updated": "2026-07-25T10:44:26.375Z",
   "counts": {
-    "news": 35,
-    "offfield": 6,
-    "injury": 4,
+    "news": 33,
+    "offfield": 8,
+    "preview": 1,
+    "injury": 3,
     "celebration": 3
   },
   "items": [
+    {
+      "id": "49416547",
+      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
+      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
+      "published": "2026-07-25T10:21:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
+      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
     {
       "id": "49440743",
       "headline": "What does the future look like for the Italian national team?",
@@ -20,7 +35,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 181
+      "score": 169
     },
     {
       "id": "49440317",
@@ -36,7 +51,7 @@
         "USA"
       ],
       "players": [],
-      "score": 176
+      "score": 164
     },
     {
       "id": "49440737",
@@ -52,7 +67,90 @@
         "England"
       ],
       "players": [],
-      "score": 175
+      "score": 163
+    },
+    {
+      "id": "49425954",
+      "headline": "Which South American players raised their stock at the World Cup?",
+      "description": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
+      "published": "2026-07-25T10:43:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49425954/which-south-american-players-raised-their-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692923_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain",
+        "Paraguay",
+        "Ecuador",
+        "Brazil",
+        "Colombia"
+      ],
+      "players": [
+        "Orlando Gill",
+        "Matías Galarza",
+        "Danilo Santos",
+        "Gustavo Puerta",
+        "Pedro Vite",
+        "Lamine Yamal"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49445331",
+      "headline": "Transfer rumors, news: Could Arsenal's Gyökeres join Atlético in Alvarez swap move?",
+      "description": "Atlético Madrid could look to involve Viktor Gyökeres in any deal from Arsenal for striker Julián Álvarez. Transfer Talk has the latest.",
+      "published": "2026-07-25T10:38:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49445331/transfer-rumors-news-arsenal-viktor-gyokeres-atletico-madrid-julian-alvarez-swap-move",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693469_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Viktor Gyökeres",
+        "Julián Álvarez",
+        "Lamine Yamal"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49445293",
+      "headline": "Abdukodir Khusanov signs new long-term deal with Manchester City",
+      "description": "Manchester City have agreed terms on a new contract for Abdukodir Khusanov, the club have confirmed.",
+      "published": "2026-07-25T10:13:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49445293/man-city-abdukoir-khusanov-long-term-contract-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693466_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49154575",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "published": "2026-07-25T10:23:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 141
     },
     {
       "id": "49438479",
@@ -68,7 +166,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 152
+      "score": 140
     },
     {
       "id": "49438321",
@@ -84,36 +182,18 @@
         "Spain"
       ],
       "players": [],
-      "score": 151
+      "score": 139
     },
     {
-      "id": "49443041",
-      "headline": "Ilhan's 101st-minute stunner hands Singapore opening win",
-      "description": "An incredible injury-time strike by Ilhan Fandi saw Singapore dramatically beat Cambodia 2-1 in the opening game of the 2026 ASEAN Championship.",
-      "published": "2026-07-25T00:38:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/49443041/ilhan-101st-minute-stunner-hands-singapore-opening-win",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_Soccer_Highlight_Ilhans_101stminute_stunner_hands_Singapore_opening_win_2027725_No_Target/dm_260724_Soccer_Highlight_Ilhans_101stminute_stunner_hands_Singapore_opening_win_2027725_No_Target.jpg",
-      "byline": null,
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 134
-    },
-    {
-      "id": "49441706",
-      "headline": "Singapore no longer simply satisfied with winning -- and it's down to Gavin Lee's standards",
-      "description": "Singapore were far from satisfied despite an opening win at the ASEAN Championship -- and it is a sign of their growing standards under Gavin Lee.",
-      "published": "2026-07-25T01:01:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49441706/asean-championship-hyundai-cup-singapore-no-longer-simply-satisfied-winning-gavin-lee-standards",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693315_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-07-25T10:28:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Spain"
       ],
@@ -123,28 +203,40 @@
       "score": 133
     },
     {
-      "id": "49444220",
-      "headline": "Portland Thorns FC vs. NJ/NY Gotham FC - Game Highlights",
-      "description": "Watch the Game Highlights from Portland Thorns FC vs. NJ/NY Gotham FC, 07/25/2026",
-      "published": "2026-07-25T04:15:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/49444220/portland-thorns-fc-vs-nj-ny-gotham-fc-game-highlights",
-      "image": "https://a.espncdn.com/media/motion/wsc/2026/0725/88369fef-1de7-4a7d-aff3-89ae874babbe/88369fef-1de7-4a7d-aff3-89ae874babbe.jpg",
-      "byline": null,
+      "id": "49408793",
+      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
+      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
+      "published": "2026-07-25T10:26:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Spain"
       ],
       "players": [
-        "Midge Purce",
-        "Jessie Fleming",
-        "Sam Kerr",
-        "Jayden Perry",
-        "Sophia Wilson",
-        "Renee Lyles",
         "Lamine Yamal"
       ],
-      "score": 126
+      "score": 133
+    },
+    {
+      "id": "49417788",
+      "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
+      "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
+      "published": "2026-07-25T10:21:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal"
+      ],
+      "score": 132
     },
     {
       "id": "49438196",
@@ -160,91 +252,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 126
-    },
-    {
-      "id": "49443896",
-      "headline": "Houston Dash vs. Bay FC - Game Highlights",
-      "description": "Watch the Game Highlights from Houston Dash vs. Bay FC, 07/25/2026",
-      "published": "2026-07-25T02:46:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/49443896/houston-dash-vs-bay-fc-game-highlights",
-      "image": "https://a.espncdn.com/media/motion/wsc/2026/0725/4f1b063a-9aa5-4299-8580-9ac1ba0edeeb/4f1b063a-9aa5-4299-8580-9ac1ba0edeeb.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Kiki Van Zanten",
-        "Joelle Anderson",
-        "Allysha Chapman",
-        "Leah Klenke",
-        "Kennedy Fuller",
-        "Linda Ullmark",
-        "Sarah Puntigam",
-        "Lamine Yamal"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49443894",
-      "headline": "Orlando Pride vs. Chicago Stars - Game Highlights",
-      "description": "Watch the Game Highlights from Orlando Pride vs. Chicago Stars, 07/25/2026",
-      "published": "2026-07-25T02:45:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49443894/orlando-pride-vs-chicago-stars-game-highlights",
-      "image": "https://a.espncdn.com/media/motion/wsc/2026/0725/4dacbc6a-7575-4ec2-b5c1-ff6eaf8a9e01/4dacbc6a-7575-4ec2-b5c1-ff6eaf8a9e01.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Aaliyah Farmer",
-        "Marta",
-        "Julie Doyle",
-        "Haley McCutcheon",
-        "Lamine Yamal"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49439836",
-      "headline": "Ilhan Fandi the magic man as Singapore snatch opening ASEAN Championship win over Cambodia",
-      "description": "Ilhan Fandi's stunning 101st-minute strike handed Singapore a dramatic 2-1 win over Cambodia in their ASEAN Championship opener.",
-      "published": "2026-07-25T00:58:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49439836/ilhan-fandi-magic-man-singapore-opening-asean-championship-win-cambodia",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693199_1279x720_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ilhan Fandi",
-        "Lamine Yamal"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49443007",
-      "headline": "Defending champions Vietnam issue statement with 7-0 rout",
-      "description": "Vietnam opened their ASEAN Championship title defence with an emphatic 7-0 thrashing of Timor-Leste.",
-      "published": "2026-07-25T00:32:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49443007/defending-champions-vietnam-issue-statement-7-0-rout",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_Soccer_Highlight_Defending_champions_Vietnam_issue_statement_with_70_rout_2026725_No_Targe/dm_260724_Soccer_Highlight_Defending_champions_Vietnam_issue_statement_with_70_rout_2026725_No_Targe.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 120
+      "score": 113
     },
     {
       "id": "49258815",
@@ -260,25 +268,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 120
-    },
-    {
-      "id": "49442372",
-      "headline": "Liga MX announce Francisco Iturbide as new president",
-      "description": "Liga MX announced on Friday that Francisco Iturbide will replace Mikel Arriola as the new president of the Mexican top-flight, thereby leaving Arriola as commissioner of the Mexican Football Federation (FMF) after he recently held both roles.",
-      "published": "2026-07-24T22:03:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49442372/liga-mx-announce-francisco-iturbide-new-president",
-      "image": "https://a.espncdn.com/photo/2026/0223/r1618843_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 116
+      "score": 107
     },
     {
       "id": "49409382",
@@ -294,7 +284,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 108
+      "score": 95
     },
     {
       "id": "49433484",
@@ -321,7 +311,7 @@
         "Mikel Merino",
         "Martín Zubimendi"
       ],
-      "score": 96
+      "score": 94
     },
     {
       "id": "49426177",
@@ -335,21 +325,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 87
-    },
-    {
-      "id": "49416547",
-      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
-      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
-      "published": "2026-07-24T06:30:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
-      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 86
+      "score": 85
     },
     {
       "id": "49435363",
@@ -365,7 +341,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 77
+      "score": 74
     },
     {
       "id": "49178425",
@@ -425,7 +401,7 @@
         "DR Congo"
       ],
       "players": [],
-      "score": 76
+      "score": 73
     },
     {
       "id": "49422933",
@@ -450,7 +426,7 @@
       "players": [
         "Oswin Appollis"
       ],
-      "score": 69
+      "score": 67
     },
     {
       "id": "49431378",
@@ -468,7 +444,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 65
+      "score": 63
     },
     {
       "id": "49365449",
@@ -512,7 +488,7 @@
         "Noah Botic",
         "Luka Jovanovic"
       ],
-      "score": 65
+      "score": 63
     },
     {
       "id": "49425976",
@@ -531,7 +507,7 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 64
+      "score": 62
     },
     {
       "id": "49430497",
@@ -548,7 +524,7 @@
         "USA"
       ],
       "players": [],
-      "score": 62
+      "score": 59
     },
     {
       "id": "49423199",
@@ -572,7 +548,7 @@
         "Yan Diomande",
         "Ousmane Diomande"
       ],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49430111",
@@ -588,7 +564,7 @@
         "USA"
       ],
       "players": [],
-      "score": 56
+      "score": 54
     },
     {
       "id": "49422826",
@@ -612,7 +588,7 @@
         "Côte d'Ivoire"
       ],
       "players": [],
-      "score": 54
+      "score": 52
     },
     {
       "id": "49407999",
@@ -638,7 +614,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 54
+      "score": 52
     },
     {
       "id": "49427167",
@@ -655,7 +631,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 53
+      "score": 51
     },
     {
       "id": "49426841",
@@ -671,7 +647,7 @@
         "USA"
       ],
       "players": [],
-      "score": 43
+      "score": 41
     },
     {
       "id": "49427611",
@@ -688,7 +664,7 @@
         "England"
       ],
       "players": [],
-      "score": 42
+      "score": 39
     },
     {
       "id": "49427474",
@@ -704,7 +680,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 41
+      "score": 39
     },
     {
       "id": "49426371",
@@ -723,7 +699,7 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 40
+      "score": 38
     },
     {
       "id": "49423331",
@@ -743,7 +719,7 @@
         "Lionel Messi",
         "Lamine Yamal"
       ],
-      "score": 38
+      "score": 36
     },
     {
       "id": "49416781",
@@ -759,7 +735,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 31
+      "score": 28
     },
     {
       "id": "49423285",
@@ -778,7 +754,7 @@
       "players": [
         "Gavi"
       ],
-      "score": 29
+      "score": 26
     },
     {
       "id": "49418623",
@@ -797,7 +773,43 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 28
+      "score": 26
+    },
+    {
+      "id": "49421412",
+      "headline": "Mexico great Guillermo Ochoa retires after 22-year career",
+      "description": "Guillermo Ochoa, widely considered among the greatest Mexican goalkeepers in history, announced his retirement from elite soccer on Tuesday, bringing an end to a distinguished 22-year professional career.",
+      "published": "2026-07-22T02:00:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49421412/mexico-great-guillermo-ochoa-retires-22-year-career",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678707_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Mexico"
+      ],
+      "players": [
+        "Guillermo Ochoa"
+      ],
+      "score": 20
+    },
+    {
+      "id": "49415922",
+      "headline": "Alex Baena makes history with World Cup triumph, becomes first player to achieve unique feat",
+      "description": "Álex Baena has made history, becoming the first player to win the Euros, Olympic Games and World Cup back-to-back.",
+      "published": "2026-07-21T09:34:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49415922/alex-baena-makes-history-world-cup-triumph-becomes-first-player-achieve-unique-feat-lionel-messi-angel-di-maria",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692031_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Álex Baena"
+      ],
+      "score": 20
     },
     {
       "id": "49422788",
@@ -820,25 +832,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 21
-    },
-    {
-      "id": "49421412",
-      "headline": "Mexico great Guillermo Ochoa retires after 22-year career",
-      "description": "Guillermo Ochoa, widely considered among the greatest Mexican goalkeepers in history, announced his retirement from elite soccer on Tuesday, bringing an end to a distinguished 22-year professional career.",
-      "published": "2026-07-22T02:00:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49421412/mexico-great-guillermo-ochoa-retires-22-year-career",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678707_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Mexico"
-      ],
-      "players": [
-        "Guillermo Ochoa"
-      ],
-      "score": 21
+      "score": 19
     },
     {
       "id": "49422731",
@@ -854,42 +848,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 20
-    },
-    {
-      "id": "49415922",
-      "headline": "Alex Baena makes history with World Cup triumph, becomes first player to achieve unique feat",
-      "description": "Álex Baena has made history, becoming the first player to win the Euros, Olympic Games and World Cup back-to-back.",
-      "published": "2026-07-21T09:34:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49415922/alex-baena-makes-history-world-cup-triumph-becomes-first-player-achieve-unique-feat-lionel-messi-angel-di-maria",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692031_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Álex Baena"
-      ],
-      "score": 20
-    },
-    {
-      "id": "49420870",
-      "headline": "World Cup final peaks at 60M viewers in North America",
-      "description": "A lot of things went right during this summer's World Cup, including record viewership numbers in North America for Spain's 1-0 win over Argentina in Sunday's final.",
-      "published": "2026-07-22T06:48:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49420870/world-cup-final-peaks-60m-viewers-north-america",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692263_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 19
+      "score": 18
     },
     {
       "id": "49420440",
@@ -936,6 +895,23 @@
       "score": 17
     },
     {
+      "id": "49420870",
+      "headline": "World Cup final peaks at 60M viewers in North America",
+      "description": "A lot of things went right during this summer's World Cup, including record viewership numbers in North America for Spain's 1-0 win over Argentina in Sunday's final.",
+      "published": "2026-07-22T06:48:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49420870/world-cup-final-peaks-60m-viewers-north-america",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692263_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 16
+    },
+    {
       "id": "49410623",
       "headline": "Grading the 2026 World Cup from Spain's A to Infantino's F",
       "description": "The World Cup is officially over, and it's time to provide some final grades for some of the teams and people who became household names in North America.",
@@ -961,6 +937,25 @@
         "Kylian Mbappé",
         "Lamine Yamal",
         "Christian Pulisic"
+      ],
+      "score": 13
+    },
+    {
+      "id": "49418224",
+      "headline": "Lionel Messi returns to Rosario for rest after World Cup final loss",
+      "description": "Lionel Messi arrived back in Rosario, Argentina, on Tuesday for a few days of rest following the World Cup final loss to Spain.",
+      "published": "2026-07-21T19:37:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49418224/lionel-messi-returns-rosario-rest-world-cup-final-loss",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691588_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Lionel Messi"
       ],
       "score": 13
     }
