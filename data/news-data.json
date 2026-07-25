@@ -1,13 +1,29 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-25T18:41:44.909Z",
+  "updated": "2026-07-25T19:58:46.558Z",
   "counts": {
-    "news": 35,
-    "offfield": 8,
+    "offfield": 11,
+    "news": 32,
     "injury": 3,
     "celebration": 2
   },
   "items": [
+    {
+      "id": "49448250",
+      "headline": "President: Vozinha to sign for Colo Colo after stellar World Cup",
+      "description": "Cape Verde goalkeeper Vozinha has signed a contract with Colo Colo, the South American country's biggest soccer team, its president said.",
+      "published": "2026-07-25T19:01:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49448250/vozinha-sign-colo-colo-stellar-world-cup-president",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673689_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 221
+    },
     {
       "id": "49447628",
       "headline": "Will Pochettino leave USMNT role?",
@@ -22,7 +38,7 @@
         "USA"
       ],
       "players": [],
-      "score": 208
+      "score": 196
     },
     {
       "id": "49447596",
@@ -36,7 +52,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 193
+      "score": 181
     },
     {
       "id": "49425954",
@@ -61,7 +77,7 @@
         "Gustavo Puerta",
         "Pedro Vite"
       ],
-      "score": 193
+      "score": 181
     },
     {
       "id": "49416547",
@@ -75,7 +91,45 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 164
+      "score": 152
+    },
+    {
+      "id": "48991002",
+      "headline": "Summer transfer window: Grading big signings in women's soccer",
+      "description": "The women's transfer window is open for the summer. Here are the big deals and how we rated them.",
+      "published": "2026-07-25T18:06:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48991002/summer-transfer-window-grading-big-signings-womens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693543_1296x729_16-9.jpg",
+      "byline": "Emily Keogh and Yash Thakur",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49447859",
+      "headline": "Not another one! Erling Haaland's cousin Jonatan Braut Brunes signs for Sparta Prague",
+      "description": "Sparta Prague have signed Norwegian centre-forward Jonatan Braut Brunes, cousin of Manchester City star Erling Haaland, from Polish side Raków Częstochowa.",
+      "published": "2026-07-25T17:43:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49447859/erling-haaland-cousin-jonatan-braut-brunes-signs-sparta-prague",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693583_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Jonatan Brunes",
+        "Orlando Gill"
+      ],
+      "score": 142
     },
     {
       "id": "49447813",
@@ -95,7 +149,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 143
+      "score": 141
     },
     {
       "id": "49445331",
@@ -114,16 +168,16 @@
         "Mohamed Salah",
         "Orlando Gill"
       ],
-      "score": 142
+      "score": 140
     },
     {
-      "id": "49447597",
-      "headline": "Barcelona will support family of worker who died during Camp Nou renovation",
-      "description": "Barcelona have pledged to support the family of a worker who died during renovations at their Camp Nou stadium.",
-      "published": "2026-07-25T17:13:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49447597/barcelona-support-family-worker-died-camp-nou-renovation",
-      "image": "https://a.espncdn.com/photo/2025/1122/r1579125_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49408793",
+      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
+      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
+      "published": "2026-07-25T18:34:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -135,13 +189,13 @@
       "score": 131
     },
     {
-      "id": "49447014",
-      "headline": "Arsenal interested in Real Madrid star Vinícius Júnior - sources",
-      "description": "Arsenal are interested in Real Madrid forward Vinícius Júnior but the situation is at a very tentative stage, sources have told ESPN.",
-      "published": "2026-07-25T16:58:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49447014/arsenal-vinicius-junior-real-madrid-premier-league-transfers",
-      "image": "https://a.espncdn.com/photo/2026/0725/r1693516_1296x729_16-9.jpg",
-      "byline": "Rodra, James Olley, Alex Kirkland",
+      "id": "49447991",
+      "headline": "Woking claim Jermain Defoe missed meeting as 'growing concerns' led to exit",
+      "description": "Woking's Director of Football Jody Brown has said there were \"growing concerns\" about head coach Jermain Defoe days after both parties had mutually agreed to part ways.",
+      "published": "2026-07-25T18:23:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49447991/woking-claim-jermain-defoe-missed-meeting-growing-concerns-led-exit",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693087_1296x729_16-9.jpg",
+      "byline": "Nina Hristova",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -150,45 +204,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 130
-    },
-    {
-      "id": "49447577",
-      "headline": "Will Lewandowski moving to Chicago Fire benefit MLS?",
-      "description": "Will Lewandowski moving to Chicago Fire benefit MLS?",
-      "published": "2026-07-25T16:57:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/49447577/will-lewandowski-moving-chicago-fire-benefit-mls",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Lewandowski_moving_to_Chicago_Fire_benefit_MLS3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Lewandowski_moving_to_Chicago_Fire_benefit_MLS3F__GLOBAL_2026-07-25.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Robert Lewandowski",
-        "Orlando Gill"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49447432",
-      "headline": "Eddie Howe unsure on Bruno Guimarães' Newcastle future amid Arsenal interest",
-      "description": "Eddie Howe has said that he is unsure whether Newcastle United captain Bruno Guimarães will remain at the club next season.",
-      "published": "2026-07-25T16:42:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49447432/eddie-howe-bruno-guimaraes-newcastle-future-amid-arsenal-interest",
-      "image": "https://a.espncdn.com/photo/2026/0725/r1693556_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Bruno Guimarães",
-        "Orlando Gill"
-      ],
-      "score": 130
+      "score": 131
     },
     {
       "id": "49440743",
@@ -202,7 +218,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 127
+      "score": 115
     },
     {
       "id": "49440317",
@@ -218,7 +234,7 @@
         "USA"
       ],
       "players": [],
-      "score": 122
+      "score": 110
     },
     {
       "id": "49440737",
@@ -234,23 +250,7 @@
         "England"
       ],
       "players": [],
-      "score": 121
-    },
-    {
-      "id": "49438479",
-      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "published": "2026-07-24T14:31:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 98
+      "score": 109
     },
     {
       "id": "49438321",
@@ -266,7 +266,23 @@
         "Spain"
       ],
       "players": [],
-      "score": 97
+      "score": 95
+    },
+    {
+      "id": "49438479",
+      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
+      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
+      "published": "2026-07-24T14:31:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 86
     },
     {
       "id": "49258815",
@@ -282,7 +298,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 85
+      "score": 83
     },
     {
       "id": "49409382",
@@ -298,7 +314,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 83
+      "score": 82
     },
     {
       "id": "49433484",
@@ -325,7 +341,7 @@
         "Mikel Merino",
         "Martín Zubimendi"
       ],
-      "score": 82
+      "score": 80
     },
     {
       "id": "49438196",
@@ -341,7 +357,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 81
+      "score": 79
     },
     {
       "id": "49426177",
@@ -355,7 +371,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 73
+      "score": 71
     },
     {
       "id": "49435363",
@@ -371,7 +387,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 63
+      "score": 61
     },
     {
       "id": "49178425",
@@ -431,7 +447,7 @@
         "DR Congo"
       ],
       "players": [],
-      "score": 61
+      "score": 59
     },
     {
       "id": "49422933",
@@ -456,7 +472,7 @@
       "players": [
         "Oswin Appollis"
       ],
-      "score": 55
+      "score": 53
     },
     {
       "id": "49431378",
@@ -474,7 +490,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 51
+      "score": 49
     },
     {
       "id": "49365449",
@@ -518,7 +534,7 @@
         "Noah Botic",
         "Luka Jovanovic"
       ],
-      "score": 51
+      "score": 49
     },
     {
       "id": "49425976",
@@ -537,7 +553,7 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 50
+      "score": 48
     },
     {
       "id": "49430497",
@@ -554,7 +570,7 @@
         "USA"
       ],
       "players": [],
-      "score": 48
+      "score": 46
     },
     {
       "id": "49423199",
@@ -578,7 +594,7 @@
         "Yan Diomande",
         "Ousmane Diomande"
       ],
-      "score": 43
+      "score": 41
     },
     {
       "id": "49430111",
@@ -594,7 +610,7 @@
         "USA"
       ],
       "players": [],
-      "score": 42
+      "score": 40
     },
     {
       "id": "49422826",
@@ -618,7 +634,7 @@
         "Côte d'Ivoire"
       ],
       "players": [],
-      "score": 40
+      "score": 38
     },
     {
       "id": "49407999",
@@ -644,7 +660,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 40
+      "score": 38
     },
     {
       "id": "49427167",
@@ -661,7 +677,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 39
+      "score": 37
     },
     {
       "id": "49426841",
@@ -677,7 +693,7 @@
         "USA"
       ],
       "players": [],
-      "score": 29
+      "score": 27
     },
     {
       "id": "49427611",
@@ -694,7 +710,7 @@
         "England"
       ],
       "players": [],
-      "score": 27
+      "score": 25
     },
     {
       "id": "49427474",
@@ -710,7 +726,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 27
+      "score": 25
     },
     {
       "id": "49426371",
@@ -729,7 +745,7 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 26
+      "score": 24
     },
     {
       "id": "49423331",
@@ -749,7 +765,7 @@
         "Lionel Messi",
         "Lamine Yamal"
       ],
-      "score": 24
+      "score": 22
     },
     {
       "id": "49421412",
@@ -829,7 +845,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 16
+      "score": 15
     },
     {
       "id": "49423285",
@@ -848,7 +864,7 @@
       "players": [
         "Gavi"
       ],
-      "score": 14
+      "score": 13
     },
     {
       "id": "49418623",
@@ -867,7 +883,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 14
+      "score": 13
     },
     {
       "id": "49410623",
@@ -933,32 +949,6 @@
       ],
       "players": [
         "Lionel Messi"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49411823",
-      "headline": "How will 2026 World Cup be remembered: Messi? Haaland? Cape Verde? Trump?",
-      "description": "Every World Cup has one enduring legacy. 2022 was Messi's win. 2018 was Mbappe's breakout. What will 2026 be remembered for?",
-      "published": "2026-07-21T07:09:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49411823/how-2026-world-cup-remembered-messi-haaland-cape-verde-trump",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691923_1296x729_16-9.png",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Argentina",
-        "France",
-        "Cabo Verde",
-        "Spain",
-        "Norway"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Erling Haaland",
-        "Kylian Mbappé",
-        "Vozinha"
       ],
       "score": 13
     }
