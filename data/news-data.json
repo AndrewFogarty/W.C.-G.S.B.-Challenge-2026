@@ -1,14 +1,38 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-25T10:44:26.375Z",
+  "updated": "2026-07-25T11:51:09.021Z",
   "counts": {
-    "news": 33,
-    "offfield": 8,
-    "preview": 1,
-    "injury": 3,
-    "celebration": 3
+    "offfield": 7,
+    "news": 34,
+    "injury": 5,
+    "celebration": 2
   },
   "items": [
+    {
+      "id": "49425954",
+      "headline": "Which South American players raised their stock at the World Cup?",
+      "description": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
+      "published": "2026-07-25T10:43:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49425954/which-south-american-players-raised-their-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692923_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay",
+        "Ecuador",
+        "Brazil",
+        "Colombia"
+      ],
+      "players": [
+        "Orlando Gill",
+        "Matías Galarza",
+        "Danilo Santos",
+        "Gustavo Puerta",
+        "Pedro Vite"
+      ],
+      "score": 223
+    },
     {
       "id": "49416547",
       "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
@@ -21,7 +45,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 205
+      "score": 194
     },
     {
       "id": "49440743",
@@ -35,7 +59,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 169
+      "score": 157
     },
     {
       "id": "49440317",
@@ -51,7 +75,7 @@
         "USA"
       ],
       "players": [],
-      "score": 164
+      "score": 152
     },
     {
       "id": "49440737",
@@ -67,90 +91,63 @@
         "England"
       ],
       "players": [],
-      "score": 163
+      "score": 151
     },
     {
-      "id": "49425954",
-      "headline": "Which South American players raised their stock at the World Cup?",
-      "description": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
-      "published": "2026-07-25T10:43:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49425954/which-south-american-players-raised-their-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692923_1296x729_16-9.jpg",
-      "byline": "Tim Vickery",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49444838",
+      "headline": "USWNT defender Emily Sonnett stretchered off in Gotham FC draw with Portland Thorns",
+      "description": "Gotham FC and United States women's national team defender Emily Sonnett was stretchered off the field in the opening minutes of Gotham's 2-2 draw with the Portland Thorns on Friday after a non-contact knee injury.",
+      "published": "2026-07-25T07:24:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49444838/uswnt-gotham-fc-portland-thorns-emily-sonnett",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693459_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
-        "Spain",
         "Paraguay",
-        "Ecuador",
-        "Brazil",
-        "Colombia"
+        "USA"
       ],
       "players": [
-        "Orlando Gill",
-        "Matías Galarza",
-        "Danilo Santos",
-        "Gustavo Puerta",
-        "Pedro Vite",
-        "Lamine Yamal"
+        "Emily Sonnett",
+        "Orlando Gill"
       ],
-      "score": 145
+      "score": 140
     },
     {
-      "id": "49445331",
-      "headline": "Transfer rumors, news: Could Arsenal's Gyökeres join Atlético in Alvarez swap move?",
-      "description": "Atlético Madrid could look to involve Viktor Gyökeres in any deal from Arsenal for striker Julián Álvarez. Transfer Talk has the latest.",
-      "published": "2026-07-25T10:38:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49445331/transfer-rumors-news-arsenal-viktor-gyokeres-atletico-madrid-julian-alvarez-swap-move",
-      "image": "https://a.espncdn.com/photo/2026/0725/r1693469_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49443041",
+      "headline": "Ilhan's 101st-minute stunner hands Singapore opening win",
+      "description": "An incredible injury-time strike by Ilhan Fandi saw Singapore dramatically beat Cambodia 2-1 in the opening game of the 2026 ASEAN Championship.",
+      "published": "2026-07-25T00:38:38Z",
+      "url": "https://www.espn.com/video/clip/_/id/49443041/ilhan-101st-minute-stunner-hands-singapore-opening-win",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_Soccer_Highlight_Ilhans_101stminute_stunner_hands_Singapore_opening_win_2027725_No_Target/dm_260724_Soccer_Highlight_Ilhans_101stminute_stunner_hands_Singapore_opening_win_2027725_No_Target.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49441706",
+      "headline": "Singapore no longer simply satisfied with winning -- and it's down to Gavin Lee's standards",
+      "description": "Singapore were far from satisfied despite an opening win at the ASEAN Championship -- and it is a sign of their growing standards under Gavin Lee.",
+      "published": "2026-07-25T01:01:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49441706/asean-championship-hyundai-cup-singapore-no-longer-simply-satisfied-winning-gavin-lee-standards",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693315_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Spain"
+        "Paraguay"
       ],
       "players": [
-        "Viktor Gyökeres",
-        "Julián Álvarez",
-        "Lamine Yamal"
+        "Orlando Gill"
       ],
-      "score": 145
-    },
-    {
-      "id": "49445293",
-      "headline": "Abdukodir Khusanov signs new long-term deal with Manchester City",
-      "description": "Manchester City have agreed terms on a new contract for Abdukodir Khusanov, the club have confirmed.",
-      "published": "2026-07-25T10:13:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49445293/man-city-abdukoir-khusanov-long-term-contract-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0725/r1693466_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49154575",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "published": "2026-07-25T10:23:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "byline": "Grace Allen",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 141
+      "score": 129
     },
     {
       "id": "49438479",
@@ -166,7 +163,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 140
+      "score": 128
     },
     {
       "id": "49438321",
@@ -182,16 +179,125 @@
         "Spain"
       ],
       "players": [],
-      "score": 139
+      "score": 127
     },
     {
-      "id": "48955344",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "published": "2026-07-25T10:28:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49444378",
+      "headline": "Sam Kerr nets her first goal for Gotham City",
+      "description": "The Matildas star gets on the end of a rebound and tucks it past keeper -- and national team teammate -- Mackenzie Arnold for her first goal in new colours.",
+      "published": "2026-07-25T04:56:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49444378/sam-kerr-nets-first-goal-gotham-city",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_Soccer_HIGHLIGHT_Sam_Kerr_nets_her_first_goal_for_Gotham_City_2026725_AUS/dm_260725_Soccer_HIGHLIGHT_Sam_Kerr_nets_her_first_goal_for_Gotham_City_2026725_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Sam Kerr",
+        "Orlando Gill"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49444220",
+      "headline": "Portland Thorns FC vs. NJ/NY Gotham FC - Game Highlights",
+      "description": "Watch the Game Highlights from Portland Thorns FC vs. NJ/NY Gotham FC, 07/25/2026",
+      "published": "2026-07-25T04:15:22Z",
+      "url": "https://www.espn.com/video/clip/_/id/49444220/portland-thorns-fc-vs-nj-ny-gotham-fc-game-highlights",
+      "image": "https://a.espncdn.com/media/motion/wsc/2026/0725/88369fef-1de7-4a7d-aff3-89ae874babbe/88369fef-1de7-4a7d-aff3-89ae874babbe.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Midge Purce",
+        "Jessie Fleming",
+        "Sam Kerr",
+        "Jayden Perry",
+        "Sophia Wilson",
+        "Renee Lyles",
+        "Orlando Gill"
+      ],
+      "score": 122
+    },
+    {
+      "id": "49443896",
+      "headline": "Houston Dash vs. Bay FC - Game Highlights",
+      "description": "Watch the Game Highlights from Houston Dash vs. Bay FC, 07/25/2026",
+      "published": "2026-07-25T02:46:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/49443896/houston-dash-vs-bay-fc-game-highlights",
+      "image": "https://a.espncdn.com/media/motion/wsc/2026/0725/4f1b063a-9aa5-4299-8580-9ac1ba0edeeb/4f1b063a-9aa5-4299-8580-9ac1ba0edeeb.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Kiki Van Zanten",
+        "Joelle Anderson",
+        "Allysha Chapman",
+        "Leah Klenke",
+        "Kennedy Fuller",
+        "Linda Ullmark",
+        "Sarah Puntigam",
+        "Orlando Gill"
+      ],
+      "score": 119
+    },
+    {
+      "id": "49443894",
+      "headline": "Orlando Pride vs. Chicago Stars - Game Highlights",
+      "description": "Watch the Game Highlights from Orlando Pride vs. Chicago Stars, 07/25/2026",
+      "published": "2026-07-25T02:45:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49443894/orlando-pride-vs-chicago-stars-game-highlights",
+      "image": "https://a.espncdn.com/media/motion/wsc/2026/0725/4dacbc6a-7575-4ec2-b5c1-ff6eaf8a9e01/4dacbc6a-7575-4ec2-b5c1-ff6eaf8a9e01.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Aaliyah Farmer",
+        "Marta",
+        "Julie Doyle",
+        "Haley McCutcheon",
+        "Orlando Gill"
+      ],
+      "score": 119
+    },
+    {
+      "id": "49439836",
+      "headline": "Ilhan Fandi the magic man as Singapore snatch opening ASEAN Championship win over Cambodia",
+      "description": "Ilhan Fandi's stunning 101st-minute strike handed Singapore a dramatic 2-1 win over Cambodia in their ASEAN Championship opener.",
+      "published": "2026-07-25T00:58:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49439836/ilhan-fandi-magic-man-singapore-opening-asean-championship-win-cambodia",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693199_1279x720_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Ilhan Fandi",
+        "Orlando Gill"
+      ],
+      "score": 117
+    },
+    {
+      "id": "49443007",
+      "headline": "Defending champions Vietnam issue statement with 7-0 rout",
+      "description": "Vietnam opened their ASEAN Championship title defence with an emphatic 7-0 thrashing of Timor-Leste.",
+      "published": "2026-07-25T00:32:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49443007/defending-champions-vietnam-issue-statement-7-0-rout",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_Soccer_Highlight_Defending_champions_Vietnam_issue_statement_with_70_rout_2026725_No_Targe/dm_260724_Soccer_Highlight_Defending_champions_Vietnam_issue_statement_with_70_rout_2026725_No_Targe.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -200,43 +306,7 @@
       "players": [
         "Lamine Yamal"
       ],
-      "score": 133
-    },
-    {
-      "id": "49408793",
-      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
-      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
-      "published": "2026-07-25T10:26:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49417788",
-      "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
-      "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
-      "published": "2026-07-25T10:21:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 132
+      "score": 116
     },
     {
       "id": "49438196",
@@ -252,7 +322,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 113
+      "score": 102
     },
     {
       "id": "49258815",
@@ -268,7 +338,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 107
+      "score": 96
     },
     {
       "id": "49409382",
@@ -284,7 +354,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 95
+      "score": 94
     },
     {
       "id": "49433484",
@@ -311,7 +381,7 @@
         "Mikel Merino",
         "Martín Zubimendi"
       ],
-      "score": 94
+      "score": 92
     },
     {
       "id": "49426177",
@@ -325,7 +395,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 85
+      "score": 83
     },
     {
       "id": "49435363",
@@ -341,7 +411,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 74
+      "score": 73
     },
     {
       "id": "49178425",
@@ -401,7 +471,7 @@
         "DR Congo"
       ],
       "players": [],
-      "score": 73
+      "score": 71
     },
     {
       "id": "49422933",
@@ -426,7 +496,7 @@
       "players": [
         "Oswin Appollis"
       ],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49431378",
@@ -444,7 +514,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 63
+      "score": 61
     },
     {
       "id": "49365449",
@@ -488,7 +558,7 @@
         "Noah Botic",
         "Luka Jovanovic"
       ],
-      "score": 63
+      "score": 61
     },
     {
       "id": "49425976",
@@ -507,7 +577,7 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 62
+      "score": 60
     },
     {
       "id": "49430497",
@@ -524,7 +594,7 @@
         "USA"
       ],
       "players": [],
-      "score": 59
+      "score": 58
     },
     {
       "id": "49423199",
@@ -548,7 +618,7 @@
         "Yan Diomande",
         "Ousmane Diomande"
       ],
-      "score": 55
+      "score": 53
     },
     {
       "id": "49430111",
@@ -564,7 +634,7 @@
         "USA"
       ],
       "players": [],
-      "score": 54
+      "score": 52
     },
     {
       "id": "49422826",
@@ -588,7 +658,7 @@
         "Côte d'Ivoire"
       ],
       "players": [],
-      "score": 52
+      "score": 50
     },
     {
       "id": "49407999",
@@ -614,7 +684,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 52
+      "score": 50
     },
     {
       "id": "49427167",
@@ -631,7 +701,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 51
+      "score": 49
     },
     {
       "id": "49426841",
@@ -647,7 +717,7 @@
         "USA"
       ],
       "players": [],
-      "score": 41
+      "score": 39
     },
     {
       "id": "49427611",
@@ -664,7 +734,7 @@
         "England"
       ],
       "players": [],
-      "score": 39
+      "score": 37
     },
     {
       "id": "49427474",
@@ -680,7 +750,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 39
+      "score": 37
     },
     {
       "id": "49426371",
@@ -699,7 +769,7 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 38
+      "score": 36
     },
     {
       "id": "49423331",
@@ -719,7 +789,7 @@
         "Lionel Messi",
         "Lamine Yamal"
       ],
-      "score": 36
+      "score": 34
     },
     {
       "id": "49416781",
@@ -735,7 +805,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 28
+      "score": 27
     },
     {
       "id": "49423285",
@@ -754,7 +824,7 @@
       "players": [
         "Gavi"
       ],
-      "score": 26
+      "score": 25
     },
     {
       "id": "49418623",
@@ -773,7 +843,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 26
+      "score": 24
     },
     {
       "id": "49421412",
@@ -812,45 +882,6 @@
       "score": 20
     },
     {
-      "id": "49422788",
-      "headline": "African Dream Team - Who made ESPN's African XI from the 2026 World Cup?",
-      "description": "Following an encouraging World Cup campaign from nine of Africa's 10 representatives - not you, Tunisia - ESPN have taken on the difficult task of picking our dream team of the continent's players to have featured in North America.",
-      "published": "2026-07-22T08:32:11Z",
-      "url": "https://www.espn.com/espn/story/_/id/49422788/african-dream-team-made-espn-african-xi-2026-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689082_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa",
-        "Ghana",
-        "Côte d'Ivoire",
-        "Senegal",
-        "Morocco",
-        "Egypt",
-        "Tunisia",
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 19
-    },
-    {
-      "id": "49422731",
-      "headline": "Scaloni denies rumours of internal conflict in Argentina squad",
-      "description": "Scaloni denies rumours of internal conflict in Argentina squad",
-      "published": "2026-07-22T07:45:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/49422731/scaloni-denies-rumours-internal-conflict-argentina-squad",
-      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Scaloni_denies_rumours_of_internal_conflict_in_Argentina_squad/dm_260722_Scaloni_denies_rumours_of_internal_conflict_in_Argentina_squad.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
-      "score": 18
-    },
-    {
       "id": "49420440",
       "headline": "Could Gianni Infantino resign after World Cup backlash?",
       "description": "Could Gianni Infantino resign after World Cup backlash?",
@@ -879,20 +910,43 @@
       "score": 18
     },
     {
-      "id": "49413188",
-      "headline": "Spain celebrate World Cup glory with trophy lift in Madrid",
-      "description": "Spain celebrate World Cup glory with trophy lift in Madrid",
-      "published": "2026-07-20T22:47:31Z",
-      "url": "https://www.espn.com/video/clip/_/id/49413188/spain-celebrate-world-cup-glory-trophy-lift-madrid",
-      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_Spain_celebrate_World_Cup_glory_with_trophy_lift_in_Madrid_NEW/dm_260720_Spain_celebrate_World_Cup_glory_with_trophy_lift_in_Madrid_NEW.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49422788",
+      "headline": "African Dream Team - Who made ESPN's African XI from the 2026 World Cup?",
+      "description": "Following an encouraging World Cup campaign from nine of Africa's 10 representatives - not you, Tunisia - ESPN have taken on the difficult task of picking our dream team of the continent's players to have featured in North America.",
+      "published": "2026-07-22T08:32:11Z",
+      "url": "https://www.espn.com/espn/story/_/id/49422788/african-dream-team-made-espn-african-xi-2026-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689082_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Spain"
+        "South Africa",
+        "Ghana",
+        "Côte d'Ivoire",
+        "Senegal",
+        "Morocco",
+        "Egypt",
+        "Tunisia",
+        "Cabo Verde"
       ],
       "players": [],
       "score": 17
+    },
+    {
+      "id": "49422731",
+      "headline": "Scaloni denies rumours of internal conflict in Argentina squad",
+      "description": "Scaloni denies rumours of internal conflict in Argentina squad",
+      "published": "2026-07-22T07:45:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/49422731/scaloni-denies-rumours-internal-conflict-argentina-squad",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Scaloni_denies_rumours_of_internal_conflict_in_Argentina_squad/dm_260722_Scaloni_denies_rumours_of_internal_conflict_in_Argentina_squad.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [],
+      "score": 16
     },
     {
       "id": "49420870",
@@ -909,55 +963,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 16
-    },
-    {
-      "id": "49410623",
-      "headline": "Grading the 2026 World Cup from Spain's A to Infantino's F",
-      "description": "The World Cup is officially over, and it's time to provide some final grades for some of the teams and people who became household names in North America.",
-      "published": "2026-07-22T00:15:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49410623/grading-2026-world-cup-spains-infantinos-f",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Brazil",
-        "Argentina",
-        "Germany",
-        "England",
-        "Cabo Verde",
-        "USA"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Lionel Messi",
-        "Cristiano Ronaldo",
-        "Kylian Mbappé",
-        "Lamine Yamal",
-        "Christian Pulisic"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49418224",
-      "headline": "Lionel Messi returns to Rosario for rest after World Cup final loss",
-      "description": "Lionel Messi arrived back in Rosario, Argentina, on Tuesday for a few days of rest following the World Cup final loss to Spain.",
-      "published": "2026-07-21T19:37:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49418224/lionel-messi-returns-rosario-rest-world-cup-final-loss",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691588_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 13
+      "score": 14
     }
   ]
 }
