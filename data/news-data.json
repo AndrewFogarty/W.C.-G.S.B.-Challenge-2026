@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-25T11:51:09.021Z",
+  "updated": "2026-07-25T13:01:36.357Z",
   "counts": {
-    "offfield": 7,
+    "offfield": 6,
     "news": 34,
     "injury": 5,
+    "preview": 1,
     "celebration": 2
   },
   "items": [
@@ -31,7 +32,7 @@
         "Gustavo Puerta",
         "Pedro Vite"
       ],
-      "score": 223
+      "score": 222
     },
     {
       "id": "49416547",
@@ -45,7 +46,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 194
+      "score": 192
     },
     {
       "id": "49440743",
@@ -59,7 +60,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 157
+      "score": 156
     },
     {
       "id": "49440317",
@@ -75,7 +76,7 @@
         "USA"
       ],
       "players": [],
-      "score": 152
+      "score": 150
     },
     {
       "id": "49440737",
@@ -91,7 +92,27 @@
         "England"
       ],
       "players": [],
-      "score": 151
+      "score": 149
+    },
+    {
+      "id": "49445331",
+      "headline": "Transfer rumors, news: Could Arsenal's Gyökeres join Atlético in Alvarez swap move?",
+      "description": "Atlético Madrid could look to involve Viktor Gyökeres in any deal from Arsenal for striker Julián Álvarez. Transfer Talk has the latest.",
+      "published": "2026-07-25T10:38:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49445331/transfer-rumors-news-arsenal-viktor-gyokeres-atletico-madrid-julian-alvarez-swap-move",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693469_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Viktor Gyökeres",
+        "Julián Álvarez",
+        "Rodri"
+      ],
+      "score": 141
     },
     {
       "id": "49444838",
@@ -111,7 +132,98 @@
         "Emily Sonnett",
         "Orlando Gill"
       ],
-      "score": 140
+      "score": 139
+    },
+    {
+      "id": "49154575",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "published": "2026-07-25T10:23:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Rodri"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49434125",
+      "headline": "Can MLS capitalize on World Cup fervor in the U.S.?",
+      "description": "The MLS is at a crossroads. What is the league willing to risk in its next chapter?",
+      "published": "2026-07-25T11:27:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49434125/mls-capitalize-world-cup-don-garber-commissioner",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692853_1296x729_16-9.jpg",
+      "byline": "Ben Strauss",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "USA"
+      ],
+      "players": [
+        "Rodri"
+      ],
+      "score": 131
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-07-25T10:28:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Rodri"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49408793",
+      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
+      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
+      "published": "2026-07-25T10:26:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Rodri"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49417788",
+      "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
+      "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
+      "published": "2026-07-25T10:21:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Rodri"
+      ],
+      "score": 129
     },
     {
       "id": "49443041",
@@ -129,7 +241,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49441706",
@@ -147,7 +259,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 129
+      "score": 127
     },
     {
       "id": "49438479",
@@ -163,7 +275,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 128
+      "score": 126
     },
     {
       "id": "49438321",
@@ -179,7 +291,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 127
+      "score": 125
     },
     {
       "id": "49444378",
@@ -198,7 +310,7 @@
         "Sam Kerr",
         "Orlando Gill"
       ],
-      "score": 123
+      "score": 121
     },
     {
       "id": "49444220",
@@ -222,7 +334,7 @@
         "Renee Lyles",
         "Orlando Gill"
       ],
-      "score": 122
+      "score": 120
     },
     {
       "id": "49443896",
@@ -247,7 +359,7 @@
         "Sarah Puntigam",
         "Orlando Gill"
       ],
-      "score": 119
+      "score": 118
     },
     {
       "id": "49443894",
@@ -269,7 +381,7 @@
         "Haley McCutcheon",
         "Orlando Gill"
       ],
-      "score": 119
+      "score": 118
     },
     {
       "id": "49439836",
@@ -288,25 +400,7 @@
         "Ilhan Fandi",
         "Orlando Gill"
       ],
-      "score": 117
-    },
-    {
-      "id": "49443007",
-      "headline": "Defending champions Vietnam issue statement with 7-0 rout",
-      "description": "Vietnam opened their ASEAN Championship title defence with an emphatic 7-0 thrashing of Timor-Leste.",
-      "published": "2026-07-25T00:32:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49443007/defending-champions-vietnam-issue-statement-7-0-rout",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_Soccer_Highlight_Defending_champions_Vietnam_issue_statement_with_70_rout_2026725_No_Targe/dm_260724_Soccer_Highlight_Defending_champions_Vietnam_issue_statement_with_70_rout_2026725_No_Targe.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal"
-      ],
-      "score": 116
+      "score": 115
     },
     {
       "id": "49438196",
@@ -322,7 +416,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 102
+      "score": 100
     },
     {
       "id": "49258815",
@@ -338,7 +432,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 96
+      "score": 94
     },
     {
       "id": "49409382",
@@ -354,7 +448,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 94
+      "score": 92
     },
     {
       "id": "49433484",
@@ -381,7 +475,7 @@
         "Mikel Merino",
         "Martín Zubimendi"
       ],
-      "score": 92
+      "score": 90
     },
     {
       "id": "49426177",
@@ -395,7 +489,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 83
+      "score": 81
     },
     {
       "id": "49435363",
@@ -411,7 +505,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 73
+      "score": 71
     },
     {
       "id": "49178425",
@@ -471,7 +565,7 @@
         "DR Congo"
       ],
       "players": [],
-      "score": 71
+      "score": 70
     },
     {
       "id": "49422933",
@@ -496,7 +590,7 @@
       "players": [
         "Oswin Appollis"
       ],
-      "score": 65
+      "score": 63
     },
     {
       "id": "49431378",
@@ -514,7 +608,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 61
+      "score": 60
     },
     {
       "id": "49365449",
@@ -558,7 +652,7 @@
         "Noah Botic",
         "Luka Jovanovic"
       ],
-      "score": 61
+      "score": 59
     },
     {
       "id": "49425976",
@@ -577,7 +671,7 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 60
+      "score": 59
     },
     {
       "id": "49430497",
@@ -594,7 +688,7 @@
         "USA"
       ],
       "players": [],
-      "score": 58
+      "score": 56
     },
     {
       "id": "49423199",
@@ -618,7 +712,7 @@
         "Yan Diomande",
         "Ousmane Diomande"
       ],
-      "score": 53
+      "score": 51
     },
     {
       "id": "49430111",
@@ -634,7 +728,7 @@
         "USA"
       ],
       "players": [],
-      "score": 52
+      "score": 50
     },
     {
       "id": "49422826",
@@ -658,7 +752,7 @@
         "Côte d'Ivoire"
       ],
       "players": [],
-      "score": 50
+      "score": 48
     },
     {
       "id": "49407999",
@@ -684,7 +778,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 50
+      "score": 48
     },
     {
       "id": "49427167",
@@ -701,7 +795,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 49
+      "score": 47
     },
     {
       "id": "49426841",
@@ -717,7 +811,7 @@
         "USA"
       ],
       "players": [],
-      "score": 39
+      "score": 38
     },
     {
       "id": "49427611",
@@ -734,7 +828,7 @@
         "England"
       ],
       "players": [],
-      "score": 37
+      "score": 36
     },
     {
       "id": "49427474",
@@ -750,7 +844,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 37
+      "score": 35
     },
     {
       "id": "49426371",
@@ -769,7 +863,7 @@
         "Lamine Yamal",
         "Robert Lewandowski"
       ],
-      "score": 36
+      "score": 34
     },
     {
       "id": "49423331",
@@ -789,7 +883,7 @@
         "Lionel Messi",
         "Lamine Yamal"
       ],
-      "score": 34
+      "score": 32
     },
     {
       "id": "49416781",
@@ -805,7 +899,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 27
+      "score": 25
     },
     {
       "id": "49423285",
@@ -824,7 +918,7 @@
       "players": [
         "Gavi"
       ],
-      "score": 25
+      "score": 23
     },
     {
       "id": "49418623",
@@ -843,7 +937,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 24
+      "score": 22
     },
     {
       "id": "49421412",
@@ -880,90 +974,6 @@
         "Álex Baena"
       ],
       "score": 20
-    },
-    {
-      "id": "49420440",
-      "headline": "Could Gianni Infantino resign after World Cup backlash?",
-      "description": "Could Gianni Infantino resign after World Cup backlash?",
-      "published": "2026-07-21T22:11:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49420440/could-gianni-infantino-resign-world-cup-backlash",
-      "image": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_COM_SOC_Analysis_Could_Gianni_Infantino_resign_after_World_Cup_backlash_20260721_GLOBAL/dm_260721_COM_SOC_Analysis_Could_Gianni_Infantino_resign_after_World_Cup_backlash_20260721_GLOBAL.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 18
-    },
-    {
-      "id": "49416894",
-      "headline": "LaLiga president Javier Tebas blasts FIFA, calls on Gianni Infantino to resign",
-      "description": "LaLiga president Javier Tebas warned that expanding the World Cup to 64 teams would represent the continuing destruction of the football industry under FIFA president Gianni Infantino, whom he called on to resign.",
-      "published": "2026-07-21T15:28:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416894/tebas-blasts-fifa-laliga-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0226/r1620426_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 18
-    },
-    {
-      "id": "49422788",
-      "headline": "African Dream Team - Who made ESPN's African XI from the 2026 World Cup?",
-      "description": "Following an encouraging World Cup campaign from nine of Africa's 10 representatives - not you, Tunisia - ESPN have taken on the difficult task of picking our dream team of the continent's players to have featured in North America.",
-      "published": "2026-07-22T08:32:11Z",
-      "url": "https://www.espn.com/espn/story/_/id/49422788/african-dream-team-made-espn-african-xi-2026-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689082_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa",
-        "Ghana",
-        "Côte d'Ivoire",
-        "Senegal",
-        "Morocco",
-        "Egypt",
-        "Tunisia",
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 17
-    },
-    {
-      "id": "49422731",
-      "headline": "Scaloni denies rumours of internal conflict in Argentina squad",
-      "description": "Scaloni denies rumours of internal conflict in Argentina squad",
-      "published": "2026-07-22T07:45:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/49422731/scaloni-denies-rumours-internal-conflict-argentina-squad",
-      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Scaloni_denies_rumours_of_internal_conflict_in_Argentina_squad/dm_260722_Scaloni_denies_rumours_of_internal_conflict_in_Argentina_squad.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
-      "score": 16
-    },
-    {
-      "id": "49420870",
-      "headline": "World Cup final peaks at 60M viewers in North America",
-      "description": "A lot of things went right during this summer's World Cup, including record viewership numbers in North America for Spain's 1-0 win over Argentina in Sunday's final.",
-      "published": "2026-07-22T06:48:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49420870/world-cup-final-peaks-60m-viewers-north-america",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692263_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 14
     }
   ]
 }
