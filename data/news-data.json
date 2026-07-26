@@ -1,13 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-26T13:15:49.182Z",
+  "updated": "2026-07-26T14:45:39.024Z",
   "counts": {
-    "news": 34,
+    "news": 33,
     "offfield": 8,
     "injury": 4,
+    "preview": 1,
     "celebration": 2
   },
   "items": [
+    {
+      "id": "49416547",
+      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
+      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
+      "published": "2026-07-26T13:42:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
+      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 204
+    },
     {
       "id": "49441430",
       "headline": "Ranking every FIFA World Cup from 1930 to 2026",
@@ -22,7 +37,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 206
+      "score": 194
     },
     {
       "id": "49448250",
@@ -38,7 +53,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 186
+      "score": 174
     },
     {
       "id": "49447628",
@@ -54,7 +69,63 @@
         "USA"
       ],
       "players": [],
-      "score": 160
+      "score": 147
+    },
+    {
+      "id": "49450799",
+      "headline": "Liverpool win over Sunderland soured by Joe Gomez injury as Andoni Iraola bemoans 'worst news'",
+      "description": "Liverpool head coach Andoni Iraola has admitted losing defender Joe Gomez to injury in Saturday's 4-2 preseason victory over Sunderland is \"the worst news.\"",
+      "published": "2026-07-26T11:37:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49450799/joe-gomez-injured-liverpools-preseason-win-sunderland",
+      "image": "https://a.espncdn.com/photo/2026/0726/r1693765_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Joe Gomez",
+        "Orlando Gill"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49453659",
+      "headline": "Inter Milan enter talks with Tottenham over potential signing of captain Cristian Romero.",
+      "description": "Inter Milan have entered talks with Tottenham over the potential signing of captain Cristian Romero.",
+      "published": "2026-07-26T11:27:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49453659/inter-milan-tottenham-cristian-romero-serie-premier-league-transfers",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690735_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Cristian Romero",
+        "Orlando Gill"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49453622",
+      "headline": "Solms labels Banyana Banyana a 'dark horse' ahead of WAFCON",
+      "description": "Solms labels Banyana Banyana a 'dark horse' ahead of WAFCON",
+      "published": "2026-07-26T11:20:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/49453622/solms-labels-banyana-banyana-dark-horse-ahead-wafcon",
+      "image": "https://a.espncdn.com/media/motion/2026/0726/dm_260726_Solms_labels_Banyana_Banyana_a_dark_horse_ahead_of_WAFCON/dm_260726_Solms_labels_Banyana_Banyana_a_dark_horse_ahead_of_WAFCON.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 137
     },
     {
       "id": "49447596",
@@ -68,7 +139,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 146
+      "score": 133
     },
     {
       "id": "49425954",
@@ -93,114 +164,68 @@
         "Gustavo Puerta",
         "Pedro Vite"
       ],
-      "score": 145
-    },
-    {
-      "id": "49453267",
-      "headline": "Transfer rumors, news: Man City to rival Real Madrid, PSG for Diomande",
-      "description": "Manchester City have joined the race for sought-after RB Leipzig teenager Yan Diomande. Transfer Talk has the latest.",
-      "published": "2026-07-26T10:47:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49453267/transfer-rumors-news-man-city-rival-real-madrid-psg-yan-diomande",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680583_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Paraguay",
-        "Côte d'Ivoire"
-      ],
-      "players": [
-        "Yan Diomande",
-        "Orlando Gill"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49451789",
-      "headline": "A-League moves: New Leckie deal, Milanovic returns to WSW",
-      "description": "Mathew Leckie has shrugged off his World Cup injury heartbreak to extend his career at Melbourne City, while WSW has sealed Nicolas Milanovic's return.",
-      "published": "2026-07-26T04:03:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49451789/aleague-moves-new-leckie-deal-milanovic-returns-wsw",
-      "image": "https://a.espncdn.com/photo/2026/0726/r1693812_1295x729_16-9.png",
-      "byline": "AAP",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Mathew Leckie",
-        "Nicolas Milanovic",
-        "Orlando Gill"
-      ],
       "score": 133
     },
     {
-      "id": "49453446",
-      "headline": "Gavin Lee warns Singapore not to underestimate Timor-Leste in quest for second win at ASEAN Championship",
-      "description": "Singapore coach Gavin Lee has warned against automatically expecting a massive win over Timor-Leste at the ASEAN Championship on Monday.",
-      "published": "2026-07-26T10:48:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49453446/gavin-lee-warns-singapore-not-underestimate-timor-leste-quest-second-win-asean-championship",
-      "image": "https://a.espncdn.com/photo/2026/0726/r1693857_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
+      "id": "49453689",
+      "headline": "Wrexham down another Premier League team as Leeds beaten 3-2 in friendly",
+      "description": "Wrexham continued their impressive preseason by beating another Premier League side, edging Leeds United 3-2 in Tampa, Florida, on Saturday after Sam Smith's late winner.",
+      "published": "2026-07-26T11:53:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49453689/wrexham-another-premier-league-team-leeds-beaten-3-2-friendly",
+      "image": "https://a.espncdn.com/photo/2026/0726/r1693865_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Paraguay"
       ],
       "players": [
-        "Ilhan Fandi",
         "Orlando Gill"
       ],
       "score": 129
     },
     {
-      "id": "49453132",
-      "headline": "Inter Miami manager Hoyos says Berterame okay after being rushed to hospital after head collision",
-      "description": "Inter Miami manager assured forward German Berterame is okay after being transported to the hospital in an ambulance amid the game against CF Montreal on Saturday night in Canada.",
-      "published": "2026-07-26T09:17:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49453132/inter-miami-guillermo-hoyos-german-berterame-mls",
-      "image": "https://a.espncdn.com/photo/2026/0726/r1693851_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
+      "id": "49453616",
+      "headline": "Which NWSL players could make a mark at WAFCON?",
+      "description": "Which NWSL players could make a mark at WAFCON?",
+      "published": "2026-07-26T11:20:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/49453616/which-nwsl-players-make-mark-wafcon",
+      "image": "https://a.espncdn.com/media/motion/2026/0726/dm_260726_Which_NWSL_players_could_make_a_mark_at_WAFCON/dm_260726_Which_NWSL_players_could_make_a_mark_at_WAFCON.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Paraguay",
-        "Canada"
-      ],
-      "players": [
-        "Germán Berterame",
-        "Orlando Gill"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49452673",
-      "headline": "The delayed, shunted-around WAFCON 2026 is here at last, but where's the fanfare?",
-      "description": "WAFCON 2026 has spent much of the year feeling like a tournament searching for its place in the calendar, rather than one of African football's flagship events.",
-      "published": "2026-07-26T07:08:58Z",
-      "url": "https://www.espn.com/espn/story/_/id/49452673/the-delayed-shunted-wafcon-2026-here-last-fanfare",
-      "image": "https://a.espncdn.com/photo/2026/0726/r1693841_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay",
-        "Morocco",
-        "South Africa",
-        "Ghana"
+        "Paraguay"
       ],
       "players": [
         "Orlando Gill"
       ],
-      "score": 124
+      "score": 128
     },
     {
-      "id": "49452049",
-      "headline": "LAFC vs. Sporting Kansas City - Game Highlights",
-      "description": "Watch the Game Highlights from LAFC vs. Sporting Kansas City, 07/25/2026",
-      "published": "2026-07-26T04:50:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/49452049/lafc-vs-sporting-kansas-city-game-highlights",
+      "id": "49453627",
+      "headline": "Udoh concerned about Super Falcons' tough route to WAFCON final",
+      "description": "Udoh concerned about Super Falcons' tough route to WAFCON final",
+      "published": "2026-07-26T11:19:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49453627/udoh-concerned-super-falcons-tough-route-wafcon-final",
+      "image": "https://a.espncdn.com/media/motion/2026/0726/dm_260726_Udoh_concerned_about_Super_Falcons_tough_route_to_WAFCON_final/dm_260726_Udoh_concerned_about_Super_Falcons_tough_route_to_WAFCON_final.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49452052",
+      "headline": "Son Heung-min, Denis Bouanga get 1st-half goals in surging LAFC's 4-0 win over Sporting Kansas City",
+      "description": "Denis Bouanga scored two goals, Son Heung-min scored in his third consecutive match since the World Cup break, and Los Angeles FC thrashed Sporting Kansas City 4-0 on Saturday night for its fourth consecutive victory.",
+      "published": "2026-07-26T11:11:13Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761694",
       "image": "https://a.espncdn.com/media/motion/wsc/2026/0726/2e7f2e17-db92-457d-95a4-5eb25fda6775/2e7f2e17-db92-457d-95a4-5eb25fda6775.jpg",
       "byline": null,
       "kind": "news",
@@ -209,21 +234,17 @@
         "Paraguay"
       ],
       "players": [
-        "Zorhan Bassong",
-        "Denis Bouanga",
-        "Son Heung-Min",
-        "David Martínez",
         "Orlando Gill"
       ],
-      "score": 120
+      "score": 128
     },
     {
-      "id": "49452055",
-      "headline": "San Jose Earthquakes vs. LA Galaxy - Game Highlights",
-      "description": "Watch the Game Highlights from San Jose Earthquakes vs. LA Galaxy, 07/25/2026",
-      "published": "2026-07-26T04:50:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49452055/san-jose-earthquakes-vs-la-galaxy-game-highlights",
-      "image": "https://a.espncdn.com/media/motion/wsc/2026/0726/8e78d07b-20b1-425d-961b-704aba046297/8e78d07b-20b1-425d-961b-704aba046297.jpg",
+      "id": "49451790",
+      "headline": "Tyrese Spicer, Maxime Crépeau help Orlando City end Nashville's 10-match unbeaten run in 1-0 victory",
+      "description": "Tyrese Spicer scored in the second half and Maxime Crépeau made it stand up as Orlando City ended Eastern Conference-leading Nashville SC's 10-match unbeaten run with a 1-0 victory on Saturday night.",
+      "published": "2026-07-26T11:09:19Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761684",
+      "image": null,
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -231,29 +252,9 @@
         "Paraguay"
       ],
       "players": [
-        "Reid Roberts",
-        "Ousseni Bouda",
-        "Benjamin Kikanovic",
-        "Timo Werner",
-        "Edwin Cerrillo",
-        "Joseph Paintsil",
         "Orlando Gill"
       ],
-      "score": 120
-    },
-    {
-      "id": "49416547",
-      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
-      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
-      "published": "2026-07-25T10:21:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
-      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 116
+      "score": 122
     },
     {
       "id": "49440743",
@@ -267,7 +268,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 79
+      "score": 77
     },
     {
       "id": "49440317",
@@ -283,7 +284,7 @@
         "USA"
       ],
       "players": [],
-      "score": 74
+      "score": 72
     },
     {
       "id": "49440737",
@@ -299,7 +300,7 @@
         "England"
       ],
       "players": [],
-      "score": 73
+      "score": 71
     },
     {
       "id": "49438321",
@@ -315,7 +316,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 69
+      "score": 67
     },
     {
       "id": "49438479",
@@ -331,7 +332,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 60
+      "score": 58
     },
     {
       "id": "49258815",
@@ -347,7 +348,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49409382",
@@ -363,23 +364,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 56
-    },
-    {
-      "id": "49438196",
-      "headline": "The moment Jürgen Klopp was announced as new Germany head coach",
-      "description": "The moment Jürgen Klopp was announced as new Germany head coach",
-      "published": "2026-07-24T10:17:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49438196/the-moment-jurgen-klopp-was-announced-new-germany-head-coach",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 54
+      "score": 53
     },
     {
       "id": "49433484",
@@ -406,7 +391,23 @@
         "Mikel Merino",
         "Martín Zubimendi"
       ],
-      "score": 54
+      "score": 52
+    },
+    {
+      "id": "49438196",
+      "headline": "The moment Jürgen Klopp was announced as new Germany head coach",
+      "description": "The moment Jürgen Klopp was announced as new Germany head coach",
+      "published": "2026-07-24T10:17:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49438196/the-moment-jurgen-klopp-was-announced-new-germany-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 51
     },
     {
       "id": "49426177",
@@ -420,7 +421,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 45
+      "score": 43
     },
     {
       "id": "49435363",
@@ -436,7 +437,7 @@
         "Colombia"
       ],
       "players": [],
-      "score": 35
+      "score": 32
     },
     {
       "id": "49178425",
@@ -496,32 +497,7 @@
         "DR Congo"
       ],
       "players": [],
-      "score": 33
-    },
-    {
-      "id": "49422933",
-      "headline": "10 African stars who caught transfer scouts' eyes at the FIFA World Cup",
-      "description": "Every four years, the FIFA World Cup reshapes the transfer landscape, offering players the opportunity to showcase their qualities against elite opposition in front of the watching world.",
-      "published": "2026-07-23T06:36:52Z",
-      "url": "https://www.espn.com/espn/story/_/id/49422933/10-african-stars-caught-transfer-scouts-eyes-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692330_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "South Africa",
-        "Ghana",
-        "Côte d'Ivoire",
-        "Senegal",
-        "Morocco",
-        "Egypt",
-        "Tunisia",
-        "Cabo Verde"
-      ],
-      "players": [
-        "Oswin Appollis"
-      ],
-      "score": 27
+      "score": 31
     },
     {
       "id": "49365449",
@@ -587,22 +563,29 @@
       "score": 27
     },
     {
-      "id": "49431378",
-      "headline": "CAF support Gianni Infantino's FIFA bid because of his 'loyalty' to Africa - Patrice Motsepe",
-      "description": "CAF president Patrice Motsepe threw his support behind FIFA president Gianni Infantino on Tuesday, despite a tumultuous FIFA World Cup that has sparked calls for his resignation.",
-      "published": "2026-07-23T12:02:12Z",
-      "url": "https://www.espn.com/espn/story/_/id/49431378/caf-support-gianni-infantino-fifa-bid-loyalty-africa-patrice-motsepe",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49422933",
+      "headline": "10 African stars who caught transfer scouts' eyes at the FIFA World Cup",
+      "description": "Every four years, the FIFA World Cup reshapes the transfer landscape, offering players the opportunity to showcase their qualities against elite opposition in front of the watching world.",
+      "published": "2026-07-23T06:36:52Z",
+      "url": "https://www.espn.com/espn/story/_/id/49422933/10-african-stars-caught-transfer-scouts-eyes-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692330_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "South Africa"
+        "South Africa",
+        "Ghana",
+        "Côte d'Ivoire",
+        "Senegal",
+        "Morocco",
+        "Egypt",
+        "Tunisia",
+        "Cabo Verde"
       ],
       "players": [
-        "Folarin Balogun"
+        "Oswin Appollis"
       ],
-      "score": 23
+      "score": 25
     },
     {
       "id": "49427167",
@@ -622,21 +605,22 @@
       "score": 22
     },
     {
-      "id": "49430497",
-      "headline": "Argentina FA deny president, treasurer summoned to give evidence to U.S. court",
-      "description": "Argentina's Football Association has denied reports that its president or its treasurer have ‌been summoned to give evidence by United States courts.",
-      "published": "2026-07-23T11:41:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49430497/argentina-fa-deny-president-treasurer-summoned-give-evidence-us-court",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692724_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
+      "id": "49431378",
+      "headline": "CAF support Gianni Infantino's FIFA bid because of his 'loyalty' to Africa - Patrice Motsepe",
+      "description": "CAF president Patrice Motsepe threw his support behind FIFA president Gianni Infantino on Tuesday, despite a tumultuous FIFA World Cup that has sparked calls for his resignation.",
+      "published": "2026-07-23T12:02:12Z",
+      "url": "https://www.espn.com/espn/story/_/id/49431378/caf-support-gianni-infantino-fifa-bid-loyalty-africa-patrice-motsepe",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "USA"
+        "South Africa"
       ],
-      "players": [],
-      "score": 20
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 21
     },
     {
       "id": "49421412",
@@ -703,6 +687,23 @@
       "score": 18
     },
     {
+      "id": "49430497",
+      "headline": "Argentina FA deny president, treasurer summoned to give evidence to U.S. court",
+      "description": "Argentina's Football Association has denied reports that its president or its treasurer have ‌been summoned to give evidence by United States courts.",
+      "published": "2026-07-23T11:41:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49430497/argentina-fa-deny-president-treasurer-summoned-give-evidence-us-court",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692724_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [],
+      "score": 17
+    },
+    {
       "id": "49423199",
       "headline": "ESPN's outrageous, fanciful, way too early African XI for the 2030 FIFA World Cup",
       "description": "ESPN have taken on the foolish task of predicting the African continent's best XI for the 2030 FIFA World Cup in four years' time.",
@@ -724,23 +725,7 @@
         "Yan Diomande",
         "Ousmane Diomande"
       ],
-      "score": 15
-    },
-    {
-      "id": "49430111",
-      "headline": "Nicol: Pochettino changed the identity of the USMNT",
-      "description": "Nicol: Pochettino changed the identity of the USMNT",
-      "published": "2026-07-23T08:01:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/49430111/pochettino-changed-identity-usmnt",
-      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 14
+      "score": 13
     },
     {
       "id": "49426371",
@@ -887,6 +872,22 @@
       "score": 13
     },
     {
+      "id": "49430111",
+      "headline": "Nicol: Pochettino changed the identity of the USMNT",
+      "description": "Nicol: Pochettino changed the identity of the USMNT",
+      "published": "2026-07-23T08:01:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/49430111/pochettino-changed-identity-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 12
+    },
+    {
       "id": "49422826",
       "headline": "Africa's FIFA World Cup, though historic, was characterised by 'what ifs'",
       "description": "",
@@ -908,7 +909,7 @@
         "Côte d'Ivoire"
       ],
       "players": [],
-      "score": 12
+      "score": 10
     },
     {
       "id": "49407999",
@@ -934,7 +935,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 12
+      "score": 10
     },
     {
       "id": "49426841",
@@ -948,23 +949,6 @@
       "kindLabel": "News",
       "teams": [
         "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49427611",
-      "headline": "Burley: England's approach against Argentina was inexcusable",
-      "description": "Burley: England's approach against Argentina was inexcusable",
-      "published": "2026-07-22T22:07:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49427611/england-approach-argentina-was-inexcusable",
-      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Burley_Englands_approach_against_Argentina_was_inexcusable/dm_260722_Burley_Englands_approach_against_Argentina_was_inexcusable.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
       ],
       "players": [],
       "score": 10
