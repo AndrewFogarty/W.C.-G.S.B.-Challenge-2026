@@ -1,14 +1,64 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-27T10:58:54.394Z",
+  "updated": "2026-07-27T13:42:41.943Z",
   "counts": {
-    "news": 32,
     "injury": 4,
+    "news": 34,
     "preview": 2,
-    "offfield": 9,
+    "offfield": 7,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49441066",
+      "headline": "Would the U.S. actually win the World Cup if its best athletes played soccer?",
+      "description": "Every time the USMNT gets knocked out of a World Cup, the question comes up: What if our best U.S. athletes played soccer? Here's why that flight of fancy would never actually work out.",
+      "published": "2026-07-27T13:26:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49441066/usmnt-world-cup-nba-nfl-mlb-bill-barnwell",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693536_1296x729_16-9.jpg",
+      "byline": "Bill Barnwell",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 214
+    },
+    {
+      "id": "49461196",
+      "headline": "Don't be fooled by Klopp's, Zidane's new international jobs: Club soccer is still top of the game",
+      "description": "Despite the flurry of big-name hires, international jobs remain a route to redemption or a quieter life away from the intensity of an elite club role.",
+      "published": "2026-07-27T12:17:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461196/jurgen-klopp-zinedine-zidane-germany-france-international-coaches-club-managers",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694222_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Germany"
+      ],
+      "players": [],
+      "score": 208
+    },
+    {
+      "id": "49461219",
+      "headline": "Argentina's Lionel Scaloni defends players after World Cup, critics are 'people who don't know us'",
+      "description": "Argentina coach Lionel Scaloni has defended his players and called them \"warriors\" in the wake of the World Cup final defeat to Spain.",
+      "published": "2026-07-27T11:09:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461219/argentina-lionel-scaloni-defends-players-world-cup-critics-people-know-us",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1680924_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 186
+    },
     {
       "id": "49460832",
       "headline": "Slavko Vincic retires after refereeing World Cup final",
@@ -21,7 +71,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 203
+      "score": 169
     },
     {
       "id": "49460279",
@@ -35,7 +85,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 191
+      "score": 157
     },
     {
       "id": "49416547",
@@ -49,101 +99,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 179
-    },
-    {
-      "id": "49441430",
-      "headline": "Ranking every FIFA World Cup from 1930 to 2026",
-      "description": "Spain's romp to victory in 2026 capped a brilliant World Cup. But where did this summer rank in the all-time record?",
-      "published": "2026-07-26T22:01:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49441430/world-cup-ranking-2026-bill-connelly-james-tyler-analysis-best-world-cups-ever",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691518_1296x729_16-9.jpg",
-      "byline": "Bill Connelly and James Tyler",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 161
-    },
-    {
-      "id": "49461122",
-      "headline": "Chicago Fire coach Gregg Berhalter confirms Mbekezeli Mbokazi will be out injured 'for a while'",
-      "description": "Chicago Fire FC centre-back Mbekezeli Mbokazi has been ruled out of MLS All-Star Game in Charlotte, NC, on July 29 due to a thigh injury, denying him a chance to make history for South Africa.",
-      "published": "2026-07-27T10:25:23Z",
-      "url": "https://www.espn.com/espn/story/_/id/49461122/chicago-fire-coach-gregg-berhalter-confirms-mbekezeli-mbokazi-injured-while",
-      "image": "https://a.espncdn.com/photo/2026/0605/r1668703_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Spain",
-        "South Africa"
-      ],
-      "players": [
-        "Mbekezeli Mbokazi",
-        "Marc Cucurella"
-      ],
-      "score": 146
-    },
-    {
-      "id": "49461189",
-      "headline": "Nigeria vs. Malawi - Kick-off time, how to watch, news for Super Falcons' WAFCON opener",
-      "description": "Nigeria will begin their Women's Africa Cup of Nations (WAFCON) title defence against debutants Malawi -- led by the Chawinga sisters -- on Tuesday in Rabat's Group C clash.",
-      "published": "2026-07-27T10:45:01Z",
-      "url": "https://www.espn.com/espn/story/_/id/49461189/nigeria-vs-malawi-kick-how-watch-news-super-falcons-wafcon-opener",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694221_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Tabitha Chawinga",
-        "Temwa Chawinga",
-        "Marc Cucurella"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49460425",
-      "headline": "Real Madrid set to sign Yan Diomande in €135m deal",
-      "description": "Real Madrid expect to complete a deal to sign Yan Diomande from RB Leipzig in the coming hours, sources have told ESPN.",
-      "published": "2026-07-27T08:49:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460425/real-madrid-set-sign-yan-diomande-135m-deal-rb-leipzig-transfer",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694203_1296x729_16-9.jpg",
-      "byline": "Rodra and Alex Kirkland",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Yan Diomande",
-        "Orlando Gill"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49460399",
-      "headline": "Transfer rumors, news: Liverpool, PSG to open Barcola talks",
-      "description": "Paris Saint-Germain are set to open talks with Liverpool over Bradley Barcola's potential transfer to Anfield Transfer Talk has the latest.",
-      "published": "2026-07-27T08:08:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460399/transfer-rumors-news-liverpool-psg-open-bradley-barcola-talks",
-      "image": "https://a.espncdn.com/photo/2026/0502/r1652211_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Bradley Barcola",
-        "Orlando Gill"
-      ],
-      "score": 141
+      "score": 145
     },
     {
       "id": "49154575",
@@ -161,106 +117,46 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 136
+      "score": 132
     },
     {
-      "id": "49461152",
-      "headline": "Why England have no automatic Euro 2028 place -- but Argentina are already in the 2030 World Cup",
-      "description": "England have not been granted a guaranteed spot at UEFA Euro 2028 despite being one of the tournament co-hosts.",
-      "published": "2026-07-27T10:58:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461152/england-euro-2028-automatic-qualification-ireland-wales-scotland",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694218_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49430204",
+      "headline": "South Africa vs. Tanzania - Kick-off time, team news, how to watch Banyana's WAFCON 2026 opener",
+      "description": "South Africa's Banyana Banyana will kick off their Women's Africa Cup of Nations (WAFCON) campaign against Tanzania on Monday in a Casablanca clash Desiree Ellis' side will be heavy favourites for.",
+      "published": "2026-07-27T06:13:45Z",
+      "url": "https://www.espn.com/espn/story/_/id/49430204/south-africa-vs-tanzania-kick-team-news-how-watch-banyana-wafcon-2026-opener",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692719_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
-        "Spain",
-        "England",
-        "Argentina",
-        "Uruguay",
         "Paraguay",
-        "Portugal",
-        "Morocco"
+        "South Africa"
       ],
       "players": [
-        "Marc Cucurella"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49461220",
-      "headline": "Kazuyoshi Miura, world's oldest active professional footballer, scores first goal in four years",
-      "description": "Kazuyoshi Miura, the world's oldest active professional football player at 59 years of age, scored his first competitive goal in almost four years at the weekend.",
-      "published": "2026-07-27T10:54:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461220/kazuyoshi-miura-world-oldest-footballer-japan-j-league",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694220_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Japan"
-      ],
-      "players": [
-        "Marc Cucurella"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49460725",
-      "headline": "Micky van de Ven talks up new-look Tottenham after horror season",
-      "description": "SYDNEY -- Micky van de Ven has said a repeat of Tottenham Hotspur's horror 2025-26 season is something he does not even want to contemplate.",
-      "published": "2026-07-27T09:22:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460725/micky-van-de-ven-talks-new-look-tottenham-hotspur-horror-season",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694214_1296x729_16-9.jpg",
-      "byline": "Samantha Lewis",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Micky van de Ven",
+        "Thembi Kgatlana",
+        "Refiloe Jane",
+        "Linda Motlhalo",
+        "Hildah Magaia",
         "Orlando Gill"
       ],
       "score": 131
     },
     {
-      "id": "49460466",
-      "headline": "Xabi Alonso backs Morgan Rogers for 'instant impact' at Chelsea",
-      "description": "Xabi Alonso believes Morgan Rogers can hit the ground running with Chelsea after his record move from Aston Villa.",
-      "published": "2026-07-27T08:52:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460466/morgan-rogers-xabi-alonso-chelsea-sydney-preseason-tour",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694205_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49441430",
+      "headline": "Ranking every FIFA World Cup from 1930 to 2026",
+      "description": "Spain's romp to victory in 2026 capped a brilliant World Cup. But where did this summer rank in the all-time record?",
+      "published": "2026-07-26T22:01:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49441430/world-cup-ranking-2026-bill-connelly-james-tyler-analysis-best-world-cups-ever",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691518_1296x729_16-9.jpg",
+      "byline": "Bill Connelly and James Tyler",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Paraguay"
+        "Spain"
       ],
-      "players": [
-        "Morgan Rogers",
-        "Orlando Gill"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49460704",
-      "headline": "Xabi Alonso asks for patience as he begins Chelsea reign",
-      "description": "Xabi Alonso has asked for patience as his new coaching era at the helm of Chelsea kicks off in Sydney this week.",
-      "published": "2026-07-27T08:35:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460704/xabi-alonso-chelsea-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694210_1296x729_16-9.jpg",
-      "byline": "Samantha Lewis",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Orlando Gill"
-      ],
-      "score": 129
+      "players": [],
+      "score": 126
     },
     {
       "id": "49408793",
@@ -278,7 +174,67 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 127
+      "score": 123
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-07-27T06:38:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 122
+    },
+    {
+      "id": "49417788",
+      "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
+      "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
+      "published": "2026-07-27T06:29:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 122
+    },
+    {
+      "id": "49389834",
+      "headline": "Women's AFCON 2026 is first major test of South Africa's new generation",
+      "description": "Desiree Ellis' South Africa squad for the 2026 Women's Africa Cup of Nations (WAFCON) in Morocco (July 26 - August 16) features mostly locally-based talent.",
+      "published": "2026-07-27T06:13:06Z",
+      "url": "https://www.espn.com/espn/story/_/id/49389834/women-afcon-2026-first-major-test-south-africa-new-generation",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690740_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Paraguay",
+        "South Africa",
+        "Morocco"
+      ],
+      "players": [
+        "Thembi Kgatlana",
+        "Refiloe Jane",
+        "Linda Motlhalo",
+        "Gabriela Salgado",
+        "Orlando Gill"
+      ],
+      "score": 122
     },
     {
       "id": "49448250",
@@ -294,37 +250,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 124
-    },
-    {
-      "id": "49447628",
-      "headline": "Will Pochettino leave USMNT role?",
-      "description": "Will Pochettino leave USMNT role?",
-      "published": "2026-07-25T17:05:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 97
-    },
-    {
-      "id": "49447596",
-      "headline": "Should tickets be more affordable for fans after the World Cup?",
-      "description": "Should tickets be more affordable for fans after the World Cup?",
-      "published": "2026-07-25T16:57:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 83
+      "score": 90
     },
     {
       "id": "49425954",
@@ -349,7 +275,37 @@
         "Gustavo Puerta",
         "Pedro Vite"
       ],
-      "score": 83
+      "score": 69
+    },
+    {
+      "id": "49447628",
+      "headline": "Will Pochettino leave USMNT role?",
+      "description": "Will Pochettino leave USMNT role?",
+      "published": "2026-07-25T17:05:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 63
+    },
+    {
+      "id": "49447596",
+      "headline": "Should tickets be more affordable for fans after the World Cup?",
+      "description": "Should tickets be more affordable for fans after the World Cup?",
+      "published": "2026-07-25T16:57:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 59
     },
     {
       "id": "49440317",
@@ -365,7 +321,7 @@
         "USA"
       ],
       "players": [],
-      "score": 41
+      "score": 37
     },
     {
       "id": "49438321",
@@ -381,53 +337,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 36
-    },
-    {
-      "id": "49440737",
-      "headline": "What would England's team look like if Pep Guardiola was manager?",
-      "description": "What would England's team look like if Pep Guardiola was manager?",
-      "published": "2026-07-24T16:41:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 31
-    },
-    {
-      "id": "49440743",
-      "headline": "What does the future look like for the Italian national team?",
-      "description": "What does the future look like for the Italian national team?",
-      "published": "2026-07-24T16:44:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49440743/what-does-future-look-italian-national-team",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_does_the_future_look_like_for_the_Italian_national_team3F__GLOBAL_2026-07-24/dm_260724_COM_SOC_Analysis_What_does_the_future_look_like_for_the_Italian_national_team3F__GLOBAL_2026-07-24.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 27
-    },
-    {
-      "id": "49438479",
-      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "published": "2026-07-24T14:31:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 27
+      "score": 32
     },
     {
       "id": "49365449",
@@ -493,20 +403,20 @@
       "score": 27
     },
     {
-      "id": "49258815",
-      "headline": "Jürgen Klopp named Germany head coach after Julian Nagelsmann departure",
-      "description": "Jürgen Klopp has been named Germany's head coach, following the national team's disappointing World Cup and the resignation of Julian Nagelsmann.",
-      "published": "2026-07-24T12:52:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49258815/jurgen-klopp-germany-manager-world-cup-julian-nagalesmann-resigns",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693111_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "49440737",
+      "headline": "What would England's team look like if Pep Guardiola was manager?",
+      "description": "What would England's team look like if Pep Guardiola was manager?",
+      "published": "2026-07-24T16:41:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Germany"
+        "England"
       ],
       "players": [],
-      "score": 25
+      "score": 26
     },
     {
       "id": "49422933",
@@ -534,13 +444,27 @@
       "score": 25
     },
     {
-      "id": "49409382",
-      "headline": "Forget whether Germany need Klopp. Does Klopp need Germany?",
-      "description": "Jürgen Klopp ended his nine-year spell as Liverpool manager by saying he was too tired to carry on. Now, as Germany boss, is he game to coach again?",
-      "published": "2026-07-24T11:39:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693112_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
+      "id": "49440743",
+      "headline": "What does the future look like for the Italian national team?",
+      "description": "What does the future look like for the Italian national team?",
+      "published": "2026-07-24T16:44:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/49440743/what-does-future-look-italian-national-team",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_does_the_future_look_like_for_the_Italian_national_team3F__GLOBAL_2026-07-24/dm_260724_COM_SOC_Analysis_What_does_the_future_look_like_for_the_Italian_national_team3F__GLOBAL_2026-07-24.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 23
+    },
+    {
+      "id": "49438479",
+      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
+      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
+      "published": "2026-07-24T14:31:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -567,46 +491,19 @@
       "score": 22
     },
     {
-      "id": "49438196",
-      "headline": "The moment Jürgen Klopp was announced as new Germany head coach",
-      "description": "The moment Jürgen Klopp was announced as new Germany head coach",
-      "published": "2026-07-24T10:17:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49438196/the-moment-jurgen-klopp-was-announced-new-germany-head-coach",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL.jpg",
-      "byline": null,
+      "id": "49258815",
+      "headline": "Jürgen Klopp named Germany head coach after Julian Nagelsmann departure",
+      "description": "Jürgen Klopp has been named Germany's head coach, following the national team's disappointing World Cup and the resignation of Julian Nagelsmann.",
+      "published": "2026-07-24T12:52:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49258815/jurgen-klopp-germany-manager-world-cup-julian-nagalesmann-resigns",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693111_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Germany"
       ],
       "players": [],
-      "score": 21
-    },
-    {
-      "id": "49433484",
-      "headline": "How Spain won the World Cup without a marquee goal scorer or elite defense",
-      "description": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
-      "published": "2026-07-24T08:36:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49433484/how-spain-won-world-cup-marquee-goal-scorer-elite-defense",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692876_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Marc Cucurella",
-        "Pedro Porro",
-        "Aymeric Laporte",
-        "Pau Cubarsí",
-        "Álex Baena",
-        "Mikel Oyarzabal",
-        "Rodri",
-        "Mikel Merino",
-        "Martín Zubimendi"
-      ],
       "score": 21
     },
     {
@@ -626,6 +523,22 @@
         "Guillermo Ochoa"
       ],
       "score": 20
+    },
+    {
+      "id": "49409382",
+      "headline": "Forget whether Germany need Klopp. Does Klopp need Germany?",
+      "description": "Jürgen Klopp ended his nine-year spell as Liverpool manager by saying he was too tired to carry on. Now, as Germany boss, is he game to coach again?",
+      "published": "2026-07-24T11:39:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693112_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 19
     },
     {
       "id": "49420440",
@@ -654,6 +567,49 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "49438196",
+      "headline": "The moment Jürgen Klopp was announced as new Germany head coach",
+      "description": "The moment Jürgen Klopp was announced as new Germany head coach",
+      "published": "2026-07-24T10:17:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49438196/the-moment-jurgen-klopp-was-announced-new-germany-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 17
+    },
+    {
+      "id": "49433484",
+      "headline": "How Spain won the World Cup without a marquee goal scorer or elite defense",
+      "description": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
+      "published": "2026-07-24T08:36:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49433484/how-spain-won-world-cup-marquee-goal-scorer-elite-defense",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692876_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Marc Cucurella",
+        "Pedro Porro",
+        "Aymeric Laporte",
+        "Pau Cubarsí",
+        "Álex Baena",
+        "Mikel Oyarzabal",
+        "Rodri",
+        "Mikel Merino",
+        "Martín Zubimendi"
+      ],
+      "score": 17
     },
     {
       "id": "49431378",
@@ -794,39 +750,6 @@
       "score": 13
     },
     {
-      "id": "49416015",
-      "headline": "Argentina, without Lionel Messi, greeted by fans in Buenos Aires after World Cup return",
-      "description": "Thousands of fans gathered in Buenos Aires on Monday evening to give a warm welcome to the Argentina football squad, who arrived home without captain Lionel Messi after their World Cup final loss to Spain.",
-      "published": "2026-07-21T09:56:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416015/argentina-lionel-messi-greeted-fans-buenos-aires-world-cup-return",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692032_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49426177",
-      "headline": "Grading FIFA's changes to the World Cup, from expansion to hydration breaks",
-      "description": "Now that the World Cup is over, let's evaluate all the things that FIFA did differently. Which new features earned A's, and which ones were utter flops?",
-      "published": "2026-07-24T07:11:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49426177/grading-fifa-world-cup-changes-expansion-hydration-breaks-tickets-substitutes-red-cards",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 12
-    },
-    {
       "id": "49435363",
       "headline": "Colombia backs Néstor Lorenzo with extension after World Cup",
       "description": "Néstor Lorenzo will continue as Colombia coach after the national team conceded only one goal in five games at the recent FIFA World Cup.",
@@ -931,6 +854,89 @@
       "kindLabel": "News",
       "teams": [
         "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49422826",
+      "headline": "Africa's FIFA World Cup, though historic, was characterised by 'what ifs'",
+      "description": "",
+      "published": "2026-07-23T06:37:29Z",
+      "url": "https://www.espn.com/espn/story/_/id/49422826/africa-fifa-world-cup-historic-was-characterised-ifs",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684714_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa",
+        "Ghana",
+        "Senegal",
+        "Morocco",
+        "Egypt",
+        "Cabo Verde",
+        "Tunisia",
+        "Algeria",
+        "Côte d'Ivoire"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49407999",
+      "headline": "Grading Africa's FIFA World Cup teams, plus one key question for each team going forward",
+      "description": "With the FIFA World Cup in the books after six long weeks, and Spain emerging victorious over Argentina in the final, it's time to reflect on what was an historic tournament for Africa.",
+      "published": "2026-07-23T06:34:25Z",
+      "url": "https://www.espn.com/espn/story/_/id/49407999/grading-africa-fifa-world-cup-teams-plus-one-key-question-team-going-forward",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679172_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa",
+        "Morocco",
+        "Senegal",
+        "Ghana",
+        "Egypt",
+        "Cabo Verde",
+        "Algeria",
+        "Tunisia",
+        "DR Congo",
+        "Spain",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49426841",
+      "headline": "World Cup betting in U.S. equivalent of '10 Super Bowls'",
+      "description": "Sportsbooks and technology providers across the United States sports betting industry report that this year's World Cup produced record handle for a soccer tournament across the board and even rivaled other major prolonged sporting events.",
+      "published": "2026-07-22T23:26:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49426841/world-cup-betting-us-equivalent-10-super-bowls",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691652_1296x729_16-9.jpg",
+      "byline": "Doug Greenberg",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49427611",
+      "headline": "Burley: England's approach against Argentina was inexcusable",
+      "description": "Burley: England's approach against Argentina was inexcusable",
+      "published": "2026-07-22T22:07:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49427611/england-approach-argentina-was-inexcusable",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Burley_Englands_approach_against_Argentina_was_inexcusable/dm_260722_Burley_Englands_approach_against_Argentina_was_inexcusable.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
       ],
       "players": [],
       "score": 10
