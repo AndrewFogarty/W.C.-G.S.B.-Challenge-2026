@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-27T19:20:34.530Z",
+  "updated": "2026-07-27T20:48:35.452Z",
   "counts": {
     "injury": 4,
     "news": 31,
-    "offfield": 12,
+    "offfield": 10,
+    "preview": 2,
     "celebration": 1
   },
   "items": [
@@ -22,7 +23,7 @@
         "USA"
       ],
       "players": [],
-      "score": 207
+      "score": 205
     },
     {
       "id": "49461196",
@@ -39,7 +40,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 202
+      "score": 200
     },
     {
       "id": "49461219",
@@ -56,7 +57,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 178
+      "score": 176
     },
     {
       "id": "49460279",
@@ -70,7 +71,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 166
+      "score": 163
     },
     {
       "id": "49460832",
@@ -84,44 +85,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 161
-    },
-    {
-      "id": "49463538",
-      "headline": "Police probe misconduct allegations at Austin FC youth academy",
-      "description": "Law enforcement officials said Monday they are investigating allegations of misconduct by players at Austin FC's developmental youth academy, which resulted in players being expelled and the suspension of team activities for the affected age group.",
-      "published": "2026-07-27T17:17:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49463538/police-probe-misconduct-allegations-austin-fc-youth-academy",
-      "image": "https://a.espncdn.com/photo/2024/0429/r1326339_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Orlando Gill"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49463495",
-      "headline": "Gotham FC, Esther González agree to mutually terminate contract",
-      "description": "Gotham FC, Esther González agree to mutually terminate contract",
-      "published": "2026-07-27T17:00:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49463495/gotham-fc-esther-gonzslez-agree-mutually-terminate-contract",
-      "image": "https://a.espncdn.com/photo/2026/0531/r1666311_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Esther González",
-        "Orlando Gill"
-      ],
-      "score": 141
+      "score": 158
     },
     {
       "id": "49463339",
@@ -140,7 +104,7 @@
         "Junior Kroupi",
         "Orlando Gill"
       ],
-      "score": 141
+      "score": 139
     },
     {
       "id": "49463293",
@@ -158,7 +122,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 141
+      "score": 138
     },
     {
       "id": "49462982",
@@ -177,7 +141,45 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 141
+      "score": 138
+    },
+    {
+      "id": "49463102",
+      "headline": "South Africa vs. Tanzania - Banyana's WAFCON opener & Linda Motlhalo's 100th cap as it happens",
+      "description": "Desiree Ellis' kick off their Women's Africa Cup of Nations campaign against Tanzania in a Casablanca Group B clash.",
+      "published": "2026-07-27T16:27:16Z",
+      "url": "https://www.espn.com/espn/story/_/id/49463102/south-africa-vs-tanzania-banyana-wafcon-opener-linda-motlhalo-100th-cap-happens",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694330_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Paraguay",
+        "South Africa"
+      ],
+      "players": [
+        "Linda Motlhalo",
+        "Orlando Gill"
+      ],
+      "score": 135
+    },
+    {
+      "id": "48897670",
+      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
+      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
+      "published": "2026-07-27T16:06:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 135
     },
     {
       "id": "49416547",
@@ -191,33 +193,13 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 137
-    },
-    {
-      "id": "49463102",
-      "headline": "South Africa vs. Tanzania - Banyana's WAFCON opener ends in defeat: as it happened",
-      "description": "Linda Motlhalo's 100th cap for Banyana Banyana ended in disappointment as South Africa suffered a shock defeat to Tanzania in Casablanca.",
-      "published": "2026-07-27T19:11:26Z",
-      "url": "https://www.espn.com/espn/story/_/id/49463102/happened",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694330_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay",
-        "South Africa"
-      ],
-      "players": [
-        "Linda Motlhalo",
-        "Orlando Gill"
-      ],
-      "score": 133
+      "score": 135
     },
     {
       "id": "49462659",
       "headline": "NWSL Power Rankings: Spirit reclaim No. 1 spot after Gotham FC falter",
       "description": "The Washington Spirit took back the top spot in ESPN's NWSL Power Rankings with their fifth win in six games, as Gotham FC dropped points on the road.",
-      "published": "2026-07-27T17:00:41Z",
+      "published": "2026-07-27T16:25:00Z",
       "url": "https://www.espn.com/soccer/story/_/id/49462659/nwsl-power-rankings-spirit-reclaim-no-1-spot-gotham-fc-falter",
       "image": "https://a.espncdn.com/photo/2026/0727/r1694342_1296x729_16-9.jpg",
       "byline": "Arianna Cascone",
@@ -229,7 +211,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 130
+      "score": 126
     },
     {
       "id": "49463274",
@@ -247,7 +229,25 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 129
+      "score": 126
+    },
+    {
+      "id": "49463250",
+      "headline": "Does Welbeck to Chelsea make sense?",
+      "description": "Does Welbeck to Chelsea make sense?",
+      "published": "2026-07-27T16:20:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49463250/does-welbeck-chelsea-make-sense",
+      "image": "https://a.espncdn.com/media/motion/2026/0727/dm_260727_COM_SOC_Analysis_Does_Welbeck_to_Chelsea_make_sense3F__GLOBAL_2026-07-27/dm_260727_COM_SOC_Analysis_Does_Welbeck_to_Chelsea_make_sense3F__GLOBAL_2026-07-27.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 126
     },
     {
       "id": "49441430",
@@ -263,7 +263,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 118
+      "score": 116
     },
     {
       "id": "49448250",
@@ -279,7 +279,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 81
+      "score": 79
     },
     {
       "id": "49425954",
@@ -304,7 +304,7 @@
         "Gustavo Puerta",
         "Pedro Vite"
       ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "49447628",
@@ -320,7 +320,7 @@
         "USA"
       ],
       "players": [],
-      "score": 55
+      "score": 52
     },
     {
       "id": "49447596",
@@ -334,7 +334,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 50
+      "score": 48
     },
     {
       "id": "49440317",
@@ -350,7 +350,7 @@
         "USA"
       ],
       "players": [],
-      "score": 29
+      "score": 27
     },
     {
       "id": "49365449",
@@ -492,22 +492,6 @@
       "score": 20
     },
     {
-      "id": "49440737",
-      "headline": "What would England's team look like if Pep Guardiola was manager?",
-      "description": "What would England's team look like if Pep Guardiola was manager?",
-      "published": "2026-07-24T16:41:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 18
-    },
-    {
       "id": "49420440",
       "headline": "Could Gianni Infantino resign after World Cup backlash?",
       "description": "Could Gianni Infantino resign after World Cup backlash?",
@@ -536,6 +520,22 @@
       "score": 18
     },
     {
+      "id": "49440737",
+      "headline": "What would England's team look like if Pep Guardiola was manager?",
+      "description": "What would England's team look like if Pep Guardiola was manager?",
+      "published": "2026-07-24T16:41:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [],
+      "score": 16
+    },
+    {
       "id": "49438479",
       "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
       "description": "Klopp: When you don't want me as Germany coach, I'm gone",
@@ -549,21 +549,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 15
-    },
-    {
-      "id": "49440743",
-      "headline": "What does the future look like for the Italian national team?",
-      "description": "What does the future look like for the Italian national team?",
-      "published": "2026-07-24T16:44:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49440743/what-does-future-look-italian-national-team",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_does_the_future_look_like_for_the_Italian_national_team3F__GLOBAL_2026-07-24/dm_260724_COM_SOC_Analysis_What_does_the_future_look_like_for_the_Italian_national_team3F__GLOBAL_2026-07-24.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 14
+      "score": 13
     },
     {
       "id": "49433484",
@@ -731,6 +717,20 @@
       "score": 13
     },
     {
+      "id": "49440743",
+      "headline": "What does the future look like for the Italian national team?",
+      "description": "What does the future look like for the Italian national team?",
+      "published": "2026-07-24T16:44:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/49440743/what-does-future-look-italian-national-team",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_does_the_future_look_like_for_the_Italian_national_team3F__GLOBAL_2026-07-24/dm_260724_COM_SOC_Analysis_What_does_the_future_look_like_for_the_Italian_national_team3F__GLOBAL_2026-07-24.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 12
+    },
+    {
       "id": "49258815",
       "headline": "Jürgen Klopp named Germany head coach after Julian Nagelsmann departure",
       "description": "Jürgen Klopp has been named Germany's head coach, following the national team's disappointing World Cup and the resignation of Julian Nagelsmann.",
@@ -744,7 +744,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 12
+      "score": 10
     },
     {
       "id": "49409382",
