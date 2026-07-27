@@ -1,11 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-27T17:52:42.531Z",
+  "updated": "2026-07-27T19:20:34.530Z",
   "counts": {
-    "injury": 5,
-    "news": 34,
-    "preview": 1,
-    "offfield": 7,
+    "injury": 4,
+    "news": 31,
+    "offfield": 12,
     "celebration": 1
   },
   "items": [
@@ -23,7 +22,7 @@
         "USA"
       ],
       "players": [],
-      "score": 209
+      "score": 207
     },
     {
       "id": "49461196",
@@ -40,7 +39,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 204
+      "score": 202
     },
     {
       "id": "49461219",
@@ -57,7 +56,21 @@
         "Spain"
       ],
       "players": [],
-      "score": 180
+      "score": 178
+    },
+    {
+      "id": "49460279",
+      "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
+      "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
+      "published": "2026-07-27T19:06:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 166
     },
     {
       "id": "49460832",
@@ -71,43 +84,100 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 163
+      "score": 161
     },
     {
-      "id": "49460279",
-      "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
-      "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
-      "published": "2026-07-27T07:51:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 151
-    },
-    {
-      "id": "49461853",
-      "headline": "Who is Sebastian Pedersen - His connection to Erling Haaland and more facts about Orlando Pirates' new striker",
-      "description": "He may not quite be Erling Haaland, but Sebastian Pedersen is precisely the mould of player who Orlando Pirates have been crying out for.",
-      "published": "2026-07-27T12:57:52Z",
-      "url": "https://www.espn.com/espn/story/_/id/49461853/who-sebastian-pedersen-connection-erling-haaland-more-facts-orlando-pirates-new-striker",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694259_1296x729_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49463538",
+      "headline": "Police probe misconduct allegations at Austin FC youth academy",
+      "description": "Law enforcement officials said Monday they are investigating allegations of misconduct by players at Austin FC's developmental youth academy, which resulted in players being expelled and the suspension of team activities for the affected age group.",
+      "published": "2026-07-27T17:17:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49463538/police-probe-misconduct-allegations-austin-fc-youth-academy",
+      "image": "https://a.espncdn.com/photo/2024/0429/r1326339_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Paraguay",
-        "South Africa",
-        "Norway"
+        "Paraguay"
       ],
       "players": [
-        "Sebastian Pedersen",
-        "Erling Haaland",
         "Orlando Gill"
       ],
-      "score": 140
+      "score": 142
+    },
+    {
+      "id": "49463495",
+      "headline": "Gotham FC, Esther González agree to mutually terminate contract",
+      "description": "Gotham FC, Esther González agree to mutually terminate contract",
+      "published": "2026-07-27T17:00:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49463495/gotham-fc-esther-gonzslez-agree-mutually-terminate-contract",
+      "image": "https://a.espncdn.com/photo/2026/0531/r1666311_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Esther González",
+        "Orlando Gill"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49463339",
+      "headline": "Barcelona explore transfer for Bournemouth's Junior Kroupi - source",
+      "description": "Barcelona have sounded out the possibility of signing Bournemouth striker Eli Junior Kroupi, although Julián Álvarez remains the Spanish champions' top target this summer, a source told ESPN.",
+      "published": "2026-07-27T16:35:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49463339/barcelona-explore-transfer-bournemouth-junior-kroupi-source",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694337_1296x729_16-9.jpg",
+      "byline": "Sam Marsden and Moises Llorens",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Junior Kroupi",
+        "Orlando Gill"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49463293",
+      "headline": "Ogden: Rodri's transfer to Real Madrid will happen",
+      "description": "Ogden: Rodri's transfer to Real Madrid will happen",
+      "published": "2026-07-27T16:22:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49463293/rodri-transfer-real-madrid-happen",
+      "image": "https://a.espncdn.com/media/motion/2026/0727/dm_260727_COM_SOC_Analysis_Ogden3A_Rodris_transfer_to_Real_Madrid_will_happen_GLOBAL_2026-07-27/dm_260727_COM_SOC_Analysis_Ogden3A_Rodris_transfer_to_Real_Madrid_will_happen_GLOBAL_2026-07-27.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49462982",
+      "headline": "Michael Jordan and David Beckham spotted together in Ibiza",
+      "description": "The two sporting icons were joined by their wives for a lunch meetup, where the duo was seen embracing.",
+      "published": "2026-07-27T16:20:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49462982/michael-jordan-david-beckham-meet-ibiza",
+      "image": "https://a.espncdn.com/photo/2025/1105/r1570948_608x342_16-9.jpg",
+      "byline": "ESPN staff",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay",
+        "Jordan"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 141
     },
     {
       "id": "49416547",
@@ -121,145 +191,63 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 139
-    },
-    {
-      "id": "49462383",
-      "headline": "Girona vs Arsenal: TV channel, how to watch in UK, kick-off time, live stream, team news",
-      "description": "Arsenal are set to continue their preseason ahead of the 2026/27 season as they travel to Spain to take on Girona.",
-      "published": "2026-07-27T14:49:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49462383/girona-vs-arsenal-tv-channel-how-watch-uk-kick-live-stream-team-news",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694289_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Paraguay",
-        "Spain"
-      ],
-      "players": [
-        "Orlando Gill"
-      ],
       "score": 137
     },
     {
-      "id": "49462140",
-      "headline": "MLS Power Rankings: Can Lewandowski propel Chicago up the order?",
-      "description": "Two games into his MLS career, Robert Lewandowski has yet to win with the Chicago Fire, so where does that leave them in ESPN's MLS Power Rankings?",
-      "published": "2026-07-27T14:48:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49462140/mls-power-rankings-robert-lewandowski-propel-chicago-fire-order",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694295_1296x729_16-9.jpg",
-      "byline": "Joseph Lowery",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Orlando Gill"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49462100",
-      "headline": "Singapore see off Timor-Leste to stay perfect. Now their ASEAN Championship really begins",
-      "description": "Singapore have notched two straight wins to start the 2026 ASEAN Championship. Now comes the business end.",
-      "published": "2026-07-27T14:19:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49462100/singapore-ease-timor-leste-second-straight-win-asean-championship",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694262_1280x720_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Ilhan Fandi",
-        "Song Ui-young",
-        "Orlando Gill"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49461763",
-      "headline": "Kylian Mbappé to France fans: 'We owed you a better ending' at World Cup",
-      "description": "Kylian Mbappé has thanked fans for their support during the World Cup in a post on social media, admitting that France's failure to lift the trophy \"hurts, and will hurt for a while.\"",
-      "published": "2026-07-27T13:43:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461763/kylian-mbappe-france-fans-owed-better-ending-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689272_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
+      "id": "49463102",
+      "headline": "South Africa vs. Tanzania - Banyana's WAFCON opener ends in defeat: as it happened",
+      "description": "Linda Motlhalo's 100th cap for Banyana Banyana ended in disappointment as South Africa suffered a shock defeat to Tanzania in Casablanca.",
+      "published": "2026-07-27T19:11:26Z",
+      "url": "https://www.espn.com/espn/story/_/id/49463102/happened",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694330_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Paraguay",
-        "France"
+        "South Africa"
       ],
       "players": [
-        "Kylian Mbappé",
+        "Linda Motlhalo",
         "Orlando Gill"
       ],
-      "score": 127
+      "score": 133
     },
     {
-      "id": "49461705",
-      "headline": "Temwa Chawinga rejects underdog tag for WAFCON debutants Malawi",
-      "description": "Going into their first ever Women's Africa Cup of Nations, star forward Temwa Chawinga has warned the rest of the field that while they may be seen as underdogs, they have no intention of playing like it.",
-      "published": "2026-07-27T12:31:22Z",
-      "url": "https://www.espn.com/espn/story/_/id/49461705/nwsl-star-temwa-chawinga-rejects-underdog-tag-wafcon-debutants-malawi",
-      "image": "https://a.espncdn.com/photo/2025/1119/r1577935_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
+      "id": "49462659",
+      "headline": "NWSL Power Rankings: Spirit reclaim No. 1 spot after Gotham FC falter",
+      "description": "The Washington Spirit took back the top spot in ESPN's NWSL Power Rankings with their fifth win in six games, as Gotham FC dropped points on the road.",
+      "published": "2026-07-27T17:00:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49462659/nwsl-power-rankings-spirit-reclaim-no-1-spot-gotham-fc-falter",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694342_1296x729_16-9.jpg",
+      "byline": "Arianna Cascone",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Paraguay"
       ],
       "players": [
-        "Temwa Chawinga",
         "Orlando Gill"
       ],
-      "score": 125
+      "score": 130
     },
     {
-      "id": "49461540",
-      "headline": "Reece James shifts attention to the racecourse after England's World Cup heartbreak",
-      "description": "Reece James' quest for World Cup glory with England may have ended with semifinal anguish, but the Chelsea captain could grab consolation on the racecourse.",
-      "published": "2026-07-27T11:43:04Z",
-      "url": "https://www.espn.com/horse/story/_/id/49461540/reece-james-horse-racing-owner-scommessa-sicura-british-stallion-studs",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694231_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay",
-        "England"
-      ],
-      "players": [
-        "Reece James",
-        "Orlando Gill"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49461273",
-      "headline": "Asisat Oshoala wants more than another Nigeria title, she wants WAFCON itself to win",
-      "description": "Nigeria are intent, as always, on winning the Women's Africa Cup of Nations title, but for star forward Asisat Oshoala, lifting another trophy would represent only part of the tournament's success.",
-      "published": "2026-07-27T11:23:16Z",
-      "url": "https://www.espn.com/espn/story/_/id/49461273/asisat-oshoala-wants-more-another-nigeria-title-wants-wafcon-win",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694225_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
+      "id": "49463274",
+      "headline": "Nicol has 'doubts' over Liverpool's move for PSG's Barcola",
+      "description": "Nicol has 'doubts' over Liverpool's move for PSG's Barcola",
+      "published": "2026-07-27T16:21:31Z",
+      "url": "https://www.espn.com/video/clip/_/id/49463274/nicol-doubts-liverpool-move-psg-barcola",
+      "image": "https://a.espncdn.com/media/motion/2026/0727/dm_260727_COM_SOC_Analysis_Nicol_has_doubts_over_LiverpoolE28099s_move_for_PSGE28099s_Barcola_GLOBAL_2026-07-27/dm_260727_COM_SOC_Analysis_Nicol_has_doubts_over_LiverpoolE28099s_move_for_PSGE28099s_Barcola_GLOBAL_2026-07-27.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Paraguay"
       ],
       "players": [
-        "Asisat Oshoala",
-        "Temwa Chawinga",
-        "Tabitha Chawinga",
-        "Barbra Banda",
         "Orlando Gill"
       ],
-      "score": 123
+      "score": 129
     },
     {
       "id": "49441430",
@@ -275,7 +263,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 120
+      "score": 118
     },
     {
       "id": "49448250",
@@ -291,7 +279,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 84
+      "score": 81
     },
     {
       "id": "49425954",
@@ -316,7 +304,7 @@
         "Gustavo Puerta",
         "Pedro Vite"
       ],
-      "score": 62
+      "score": 60
     },
     {
       "id": "49447628",
@@ -332,7 +320,7 @@
         "USA"
       ],
       "players": [],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49447596",
@@ -346,7 +334,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 53
+      "score": 50
     },
     {
       "id": "49440317",
@@ -362,7 +350,7 @@
         "USA"
       ],
       "players": [],
-      "score": 31
+      "score": 29
     },
     {
       "id": "49365449",
@@ -428,22 +416,6 @@
       "score": 27
     },
     {
-      "id": "49438321",
-      "headline": "Spain's Luis de la Fuente: Doubting Rodri an 'insult to footballing intelligence'",
-      "description": "Spain coach Luis de la Fuente never had any doubts that Manchester City midfielder Rodri would be a major asset for the team at the World Cup despite concerns about his recent injuries.",
-      "published": "2026-07-24T11:11:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49438321/rodri-spain-luis-da-la-fuente-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691549_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 26
-    },
-    {
       "id": "49422933",
       "headline": "10 African stars who caught transfer scouts' eyes at the FIFA World Cup",
       "description": "Every four years, the FIFA World Cup reshapes the transfer landscape, offering players the opportunity to showcase their qualities against elite opposition in front of the watching world.",
@@ -469,6 +441,22 @@
       "score": 25
     },
     {
+      "id": "49438321",
+      "headline": "Spain's Luis de la Fuente: Doubting Rodri an 'insult to footballing intelligence'",
+      "description": "Spain coach Luis de la Fuente never had any doubts that Manchester City midfielder Rodri would be a major asset for the team at the World Cup despite concerns about his recent injuries.",
+      "published": "2026-07-24T11:11:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49438321/rodri-spain-luis-da-la-fuente-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691549_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 24
+    },
+    {
       "id": "49427167",
       "headline": "Nicol: Argentina's Ayala should be sacked after World Cup conduct",
       "description": "Nicol: Argentina's Ayala should be sacked after World Cup conduct",
@@ -484,22 +472,6 @@
       ],
       "players": [],
       "score": 22
-    },
-    {
-      "id": "49440737",
-      "headline": "What would England's team look like if Pep Guardiola was manager?",
-      "description": "What would England's team look like if Pep Guardiola was manager?",
-      "published": "2026-07-24T16:41:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 20
     },
     {
       "id": "49421412",
@@ -518,6 +490,22 @@
         "Guillermo Ochoa"
       ],
       "score": 20
+    },
+    {
+      "id": "49440737",
+      "headline": "What would England's team look like if Pep Guardiola was manager?",
+      "description": "What would England's team look like if Pep Guardiola was manager?",
+      "published": "2026-07-24T16:41:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [],
+      "score": 18
     },
     {
       "id": "49420440",
@@ -561,7 +549,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 17
+      "score": 15
     },
     {
       "id": "49440743",
@@ -575,39 +563,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 16
-    },
-    {
-      "id": "49258815",
-      "headline": "Jürgen Klopp named Germany head coach after Julian Nagelsmann departure",
-      "description": "Jürgen Klopp has been named Germany's head coach, following the national team's disappointing World Cup and the resignation of Julian Nagelsmann.",
-      "published": "2026-07-24T12:52:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49258815/jurgen-klopp-germany-manager-world-cup-julian-nagalesmann-resigns",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693111_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 15
-    },
-    {
-      "id": "49409382",
-      "headline": "Forget whether Germany need Klopp. Does Klopp need Germany?",
-      "description": "Jürgen Klopp ended his nine-year spell as Liverpool manager by saying he was too tired to carry on. Now, as Germany boss, is he game to coach again?",
-      "published": "2026-07-24T11:39:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693112_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 13
+      "score": 14
     },
     {
       "id": "49433484",
@@ -775,6 +731,38 @@
       "score": 13
     },
     {
+      "id": "49258815",
+      "headline": "Jürgen Klopp named Germany head coach after Julian Nagelsmann departure",
+      "description": "Jürgen Klopp has been named Germany's head coach, following the national team's disappointing World Cup and the resignation of Julian Nagelsmann.",
+      "published": "2026-07-24T12:52:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49258815/jurgen-klopp-germany-manager-world-cup-julian-nagalesmann-resigns",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693111_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 12
+    },
+    {
+      "id": "49409382",
+      "headline": "Forget whether Germany need Klopp. Does Klopp need Germany?",
+      "description": "Jürgen Klopp ended his nine-year spell as Liverpool manager by saying he was too tired to carry on. Now, as Germany boss, is he game to coach again?",
+      "published": "2026-07-24T11:39:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693112_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
       "id": "49438196",
       "headline": "The moment Jürgen Klopp was announced as new Germany head coach",
       "description": "The moment Jürgen Klopp was announced as new Germany head coach",
@@ -788,7 +776,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 11
+      "score": 10
     },
     {
       "id": "49435363",
