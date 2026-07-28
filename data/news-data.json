@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-28T00:08:28.115Z",
+  "updated": "2026-07-28T06:12:43.921Z",
   "counts": {
     "celebration": 2,
-    "injury": 4,
+    "injury": 5,
     "news": 32,
-    "offfield": 10
+    "offfield": 9
   },
   "items": [
     {
@@ -22,7 +22,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 215
+      "score": 206
     },
     {
       "id": "49441066",
@@ -38,7 +38,7 @@
         "USA"
       ],
       "players": [],
-      "score": 190
+      "score": 181
     },
     {
       "id": "49461196",
@@ -55,7 +55,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 185
+      "score": 176
     },
     {
       "id": "49461219",
@@ -72,7 +72,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 161
+      "score": 151
     },
     {
       "id": "49460279",
@@ -86,7 +86,44 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 148
+      "score": 139
+    },
+    {
+      "id": "49465763",
+      "headline": "Premier League to crack down on goalkeepers faking injury",
+      "description": "The new Premier League season is set to trial a crackdown on goalkeepers who appear to feign injury in order to disturb the flow of the game or give time for coaches to instruct players.",
+      "published": "2026-07-28T00:16:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49465763/premier-league-crack-goalkeepers-faking-injury",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694462_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Paraguay"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49464491",
+      "headline": "Javier Hernandez joins second-tier USL side Atletico Dallas",
+      "description": "Mexico's all-time leading goal scorer, Javier \"Chicharito\" Hernandez, is signing with USL Championship expansion team Atletico Dallas, a source told ESPN Mexico.",
+      "published": "2026-07-28T00:24:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49464491/chicharito-set-join-expansion-usl-side-dallas",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694399_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay",
+        "Mexico"
+      ],
+      "players": [
+        "Orlando Gill"
+      ],
+      "score": 136
     },
     {
       "id": "49460832",
@@ -100,7 +137,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 143
+      "score": 134
     },
     {
       "id": "49460399",
@@ -120,26 +157,7 @@
         "Bruno Guimarães",
         "Orlando Gill"
       ],
-      "score": 140
-    },
-    {
-      "id": "49464491",
-      "headline": "Source: 'Chicharito' set to join expansion USL side in Dallas",
-      "description": "Mexico's all-time leading goal scorer, Javier \"Chicharito\" Hernandez, is signing with USL Championship expansion team Atletico Dallas, a source told ESPN Mexico.",
-      "published": "2026-07-27T20:49:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49464491/chicharito-set-join-expansion-usl-side-dallas",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694399_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Paraguay",
-        "Mexico"
-      ],
-      "players": [
-        "Orlando Gill"
-      ],
-      "score": 140
+      "score": 131
     },
     {
       "id": "49464601",
@@ -158,25 +176,25 @@
         "James Trafford",
         "Orlando Gill"
       ],
-      "score": 139
+      "score": 130
     },
     {
-      "id": "49463538",
-      "headline": "Police probe misconduct allegations at Austin FC youth academy",
-      "description": "Law enforcement officials said Monday they are investigating allegations of misconduct by players at Austin FC's developmental youth academy, which resulted in players being expelled and the suspension of team activities for the affected age group.",
-      "published": "2026-07-27T17:17:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49463538/police-probe-misconduct-allegations-austin-fc-youth-academy",
-      "image": "https://a.espncdn.com/photo/2024/0429/r1326339_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49466155",
+      "headline": "Baker hits debut hat-trick as Indonesia get off to a flyer",
+      "description": "19-year-old Mitchell Baker marked his international debut with a hat-trick as Indonesia opened their ASEAN Championship campaign with a 5-1 rout of Cambodia.",
+      "published": "2026-07-28T01:39:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/49466155/baker-hits-debut-hat-trick-indonesia-get-flyer",
+      "image": "https://a.espncdn.com/media/motion/2026/0727/dm_260727_ASEAN_Highlight__Baker_hits_debut_hattrick_as_Indonesia_get_off_to_a_flyer_2026728_ESPN/dm_260727_ASEAN_Highlight__Baker_hits_debut_hattrick_as_Indonesia_get_off_to_a_flyer_2026728_ESPN.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Paraguay"
       ],
       "players": [
         "Orlando Gill"
       ],
-      "score": 135
+      "score": 126
     },
     {
       "id": "46664763",
@@ -197,7 +215,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 127
+      "score": 118
     },
     {
       "id": "47276683",
@@ -218,48 +236,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 127
-    },
-    {
-      "id": "49463455",
-      "headline": "If this is how Banyana are going to play at this WAFCON then a World Cup berth looks far away",
-      "description": "There have been many moments in Desiree Ellis' 10-year Banyana Banyana reign where her back has been against the wall, but none where the chips were down quite as badly as they are following Monday's 2-1 loss to Tanzania.",
-      "published": "2026-07-27T20:10:56Z",
-      "url": "https://www.espn.com/espn/story/_/id/49463455/if-how-banyana-going-play-wafcon-world-cup-berth-looks-far-away",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694395_812x457_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay",
-        "South Africa"
-      ],
-      "players": [
-        "Bambanani Mbane",
-        "Linda Motlhalo",
-        "Orlando Gill"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49463102",
-      "headline": "South Africa vs. Tanzania - Banyana's WAFCON opener ends in defeat: as it happened",
-      "description": "Linda Motlhalo's 100th cap for Banyana Banyana ended in disappointment as South Africa suffered a shock defeat to Tanzania in Casablanca.",
-      "published": "2026-07-27T19:20:48Z",
-      "url": "https://www.espn.com/espn/story/_/id/49463102/happened",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694330_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay",
-        "South Africa"
-      ],
-      "players": [
-        "Linda Motlhalo",
-        "Orlando Gill"
-      ],
-      "score": 126
+      "score": 118
     },
     {
       "id": "49416547",
@@ -273,7 +250,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 120
+      "score": 111
     },
     {
       "id": "49441430",
@@ -289,7 +266,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 101
+      "score": 92
     },
     {
       "id": "49448250",
@@ -305,7 +282,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 64
+      "score": 55
     },
     {
       "id": "49425954",
@@ -330,7 +307,7 @@
         "Gustavo Puerta",
         "Pedro Vite"
       ],
-      "score": 53
+      "score": 44
     },
     {
       "id": "49447628",
@@ -346,7 +323,7 @@
         "USA"
       ],
       "players": [],
-      "score": 47
+      "score": 38
     },
     {
       "id": "49447596",
@@ -360,7 +337,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 43
+      "score": 34
     },
     {
       "id": "49365449",
@@ -710,7 +687,7 @@
         "England"
       ],
       "players": [],
-      "score": 11
+      "score": 10
     },
     {
       "id": "49438479",
@@ -947,6 +924,23 @@
       "kindLabel": "News",
       "teams": [
         "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49427611",
+      "headline": "Burley: England's approach against Argentina was inexcusable",
+      "description": "Burley: England's approach against Argentina was inexcusable",
+      "published": "2026-07-22T22:07:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49427611/england-approach-argentina-was-inexcusable",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Burley_Englands_approach_against_Argentina_was_inexcusable/dm_260722_Burley_Englands_approach_against_Argentina_was_inexcusable.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
       ],
       "players": [],
       "score": 10
