@@ -1,13 +1,43 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-28T13:12:22.963Z",
+  "updated": "2026-07-28T15:36:25.765Z",
   "counts": {
+    "news": 35,
     "offfield": 7,
-    "news": 34,
     "injury": 5,
-    "celebration": 2
+    "celebration": 1
   },
   "items": [
+    {
+      "id": "49470028",
+      "headline": "UEFA blasts FIFA proposal to allow for $10B in World Cup private investment",
+      "description": "UEFA has rejected a reported FIFA proposal to sell stakes in the World Cup to private investors as a \"line that football's governing institutions should never cross\" and that the World Cup is \"not FIFA's to sell.\"",
+      "published": "2026-07-28T15:20:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 206
+    },
+    {
+      "id": "49463728",
+      "headline": "What advanced stats say about every USMNT World Cup game since 1990",
+      "description": "The U.S. men's latest World Cup exit was the latest in a long string of disappointments ... or was it? Let's look at the numbers behind all their tournament appearances since 1990 to get the real story.",
+      "published": "2026-07-28T14:04:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49463728/what-advanced-stats-say-every-usmnt-world-cup-game-1990",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694394_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 198
+    },
     {
       "id": "49468627",
       "headline": "IFAB: VAR process of red card for Switzerland's Embolo was wrong",
@@ -25,13 +55,13 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 213
+      "score": 189
     },
     {
       "id": "49468665",
       "headline": "Can U.S. Soccer afford to wait for USMNT coach Pochettino?",
-      "description": "Is Mauricio Pochettino still coach of the United States men's national team? That's the lingering question for U.S. Soccer which needs answering soon.",
-      "published": "2026-07-28T11:32:43Z",
+      "description": "Is Mauricio Pochettino still coach of the United States men's national team? That's the lingering question for U.S. Soccer that needs answering soon.",
+      "published": "2026-07-28T14:23:30Z",
       "url": "https://www.espn.com/soccer/story/_/id/49468665/united-states-usmnt-mauricio-pochettino-future-2030-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0707/r1685713_1296x729_16-9.jpg",
       "byline": "Cesar Hernandez",
@@ -41,7 +71,7 @@
         "USA"
       ],
       "players": [],
-      "score": 208
+      "score": 188
     },
     {
       "id": "49468267",
@@ -55,7 +85,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 181
+      "score": 157
     },
     {
       "id": "49460730",
@@ -71,7 +101,7 @@
         "France"
       ],
       "players": [],
-      "score": 179
+      "score": 156
     },
     {
       "id": "49468236",
@@ -87,21 +117,7 @@
         "France"
       ],
       "players": [],
-      "score": 175
-    },
-    {
-      "id": "49416547",
-      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
-      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
-      "published": "2026-07-28T06:26:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
-      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 146
+      "score": 151
     },
     {
       "id": "49467567",
@@ -120,40 +136,7 @@
         "Vinícius Júnior",
         "Breel Embolo"
       ],
-      "score": 137
-    },
-    {
-      "id": "49461196",
-      "headline": "Don't be fooled by Klopp's, Zidane's new international jobs: Club soccer is still top of the game",
-      "description": "Despite the flurry of big-name hires, international jobs remain a route to redemption or a quieter life away from the intensity of an elite club role.",
-      "published": "2026-07-28T09:55:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461196/jurgen-klopp-zinedine-zidane-germany-france-international-coaches-club-managers",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694222_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Germany"
-      ],
-      "players": [],
-      "score": 135
-    },
-    {
-      "id": "49465323",
-      "headline": "Lopes Cabral stunner for Cape Verde voted best World Cup goal",
-      "description": "Cape Verde made more World Cup history on Monday when Sidny Lopes Cabral won the public vote for goal of the tournament.",
-      "published": "2026-07-27T22:42:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49465323/lopes-cabral-stunner-cape-verde-voted-best-world-cup-goal",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684087_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 135
+      "score": 133
     },
     {
       "id": "49431120",
@@ -172,7 +155,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 127
+      "score": 123
     },
     {
       "id": "49467588",
@@ -195,7 +178,7 @@
         "Rasheedat Ajibade",
         "Breel Embolo"
       ],
-      "score": 126
+      "score": 123
     },
     {
       "id": "49467703",
@@ -214,7 +197,7 @@
         "Mohamed Salah",
         "Breel Embolo"
       ],
-      "score": 126
+      "score": 122
     },
     {
       "id": "49163915",
@@ -232,7 +215,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 126
+      "score": 122
     },
     {
       "id": "49467767",
@@ -253,7 +236,7 @@
         "Esther Okoronkwo",
         "Breel Embolo"
       ],
-      "score": 125
+      "score": 122
     },
     {
       "id": "49464339",
@@ -271,7 +254,38 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 125
+      "score": 122
+    },
+    {
+      "id": "49416547",
+      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
+      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
+      "published": "2026-07-28T06:26:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
+      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 122
+    },
+    {
+      "id": "49461196",
+      "headline": "Don't be fooled by Klopp's, Zidane's new international jobs: Club soccer is still top of the game",
+      "description": "Despite the flurry of big-name hires, international jobs remain a route to redemption or a quieter life away from the intensity of an elite club role.",
+      "published": "2026-07-28T09:55:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461196/jurgen-klopp-zinedine-zidane-germany-france-international-coaches-club-managers",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694222_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Germany"
+      ],
+      "players": [],
+      "score": 121
     },
     {
       "id": "49452673",
@@ -292,7 +306,23 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 124
+      "score": 120
+    },
+    {
+      "id": "49465323",
+      "headline": "Lopes Cabral stunner for Cape Verde voted best World Cup goal",
+      "description": "Cape Verde made more World Cup history on Monday when Sidny Lopes Cabral won the public vote for goal of the tournament.",
+      "published": "2026-07-27T22:42:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49465323/lopes-cabral-stunner-cape-verde-voted-best-world-cup-goal",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684087_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 112
     },
     {
       "id": "49441066",
@@ -308,7 +338,7 @@
         "USA"
       ],
       "players": [],
-      "score": 110
+      "score": 107
     },
     {
       "id": "49460279",
@@ -322,7 +352,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 99
+      "score": 95
     },
     {
       "id": "49461219",
@@ -339,7 +369,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 91
+      "score": 87
     },
     {
       "id": "49460832",
@@ -353,7 +383,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 84
+      "score": 80
     },
     {
       "id": "49441430",
@@ -369,7 +399,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 71
+      "score": 68
     },
     {
       "id": "49448250",
@@ -385,7 +415,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 45
+      "score": 41
     },
     {
       "id": "49425954",
@@ -410,23 +440,7 @@
         "Gustavo Puerta",
         "Pedro Vite"
       ],
-      "score": 33
-    },
-    {
-      "id": "49447628",
-      "headline": "Will Pochettino leave USMNT role?",
-      "description": "Will Pochettino leave USMNT role?",
-      "published": "2026-07-25T17:05:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 28
+      "score": 30
     },
     {
       "id": "49365449",
@@ -517,16 +531,18 @@
       "score": 25
     },
     {
-      "id": "49447596",
-      "headline": "Should tickets be more affordable for fans after the World Cup?",
-      "description": "Should tickets be more affordable for fans after the World Cup?",
-      "published": "2026-07-25T16:57:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg",
+      "id": "49447628",
+      "headline": "Will Pochettino leave USMNT role?",
+      "description": "Will Pochettino leave USMNT role?",
+      "published": "2026-07-25T17:05:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
-      "teams": [],
+      "teams": [
+        "USA"
+      ],
       "players": [],
       "score": 24
     },
@@ -580,21 +596,17 @@
       "score": 22
     },
     {
-      "id": "49421412",
-      "headline": "Mexico great Guillermo Ochoa retires after 22-year career",
-      "description": "Guillermo Ochoa, widely considered among the greatest Mexican goalkeepers in history, announced his retirement from elite soccer on Tuesday, bringing an end to a distinguished 22-year professional career.",
-      "published": "2026-07-22T02:00:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49421412/mexico-great-guillermo-ochoa-retires-22-year-career",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678707_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Mexico"
-      ],
-      "players": [
-        "Guillermo Ochoa"
-      ],
+      "id": "49447596",
+      "headline": "Should tickets be more affordable for fans after the World Cup?",
+      "description": "Should tickets be more affordable for fans after the World Cup?",
+      "published": "2026-07-25T16:57:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
       "score": 20
     },
     {
@@ -721,25 +733,6 @@
       ],
       "players": [
         "Gavi"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49418623",
-      "headline": "World Cup musings: Argentina let Messi down; England have regressed",
-      "description": "Now that the dust has settled on the 2026 FIFA World Cup, what better time for Gabriele Marcotti to pause and reflect on what we've seen?",
-      "published": "2026-07-22T11:19:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49418623/world-cup-musings-argentina-let-messi-england-regressed",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692281_1296x729_16-9.jpg",
-      "byline": "Gab Marcotti",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
       ],
       "score": 13
     },
