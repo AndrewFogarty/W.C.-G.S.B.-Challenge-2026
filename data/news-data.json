@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-28T18:44:40.648Z",
+  "updated": "2026-07-28T20:09:02.964Z",
   "counts": {
     "news": 33,
     "offfield": 7,
-    "preview": 2,
-    "injury": 5,
+    "injury": 6,
+    "preview": 1,
     "celebration": 1
   },
   "items": [
@@ -21,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 206
+      "score": 203
     },
     {
       "id": "49471131",
@@ -39,7 +39,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 201
+      "score": 199
     },
     {
       "id": "49471030",
@@ -57,13 +57,13 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 191
+      "score": 188
     },
     {
       "id": "49470028",
       "headline": "UEFA blasts FIFA proposal to allow for $10B in World Cup private investment",
       "description": "UEFA has rejected a FIFA plan to sell stakes in the World Cup to private investors as a \"line that football's governing institutions should never cross\" and that the World Cup is \"not FIFA's to sell.\"",
-      "published": "2026-07-28T18:34:52Z",
+      "published": "2026-07-28T19:57:37Z",
       "url": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
@@ -87,7 +87,7 @@
         "USA"
       ],
       "players": [],
-      "score": 170
+      "score": 167
     },
     {
       "id": "49468627",
@@ -106,7 +106,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 154
+      "score": 152
     },
     {
       "id": "49468665",
@@ -122,35 +122,54 @@
         "USA"
       ],
       "players": [],
-      "score": 153
+      "score": 151
     },
     {
-      "id": "49467567",
-      "headline": "Transfer rumors, news: Vinícius Jr. set to stay at Madrid, despite Arsenal interest",
-      "description": "Real Madrid are confident that Vinícius Júnior will not depart this summer, while Liverpool want Aston Villa's Ezri Konsa. Transfer Talk has the latest.",
-      "published": "2026-07-28T15:51:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49467567/transfer-rumors-news-real-madrid-offer-vinicius-junior-contract-arsenal-interest",
-      "image": "https://a.espncdn.com/photo/2026/0325/r1633697_1296x729_16-9.jpg",
+      "id": "49472491",
+      "headline": "USMNT's Berhalter joins Middlesbrough from Vancouver Whitecaps",
+      "description": "United States midfielder Sebastian Berhalter has joined English Championship side Middlesbrough from the Vancouver Whitecaps, the clubs announced Tuesday.",
+      "published": "2026-07-28T19:50:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49472491/usmnt-sebastian-berhalter-transfer-middlesbrough-vancouver-whitecaps",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694786_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
+        "Brazil",
+        "USA"
+      ],
+      "players": [
+        "Sebastian Berhalter",
+        "Endrick"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49471393",
+      "headline": "Barcelona president Joan Laporta recovering from heart issue",
+      "description": "Barcelona president Joan Laporta has revealed he is recovering from a heart problem after being admitted to hospital.",
+      "published": "2026-07-28T18:14:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49471393/barcelona-president-joan-laporta-recovering-heart-issue",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694727_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
         "Brazil"
       ],
       "players": [
-        "Vinícius Júnior",
         "Endrick"
       ],
-      "score": 141
+      "score": 144
     },
     {
-      "id": "49154575",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "published": "2026-07-28T14:28:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "byline": "Grace Allen",
+      "id": "48897670",
+      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
+      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
+      "published": "2026-07-28T18:29:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
+      "byline": "ESPN",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
@@ -159,25 +178,49 @@
       "players": [
         "Endrick"
       ],
-      "score": 136
+      "score": 140
     },
     {
-      "id": "49469703",
-      "headline": "Xabi Alonso: Chelsea have a lot to do after win over Western Sydney Wanderers",
-      "description": "New Chelsea boss Xabi Alonso admits his team has a lot to do ahead of the upcoming Premier League season.",
-      "published": "2026-07-28T14:20:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49469703/xabi-alonso-reaction-chelsea-vs-western-sydney-wanderers-joao-pedro-hat-trick",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694613_1296x729_16-9.jpg",
-      "byline": "Samantha Lewis",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49472551",
+      "headline": "Barbra Banda smashes four past Egypt as Zambia enjoy WAFCON demolition",
+      "description": "Barbra Banda scored four -- including a 27-minute hat-trick -- as Zambia smashed Egypt 6-0 in their Women's Africa Cup of Nations opener in Rabat on Tuesday, to deliver an early statement of intent.",
+      "published": "2026-07-28T19:59:11Z",
+      "url": "https://www.espn.com/espn/story/_/id/49472551/barbra-banda-smashes-four-egypt-zambia-enjoy-wafcon-demolition",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694772_2_904x509_16-9.png",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "France"
+        "Brazil",
+        "Egypt"
       ],
       "players": [
-        "Zinadine Zidane M Catraio"
+        "Barbra Banda",
+        "Racheal Kundananji",
+        "Endrick"
       ],
-      "score": 135
+      "score": 133
+    },
+    {
+      "id": "49471258",
+      "headline": "USMNT's Matt Freese not over World Cup Belgium loss amid MLS return",
+      "description": "Goalkeeper Matt Freese said he's not quite gotten over the United States' abrupt exit from the 2026 World Cup following a 4-1 loss to Belgium in the round of 16.",
+      "published": "2026-07-28T17:51:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49471258/usmnt-gk-matt-freese-not-world-cup-belgium-loss-amid-mls-return",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685660_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "USA",
+        "Belgium"
+      ],
+      "players": [
+        "Matt Freese",
+        "Endrick"
+      ],
+      "score": 130
     },
     {
       "id": "49460730",
@@ -193,100 +236,7 @@
         "France"
       ],
       "players": [],
-      "score": 131
-    },
-    {
-      "id": "49471005",
-      "headline": "Ogden: Vinícius Jr. will stay at Real Madrid",
-      "description": "Ogden: Vinícius Jr. will stay at Real Madrid",
-      "published": "2026-07-28T17:04:39Z",
-      "url": "https://www.espn.com/video/clip/_/id/49471005/vinicius-jr-stay-real-madrid",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Ogden3A_VinC3ADcius_Jr_will_stay_at_Real_Madrid__GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Ogden3A_VinC3ADcius_Jr_will_stay_at_Real_Madrid__GLOBAL_2026-07-28.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Endrick"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49470622",
-      "headline": "Gvardiol: Enzo Maresca is one of the best managers",
-      "description": "Gvardiol: Enzo Maresca is one of the best managers",
-      "published": "2026-07-28T16:13:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/49470622/enzo-maresca-one-best-managers",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Gvardiol_Enzo_Maresca_is_one_of_the_best_managers/dm_260728_Gvardiol_Enzo_Maresca_is_one_of_the_best_managers.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Josko Gvardiol",
-        "Endrick"
-      ],
       "score": 129
-    },
-    {
-      "id": "49470114",
-      "headline": "Malaysia ease to second win at ASEAN Championship after belatedly finding spark",
-      "description": "Malaysia overcame some wasteful ways in the first half to beat Laos 4-0 in their second game of the 2026 ASEAN Championship.",
-      "published": "2026-07-28T15:06:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49470114/malaysia-ease-second-win-asean-championship-belatedly-finding-spark",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694635_1080x608_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Paulo Josué",
-        "Wan Kuzain",
-        "Endrick"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49469345",
-      "headline": "Roberto Mancini returning as new Italy coach - federation chief",
-      "description": "Roberto Mancini is close to becoming the new Italy head coach, the president of the country's football federation has said.",
-      "published": "2026-07-28T14:44:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49469345/roberto-mancini-tapped-manage-italy-federation-chief",
-      "image": "https://a.espncdn.com/photo/2025/1018/r1562087_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 127
-    },
-    {
-      "id": "48955344",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "published": "2026-07-28T14:03:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Endrick"
-      ],
-      "score": 126
     },
     {
       "id": "49468267",
@@ -300,7 +250,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 123
+      "score": 121
     },
     {
       "id": "49461196",
@@ -317,7 +267,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 117
+      "score": 115
     },
     {
       "id": "49468236",
@@ -333,7 +283,7 @@
         "France"
       ],
       "players": [],
-      "score": 116
+      "score": 114
     },
     {
       "id": "49416547",
@@ -347,7 +297,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 108
+      "score": 105
     },
     {
       "id": "49465323",
@@ -363,7 +313,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 107
+      "score": 105
     },
     {
       "id": "49441066",
@@ -379,7 +329,7 @@
         "USA"
       ],
       "players": [],
-      "score": 102
+      "score": 100
     },
     {
       "id": "49460279",
@@ -393,7 +343,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 91
+      "score": 88
     },
     {
       "id": "49461219",
@@ -410,7 +360,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 83
+      "score": 81
     },
     {
       "id": "49460832",
@@ -424,7 +374,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 76
+      "score": 73
     },
     {
       "id": "49441430",
@@ -440,7 +390,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 63
+      "score": 61
     },
     {
       "id": "49448250",
@@ -456,7 +406,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 36
+      "score": 34
     },
     {
       "id": "49365449",
@@ -634,7 +584,7 @@
         "USA"
       ],
       "players": [],
-      "score": 20
+      "score": 17
     },
     {
       "id": "49447596",
@@ -648,7 +598,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 15
+      "score": 13
     },
     {
       "id": "49433484",
@@ -869,6 +819,99 @@
       "kindLabel": "News",
       "teams": [
         "Colombia"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49178425",
+      "headline": "World Cup grades for all 47 eliminated teams from the tournament",
+      "description": "With the 2026 World Cup now over, 47 teams have been eliminated, and we're grading each team's run vs. expectations.",
+      "published": "2026-07-23T20:50:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663670_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "France",
+        "England",
+        "Argentina",
+        "Czechia",
+        "Qatar",
+        "Haiti",
+        "Curaçao",
+        "Tunisia",
+        "Jordan",
+        "Panama",
+        "Uruguay",
+        "Saudi Arabia",
+        "New Zealand",
+        "Iraq",
+        "IR Iran",
+        "Scotland",
+        "Uzbekistan",
+        "Korea Republic",
+        "South Africa",
+        "Netherlands",
+        "Germany",
+        "Japan",
+        "Algeria",
+        "Croatia",
+        "Austria",
+        "Cabo Verde",
+        "Australia",
+        "Ghana",
+        "Brazil",
+        "Mexico",
+        "Morocco",
+        "Norway",
+        "Switzerland",
+        "Portugal",
+        "Canada",
+        "Paraguay",
+        "Côte d'Ivoire",
+        "Ecuador",
+        "Sweden",
+        "Belgium",
+        "Egypt",
+        "Senegal",
+        "Colombia",
+        "DR Congo"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49430497",
+      "headline": "Argentina FA deny president, treasurer summoned to give evidence to U.S. court",
+      "description": "Argentina's Football Association has denied reports that its president or its treasurer have ‌been summoned to give evidence by United States courts.",
+      "published": "2026-07-23T11:41:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49430497/argentina-fa-deny-president-treasurer-summoned-give-evidence-us-court",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692724_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49430111",
+      "headline": "Nicol: Pochettino changed the identity of the USMNT",
+      "description": "Nicol: Pochettino changed the identity of the USMNT",
+      "published": "2026-07-23T08:01:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/49430111/pochettino-changed-identity-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
       ],
       "players": [],
       "score": 10
