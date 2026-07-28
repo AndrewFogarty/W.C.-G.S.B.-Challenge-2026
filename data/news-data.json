@@ -1,13 +1,60 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-28T09:07:34.989Z",
+  "updated": "2026-07-28T11:27:27.636Z",
   "counts": {
-    "news": 32,
+    "news": 27,
+    "injury": 6,
     "celebration": 2,
-    "injury": 5,
-    "offfield": 9
+    "offfield": 12,
+    "preview": 1
   },
   "items": [
+    {
+      "id": "49468267",
+      "headline": "Gianni Infantino's message attacking critics 'pathetic,' LaLiga chief Javier Tebas says",
+      "description": "LaLiga president Javier Tebas has called FIFA supremo Gianni Infantino's Instagram message criticising those that questioned his leadership, his organisation and the 2026 World Cup as \"pathetic.sPE",
+      "published": "2026-07-28T09:55:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468267/gianni-infantino-fifa-critics-message-javier-tebas-laliga-chief",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694546_2_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 204
+    },
+    {
+      "id": "49460730",
+      "headline": "Zidane takes France job after five years out of coaching. What will he do?",
+      "description": "France have made Zinedine Zidane their new coach despite his last job at Real Madrid ending in 2021. What will he do? And just where has he been?",
+      "published": "2026-07-28T10:02:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49460730/zinedine-zidane-france-coach-five-years-leaving-real-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694553_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland, Julien Laurens",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "France"
+      ],
+      "players": [],
+      "score": 202
+    },
+    {
+      "id": "49468236",
+      "headline": "Zidane: I've been waiting five years to become France's head coach",
+      "description": "Zidane: I've been waiting five years to become France's head coach",
+      "published": "2026-07-28T09:40:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49468236/waiting-five-years-become-france-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [],
+      "score": 197
+    },
     {
       "id": "49416547",
       "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
@@ -20,7 +67,24 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 202
+      "score": 168
+    },
+    {
+      "id": "49461196",
+      "headline": "Don't be fooled by Klopp's, Zidane's new international jobs: Club soccer is still top of the game",
+      "description": "Despite the flurry of big-name hires, international jobs remain a route to redemption or a quieter life away from the intensity of an elite club role.",
+      "published": "2026-07-28T09:55:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461196/jurgen-klopp-zinedine-zidane-germany-france-international-coaches-club-managers",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694222_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Germany"
+      ],
+      "players": [],
+      "score": 158
     },
     {
       "id": "49465323",
@@ -36,7 +100,102 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 191
+      "score": 158
+    },
+    {
+      "id": "49468650",
+      "headline": "NFF, AFC Toronto condemn racist abuse of Super Falcons' Esther Okoronwko",
+      "description": "The Nigeria Football Federation and AFC Toronto have condemned the racist abuse suffered by Super Falcons striker Esther Okoronkwo after she shared footage and accusations of a theft in Morocco.",
+      "published": "2026-07-28T11:15:11Z",
+      "url": "https://www.espn.com/espn/story/_/id/49468650/nff-afc-toronto-condemn-racist-abuse-super-falcons-esther-okoronwko",
+      "image": "https://a.espncdn.com/photo/2025/0722/r1521984_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain",
+        "Morocco"
+      ],
+      "players": [
+        "Esther Okoronkwo",
+        "Pedro Porro"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49467567",
+      "headline": "Transfer rumors, news: Real Madrid offer Vinícius Jr. contract amid Arsenal interest",
+      "description": "Real Madrid have sent a new contract offer to Vinícius Júnior, while Liverpool want Aston Villa's Ezri Konsa. Transfer Talk has the latest.",
+      "published": "2026-07-28T11:11:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49467567/transfer-rumors-news-real-madrid-offer-vinicius-junior-contract-arsenal-interest",
+      "image": "https://a.espncdn.com/photo/2026/0325/r1633697_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Vinícius Júnior",
+        "Pedro Porro"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49468369",
+      "headline": "John Stones in Inter Milan talks following Man City exit - sources",
+      "description": "Former Manchester City centre-back John Stones is in talks over a move to Italian side Inter Milan, sources have told ESPN.",
+      "published": "2026-07-28T10:35:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468369/john-stones-inter-milan-talks-following-man-city-exit-sources",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650355_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "John Stones",
+        "Pedro Porro"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49467964",
+      "headline": "Chelsea vs Western Sydney Wanderers LIVE: Goals aplenty in Xabi Alonso's first game",
+      "description": "Chelsea get their preseason campaign underway after travelling to take on the Western Sydney Wanderers.",
+      "published": "2026-07-28T10:56:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49467964/chelsea-western-sydney-wanderers-live-preseason-friendly-latest-updates-commentary-score-result",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694555_1296x729_16-9.jpg",
+      "byline": "Nathan Johns",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Pedro Porro"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49468465",
+      "headline": "Zinedine Zidane says he turned down clubs before taking 'dream' France job",
+      "description": "New France boss Zinedine Zidane has said he turned down club offers during his five years away football because coaching his national team was the \"only thing\" he wanted to do.",
+      "published": "2026-07-28T11:08:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468465/zinedine-zidane-says-turned-clubs-taking-dream-france-job",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694557_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "France"
+      ],
+      "players": [
+        "Pedro Porro"
+      ],
+      "score": 133
     },
     {
       "id": "49441066",
@@ -52,41 +211,63 @@
         "USA"
       ],
       "players": [],
-      "score": 167
+      "score": 133
     },
     {
-      "id": "49461196",
-      "headline": "Don't be fooled by Klopp's, Zidane's new international jobs: Club soccer is still top of the game",
-      "description": "Despite the flurry of big-name hires, international jobs remain a route to redemption or a quieter life away from the intensity of an elite club role.",
-      "published": "2026-07-27T14:07:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461196/jurgen-klopp-zinedine-zidane-germany-france-international-coaches-club-managers",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694222_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
+      "id": "49466413",
+      "headline": "'It's the intensity': How Iraola is changing Liverpool on U.S. preseason tour",
+      "description": "Milos Kerkez sat down with reporters on Liverpool's preseason tour of the United States and revealed some of the changes new boss Andoni Iraola is making.",
+      "published": "2026-07-28T11:03:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49466413/how-andoni-iraola-changing-liverpool-arne-slot-us-preseason-tour",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694551_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "France",
-        "Germany"
+        "Spain",
+        "USA"
       ],
-      "players": [],
-      "score": 162
+      "players": [
+        "Milos Kerkez",
+        "Pedro Porro"
+      ],
+      "score": 132
     },
     {
-      "id": "49461219",
-      "headline": "Argentina's Lionel Scaloni defends players after World Cup, critics are 'people who don't know us'",
-      "description": "Argentina coach Lionel Scaloni has defended his players and called them \"warriors\" in the wake of the World Cup final defeat to Spain.",
-      "published": "2026-07-27T11:09:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461219/argentina-lionel-scaloni-defends-players-world-cup-critics-people-know-us",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1680924_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
+      "id": "49468547",
+      "headline": "UEFA reiterates VAR should only intervene in the case of 'clear and obvious' error",
+      "description": "Officials across Europe have restated the need to use VAR only to change \"blatantly incorrect\" decisions and address clear missed incidents.",
+      "published": "2026-07-28T10:42:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468547/uefa-var-rules-clear-obvious-error",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694558_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
         "Spain"
       ],
-      "players": [],
-      "score": 137
+      "players": [
+        "Pedro Porro"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49163915",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "published": "2026-07-28T10:28:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Pedro Porro"
+      ],
+      "score": 132
     },
     {
       "id": "49465763",
@@ -104,7 +285,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 134
+      "score": 130
     },
     {
       "id": "49464491",
@@ -123,7 +304,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 132
+      "score": 128
     },
     {
       "id": "49460399",
@@ -143,7 +324,7 @@
         "Bruno Guimarães",
         "Orlando Gill"
       ],
-      "score": 127
+      "score": 123
     },
     {
       "id": "49464601",
@@ -162,21 +343,7 @@
         "James Trafford",
         "Orlando Gill"
       ],
-      "score": 125
-    },
-    {
-      "id": "49460279",
-      "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
-      "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
-      "published": "2026-07-27T19:06:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 125
+      "score": 122
     },
     {
       "id": "49466155",
@@ -194,21 +361,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 122
-    },
-    {
-      "id": "49460832",
-      "headline": "Slavko Vincic retires after refereeing World Cup final",
-      "description": "World Cup final referee Slavko Vincic has retired just a week on from the tournament's conclusion.",
-      "published": "2026-07-27T09:06:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460832/slavko-vincic-world-cup-final-referee-argentina-spain-enzo-fernandez-red-card",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694212_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 120
+      "score": 118
     },
     {
       "id": "46664763",
@@ -229,7 +382,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 114
+      "score": 110
     },
     {
       "id": "47276683",
@@ -250,7 +403,52 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 114
+      "score": 110
+    },
+    {
+      "id": "49461219",
+      "headline": "Argentina's Lionel Scaloni defends players after World Cup, critics are 'people who don't know us'",
+      "description": "Argentina coach Lionel Scaloni has defended his players and called them \"warriors\" in the wake of the World Cup final defeat to Spain.",
+      "published": "2026-07-27T11:09:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461219/argentina-lionel-scaloni-defends-players-world-cup-critics-people-know-us",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1680924_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 104
+    },
+    {
+      "id": "49460279",
+      "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
+      "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
+      "published": "2026-07-27T19:06:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 101
+    },
+    {
+      "id": "49460832",
+      "headline": "Slavko Vincic retires after refereeing World Cup final",
+      "description": "World Cup final referee Slavko Vincic has retired just a week on from the tournament's conclusion.",
+      "published": "2026-07-27T09:06:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49460832/slavko-vincic-world-cup-final-referee-argentina-spain-enzo-fernandez-red-card",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694212_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 86
     },
     {
       "id": "49441430",
@@ -266,7 +464,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 87
+      "score": 74
     },
     {
       "id": "49448250",
@@ -282,7 +480,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 51
+      "score": 47
     },
     {
       "id": "49425954",
@@ -307,7 +505,7 @@
         "Gustavo Puerta",
         "Pedro Vite"
       ],
-      "score": 39
+      "score": 36
     },
     {
       "id": "49447628",
@@ -322,20 +520,6 @@
       "teams": [
         "USA"
       ],
-      "players": [],
-      "score": 34
-    },
-    {
-      "id": "49447596",
-      "headline": "Should tickets be more affordable for fans after the World Cup?",
-      "description": "Should tickets be more affordable for fans after the World Cup?",
-      "published": "2026-07-25T16:57:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
       "players": [],
       "score": 30
     },
@@ -401,6 +585,20 @@
         "Robert Lewandowski"
       ],
       "score": 27
+    },
+    {
+      "id": "49447596",
+      "headline": "Should tickets be more affordable for fans after the World Cup?",
+      "description": "Should tickets be more affordable for fans after the World Cup?",
+      "published": "2026-07-25T16:57:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 26
     },
     {
       "id": "49422933",
@@ -655,25 +853,6 @@
       "score": 13
     },
     {
-      "id": "49418224",
-      "headline": "Lionel Messi returns to Rosario for rest after World Cup final loss",
-      "description": "Lionel Messi arrived back in Rosario, Argentina, on Tuesday for a few days of rest following the World Cup final loss to Spain.",
-      "published": "2026-07-21T19:37:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49418224/lionel-messi-returns-rosario-rest-world-cup-final-loss",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691588_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 13
-    },
-    {
       "id": "49440737",
       "headline": "What would England's team look like if Pep Guardiola was manager?",
       "description": "What would England's team look like if Pep Guardiola was manager?",
@@ -717,230 +896,6 @@
       "kindLabel": "News",
       "teams": [
         "Germany"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49409382",
-      "headline": "Forget whether Germany need Klopp. Does Klopp need Germany?",
-      "description": "Jürgen Klopp ended his nine-year spell as Liverpool manager by saying he was too tired to carry on. Now, as Germany boss, is he game to coach again?",
-      "published": "2026-07-24T11:39:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693112_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49438196",
-      "headline": "The moment Jürgen Klopp was announced as new Germany head coach",
-      "description": "The moment Jürgen Klopp was announced as new Germany head coach",
-      "published": "2026-07-24T10:17:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49438196/the-moment-jurgen-klopp-was-announced-new-germany-head-coach",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49435363",
-      "headline": "Colombia backs Néstor Lorenzo with extension after World Cup",
-      "description": "Néstor Lorenzo will continue as Colombia coach after the national team conceded only one goal in five games at the recent FIFA World Cup.",
-      "published": "2026-07-23T21:43:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49435363/colombia-backs-nestor-lorenzo-extension-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692953_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Colombia"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49178425",
-      "headline": "World Cup grades for all 47 eliminated teams from the tournament",
-      "description": "With the 2026 World Cup now over, 47 teams have been eliminated, and we're grading each team's run vs. expectations.",
-      "published": "2026-07-23T20:50:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663670_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "France",
-        "England",
-        "Argentina",
-        "Czechia",
-        "Qatar",
-        "Haiti",
-        "Curaçao",
-        "Tunisia",
-        "Jordan",
-        "Panama",
-        "Uruguay",
-        "Saudi Arabia",
-        "New Zealand",
-        "Iraq",
-        "IR Iran",
-        "Scotland",
-        "Uzbekistan",
-        "Korea Republic",
-        "South Africa",
-        "Netherlands",
-        "Germany",
-        "Japan",
-        "Algeria",
-        "Croatia",
-        "Austria",
-        "Cabo Verde",
-        "Australia",
-        "Ghana",
-        "Brazil",
-        "Mexico",
-        "Morocco",
-        "Norway",
-        "Switzerland",
-        "Portugal",
-        "Canada",
-        "Paraguay",
-        "Côte d'Ivoire",
-        "Ecuador",
-        "Sweden",
-        "Belgium",
-        "Egypt",
-        "Senegal",
-        "Colombia",
-        "DR Congo"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49430497",
-      "headline": "Argentina FA deny president, treasurer summoned to give evidence to U.S. court",
-      "description": "Argentina's Football Association has denied reports that its president or its treasurer have ‌been summoned to give evidence by United States courts.",
-      "published": "2026-07-23T11:41:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49430497/argentina-fa-deny-president-treasurer-summoned-give-evidence-us-court",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692724_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49430111",
-      "headline": "Nicol: Pochettino changed the identity of the USMNT",
-      "description": "Nicol: Pochettino changed the identity of the USMNT",
-      "published": "2026-07-23T08:01:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/49430111/pochettino-changed-identity-usmnt",
-      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49422826",
-      "headline": "Africa's FIFA World Cup, though historic, was characterised by 'what ifs'",
-      "description": "",
-      "published": "2026-07-23T06:37:29Z",
-      "url": "https://www.espn.com/espn/story/_/id/49422826/africa-fifa-world-cup-historic-was-characterised-ifs",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684714_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa",
-        "Ghana",
-        "Senegal",
-        "Morocco",
-        "Egypt",
-        "Cabo Verde",
-        "Tunisia",
-        "Algeria",
-        "Côte d'Ivoire"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49407999",
-      "headline": "Grading Africa's FIFA World Cup teams, plus one key question for each team going forward",
-      "description": "With the FIFA World Cup in the books after six long weeks, and Spain emerging victorious over Argentina in the final, it's time to reflect on what was an historic tournament for Africa.",
-      "published": "2026-07-23T06:34:25Z",
-      "url": "https://www.espn.com/espn/story/_/id/49407999/grading-africa-fifa-world-cup-teams-plus-one-key-question-team-going-forward",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679172_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa",
-        "Morocco",
-        "Senegal",
-        "Ghana",
-        "Egypt",
-        "Cabo Verde",
-        "Algeria",
-        "Tunisia",
-        "DR Congo",
-        "Spain",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49426841",
-      "headline": "World Cup betting in U.S. equivalent of '10 Super Bowls'",
-      "description": "Sportsbooks and technology providers across the United States sports betting industry report that this year's World Cup produced record handle for a soccer tournament across the board and even rivaled other major prolonged sporting events.",
-      "published": "2026-07-22T23:26:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49426841/world-cup-betting-us-equivalent-10-super-bowls",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691652_1296x729_16-9.jpg",
-      "byline": "Doug Greenberg",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49427611",
-      "headline": "Burley: England's approach against Argentina was inexcusable",
-      "description": "Burley: England's approach against Argentina was inexcusable",
-      "published": "2026-07-22T22:07:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49427611/england-approach-argentina-was-inexcusable",
-      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Burley_Englands_approach_against_Argentina_was_inexcusable/dm_260722_Burley_Englands_approach_against_Argentina_was_inexcusable.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
       ],
       "players": [],
       "score": 10
