@@ -1,14 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-28T20:09:02.964Z",
+  "updated": "2026-07-28T21:31:22.509Z",
   "counts": {
+    "offfield": 8,
     "news": 33,
-    "offfield": 7,
-    "injury": 6,
     "preview": 1,
+    "injury": 5,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49473099",
+      "headline": "Andy Burnham joins critics of FIFA's World Cup private investment plan",
+      "description": "Prime Minister Andy Burnham has said \"football does not belong to investors\" as he joined the criticism of FIFA's plan to set up a new private company to run the World Cup and other competitions.",
+      "published": "2026-07-28T20:24:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49473099/andy-burnham-joins-critics-fifa-world-cup-private-investment-plan",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694805_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 216
+    },
     {
       "id": "49472014",
       "headline": "Ogden explains FIFA's plan to sell stakes in the World Cup",
@@ -21,7 +35,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 203
+      "score": 191
     },
     {
       "id": "49471131",
@@ -39,7 +53,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 199
+      "score": 187
     },
     {
       "id": "49471030",
@@ -57,7 +71,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 188
+      "score": 176
     },
     {
       "id": "49470028",
@@ -71,7 +85,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 176
+      "score": 164
     },
     {
       "id": "49463728",
@@ -87,7 +101,7 @@
         "USA"
       ],
       "players": [],
-      "score": 167
+      "score": 155
     },
     {
       "id": "49468627",
@@ -106,7 +120,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 152
+      "score": 140
     },
     {
       "id": "49468665",
@@ -122,54 +136,35 @@
         "USA"
       ],
       "players": [],
-      "score": 151
+      "score": 139
     },
     {
-      "id": "49472491",
-      "headline": "USMNT's Berhalter joins Middlesbrough from Vancouver Whitecaps",
-      "description": "United States midfielder Sebastian Berhalter has joined English Championship side Middlesbrough from the Vancouver Whitecaps, the clubs announced Tuesday.",
-      "published": "2026-07-28T19:50:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49472491/usmnt-sebastian-berhalter-transfer-middlesbrough-vancouver-whitecaps",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694786_1296x729_16-9.jpg",
+      "id": "49467567",
+      "headline": "Transfer rumors, news: Vinícius Jr. set to stay at Madrid, despite Arsenal interest",
+      "description": "Real Madrid are confident that Vinícius Júnior will not depart this summer, while Liverpool want Aston Villa's Ezri Konsa. Transfer Talk has the latest.",
+      "published": "2026-07-28T15:51:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49467567/transfer-rumors-news-real-madrid-offer-vinicius-junior-contract-arsenal-interest",
+      "image": "https://a.espncdn.com/photo/2026/0325/r1633697_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Brazil",
-        "USA"
-      ],
-      "players": [
-        "Sebastian Berhalter",
-        "Endrick"
-      ],
-      "score": 145
-    },
-    {
-      "id": "49471393",
-      "headline": "Barcelona president Joan Laporta recovering from heart issue",
-      "description": "Barcelona president Joan Laporta has revealed he is recovering from a heart problem after being admitted to hospital.",
-      "published": "2026-07-28T18:14:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49471393/barcelona-president-joan-laporta-recovering-heart-issue",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694727_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
         "Brazil"
       ],
       "players": [
+        "Vinícius Júnior",
         "Endrick"
       ],
-      "score": 144
+      "score": 137
     },
     {
-      "id": "48897670",
-      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
-      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
-      "published": "2026-07-28T18:29:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
-      "byline": "ESPN",
+      "id": "49154575",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "published": "2026-07-28T14:28:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
@@ -178,49 +173,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 140
-    },
-    {
-      "id": "49472551",
-      "headline": "Barbra Banda smashes four past Egypt as Zambia enjoy WAFCON demolition",
-      "description": "Barbra Banda scored four -- including a 27-minute hat-trick -- as Zambia smashed Egypt 6-0 in their Women's Africa Cup of Nations opener in Rabat on Tuesday, to deliver an early statement of intent.",
-      "published": "2026-07-28T19:59:11Z",
-      "url": "https://www.espn.com/espn/story/_/id/49472551/barbra-banda-smashes-four-egypt-zambia-enjoy-wafcon-demolition",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694772_2_904x509_16-9.png",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil",
-        "Egypt"
-      ],
-      "players": [
-        "Barbra Banda",
-        "Racheal Kundananji",
-        "Endrick"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49471258",
-      "headline": "USMNT's Matt Freese not over World Cup Belgium loss amid MLS return",
-      "description": "Goalkeeper Matt Freese said he's not quite gotten over the United States' abrupt exit from the 2026 World Cup following a 4-1 loss to Belgium in the round of 16.",
-      "published": "2026-07-28T17:51:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49471258/usmnt-gk-matt-freese-not-world-cup-belgium-loss-amid-mls-return",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1685660_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil",
-        "USA",
-        "Belgium"
-      ],
-      "players": [
-        "Matt Freese",
-        "Endrick"
-      ],
-      "score": 130
+      "score": 131
     },
     {
       "id": "49460730",
@@ -236,21 +189,82 @@
         "France"
       ],
       "players": [],
-      "score": 129
+      "score": 127
     },
     {
-      "id": "49468267",
-      "headline": "Gianni Infantino's message attacking critics 'pathetic,' LaLiga chief Javier Tebas says",
-      "description": "LaLiga president Javier Tebas has called FIFA supremo Gianni Infantino's Instagram message criticising those that questioned his leadership, his organisation and the 2026 World Cup as \"pathetic.sPE",
-      "published": "2026-07-28T09:55:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49468267/gianni-infantino-fifa-critics-message-javier-tebas-laliga-chief",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694546_2_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
+      "id": "49471005",
+      "headline": "Ogden: Vinícius Jr. will stay at Real Madrid",
+      "description": "Ogden: Vinícius Jr. will stay at Real Madrid",
+      "published": "2026-07-28T17:04:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/49471005/vinicius-jr-stay-real-madrid",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Ogden3A_VinC3ADcius_Jr_will_stay_at_Real_Madrid__GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Ogden3A_VinC3ADcius_Jr_will_stay_at_Real_Madrid__GLOBAL_2026-07-28.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 121
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Endrick"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49470622",
+      "headline": "Gvardiol: Enzo Maresca is one of the best managers",
+      "description": "Gvardiol: Enzo Maresca is one of the best managers",
+      "published": "2026-07-28T16:13:23Z",
+      "url": "https://www.espn.com/video/clip/_/id/49470622/enzo-maresca-one-best-managers",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Gvardiol_Enzo_Maresca_is_one_of_the_best_managers/dm_260728_Gvardiol_Enzo_Maresca_is_one_of_the_best_managers.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Josko Gvardiol",
+        "Endrick"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49470114",
+      "headline": "Malaysia ease to second win at ASEAN Championship after belatedly finding spark",
+      "description": "Malaysia overcame some wasteful ways in the first half to beat Laos 4-0 in their second game of the 2026 ASEAN Championship.",
+      "published": "2026-07-28T15:06:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49470114/malaysia-ease-second-win-asean-championship-belatedly-finding-spark",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694635_1080x608_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Paulo Josué",
+        "Wan Kuzain",
+        "Endrick"
+      ],
+      "score": 123
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-07-28T14:03:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Endrick"
+      ],
+      "score": 122
     },
     {
       "id": "49461196",
@@ -267,7 +281,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49468236",
@@ -283,7 +297,21 @@
         "France"
       ],
       "players": [],
-      "score": 114
+      "score": 112
+    },
+    {
+      "id": "49468267",
+      "headline": "Gianni Infantino's message attacking critics 'pathetic,' LaLiga chief Javier Tebas says",
+      "description": "LaLiga president Javier Tebas has called FIFA supremo Gianni Infantino's Instagram message criticising those that questioned his leadership, his organisation and the 2026 World Cup as \"pathetic.sPE",
+      "published": "2026-07-28T09:55:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468267/gianni-infantino-fifa-critics-message-javier-tebas-laliga-chief",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694546_2_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 109
     },
     {
       "id": "49416547",
@@ -297,7 +325,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49465323",
@@ -313,7 +341,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49441066",
@@ -329,7 +357,7 @@
         "USA"
       ],
       "players": [],
-      "score": 100
+      "score": 98
     },
     {
       "id": "49460279",
@@ -343,7 +371,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 88
+      "score": 86
     },
     {
       "id": "49461219",
@@ -360,7 +388,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 81
+      "score": 78
     },
     {
       "id": "49460832",
@@ -374,7 +402,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 73
+      "score": 71
     },
     {
       "id": "49441430",
@@ -390,7 +418,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 61
+      "score": 59
     },
     {
       "id": "49448250",
@@ -406,7 +434,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 34
+      "score": 32
     },
     {
       "id": "49365449",
@@ -584,21 +612,7 @@
         "USA"
       ],
       "players": [],
-      "score": 17
-    },
-    {
-      "id": "49447596",
-      "headline": "Should tickets be more affordable for fans after the World Cup?",
-      "description": "Should tickets be more affordable for fans after the World Cup?",
-      "published": "2026-07-25T16:57:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 13
+      "score": 15
     },
     {
       "id": "49433484",
@@ -709,23 +723,18 @@
       "score": 13
     },
     {
-      "id": "49423285",
-      "headline": "Spain's Gavi: Argentina players shouldn't be punished for World Cup final fracas",
-      "description": "Spain midfielder Gavi said he believes Argentina players should not be punished by FIFA for their actions after Sunday's World Cup final.",
-      "published": "2026-07-22T11:32:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49423285/spain-gavi-argentina-players-shouldnt-punished-world-cup-final-fracas",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692336_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
+      "id": "49447596",
+      "headline": "Should tickets be more affordable for fans after the World Cup?",
+      "description": "Should tickets be more affordable for fans after the World Cup?",
+      "published": "2026-07-25T16:57:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [
-        "Gavi"
-      ],
-      "score": 13
+      "teams": [],
+      "players": [],
+      "score": 11
     },
     {
       "id": "49440737",
@@ -895,22 +904,6 @@
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49430111",
-      "headline": "Nicol: Pochettino changed the identity of the USMNT",
-      "description": "Nicol: Pochettino changed the identity of the USMNT",
-      "published": "2026-07-23T08:01:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/49430111/pochettino-changed-identity-usmnt",
-      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL/dm_260723_COM_SOC_Analysis_Nicol_Pochettino_changed_the_identity_of_the_USMNT_20260723_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
         "USA"
       ],
       "players": [],
