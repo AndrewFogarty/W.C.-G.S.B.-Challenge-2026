@@ -1,14 +1,46 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-28T17:08:32.835Z",
+  "updated": "2026-07-28T18:44:40.648Z",
   "counts": {
-    "news": 29,
-    "offfield": 9,
-    "injury": 6,
-    "preview": 3,
+    "news": 33,
+    "offfield": 7,
+    "preview": 2,
+    "injury": 5,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49472014",
+      "headline": "Ogden explains FIFA's plan to sell stakes in the World Cup",
+      "description": "Ogden explains FIFA's plan to sell stakes in the World Cup",
+      "published": "2026-07-28T18:28:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49472014/ogden-explains-fifa-plan-sell-stakes-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Ogden_explains_FIFAs_plan_to_sell_stakes_in_the_World_Cup_GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Ogden_explains_FIFAs_plan_to_sell_stakes_in_the_World_Cup_GLOBAL_2026-07-28.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 206
+    },
+    {
+      "id": "49471131",
+      "headline": "Will Mourinho keep Endrick at Real Madrid?",
+      "description": "Will Mourinho keep Endrick at Real Madrid?",
+      "published": "2026-07-28T17:11:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49471131/will-mourinho-keep-endrick-real-madrid",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Endrick"
+      ],
+      "score": 201
+    },
     {
       "id": "49471030",
       "headline": "Laurens: Zidane's attacking style of football will benefit France",
@@ -25,13 +57,13 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 213
+      "score": 191
     },
     {
       "id": "49470028",
       "headline": "UEFA blasts FIFA proposal to allow for $10B in World Cup private investment",
       "description": "UEFA has rejected a FIFA plan to sell stakes in the World Cup to private investors as a \"line that football's governing institutions should never cross\" and that the World Cup is \"not FIFA's to sell.\"",
-      "published": "2026-07-28T16:31:30Z",
+      "published": "2026-07-28T18:34:52Z",
       "url": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
@@ -39,13 +71,13 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 195
+      "score": 176
     },
     {
       "id": "49463728",
       "headline": "What advanced stats say about every USMNT World Cup game since 1990",
       "description": "The U.S. men's latest World Cup exit was the latest in a long string of disappointments ... or was it? Let's look at the numbers behind all their tournament appearances since 1990 to get the real story.",
-      "published": "2026-07-28T14:04:02Z",
+      "published": "2026-07-28T18:26:02Z",
       "url": "https://www.espn.com/soccer/story/_/id/49463728/what-advanced-stats-say-every-usmnt-world-cup-game-1990",
       "image": "https://a.espncdn.com/photo/2026/0727/r1694394_1296x729_16-9.jpg",
       "byline": "Bill Connelly",
@@ -55,7 +87,7 @@
         "USA"
       ],
       "players": [],
-      "score": 185
+      "score": 170
     },
     {
       "id": "49468627",
@@ -74,7 +106,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 177
+      "score": 154
     },
     {
       "id": "49468665",
@@ -90,21 +122,7 @@
         "USA"
       ],
       "players": [],
-      "score": 176
-    },
-    {
-      "id": "49468267",
-      "headline": "Gianni Infantino's message attacking critics 'pathetic,' LaLiga chief Javier Tebas says",
-      "description": "LaLiga president Javier Tebas has called FIFA supremo Gianni Infantino's Instagram message criticising those that questioned his leadership, his organisation and the 2026 World Cup as \"pathetic.sPE",
-      "published": "2026-07-28T09:55:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49468267/gianni-infantino-fifa-critics-message-javier-tebas-laliga-chief",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694546_2_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 145
+      "score": 153
     },
     {
       "id": "49467567",
@@ -117,64 +135,13 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "France"
+        "Brazil"
       ],
       "players": [
         "Vinícius Júnior",
-        "Zinadine Zidane M Catraio"
+        "Endrick"
       ],
-      "score": 143
-    },
-    {
-      "id": "49460730",
-      "headline": "Zidane takes France job after five years out of coaching. What will he do?",
-      "description": "France have made Zinedine Zidane their new coach despite his last job at Real Madrid ending in 2021. What will he do? And just where has he been?",
-      "published": "2026-07-28T10:02:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460730/zinedine-zidane-france-coach-five-years-leaving-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694553_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland, Julien Laurens",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "France"
-      ],
-      "players": [],
-      "score": 143
-    },
-    {
-      "id": "49469085",
-      "headline": "Manchester City confirm Rodri back surgery amid Real Madrid speculation",
-      "description": "Manchester City have confirmed that Rodri is set for a period on the sidelines after undergoing back surgery.",
-      "published": "2026-07-28T12:26:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49469085/manchester-city-confirm-rodri-back-surgery-amid-real-madrid-speculation",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691725_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Switzerland"
-      ],
-      "players": [
-        "Rodri",
-        "Breel Embolo"
-      ],
-      "score": 140
-    },
-    {
-      "id": "49468236",
-      "headline": "Zidane: I've been waiting five years to become France's head coach",
-      "description": "Zidane: I've been waiting five years to become France's head coach",
-      "published": "2026-07-28T09:40:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49468236/waiting-five-years-become-france-head-coach",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [],
-      "score": 139
+      "score": 141
     },
     {
       "id": "49154575",
@@ -187,12 +154,12 @@
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
-        "France"
+        "Brazil"
       ],
       "players": [
-        "Zinadine Zidane M Catraio"
+        "Endrick"
       ],
-      "score": 138
+      "score": 136
     },
     {
       "id": "49469703",
@@ -210,63 +177,41 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 138
+      "score": 135
     },
     {
-      "id": "49468722",
-      "headline": "Real Madrid's Marc Cucurella bids emotional Chelsea farewell: 'Reached my dreams'",
-      "description": "Marc Cucurella has shared a farewell video to Chelsea fans after completing his move to Real Madrid.",
-      "published": "2026-07-28T11:42:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49468722/real-madrid-marc-cucurella-bids-emotional-chelsea-farewell-reached-my-dreams",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694573_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49460730",
+      "headline": "Zidane takes France job after five years out of coaching. What will he do?",
+      "description": "France have made Zinedine Zidane their new coach despite his last job at Real Madrid ending in 2021. What will he do? And just where has he been?",
+      "published": "2026-07-28T10:02:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49460730/zinedine-zidane-france-coach-five-years-leaving-real-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694553_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland, Julien Laurens",
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
-        "Switzerland"
+        "France"
       ],
-      "players": [
-        "Marc Cucurella",
-        "Breel Embolo"
-      ],
-      "score": 137
+      "players": [],
+      "score": 131
     },
     {
-      "id": "49468863",
-      "headline": "Hannah Hampton signs new two-year deal at Chelsea",
-      "description": "England goalkeeper Hannah Hampton has signed a new two-year contract with Chelsea.",
-      "published": "2026-07-28T11:37:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49468863/hannah-hampton-chelsea-new-contract-wsl-transfer-news",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694570_1296x729_16-9.jpg",
-      "byline": "Emily Keogh",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49471005",
+      "headline": "Ogden: Vinícius Jr. will stay at Real Madrid",
+      "description": "Ogden: Vinícius Jr. will stay at Real Madrid",
+      "published": "2026-07-28T17:04:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/49471005/vinicius-jr-stay-real-madrid",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Ogden3A_VinC3ADcius_Jr_will_stay_at_Real_Madrid__GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Ogden3A_VinC3ADcius_Jr_will_stay_at_Real_Madrid__GLOBAL_2026-07-28.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Switzerland",
-        "England"
+        "Brazil"
       ],
       "players": [
-        "Breel Embolo"
+        "Endrick"
       ],
-      "score": 137
-    },
-    {
-      "id": "49467964",
-      "headline": "Chelsea vs Western Sydney Wanderers as it happened: Joao Pedro's hat-trick seals victory in Xabi Alonso's first game",
-      "description": "Chelsea get their preseason campaign underway after travelling to take on the Western Sydney Wanderers.",
-      "published": "2026-07-28T11:49:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49467964/chelsea-western-sydney-wanderers-live-preseason-friendly-latest-updates-commentary-score-result",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694578_1296x729_16-9.jpg",
-      "byline": "Nathan Johns",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Switzerland"
-      ],
-      "players": [
-        "Breel Embolo"
-      ],
-      "score": 134
+      "score": 130
     },
     {
       "id": "49470622",
@@ -279,13 +224,13 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "France"
+        "Brazil"
       ],
       "players": [
         "Josko Gvardiol",
-        "Zinadine Zidane M Catraio"
+        "Endrick"
       ],
-      "score": 132
+      "score": 129
     },
     {
       "id": "49470114",
@@ -298,14 +243,14 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "France"
+        "Brazil"
       ],
       "players": [
         "Paulo Josué",
         "Wan Kuzain",
-        "Zinadine Zidane M Catraio"
+        "Endrick"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49469345",
@@ -323,7 +268,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 129
+      "score": 127
     },
     {
       "id": "48955344",
@@ -336,48 +281,26 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "France"
+        "Brazil"
       ],
       "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49469300",
-      "headline": "Philippines stunned by Myanmar in ASEAN Championship opener",
-      "description": "Philippines have suffered a shock 4-1 loss to Myanmar in their opening game of the 2026 ASEAN Championship.",
-      "published": "2026-07-28T12:45:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49469300/philippines-stunned-myanmar-asean-championship-opener",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694590_1296x729_16-9.jpg",
-      "byline": "Mikhail De Guzman",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Switzerland"
-      ],
-      "players": [
-        "Breel Embolo"
+        "Endrick"
       ],
       "score": 126
     },
     {
-      "id": "49469084",
-      "headline": "Sean Dyche: Liverpool's Andoni Iraola plays 'lower league' football - and it's brilliant",
-      "description": "Sean Dyche has described new Liverpool head coach Andoni Iraola's style as \"lower-league football, but at a high level,\" in an unusual compliment to the Spaniard's tactical approach.",
-      "published": "2026-07-28T12:00:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49469084/sean-dyche-liverpool-andoni-iraola-plays-lower-league-football-brilliant",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694581_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49468267",
+      "headline": "Gianni Infantino's message attacking critics 'pathetic,' LaLiga chief Javier Tebas says",
+      "description": "LaLiga president Javier Tebas has called FIFA supremo Gianni Infantino's Instagram message criticising those that questioned his leadership, his organisation and the 2026 World Cup as \"pathetic.sPE",
+      "published": "2026-07-28T09:55:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468267/gianni-infantino-fifa-critics-message-javier-tebas-laliga-chief",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694546_2_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "Switzerland"
-      ],
-      "players": [
-        "Breel Embolo"
-      ],
-      "score": 125
+      "teams": [],
+      "players": [],
+      "score": 123
     },
     {
       "id": "49461196",
@@ -394,7 +317,23 @@
         "Germany"
       ],
       "players": [],
-      "score": 119
+      "score": 117
+    },
+    {
+      "id": "49468236",
+      "headline": "Zidane: I've been waiting five years to become France's head coach",
+      "description": "Zidane: I've been waiting five years to become France's head coach",
+      "published": "2026-07-28T09:40:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49468236/waiting-five-years-become-france-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [],
+      "score": 116
     },
     {
       "id": "49416547",
@@ -408,7 +347,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 110
+      "score": 108
     },
     {
       "id": "49465323",
@@ -424,7 +363,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 109
+      "score": 107
     },
     {
       "id": "49441066",
@@ -440,7 +379,7 @@
         "USA"
       ],
       "players": [],
-      "score": 105
+      "score": 102
     },
     {
       "id": "49460279",
@@ -454,7 +393,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49461219",
@@ -471,7 +410,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 85
+      "score": 83
     },
     {
       "id": "49460832",
@@ -485,7 +424,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 78
+      "score": 76
     },
     {
       "id": "49441430",
@@ -501,7 +440,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 65
+      "score": 63
     },
     {
       "id": "49448250",
@@ -517,32 +456,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 39
-    },
-    {
-      "id": "49425954",
-      "headline": "Which South American players raised their stock at the World Cup?",
-      "description": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
-      "published": "2026-07-25T10:43:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49425954/which-south-american-players-raised-their-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692923_1296x729_16-9.jpg",
-      "byline": "Tim Vickery",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Paraguay",
-        "Ecuador",
-        "Brazil",
-        "Colombia"
-      ],
-      "players": [
-        "Orlando Gill",
-        "Matías Galarza",
-        "Danilo Santos",
-        "Gustavo Puerta",
-        "Pedro Vite"
-      ],
-      "score": 27
+      "score": 36
     },
     {
       "id": "49365449",
@@ -608,6 +522,31 @@
       "score": 27
     },
     {
+      "id": "49425954",
+      "headline": "Which South American players raised their stock at the World Cup?",
+      "description": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
+      "published": "2026-07-25T10:43:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49425954/which-south-american-players-raised-their-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692923_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Paraguay",
+        "Ecuador",
+        "Brazil",
+        "Colombia"
+      ],
+      "players": [
+        "Orlando Gill",
+        "Matías Galarza",
+        "Danilo Santos",
+        "Gustavo Puerta",
+        "Pedro Vite"
+      ],
+      "score": 25
+    },
+    {
       "id": "49422933",
       "headline": "10 African stars who caught transfer scouts' eyes at the FIFA World Cup",
       "description": "Every four years, the FIFA World Cup reshapes the transfer landscape, offering players the opportunity to showcase their qualities against elite opposition in front of the watching world.",
@@ -649,22 +588,6 @@
       "score": 24
     },
     {
-      "id": "49447628",
-      "headline": "Will Pochettino leave USMNT role?",
-      "description": "Will Pochettino leave USMNT role?",
-      "published": "2026-07-25T17:05:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 22
-    },
-    {
       "id": "49440317",
       "headline": "IOC will not investigate Infantino over Trump interference allegations",
       "description": "Allegations that FIFA president Gianni Infantino breached Olympic rules on political neutrality in his dealings with U.S. President Donald Trump will not be investigated by the International Olympic Committee.",
@@ -698,6 +621,22 @@
       "score": 22
     },
     {
+      "id": "49447628",
+      "headline": "Will Pochettino leave USMNT role?",
+      "description": "Will Pochettino leave USMNT role?",
+      "published": "2026-07-25T17:05:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 20
+    },
+    {
       "id": "49447596",
       "headline": "Should tickets be more affordable for fans after the World Cup?",
       "description": "Should tickets be more affordable for fans after the World Cup?",
@@ -709,7 +648,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 18
+      "score": 15
     },
     {
       "id": "49433484",
@@ -882,6 +821,54 @@
       "kindLabel": "News",
       "teams": [
         "Germany"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49409382",
+      "headline": "Forget whether Germany need Klopp. Does Klopp need Germany?",
+      "description": "Jürgen Klopp ended his nine-year spell as Liverpool manager by saying he was too tired to carry on. Now, as Germany boss, is he game to coach again?",
+      "published": "2026-07-24T11:39:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693112_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49438196",
+      "headline": "The moment Jürgen Klopp was announced as new Germany head coach",
+      "description": "The moment Jürgen Klopp was announced as new Germany head coach",
+      "published": "2026-07-24T10:17:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49438196/the-moment-jurgen-klopp-was-announced-new-germany-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49435363",
+      "headline": "Colombia backs Néstor Lorenzo with extension after World Cup",
+      "description": "Néstor Lorenzo will continue as Colombia coach after the national team conceded only one goal in five games at the recent FIFA World Cup.",
+      "published": "2026-07-23T21:43:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49435363/colombia-backs-nestor-lorenzo-extension-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692953_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Colombia"
       ],
       "players": [],
       "score": 10
