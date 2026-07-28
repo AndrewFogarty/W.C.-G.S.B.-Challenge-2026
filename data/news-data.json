@@ -1,13 +1,27 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-28T06:12:43.921Z",
+  "updated": "2026-07-28T09:07:34.989Z",
   "counts": {
+    "news": 32,
     "celebration": 2,
     "injury": 5,
-    "news": 32,
     "offfield": 9
   },
   "items": [
+    {
+      "id": "49416547",
+      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
+      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
+      "published": "2026-07-28T06:26:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
+      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 202
+    },
     {
       "id": "49465323",
       "headline": "Lopes Cabral stunner for Cape Verde voted best World Cup goal",
@@ -22,7 +36,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 206
+      "score": 191
     },
     {
       "id": "49441066",
@@ -38,7 +52,7 @@
         "USA"
       ],
       "players": [],
-      "score": 181
+      "score": 167
     },
     {
       "id": "49461196",
@@ -55,7 +69,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 176
+      "score": 162
     },
     {
       "id": "49461219",
@@ -72,21 +86,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 151
-    },
-    {
-      "id": "49460279",
-      "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
-      "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
-      "published": "2026-07-27T19:06:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 139
+      "score": 137
     },
     {
       "id": "49465763",
@@ -104,7 +104,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 138
+      "score": 134
     },
     {
       "id": "49464491",
@@ -123,21 +123,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 136
-    },
-    {
-      "id": "49460832",
-      "headline": "Slavko Vincic retires after refereeing World Cup final",
-      "description": "World Cup final referee Slavko Vincic has retired just a week on from the tournament's conclusion.",
-      "published": "2026-07-27T09:06:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460832/slavko-vincic-world-cup-final-referee-argentina-spain-enzo-fernandez-red-card",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694212_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 134
+      "score": 132
     },
     {
       "id": "49460399",
@@ -157,7 +143,7 @@
         "Bruno Guimarães",
         "Orlando Gill"
       ],
-      "score": 131
+      "score": 127
     },
     {
       "id": "49464601",
@@ -176,7 +162,21 @@
         "James Trafford",
         "Orlando Gill"
       ],
-      "score": 130
+      "score": 125
+    },
+    {
+      "id": "49460279",
+      "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
+      "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
+      "published": "2026-07-27T19:06:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 125
     },
     {
       "id": "49466155",
@@ -194,7 +194,21 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 126
+      "score": 122
+    },
+    {
+      "id": "49460832",
+      "headline": "Slavko Vincic retires after refereeing World Cup final",
+      "description": "World Cup final referee Slavko Vincic has retired just a week on from the tournament's conclusion.",
+      "published": "2026-07-27T09:06:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49460832/slavko-vincic-world-cup-final-referee-argentina-spain-enzo-fernandez-red-card",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694212_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 120
     },
     {
       "id": "46664763",
@@ -215,7 +229,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 118
+      "score": 114
     },
     {
       "id": "47276683",
@@ -236,21 +250,7 @@
       "players": [
         "Orlando Gill"
       ],
-      "score": 118
-    },
-    {
-      "id": "49416547",
-      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
-      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
-      "published": "2026-07-27T06:33:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
-      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 111
+      "score": 114
     },
     {
       "id": "49441430",
@@ -266,7 +266,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 92
+      "score": 87
     },
     {
       "id": "49448250",
@@ -282,7 +282,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 55
+      "score": 51
     },
     {
       "id": "49425954",
@@ -307,7 +307,7 @@
         "Gustavo Puerta",
         "Pedro Vite"
       ],
-      "score": 44
+      "score": 39
     },
     {
       "id": "49447628",
@@ -323,7 +323,7 @@
         "USA"
       ],
       "players": [],
-      "score": 38
+      "score": 34
     },
     {
       "id": "49447596",
@@ -337,7 +337,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 34
+      "score": 30
     },
     {
       "id": "49365449",
