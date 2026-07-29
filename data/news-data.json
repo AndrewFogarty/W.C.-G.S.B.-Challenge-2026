@@ -1,19 +1,59 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-28T23:40:53.506Z",
+  "updated": "2026-07-29T04:30:49.390Z",
   "counts": {
+    "offfield": 9,
     "news": 32,
-    "offfield": 8,
-    "injury": 6,
     "preview": 1,
+    "injury": 5,
     "celebration": 1
   },
   "items": [
     {
+      "id": "49466177",
+      "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
+      "description": "There's nothing like a World Cup to put young stars in the shop window! With that in mind, ESPN has assembled a list of all the Socceroos' post-tournament transfers, all in one place.",
+      "published": "2026-07-29T02:45:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49466177/socceroos-transfer-tracker-where-australias-stars-play-2026-27",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694504_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach",
+        "Paul Okon-Engstler",
+        "Cameron Devlin",
+        "Ajdin Hrustic",
+        "Tete Yengi"
+      ],
+      "score": 212
+    },
+    {
+      "id": "49476184",
+      "headline": "DJ Erling Haaland? How the Man City star is enjoying his summer",
+      "description": "Erling Haaland has used his post-World Cup break to not only lap up the European sun, but keep the internet meme-machine fed.",
+      "published": "2026-07-29T03:24:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49476184/dj-erling-haaland-how-man-city-star-enjoying-summer",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1694990_414x233_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 211
+    },
+    {
       "id": "49470028",
       "headline": "UEFA to discuss World Cup boycott over FIFA private investment plan - sources",
       "description": "UEFA is set to hold an emergency meeting this week, sources told ESPN, to discuss plans, including a potential World Cup boycott, to oppose a FIFA proposal to raise $20 billion from a sale of equity to outside investors.",
-      "published": "2026-07-28T23:08:27Z",
+      "published": "2026-07-29T00:06:32Z",
       "url": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
@@ -21,7 +61,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 205
+      "score": 179
     },
     {
       "id": "49473099",
@@ -35,7 +75,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 203
+      "score": 176
     },
     {
       "id": "49472014",
@@ -49,7 +89,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 178
+      "score": 151
     },
     {
       "id": "49471131",
@@ -67,7 +107,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 173
+      "score": 146
     },
     {
       "id": "49471030",
@@ -85,7 +125,86 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 163
+      "score": 136
+    },
+    {
+      "id": "49472491",
+      "headline": "USMNT's Berhalter joins Middlesbrough from Vancouver Whitecaps",
+      "description": "United States midfielder Sebastian Berhalter has joined English Championship side Middlesbrough from the Vancouver Whitecaps, the clubs announced Tuesday.",
+      "published": "2026-07-28T19:50:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49472491/usmnt-sebastian-berhalter-transfer-middlesbrough-vancouver-whitecaps",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694786_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway",
+        "USA"
+      ],
+      "players": [
+        "Sebastian Berhalter",
+        "Erling Haaland"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49475503",
+      "headline": "Müller, Evander put on a show during the MLS All-Star Shooting Challenge",
+      "description": "Müller, Evander put on a show during the MLS All-Star Shooting Challenge",
+      "published": "2026-07-29T02:51:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49475503/muller-evander-put-show-mls-all-star-shooting-challenge",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_mls_muller_evander/dm_260728_mls_muller_evander.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "Germany"
+      ],
+      "players": [
+        "Evander",
+        "Thomas Müller",
+        "Erling Haaland"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49472801",
+      "headline": "Wan Kuzain's stunning first goal for Malaysia has been a long time coming",
+      "description": "Malaysia fans have waited a long time to see U.S.-born Wan Kuzain represent the country. On Tuesday, he announced his arrival in some style.",
+      "published": "2026-07-29T01:29:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49472801/wan-kuzain-stunning-first-goal-malaysia-long-coming",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694775_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "USA"
+      ],
+      "players": [
+        "Wan Kuzain",
+        "Erling Haaland"
+      ],
+      "score": 128
+    },
+    {
+      "id": "48897670",
+      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
+      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
+      "published": "2026-07-28T18:29:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Endrick"
+      ],
+      "score": 127
     },
     {
       "id": "49463728",
@@ -101,45 +220,46 @@
         "USA"
       ],
       "players": [],
-      "score": 152
+      "score": 125
     },
     {
-      "id": "49472491",
-      "headline": "USMNT's Berhalter joins Middlesbrough from Vancouver Whitecaps",
-      "description": "United States midfielder Sebastian Berhalter has joined English Championship side Middlesbrough from the Vancouver Whitecaps, the clubs announced Tuesday.",
-      "published": "2026-07-28T19:50:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49472491/usmnt-sebastian-berhalter-transfer-middlesbrough-vancouver-whitecaps",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694786_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49474141",
+      "headline": "Kick It Out: Discrimination 'deeply embedded' in football, reports up 25%",
+      "description": "Discrimination remains \"deeply embedded\" in English football, the chief executive of Kick It Out has said, with reports up 25%  last season compared to the prior campaign.",
+      "published": "2026-07-28T22:16:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49474141/kick-discrimination-deeply-embedded-football-reports-25",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694858_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Brazil",
-        "USA"
+        "Norway"
       ],
       "players": [
-        "Sebastian Berhalter",
-        "Endrick"
+        "Erling Haaland"
       ],
-      "score": 139
+      "score": 124
     },
     {
-      "id": "49471393",
-      "headline": "Barcelona president Joan Laporta recovering from heart issue",
-      "description": "Barcelona president Joan Laporta has revealed he is recovering from a heart problem after being admitted to hospital.",
-      "published": "2026-07-28T18:14:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49471393/barcelona-president-joan-laporta-recovering-heart-issue",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694727_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49472551",
+      "headline": "Barbra Banda smashes four past Egypt as Zambia enjoy WAFCON demolition",
+      "description": "Barbra Banda scored four -- including a 27-minute hat-trick -- as Zambia smashed Egypt 6-0 in their Women's Africa Cup of Nations opener in Rabat on Tuesday, to deliver an early statement of intent.",
+      "published": "2026-07-28T19:59:11Z",
+      "url": "https://www.espn.com/espn/story/_/id/49472551/barbra-banda-smashes-four-egypt-zambia-enjoy-wafcon-demolition",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694772_2_904x509_16-9.png",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Brazil"
+        "Norway",
+        "Egypt"
       ],
       "players": [
-        "Endrick"
+        "Barbra Banda",
+        "Racheal Kundananji",
+        "Erling Haaland"
       ],
-      "score": 139
+      "score": 120
     },
     {
       "id": "49468627",
@@ -158,83 +278,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 137
-    },
-    {
-      "id": "49468665",
-      "headline": "Can U.S. Soccer afford to wait for USMNT coach Pochettino?",
-      "description": "Is Mauricio Pochettino still coach of the United States men's national team? That's the lingering question for U.S. Soccer that needs answering soon.",
-      "published": "2026-07-28T14:23:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49468665/united-states-usmnt-mauricio-pochettino-future-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1685713_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 136
-    },
-    {
-      "id": "48897670",
-      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
-      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
-      "published": "2026-07-28T18:29:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Endrick"
-      ],
-      "score": 134
-    },
-    {
-      "id": "49472551",
-      "headline": "Barbra Banda smashes four past Egypt as Zambia enjoy WAFCON demolition",
-      "description": "Barbra Banda scored four -- including a 27-minute hat-trick -- as Zambia smashed Egypt 6-0 in their Women's Africa Cup of Nations opener in Rabat on Tuesday, to deliver an early statement of intent.",
-      "published": "2026-07-28T19:59:11Z",
-      "url": "https://www.espn.com/espn/story/_/id/49472551/barbra-banda-smashes-four-egypt-zambia-enjoy-wafcon-demolition",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694772_2_904x509_16-9.png",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil",
-        "Egypt"
-      ],
-      "players": [
-        "Barbra Banda",
-        "Racheal Kundananji",
-        "Endrick"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49471258",
-      "headline": "USMNT's Matt Freese not over World Cup Belgium loss amid MLS return",
-      "description": "Goalkeeper Matt Freese said he's not quite gotten over the United States' abrupt exit from the 2026 World Cup following a 4-1 loss to Belgium in the round of 16.",
-      "published": "2026-07-28T17:51:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49471258/usmnt-gk-matt-freese-not-world-cup-belgium-loss-amid-mls-return",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1685660_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil",
-        "USA",
-        "Belgium"
-      ],
-      "players": [
-        "Matt Freese",
-        "Endrick"
-      ],
-      "score": 124
+      "score": 120
     },
     {
       "id": "49460730",
@@ -250,7 +294,23 @@
         "France"
       ],
       "players": [],
-      "score": 124
+      "score": 116
+    },
+    {
+      "id": "49468665",
+      "headline": "Can U.S. Soccer afford to wait for USMNT coach Pochettino?",
+      "description": "Is Mauricio Pochettino still coach of the United States men's national team? That's the lingering question for U.S. Soccer that needs answering soon.",
+      "published": "2026-07-28T14:23:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468665/united-states-usmnt-mauricio-pochettino-future-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685713_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 109
     },
     {
       "id": "49461196",
@@ -267,7 +327,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 109
+      "score": 102
     },
     {
       "id": "49468236",
@@ -283,7 +343,7 @@
         "France"
       ],
       "players": [],
-      "score": 109
+      "score": 102
     },
     {
       "id": "49468267",
@@ -297,7 +357,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 105
+      "score": 98
     },
     {
       "id": "49416547",
@@ -311,7 +371,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 100
+      "score": 93
     },
     {
       "id": "49465323",
@@ -327,7 +387,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 100
+      "score": 92
     },
     {
       "id": "49441066",
@@ -343,7 +403,7 @@
         "USA"
       ],
       "players": [],
-      "score": 95
+      "score": 87
     },
     {
       "id": "49460279",
@@ -357,7 +417,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 83
+      "score": 76
     },
     {
       "id": "49461219",
@@ -374,7 +434,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 75
+      "score": 68
     },
     {
       "id": "49460832",
@@ -388,7 +448,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 68
+      "score": 61
     },
     {
       "id": "49441430",
@@ -404,23 +464,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 56
-    },
-    {
-      "id": "49448250",
-      "headline": "President: Vozinha to sign for Colo Colo after stellar World Cup",
-      "description": "Cape Verde goalkeeper Vozinha has signed a contract with Colo Colo, the South American country's biggest soccer team, its president said.",
-      "published": "2026-07-25T20:13:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49448250/vozinha-sign-colo-colo-stellar-world-cup-president",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673689_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 29
+      "score": 48
     },
     {
       "id": "49365449",
@@ -552,6 +596,22 @@
       "score": 24
     },
     {
+      "id": "49448250",
+      "headline": "President: Vozinha to sign for Colo Colo after stellar World Cup",
+      "description": "Cape Verde goalkeeper Vozinha has signed a contract with Colo Colo, the South American country's biggest soccer team, its president said.",
+      "published": "2026-07-25T20:13:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49448250/vozinha-sign-colo-colo-stellar-world-cup-president",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673689_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 22
+    },
+    {
       "id": "49440317",
       "headline": "IOC will not investigate Infantino over Trump interference allegations",
       "description": "Allegations that FIFA president Gianni Infantino breached Olympic rules on political neutrality in his dealings with U.S. President Donald Trump will not be investigated by the International Olympic Committee.",
@@ -654,45 +714,6 @@
       "score": 13
     },
     {
-      "id": "49426371",
-      "headline": "Lewandowski: Eight weeks out affected Yamal's World Cup",
-      "description": "Lewandowski: Eight weeks out affected Yamal's World Cup",
-      "published": "2026-07-22T19:11:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/49426371/eight-weeks-affected-yamal-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Lewandowski_Eight_weeks_out_affected_Yamals_World_Cup/dm_260722_Lewandowski_Eight_weeks_out_affected_Yamals_World_Cup.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Robert Lewandowski"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49423331",
-      "headline": "Lamine Yamal explains Lionel Messi advice after World Cup final, says it was as valuable as a medal",
-      "description": "Lionel Messi encouraged Lamine Yamal \"to go his own way\" in the immediate aftermath of Spain's win over Argentina in the World Cup final.",
-      "published": "2026-07-22T17:49:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49423331/lionel-messi-encourages-lamine-yamal-go-own-way-spain-world-cup-triumph",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692337_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Lamine Yamal"
-      ],
-      "score": 13
-    },
-    {
       "id": "49447628",
       "headline": "Will Pochettino leave USMNT role?",
       "description": "Will Pochettino leave USMNT role?",
@@ -706,7 +727,7 @@
         "USA"
       ],
       "players": [],
-      "score": 12
+      "score": 10
     },
     {
       "id": "49440737",
@@ -893,30 +914,6 @@
       "kindLabel": "News",
       "teams": [
         "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49422826",
-      "headline": "Africa's FIFA World Cup, though historic, was characterised by 'what ifs'",
-      "description": "",
-      "published": "2026-07-23T06:37:29Z",
-      "url": "https://www.espn.com/espn/story/_/id/49422826/africa-fifa-world-cup-historic-was-characterised-ifs",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684714_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa",
-        "Ghana",
-        "Senegal",
-        "Morocco",
-        "Egypt",
-        "Cabo Verde",
-        "Tunisia",
-        "Algeria",
-        "Côte d'Ivoire"
       ],
       "players": [],
       "score": 10
