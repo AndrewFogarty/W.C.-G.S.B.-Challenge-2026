@@ -1,14 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-29T20:02:31.579Z",
+  "updated": "2026-07-29T21:09:42.270Z",
   "counts": {
-    "news": 28,
     "offfield": 11,
-    "injury": 5,
-    "preview": 3,
+    "news": 31,
+    "injury": 4,
+    "preview": 1,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49478527",
+      "headline": "World Cup for sale? FIFA's controversial plans explained",
+      "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
+      "published": "2026-07-29T20:47:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 217
+    },
     {
       "id": "49480730",
       "headline": "FIFA opens assault case against Argentina trio over World Cup final",
@@ -24,7 +38,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 209
+      "score": 197
     },
     {
       "id": "49478198",
@@ -38,7 +52,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 196
+      "score": 184
     },
     {
       "id": "49470625",
@@ -55,7 +69,7 @@
         "Algeria"
       ],
       "players": [],
-      "score": 182
+      "score": 171
     },
     {
       "id": "49463627",
@@ -84,7 +98,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 161
+      "score": 149
     },
     {
       "id": "49477957",
@@ -98,7 +112,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 160
+      "score": 148
     },
     {
       "id": "49481047",
@@ -111,13 +125,13 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Paraguay",
+        "Norway",
         "Saudi Arabia"
       ],
       "players": [
-        "Pedro Vite"
+        "Erling Haaland"
       ],
-      "score": 143
+      "score": 141
     },
     {
       "id": "49481540",
@@ -130,13 +144,13 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Paraguay"
+        "Norway"
       ],
       "players": [
         "Danny Imray",
-        "Pedro Vite"
+        "Erling Haaland"
       ],
-      "score": 143
+      "score": 141
     },
     {
       "id": "49480731",
@@ -149,14 +163,14 @@
       "kind": "injury",
       "kindLabel": "Injury",
       "teams": [
-        "Paraguay",
+        "Norway",
         "England"
       ],
       "players": [
         "Phil Foden",
-        "Pedro Vite"
+        "Erling Haaland"
       ],
-      "score": 142
+      "score": 140
     },
     {
       "id": "49480678",
@@ -169,14 +183,48 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Paraguay",
+        "Norway",
         "Brazil"
       ],
       "players": [
         "Kerolin",
-        "Pedro Vite"
+        "Erling Haaland"
       ],
-      "score": 141
+      "score": 139
+    },
+    {
+      "id": "49480773",
+      "headline": "How will Man City lineup if Rodri leaves for Real Madrid?",
+      "description": "How will Man City lineup if Rodri leaves for Real Madrid?",
+      "published": "2026-07-29T16:47:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/49480773/how-man-city-lineup-rodri-leaves-real-madrid",
+      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_How_will_Man_City_lineup_if_Rodri_leaves_for_Real_Madrid3F__GLOBAL_2026-07-29/dm_260729_COM_SOC_Analysis_How_will_Man_City_lineup_if_Rodri_leaves_for_Real_Madrid3F__GLOBAL_2026-07-29.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49460730",
+      "headline": "Zidane takes France job after five years out of coaching. What will he do?",
+      "description": "France have made Zinedine Zidane their new coach despite his last job at Real Madrid ending in 2021. What will he do? And just where has he been?",
+      "published": "2026-07-29T10:28:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49460730/zinedine-zidane-france-coach-five-years-leaving-real-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694553_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland, Julien Laurens",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "France"
+      ],
+      "players": [],
+      "score": 128
     },
     {
       "id": "49466177",
@@ -198,7 +246,43 @@
         "Ajdin Hrustic",
         "Tete Yengi"
       ],
-      "score": 139
+      "score": 127
+    },
+    {
+      "id": "49480746",
+      "headline": "Who will be the young breakout Premier League star of the season?",
+      "description": "Who will be the young breakout Premier League star of the season?",
+      "published": "2026-07-29T16:46:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49480746/who-young-breakout-premier-league-star-season",
+      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49480736",
+      "headline": "Are Man City PL title contenders under Maresca?",
+      "description": "Are Man City PL title contenders under Maresca?",
+      "published": "2026-07-29T16:45:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/49480736/are-man-city-pl-title-contenders-maresca",
+      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_Are_Man_City_PL_title_contenders_under_Maresca3F_GLOBAL_2026-07-29/dm_260729_COM_SOC_Analysis_Are_Man_City_PL_title_contenders_under_Maresca3F_GLOBAL_2026-07-29.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 126
     },
     {
       "id": "49476184",
@@ -216,226 +300,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 138
-    },
-    {
-      "id": "49480773",
-      "headline": "How will Man City lineup if Rodri leaves for Real Madrid?",
-      "description": "How will Man City lineup if Rodri leaves for Real Madrid?",
-      "published": "2026-07-29T16:47:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49480773/how-man-city-lineup-rodri-leaves-real-madrid",
-      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_How_will_Man_City_lineup_if_Rodri_leaves_for_Real_Madrid3F__GLOBAL_2026-07-29/dm_260729_COM_SOC_Analysis_How_will_Man_City_lineup_if_Rodri_leaves_for_Real_Madrid3F__GLOBAL_2026-07-29.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Pedro Vite"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49479466",
-      "headline": "Jordan Henderson leaves Brentford, Chelsea clear to sign free agent",
-      "description": "Jordan Henderson has left Brentford as a free agent after a mutual agreement was reached to terminate his contract, opening the door for Chelsea to sign him.",
-      "published": "2026-07-29T13:17:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49479466/jordan-henderson-leaves-brentford-chelsea-clear-sign-free-agent",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685270_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway",
-        "Jordan"
-      ],
-      "players": [
-        "Jordan Henderson",
-        "Erling Haaland"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49469244",
-      "headline": "2026-27 Scottish Premiership preview: Celtic again? New-look Rangers? Another Hearts shock? Assessing every team",
-      "description": "Celtic? Rangers? Hearts? ESPN's Mark Donaldson breaks down what you need to know about every team ahead of the 2026-27 Scottish Premiership season.",
-      "published": "2026-07-29T12:32:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49469244/2026-27-scottish-premiership-preview-celtic-again-new-look-rangers-another-hearts-shock-assessing-every-team",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694601_1296x729_16-9.jpg",
-      "byline": "Mark Donaldson",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49477954",
-      "headline": "Tottenham vs Sydney FC as it happened: Spurs secure victory via penalty shootout",
-      "description": "Tottenham continue their preseason campaign ahead of the 2026/27 season by taking on Sydney FC in Australia.",
-      "published": "2026-07-29T12:03:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49477954/tottenham-vs-sydney-fc-live-updates-team-news-goals-score-team-kit",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695087_1296x729_16-9.jpg",
-      "byline": "Nathan Johns",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Norway",
-        "Australia"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49460730",
-      "headline": "Zidane takes France job after five years out of coaching. What will he do?",
-      "description": "France have made Zinedine Zidane their new coach despite his last job at Real Madrid ending in 2021. What will he do? And just where has he been?",
-      "published": "2026-07-29T10:28:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460730/zinedine-zidane-france-coach-five-years-leaving-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694553_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland, Julien Laurens",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "France"
-      ],
-      "players": [],
-      "score": 130
-    },
-    {
-      "id": "49480746",
-      "headline": "Who will be the young breakout Premier League star of the season?",
-      "description": "Who will be the young breakout Premier League star of the season?",
-      "published": "2026-07-29T16:46:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49480746/who-young-breakout-premier-league-star-season",
-      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Pedro Vite"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49480736",
-      "headline": "Are Man City PL title contenders under Maresca?",
-      "description": "Are Man City PL title contenders under Maresca?",
-      "published": "2026-07-29T16:45:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49480736/are-man-city-pl-title-contenders-maresca",
-      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_Are_Man_City_PL_title_contenders_under_Maresca3F_GLOBAL_2026-07-29/dm_260729_COM_SOC_Analysis_Are_Man_City_PL_title_contenders_under_Maresca3F_GLOBAL_2026-07-29.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Paraguay"
-      ],
-      "players": [
-        "Pedro Vite"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49480066",
-      "headline": "Liverpool preparing bid for Paris Saint-Germain winger Bradley Barcola - sources",
-      "description": "Liverpool are preparing an official bid for Paris Saint-Germain forward Bradley Barcola, sources told ESPN.",
-      "published": "2026-07-29T14:36:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49480066/liverpool-bid-bradley-barcola-transfer-news-psg-sources",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695121_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Bradley Barcola",
-        "Erling Haaland"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49479779",
-      "headline": "Ben Davies praises Tottenham's next generation after penalty shootout win in Sydney",
-      "description": "Tottenham veteran Ben Davies has spoken glowingly of his younger teammates -- some of whom he coached in Spurs' very own academy a few years ago -- after a \"good test\" against Sydney FC at Allianz Stadium on Wednesday.",
-      "published": "2026-07-29T14:03:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49479779/spurs-preseason-australia-tour-ben-davies-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695051_1296x729_16-9.jpg",
-      "byline": "Samantha Lewis",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49479747",
-      "headline": "Roberto De Zerbi on Tottenham's Lucas Bergvall: 'I don't want to convince anyone to stay'",
-      "description": "Roberto De Zerbi offered little certainty on Lucas Bergvall when discussing the Sweden international's future after Tottenham beat Sydney FC.",
-      "published": "2026-07-29T13:53:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49479747/lucas-bergvall-transfer-news-tottenham-roberto-de-zerbi-sydney-fc-penalty-shootout",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695112_1296x729_16-9.jpg",
-      "byline": "Samantha Lewis",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "Sweden"
-      ],
-      "players": [
-        "Lucas Bergvall",
-        "Erling Haaland"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49479381",
-      "headline": "Tottenham require penalty shootout to beat Sydney FC in preseason friendly",
-      "description": "Tottenham secured another preseason victory when beating Sydney FC 4-2 via a penalty shootout after a 1-1 draw in normal time.",
-      "published": "2026-07-29T13:04:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49479381/tottenham-sydney-fc-result-penalties-shootout-mathys-tel-sandro-tonali",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695098_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Mathys Tel",
-        "Sandro Tonali",
-        "Andy Robertson",
-        "Erling Haaland"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49470028",
-      "headline": "UEFA to discuss World Cup boycott over FIFA private investment plan - sources",
-      "description": "UEFA is set to hold an emergency meeting this week, sources told ESPN, to discuss plans, including a potential World Cup boycott, to oppose a FIFA proposal to raise $20 billion from a sale of equity to outside investors.",
-      "published": "2026-07-29T00:06:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 106
+      "score": 126
     },
     {
       "id": "49473099",
@@ -449,7 +314,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49468627",
@@ -468,7 +333,21 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 96
+      "score": 95
+    },
+    {
+      "id": "49470028",
+      "headline": "UEFA to discuss World Cup boycott over FIFA private investment plan - sources",
+      "description": "UEFA is set to hold an emergency meeting this week, sources told ESPN, to discuss plans, including a potential World Cup boycott, to oppose a FIFA proposal to raise $20 billion from a sale of equity to outside investors.",
+      "published": "2026-07-29T00:06:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 94
     },
     {
       "id": "49471131",
@@ -486,7 +365,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49471030",
@@ -504,7 +383,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49463728",
@@ -520,7 +399,7 @@
         "USA"
       ],
       "players": [],
-      "score": 92
+      "score": 90
     },
     {
       "id": "49472014",
@@ -534,7 +413,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 88
+      "score": 86
     },
     {
       "id": "49468665",
@@ -550,7 +429,7 @@
         "USA"
       ],
       "players": [],
-      "score": 86
+      "score": 84
     },
     {
       "id": "49461196",
@@ -567,7 +446,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 79
+      "score": 77
     },
     {
       "id": "49468236",
@@ -583,7 +462,7 @@
         "France"
       ],
       "players": [],
-      "score": 78
+      "score": 77
     },
     {
       "id": "49468267",
@@ -597,7 +476,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 75
+      "score": 73
     },
     {
       "id": "49416547",
@@ -611,7 +490,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 70
+      "score": 68
     },
     {
       "id": "49465323",
@@ -627,7 +506,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 69
+      "score": 67
     },
     {
       "id": "49441066",
@@ -643,7 +522,7 @@
         "USA"
       ],
       "players": [],
-      "score": 64
+      "score": 63
     },
     {
       "id": "49460279",
@@ -657,7 +536,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 53
+      "score": 51
     },
     {
       "id": "49461219",
@@ -674,7 +553,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 45
+      "score": 43
     },
     {
       "id": "49460832",
@@ -688,67 +567,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 38
-    },
-    {
-      "id": "49365449",
-      "headline": "Socceroos Depth Chart: Predicting Australia's 2030 World Cup squad",
-      "description": "With memories of Australia's heartbreaking penalty shootout defeat to Egypt still fresh, ESPN has taken a way-too-early look at who might be running out for the Socceroos when the next World Cup kicks off in 2030.",
-      "published": "2026-07-23T02:37:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49365449/socceroos-depth-chart-predicting-australias-2030-world-cup-squad",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689484_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Australia",
-        "Egypt"
-      ],
-      "players": [
-        "Patrick Beach",
-        "Joe Gauci",
-        "Mathew Ryan",
-        "Jordan Bos",
-        "Kasey Bos",
-        "Harry Souttar",
-        "Alessandro Circati",
-        "Lucas Herrington",
-        "Kai Trewin",
-        "Dylan Leonard",
-        "Cameron Burgess",
-        "Lewis Miller",
-        "Jacob Italiano",
-        "Paul Okon-Engstler",
-        "Aiden O'Neill",
-        "Connor Metcalfe",
-        "Alex Robertson",
-        "Patrick Yazbek",
-        "Nestory Irankunda",
-        "Cristian Volpato",
-        "Riley McGree",
-        "Eli Adams",
-        "Garang Kuol",
-        "Mohamed Toure",
-        "Noah Botic",
-        "Luka Jovanovic"
-      ],
-      "score": 27
-    },
-    {
-      "id": "49441430",
-      "headline": "Ranking every FIFA World Cup from 1930 to 2026",
-      "description": "Spain's romp to victory in 2026 capped a brilliant World Cup. But where did this summer rank in the all-time record?",
-      "published": "2026-07-26T22:01:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49441430/world-cup-ranking-2026-bill-connelly-james-tyler-analysis-best-world-cups-ever",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691518_1296x729_16-9.jpg",
-      "byline": "Bill Connelly and James Tyler",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 25
+      "score": 36
     },
     {
       "id": "49425954",
@@ -815,6 +634,22 @@
       ],
       "players": [],
       "score": 24
+    },
+    {
+      "id": "49441430",
+      "headline": "Ranking every FIFA World Cup from 1930 to 2026",
+      "description": "Spain's romp to victory in 2026 capped a brilliant World Cup. But where did this summer rank in the all-time record?",
+      "published": "2026-07-26T22:01:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49441430/world-cup-ranking-2026-bill-connelly-james-tyler-analysis-best-world-cups-ever",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691518_1296x729_16-9.jpg",
+      "byline": "Bill Connelly and James Tyler",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 23
     },
     {
       "id": "49448250",
@@ -892,6 +727,126 @@
         "Folarin Balogun"
       ],
       "score": 13
+    },
+    {
+      "id": "49423199",
+      "headline": "ESPN's outrageous, fanciful, way too early African XI for the 2030 FIFA World Cup",
+      "description": "ESPN have taken on the foolish task of predicting the African continent's best XI for the 2030 FIFA World Cup in four years' time.",
+      "published": "2026-07-23T06:33:47Z",
+      "url": "https://www.espn.com/espn/story/_/id/49423199/espn-outrageous-fanciful-way-too-early-african-xi-2030-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0114/r1600409_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Côte d'Ivoire",
+        "Morocco"
+      ],
+      "players": [
+        "Yahia Fofana",
+        "Achraf Hakimi",
+        "Victor Osimhen",
+        "Ayyoub Bouaddi",
+        "Yan Diomande",
+        "Ousmane Diomande"
+      ],
+      "score": 13
+    },
+    {
+      "id": "49447628",
+      "headline": "Will Pochettino leave USMNT role?",
+      "description": "Will Pochettino leave USMNT role?",
+      "published": "2026-07-25T17:05:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49440737",
+      "headline": "What would England's team look like if Pep Guardiola was manager?",
+      "description": "What would England's team look like if Pep Guardiola was manager?",
+      "published": "2026-07-24T16:41:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49438479",
+      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
+      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
+      "published": "2026-07-24T14:31:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49258815",
+      "headline": "Jürgen Klopp named Germany head coach after Julian Nagelsmann departure",
+      "description": "Jürgen Klopp has been named Germany's head coach, following the national team's disappointing World Cup and the resignation of Julian Nagelsmann.",
+      "published": "2026-07-24T12:52:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49258815/jurgen-klopp-germany-manager-world-cup-julian-nagalesmann-resigns",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693111_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49409382",
+      "headline": "Forget whether Germany need Klopp. Does Klopp need Germany?",
+      "description": "Jürgen Klopp ended his nine-year spell as Liverpool manager by saying he was too tired to carry on. Now, as Germany boss, is he game to coach again?",
+      "published": "2026-07-24T11:39:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693112_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49438196",
+      "headline": "The moment Jürgen Klopp was announced as new Germany head coach",
+      "description": "The moment Jürgen Klopp was announced as new Germany head coach",
+      "published": "2026-07-24T10:17:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49438196/the-moment-jurgen-klopp-was-announced-new-germany-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 10
     }
   ]
 }
