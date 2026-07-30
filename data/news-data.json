@@ -1,13 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-30T15:19:03.668Z",
+  "updated": "2026-07-30T16:55:21.677Z",
   "counts": {
-    "news": 33,
-    "celebration": 3,
-    "offfield": 9,
+    "offfield": 11,
+    "news": 31,
+    "celebration": 2,
+    "preview": 1,
     "injury": 3
   },
   "items": [
+    {
+      "id": "49488584",
+      "headline": "UEFA to boycott all FIFA competitions to protest World Cup private equity plan",
+      "description": "UEFA on Thursday voted to boycott all FIFA competitions in protest against FIFA president Gianni Infantino's plan for selling a stake in World Cup revenue to private investors.",
+      "published": "2026-07-30T16:26:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49488584/uefa-boycott-all-fifa-competitions-protest-world-cup-private-equity-plan",
+      "image": "https://a.espncdn.com/photo/2024/0101/r1272500_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 217
+    },
     {
       "id": "49486943",
       "headline": "Carlo Ancelotti: Tactical mistake during hydration break led to Brazil's World Cup exit",
@@ -23,7 +38,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 202
+      "score": 190
     },
     {
       "id": "49486493",
@@ -37,7 +52,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 196
+      "score": 184
     },
     {
       "id": "49470517",
@@ -54,7 +69,7 @@
         "USA"
       ],
       "players": [],
-      "score": 177
+      "score": 164
     },
     {
       "id": "49486562",
@@ -68,7 +83,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 175
+      "score": 163
     },
     {
       "id": "49484906",
@@ -84,7 +99,7 @@
         "Australia"
       ],
       "players": [],
-      "score": 160
+      "score": 148
     },
     {
       "id": "49484972",
@@ -100,7 +115,162 @@
         "USA"
       ],
       "players": [],
-      "score": 154
+      "score": 141
+    },
+    {
+      "id": "49486441",
+      "headline": "Transfer rumors, news: Real Madrid confident of Rodri signing",
+      "description": "Spain's World Cup-winning captain Rodri is moving closer to joining Real Madrid from Manchester City this summer. Transfer Talk has the latest.",
+      "published": "2026-07-30T12:00:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49486441/transfer-rumors-news-real-madrid-confident-signing-spain-captain-manchester-city-midfielder-rodri",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695477_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway",
+        "Spain"
+      ],
+      "players": [
+        "Rodri",
+        "Erling Haaland"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49487149",
+      "headline": "Roberto De Zerbi hints at new blockbuster Tottenham transfer",
+      "description": "Tottenham Hotspur are looking to complete \"another bomba\" transfer, says head coach Roberto De Zerbi.",
+      "published": "2026-07-30T10:49:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49487149/roberto-de-zerbi-tottenham-bomba-transfer-news",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695497_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49154575",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "published": "2026-07-30T12:21:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49487801",
+      "headline": "Song Ui-Young once again using the ASEAN Championship to make up for lost time",
+      "description": "Song Ui-Young skipped the last ASEAN Championship to make up for lost time with family. Now he's making up for that lost time as a Lion.",
+      "published": "2026-07-30T12:39:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49487801/song-ui-young-once-again-asean-championship-make-lost",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695539_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Song Ui-young",
+        "Erling Haaland"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49461152",
+      "headline": "Why England have no automatic Euro 2028 place -- but Argentina are already in the 2030 World Cup",
+      "description": "England have not been granted a guaranteed spot at UEFA Euro 2028 despite being one of the tournament co-hosts.",
+      "published": "2026-07-30T12:21:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461152/england-euro-2028-automatic-qualification-ireland-wales-scotland",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694218_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "England",
+        "Argentina",
+        "Uruguay",
+        "Paraguay",
+        "Spain",
+        "Portugal",
+        "Morocco"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 126
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-07-30T12:18:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49437524",
+      "headline": "Chelsea bolster defence as Maxence Lacroix arrives from Crystal Palace",
+      "description": "Chelsea have signed centre-back Maxence Lacroix from fellow Premier League side Crystal Palace.",
+      "published": "2026-07-30T11:59:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49437524/chelsea-bolster-defence-maxence-lacroix-moves-crystal-palace",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693085_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Maxence Lacroix",
+        "Erling Haaland"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49487296",
+      "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
+      "description": "Al Ahli head coach Matthias Jaissle is reportedly set to replace Eddie Howe at Newcastle. But who is he?",
+      "published": "2026-07-30T11:24:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49487296/who-matthias-jaissle-newcastle-eddie-howe-al-ahli-st-james-park",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695505_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 125
     },
     {
       "id": "49478527",
@@ -114,27 +284,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 137
-    },
-    {
-      "id": "49485428",
-      "headline": "Ngumoha reminds Liverpool of his potential as Barcola rumors swirl",
-      "description": "Bradley Barcola has been linked with a move to Liverpool, but in Rio Ngumoha the Reds may have a ready-made replacement for Mohamed Salah.",
-      "published": "2026-07-30T05:02:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49485428/ngumoha-reminds-liverpool-potential-barcola-rumors-swirl",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695457_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Rio Ngumoha",
-        "Bradley Barcola",
-        "Erling Haaland"
-      ],
-      "score": 130
+      "score": 125
     },
     {
       "id": "49483498",
@@ -150,130 +300,7 @@
         "Brazil"
       ],
       "players": [],
-      "score": 126
-    },
-    {
-      "id": "40623545",
-      "headline": "MLS All-Star Game history: All-time matchups, MVPs, stats",
-      "description": "The MLS All-Stars defeated the Liga MX All-Stars in the 2026 MLS All-Star Game. Check out more facts from the event's history now.",
-      "published": "2026-07-30T02:41:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/40623545/mls-all-star-game-history-all-matchups-mvps-stats",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695425_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49485973",
-      "headline": "Matildas set to play Germany friendly in October",
-      "description": "The Matildas will ramp up their preparations for next year's Women's World Cup in Brazil with a friendly match against European powerhouses Germany in October.",
-      "published": "2026-07-30T05:54:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49485973/matildas-set-play-germany-friendly-october",
-      "image": "https://a.espncdn.com/photo/2024/1028/r1407320_1296x729_16-9.jpg",
-      "byline": "AAP",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "Australia",
-        "Germany",
-        "Brazil"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 119
-    },
-    {
-      "id": "49485745",
-      "headline": "Utah Royals vs. Washington Spirit - Game Highlights",
-      "description": "Watch the Game Highlights from Utah Royals vs. Washington Spirit, 07/30/2026",
-      "published": "2026-07-30T05:00:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/49485745/utah-royals-vs-washington-spirit-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0730/2dba09e2-d0a1-4bf3-963b-a5372f6c3c86/2dba09e2-d0a1-4bf3-963b-a5372f6c3c86.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Kiana Palacios",
-        "Mina Tanaka",
-        "Tara Rudd",
-        "Lara Prasnikar",
-        "Sofia Cantore",
-        "Trinity Rodman",
-        "Erling Haaland"
-      ],
-      "score": 118
-    },
-    {
-      "id": "49485127",
-      "headline": "Son Heung-min brace lifts MLS All-Stars past Liga MX in 4-3 thriller",
-      "description": "Son Heung-min scored two goals in three minutes in the first half to propel the MLS All-Stars past the LIGA MX All-Stars 4-3 in the Major League Soccer All-Star Game.",
-      "published": "2026-07-30T04:54:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49485127/son-heung-min-brace-lifts-mls-all-stars-liga-mx-thriller",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695436_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 117
-    },
-    {
-      "id": "49485500",
-      "headline": "Bay FC vs. NJ/NY Gotham FC - Game Highlights",
-      "description": "Watch the Game Highlights from Bay FC vs. NJ/NY Gotham FC, 07/30/2026",
-      "published": "2026-07-30T04:18:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49485500/bay-fc-vs-nj-ny-gotham-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0730/5f94d1e0-c4a8-4343-8621-c02de527cc25/5f94d1e0-c4a8-4343-8621-c02de527cc25.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Midge Purce",
-        "Kennedy Fuller",
-        "Alex Pfeiffer",
-        "Jordynn Dudley",
-        "Erling Haaland"
-      ],
-      "score": 116
-    },
-    {
-      "id": "49485111",
-      "headline": "Ghana down WAFCON debutants Cape Verde 2-0, Cameroon beat Mali 2-1",
-      "description": "Doris Boaduwaa and Marie Ngah Manga were amongst the goals as Ghana and Cameroon picked up wins.",
-      "published": "2026-07-30T03:21:08Z",
-      "url": "https://www.espn.com/espn/story/_/id/49485111/wafcon-2026-july-29-wrap-ghana-debutants-cape-verde-2-0-cameroon-beat-mali-2-1",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695438_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "Ghana",
-        "Cabo Verde"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49463627",
@@ -302,7 +329,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 110
+      "score": 107
     },
     {
       "id": "49460730",
@@ -318,7 +345,7 @@
         "France"
       ],
       "players": [],
-      "score": 101
+      "score": 98
     },
     {
       "id": "49478198",
@@ -332,7 +359,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 100
+      "score": 97
     },
     {
       "id": "49480730",
@@ -349,7 +376,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 100
+      "score": 97
     },
     {
       "id": "49470625",
@@ -366,7 +393,7 @@
         "Algeria"
       ],
       "players": [],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49466177",
@@ -388,7 +415,7 @@
         "Ajdin Hrustic",
         "Tete Yengi"
       ],
-      "score": 90
+      "score": 88
     },
     {
       "id": "49477957",
@@ -402,7 +429,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 81
+      "score": 79
     },
     {
       "id": "49476184",
@@ -420,7 +447,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 79
+      "score": 77
     },
     {
       "id": "49473099",
@@ -434,7 +461,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 74
+      "score": 71
     },
     {
       "id": "49470028",
@@ -448,7 +475,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49468627",
@@ -467,7 +494,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49471131",
@@ -485,7 +512,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 64
+      "score": 61
     },
     {
       "id": "49471030",
@@ -503,7 +530,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 64
+      "score": 61
     },
     {
       "id": "49463728",
@@ -519,7 +546,7 @@
         "USA"
       ],
       "players": [],
-      "score": 63
+      "score": 60
     },
     {
       "id": "49472014",
@@ -533,7 +560,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 59
+      "score": 56
     },
     {
       "id": "49468665",
@@ -549,7 +576,7 @@
         "USA"
       ],
       "players": [],
-      "score": 57
+      "score": 54
     },
     {
       "id": "49461196",
@@ -566,7 +593,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 50
+      "score": 48
     },
     {
       "id": "49468236",
@@ -582,7 +609,7 @@
         "France"
       ],
       "players": [],
-      "score": 50
+      "score": 47
     },
     {
       "id": "49468267",
@@ -596,7 +623,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 46
+      "score": 43
     },
     {
       "id": "49416547",
@@ -610,7 +637,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 41
+      "score": 38
     },
     {
       "id": "49465323",
@@ -626,7 +653,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 40
+      "score": 38
     },
     {
       "id": "49441066",
@@ -642,7 +669,7 @@
         "USA"
       ],
       "players": [],
-      "score": 35
+      "score": 33
     },
     {
       "id": "49425954",
@@ -668,20 +695,6 @@
         "Pedro Vite"
       ],
       "score": 25
-    },
-    {
-      "id": "49460279",
-      "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
-      "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
-      "published": "2026-07-27T19:06:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 24
     },
     {
       "id": "49438321",
@@ -732,6 +745,20 @@
       "score": 22
     },
     {
+      "id": "49460279",
+      "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
+      "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
+      "published": "2026-07-27T19:06:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 21
+    },
+    {
       "id": "49461219",
       "headline": "Argentina's Lionel Scaloni defends players after World Cup, critics are 'people who don't know us'",
       "description": "Argentina coach Lionel Scaloni has defended his players and called them \"warriors\" in the wake of the World Cup final defeat to Spain.",
@@ -746,7 +773,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 16
+      "score": 13
     },
     {
       "id": "49433484",
@@ -803,38 +830,6 @@
       "kindLabel": "News",
       "teams": [
         "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49440737",
-      "headline": "What would England's team look like if Pep Guardiola was manager?",
-      "description": "What would England's team look like if Pep Guardiola was manager?",
-      "published": "2026-07-24T16:41:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49438479",
-      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "published": "2026-07-24T14:31:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
       ],
       "players": [],
       "score": 10
