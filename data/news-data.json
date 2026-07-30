@@ -1,21 +1,21 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-30T19:57:36.724Z",
+  "updated": "2026-07-30T21:18:40.751Z",
   "counts": {
     "offfield": 15,
-    "news": 26,
+    "news": 27,
     "celebration": 2,
-    "injury": 4,
-    "preview": 1
+    "preview": 1,
+    "injury": 3
   },
   "items": [
     {
       "id": "49488584",
-      "headline": "Concacaf joins UEFA in rejecting FIFA World Cup private equity plan",
-      "description": "FIFA president Gianni Infantino's plan to sell stakes in the World Cup to a private equity group was left hanging by a thread on Thursday, after Concacaf joined UEFA in rejecting the proposal.",
-      "published": "2026-07-30T19:53:47Z",
+      "headline": "UEFA vows World Cup boycott as Concacaf rejects FIFA private equity plan",
+      "description": "FIFA president Gianni Infantino's plan to sell stakes in the World Cup to a private equity group was dealt a major blow on Thursday, after Concacaf joined UEFA in rejecting the proposal.",
+      "published": "2026-07-30T21:15:09Z",
       "url": "https://www.espn.com/soccer/story/_/id/49488584/uefa-boycott-all-fifa-competitions-protest-world-cup-private-equity-plan",
-      "image": "https://a.espncdn.com/photo/2024/0101/r1272500_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695697_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
       "kind": "offfield",
       "kindLabel": "Off the field",
@@ -38,7 +38,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 185
+      "score": 183
     },
     {
       "id": "49486493",
@@ -52,7 +52,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 179
+      "score": 177
     },
     {
       "id": "49470517",
@@ -69,7 +69,7 @@
         "USA"
       ],
       "players": [],
-      "score": 160
+      "score": 158
     },
     {
       "id": "49486562",
@@ -83,27 +83,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 158
-    },
-    {
-      "id": "49490020",
-      "headline": "Liverpool's Joe Gomez to miss start of Premier League season",
-      "description": "Liverpool head coach Andoni Iraola has confirmed defender Joe Gomez will miss the start of the new season after picking up a muscle injury during the Reds' preseason tour of the U.S.",
-      "published": "2026-07-30T18:16:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49490020/liverpool-joe-gomez-injury-start-premier-league-season",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695633_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Switzerland",
-        "USA"
-      ],
-      "players": [
-        "Joe Gomez",
-        "Breel Embolo"
-      ],
-      "score": 144
+      "score": 156
     },
     {
       "id": "49484906",
@@ -119,7 +99,7 @@
         "Australia"
       ],
       "players": [],
-      "score": 144
+      "score": 141
     },
     {
       "id": "49488555",
@@ -138,7 +118,7 @@
         "Harvey Elliott",
         "Erling Haaland"
       ],
-      "score": 140
+      "score": 138
     },
     {
       "id": "49489371",
@@ -157,7 +137,7 @@
         "Bruno Guimarães",
         "Erling Haaland"
       ],
-      "score": 140
+      "score": 138
     },
     {
       "id": "49488985",
@@ -176,7 +156,7 @@
         "Gerónimo Rulli",
         "Erling Haaland"
       ],
-      "score": 139
+      "score": 137
     },
     {
       "id": "49486441",
@@ -196,7 +176,7 @@
         "Rodri",
         "Erling Haaland"
       ],
-      "score": 138
+      "score": 136
     },
     {
       "id": "49484972",
@@ -212,7 +192,7 @@
         "USA"
       ],
       "players": [],
-      "score": 137
+      "score": 135
     },
     {
       "id": "49488247",
@@ -232,7 +212,7 @@
         "César Palacios",
         "Erling Haaland"
       ],
-      "score": 136
+      "score": 134
     },
     {
       "id": "49488140",
@@ -251,7 +231,7 @@
         "Marcus Rashford",
         "Erling Haaland"
       ],
-      "score": 136
+      "score": 134
     },
     {
       "id": "49488549",
@@ -270,80 +250,7 @@
         "Senne Lammens",
         "Erling Haaland"
       ],
-      "score": 134
-    },
-    {
-      "id": "49489652",
-      "headline": "What can Barcelona achieve next season under Hansi Flick?",
-      "description": "What can Barcelona achieve next season under Hansi Flick?",
-      "published": "2026-07-30T17:05:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49489652/what-barcelona-achieve-next-season-hansi-flick",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_COM_SOC_Analysis_What_can_Barcelona_achieve_next_season_under_Hansi_Flick3F_GLOBAL_2026-07-30/dm_260730_COM_SOC_Analysis_What_can_Barcelona_achieve_next_season_under_Hansi_Flick3F_GLOBAL_2026-07-30.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Switzerland"
-      ],
-      "players": [
-        "Breel Embolo"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49489650",
-      "headline": "Kirkland: Atlético Madrid are deeply upset with Barcelona over Alvarez",
-      "description": "Kirkland: Atlético Madrid are deeply upset with Barcelona over Alvarez",
-      "published": "2026-07-30T17:04:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49489650/atletico-madrid-deeply-upset-barcelona-alvarez",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_COM_SOC_Analysis_Kirkland3A_AtlC3A9tico_Madrid_are_deeply_upset_with_Barcelona_over_Alvarez_GLOBAL_202/dm_260730_COM_SOC_Analysis_Kirkland3A_AtlC3A9tico_Madrid_are_deeply_upset_with_Barcelona_over_Alvarez_GLOBAL_202.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Switzerland"
-      ],
-      "players": [
-        "Breel Embolo"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49489636",
-      "headline": "Is Eddie Howe leaving Newcastle a surprise?",
-      "description": "Is Eddie Howe leaving Newcastle a surprise?",
-      "published": "2026-07-30T17:03:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/49489636/is-eddie-howe-leaving-newcastle-surprise",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_COM_SOC_Analysis_Is_Eddie_Howe_leaving_Newcastle_a_surprise3F__GLOBAL_2026-07-30/dm_260730_COM_SOC_Analysis_Is_Eddie_Howe_leaving_Newcastle_a_surprise3F__GLOBAL_2026-07-30.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Switzerland"
-      ],
-      "players": [
-        "Eddie Howe",
-        "Breel Embolo"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49489534",
-      "headline": "Ex-Liverpool boss Arne Slot focused on European job, not Al Ahli - sources",
-      "description": "Arne Slot is aiming to return to club management in Europe's major leagues, sources have told ESPN, despite emerging as the leading contender to replace Newcastle United-bound Matthias Jaissle at Saudi pro League team Al Ahli.",
-      "published": "2026-07-30T16:59:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49489534/liverpool-arne-slot-al-ahli-manager-europe",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695611_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Switzerland"
-      ],
-      "players": [
-        "Breel Embolo"
-      ],
-      "score": 129
+      "score": 132
     },
     {
       "id": "49478527",
@@ -357,7 +264,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 120
+      "score": 118
     },
     {
       "id": "49483498",
@@ -373,7 +280,7 @@
         "Brazil"
       ],
       "players": [],
-      "score": 109
+      "score": 107
     },
     {
       "id": "49463627",
@@ -402,7 +309,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49460730",
@@ -418,7 +325,7 @@
         "France"
       ],
       "players": [],
-      "score": 94
+      "score": 92
     },
     {
       "id": "49478198",
@@ -432,7 +339,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49480730",
@@ -449,7 +356,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49470625",
@@ -466,7 +373,7 @@
         "Algeria"
       ],
       "players": [],
-      "score": 86
+      "score": 84
     },
     {
       "id": "49466177",
@@ -488,7 +395,7 @@
         "Ajdin Hrustic",
         "Tete Yengi"
       ],
-      "score": 83
+      "score": 81
     },
     {
       "id": "49477957",
@@ -502,7 +409,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 74
+      "score": 72
     },
     {
       "id": "49476184",
@@ -520,7 +427,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 72
+      "score": 70
     },
     {
       "id": "49473099",
@@ -534,7 +441,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49470028",
@@ -548,7 +455,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 58
     },
     {
       "id": "49468627",
@@ -567,7 +474,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "49471131",
@@ -585,7 +492,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49471030",
@@ -603,7 +510,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49463728",
@@ -619,7 +526,7 @@
         "USA"
       ],
       "players": [],
-      "score": 56
+      "score": 54
     },
     {
       "id": "49472014",
@@ -633,7 +540,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 52
+      "score": 50
     },
     {
       "id": "49468665",
@@ -649,7 +556,7 @@
         "USA"
       ],
       "players": [],
-      "score": 50
+      "score": 48
     },
     {
       "id": "49461196",
@@ -666,7 +573,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 43
+      "score": 41
     },
     {
       "id": "49468236",
@@ -682,7 +589,7 @@
         "France"
       ],
       "players": [],
-      "score": 43
+      "score": 41
     },
     {
       "id": "49468267",
@@ -696,7 +603,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 39
+      "score": 37
     },
     {
       "id": "49416547",
@@ -710,7 +617,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 34
+      "score": 32
     },
     {
       "id": "49465323",
@@ -726,7 +633,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 33
+      "score": 31
     },
     {
       "id": "49441066",
@@ -742,7 +649,7 @@
         "USA"
       ],
       "players": [],
-      "score": 28
+      "score": 26
     },
     {
       "id": "49425954",
@@ -829,7 +736,99 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 17
+      "score": 15
+    },
+    {
+      "id": "49433484",
+      "headline": "How Spain won the World Cup without a marquee goal scorer or elite defense",
+      "description": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
+      "published": "2026-07-24T08:36:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49433484/how-spain-won-world-cup-marquee-goal-scorer-elite-defense",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692876_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Marc Cucurella",
+        "Pedro Porro",
+        "Aymeric Laporte",
+        "Pau Cubarsí",
+        "Álex Baena",
+        "Mikel Oyarzabal",
+        "Rodri",
+        "Mikel Merino",
+        "Martín Zubimendi"
+      ],
+      "score": 13
+    },
+    {
+      "id": "49461219",
+      "headline": "Argentina's Lionel Scaloni defends players after World Cup, critics are 'people who don't know us'",
+      "description": "Argentina coach Lionel Scaloni has defended his players and called them \"warriors\" in the wake of the World Cup final defeat to Spain.",
+      "published": "2026-07-27T11:09:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461219/argentina-lionel-scaloni-defends-players-world-cup-critics-people-know-us",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1680924_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49441430",
+      "headline": "Ranking every FIFA World Cup from 1930 to 2026",
+      "description": "Spain's romp to victory in 2026 capped a brilliant World Cup. But where did this summer rank in the all-time record?",
+      "published": "2026-07-26T22:01:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49441430/world-cup-ranking-2026-bill-connelly-james-tyler-analysis-best-world-cups-ever",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691518_1296x729_16-9.jpg",
+      "byline": "Bill Connelly and James Tyler",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49447628",
+      "headline": "Will Pochettino leave USMNT role?",
+      "description": "Will Pochettino leave USMNT role?",
+      "published": "2026-07-25T17:05:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49440737",
+      "headline": "What would England's team look like if Pep Guardiola was manager?",
+      "description": "What would England's team look like if Pep Guardiola was manager?",
+      "published": "2026-07-24T16:41:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [],
+      "score": 10
     }
   ]
 }
