@@ -1,14 +1,61 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-30T06:13:47.735Z",
+  "updated": "2026-07-30T09:04:29.099Z",
   "counts": {
-    "offfield": 10,
-    "news": 33,
-    "preview": 1,
-    "injury": 3,
-    "celebration": 1
+    "celebration": 2,
+    "news": 28,
+    "offfield": 13,
+    "preview": 2,
+    "injury": 3
   },
   "items": [
+    {
+      "id": "49470517",
+      "headline": "Have World Cup withdrawal? Enjoy the greatest kits in the tournament's history",
+      "description": "The 2026 World Cup has come and gone, so after all 48 teams' kits on the pitch, how many of them made ESPN's list of the best in competition history?",
+      "published": "2026-07-30T08:33:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49470517/have-fifa-world-cup-withdrawal-enjoy-greatest-football-kits-shirts-soccer-jerseys-tournament-history",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695261_1295x518_5-2.jpg",
+      "byline": "Ryan Rosenblatt",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England",
+        "USA"
+      ],
+      "players": [],
+      "score": 206
+    },
+    {
+      "id": "49486562",
+      "headline": "Infantino: FIFA proposal a golden opportunity for development",
+      "description": "Infantino: FIFA proposal a golden opportunity for development",
+      "published": "2026-07-30T08:13:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49486562/fifa-proposal-golden-opportunity-development",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_Infantino_FIFA_proposal_a_golden_opportunity_for_development/dm_260730_Infantino_FIFA_proposal_a_golden_opportunity_for_development.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
+    {
+      "id": "49484906",
+      "headline": "Australian players slam FIFA plan as Football Australia waits for more info",
+      "description": "Football Australia says it was unaware of FIFA's plans to sell stakes in tournaments such as the FIFA World Cup, but has confirmed it will not form a position until further information and consultation are provided.",
+      "published": "2026-07-30T08:58:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49484906/australian-players-slam-fifa-plan-football-australia-waits-more-info",
+      "image": "https://a.espncdn.com/photo/2024/0808/r1370173_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [],
+      "score": 190
+    },
     {
       "id": "49484972",
       "headline": "USSF president: Pochettino new deal talks 'going well,' announcement coming soon",
@@ -23,23 +70,21 @@
         "USA"
       ],
       "players": [],
-      "score": 207
+      "score": 183
     },
     {
-      "id": "49484906",
-      "headline": "Australian players slam FIFA plan as Football Australia waits for more info",
-      "description": "Football Australia says it was unaware of FIFA's plans to sell stakes in tournaments such as the FIFA World Cup, but has confirmed it will not form a position until further information and consultation are provided.",
-      "published": "2026-07-30T02:54:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49484906/australian-players-slam-fifa-plan-football-australia-waits-more-info",
-      "image": "https://a.espncdn.com/photo/2024/0808/r1370173_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
+      "id": "49478527",
+      "headline": "World Cup for sale? FIFA's controversial plans explained",
+      "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
+      "published": "2026-07-30T08:15:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
       "players": [],
-      "score": 205
+      "score": 167
     },
     {
       "id": "49483498",
@@ -55,21 +100,138 @@
         "Brazil"
       ],
       "players": [],
-      "score": 179
+      "score": 155
     },
     {
-      "id": "49478527",
-      "headline": "World Cup for sale? FIFA's controversial plans explained",
-      "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
-      "published": "2026-07-29T20:47:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
+      "id": "49486764",
+      "headline": "WSL fixtures: London City's Alexia Putellas to make WSL debut against Man United",
+      "description": "London City Lionesses' marguee signing Alexia Putellas will begin her time in the WSL with a clash against Manchester United in the opening fixture of the 2026-27 season.",
+      "published": "2026-07-30T09:00:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49486764/wsl-fixtures-london-city-alexia-putellas-make-wsl-debut-man-united",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695485_1296x729_16-9.jpg",
+      "byline": "Emily Keogh",
       "kind": "offfield",
       "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 174
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49486441",
+      "headline": "Transfer rumors, news: Real Madrid confident of Rodri signing",
+      "description": "Spain's World Cup-winning captain Rodri is moving closer to joining Real Madrid from Manchester City this summer. Transfer Talk has the latest.",
+      "published": "2026-07-30T08:13:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49486441/transfer-rumors-news-real-madrid-confident-signing-spain-captain-manchester-city-midfielder-rodri",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695477_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway",
+        "Spain"
+      ],
+      "players": [
+        "Rodri",
+        "Erling Haaland"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49486675",
+      "headline": "Singapore to go for the win against Vietnam in crunch ASEAN Championship clash",
+      "description": "Singapore will be going for the win against Vietnam -- even though they might ultimately be satisfied with a draw.",
+      "published": "2026-07-30T08:42:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49486675/singapore-go-win-vietnam-crunch-asean-championship-clash",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695481_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Ilhan Fandi",
+        "Erling Haaland"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49486488",
+      "headline": "Orlando Pirates vs. Milford FC - Kick-off time, team news, how to watch the defending PSL champs",
+      "description": "Orlando Pirates will begin their South African Premiership title defence at home to newly-promoted Milford FC at Orlando Amstel Arena on Saturday.",
+      "published": "2026-07-30T08:12:18Z",
+      "url": "https://www.espn.com/espn/story/_/id/49486488/orlando-pirates-vs-milford-fc-kick-team-news-how-watch-defending-psl-champs",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695479_1158x651_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Norway",
+        "South Africa"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49486537",
+      "headline": "Eddie Howe set to leave Newcastle - sources",
+      "description": "Eddie Howe is set to leave his role as Newcastle head coach, sources have told ESPN, bringing an end to his five years in charge.",
+      "published": "2026-07-30T09:02:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49486537/eddie-howe-set-leave-newcastle-sources",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695482_1296x518_5-2.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49163915",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "published": "2026-07-30T08:46:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49477597",
+      "headline": "Transfer rumors, news: Tottenham eye move for Man City's Savinho",
+      "description": "Tottenham are reportedly still keen on a move for Manchester City's Savinho. Transfer Talk has the latest.",
+      "published": "2026-07-29T23:43:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49477597/transfer-rumors-news-liverpool-paris-saint-germain-bradley-barcola-personal-terms",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695346_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Savinho",
+        "Patrick Beach"
+      ],
+      "score": 131
     },
     {
       "id": "49480730",
@@ -86,21 +248,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 153
-    },
-    {
-      "id": "49478198",
-      "headline": "Gianni Infantino tells FIFA members to agree to World Cup plan or miss $40m in funding",
-      "description": "FIFA president Gianni Infantino set a Sept. 19 deadline on Wednesday for the 211 member federations to approve his proposed private investment plan, which would give each association access to up to $40 million in funding.",
-      "published": "2026-07-29T21:46:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49478198/gianni-infantino-tells-fifa-members-agree-world-cup-plan-miss-40m-funding-report",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695066_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 143
+      "score": 129
     },
     {
       "id": "49481540",
@@ -113,13 +261,13 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Norway"
+        "Australia"
       ],
       "players": [
         "Danny Imray",
-        "Erling Haaland"
+        "Patrick Beach"
       ],
-      "score": 128
+      "score": 123
     },
     {
       "id": "49481047",
@@ -132,30 +280,31 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Norway",
+        "Australia",
         "Saudi Arabia"
       ],
       "players": [
-        "Erling Haaland"
+        "Patrick Beach"
       ],
-      "score": 128
+      "score": 123
     },
     {
-      "id": "49470625",
-      "headline": "How college teams embraced World Cup fever in 2026",
-      "description": "Messi at Auburn. Germany at Wake Forest. Kansas' love affair with Algeria. Colleges got into the World Cup and also profited from it.",
-      "published": "2026-07-29T14:49:52Z",
-      "url": "https://www.espn.com/college-football/story/_/id/49470625/2026-world-cup-college-teams-embraced-international-teams",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694777_608x342_16-9.jpg",
-      "byline": "Eli Lederman",
+      "id": "49484465",
+      "headline": "Tottenham defeat Sydney FC on penalties at Sydney Super Cup",
+      "description": "Mathys Tel nets a stunning free kick for Spurs before Tottenham hold their nerve in a shootout to claim a 1-1 (4-2) victory against a resilient Sydney FC.",
+      "published": "2026-07-30T00:54:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/49484465/tottenham-defeat-sydney-fc-penalties-sydney-super-cup",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0729/dm_260729_SOC_Highlight_Tottenham_defeat_Sydney_FC_on_penalties_at_Sydney_Super_Cup_2026730_AUS_ONLY/dm_260729_SOC_Highlight_Tottenham_defeat_Sydney_FC_on_penalties_at_Sydney_Super_Cup_2026730_AUS_ONLY.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Germany",
-        "Algeria"
+        "Australia"
       ],
-      "players": [],
-      "score": 127
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 121
     },
     {
       "id": "49463627",
@@ -184,25 +333,40 @@
         "Mexico"
       ],
       "players": [],
-      "score": 123
+      "score": 119
     },
     {
-      "id": "49480773",
-      "headline": "How will Man City lineup if Rodri leaves for Real Madrid?",
-      "description": "How will Man City lineup if Rodri leaves for Real Madrid?",
-      "published": "2026-07-29T16:47:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49480773/how-man-city-lineup-rodri-leaves-real-madrid",
-      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_How_will_Man_City_lineup_if_Rodri_leaves_for_Real_Madrid3F__GLOBAL_2026-07-29/dm_260729_COM_SOC_Analysis_How_will_Man_City_lineup_if_Rodri_leaves_for_Real_Madrid3F__GLOBAL_2026-07-29.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49483652",
+      "headline": "Don Garber: MLS seizes World Cup momentum to usher in new era",
+      "description": "After the success of the World Cup in the United States, Major League Soccer is preparing for a new era that includes a transition to a summer-to-spring calendar and the departure of longtime Commissioner Don Garber.",
+      "published": "2026-07-29T23:48:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49483652/commissioner-don-garber-mls-seizes-world-cup-momentum-usher-new-era",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695349_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Norway"
+        "Australia",
+        "USA"
       ],
       "players": [
-        "Erling Haaland"
+        "Patrick Beach"
       ],
-      "score": 122
+      "score": 119
+    },
+    {
+      "id": "49478198",
+      "headline": "Gianni Infantino tells FIFA members to agree to World Cup plan or miss $40m in funding",
+      "description": "FIFA president Gianni Infantino set a Sept. 19 deadline on Wednesday for the 211 member federations to approve his proposed private investment plan, which would give each association access to up to $40 million in funding.",
+      "published": "2026-07-29T21:46:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49478198/gianni-infantino-tells-fifa-members-agree-world-cup-plan-miss-40m-funding-report",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695066_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 119
     },
     {
       "id": "49482515",
@@ -215,15 +379,15 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Norway",
+        "Australia",
         "Argentina",
         "Spain"
       ],
       "players": [
         "Lionel Messi",
-        "Erling Haaland"
+        "Patrick Beach"
       ],
-      "score": 120
+      "score": 116
     },
     {
       "id": "49460730",
@@ -239,39 +403,24 @@
         "France"
       ],
       "players": [],
-      "score": 114
+      "score": 110
     },
     {
-      "id": "49480746",
-      "headline": "Who will be the young breakout Premier League star of the season?",
-      "description": "Who will be the young breakout Premier League star of the season?",
-      "published": "2026-07-29T16:46:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49480746/who-young-breakout-premier-league-star-season",
-      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-.jpg",
-      "byline": null,
+      "id": "49470625",
+      "headline": "How college teams embraced World Cup fever in 2026",
+      "description": "Messi at Auburn. Germany at Wake Forest. Kansas' love affair with Algeria. Colleges got into the World Cup and also profited from it.",
+      "published": "2026-07-29T14:49:52Z",
+      "url": "https://www.espn.com/college-football/story/_/id/49470625/2026-world-cup-college-teams-embraced-international-teams",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694777_608x342_16-9.jpg",
+      "byline": "Eli Lederman",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Norway"
+        "Germany",
+        "Algeria"
       ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 113
-    },
-    {
-      "id": "49477957",
-      "headline": "FA, Concacaf 'deeply concerned' by Gianni Infantino, FIFA's World Cup plan",
-      "description": "The Football Association and Concacaf have both said they are \"deeply concerned\" by FIFA's proposed private investment plan",
-      "published": "2026-07-29T09:22:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49477957/fa-concacaf-deeply-concerned-gianni-infantino-fifa-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670926_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49466177",
@@ -293,7 +442,21 @@
         "Ajdin Hrustic",
         "Tete Yengi"
       ],
-      "score": 104
+      "score": 100
+    },
+    {
+      "id": "49477957",
+      "headline": "FA, Concacaf 'deeply concerned' by Gianni Infantino, FIFA's World Cup plan",
+      "description": "The Football Association and Concacaf have both said they are \"deeply concerned\" by FIFA's proposed private investment plan",
+      "published": "2026-07-29T09:22:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49477957/fa-concacaf-deeply-concerned-gianni-infantino-fifa-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670926_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 90
     },
     {
       "id": "49476184",
@@ -311,7 +474,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 93
+      "score": 89
     },
     {
       "id": "49473099",
@@ -325,7 +488,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 87
+      "score": 83
     },
     {
       "id": "49470028",
@@ -339,7 +502,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 81
+      "score": 77
     },
     {
       "id": "49468627",
@@ -358,7 +521,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 81
+      "score": 77
     },
     {
       "id": "49471131",
@@ -376,7 +539,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 77
+      "score": 73
     },
     {
       "id": "49471030",
@@ -394,7 +557,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 77
+      "score": 73
     },
     {
       "id": "49463728",
@@ -410,7 +573,7 @@
         "USA"
       ],
       "players": [],
-      "score": 76
+      "score": 72
     },
     {
       "id": "49472014",
@@ -424,7 +587,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 72
+      "score": 68
     },
     {
       "id": "49468665",
@@ -440,7 +603,7 @@
         "USA"
       ],
       "players": [],
-      "score": 70
+      "score": 66
     },
     {
       "id": "49461196",
@@ -457,7 +620,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 64
+      "score": 59
     },
     {
       "id": "49468236",
@@ -473,7 +636,7 @@
         "France"
       ],
       "players": [],
-      "score": 63
+      "score": 59
     },
     {
       "id": "49468267",
@@ -487,7 +650,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 55
     },
     {
       "id": "49416547",
@@ -501,7 +664,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 54
+      "score": 50
     },
     {
       "id": "49465323",
@@ -517,7 +680,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 54
+      "score": 49
     },
     {
       "id": "49441066",
@@ -533,7 +696,7 @@
         "USA"
       ],
       "players": [],
-      "score": 49
+      "score": 45
     },
     {
       "id": "49460279",
@@ -547,7 +710,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 37
+      "score": 33
     },
     {
       "id": "49461219",
@@ -564,7 +727,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 29
+      "score": 25
     },
     {
       "id": "49425954",
@@ -608,20 +771,6 @@
       "score": 24
     },
     {
-      "id": "49460832",
-      "headline": "Slavko Vincic retires after refereeing World Cup final",
-      "description": "World Cup final referee Slavko Vincic has retired just a week on from the tournament's conclusion.",
-      "published": "2026-07-27T09:06:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460832/slavko-vincic-world-cup-final-referee-argentina-spain-enzo-fernandez-red-card",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694212_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 22
-    },
-    {
       "id": "49448250",
       "headline": "President: Vozinha to sign for Colo Colo after stellar World Cup",
       "description": "Cape Verde goalkeeper Vozinha has signed a contract with Colo Colo, the South American country's biggest soccer team, its president said.",
@@ -654,6 +803,20 @@
       "score": 22
     },
     {
+      "id": "49460832",
+      "headline": "Slavko Vincic retires after refereeing World Cup final",
+      "description": "World Cup final referee Slavko Vincic has retired just a week on from the tournament's conclusion.",
+      "published": "2026-07-27T09:06:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49460832/slavko-vincic-world-cup-final-referee-argentina-spain-enzo-fernandez-red-card",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694212_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 18
+    },
+    {
       "id": "49433484",
       "headline": "How Spain won the World Cup without a marquee goal scorer or elite defense",
       "description": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
@@ -679,152 +842,6 @@
         "Martín Zubimendi"
       ],
       "score": 13
-    },
-    {
-      "id": "49431378",
-      "headline": "CAF support Gianni Infantino's FIFA bid because of his 'loyalty' to Africa - Patrice Motsepe",
-      "description": "CAF president Patrice Motsepe threw his support behind FIFA president Gianni Infantino on Tuesday, despite a tumultuous FIFA World Cup that has sparked calls for his resignation.",
-      "published": "2026-07-23T12:02:12Z",
-      "url": "https://www.espn.com/espn/story/_/id/49431378/caf-support-gianni-infantino-fifa-bid-loyalty-africa-patrice-motsepe",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "South Africa"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49441430",
-      "headline": "Ranking every FIFA World Cup from 1930 to 2026",
-      "description": "Spain's romp to victory in 2026 capped a brilliant World Cup. But where did this summer rank in the all-time record?",
-      "published": "2026-07-26T22:01:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49441430/world-cup-ranking-2026-bill-connelly-james-tyler-analysis-best-world-cups-ever",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691518_1296x729_16-9.jpg",
-      "byline": "Bill Connelly and James Tyler",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49447628",
-      "headline": "Will Pochettino leave USMNT role?",
-      "description": "Will Pochettino leave USMNT role?",
-      "published": "2026-07-25T17:05:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49440737",
-      "headline": "What would England's team look like if Pep Guardiola was manager?",
-      "description": "What would England's team look like if Pep Guardiola was manager?",
-      "published": "2026-07-24T16:41:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49438479",
-      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "published": "2026-07-24T14:31:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49258815",
-      "headline": "Jürgen Klopp named Germany head coach after Julian Nagelsmann departure",
-      "description": "Jürgen Klopp has been named Germany's head coach, following the national team's disappointing World Cup and the resignation of Julian Nagelsmann.",
-      "published": "2026-07-24T12:52:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49258815/jurgen-klopp-germany-manager-world-cup-julian-nagalesmann-resigns",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693111_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49409382",
-      "headline": "Forget whether Germany need Klopp. Does Klopp need Germany?",
-      "description": "Jürgen Klopp ended his nine-year spell as Liverpool manager by saying he was too tired to carry on. Now, as Germany boss, is he game to coach again?",
-      "published": "2026-07-24T11:39:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693112_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49438196",
-      "headline": "The moment Jürgen Klopp was announced as new Germany head coach",
-      "description": "The moment Jürgen Klopp was announced as new Germany head coach",
-      "published": "2026-07-24T10:17:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49438196/the-moment-jurgen-klopp-was-announced-new-germany-head-coach",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL/dm_260724_COM_SOC_News_The_moment_Jurgen_Klopp_was_announced_as_new_Germany_head_coach_20260724_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49435363",
-      "headline": "Colombia backs Néstor Lorenzo with extension after World Cup",
-      "description": "Néstor Lorenzo will continue as Colombia coach after the national team conceded only one goal in five games at the recent FIFA World Cup.",
-      "published": "2026-07-23T21:43:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49435363/colombia-backs-nestor-lorenzo-extension-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692953_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Colombia"
-      ],
-      "players": [],
-      "score": 10
     }
   ]
 }
