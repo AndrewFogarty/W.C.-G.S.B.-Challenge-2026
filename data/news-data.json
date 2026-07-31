@@ -1,14 +1,32 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-31T19:54:55.452Z",
+  "updated": "2026-07-31T21:05:53.538Z",
   "counts": {
-    "offfield": 20,
-    "news": 23,
-    "injury": 2,
-    "preview": 2,
-    "celebration": 1
+    "offfield": 15,
+    "news": 28,
+    "preview": 1,
+    "celebration": 2,
+    "injury": 2
   },
   "items": [
+    {
+      "id": "49496364",
+      "headline": "Infantino's World Cup battle risks undermining years of progress in women's soccer",
+      "description": "As FIFA doubles down on its controversial World Cup plans and countries threaten to boycott, the 2027 Women's World Cup could be the first major tournament affected. That's a problem for women's soccer.",
+      "published": "2026-07-31T20:52:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49496364/fifa-president-gianni-infantino-world-cup-plan-uefa-boycott-womens-soccer-threat",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695910_1296x729_16-9.jpg",
+      "byline": "Emily Keogh",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "Spain",
+        "USA"
+      ],
+      "players": [],
+      "score": 222
+    },
     {
       "id": "49495214",
       "headline": "FIFA exec resigns, second exec says Infantino deceived staff over plan",
@@ -23,7 +41,7 @@
         "USA"
       ],
       "players": [],
-      "score": 220
+      "score": 208
     },
     {
       "id": "49497803",
@@ -41,7 +59,7 @@
       "players": [
         "Yan Diomande"
       ],
-      "score": 212
+      "score": 200
     },
     {
       "id": "49497531",
@@ -55,7 +73,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 181
+      "score": 170
     },
     {
       "id": "49496746",
@@ -69,7 +87,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 171
+      "score": 160
     },
     {
       "id": "49497087",
@@ -83,37 +101,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 170
-    },
-    {
-      "id": "49495429",
-      "headline": "SAFA confirm Bafana boss Hugo Broos exit as South Africa men's head coach",
-      "description": "South African Football Association (SAFA) president Danny Jordaan confirmed the departure of Bafana Bafana head coach Hugo Broos on Friday, the final day of his contract, after five years.",
-      "published": "2026-07-31T11:00:20Z",
-      "url": "https://www.espn.com/espn/story/_/id/49495429/safa-confirm-bafana-boss-hugo-broos-exit-south-africa-men-head-coach",
-      "image": "https://a.espncdn.com/photo/2026/0531/r1666262_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "South Africa"
-      ],
-      "players": [],
-      "score": 149
-    },
-    {
-      "id": "49495670",
-      "headline": "FIFA advances plans for 64-team World Cup review despite private investment backlash",
-      "description": "FIFA has started a consultation process over an expansion of the men's World Cup to 64 teams, with documents seen by ESPN aiming for a decision by Aug. 14.",
-      "published": "2026-07-31T12:52:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49495670/fifa-64-team-world-cup-review-gianni-infantino-backlash",
-      "image": "https://a.espncdn.com/photo/2025/1201/r1583334_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 145
+      "score": 158
     },
     {
       "id": "49495707",
@@ -132,7 +120,7 @@
         "Jesse Bisiwu",
         "Yan Diomande"
       ],
-      "score": 143
+      "score": 141
     },
     {
       "id": "49494536",
@@ -152,63 +140,6 @@
         "Bruno Guimarães",
         "Yan Diomande"
       ],
-      "score": 142
-    },
-    {
-      "id": "49497161",
-      "headline": "Gotham's Emily Sonnett ruptures patellar tendon, out for season",
-      "description": "Gotham FC defender Emily Sonnett will miss the remainder of the NWSL season after having surgery for a ruptured patellar tendon in her left knee, the club announced on Friday.",
-      "published": "2026-07-31T16:22:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49497161/gotham-emily-sonnett-ruptures-patellar-tendon-season",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679347_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Australia",
-        "USA"
-      ],
-      "players": [
-        "Emily Sonnett",
-        "Tete Yengi"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49497099",
-      "headline": "Chelsea and Ukraine's Mykhailo Mudryk free to return to playing after doping ban resolved",
-      "description": "Chelsea winger Mykhailo Mudryk can return to playing immediately after the Football Association and the World Anti-Doping Agency \"resolved his appeal\" against a ban for failing a doping test.",
-      "published": "2026-07-31T16:44:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49497099/mykhailo-mudryk-doping-ban-chelsea-ukraine",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695980_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Tete Yengi"
-      ],
-      "score": 140
-    },
-    {
-      "id": "49497322",
-      "headline": "Real Madrid open to Vinícius exit, won't increase offer - sources",
-      "description": "Real Madrid are open to the possibility of Vinícius Júnior leaving the club if there's no agreement on a new contract for the player, sources have told ESPN, with Madrid having no plans to increase their last renewal offer.",
-      "published": "2026-07-31T16:36:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49497322/real-madrid-open-vinicius-exit-not-increase-offer-amid-arsenal-interest-sources",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653203_1296x729_16-9.jpg",
-      "byline": "Rodra and Gustavo Hofman",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Vinícius Júnior",
-        "Tete Yengi"
-      ],
       "score": 140
     },
     {
@@ -227,141 +158,37 @@
       "players": [
         "Yan Diomande"
       ],
-      "score": 139
+      "score": 137
     },
     {
-      "id": "49497116",
-      "headline": "Chelsea complete transfer of Barcelona teen Guilia Dragoni",
-      "description": "Chelsea have completed the signing of Guilia Dragoni from Barcelona.",
-      "published": "2026-07-31T16:13:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49497116/chelsea-complete-transfer-barcelona-teen-guilia-dragoni",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695978_1296x729_16-9.jpg",
-      "byline": "Emily Keogh",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Giulia Dragoni",
-        "Tete Yengi"
-      ],
-      "score": 139
-    },
-    {
-      "id": "48991002",
-      "headline": "Summer transfer window: Grading big signings in women's soccer",
-      "description": "The women's transfer window is open for the summer. Here are the big deals and how we rated them.",
-      "published": "2026-07-31T16:04:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48991002/summer-transfer-window-grading-big-signings-womens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695970_1296x729_16-9.jpg",
-      "byline": "Emily Keogh and Yash Thakur",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Tete Yengi"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49497249",
-      "headline": "South Africa vs. Ivory Coast as it happens: Live updates as Bambanani Mbane starts for Banyana",
-      "description": "Banyana Banyana face Ivory Coast in the Women's Africa Cup of Nations after a losing start against Tanzania.",
-      "published": "2026-07-31T16:35:13Z",
-      "url": "https://www.espn.com/espn/story/_/id/49497249/live-updates-bambanani-mbane-starts-banyana",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695999_1296x729_16-9.jpg",
+      "id": "49495429",
+      "headline": "SAFA confirm Bafana boss Hugo Broos exit as South Africa men's head coach",
+      "description": "South African Football Association (SAFA) president Danny Jordaan confirmed the departure of Bafana Bafana head coach Hugo Broos on Friday, the final day of his contract, after five years.",
+      "published": "2026-07-31T11:00:20Z",
+      "url": "https://www.espn.com/espn/story/_/id/49495429/safa-confirm-bafana-boss-hugo-broos-exit-south-africa-men-head-coach",
+      "image": "https://a.espncdn.com/photo/2026/0531/r1666262_1296x729_16-9.jpg",
       "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Australia",
-        "South Africa",
-        "Côte d'Ivoire"
+        "South Africa"
       ],
-      "players": [
-        "Bambanani Mbane",
-        "Rosemonde Kouassi",
-        "Thembi Kgatlana",
-        "Tete Yengi"
-      ],
+      "players": [],
       "score": 137
     },
     {
-      "id": "49496346",
-      "headline": "Chelsea fined £10m, but avoid points deduction for breaching FA agent rules",
-      "description": "Chelsea have been fined £10 million ($13m) and handed a suspended two-window transfer ban by the Football Association after admitting 74 breaches of its agent regulations.",
-      "published": "2026-07-31T14:42:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49496346/chelsea-fined-10m-given-suspended-transfer-ban-breaching-agent-rules",
-      "image": "https://a.espncdn.com/photo/2022/0317/r987531_2_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Casemiro"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49496659",
-      "headline": "How will Chelsea's ban affect the club moving forward?",
-      "description": "How will Chelsea's ban affect the club moving forward?",
-      "published": "2026-07-31T14:39:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/49496659/how-chelsea-ban-affect-club-moving-forward",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_How_will_ChelseaE28099s_ban_affect_the_club_moving_forward3F_GLOBAL_2026-07-31/dm_260731_COM_SOC_Analysis_How_will_ChelseaE28099s_ban_affect_the_club_moving_forward3F_GLOBAL_2026-07-31.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Casemiro"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49496505",
-      "headline": "Man City want Ayyoub Bouaddi regardless of Rodri's future - sources",
-      "description": "Manchester City will push ahead with a deal with Ayyoub Bouaddi regardless of doubts about Rodri's future at the Etihad Stadium, sources have told ESPN.",
-      "published": "2026-07-31T14:04:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49496505/man-city-ayyoub-bouaddi-transfer-news-rodri-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695938_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Rodri",
-        "Ayyoub Bouaddi",
-        "Casemiro"
-      ],
-      "score": 136
-    },
-    {
-      "id": "49496330",
-      "headline": "John Stones 'thrilled' to be living dream of playing abroad following Inter Milan move",
-      "description": "John Stones has said he is thrilled to have joined Inter Milan and be fulfilling a lifelong dream of playing abroad after a decade of success with Manchester City.",
-      "published": "2026-07-31T14:02:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49496330/john-stones-inter-milan-italy-man-city-transfers-serie-a",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695927_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Casemiro"
-      ],
-      "score": 136
+      "id": "49495670",
+      "headline": "FIFA advances plans for 64-team World Cup review despite private investment backlash",
+      "description": "FIFA has started a consultation process over an expansion of the men's World Cup to 64 teams, with documents seen by ESPN aiming for a decision by Aug. 14.",
+      "published": "2026-07-31T12:52:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49495670/fifa-64-team-world-cup-review-gianni-infantino-backlash",
+      "image": "https://a.espncdn.com/photo/2025/1201/r1583334_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 134
     },
     {
       "id": "49496735",
@@ -379,7 +206,7 @@
       "players": [
         "Yan Diomande"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49497529",
@@ -398,96 +225,7 @@
         "Jun Endo",
         "Yan Diomande"
       ],
-      "score": 129
-    },
-    {
-      "id": "49496488",
-      "headline": "J.J. Watt stars as 'Milk Man' to deliver Burnley's new kit",
-      "description": "J.J. Watt has boosted Burnley's profile since he became a minority shareholder in the English soccer team, but even he can't have imagined he'd end up delivering milk around the town.",
-      "published": "2026-07-31T16:06:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49496488/nfl-great-jj-watt-lives-milk-man-name-delivers-burnley-new-kit",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695903_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Tete Yengi"
-      ],
       "score": 127
-    },
-    {
-      "id": "49497093",
-      "headline": "Can USWNT win the 2027 World Cup under Emma Hayes?",
-      "description": "Can USWNT win the 2027 World Cup under Emma Hayes?",
-      "published": "2026-07-31T15:42:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/49497093/can-uswnt-win-2027-world-cup-emma-hayes",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Can_USWNT_win_the_2027_World_Cup_under_Emma_Hayes3F_GLOBAL_2026-07-31/dm_260731_COM_SOC_Analysis_Can_USWNT_win_the_2027_World_Cup_under_Emma_Hayes3F_GLOBAL_2026-07-31.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "USA"
-      ],
-      "players": [
-        "Tete Yengi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49496627",
-      "headline": "No date yet set for Messi's return to Inter Miami action",
-      "description": "Inter Miami coach Guillermo Hoyos said he will be having conversations about Lionel Messi's return to action following his 2026 World Cup participation with Argentina.",
-      "published": "2026-07-31T14:44:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49496627/no-date-set-lionel-messi-inter-miami-return-play-coach",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695944_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Casemiro"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49496128",
-      "headline": "Newcastle head to Spain amid Eddie Howe, Matthias Jaissle uncertainty",
-      "description": "Newcastle players headed to a preseason training camp in Spain on Friday amid uncertainty over their coach less than a month before the start of the Premier League season.",
-      "published": "2026-07-31T13:00:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49496128/newcastle-head-spain-amid-eddie-howe-matthias-jaissle-uncertainty",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695923_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Casemiro"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49495287",
-      "headline": "Ogden: Infantino's role as FIFA president is becoming untenable",
-      "description": "Ogden: Infantino's role as FIFA president is becoming untenable",
-      "published": "2026-07-31T10:33:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/49495287/infantino-role-fifa-president-becoming-untenable",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Ogden_Infantinos_role_as_FIFA_president_is_becoming_untenable_20260731_GLOBAL/dm_260731_COM_SOC_Analysis_Ogden_Infantinos_role_as_FIFA_president_is_becoming_untenable_20260731_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 122
     },
     {
       "id": "49488584",
@@ -501,7 +239,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 122
+      "score": 120
     },
     {
       "id": "49494953",
@@ -515,7 +253,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 122
+      "score": 120
     },
     {
       "id": "49494854",
@@ -535,7 +273,7 @@
         "Casemiro",
         "Lionel Messi"
       ],
-      "score": 116
+      "score": 114
     },
     {
       "id": "49493858",
@@ -549,7 +287,21 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 112
+      "score": 110
+    },
+    {
+      "id": "49495287",
+      "headline": "Ogden: Infantino's role as FIFA president is becoming untenable",
+      "description": "Ogden: Infantino's role as FIFA president is becoming untenable",
+      "published": "2026-07-31T10:33:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/49495287/infantino-role-fifa-president-becoming-untenable",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Ogden_Infantinos_role_as_FIFA_president_is_becoming_untenable_20260731_GLOBAL/dm_260731_COM_SOC_Analysis_Ogden_Infantinos_role_as_FIFA_president_is_becoming_untenable_20260731_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 110
     },
     {
       "id": "49478527",
@@ -563,7 +315,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 85
+      "score": 83
     },
     {
       "id": "49470517",
@@ -580,7 +332,7 @@
         "USA"
       ],
       "players": [],
-      "score": 84
+      "score": 82
     },
     {
       "id": "49486493",
@@ -594,7 +346,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 83
+      "score": 81
     },
     {
       "id": "49484972",
@@ -610,7 +362,7 @@
         "USA"
       ],
       "players": [],
-      "score": 81
+      "score": 79
     },
     {
       "id": "49486943",
@@ -627,7 +379,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 79
+      "score": 77
     },
     {
       "id": "49484906",
@@ -643,7 +395,7 @@
         "Australia"
       ],
       "players": [],
-      "score": 78
+      "score": 76
     },
     {
       "id": "49486562",
@@ -657,7 +409,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 72
+      "score": 71
     },
     {
       "id": "49463627",
@@ -686,7 +438,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49483498",
@@ -702,7 +454,7 @@
         "Brazil"
       ],
       "players": [],
-      "score": 63
+      "score": 61
     },
     {
       "id": "49460730",
@@ -718,7 +470,7 @@
         "France"
       ],
       "players": [],
-      "score": 58
+      "score": 56
     },
     {
       "id": "49478198",
@@ -732,7 +484,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49480730",
@@ -749,7 +501,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49470625",
@@ -766,7 +518,7 @@
         "Algeria"
       ],
       "players": [],
-      "score": 50
+      "score": 49
     },
     {
       "id": "49466177",
@@ -788,7 +540,7 @@
         "Ajdin Hrustic",
         "Tete Yengi"
       ],
-      "score": 47
+      "score": 45
     },
     {
       "id": "49477957",
@@ -802,7 +554,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 38
+      "score": 36
     },
     {
       "id": "49476184",
@@ -820,7 +572,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 36
+      "score": 34
     },
     {
       "id": "49473099",
@@ -834,7 +586,220 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 31
+      "score": 29
+    },
+    {
+      "id": "49468627",
+      "headline": "IFAB: VAR process of red card for Switzerland's Embolo was wrong",
+      "description": "IFAB clarified its guidance to referees which confirmed Switzerland forward Breel Embolo should not have been sent off in the World Cup quarterfinals against Argentina.",
+      "published": "2026-07-28T11:35:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468627/ifab-var-process-red-card-switzerland-embolo-vs-argentina-wrong",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688116_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Switzerland",
+        "Argentina"
+      ],
+      "players": [
+        "Breel Embolo"
+      ],
+      "score": 25
+    },
+    {
+      "id": "49441066",
+      "headline": "Would the U.S. actually win the World Cup if its best athletes played soccer?",
+      "description": "Every time the USMNT gets knocked out of a World Cup, the question comes up: What if our best U.S. athletes played soccer? Here's why that flight of fancy would never actually work out.",
+      "published": "2026-07-27T14:50:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49441066/usmnt-world-cup-nba-nfl-mlb-bill-barnwell",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693536_1296x729_16-9.jpg",
+      "byline": "Bill Barnwell",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 24
+    },
+    {
+      "id": "49470028",
+      "headline": "UEFA to discuss World Cup boycott over FIFA private investment plan - sources",
+      "description": "UEFA is set to hold an emergency meeting this week, sources told ESPN, to discuss plans, including a potential World Cup boycott, to oppose a FIFA proposal to raise $20 billion from a sale of equity to outside investors.",
+      "published": "2026-07-29T00:06:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 23
+    },
+    {
+      "id": "49448250",
+      "headline": "President: Vozinha to sign for Colo Colo after stellar World Cup",
+      "description": "Cape Verde goalkeeper Vozinha has signed a contract with Colo Colo, the South American country's biggest soccer team, its president said.",
+      "published": "2026-07-25T20:13:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49448250/vozinha-sign-colo-colo-stellar-world-cup-president",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673689_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 22
+    },
+    {
+      "id": "49471131",
+      "headline": "Will Mourinho keep Endrick at Real Madrid?",
+      "description": "Will Mourinho keep Endrick at Real Madrid?",
+      "published": "2026-07-28T17:11:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49471131/will-mourinho-keep-endrick-real-madrid",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Endrick"
+      ],
+      "score": 19
+    },
+    {
+      "id": "49471030",
+      "headline": "Laurens: Zidane's attacking style of football will benefit France",
+      "description": "Laurens: Zidane's attacking style of football will benefit France",
+      "published": "2026-07-28T17:05:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/49471030/zidane-attacking-style-football-benefit-france",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Laurens3A_ZidaneE28099s_attacking_style_of_football_will_benefit_France_GLOBAL_2026-07-/dm_260728_COM_SOC_Analysis_Laurens3A_ZidaneE28099s_attacking_style_of_football_will_benefit_France_GLOBAL_2026-07-.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 19
+    },
+    {
+      "id": "49463728",
+      "headline": "What advanced stats say about every USMNT World Cup game since 1990",
+      "description": "The U.S. men's latest World Cup exit was the latest in a long string of disappointments ... or was it? Let's look at the numbers behind all their tournament appearances since 1990 to get the real story.",
+      "published": "2026-07-28T18:26:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49463728/what-advanced-stats-say-every-usmnt-world-cup-game-1990",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694394_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 18
+    },
+    {
+      "id": "49465323",
+      "headline": "Lopes Cabral stunner for Cape Verde voted best World Cup goal",
+      "description": "Cape Verde made more World Cup history on Monday when Sidny Lopes Cabral won the public vote for goal of the tournament.",
+      "published": "2026-07-27T22:42:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49465323/lopes-cabral-stunner-cape-verde-voted-best-world-cup-goal",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684087_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 17
+    },
+    {
+      "id": "49472014",
+      "headline": "Ogden explains FIFA's plan to sell stakes in the World Cup",
+      "description": "Ogden explains FIFA's plan to sell stakes in the World Cup",
+      "published": "2026-07-28T18:28:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49472014/ogden-explains-fifa-plan-sell-stakes-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Ogden_explains_FIFAs_plan_to_sell_stakes_in_the_World_Cup_GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Ogden_explains_FIFAs_plan_to_sell_stakes_in_the_World_Cup_GLOBAL_2026-07-28.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 14
+    },
+    {
+      "id": "49468665",
+      "headline": "Can U.S. Soccer afford to wait for USMNT coach Pochettino?",
+      "description": "Is Mauricio Pochettino still coach of the United States men's national team? That's the lingering question for U.S. Soccer that needs answering soon.",
+      "published": "2026-07-28T14:23:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468665/united-states-usmnt-mauricio-pochettino-future-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685713_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 12
+    },
+    {
+      "id": "49461196",
+      "headline": "Don't be fooled by Klopp's, Zidane's new international jobs: Club soccer is still top of the game",
+      "description": "Despite the flurry of big-name hires, international jobs remain a route to redemption or a quieter life away from the intensity of an elite club role.",
+      "published": "2026-07-28T09:55:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461196/jurgen-klopp-zinedine-zidane-germany-france-international-coaches-club-managers",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694222_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Germany"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49468236",
+      "headline": "Zidane: I've been waiting five years to become France's head coach",
+      "description": "Zidane: I've been waiting five years to become France's head coach",
+      "published": "2026-07-28T09:40:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49468236/waiting-five-years-become-france-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49461219",
+      "headline": "Argentina's Lionel Scaloni defends players after World Cup, critics are 'people who don't know us'",
+      "description": "Argentina coach Lionel Scaloni has defended his players and called them \"warriors\" in the wake of the World Cup final defeat to Spain.",
+      "published": "2026-07-27T11:09:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461219/argentina-lionel-scaloni-defends-players-world-cup-critics-people-know-us",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1680924_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [],
+      "score": 10
     }
   ]
 }
