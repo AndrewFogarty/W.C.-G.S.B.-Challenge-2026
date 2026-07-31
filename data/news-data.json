@@ -1,13 +1,27 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-31T04:43:36.052Z",
+  "updated": "2026-07-31T07:37:28.098Z",
   "counts": {
-    "offfield": 13,
     "news": 29,
+    "offfield": 14,
     "celebration": 2,
-    "injury": 4
+    "injury": 3
   },
   "items": [
+    {
+      "id": "49493858",
+      "headline": "FIFA defends World Cup private equity plan: 'Nobody is selling football'",
+      "description": "FIFA issued a statement early Friday saying that \"nobody is selling football\" and that it plans to continue the consultation process for the plan to sell stakes in the World Cup to private equity investors.",
+      "published": "2026-07-31T06:46:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49493858/fifa-defends-world-cup-private-equity-plan-selling-football",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
     {
       "id": "49488584",
       "headline": "UEFA vows World Cup boycott as Concacaf rejects FIFA private equity plan",
@@ -20,7 +34,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 207
+      "score": 192
     },
     {
       "id": "49486943",
@@ -37,7 +51,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 172
+      "score": 158
     },
     {
       "id": "49486493",
@@ -51,7 +65,46 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 166
+      "score": 151
+    },
+    {
+      "id": "49493294",
+      "headline": "Inter Miami's Jorge Mas blasts MLS Discovery rule amid Casemiro dispute",
+      "description": "Inter Miami co-owner Jorge Mas criticized Major League Soccer's Discovery List rule following the Casemiro signing dispute, stating he's pushed to abolish the rule for over two years.",
+      "published": "2026-07-31T02:31:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49493294/inter-miami-jorge-mas-blasts-mls-discovery-rule-amid-casemiro-dispute",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695807_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49492350",
+      "headline": "Casemiro joined Miami to help 'god of football' Messi win",
+      "description": "Brazilian midfielder Casemiro labeled Lionel Messi the god of football, adding that he joined Inter Miami to help the Argentina forward add more trophies to his record-breaking career.",
+      "published": "2026-07-30T23:57:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49492350/inter-miami-casemiro-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695751_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway",
+        "Argentina"
+      ],
+      "players": [
+        "Casemiro",
+        "Lionel Messi",
+        "Erling Haaland"
+      ],
+      "score": 134
     },
     {
       "id": "49470517",
@@ -68,7 +121,7 @@
         "USA"
       ],
       "players": [],
-      "score": 147
+      "score": 132
     },
     {
       "id": "49486562",
@@ -82,7 +135,26 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 145
+      "score": 131
+    },
+    {
+      "id": "49491762",
+      "headline": "Real Madrid sign forward Carlos Espí from Levante",
+      "description": "Real Madrid have signed forward Carlos Espí from Levante on a five-year contract, the club announced on Thursday.",
+      "published": "2026-07-30T21:54:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49491762/real-madrid-transfer-carlos-espi-levante",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695722_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Carlos Espí",
+        "Erling Haaland"
+      ],
+      "score": 130
     },
     {
       "id": "49486441",
@@ -102,26 +174,28 @@
         "Ayyoub Bouaddi",
         "Erling Haaland"
       ],
-      "score": 134
+      "score": 130
     },
     {
-      "id": "49464977",
-      "headline": "John Stones joins Inter Milan on free transfer after Man City exit",
-      "description": "John Stones has completed a move to Serie A side Inter Milan on a free transfer.",
-      "published": "2026-07-30T21:16:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49464977/john-stones-joins-inter-milan-free-transfer-man-city-exit",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695712_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49493763",
+      "headline": "Mssoudy strikes late to send Morocco past rivals Algeria, Senegal beat Kenya",
+      "description": "Sanaa Mssoudy and Seynabou Mbengue were amongst the goals as Morocco and Senegal brought up wins at WAFCON 26.",
+      "published": "2026-07-31T04:23:18Z",
+      "url": "https://www.espn.com/espn/story/_/id/49493763/wafcon-2026-july-30-wrap-mssoudy-strikes-late-send-morocco-rivals-algeria-senegal-beat-kenya",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695848_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Norway"
+        "Norway",
+        "Morocco",
+        "Algeria",
+        "Senegal"
       ],
       "players": [
-        "John Stones",
         "Erling Haaland"
       ],
-      "score": 134
+      "score": 128
     },
     {
       "id": "48990955",
@@ -139,79 +213,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 133
-    },
-    {
-      "id": "49490020",
-      "headline": "Liverpool's Joe Gomez to miss start of Premier League season",
-      "description": "Liverpool head coach Andoni Iraola has confirmed defender Joe Gomez will miss the start of the new season after picking up a muscle injury during the Reds' preseason tour of the U.S.",
-      "published": "2026-07-30T18:16:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49490020/liverpool-joe-gomez-injury-start-premier-league-season",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695633_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Norway",
-        "USA"
-      ],
-      "players": [
-        "Joe Gomez",
-        "Erling Haaland"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49488247",
-      "headline": "Fulham agree £34m fee with Real Madrid for Gonzalo García, deal for César Palacios also close - sources",
-      "description": "Real Madrid have agreed a deal with Fulham for forward Gonzalo García to join the Premier League club, sources have told ESPN, and are close to another which will see midfielder César Palacios make the same move.",
-      "published": "2026-07-30T18:59:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49488247/fulham-agree-deal-gonzalo-garcia-real-madrid-34-million-cesar-palacios",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695553_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland and Rodra",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Gonzalo García",
-        "César Palacios",
-        "Erling Haaland"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49484906",
-      "headline": "Australian players slam FIFA plan as Football Australia waits for more info",
-      "description": "Football Australia says it was unaware of FIFA's plans to sell stakes in tournaments such as the FIFA World Cup, but has confirmed it will not form a position until further information and consultation are provided.",
-      "published": "2026-07-30T08:58:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49484906/australian-players-slam-fifa-plan-football-australia-waits-more-info",
-      "image": "https://a.espncdn.com/photo/2024/0808/r1370173_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [],
-      "score": 130
-    },
-    {
-      "id": "49484972",
-      "headline": "USSF president: Pochettino new deal talks 'going well,' announcement coming soon",
-      "description": "United States Soccer Federation president Cindy Parlow Cone said Wednesday before the MLS All-Star Game that conversations with Mauricio Pochettino to extend his contract as U.S. men's national team manager are \"going well.\"",
-      "published": "2026-07-30T03:09:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49484972/us-soccer-president-parlow-cone-pochettino-new-deal-talks-going-well-announcement-coming-soon",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695421_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 124
+      "score": 128
     },
     {
       "id": "49490867",
@@ -229,25 +231,39 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 120
+      "score": 116
     },
     {
-      "id": "49489652",
-      "headline": "What can Barcelona achieve next season under Hansi Flick?",
-      "description": "What can Barcelona achieve next season under Hansi Flick?",
-      "published": "2026-07-30T17:05:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49489652/what-barcelona-achieve-next-season-hansi-flick",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_COM_SOC_Analysis_What_can_Barcelona_achieve_next_season_under_Hansi_Flick3F_GLOBAL_2026-07-30/dm_260730_COM_SOC_Analysis_What_can_Barcelona_achieve_next_season_under_Hansi_Flick3F_GLOBAL_2026-07-30.jpg",
-      "byline": null,
+      "id": "49484906",
+      "headline": "Australian players slam FIFA plan as Football Australia waits for more info",
+      "description": "Football Australia says it was unaware of FIFA's plans to sell stakes in tournaments such as the FIFA World Cup, but has confirmed it will not form a position until further information and consultation are provided.",
+      "published": "2026-07-30T08:58:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49484906/australian-players-slam-fifa-plan-football-australia-waits-more-info",
+      "image": "https://a.espncdn.com/photo/2024/0808/r1370173_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Norway"
+        "Australia"
       ],
-      "players": [
-        "Erling Haaland"
-      ],
+      "players": [],
       "score": 116
+    },
+    {
+      "id": "49484972",
+      "headline": "USSF president: Pochettino new deal talks 'going well,' announcement coming soon",
+      "description": "United States Soccer Federation president Cindy Parlow Cone said Wednesday before the MLS All-Star Game that conversations with Mauricio Pochettino to extend his contract as U.S. men's national team manager are \"going well.\"",
+      "published": "2026-07-30T03:09:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49484972/us-soccer-president-parlow-cone-pochettino-new-deal-talks-going-well-announcement-coming-soon",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695421_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 109
     },
     {
       "id": "49478527",
@@ -261,23 +277,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 107
-    },
-    {
-      "id": "49483498",
-      "headline": "Ancelotti confirms Italy offer, insists he's committed to Brazil",
-      "description": "Carlo Ancelotti has confirmed he received an approach to coach his native Italy but said he turned down the role because he remains committed to leading Brazil.",
-      "published": "2026-07-29T23:12:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49483498/carlo-ancelotti-italy-brazil-coach",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695326_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [],
-      "score": 96
+      "score": 103
     },
     {
       "id": "49463627",
@@ -306,7 +306,23 @@
         "Mexico"
       ],
       "players": [],
-      "score": 89
+      "score": 85
+    },
+    {
+      "id": "49483498",
+      "headline": "Ancelotti confirms Italy offer, insists he's committed to Brazil",
+      "description": "Carlo Ancelotti has confirmed he received an approach to coach his native Italy but said he turned down the role because he remains committed to leading Brazil.",
+      "published": "2026-07-29T23:12:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49483498/carlo-ancelotti-italy-brazil-coach",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695326_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [],
+      "score": 81
     },
     {
       "id": "49460730",
@@ -322,7 +338,7 @@
         "France"
       ],
       "players": [],
-      "score": 81
+      "score": 76
     },
     {
       "id": "49478198",
@@ -336,7 +352,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 80
+      "score": 75
     },
     {
       "id": "49480730",
@@ -353,7 +369,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 80
+      "score": 75
     },
     {
       "id": "49470625",
@@ -370,7 +386,7 @@
         "Algeria"
       ],
       "players": [],
-      "score": 73
+      "score": 69
     },
     {
       "id": "49466177",
@@ -392,7 +408,7 @@
         "Ajdin Hrustic",
         "Tete Yengi"
       ],
-      "score": 70
+      "score": 66
     },
     {
       "id": "49477957",
@@ -406,7 +422,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 61
+      "score": 57
     },
     {
       "id": "49476184",
@@ -424,7 +440,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 59
+      "score": 55
     },
     {
       "id": "49473099",
@@ -438,7 +454,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 54
+      "score": 49
     },
     {
       "id": "49470028",
@@ -452,7 +468,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 47
+      "score": 43
     },
     {
       "id": "49468627",
@@ -471,7 +487,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 47
+      "score": 43
     },
     {
       "id": "49471131",
@@ -489,7 +505,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 44
+      "score": 39
     },
     {
       "id": "49471030",
@@ -507,7 +523,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 44
+      "score": 39
     },
     {
       "id": "49463728",
@@ -523,7 +539,7 @@
         "USA"
       ],
       "players": [],
-      "score": 43
+      "score": 38
     },
     {
       "id": "49472014",
@@ -537,7 +553,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 39
+      "score": 34
     },
     {
       "id": "49468665",
@@ -553,7 +569,7 @@
         "USA"
       ],
       "players": [],
-      "score": 36
+      "score": 32
     },
     {
       "id": "49461196",
@@ -570,7 +586,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 30
+      "score": 25
     },
     {
       "id": "49468236",
@@ -586,21 +602,7 @@
         "France"
       ],
       "players": [],
-      "score": 29
-    },
-    {
-      "id": "49468267",
-      "headline": "Gianni Infantino's message attacking critics 'pathetic,' LaLiga chief Javier Tebas says",
-      "description": "LaLiga president Javier Tebas has called FIFA supremo Gianni Infantino's Instagram message criticising those that questioned his leadership, his organisation and the 2026 World Cup as \"pathetic.sPE",
-      "published": "2026-07-28T09:55:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49468267/gianni-infantino-fifa-critics-message-javier-tebas-laliga-chief",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694546_2_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 26
+      "score": 25
     },
     {
       "id": "49425954",
@@ -692,13 +694,13 @@
       "score": 22
     },
     {
-      "id": "49416547",
-      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
-      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
-      "published": "2026-07-28T06:26:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
-      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
+      "id": "49468267",
+      "headline": "Gianni Infantino's message attacking critics 'pathetic,' LaLiga chief Javier Tebas says",
+      "description": "LaLiga president Javier Tebas has called FIFA supremo Gianni Infantino's Instagram message criticising those that questioned his leadership, his organisation and the 2026 World Cup as \"pathetic.sPE",
+      "published": "2026-07-28T09:55:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468267/gianni-infantino-fifa-critics-message-javier-tebas-laliga-chief",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694546_2_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
@@ -719,7 +721,21 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 20
+      "score": 17
+    },
+    {
+      "id": "49416547",
+      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
+      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
+      "published": "2026-07-28T06:26:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
+      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
     },
     {
       "id": "49433484",
@@ -809,22 +825,6 @@
       "kindLabel": "News",
       "teams": [
         "England"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49438479",
-      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "published": "2026-07-24T14:31:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany"
       ],
       "players": [],
       "score": 10
