@@ -1,26 +1,44 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-31T16:48:03.527Z",
+  "updated": "2026-07-31T18:13:16.420Z",
   "counts": {
-    "news": 31,
-    "offfield": 12,
-    "celebration": 3,
+    "offfield": 17,
+    "news": 27,
+    "celebration": 2,
     "injury": 2
   },
   "items": [
     {
-      "id": "49497319",
+      "id": "49497803",
+      "headline": "Ivory Coast part ways with AFCON-winning coach Emerse Faé",
+      "description": "The Ivorian Football Federation have confirmed that Emerse Faé will leave his position as head coach upon the expiry of his contract on July 31, bringing to an end his remarkable two-and-a-half-year spell.",
+      "published": "2026-07-31T17:53:07Z",
+      "url": "https://www.espn.com/espn/story/_/id/49497803/ivory-coast-part-ways-afcon-winning-coach-emerse-fae",
+      "image": "https://a.espncdn.com/photo/2024/0220/r1293600_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Côte d'Ivoire"
+      ],
+      "players": [
+        "Yan Diomande"
+      ],
+      "score": 224
+    },
+    {
+      "id": "49497531",
       "headline": "Has Infantino's position as FIFA president become 'untenable'?",
       "description": "Has Infantino's position as FIFA president become 'untenable'?",
-      "published": "2026-07-31T16:27:00Z",
-      "url": "https://www.espn.com/video/clip/_/id/49497319/has-infantino-position-fifa-president-become-untenable",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis__Has_InfantinoE28099s_position_as_FIFA_president_become_E28098untenableE280993F_GLOBAL_2026-07-31/dm_260731_COM_SOC_Analysis__Has_InfantinoE28099s_position_as_FIFA_president_become_E28098untenableE280993F.jpg",
+      "published": "2026-07-31T16:49:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/49497531/has-infantino-position-fifa-president-become-untenable",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Has_InfantinoE28099s_position_as_FIFA_president_become_untenable_GLOBAL_2026-07-31/dm_260731_COM_SOC_Analysis_Has_InfantinoE28099s_position_as_FIFA_president_become_untenable_GLOBAL_2026-07-31.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 205
+      "score": 194
     },
     {
       "id": "49496746",
@@ -34,7 +52,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 196
+      "score": 184
     },
     {
       "id": "49497087",
@@ -48,7 +66,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 194
+      "score": 182
     },
     {
       "id": "49495429",
@@ -64,7 +82,7 @@
         "South Africa"
       ],
       "players": [],
-      "score": 173
+      "score": 161
     },
     {
       "id": "49495670",
@@ -78,7 +96,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 170
+      "score": 158
     },
     {
       "id": "49495214",
@@ -94,7 +112,82 @@
         "USA"
       ],
       "players": [],
-      "score": 162
+      "score": 149
+    },
+    {
+      "id": "49494536",
+      "headline": "Transfer rumors, news: Man United looking at pair of Serie A wingers",
+      "description": "Manchester United are looking at a pair of wingers in Serie A, while the USMNT's Gio Reyna is attracting interest from Strasbourg. Transfer Talk has the latest.",
+      "published": "2026-07-31T11:45:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49494536/transfer-rumors-news-man-united-looking-pair-serie-wingers",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637319_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Côte d'Ivoire",
+        "USA"
+      ],
+      "players": [
+        "Francisco Conceição",
+        "Rafael Leão",
+        "Yan Diomande"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49495328",
+      "headline": "Sandro Tonali: 'I know I have a lot of pressure, but I have to play like a normal Tottenham player'",
+      "description": "Sandro Tonali has opened up about his £100 million ($133 million) move to Tottenham Hotspur from Newcastle this summer, naming head coach Roberto De Zerbi as a key figure in the transfer.",
+      "published": "2026-07-31T11:40:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49495328/sandro-tonali-tottenham-premier-league-newcastle",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695885_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Côte d'Ivoire"
+      ],
+      "players": [
+        "Yan Diomande"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49479946",
+      "headline": "Explaining each top Premier League team's transfer strategy",
+      "description": "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
+      "published": "2026-07-31T11:30:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49479946/explaining-top-premier-league-team-transfer-strategy",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689160_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Côte d'Ivoire"
+      ],
+      "players": [
+        "Yan Diomande"
+      ],
+      "score": 135
+    },
+    {
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-07-31T10:51:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695557_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Côte d'Ivoire"
+      ],
+      "players": [
+        "Yan Diomande"
+      ],
+      "score": 134
     },
     {
       "id": "49495287",
@@ -108,39 +201,26 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 147
+      "score": 134
     },
     {
-      "id": "49494953",
-      "headline": "Gianni Infantino dealt another blow as AFC joins UEFA, Concacaf in rejecting World Cup plan",
-      "description": "FIFA's controversial plan to sell stakes in a World Cup company has been dealt what appears to be a fatal blow after the Asian Football Confederation (AFC) joined UEFA and Concacaf in rejecting it.",
-      "published": "2026-07-31T08:58:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49494953/gianni-infantino-dealt-another-blow-afc-joins-uefa-concacaf-rejecting-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 136
-    },
-    {
-      "id": "49495094",
-      "headline": "Cole Palmer jokes about Morgan Rogers using his celebration: 'He'll have bailiffs at the door'",
-      "description": "Cole Palmer has joked that new Chelsea teammate Morgan Rogers should be wary of using his trademark 'ice cold' celebration.",
-      "published": "2026-07-31T09:49:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49495094/cole-palmer-morgan-rogers-ice-cold-celebration-chelsea",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695878_1296x729_16-9.jpg",
-      "byline": "Hannah Ryan",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49495591",
+      "headline": "Wojciech Szczesny: It 'hurts' to have missed out on winning a Premier League with Arsenal",
+      "description": "Veteran Barcelona goalkeeper Wojciech Szczesny admits it \"still hurts\" to have missed out on a Premier League title during his time at Arsenal.",
+      "published": "2026-07-31T11:57:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49495591/wojciech-szczesny-arsenal-premier-league-title-barcelona-birmingham-preseason-friendly",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695899_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Côte d'Ivoire"
       ],
       "players": [
-        "Casemiro"
+        "Wojciech Szczesny",
+        "Yan Diomande"
       ],
-      "score": 130
+      "score": 124
     },
     {
       "id": "49488584",
@@ -154,26 +234,39 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 126
+      "score": 124
     },
     {
-      "id": "49491361",
-      "headline": "NWSL midseason grades for all 16 teams: From an A+ to F",
-      "description": "Which NWSL clubs are acing or flunking the first half of the season? We grade all 16 teams.",
-      "published": "2026-07-31T09:57:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49491361/nwsl-midseason-grades-all-16-teams-2006-a+-f",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695740_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
+      "id": "49494953",
+      "headline": "Gianni Infantino dealt another blow as AFC joins UEFA, Concacaf in rejecting World Cup plan",
+      "description": "FIFA's controversial plan to sell stakes in a World Cup company has been dealt what appears to be a fatal blow after the Asian Football Confederation (AFC) joined UEFA and Concacaf in rejecting it.",
+      "published": "2026-07-31T08:58:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49494953/gianni-infantino-dealt-another-blow-afc-joins-uefa-concacaf-rejecting-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 124
+    },
+    {
+      "id": "49495292",
+      "headline": "'Italian football has lost one of its legends' - Tributes pour in after the death of Franco Baresi",
+      "description": "Paolo Maldini has led the outpouring of tributes to his former AC Milan captain Franco Baresi following the death of the Italy legend.",
+      "published": "2026-07-31T10:51:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49495292/franco-baresi-death-tributes-paolo-maldini-ac-milan-italy",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695887_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Côte d'Ivoire"
       ],
       "players": [
-        "Lindsey Heaps",
-        "Casemiro"
+        "Yan Diomande"
       ],
-      "score": 123
+      "score": 122
     },
     {
       "id": "49494854",
@@ -193,65 +286,7 @@
         "Casemiro",
         "Lionel Messi"
       ],
-      "score": 120
-    },
-    {
-      "id": "49163915",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "published": "2026-07-31T08:20:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Casemiro"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49494743",
-      "headline": "Bee-utiful! Haaland unveils Man City's new 2026-27 away kit",
-      "description": "You could say that there is already plenty of buzz surrounding Manchester City's new away kit -- if you'll excuse the woeful pun.",
-      "published": "2026-07-31T08:06:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49494743/erling-haaland-unveils-manchester-city-new-2026-27-away-kit",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695045_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Casemiro"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49494713",
-      "headline": "Cole Palmer: I fell asleep watching England's World Cup win over Mexico",
-      "description": "Cole Palmer has said he did watch England at the World Cup after his 26-man squad snub -- but fell asleep at halftime of the game against Mexico.",
-      "published": "2026-07-31T07:56:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49494713/fell-asleep-watching-england-world-cup-win-mexico",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661577_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "Mexico"
-      ],
-      "players": [
-        "Cole Palmer",
-        "Casemiro"
-      ],
-      "score": 120
+      "score": 118
     },
     {
       "id": "49493858",
@@ -265,7 +300,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 117
+      "score": 115
     },
     {
       "id": "49470517",
@@ -282,7 +317,7 @@
         "USA"
       ],
       "players": [],
-      "score": 89
+      "score": 87
     },
     {
       "id": "49478527",
@@ -296,7 +331,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 89
+      "score": 87
     },
     {
       "id": "49486493",
@@ -310,7 +345,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 88
+      "score": 86
     },
     {
       "id": "49484972",
@@ -326,7 +361,7 @@
         "USA"
       ],
       "players": [],
-      "score": 86
+      "score": 83
     },
     {
       "id": "49486943",
@@ -343,7 +378,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 84
+      "score": 82
     },
     {
       "id": "49484906",
@@ -359,7 +394,7 @@
         "Australia"
       ],
       "players": [],
-      "score": 82
+      "score": 80
     },
     {
       "id": "49486562",
@@ -373,7 +408,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 77
+      "score": 75
     },
     {
       "id": "49463627",
@@ -402,7 +437,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 71
+      "score": 69
     },
     {
       "id": "49483498",
@@ -418,7 +453,7 @@
         "Brazil"
       ],
       "players": [],
-      "score": 68
+      "score": 65
     },
     {
       "id": "49460730",
@@ -434,7 +469,7 @@
         "France"
       ],
       "players": [],
-      "score": 63
+      "score": 60
     },
     {
       "id": "49478198",
@@ -448,7 +483,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 61
+      "score": 59
     },
     {
       "id": "49480730",
@@ -465,7 +500,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 61
+      "score": 59
     },
     {
       "id": "49470625",
@@ -482,7 +517,7 @@
         "Algeria"
       ],
       "players": [],
-      "score": 55
+      "score": 53
     },
     {
       "id": "49466177",
@@ -504,7 +539,7 @@
         "Ajdin Hrustic",
         "Tete Yengi"
       ],
-      "score": 52
+      "score": 50
     },
     {
       "id": "49477957",
@@ -518,7 +553,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 43
+      "score": 41
     },
     {
       "id": "49476184",
@@ -536,7 +571,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 41
+      "score": 39
     },
     {
       "id": "49473099",
@@ -550,7 +585,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 35
+      "score": 33
     },
     {
       "id": "49470028",
@@ -564,7 +599,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 29
+      "score": 27
     },
     {
       "id": "49468627",
@@ -583,43 +618,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 29
-    },
-    {
-      "id": "49471131",
-      "headline": "Will Mourinho keep Endrick at Real Madrid?",
-      "description": "Will Mourinho keep Endrick at Real Madrid?",
-      "published": "2026-07-28T17:11:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/49471131/will-mourinho-keep-endrick-real-madrid",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Endrick"
-      ],
-      "score": 26
-    },
-    {
-      "id": "49471030",
-      "headline": "Laurens: Zidane's attacking style of football will benefit France",
-      "description": "Laurens: Zidane's attacking style of football will benefit France",
-      "published": "2026-07-28T17:05:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/49471030/zidane-attacking-style-football-benefit-france",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Laurens3A_ZidaneE28099s_attacking_style_of_football_will_benefit_France_GLOBAL_2026-07-/dm_260728_COM_SOC_Analysis_Laurens3A_ZidaneE28099s_attacking_style_of_football_will_benefit_France_GLOBAL_2026-07-.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 25
+      "score": 27
     },
     {
       "id": "49425954",
@@ -647,22 +646,6 @@
       "score": 25
     },
     {
-      "id": "49463728",
-      "headline": "What advanced stats say about every USMNT World Cup game since 1990",
-      "description": "The U.S. men's latest World Cup exit was the latest in a long string of disappointments ... or was it? Let's look at the numbers behind all their tournament appearances since 1990 to get the real story.",
-      "published": "2026-07-28T18:26:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49463728/what-advanced-stats-say-every-usmnt-world-cup-game-1990",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694394_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 24
-    },
-    {
       "id": "49441066",
       "headline": "Would the U.S. actually win the World Cup if its best athletes played soccer?",
       "description": "Every time the USMNT gets knocked out of a World Cup, the question comes up: What if our best U.S. athletes played soccer? Here's why that flight of fancy would never actually work out.",
@@ -677,6 +660,58 @@
       ],
       "players": [],
       "score": 24
+    },
+    {
+      "id": "49471131",
+      "headline": "Will Mourinho keep Endrick at Real Madrid?",
+      "description": "Will Mourinho keep Endrick at Real Madrid?",
+      "published": "2026-07-28T17:11:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49471131/will-mourinho-keep-endrick-real-madrid",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Endrick"
+      ],
+      "score": 23
+    },
+    {
+      "id": "49471030",
+      "headline": "Laurens: Zidane's attacking style of football will benefit France",
+      "description": "Laurens: Zidane's attacking style of football will benefit France",
+      "published": "2026-07-28T17:05:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/49471030/zidane-attacking-style-football-benefit-france",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Laurens3A_ZidaneE28099s_attacking_style_of_football_will_benefit_France_GLOBAL_2026-07-/dm_260728_COM_SOC_Analysis_Laurens3A_ZidaneE28099s_attacking_style_of_football_will_benefit_France_GLOBAL_2026-07-.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 23
+    },
+    {
+      "id": "49463728",
+      "headline": "What advanced stats say about every USMNT World Cup game since 1990",
+      "description": "The U.S. men's latest World Cup exit was the latest in a long string of disappointments ... or was it? Let's look at the numbers behind all their tournament appearances since 1990 to get the real story.",
+      "published": "2026-07-28T18:26:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49463728/what-advanced-stats-say-every-usmnt-world-cup-game-1990",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694394_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 22
     },
     {
       "id": "49448250",
@@ -706,22 +741,6 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 21
-    },
-    {
-      "id": "49468665",
-      "headline": "Can U.S. Soccer afford to wait for USMNT coach Pochettino?",
-      "description": "Is Mauricio Pochettino still coach of the United States men's national team? That's the lingering question for U.S. Soccer that needs answering soon.",
-      "published": "2026-07-28T14:23:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49468665/united-states-usmnt-mauricio-pochettino-future-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1685713_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
       "score": 18
     },
     {
@@ -741,6 +760,22 @@
       "score": 17
     },
     {
+      "id": "49468665",
+      "headline": "Can U.S. Soccer afford to wait for USMNT coach Pochettino?",
+      "description": "Is Mauricio Pochettino still coach of the United States men's national team? That's the lingering question for U.S. Soccer that needs answering soon.",
+      "published": "2026-07-28T14:23:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49468665/united-states-usmnt-mauricio-pochettino-future-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1685713_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 16
+    },
+    {
       "id": "49461196",
       "headline": "Don't be fooled by Klopp's, Zidane's new international jobs: Club soccer is still top of the game",
       "description": "Despite the flurry of big-name hires, international jobs remain a route to redemption or a quieter life away from the intensity of an elite club role.",
@@ -755,7 +790,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 12
+      "score": 10
     },
     {
       "id": "49468236",
@@ -769,39 +804,6 @@
       "kindLabel": "News",
       "teams": [
         "France"
-      ],
-      "players": [],
-      "score": 11
-    },
-    {
-      "id": "49461219",
-      "headline": "Argentina's Lionel Scaloni defends players after World Cup, critics are 'people who don't know us'",
-      "description": "Argentina coach Lionel Scaloni has defended his players and called them \"warriors\" in the wake of the World Cup final defeat to Spain.",
-      "published": "2026-07-27T11:09:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461219/argentina-lionel-scaloni-defends-players-world-cup-critics-people-know-us",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1680924_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49441430",
-      "headline": "Ranking every FIFA World Cup from 1930 to 2026",
-      "description": "Spain's romp to victory in 2026 capped a brilliant World Cup. But where did this summer rank in the all-time record?",
-      "published": "2026-07-26T22:01:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49441430/world-cup-ranking-2026-bill-connelly-james-tyler-analysis-best-world-cups-ever",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691518_1296x729_16-9.jpg",
-      "byline": "Bill Connelly and James Tyler",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
       ],
       "players": [],
       "score": 10
