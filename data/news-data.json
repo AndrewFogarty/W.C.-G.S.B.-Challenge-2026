@@ -1,12 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-30T23:36:12.549Z",
+  "updated": "2026-07-31T01:11:32.163Z",
   "counts": {
-    "offfield": 15,
-    "news": 27,
+    "offfield": 13,
+    "news": 29,
     "celebration": 2,
-    "preview": 1,
-    "injury": 3
+    "injury": 4
   },
   "items": [
     {
@@ -21,7 +20,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 214
+      "score": 212
     },
     {
       "id": "49486943",
@@ -38,7 +37,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 180
+      "score": 177
     },
     {
       "id": "49486493",
@@ -52,7 +51,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 174
+      "score": 171
     },
     {
       "id": "49470517",
@@ -69,7 +68,7 @@
         "USA"
       ],
       "players": [],
-      "score": 154
+      "score": 152
     },
     {
       "id": "49486562",
@@ -83,7 +82,104 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 153
+      "score": 151
+    },
+    {
+      "id": "49486441",
+      "headline": "Transfer rumors, news: Man City eye Bouaddi as potential Rodri replacement",
+      "description": "Manchester City are reportedly looking to sign Ayyoub Bouaddi from Lille. Transfer Talk has the latest.",
+      "published": "2026-07-30T21:18:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49486441/transfer-rumors-news-real-madrid-confident-signing-spain-captain-manchester-city-midfielder-rodri",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695708_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway",
+        "Morocco"
+      ],
+      "players": [
+        "Ayyoub Bouaddi",
+        "Erling Haaland"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49464977",
+      "headline": "John Stones joins Inter Milan on free transfer after Man City exit",
+      "description": "John Stones has completed a move to Serie A side Inter Milan on a free transfer.",
+      "published": "2026-07-30T21:16:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49464977/john-stones-joins-inter-milan-free-transfer-man-city-exit",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695712_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "John Stones",
+        "Erling Haaland"
+      ],
+      "score": 139
+    },
+    {
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-07-30T20:32:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695557_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49490020",
+      "headline": "Liverpool's Joe Gomez to miss start of Premier League season",
+      "description": "Liverpool head coach Andoni Iraola has confirmed defender Joe Gomez will miss the start of the new season after picking up a muscle injury during the Reds' preseason tour of the U.S.",
+      "published": "2026-07-30T18:16:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49490020/liverpool-joe-gomez-injury-start-premier-league-season",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695633_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Norway",
+        "USA"
+      ],
+      "players": [
+        "Joe Gomez",
+        "Erling Haaland"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49488247",
+      "headline": "Fulham agree £34m fee with Real Madrid for Gonzalo García, deal for César Palacios also close - sources",
+      "description": "Real Madrid have agreed a deal with Fulham for forward Gonzalo García to join the Premier League club, sources have told ESPN, and are close to another which will see midfielder César Palacios make the same move.",
+      "published": "2026-07-30T18:59:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49488247/fulham-agree-deal-gonzalo-garcia-real-madrid-34-million-cesar-palacios",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695553_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland and Rodra",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Gonzalo García",
+        "César Palacios",
+        "Erling Haaland"
+      ],
+      "score": 136
     },
     {
       "id": "49484906",
@@ -99,104 +195,7 @@
         "Australia"
       ],
       "players": [],
-      "score": 138
-    },
-    {
-      "id": "49488555",
-      "headline": "Harvey Elliott unsure on Liverpool future after 'very tough' Aston Villa stint",
-      "description": "Liverpool midfielder Harvey Elliott has opened up on his \"very tough\" loan spell at Aston Villa and said he is still unsure about his long-term future at Anfield.",
-      "published": "2026-07-30T16:40:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49488555/harvey-elliott-unsure-liverpool-future-very-tough-aston-villa-stint",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695569_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Harvey Elliott",
-        "Erling Haaland"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49489371",
-      "headline": "Arsenal confident of signing Bruno Guimarães as Eddie Howe leaves Newcastle - sources",
-      "description": "Arsenal are increasingly confident of signing Bruno Guimarães from Newcastle United following the exit of manager Eddie Howe, sources have told ESPN's James Olley.",
-      "published": "2026-07-30T16:38:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49489371/arsenal-confident-signing-bruno-guimaraes-eddie-howe-leaves-newcastle",
-      "image": "https://a.espncdn.com/photo/2025/0825/r1536679_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Bruno Guimarães",
-        "Erling Haaland"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49488985",
-      "headline": "Manchester City working on deal to sign Marseille's Gerónimo Rulli - sources",
-      "description": "Manchester City are working on a deal for Marseille goalkeeper Gerónimo Rulli to replace James Trafford, sources have told ESPN.",
-      "published": "2026-07-30T15:54:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49488985/manchester-city-working-deal-sign-marseille-geronimo-rulli",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695586_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Gerónimo Rulli",
-        "Erling Haaland"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49486441",
-      "headline": "Transfer rumors, news: Real Madrid confident of Rodri signing",
-      "description": "Spain's World Cup-winning captain Rodri is moving closer to joining Real Madrid from Manchester City this summer. Transfer Talk has the latest.",
-      "published": "2026-07-30T15:09:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49486441/transfer-rumors-news-real-madrid-confident-signing-spain-captain-manchester-city-midfielder-rodri",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695477_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway",
-        "Spain"
-      ],
-      "players": [
-        "Rodri",
-        "Erling Haaland"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49488247",
-      "headline": "Fulham agree £34m fee with Real Madrid for Gonzalo García, deal for César Palacios also close - sources",
-      "description": "Real Madrid have agreed a deal with Fulham for forward Gonzalo García to join the Premier League club, sources have told ESPN, and are close to another which will see midfielder César Palacios make the same move.",
-      "published": "2026-07-30T14:16:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49488247/fulham-agree-deal-gonzalo-garcia-real-madrid-34-million-cesar-palacios",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695553_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland and Rodra",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Gonzalo García",
-        "César Palacios",
-        "Erling Haaland"
-      ],
-      "score": 131
+      "score": 136
     },
     {
       "id": "49484972",
@@ -212,45 +211,43 @@
         "USA"
       ],
       "players": [],
-      "score": 131
-    },
-    {
-      "id": "49488140",
-      "headline": "Marcus Rashford says goodbye to Barcelona as Premier League season nears",
-      "description": "Marcus Rashford has said goodbye to Barcelona after returning to Manchester United ahead of the new Premier League season following the conclusion of his loan spell.",
-      "published": "2026-07-30T13:46:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49488140/marcus-rashford-says-goodbye-barcelona-premier-league-season-nears",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656309_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Marcus Rashford",
-        "Erling Haaland"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49488549",
-      "headline": "Senne Lammens cuts holiday short to return to Man United training - sources",
-      "description": "Senne Lammens has cut his holiday short to return to training with Manchester United ahead of the new season, sources have told ESPN.",
-      "published": "2026-07-30T14:47:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49488549/senne-lammens-cuts-holiday-short-return-man-united-training-sources",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695568_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Senne Lammens",
-        "Erling Haaland"
-      ],
       "score": 129
+    },
+    {
+      "id": "49490867",
+      "headline": "Iraola: Isak is going to be massive for Liverpool next season",
+      "description": "Iraola: Isak is going to be massive for Liverpool next season",
+      "published": "2026-07-30T19:59:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/49490867/isak-going-massive-liverpool-next-season",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_COM_SOC_Analysis_Iraola3A_Isak_is_going_to_be_massive_for_Liverpool_next_season_GLOBAL_2026-07-30/dm_260730_COM_SOC_Analysis_Iraola3A_Isak_is_going_to_be_massive_for_Liverpool_next_season_GLOBAL_2026-07-30.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49489652",
+      "headline": "What can Barcelona achieve next season under Hansi Flick?",
+      "description": "What can Barcelona achieve next season under Hansi Flick?",
+      "published": "2026-07-30T17:05:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49489652/what-barcelona-achieve-next-season-hansi-flick",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_COM_SOC_Analysis_What_can_Barcelona_achieve_next_season_under_Hansi_Flick3F_GLOBAL_2026-07-30/dm_260730_COM_SOC_Analysis_What_can_Barcelona_achieve_next_season_under_Hansi_Flick3F_GLOBAL_2026-07-30.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 121
     },
     {
       "id": "49478527",
@@ -264,7 +261,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49483498",
@@ -280,7 +277,7 @@
         "Brazil"
       ],
       "players": [],
-      "score": 103
+      "score": 101
     },
     {
       "id": "49463627",
@@ -309,7 +306,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 97
+      "score": 95
     },
     {
       "id": "49460730",
@@ -325,7 +322,7 @@
         "France"
       ],
       "players": [],
-      "score": 88
+      "score": 86
     },
     {
       "id": "49478198",
@@ -339,7 +336,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 87
+      "score": 85
     },
     {
       "id": "49480730",
@@ -356,7 +353,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 87
+      "score": 85
     },
     {
       "id": "49470625",
@@ -373,7 +370,7 @@
         "Algeria"
       ],
       "players": [],
-      "score": 81
+      "score": 78
     },
     {
       "id": "49466177",
@@ -395,7 +392,7 @@
         "Ajdin Hrustic",
         "Tete Yengi"
       ],
-      "score": 78
+      "score": 75
     },
     {
       "id": "49477957",
@@ -409,7 +406,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 69
+      "score": 66
     },
     {
       "id": "49476184",
@@ -427,7 +424,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 67
+      "score": 64
     },
     {
       "id": "49473099",
@@ -441,21 +438,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 61
-    },
-    {
-      "id": "49470028",
-      "headline": "UEFA to discuss World Cup boycott over FIFA private investment plan - sources",
-      "description": "UEFA is set to hold an emergency meeting this week, sources told ESPN, to discuss plans, including a potential World Cup boycott, to oppose a FIFA proposal to raise $20 billion from a sale of equity to outside investors.",
-      "published": "2026-07-29T00:06:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 55
+      "score": 59
     },
     {
       "id": "49468627",
@@ -474,7 +457,21 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 55
+      "score": 53
+    },
+    {
+      "id": "49470028",
+      "headline": "UEFA to discuss World Cup boycott over FIFA private investment plan - sources",
+      "description": "UEFA is set to hold an emergency meeting this week, sources told ESPN, to discuss plans, including a potential World Cup boycott, to oppose a FIFA proposal to raise $20 billion from a sale of equity to outside investors.",
+      "published": "2026-07-29T00:06:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 52
     },
     {
       "id": "49471131",
@@ -492,7 +489,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 51
+      "score": 49
     },
     {
       "id": "49471030",
@@ -510,7 +507,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 51
+      "score": 49
     },
     {
       "id": "49463728",
@@ -526,7 +523,7 @@
         "USA"
       ],
       "players": [],
-      "score": 50
+      "score": 48
     },
     {
       "id": "49472014",
@@ -540,7 +537,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 46
+      "score": 44
     },
     {
       "id": "49468665",
@@ -556,7 +553,7 @@
         "USA"
       ],
       "players": [],
-      "score": 44
+      "score": 42
     },
     {
       "id": "49461196",
@@ -573,7 +570,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 37
+      "score": 35
     },
     {
       "id": "49468236",
@@ -589,7 +586,7 @@
         "France"
       ],
       "players": [],
-      "score": 37
+      "score": 35
     },
     {
       "id": "49468267",
@@ -603,7 +600,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 33
+      "score": 31
     },
     {
       "id": "49416547",
@@ -617,7 +614,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 28
+      "score": 26
     },
     {
       "id": "49465323",
@@ -633,7 +630,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 28
+      "score": 25
     },
     {
       "id": "49425954",
@@ -752,20 +749,6 @@
       "score": 13
     },
     {
-      "id": "49460279",
-      "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
-      "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
-      "published": "2026-07-27T19:06:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 11
-    },
-    {
       "id": "49461219",
       "headline": "Argentina's Lionel Scaloni defends players after World Cup, critics are 'people who don't know us'",
       "description": "Argentina coach Lionel Scaloni has defended his players and called them \"warriors\" in the wake of the World Cup final defeat to Spain.",
@@ -826,6 +809,22 @@
       "kindLabel": "News",
       "teams": [
         "England"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49438479",
+      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
+      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
+      "published": "2026-07-24T14:31:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
       ],
       "players": [],
       "score": 10
