@@ -1,32 +1,33 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-07-31T07:37:28.098Z",
+  "updated": "2026-07-31T10:15:28.979Z",
   "counts": {
-    "news": 29,
-    "offfield": 14,
-    "celebration": 2,
+    "offfield": 15,
+    "news": 27,
+    "preview": 2,
+    "celebration": 1,
     "injury": 3
   },
   "items": [
     {
-      "id": "49493858",
-      "headline": "FIFA defends World Cup private equity plan: 'Nobody is selling football'",
-      "description": "FIFA issued a statement early Friday saying that \"nobody is selling football\" and that it plans to continue the consultation process for the plan to sell stakes in the World Cup to private equity investors.",
-      "published": "2026-07-31T06:46:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49493858/fifa-defends-world-cup-private-equity-plan-selling-football",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg",
+      "id": "49494953",
+      "headline": "Gianni Infantino dealt another blow as AFC joins UEFA, Concacaf in rejecting World Cup plan",
+      "description": "FIFA's controversial plan to sell stakes in a World Cup company has been dealt what appears to be a fatal blow after the Asian Football Confederation (AFC) joined UEFA and Concacaf in rejecting it.",
+      "published": "2026-07-31T08:58:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49494953/gianni-infantino-dealt-another-blow-afc-joins-uefa-concacaf-rejecting-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 205
+      "score": 216
     },
     {
       "id": "49488584",
-      "headline": "UEFA vows World Cup boycott as Concacaf rejects FIFA private equity plan",
+      "headline": "UEFA vows World Cup boycott as Concacaf, AFC reject FIFA private equity plan",
       "description": "FIFA president Gianni Infantino's plan to sell stakes in the World Cup to a private equity group was dealt a major blow on Thursday, after Concacaf joined UEFA in rejecting the proposal.",
-      "published": "2026-07-30T21:15:09Z",
+      "published": "2026-07-31T09:02:32Z",
       "url": "https://www.espn.com/soccer/story/_/id/49488584/uefa-boycott-all-fifa-competitions-protest-world-cup-private-equity-plan",
       "image": "https://a.espncdn.com/photo/2026/0730/r1695697_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
@@ -34,7 +35,99 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 192
+      "score": 206
+    },
+    {
+      "id": "49494854",
+      "headline": "Casemiro calls Messi 'the god of football'",
+      "description": "Casemiro calls Messi 'the god of football'",
+      "published": "2026-07-31T08:21:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/49494854/casemiro-calls-messi-god-football",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Presser_Casemiro_calls_Messi_the_god_of_football_20260731_GLOBAL/dm_260731_COM_SOC_Presser_Casemiro_calls_Messi_the_god_of_football_20260731_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Brazil"
+      ],
+      "players": [
+        "Casemiro",
+        "Lionel Messi"
+      ],
+      "score": 190
+    },
+    {
+      "id": "49493858",
+      "headline": "FIFA defends World Cup private equity plan: 'Nobody is selling football'",
+      "description": "FIFA issued a statement early Friday saying that \"nobody is selling football\" and that it plans to continue the consultation process for the plan to sell stakes in the World Cup to private equity investors.",
+      "published": "2026-07-31T09:02:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49493858/fifa-defends-world-cup-private-equity-plan-selling-football",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 174
+    },
+    {
+      "id": "49494600",
+      "headline": "Bradley Barcola? Liverpool should replace Mohamed Salah first - Jamie Carragher",
+      "description": "Former Liverpool defender Jamie Carragher believes his old club should prioritise signing a replacement for Mohamed Salah ahead of their pursuit of Paris Saint-Germain winger Bradley Barcola.",
+      "published": "2026-07-31T07:34:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49494600/jamie-carragher-bradley-barcola-transfer-news-mo-salah-liverpool",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695874_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Bradley Barcola",
+        "Rio Ngumoha",
+        "Casemiro"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49154575",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "published": "2026-07-31T06:36:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Casemiro"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49486233",
+      "headline": "PSL preview - Have Kaizer Chiefs done enough to make this season a three-horse race?",
+      "description": "After years of monopoly and then duopoly in the South African Premiership, the days of three-horse races between the traditional 'Big Three' may finally be about to return.",
+      "published": "2026-07-31T06:20:02Z",
+      "url": "https://www.espn.com/espn/story/_/id/49486233/psl-preview-kaizer-chiefs-done-enough-make-season-three-horse-race",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695470_970x546_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Relebohile Mofokeng",
+        "Mbekezeli Mbokazi",
+        "Casemiro"
+      ],
+      "score": 136
     },
     {
       "id": "49486943",
@@ -51,21 +144,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 158
-    },
-    {
-      "id": "49486493",
-      "headline": "Sources: UEFA to hold emergency Thursday meeting over FIFA's World Cup plan",
-      "description": "UEFA will hold an emergency meeting of its 55 members on Thursday, sources have told ESPN, to discuss plans, including a potential World Cup boycott, as it coordinates a response to FIFA's proposal to sell a stake in the tournament to private investors.",
-      "published": "2026-07-30T15:16:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49486493/uefa-emergency-meeting-thursday-fifa-private-investment-plan-world-cup-boycott-table",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695491_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 151
+      "score": 134
     },
     {
       "id": "49493294",
@@ -83,7 +162,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 137
+      "score": 133
     },
     {
       "id": "49492350",
@@ -104,38 +183,124 @@
         "Lionel Messi",
         "Erling Haaland"
       ],
-      "score": 134
+      "score": 130
     },
     {
-      "id": "49470517",
-      "headline": "Have World Cup withdrawal? Enjoy the greatest kits in the tournament's history",
-      "description": "The 2026 World Cup has come and gone, so after all 48 teams' kits on the pitch, how many of them made ESPN's list of the best in competition history?",
-      "published": "2026-07-30T08:33:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49470517/have-fifa-world-cup-withdrawal-enjoy-greatest-football-kits-shirts-soccer-jerseys-tournament-history",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695261_1295x518_5-2.jpg",
-      "byline": "Ryan Rosenblatt",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49494419",
+      "headline": "Zambia's Barbra Banda critical of underwhelming WAFCON visibility and promotion",
+      "description": "Zambia captain Barbra Banda has called for the Women's Africa Cup of Nations to receive more effective advertising and significantly greater global exposure, amidst empty stands in Morocco.",
+      "published": "2026-07-31T07:09:50Z",
+      "url": "https://www.espn.com/espn/story/_/id/49494419/zambia-barbra-banda-critical-underwhelming-wafcon-visibility-promotion",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695872_1296x729_16-9.png",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "England",
-        "USA"
+        "Argentina",
+        "Morocco"
       ],
-      "players": [],
-      "score": 132
+      "players": [
+        "Barbra Banda",
+        "Casemiro"
+      ],
+      "score": 128
     },
     {
-      "id": "49486562",
-      "headline": "Infantino: FIFA proposal a golden opportunity for development",
-      "description": "Infantino: FIFA proposal a golden opportunity for development",
-      "published": "2026-07-30T08:13:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49486562/fifa-proposal-golden-opportunity-development",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_Infantino_FIFA_proposal_a_golden_opportunity_for_development/dm_260730_Infantino_FIFA_proposal_a_golden_opportunity_for_development.jpg",
-      "byline": null,
+      "id": "49461152",
+      "headline": "Why England have no automatic Euro 2028 place -- but Argentina are already in the 2030 World Cup",
+      "description": "England have not been granted a guaranteed spot at UEFA Euro 2028 despite being one of the tournament co-hosts.",
+      "published": "2026-07-31T06:37:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461152/england-euro-2028-automatic-qualification-ireland-wales-scotland",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694218_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England",
+        "Uruguay",
+        "Paraguay",
+        "Spain",
+        "Portugal",
+        "Morocco"
+      ],
+      "players": [
+        "Casemiro"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49486493",
+      "headline": "Sources: UEFA to hold emergency Thursday meeting over FIFA's World Cup plan",
+      "description": "UEFA will hold an emergency meeting of its 55 members on Thursday, sources have told ESPN, to discuss plans, including a potential World Cup boycott, as it coordinates a response to FIFA's proposal to sell a stake in the tournament to private investors.",
+      "published": "2026-07-30T15:16:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49486493/uefa-emergency-meeting-thursday-fifa-private-investment-plan-world-cup-boycott-table",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695491_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 131
+      "score": 128
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-07-31T06:35:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Casemiro"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49487296",
+      "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
+      "description": "Al Ahli head coach Matthias Jaissle is reportedly set to replace Eddie Howe at Newcastle. But who is he?",
+      "published": "2026-07-31T06:33:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49487296/who-matthias-jaissle-newcastle-eddie-howe-al-ahli-st-james-park",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695505_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Casemiro"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49467588",
+      "headline": "Five Super Falcons players who must deliver for an 11th WAFCON title",
+      "description": "Nigeria open the defence of their Women's Africa Cup of Nations title against Malawi in Rabat on July 28, chasing a record-extending 11th continental crown at a tournament expanded to 16 teams for the first time.",
+      "published": "2026-07-31T06:21:01Z",
+      "url": "https://www.espn.com/espn/story/_/id/49467588/five-super-falcons-players-deliver-11th-wafcon-title",
+      "image": "https://a.espncdn.com/photo/2025/1203/r1584136_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Michelle Alozie",
+        "Deborah Abiodun",
+        "Esther Okoronkwo",
+        "Chiamaka Nnadozie",
+        "Rasheedat Ajibade",
+        "Casemiro"
+      ],
+      "score": 127
     },
     {
       "id": "49491762",
@@ -154,7 +319,7 @@
         "Carlos Espí",
         "Erling Haaland"
       ],
-      "score": 130
+      "score": 126
     },
     {
       "id": "49486441",
@@ -174,7 +339,7 @@
         "Ayyoub Bouaddi",
         "Erling Haaland"
       ],
-      "score": 130
+      "score": 126
     },
     {
       "id": "49493763",
@@ -195,7 +360,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 128
+      "score": 124
     },
     {
       "id": "48990955",
@@ -213,7 +378,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 128
+      "score": 124
     },
     {
       "id": "49490867",
@@ -231,23 +396,52 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 116
+      "score": 112
     },
     {
-      "id": "49484906",
-      "headline": "Australian players slam FIFA plan as Football Australia waits for more info",
-      "description": "Football Australia says it was unaware of FIFA's plans to sell stakes in tournaments such as the FIFA World Cup, but has confirmed it will not form a position until further information and consultation are provided.",
-      "published": "2026-07-30T08:58:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49484906/australian-players-slam-fifa-plan-football-australia-waits-more-info",
-      "image": "https://a.espncdn.com/photo/2024/0808/r1370173_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49470517",
+      "headline": "Have World Cup withdrawal? Enjoy the greatest kits in the tournament's history",
+      "description": "The 2026 World Cup has come and gone, so after all 48 teams' kits on the pitch, how many of them made ESPN's list of the best in competition history?",
+      "published": "2026-07-30T08:33:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49470517/have-fifa-world-cup-withdrawal-enjoy-greatest-football-kits-shirts-soccer-jerseys-tournament-history",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695261_1295x518_5-2.jpg",
+      "byline": "Ryan Rosenblatt",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
-        "Australia"
+        "England",
+        "USA"
       ],
       "players": [],
-      "score": 116
+      "score": 108
+    },
+    {
+      "id": "49486562",
+      "headline": "Infantino: FIFA proposal a golden opportunity for development",
+      "description": "Infantino: FIFA proposal a golden opportunity for development",
+      "published": "2026-07-30T08:13:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49486562/fifa-proposal-golden-opportunity-development",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_Infantino_FIFA_proposal_a_golden_opportunity_for_development/dm_260730_Infantino_FIFA_proposal_a_golden_opportunity_for_development.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 107
+    },
+    {
+      "id": "49478527",
+      "headline": "World Cup for sale? FIFA's controversial plans explained",
+      "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
+      "published": "2026-07-30T08:15:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 99
     },
     {
       "id": "49484972",
@@ -263,21 +457,23 @@
         "USA"
       ],
       "players": [],
-      "score": 109
+      "score": 95
     },
     {
-      "id": "49478527",
-      "headline": "World Cup for sale? FIFA's controversial plans explained",
-      "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
-      "published": "2026-07-30T08:15:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
+      "id": "49484906",
+      "headline": "Australian players slam FIFA plan as Football Australia waits for more info",
+      "description": "Football Australia says it was unaware of FIFA's plans to sell stakes in tournaments such as the FIFA World Cup, but has confirmed it will not form a position until further information and consultation are provided.",
+      "published": "2026-07-30T08:58:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49484906/australian-players-slam-fifa-plan-football-australia-waits-more-info",
+      "image": "https://a.espncdn.com/photo/2024/0808/r1370173_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
       "players": [],
-      "score": 103
+      "score": 92
     },
     {
       "id": "49463627",
@@ -306,7 +502,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 85
+      "score": 81
     },
     {
       "id": "49483498",
@@ -322,7 +518,7 @@
         "Brazil"
       ],
       "players": [],
-      "score": 81
+      "score": 77
     },
     {
       "id": "49460730",
@@ -338,7 +534,7 @@
         "France"
       ],
       "players": [],
-      "score": 76
+      "score": 72
     },
     {
       "id": "49478198",
@@ -352,7 +548,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 75
+      "score": 71
     },
     {
       "id": "49480730",
@@ -369,7 +565,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 75
+      "score": 71
     },
     {
       "id": "49470625",
@@ -386,7 +582,7 @@
         "Algeria"
       ],
       "players": [],
-      "score": 69
+      "score": 65
     },
     {
       "id": "49466177",
@@ -408,7 +604,7 @@
         "Ajdin Hrustic",
         "Tete Yengi"
       ],
-      "score": 66
+      "score": 62
     },
     {
       "id": "49477957",
@@ -422,7 +618,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 57
+      "score": 53
     },
     {
       "id": "49476184",
@@ -440,7 +636,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 55
+      "score": 51
     },
     {
       "id": "49473099",
@@ -454,7 +650,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 49
+      "score": 45
     },
     {
       "id": "49470028",
@@ -468,7 +664,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 43
+      "score": 39
     },
     {
       "id": "49468627",
@@ -487,7 +683,7 @@
       "players": [
         "Breel Embolo"
       ],
-      "score": 43
+      "score": 39
     },
     {
       "id": "49471131",
@@ -505,7 +701,7 @@
       "players": [
         "Endrick"
       ],
-      "score": 39
+      "score": 35
     },
     {
       "id": "49471030",
@@ -523,7 +719,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 39
+      "score": 35
     },
     {
       "id": "49463728",
@@ -539,7 +735,7 @@
         "USA"
       ],
       "players": [],
-      "score": 38
+      "score": 34
     },
     {
       "id": "49472014",
@@ -553,7 +749,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 34
+      "score": 30
     },
     {
       "id": "49468665",
@@ -569,40 +765,7 @@
         "USA"
       ],
       "players": [],
-      "score": 32
-    },
-    {
-      "id": "49461196",
-      "headline": "Don't be fooled by Klopp's, Zidane's new international jobs: Club soccer is still top of the game",
-      "description": "Despite the flurry of big-name hires, international jobs remain a route to redemption or a quieter life away from the intensity of an elite club role.",
-      "published": "2026-07-28T09:55:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461196/jurgen-klopp-zinedine-zidane-germany-france-international-coaches-club-managers",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694222_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Germany"
-      ],
-      "players": [],
-      "score": 25
-    },
-    {
-      "id": "49468236",
-      "headline": "Zidane: I've been waiting five years to become France's head coach",
-      "description": "Zidane: I've been waiting five years to become France's head coach",
-      "published": "2026-07-28T09:40:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49468236/waiting-five-years-become-france-head-coach",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [],
-      "score": 25
+      "score": 28
     },
     {
       "id": "49425954",
@@ -662,6 +825,23 @@
       "score": 24
     },
     {
+      "id": "49461196",
+      "headline": "Don't be fooled by Klopp's, Zidane's new international jobs: Club soccer is still top of the game",
+      "description": "Despite the flurry of big-name hires, international jobs remain a route to redemption or a quieter life away from the intensity of an elite club role.",
+      "published": "2026-07-28T09:55:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461196/jurgen-klopp-zinedine-zidane-germany-france-international-coaches-club-managers",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694222_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Germany"
+      ],
+      "players": [],
+      "score": 22
+    },
+    {
       "id": "49448250",
       "headline": "President: Vozinha to sign for Colo Colo after stellar World Cup",
       "description": "Cape Verde goalkeeper Vozinha has signed a contract with Colo Colo, the South American country's biggest soccer team, its president said.",
@@ -676,158 +856,6 @@
       ],
       "players": [],
       "score": 22
-    },
-    {
-      "id": "49440317",
-      "headline": "IOC will not investigate Infantino over Trump interference allegations",
-      "description": "Allegations that FIFA president Gianni Infantino breached Olympic rules on political neutrality in his dealings with U.S. President Donald Trump will not be investigated by the International Olympic Committee.",
-      "published": "2026-07-24T15:56:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49440317/ioc-not-investigate-infantino-trump-interference-allegations",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 22
-    },
-    {
-      "id": "49468267",
-      "headline": "Gianni Infantino's message attacking critics 'pathetic,' LaLiga chief Javier Tebas says",
-      "description": "LaLiga president Javier Tebas has called FIFA supremo Gianni Infantino's Instagram message criticising those that questioned his leadership, his organisation and the 2026 World Cup as \"pathetic.sPE",
-      "published": "2026-07-28T09:55:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49468267/gianni-infantino-fifa-critics-message-javier-tebas-laliga-chief",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694546_2_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 21
-    },
-    {
-      "id": "49465323",
-      "headline": "Lopes Cabral stunner for Cape Verde voted best World Cup goal",
-      "description": "Cape Verde made more World Cup history on Monday when Sidny Lopes Cabral won the public vote for goal of the tournament.",
-      "published": "2026-07-27T22:42:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49465323/lopes-cabral-stunner-cape-verde-voted-best-world-cup-goal",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684087_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 17
-    },
-    {
-      "id": "49416547",
-      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
-      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
-      "published": "2026-07-28T06:26:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
-      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
-    },
-    {
-      "id": "49433484",
-      "headline": "How Spain won the World Cup without a marquee goal scorer or elite defense",
-      "description": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
-      "published": "2026-07-24T08:36:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49433484/how-spain-won-world-cup-marquee-goal-scorer-elite-defense",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692876_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Marc Cucurella",
-        "Pedro Porro",
-        "Aymeric Laporte",
-        "Pau Cubarsí",
-        "Álex Baena",
-        "Mikel Oyarzabal",
-        "Rodri",
-        "Mikel Merino",
-        "Martín Zubimendi"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49461219",
-      "headline": "Argentina's Lionel Scaloni defends players after World Cup, critics are 'people who don't know us'",
-      "description": "Argentina coach Lionel Scaloni has defended his players and called them \"warriors\" in the wake of the World Cup final defeat to Spain.",
-      "published": "2026-07-27T11:09:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461219/argentina-lionel-scaloni-defends-players-world-cup-critics-people-know-us",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1680924_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49441430",
-      "headline": "Ranking every FIFA World Cup from 1930 to 2026",
-      "description": "Spain's romp to victory in 2026 capped a brilliant World Cup. But where did this summer rank in the all-time record?",
-      "published": "2026-07-26T22:01:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49441430/world-cup-ranking-2026-bill-connelly-james-tyler-analysis-best-world-cups-ever",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691518_1296x729_16-9.jpg",
-      "byline": "Bill Connelly and James Tyler",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49447628",
-      "headline": "Will Pochettino leave USMNT role?",
-      "description": "Will Pochettino leave USMNT role?",
-      "published": "2026-07-25T17:05:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49440737",
-      "headline": "What would England's team look like if Pep Guardiola was manager?",
-      "description": "What would England's team look like if Pep Guardiola was manager?",
-      "published": "2026-07-24T16:41:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [],
-      "score": 10
     }
   ]
 }
