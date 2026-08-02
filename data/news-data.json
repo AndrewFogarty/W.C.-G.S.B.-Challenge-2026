@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-01T23:06:45.344Z",
+  "updated": "2026-08-02T00:09:46.591Z",
   "counts": {
     "news": 29,
-    "offfield": 15,
+    "offfield": 14,
+    "preview": 1,
     "celebration": 2,
     "injury": 2
   },
@@ -20,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 190
+      "score": 188
     },
     {
       "id": "49503925",
@@ -34,7 +35,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 189
+      "score": 188
     },
     {
       "id": "49497503",
@@ -48,7 +49,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 166
+      "score": 165
     },
     {
       "id": "49496364",
@@ -66,7 +67,7 @@
         "USA"
       ],
       "players": [],
-      "score": 166
+      "score": 164
     },
     {
       "id": "49503295",
@@ -80,39 +81,45 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 164
+      "score": 162
     },
     {
-      "id": "49505676",
-      "headline": "Brentford sign Mamadou Sangaré from Lens for club-record fee",
-      "description": "Brentford have signed Mali midfielder Mamadou Sangaré from Lens for an undisclosed club-record fee, reported to be around £38.5m ($52m).",
-      "published": "2026-08-01T20:45:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49505676/brentford-sign-mamadou-sangare-lens-club-record-fee",
-      "image": "https://a.espncdn.com/photo/2026/0801/r1696355_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49507822",
+      "headline": "Arteta coy on Vinícius Jr. links but expects more Arsenal moves",
+      "description": "Arsenal manager Mikel Arteta refused to give anything away about his club's reported pursuit of Real Madrid winger Vinícius Júnior but said he  expects more moves before the end of the summer transfer window.",
+      "published": "2026-08-01T22:31:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49507822/arsenal-vinicius-junior-transfer-mikel-arteta",
+      "image": "https://a.espncdn.com/photo/2026/0801/r1696479_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
+      "teams": [
+        "Côte d'Ivoire",
+        "Brazil"
+      ],
+      "players": [
+        "Vinícius Júnior",
+        "Yan Diomande"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49154575",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "published": "2026-08-01T22:50:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "Côte d'Ivoire"
       ],
       "players": [
         "Yan Diomande"
       ],
-      "score": 141
-    },
-    {
-      "id": "49500782",
-      "headline": "Infantino scraps FIFA World Cup sell-off plan after backlash",
-      "description": "FIFA president Gianni Infantino scrapped his proposal to sell stakes in the World Cup after widespread backlash, including from within global soccer's governing body, and a threatened boycott by European nations.",
-      "published": "2026-08-01T11:43:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49500782/fifa-world-cup-investment-private-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 139
+      "score": 140
     },
     {
       "id": "49503204",
@@ -132,25 +139,43 @@
         "Tyler Adams",
         "Yan Diomande"
       ],
-      "score": 138
+      "score": 137
     },
     {
-      "id": "49505774",
-      "headline": "Nicol sees Arsenal's Guimaraes move as 'a great deal'",
-      "description": "Nicol sees Arsenal's Guimaraes move as 'a great deal'",
-      "published": "2026-08-01T17:28:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/49505774/nicol-sees-arsenal-guimaraes-move-great-deal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0801/dm_260801_Nicol_sees_Arsenals_Guimaraes_move_as_a_great_deal/dm_260801_Nicol_sees_Arsenals_Guimaraes_move_as_a_great_deal.jpg",
+      "id": "49500782",
+      "headline": "Infantino scraps FIFA World Cup sell-off plan after backlash",
+      "description": "FIFA president Gianni Infantino scrapped his proposal to sell stakes in the World Cup after widespread backlash, including from within global soccer's governing body, and a threatened boycott by European nations.",
+      "published": "2026-08-01T11:43:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49500782/fifa-world-cup-investment-private-gianni-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 137
+    },
+    {
+      "id": "49507912",
+      "headline": "Racing Louisville FC vs. Chicago Stars - Game Highlights",
+      "description": "Watch the Game Highlights from Racing Louisville FC vs. Chicago Stars, 08/02/2026",
+      "published": "2026-08-01T22:14:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/49507912/racing-louisville-fc-vs-chicago-stars-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0801/b27905c0-5a40-4e8f-800f-02e35387fb23/b27905c0-5a40-4e8f-800f-02e35387fb23.jpg",
       "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Côte d'Ivoire"
       ],
       "players": [
+        "Mirann Gacioch",
+        "Nádia Gomes",
+        "Kayla Fischer",
+        "Bea Franklin",
         "Yan Diomande"
       ],
-      "score": 137
+      "score": 130
     },
     {
       "id": "49507029",
@@ -170,7 +195,7 @@
         "Christos Tzolis",
         "Yan Diomande"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49506906",
@@ -188,7 +213,7 @@
       "players": [
         "Yan Diomande"
       ],
-      "score": 129
+      "score": 128
     },
     {
       "id": "49506693",
@@ -207,7 +232,7 @@
         "Bryan Mbeumo",
         "Yan Diomande"
       ],
-      "score": 128
+      "score": 127
     },
     {
       "id": "49506457",
@@ -226,25 +251,7 @@
         "Endrick",
         "Yan Diomande"
       ],
-      "score": 127
-    },
-    {
-      "id": "49506046",
-      "headline": "Concacaf on Infantino World Cup sell-off plan U-turn A comprehensive reckoning with this presidency is imperative",
-      "description": "Concacaf and its 41 member associations have welcomed FIFA's decision to withdraw its proposed FIFA Forward Enterprise (FFE) initiative after the proposal was abandoned following widespread opposition.",
-      "published": "2026-08-01T18:52:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49506046/concacaf-infantino-world-cup-sell-plan-u-turn-comprehensive-reckoning-presidency-imperative",
-      "image": "https://a.espncdn.com/photo/2026/0801/r1696380_1296x729_16-9.jpg",
-      "byline": "Grace Allen",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Côte d'Ivoire"
-      ],
-      "players": [
-        "Yan Diomande"
-      ],
-      "score": 127
+      "score": 126
     },
     {
       "id": "49495214",
@@ -260,7 +267,7 @@
         "USA"
       ],
       "players": [],
-      "score": 124
+      "score": 123
     },
     {
       "id": "49497803",
@@ -278,7 +285,7 @@
       "players": [
         "Yan Diomande"
       ],
-      "score": 111
+      "score": 110
     },
     {
       "id": "49496746",
@@ -292,7 +299,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 91
+      "score": 89
     },
     {
       "id": "49495429",
@@ -308,7 +315,7 @@
         "South Africa"
       ],
       "players": [],
-      "score": 88
+      "score": 86
     },
     {
       "id": "49497531",
@@ -322,7 +329,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 81
+      "score": 79
     },
     {
       "id": "49488584",
@@ -336,7 +343,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 81
+      "score": 79
     },
     {
       "id": "49494953",
@@ -350,7 +357,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 81
+      "score": 79
     },
     {
       "id": "49497087",
@@ -364,7 +371,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 79
+      "score": 77
     },
     {
       "id": "49495670",
@@ -378,7 +385,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 75
+      "score": 73
     },
     {
       "id": "49494854",
@@ -398,7 +405,7 @@
         "Casemiro",
         "Lionel Messi"
       ],
-      "score": 75
+      "score": 73
     },
     {
       "id": "49493858",
@@ -412,7 +419,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 71
+      "score": 70
     },
     {
       "id": "49495287",
@@ -426,21 +433,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 71
-    },
-    {
-      "id": "49478527",
-      "headline": "World Cup for sale? FIFA's controversial plans explained",
-      "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
-      "published": "2026-07-30T08:15:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 44
+      "score": 70
     },
     {
       "id": "49470517",
@@ -457,7 +450,21 @@
         "USA"
       ],
       "players": [],
-      "score": 43
+      "score": 42
+    },
+    {
+      "id": "49478527",
+      "headline": "World Cup for sale? FIFA's controversial plans explained",
+      "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
+      "published": "2026-07-30T08:15:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 42
     },
     {
       "id": "49486493",
@@ -471,7 +478,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 42
+      "score": 41
     },
     {
       "id": "49484972",
@@ -487,7 +494,7 @@
         "USA"
       ],
       "players": [],
-      "score": 40
+      "score": 38
     },
     {
       "id": "49486943",
@@ -504,7 +511,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 38
+      "score": 37
     },
     {
       "id": "49484906",
@@ -520,7 +527,7 @@
         "Australia"
       ],
       "players": [],
-      "score": 37
+      "score": 35
     },
     {
       "id": "49486562",
@@ -534,36 +541,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 32
-    },
-    {
-      "id": "49463627",
-      "headline": "World Cup 2030 Way-Too-Early Power Rankings: Who is No. 1?",
-      "description": "The 2026 World Cup is over, and we're already itching to look ahead to 2030. So, we asked our reporters to vote for the top teams they expect to contend in four years' time. Who made the cut?",
-      "published": "2026-07-30T01:39:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49463627/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
-      "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg",
-      "byline": "James Tyler",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "France",
-        "England",
-        "Portugal",
-        "Brazil",
-        "Morocco",
-        "Argentina",
-        "Germany",
-        "Norway",
-        "Netherlands",
-        "Belgium",
-        "Colombia",
-        "Japan",
-        "Mexico"
-      ],
-      "players": [],
-      "score": 26
+      "score": 30
     },
     {
       "id": "49466177",
@@ -605,6 +583,35 @@
         "Breel Embolo"
       ],
       "score": 25
+    },
+    {
+      "id": "49463627",
+      "headline": "World Cup 2030 Way-Too-Early Power Rankings: Who is No. 1?",
+      "description": "The 2026 World Cup is over, and we're already itching to look ahead to 2030. So, we asked our reporters to vote for the top teams they expect to contend in four years' time. Who made the cut?",
+      "published": "2026-07-30T01:39:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49463627/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+      "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg",
+      "byline": "James Tyler",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "France",
+        "England",
+        "Portugal",
+        "Brazil",
+        "Morocco",
+        "Argentina",
+        "Germany",
+        "Norway",
+        "Netherlands",
+        "Belgium",
+        "Colombia",
+        "Japan",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 24
     },
     {
       "id": "49460730",
@@ -652,7 +659,7 @@
         "Brazil"
       ],
       "players": [],
-      "score": 22
+      "score": 21
     },
     {
       "id": "49473099",
@@ -696,7 +703,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 16
+      "score": 14
     },
     {
       "id": "49480730",
@@ -713,7 +720,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 16
+      "score": 14
     },
     {
       "id": "49476184",
