@@ -1,14 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-02T12:45:05.015Z",
+  "updated": "2026-08-02T14:18:08.059Z",
   "counts": {
-    "news": 29,
-    "offfield": 13,
+    "news": 28,
+    "offfield": 14,
     "preview": 2,
     "injury": 2,
     "celebration": 2
   },
   "items": [
+    {
+      "id": "49511728",
+      "headline": "Why Infantino's plans to sell off World Cup made no sense",
+      "description": "FIFA president Gianni Infantino has gambled unsuccessfully on questionable ideas before, but his World Cup plans were ham-fisted and delusional from both a business and political perspective.",
+      "published": "2026-08-02T13:28:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49511728/why-fifa-president-infantino-plans-sell-world-cup-made-no-sense",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
+      "byline": "Gab Marcotti",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
     {
       "id": "47978642",
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
@@ -25,7 +39,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 199
+      "score": 186
     },
     {
       "id": "49466177",
@@ -49,41 +63,69 @@
         "Mathew Ryan",
         "Lucas Herrington"
       ],
-      "score": 198
+      "score": 185
     },
     {
-      "id": "49503505",
-      "headline": "Gianni Infantino has 'lost UEFA's confidence' as World Cup investment plan fails",
-      "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
-      "published": "2026-08-01T18:47:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49503505/gianni-infantino-lost-uefa-confidence-world-cup-investment-plan-fails",
-      "image": "https://a.espncdn.com/photo/2024/0208/r1288495_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 149
+      "id": "49511821",
+      "headline": "Barcelona's Hansi Flick as Marcus Rashford returns to Man United: 'I will miss him'",
+      "description": "Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
+      "published": "2026-08-02T12:07:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49511821/barcelona-hansi-flick-marcus-rashford-returns-man-united-miss-him",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696646_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 142
     },
     {
-      "id": "49503925",
-      "headline": "Marcotti: Infantino's sell-off plan never made sense",
-      "description": "Marcotti: Infantino's sell-off plan never made sense",
-      "published": "2026-08-01T12:02:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49503925/infantino-sell-plan-never-made-sense",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0801/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 149
+      "id": "49511046",
+      "headline": "Transfer rumors, news: Salah set for Trabzonspor after Liverpool exit",
+      "description": "Former Liverpool winger Mohamed Salah is set to move to Turkish club Trabzonspor. Transfer Talk has the latest.",
+      "published": "2026-08-02T11:40:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49511046/transfer-rumors-news-mohamed-salah-set-trabzonspor-liverpool-exit",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693567_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Lionel Messi"
+      ],
+      "score": 141
+    },
+    {
+      "id": "48897670",
+      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
+      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
+      "published": "2026-08-02T12:25:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 139
     },
     {
       "id": "49511509",
       "headline": "Liverpool's Alexander Isak, Florian Wirtz to play preseason clash vs Leeds",
-      "description": "Liverpool trio Alexander Isak, Florian Wirtz and Ryan Gravenberch are set to feature in the club's final United States preseason tour match against Leeds United.",
-      "published": "2026-08-02T10:29:35Z",
+      "description": "The Liverpool trio of Alexander Isak, Florian Wirtz and Ryan Gravenberch are set to feature in the club's final United States preseason tour match against Leeds United.",
+      "published": "2026-08-02T11:20:02Z",
       "url": "https://www.espn.com/soccer/story/_/id/49511509/liverpool-alexander-isak-florian-wirtz-play-preseason-clash-vs-leeds",
       "image": "https://a.espncdn.com/photo/2026/0802/r1696640_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -99,44 +141,54 @@
         "Ryan Gravenberch",
         "Lionel Messi"
       ],
-      "score": 139
-    },
-    {
-      "id": "49511046",
-      "headline": "Transfer rumors, news: Salah set for Trabzonspor after Liverpool exit",
-      "description": "Former Liverpool winger Mohamed Salah is set to move to Turkish club Trabzonspor. Transfer Talk has the latest.",
-      "published": "2026-08-02T08:10:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49511046/transfer-rumors-news-mohamed-salah-set-trabzonspor-liverpool-exit",
-      "image": "https://a.espncdn.com/photo/2026/0725/r1693567_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Mohamed Salah",
-        "Lionel Messi"
-      ],
       "score": 138
     },
     {
-      "id": "49154575",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "published": "2026-08-02T07:22:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "byline": "Grace Allen",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49503505",
+      "headline": "Gianni Infantino has 'lost UEFA's confidence' as World Cup investment plan fails",
+      "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
+      "published": "2026-08-01T18:47:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49503505/gianni-infantino-lost-uefa-confidence-world-cup-investment-plan-fails",
+      "image": "https://a.espncdn.com/photo/2024/0208/r1288495_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 137
+    },
+    {
+      "id": "49503925",
+      "headline": "Marcotti: Infantino's sell-off plan never made sense",
+      "description": "Marcotti: Infantino's sell-off plan never made sense",
+      "published": "2026-08-01T12:02:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49503925/infantino-sell-plan-never-made-sense",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0801/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 137
+    },
+    {
+      "id": "49511911",
+      "headline": "Jarvey Gayoso admits Myanmar wake-up call proved decisive in getting Philippines back on track",
+      "description": "A shock 4-1 loss to Myanmar could just have been a blessing in disguise for Philippines' ASEAN Championship prospects.",
+      "published": "2026-08-02T12:13:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49511911/jarvey-gayoso-admits-myanmar-wakeup-call-decisive-philippines-back-track",
+      "image": "https://a.espncdn.com/photo/2026/0801/r1696293_1280x720_16-9.jpg",
+      "byline": "Mikhail De Guzman",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
+        "Javier Gayoso",
         "Lionel Messi"
       ],
-      "score": 134
+      "score": 130
     },
     {
       "id": "49511294",
@@ -155,7 +207,7 @@
         "Robert Lewandowski",
         "Lionel Messi"
       ],
-      "score": 127
+      "score": 125
     },
     {
       "id": "48549185",
@@ -173,7 +225,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
+      "score": 124
     },
     {
       "id": "49163915",
@@ -191,26 +243,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 126
-    },
-    {
-      "id": "49511090",
-      "headline": "Arteta coy on Vinícius Jr. links to 'active' Arsenal",
-      "description": "Arteta coy on Vinícius Jr. links to 'active' Arsenal",
-      "published": "2026-08-02T08:03:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/49511090/arteta-coy-vinicius-jr-links-active-arsenal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_COM_SOC_Presser_Arteta_coy_on_Vinicius_Jr_links_to_active_Arsenal_20260802_GLOBAL/dm_260802_COM_SOC_Presser_Arteta_coy_on_Vinicius_Jr_links_to_active_Arsenal_20260802_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Vinícius Júnior",
-        "Lionel Messi"
-      ],
-      "score": 126
+      "score": 124
     },
     {
       "id": "49497503",
@@ -224,31 +257,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 126
-    },
-    {
-      "id": "49461152",
-      "headline": "Why England have no automatic Euro 2028 place -- but Argentina are already in the 2030 World Cup",
-      "description": "England have not been granted a guaranteed spot at UEFA Euro 2028 despite being one of the tournament co-hosts.",
-      "published": "2026-08-02T07:22:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461152/england-euro-2028-automatic-qualification-ireland-wales-scotland",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694218_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "Uruguay",
-        "Paraguay",
-        "Spain",
-        "Portugal",
-        "Morocco"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
+      "score": 113
     },
     {
       "id": "49496364",
@@ -266,7 +275,7 @@
         "USA"
       ],
       "players": [],
-      "score": 125
+      "score": 113
     },
     {
       "id": "49503295",
@@ -280,7 +289,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 124
+      "score": 111
     },
     {
       "id": "49500782",
@@ -294,7 +303,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 98
+      "score": 86
     },
     {
       "id": "49495214",
@@ -310,7 +319,7 @@
         "USA"
       ],
       "players": [],
-      "score": 84
+      "score": 81
     },
     {
       "id": "49497803",
@@ -328,7 +337,7 @@
       "players": [
         "Yan Diomande"
       ],
-      "score": 81
+      "score": 78
     },
     {
       "id": "49496746",
@@ -342,7 +351,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 70
+      "score": 68
     },
     {
       "id": "49495429",
@@ -358,7 +367,7 @@
         "South Africa"
       ],
       "players": [],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49497531",
@@ -372,7 +381,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 58
     },
     {
       "id": "49488584",
@@ -386,7 +395,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 58
     },
     {
       "id": "49494953",
@@ -400,7 +409,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 58
     },
     {
       "id": "49497087",
@@ -414,7 +423,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 58
+      "score": 56
     },
     {
       "id": "49495670",
@@ -428,7 +437,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 54
+      "score": 52
     },
     {
       "id": "49494854",
@@ -448,7 +457,7 @@
         "Casemiro",
         "Lionel Messi"
       ],
-      "score": 54
+      "score": 52
     },
     {
       "id": "49493858",
@@ -462,7 +471,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 51
+      "score": 49
     },
     {
       "id": "49495287",
@@ -476,7 +485,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 51
+      "score": 48
     },
     {
       "id": "49468627",
@@ -530,51 +539,6 @@
       "score": 24
     },
     {
-      "id": "49470517",
-      "headline": "Have World Cup withdrawal? Enjoy the greatest kits in the tournament's history",
-      "description": "The 2026 World Cup has come and gone, so after all 48 teams' kits on the pitch, how many of them made ESPN's list of the best in competition history?",
-      "published": "2026-07-30T08:33:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49470517/have-fifa-world-cup-withdrawal-enjoy-greatest-football-kits-shirts-soccer-jerseys-tournament-history",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695261_1295x518_5-2.jpg",
-      "byline": "Ryan Rosenblatt",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "England",
-        "USA"
-      ],
-      "players": [],
-      "score": 23
-    },
-    {
-      "id": "49478527",
-      "headline": "World Cup for sale? FIFA's controversial plans explained",
-      "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
-      "published": "2026-07-30T08:15:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 23
-    },
-    {
-      "id": "49486493",
-      "headline": "Sources: UEFA to hold emergency Thursday meeting over FIFA's World Cup plan",
-      "description": "UEFA will hold an emergency meeting of its 55 members on Thursday, sources have told ESPN, to discuss plans, including a potential World Cup boycott, as it coordinates a response to FIFA's proposal to sell a stake in the tournament to private investors.",
-      "published": "2026-07-30T15:16:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49486493/uefa-emergency-meeting-thursday-fifa-private-investment-plan-world-cup-boycott-table",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695491_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 22
-    },
-    {
       "id": "49484972",
       "headline": "USSF president: Pochettino new deal talks 'going well,' announcement coming soon",
       "description": "United States Soccer Federation president Cindy Parlow Cone said Wednesday before the MLS All-Star Game that conversations with Mauricio Pochettino to extend his contract as U.S. men's national team manager are \"going well.\"",
@@ -591,21 +555,49 @@
       "score": 22
     },
     {
-      "id": "49486943",
-      "headline": "Carlo Ancelotti: Tactical mistake during hydration break led to Brazil's World Cup exit",
-      "description": "Brazil coach Carlo Ancelotti has blamed the tactical changes he made during the second-half hydration break against Norway for his team's early exit from the World Cup.",
-      "published": "2026-07-30T10:05:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49486943/carlo-ancelotti-brazil-world-cup-exit-tactical-mistake-hydration-break",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695490_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49478527",
+      "headline": "World Cup for sale? FIFA's controversial plans explained",
+      "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
+      "published": "2026-07-30T08:15:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 21
+    },
+    {
+      "id": "49470517",
+      "headline": "Have World Cup withdrawal? Enjoy the greatest kits in the tournament's history",
+      "description": "The 2026 World Cup has come and gone, so after all 48 teams' kits on the pitch, how many of them made ESPN's list of the best in competition history?",
+      "published": "2026-07-30T08:33:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49470517/have-fifa-world-cup-withdrawal-enjoy-greatest-football-kits-shirts-soccer-jerseys-tournament-history",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695261_1295x518_5-2.jpg",
+      "byline": "Ryan Rosenblatt",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
-        "Brazil",
-        "Norway"
+        "England",
+        "USA"
       ],
       "players": [],
-      "score": 18
+      "score": 20
+    },
+    {
+      "id": "49486493",
+      "headline": "Sources: UEFA to hold emergency Thursday meeting over FIFA's World Cup plan",
+      "description": "UEFA will hold an emergency meeting of its 55 members on Thursday, sources have told ESPN, to discuss plans, including a potential World Cup boycott, as it coordinates a response to FIFA's proposal to sell a stake in the tournament to private investors.",
+      "published": "2026-07-30T15:16:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49486493/uefa-emergency-meeting-thursday-fifa-private-investment-plan-world-cup-boycott-table",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695491_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 19
     },
     {
       "id": "49473099",
@@ -638,6 +630,23 @@
       "score": 17
     },
     {
+      "id": "49486943",
+      "headline": "Carlo Ancelotti: Tactical mistake during hydration break led to Brazil's World Cup exit",
+      "description": "Brazil coach Carlo Ancelotti has blamed the tactical changes he made during the second-half hydration break against Norway for his team's early exit from the World Cup.",
+      "published": "2026-07-30T10:05:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49486943/carlo-ancelotti-brazil-world-cup-exit-tactical-mistake-hydration-break",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695490_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "players": [],
+      "score": 16
+    },
+    {
       "id": "49484906",
       "headline": "Australian players slam FIFA plan as Football Australia waits for more info",
       "description": "Football Australia says it was unaware of FIFA's plans to sell stakes in tournaments such as the FIFA World Cup, but has confirmed it will not form a position until further information and consultation are provided.",
@@ -651,7 +660,7 @@
         "Australia"
       ],
       "players": [],
-      "score": 16
+      "score": 14
     },
     {
       "id": "49476184",
@@ -706,20 +715,6 @@
         "Zinadine Zidane M Catraio"
       ],
       "score": 13
-    },
-    {
-      "id": "49486562",
-      "headline": "Infantino: FIFA proposal a golden opportunity for development",
-      "description": "Infantino: FIFA proposal a golden opportunity for development",
-      "published": "2026-07-30T08:13:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49486562/fifa-proposal-golden-opportunity-development",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_Infantino_FIFA_proposal_a_golden_opportunity_for_development/dm_260730_Infantino_FIFA_proposal_a_golden_opportunity_for_development.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 11
     },
     {
       "id": "49463627",
