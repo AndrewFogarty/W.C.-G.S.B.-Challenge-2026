@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-03T03:56:46.943Z",
+  "updated": "2026-08-03T07:35:01.872Z",
   "counts": {
-    "offfield": 16,
-    "news": 28,
+    "offfield": 14,
+    "news": 29,
+    "preview": 1,
     "injury": 2,
     "celebration": 2
   },
@@ -30,7 +31,7 @@
         "Mathew Ryan",
         "Lucas Herrington"
       ],
-      "score": 223
+      "score": 217
     },
     {
       "id": "49513925",
@@ -44,7 +45,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 183
+      "score": 177
     },
     {
       "id": "49512906",
@@ -58,7 +59,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 168
+      "score": 162
     },
     {
       "id": "49511728",
@@ -72,7 +73,25 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 154
+      "score": 149
+    },
+    {
+      "id": "48897670",
+      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
+      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
+      "published": "2026-08-03T03:54:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Switzerland"
+      ],
+      "players": [
+        "Breel Embolo"
+      ],
+      "score": 136
     },
     {
       "id": "49515940",
@@ -85,13 +104,31 @@
       "kind": "injury",
       "kindLabel": "Injury",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
         "Dominic Calvert-Lewin",
-        "Casemiro"
+        "Patrick Beach"
       ],
-      "score": 140
+      "score": 134
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-08-02T03:17:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
     },
     {
       "id": "49515538",
@@ -110,25 +147,7 @@
         "Randal Kolo Muani",
         "Patrick Beach"
       ],
-      "score": 136
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-08-02T03:17:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 136
+      "score": 130
     },
     {
       "id": "49511046",
@@ -147,44 +166,108 @@
         "Pedro Neto",
         "Patrick Beach"
       ],
-      "score": 134
+      "score": 128
     },
     {
-      "id": "49513679",
-      "headline": "Is Vinicius Jr. using Arsenal to secure a new Real Madrid deal?",
-      "description": "Is Vinicius Jr. using Arsenal to secure a new Real Madrid deal?",
-      "published": "2026-08-02T18:00:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/49513679/is-vinicius-jr-using-arsenal-secure-new-real-madrid-deal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_COM_SOC_ANALYSIS_Is_Vinicius_Jr_using_Arsenal_to_secure_a_new_Real_Madrid_deal_2026_8_2/dm_260802_COM_SOC_ANALYSIS_Is_Vinicius_Jr_using_Arsenal_to_secure_a_new_Real_Madrid_deal_2026_8_2.jpg",
+      "id": "49517577",
+      "headline": "ASEAN Championship semifinal berth on offer as Indonesia renew rivalry with Vietnam",
+      "description": "Indonesia can book their ASEAN Championship semifinal berth on Monday with victory over familiar foes Vietnam.",
+      "published": "2026-08-03T03:53:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49517577/asean-championship-semifinal-berth-offer-indonesia-renew-rivalry-vietnam",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1696968_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Switzerland"
+      ],
+      "players": [
+        "Breel Embolo"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49517612",
+      "headline": "The best goals from MD3 of the 2026 ASEAN Championship",
+      "description": "As we pass the halfway mark of the ASEAN Championship group stage, here are all the goals worth rewatching from match day 3.",
+      "published": "2026-08-03T03:49:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49517612/the-best-goals-md3-2026-asean-championship",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_SOCCER_Highlight_The_best_goals_from_MD3_of_the_2026_ASEAN_Championship_20260803_GLOBAL/dm_260802_SOCCER_Highlight_The_best_goals_from_MD3_of_the_2026_ASEAN_Championship_20260803_GLOBAL.jpg",
       "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Switzerland"
+      ],
+      "players": [
+        "Breel Embolo"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49517487",
+      "headline": "Denver Summit FC vs. Boston Legacy FC - Game Highlights",
+      "description": "Watch the Game Highlights from Denver Summit FC vs. Boston Legacy FC, 08/03/2026",
+      "published": "2026-08-03T03:08:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/49517487/denver-summit-fc-vs-boston-legacy-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0803/25ce3ddf-9288-41b3-8a0a-dd66b7d3b755/25ce3ddf-9288-41b3-8a0a-dd66b7d3b755.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Switzerland"
+      ],
+      "players": [
+        "Janine Sonis",
+        "Natasha Flint",
+        "Ayo Oke",
+        "Sammy Smith",
+        "Breel Embolo"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49517352",
+      "headline": "Cameroon dispatch Ghana to reach WAFCON quarters, Cape Verde eliminated",
+      "description": "Marie Manga scored Cameroon's winner over Ghana, while Mali defeated Cape Verde 3-2 in a thriller.",
+      "published": "2026-08-03T02:48:52Z",
+      "url": "https://www.espn.com/espn/story/_/id/49517352/wafcon-2026-august-02-wrap-cameroon-dispatch-ghana-reach-quarters-cape-verde-eliminated",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1696957_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Ghana",
+        "Cabo Verde"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49516779",
+      "headline": "Utah Royals vs. Portland Thorns FC - Game Highlights",
+      "description": "Watch the Game Highlights from Utah Royals vs. Portland Thorns FC, 08/03/2026",
+      "published": "2026-08-03T01:18:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49516779/utah-royals-vs-portland-thorns-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0803/ca732d73-0119-4cca-8e24-3cbea4f59e15/ca732d73-0119-4cca-8e24-3cbea4f59e15.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia"
       ],
       "players": [
+        "Kiana Palacios",
+        "Kate Del Fava",
+        "Cece Delzer",
+        "Sophia Wilson",
+        "Brecken Mozingo",
         "Patrick Beach"
       ],
-      "score": 130
-    },
-    {
-      "id": "49429944",
-      "headline": "Argentina's Valentín Barco joins Chelsea from Strasbourg",
-      "description": "Argentina international Valentín Barco has joined Chelsea from Strasbourg, the London club have announced.",
-      "published": "2026-08-02T17:39:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49429944/argentina-valentin-barco-joins-chelsea-strasbourg",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692713_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "Argentina"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 130
+      "score": 124
     },
     {
       "id": "49515854",
@@ -197,7 +280,7 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
         "Ludmila",
@@ -205,9 +288,9 @@
         "Sofia Cantore",
         "Lia Godfrey",
         "Rebeca Bernal",
-        "Casemiro"
+        "Patrick Beach"
       ],
-      "score": 124
+      "score": 119
     },
     {
       "id": "49514055",
@@ -225,43 +308,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 120
-    },
-    {
-      "id": "49513683",
-      "headline": "Lindop: Barcola to Liverpool is becoming a saga",
-      "description": "Lindop: Barcola to Liverpool is becoming a saga",
-      "published": "2026-08-02T18:01:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/49513683/barcola-liverpool-becoming-saga",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_COM_SOC_ANALYSIS_Lindop_Barcola_to_Liverpool_is_becoming_a_saga_2026_8_2/dm_260802_COM_SOC_ANALYSIS_Lindop_Barcola_to_Liverpool_is_becoming_a_saga_2026_8_2.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 118
-    },
-    {
-      "id": "49513672",
-      "headline": "Hutchison: Max Dowman must stay patient at Arsenal",
-      "description": "Hutchison: Max Dowman must stay patient at Arsenal",
-      "published": "2026-08-02T18:00:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/49513672/max-dowman-stay-patient-arsenal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_COM_SOC_ANALYSIS_Hutchison_Max_Dowman_must_stay_patient_at_Arsenal_2026_8_2/dm_260802_COM_SOC_ANALYSIS_Hutchison_Max_Dowman_must_stay_patient_at_Arsenal_2026_8_2.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 118
+      "score": 114
     },
     {
       "id": "49503505",
@@ -275,7 +322,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 96
+      "score": 91
     },
     {
       "id": "49503925",
@@ -289,7 +336,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 96
+      "score": 91
     },
     {
       "id": "49496364",
@@ -307,7 +354,7 @@
         "USA"
       ],
       "players": [],
-      "score": 83
+      "score": 77
     },
     {
       "id": "49497503",
@@ -321,7 +368,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 73
+      "score": 67
     },
     {
       "id": "49503295",
@@ -335,7 +382,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 71
+      "score": 65
     },
     {
       "id": "49500782",
@@ -349,7 +396,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 66
+      "score": 60
     },
     {
       "id": "49495214",
@@ -365,7 +412,7 @@
         "USA"
       ],
       "players": [],
-      "score": 61
+      "score": 56
     },
     {
       "id": "49497803",
@@ -383,7 +430,7 @@
       "players": [
         "Yan Diomande"
       ],
-      "score": 58
+      "score": 52
     },
     {
       "id": "49496746",
@@ -397,7 +444,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 47
+      "score": 42
     },
     {
       "id": "49495429",
@@ -413,35 +460,7 @@
         "South Africa"
       ],
       "players": [],
-      "score": 45
-    },
-    {
-      "id": "49488584",
-      "headline": "UEFA vows World Cup boycott as Concacaf, AFC reject FIFA private equity plan",
-      "description": "FIFA president Gianni Infantino's plan to sell stakes in the World Cup to a private equity group was dealt a major blow on Thursday, after Concacaf joined UEFA in rejecting the proposal.",
-      "published": "2026-07-31T09:02:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49488584/uefa-boycott-all-fifa-competitions-protest-world-cup-private-equity-plan",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695697_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 38
-    },
-    {
-      "id": "49494953",
-      "headline": "Gianni Infantino dealt another blow as AFC joins UEFA, Concacaf in rejecting World Cup plan",
-      "description": "FIFA's controversial plan to sell stakes in a World Cup company has been dealt what appears to be a fatal blow after the Asian Football Confederation (AFC) joined UEFA and Concacaf in rejecting it.",
-      "published": "2026-07-31T08:58:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49494953/gianni-infantino-dealt-another-blow-afc-joins-uefa-concacaf-rejecting-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 38
+      "score": 39
     },
     {
       "id": "49497531",
@@ -455,7 +474,35 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 37
+      "score": 32
+    },
+    {
+      "id": "49488584",
+      "headline": "UEFA vows World Cup boycott as Concacaf, AFC reject FIFA private equity plan",
+      "description": "FIFA president Gianni Infantino's plan to sell stakes in the World Cup to a private equity group was dealt a major blow on Thursday, after Concacaf joined UEFA in rejecting the proposal.",
+      "published": "2026-07-31T09:02:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49488584/uefa-boycott-all-fifa-competitions-protest-world-cup-private-equity-plan",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695697_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 32
+    },
+    {
+      "id": "49494953",
+      "headline": "Gianni Infantino dealt another blow as AFC joins UEFA, Concacaf in rejecting World Cup plan",
+      "description": "FIFA's controversial plan to sell stakes in a World Cup company has been dealt what appears to be a fatal blow after the Asian Football Confederation (AFC) joined UEFA and Concacaf in rejecting it.",
+      "published": "2026-07-31T08:58:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49494953/gianni-infantino-dealt-another-blow-afc-joins-uefa-concacaf-rejecting-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 32
     },
     {
       "id": "49497087",
@@ -469,7 +516,21 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 36
+      "score": 30
+    },
+    {
+      "id": "49495670",
+      "headline": "FIFA advances plans for 64-team World Cup review despite private investment backlash",
+      "description": "FIFA has started a consultation process over an expansion of the men's World Cup to 64 teams, with documents seen by ESPN aiming for a decision by Aug. 14.",
+      "published": "2026-07-31T12:52:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49495670/fifa-64-team-world-cup-review-gianni-infantino-backlash",
+      "image": "https://a.espncdn.com/photo/2025/1201/r1583334_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 26
     },
     {
       "id": "49494854",
@@ -489,49 +550,7 @@
         "Casemiro",
         "Lionel Messi"
       ],
-      "score": 32
-    },
-    {
-      "id": "49495670",
-      "headline": "FIFA advances plans for 64-team World Cup review despite private investment backlash",
-      "description": "FIFA has started a consultation process over an expansion of the men's World Cup to 64 teams, with documents seen by ESPN aiming for a decision by Aug. 14.",
-      "published": "2026-07-31T12:52:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49495670/fifa-64-team-world-cup-review-gianni-infantino-backlash",
-      "image": "https://a.espncdn.com/photo/2025/1201/r1583334_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 31
-    },
-    {
-      "id": "49493858",
-      "headline": "FIFA defends World Cup private equity plan: 'Nobody is selling football'",
-      "description": "FIFA issued a statement early Friday saying that \"nobody is selling football\" and that it plans to continue the consultation process for the plan to sell stakes in the World Cup to private equity investors.",
-      "published": "2026-07-31T10:38:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49493858/fifa-defends-world-cup-private-equity-plan-selling-football",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 28
-    },
-    {
-      "id": "49495287",
-      "headline": "Ogden: Infantino's role as FIFA president is becoming untenable",
-      "description": "Ogden: Infantino's role as FIFA president is becoming untenable",
-      "published": "2026-07-31T10:33:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/49495287/infantino-role-fifa-president-becoming-untenable",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Ogden_Infantinos_role_as_FIFA_president_is_becoming_untenable_20260731_GLOBAL/dm_260731_COM_SOC_Analysis_Ogden_Infantinos_role_as_FIFA_president_is_becoming_untenable_20260731_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 28
+      "score": 26
     },
     {
       "id": "49468627",
@@ -567,6 +586,34 @@
       ],
       "players": [],
       "score": 24
+    },
+    {
+      "id": "49493858",
+      "headline": "FIFA defends World Cup private equity plan: 'Nobody is selling football'",
+      "description": "FIFA issued a statement early Friday saying that \"nobody is selling football\" and that it plans to continue the consultation process for the plan to sell stakes in the World Cup to private equity investors.",
+      "published": "2026-07-31T10:38:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49493858/fifa-defends-world-cup-private-equity-plan-selling-football",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 23
+    },
+    {
+      "id": "49495287",
+      "headline": "Ogden: Infantino's role as FIFA president is becoming untenable",
+      "description": "Ogden: Infantino's role as FIFA president is becoming untenable",
+      "published": "2026-07-31T10:33:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/49495287/infantino-role-fifa-president-becoming-untenable",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Ogden_Infantinos_role_as_FIFA_president_is_becoming_untenable_20260731_GLOBAL/dm_260731_COM_SOC_Analysis_Ogden_Infantinos_role_as_FIFA_president_is_becoming_untenable_20260731_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 22
     },
     {
       "id": "49484972",
@@ -773,40 +820,6 @@
       "kindLabel": "News",
       "teams": [
         "Brazil"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49480730",
-      "headline": "FIFA opens assault case against Argentina trio over World Cup final",
-      "description": "FIFA has opened disciplinary proceedings for assault against Argentina players Leandro Paredes and Nahuel Molina and assistant coach Roberto Ayala over clashes with Spain players following the World Cup final.",
-      "published": "2026-07-29T19:06:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49480730/fifa-argentina-2026-world-cup-final-disciplinary-banner",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695165_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49470625",
-      "headline": "How college teams embraced World Cup fever in 2026",
-      "description": "Messi at Auburn. Germany at Wake Forest. Kansas' love affair with Algeria. Colleges got into the World Cup and also profited from it.",
-      "published": "2026-07-29T14:49:52Z",
-      "url": "https://www.espn.com/college-football/story/_/id/49470625/2026-world-cup-college-teams-embraced-international-teams",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694777_608x342_16-9.jpg",
-      "byline": "Eli Lederman",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany",
-        "Algeria"
       ],
       "players": [],
       "score": 10
