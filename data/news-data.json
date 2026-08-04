@@ -1,13 +1,31 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-04T14:40:00.987Z",
+  "updated": "2026-08-04T16:31:58.674Z",
   "counts": {
+    "offfield": 19,
     "preview": 1,
-    "news": 29,
-    "offfield": 17,
+    "news": 27,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49528558",
+      "headline": "First USMNT fixtures after new Mauricio Pochettino deal revealed",
+      "description": "The United States men's national team returns to action for the first time since the 2026 World Cup during the September/October FIFA international window, hosting Peru, Chile, Canada and Mexico in friendlies across the country.",
+      "published": "2026-08-04T14:59:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49528558/first-usmnt-fixtures-new-mauricio-pochettino-deal-revealed",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA",
+        "Mexico",
+        "Canada"
+      ],
+      "players": [],
+      "score": 220
+    },
     {
       "id": "49525299",
       "headline": "Pochettino will now face a different pressure as USMNT boss",
@@ -22,7 +40,7 @@
         "USA"
       ],
       "players": [],
-      "score": 217
+      "score": 204
     },
     {
       "id": "49527911",
@@ -38,7 +56,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 196
+      "score": 183
     },
     {
       "id": "49527513",
@@ -52,7 +70,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 186
+      "score": 173
     },
     {
       "id": "49524620",
@@ -66,35 +84,16 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 152
+      "score": 140
     },
     {
-      "id": "49526703",
-      "headline": "Transfer rumors, news: Fenerbahce eye Man United's Rashford",
-      "description": "Fenerbahce are ready to make an ambitious move to sign Manchester United forward Marcus Rashford. Transfer Talk has the latest.",
-      "published": "2026-08-04T13:21:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49526703/transfer-rumors-news-fenerbahce-eye-man-united-winger-marcus-rashford",
-      "image": "https://a.espncdn.com/photo/2026/0111/r1599222_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Marcus Rashford",
-        "Vozinha"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49528078",
-      "headline": "Xabi Alonso hints at more transfer market activity at Chelsea",
-      "description": "Xabi Alonso hints at more transfer market activity at Chelsea",
-      "published": "2026-08-04T12:41:51Z",
-      "url": "https://www.espn.com/video/clip/_/id/49528078/xabi-alonso-hints-more-transfer-market-activity-chelsea",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_Xabi_Alonso_hints_at_more_transfer_market_activity_at_Chelsea/dm_260804_Xabi_Alonso_hints_at_more_transfer_market_activity_at_Chelsea.jpg",
-      "byline": null,
+      "id": "49524791",
+      "headline": "Why 'winning the summer transfer window' doesn't help Premier League clubs",
+      "description": "Clubs spend millions of dollars in the summer transfer window, trying to scoop up all the biggest stars. But is it actually worth it?",
+      "published": "2026-08-04T12:05:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49524791/why-winning-transfer-window-help-premier-league-clubs",
+      "image": "https://a.espncdn.com/photo/2025/1126/r1581240_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
@@ -103,40 +102,25 @@
       "players": [
         "Vozinha"
       ],
-      "score": 142
+      "score": 138
     },
     {
-      "id": "49524593",
-      "headline": "Has Iraola been backed as Liverpool manager?",
-      "description": "Has Iraola been backed as Liverpool manager?",
-      "published": "2026-08-03T22:58:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 142
-    },
-    {
-      "id": "49527942",
-      "headline": "Real Madrid set for crunch Vinícius Júnior talks but won't increase offer - sources",
-      "description": "Real Madrid are set to meet with Vinícius Júnior's representatives this week to resume contract renewal talks, sources have told ESPN.",
-      "published": "2026-08-04T12:17:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49527942/real-madrid-meet-vinicius-junior-contract-talks-increase-offer-sources",
-      "image": "https://a.espncdn.com/photo/2026/0325/r1633697_1296x729_16-9.jpg",
-      "byline": "Rodra and Gustavo Hofman",
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-08-04T11:51:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674230_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Cabo Verde"
       ],
       "players": [
-        "Vinícius Júnior",
         "Vozinha"
       ],
-      "score": 141
+      "score": 138
     },
     {
       "id": "49527825",
@@ -154,7 +138,77 @@
       "players": [
         "Vozinha"
       ],
-      "score": 140
+      "score": 138
+    },
+    {
+      "id": "49527630",
+      "headline": "Yan Diomande transfer to Real Madrid won't be held up by agency battle - Leipzig chief",
+      "description": "RB Leipzig managing director Marcel Schäfer has denied that the ongoing battle between Roc Nation and Max Gradel could derail the deal to take Yan Diomande to Real Madrid.",
+      "published": "2026-08-04T11:33:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49527630/leipzig-managing-director-denies-agency-battle-derail-yan-diomande-real-madrid-transfer",
+      "image": "https://a.espncdn.com/photo/2026/0529/r1665296_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Yan Diomande",
+        "Vozinha"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49527707",
+      "headline": "USMNT star Gio Reyna joins Strasbourg from Borussia Mönchengladbach",
+      "description": "Gio Reyna has completed a move to Strasbourg from Borussia Mönchengladbach.",
+      "published": "2026-08-04T11:30:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49527707/gio-reyna-usmnt-strasbourg-borussia-monchengladbach-bundesliga-ligue-1-transfers",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697430_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde",
+        "USA"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49524593",
+      "headline": "Has Iraola been backed as Liverpool manager?",
+      "description": "Has Iraola been backed as Liverpool manager?",
+      "published": "2026-08-03T22:58:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 130
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-04T11:47:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697408_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 126
     },
     {
       "id": "49524577",
@@ -170,26 +224,7 @@
         "USA"
       ],
       "players": [],
-      "score": 137
-    },
-    {
-      "id": "49528494",
-      "headline": "Mykhailo Mudryk could make return to Chelsea squad on Wednesday 20 months after last appearance",
-      "description": "Mykhailo Mudryk could step onto a football field for the first time in 20 months on Wednesday according to Chelsea manager Xabi Alonso.",
-      "published": "2026-08-04T14:06:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49528494/mykhailo-mudryk-make-return-chelsea-squad-wednesday-20-months-last-appearance",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697495_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Mykhailo Mudryk",
-        "Vozinha"
-      ],
-      "score": 132
+      "score": 124
     },
     {
       "id": "49521919",
@@ -205,25 +240,7 @@
         "USA"
       ],
       "players": [],
-      "score": 131
-    },
-    {
-      "id": "49528050",
-      "headline": "Paolo Maldini, Roberto Baggio among legends at Franco Baresi's funeral",
-      "description": "Paolo Maldini and Roberto Baggio were among those in attendance for the funeral of Franco Baresi.",
-      "published": "2026-08-04T12:40:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49528050/paolo-maldini-roberto-baggio-legends-franco-baresi-funeral",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697468_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 130
+      "score": 118
     },
     {
       "id": "49519755",
@@ -239,7 +256,7 @@
         "USA"
       ],
       "players": [],
-      "score": 118
+      "score": 115
     },
     {
       "id": "49519633",
@@ -251,22 +268,6 @@
       "byline": "Jeff Carlisle",
       "kind": "offfield",
       "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 110
-    },
-    {
-      "id": "49521510",
-      "headline": "Pochettino: Extending with USMNT was a great opportunity for me",
-      "description": "Pochettino: Extending with USMNT was a great opportunity for me",
-      "published": "2026-08-03T16:57:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/49521510/extending-usmnt-was-great-opportunity-me",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
       "teams": [
         "USA"
       ],
@@ -289,7 +290,23 @@
       "players": [
         "Vozinha"
       ],
-      "score": 99
+      "score": 96
+    },
+    {
+      "id": "49521510",
+      "headline": "Pochettino: Extending with USMNT was a great opportunity for me",
+      "description": "Pochettino: Extending with USMNT was a great opportunity for me",
+      "published": "2026-08-03T16:57:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/49521510/extending-usmnt-was-great-opportunity-me",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 95
     },
     {
       "id": "49466177",
@@ -313,7 +330,7 @@
         "Mathew Ryan",
         "Lucas Herrington"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "49518982",
@@ -327,7 +344,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 87
+      "score": 84
     },
     {
       "id": "49518390",
@@ -341,7 +358,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 84
+      "score": 81
     },
     {
       "id": "49513925",
@@ -355,7 +372,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 58
     },
     {
       "id": "49512906",
@@ -369,7 +386,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 56
+      "score": 53
     },
     {
       "id": "49511728",
@@ -383,7 +400,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 52
+      "score": 49
     },
     {
       "id": "47978642",
@@ -401,7 +418,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 44
+      "score": 41
     },
     {
       "id": "49496364",
@@ -419,7 +436,7 @@
         "USA"
       ],
       "players": [],
-      "score": 30
+      "score": 28
     },
     {
       "id": "49497803",
@@ -438,20 +455,6 @@
         "Yan Diomande"
       ],
       "score": 25
-    },
-    {
-      "id": "49503505",
-      "headline": "Gianni Infantino has 'lost UEFA's confidence' as World Cup investment plan fails",
-      "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
-      "published": "2026-08-01T18:47:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49503505/gianni-infantino-lost-uefa-confidence-world-cup-investment-plan-fails",
-      "image": "https://a.espncdn.com/photo/2024/0208/r1288495_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 24
     },
     {
       "id": "49495214",
@@ -502,6 +505,20 @@
       "score": 22
     },
     {
+      "id": "49503505",
+      "headline": "Gianni Infantino has 'lost UEFA's confidence' as World Cup investment plan fails",
+      "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
+      "published": "2026-08-01T18:47:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49503505/gianni-infantino-lost-uefa-confidence-world-cup-investment-plan-fails",
+      "image": "https://a.espncdn.com/photo/2024/0208/r1288495_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 21
+    },
+    {
       "id": "49497503",
       "headline": "Could Infantino lose FIFA presidency after World Cup plans were rejected?",
       "description": "Despite making FIFA unimaginable fortunes, Gianni Infantino is wearing out his welcome. His scrapped plans to privatize the World Cup might be the last straw.",
@@ -513,7 +530,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 21
+      "score": 18
     },
     {
       "id": "49496746",
@@ -589,34 +606,6 @@
       "score": 17
     },
     {
-      "id": "49503925",
-      "headline": "Marcotti: Infantino's sell-off plan never made sense",
-      "description": "Marcotti: Infantino's sell-off plan never made sense",
-      "published": "2026-08-01T12:02:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49503925/infantino-sell-plan-never-made-sense",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0801/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 14
-    },
-    {
-      "id": "49500782",
-      "headline": "Infantino scraps FIFA World Cup sell-off plan after backlash",
-      "description": "FIFA president Gianni Infantino scrapped his proposal to sell stakes in the World Cup after widespread backlash, including from within global soccer's governing body, and a threatened boycott by European nations.",
-      "published": "2026-08-01T11:43:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49500782/fifa-world-cup-investment-private-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 14
-    },
-    {
       "id": "49494854",
       "headline": "Casemiro calls Messi 'the god of football'",
       "description": "Casemiro calls Messi 'the god of football'",
@@ -637,22 +626,32 @@
       "score": 13
     },
     {
-      "id": "49476184",
-      "headline": "DJ Erling Haaland? How the Man City star is enjoying his summer",
-      "description": "Erling Haaland has used his post-World Cup break to not only lap up the European sun, but keep the internet meme-machine fed.",
-      "published": "2026-07-29T03:24:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49476184/dj-erling-haaland-how-man-city-star-enjoying-summer",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1694990_414x233_16-9.jpg",
-      "byline": "Joey Lynch",
+      "id": "49503925",
+      "headline": "Marcotti: Infantino's sell-off plan never made sense",
+      "description": "Marcotti: Infantino's sell-off plan never made sense",
+      "published": "2026-08-01T12:02:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49503925/infantino-sell-plan-never-made-sense",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0801/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 13
+      "teams": [],
+      "players": [],
+      "score": 11
+    },
+    {
+      "id": "49500782",
+      "headline": "Infantino scraps FIFA World Cup sell-off plan after backlash",
+      "description": "FIFA president Gianni Infantino scrapped his proposal to sell stakes in the World Cup after widespread backlash, including from within global soccer's governing body, and a threatened boycott by European nations.",
+      "published": "2026-08-01T11:43:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49500782/fifa-world-cup-investment-private-gianni-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 11
     },
     {
       "id": "49486943",
@@ -778,7 +777,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 9
+      "score": 6
     },
     {
       "id": "49497531",
