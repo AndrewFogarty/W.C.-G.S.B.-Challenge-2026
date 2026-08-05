@@ -1,14 +1,29 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-05T20:50:28.712Z",
+  "updated": "2026-08-05T22:03:10.052Z",
   "counts": {
-    "news": 25,
+    "news": 26,
     "offfield": 19,
     "preview": 2,
-    "injury": 1,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49540216",
+      "headline": "Canada PM Carney has no confidence in FIFA's Infantino",
+      "description": "Canadian Prime Minister Mark Carney said Wednesday he no longer has confidence in FIFA President Gianni Infantino, adding to growing pressure on the soccer leader after his abandoned plan to sell stakes in the World Cup sparked a global backlash.",
+      "published": "2026-08-05T21:32:06Z",
+      "url": "https://www.espn.com/espn/story/_/id/49540216/canada-pm-carney-no-confidence-fifa-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0415/r1644079_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Canada"
+      ],
+      "players": [],
+      "score": 209
+    },
     {
       "id": "49537988",
       "headline": "European leagues pile pressure on Infantino amid 'crisis' meeting",
@@ -21,7 +36,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 206
+      "score": 194
     },
     {
       "id": "49536495",
@@ -35,23 +50,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 192
-    },
-    {
-      "id": "49537044",
-      "headline": "Luís Figo joins calls for FIFA president Gianni Infantino to resign",
-      "description": "Portugal great Luís Figo has joined calls for FIFA president Gianni Infantino to step down over his failed plan to sell of the World Cup to private investors.",
-      "published": "2026-08-05T14:33:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49537044/luis-figo-joins-calls-fifa-president-gianni-infantino-resign",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697944_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [],
-      "score": 183
+      "score": 180
     },
     {
       "id": "49537179",
@@ -69,7 +68,23 @@
       "players": [
         "Vozinha"
       ],
-      "score": 183
+      "score": 172
+    },
+    {
+      "id": "49537044",
+      "headline": "Luís Figo joins calls for FIFA president Gianni Infantino to resign",
+      "description": "Portugal great Luís Figo has joined calls for FIFA president Gianni Infantino to step down over his failed plan to sell of the World Cup to private investors.",
+      "published": "2026-08-05T14:33:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49537044/luis-figo-joins-calls-fifa-president-gianni-infantino-resign",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697944_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [],
+      "score": 171
     },
     {
       "id": "49523086",
@@ -87,21 +102,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 172
-    },
-    {
-      "id": "49534594",
-      "headline": "Gianni Infantino calls emergency FIFA staff meeting as pressure grows - report",
-      "description": "Gianni Infantino has called an emergency meeting of FIFA staff in Rabat on Wednesday as pressure on the president ramps up, the Press Association understands.",
-      "published": "2026-08-05T12:18:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49534594/gianni-infantino-calls-emergency-fifa-staff-meeting-pressure-grows",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 143
+      "score": 160
     },
     {
       "id": "49534606",
@@ -119,7 +120,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 142
+      "score": 141
     },
     {
       "id": "49539233",
@@ -138,7 +139,7 @@
         "Miguel Gutiérrez",
         "Vozinha"
       ],
-      "score": 142
+      "score": 140
     },
     {
       "id": "49539174",
@@ -157,7 +158,7 @@
         "Vinícius Júnior",
         "Vozinha"
       ],
-      "score": 142
+      "score": 140
     },
     {
       "id": "49535386",
@@ -176,38 +177,6 @@
         "Mykhailo Mudryk",
         "Vozinha"
       ],
-      "score": 141
-    },
-    {
-      "id": "49537919",
-      "headline": "Celtic manager Martin O'Neill recovering in hospital after 'small procedure'",
-      "description": "Celtic have announced that Martin O'Neill is recovering after undergoing \"a small procedure\" in hospital.",
-      "published": "2026-08-05T15:56:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49537919/celtic-manager-martin-oneill-recovering-hospital-small-procedure",
-      "image": "https://a.espncdn.com/photo/2025/1102/r1569857_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 140
-    },
-    {
-      "id": "49532221",
-      "headline": "Does soccer need to vote against Infantino?",
-      "description": "Does soccer need to vote against Infantino?",
-      "published": "2026-08-05T16:21:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
       "score": 139
     },
     {
@@ -227,7 +196,7 @@
         "Benjamin Whiteman",
         "Vozinha"
       ],
-      "score": 137
+      "score": 135
     },
     {
       "id": "49538689",
@@ -246,7 +215,21 @@
         "Mykhailo Mudryk",
         "Vozinha"
       ],
-      "score": 135
+      "score": 133
+    },
+    {
+      "id": "49534594",
+      "headline": "Gianni Infantino calls emergency FIFA staff meeting as pressure grows - report",
+      "description": "Gianni Infantino has called an emergency meeting of FIFA staff in Rabat on Wednesday as pressure on the president ramps up, the Press Association understands.",
+      "published": "2026-08-05T12:18:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49534594/gianni-infantino-calls-emergency-fifa-staff-meeting-pressure-grows",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 131
     },
     {
       "id": "49488797",
@@ -264,43 +247,21 @@
       "players": [
         "Vozinha"
       ],
-      "score": 130
+      "score": 128
     },
     {
-      "id": "49538268",
-      "headline": "Maresca: Manchester City are going to be even better",
-      "description": "Maresca: Manchester City are going to be even better",
-      "published": "2026-08-05T16:50:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49538268/manchester-city-going-even-better",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_Maresca_Manchester_City_are_going_to_be_even_better/dm_260805_Maresca_Manchester_City_are_going_to_be_even_better.jpg",
+      "id": "49532221",
+      "headline": "Does soccer need to vote against Infantino?",
+      "description": "Does soccer need to vote against Infantino?",
+      "published": "2026-08-05T16:21:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
+      "teams": [],
+      "players": [],
       "score": 127
-    },
-    {
-      "id": "49537300",
-      "headline": "Chelsea lose to Juventus in preseason friendly",
-      "description": "Chelsea lose to Juventus in preseason friendly",
-      "published": "2026-08-05T14:34:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49537300/chelsea-lose-juventus-preseason-friendly",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Highlight_Chelsea_lose_to_Juventus_in_preseason_friendly_20260805_GLOBAL/dm_260805_COM_SOC_Highlight_Chelsea_lose_to_Juventus_in_preseason_friendly_20260805_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 124
     },
     {
       "id": "49532207",
@@ -318,7 +279,23 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 120
+      "score": 118
+    },
+    {
+      "id": "49529781",
+      "headline": "Cape Verde coach Bubista steps down after historic World Cup campaign",
+      "description": "Cape Verde coach Bubista, who led the World Cup debutants to a stellar tournament, joined Moroccan club RS Berkane on Tuesday.",
+      "published": "2026-08-04T17:03:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 99
     },
     {
       "id": "49532210",
@@ -336,23 +313,7 @@
       "players": [
         "Rodri"
       ],
-      "score": 110
-    },
-    {
-      "id": "49529781",
-      "headline": "Cape Verde coach Bubista steps down after historic World Cup campaign",
-      "description": "Cape Verde coach Bubista, who led the World Cup debutants to a stellar tournament, joined Moroccan club RS Berkane on Tuesday.",
-      "published": "2026-08-04T17:03:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 100
+      "score": 98
     },
     {
       "id": "49528558",
@@ -370,7 +331,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 100
+      "score": 98
     },
     {
       "id": "49527513",
@@ -384,7 +345,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 92
+      "score": 90
     },
     {
       "id": "49525299",
@@ -400,7 +361,7 @@
         "USA"
       ],
       "players": [],
-      "score": 92
+      "score": 90
     },
     {
       "id": "49527911",
@@ -416,7 +377,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 81
+      "score": 79
     },
     {
       "id": "49519755",
@@ -432,7 +393,7 @@
         "USA"
       ],
       "players": [],
-      "score": 72
+      "score": 70
     },
     {
       "id": "49521919",
@@ -448,7 +409,7 @@
         "USA"
       ],
       "players": [],
-      "score": 65
+      "score": 64
     },
     {
       "id": "49519633",
@@ -464,7 +425,7 @@
         "USA"
       ],
       "players": [],
-      "score": 65
+      "score": 63
     },
     {
       "id": "49524577",
@@ -480,7 +441,7 @@
         "USA"
       ],
       "players": [],
-      "score": 61
+      "score": 59
     },
     {
       "id": "49524620",
@@ -494,7 +455,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49524593",
@@ -508,7 +469,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 57
+      "score": 55
     },
     {
       "id": "49518399",
@@ -526,7 +487,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 53
+      "score": 52
     },
     {
       "id": "49521510",
@@ -542,7 +503,7 @@
         "USA"
       ],
       "players": [],
-      "score": 52
+      "score": 50
     },
     {
       "id": "49466177",
@@ -566,7 +527,7 @@
         "Mathew Ryan",
         "Lucas Herrington"
       ],
-      "score": 45
+      "score": 44
     },
     {
       "id": "49518982",
@@ -580,7 +541,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 42
+      "score": 40
     },
     {
       "id": "49518390",
@@ -594,7 +555,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 38
+      "score": 36
     },
     {
       "id": "49497803",
@@ -718,7 +679,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 15
+      "score": 13
     },
     {
       "id": "47978642",
@@ -759,20 +720,6 @@
       "score": 13
     },
     {
-      "id": "49512906",
-      "headline": "Real Madrid thank UEFA for 'protecting football' after FIFA abandon private equity proposal",
-      "description": "Real Madrid have praised UEFA for helping protect football \"at a decisive moment\" after FIFA abandoned plans to sell stakes in a World Cup company to private investors.",
-      "published": "2026-08-02T15:52:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49512906/real-madrid-thank-uefa-protecting-football-fifa-abandon-private-equity-proposal",
-      "image": "https://a.espncdn.com/photo/2026/0802/r1696702_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 11
-    },
-    {
       "id": "49486943",
       "headline": "Carlo Ancelotti: Tactical mistake during hydration break led to Brazil's World Cup exit",
       "description": "Brazil coach Carlo Ancelotti has blamed the tactical changes he made during the second-half hydration break against Norway for his team's early exit from the World Cup.",
@@ -790,6 +737,20 @@
       "score": 10
     },
     {
+      "id": "49512906",
+      "headline": "Real Madrid thank UEFA for 'protecting football' after FIFA abandon private equity proposal",
+      "description": "Real Madrid have praised UEFA for helping protect football \"at a decisive moment\" after FIFA abandoned plans to sell stakes in a World Cup company to private investors.",
+      "published": "2026-08-02T15:52:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49512906/real-madrid-thank-uefa-protecting-football-fifa-abandon-private-equity-proposal",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696702_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 9
+    },
+    {
       "id": "49511728",
       "headline": "Why Infantino's plans to sell off World Cup made no sense",
       "description": "FIFA president Gianni Infantino has gambled unsuccessfully on questionable ideas before, but his World Cup plans were ham-fisted and delusional from both a business and political perspective.",
@@ -801,7 +762,35 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 7
+      "score": 6
+    },
+    {
+      "id": "49503505",
+      "headline": "Gianni Infantino has 'lost UEFA's confidence' as World Cup investment plan fails",
+      "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
+      "published": "2026-08-01T18:47:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49503505/gianni-infantino-lost-uefa-confidence-world-cup-investment-plan-fails",
+      "image": "https://a.espncdn.com/photo/2024/0208/r1288495_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49497503",
+      "headline": "Could Infantino lose FIFA presidency after World Cup plans were rejected?",
+      "description": "Despite making FIFA unimaginable fortunes, Gianni Infantino is wearing out his welcome. His scrapped plans to privatize the World Cup might be the last straw.",
+      "published": "2026-08-01T16:31:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49497503/fifa-world-cup-president-gianni-infantino-world-cup-selloff-plan-lose-power-analysis",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1696005_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
