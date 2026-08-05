@@ -1,13 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-05T14:31:20.287Z",
+  "updated": "2026-08-05T16:18:25.545Z",
   "counts": {
-    "news": 25,
+    "news": 23,
+    "offfield": 19,
     "preview": 4,
-    "offfield": 18,
+    "injury": 1,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49537988",
+      "headline": "European leagues pile pressure on Infantino amid 'crisis' meeting",
+      "description": "The association of European soccer leagues called for governance reform of FIFA on Wednesday, adding to the mounting pressure on president Gianni Infantino following his failed plan",
+      "published": "2026-08-05T16:15:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49537988/european-leagues-fifa-gianni-infantino-meeting",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695694_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 206
+    },
     {
       "id": "49537179",
       "headline": "Vozinha: 'Representing Colo-Colo is the best moment of my club career'",
@@ -24,7 +39,23 @@
       "players": [
         "Vozinha"
       ],
-      "score": 213
+      "score": 200
+    },
+    {
+      "id": "49537044",
+      "headline": "Luís Figo joins calls for FIFA president Gianni Infantino to resign",
+      "description": "Portugal great Luís Figo has joined calls for FIFA president Gianni Infantino to step down over his failed plan to sell of the World Cup to private investors.",
+      "published": "2026-08-05T14:33:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49537044/luis-figo-joins-calls-fifa-president-gianni-infantino-resign",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697944_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [],
+      "score": 199
     },
     {
       "id": "49523086",
@@ -42,7 +73,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 212
+      "score": 189
     },
     {
       "id": "49534594",
@@ -56,7 +87,83 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 183
+      "score": 160
+    },
+    {
+      "id": "49537919",
+      "headline": "Celtic manager Martin O'Neill recovering in hospital after 'small procedure'",
+      "description": "Celtic have announced that Martin O'Neill is recovering after undergoing \"a small procedure\" in hospital.",
+      "published": "2026-08-05T15:56:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49537919/celtic-manager-martin-oneill-recovering-hospital-small-procedure",
+      "image": "https://a.espncdn.com/photo/2025/1102/r1569857_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Casemiro"
+      ],
+      "score": 146
+    },
+    {
+      "id": "49534606",
+      "headline": "Transfer rumors, news: Spurs eye USMNT star Balogun, alongside Osimhen, Jackson",
+      "description": "AS Monaco and USMNT striker Folarin Balogun has been offered to Tottenham Hotspur. Transfer Talk has the latest.",
+      "published": "2026-08-05T15:46:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49534606/transfer-rumors-news-spurs-eye-usmnt-star-balogun-alongside-osimhen-jackson",
+      "image": "https://a.espncdn.com/photo/2026/0304/r1622848_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun",
+        "Casemiro"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49535386",
+      "headline": "Mykhailo Mudryk plays for Chelsea after 20-month doping ban",
+      "description": "Chelsea winger Mykhailo Mudryk returned in Wednesday's pre-season friendly against Juventus after serving a 20-month doping ban.",
+      "published": "2026-08-05T14:16:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49535386/mykhailo-mudryk-plays-chelsea-20-month-doping-ban",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697940_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Mykhailo Mudryk",
+        "Casemiro"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49536133",
+      "headline": "Mohamed Salah tells Trabzonspor 'see you very soon' as transfer nears",
+      "description": "Mohamed Salah was greeted by cheering Trabzonspor fans in Istanbul on Wednesday as he closed in on a move to the Turkish club.",
+      "published": "2026-08-05T12:00:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49536133/mohamed-salah-greeted-raucous-trabzonspor-fans-transfer-nears",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697883_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Vozinha"
+      ],
+      "score": 139
     },
     {
       "id": "49532207",
@@ -74,7 +181,101 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 160
+      "score": 137
+    },
+    {
+      "id": "49535743",
+      "headline": "Chelsea close to £16.3m Pep Chavarria deal from Rayo Vallecano - report",
+      "description": "Chelsea are close to agreeing a £16.3million deal to sign defender Pep Chavarría from Rayo Vallecano, the Press Association understands.",
+      "published": "2026-08-05T11:12:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49535743/chelsea-close-163m-pep-chavarria-deal-rayo-vallecano",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697867_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49535696",
+      "headline": "Maresca: Man City still have more to do in the transfer window",
+      "description": "Maresca: Man City still have more to do in the transfer window",
+      "published": "2026-08-05T11:02:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/49535696/man-city-more-do-transfer-window",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_Maresca_Man_City_still_have_more_to_do_in_the_transfer_window/dm_260805_Maresca_Man_City_still_have_more_to_do_in_the_transfer_window.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Gerónimo Rulli",
+        "James Trafford",
+        "Vozinha"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49535315",
+      "headline": "K-League All Stars vs. Manchester City LIVE: Latest updates from preseason friendly in South Korea",
+      "description": "ESPN has live updates as Manchester City take on a K-League All Stars side in Seoul, South Korea.",
+      "published": "2026-08-05T12:04:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49535315/k-league-all-stars-manchester-city-live-friendly-latest-updates-commentary-score-result",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697880_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Cabo Verde",
+        "Korea Republic"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49535560",
+      "headline": "Cristiano Ronaldo watches from stands as club he plays for meet club he part-owns",
+      "description": "Cristiano Ronaldo took time from his holidays to watch Al Nassr take on Spanish second division outfit UD Almeria in Tuesday's preseason friendly in Lisbon.",
+      "published": "2026-08-05T10:42:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49535560/cristiano-ronaldo-watches-stands-al-nassr-play-almeria",
+      "image": "https://a.espncdn.com/photo/2026/0212/r1614430_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Vozinha"
+      ],
+      "score": 134
+    },
+    {
+      "id": "49537300",
+      "headline": "Chelsea lose to Juventus in preseason friendly",
+      "description": "Chelsea lose to Juventus in preseason friendly",
+      "published": "2026-08-05T14:34:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49537300/chelsea-lose-juventus-preseason-friendly",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Highlight_Chelsea_lose_to_Juventus_in_preseason_friendly_20260805_GLOBAL/dm_260805_COM_SOC_Highlight_Chelsea_lose_to_Juventus_in_preseason_friendly_20260805_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Casemiro"
+      ],
+      "score": 130
     },
     {
       "id": "49532221",
@@ -88,7 +289,44 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 152
+      "score": 129
+    },
+    {
+      "id": "49535561",
+      "headline": "Chelsea vs. Juventus LIVE: Latest updates from preseason friendly in Hong Kong",
+      "description": "Chelsea continue their preseason campaign with an intriguing tie against Juventus in Hong Kong and you can follow it live with ESPN.",
+      "published": "2026-08-05T11:57:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49535561/chelsea-vs-juventus-live-latest-updates-preseason-friendly-hong-kong",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697885_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49535948",
+      "headline": "Neymar called a 'lowlife,' accused of provoking players by rival club president",
+      "description": "The president of Brazilian club Remo accused Santos star Neymar of provocation after Tuesday's Brazilian Cup game.",
+      "published": "2026-08-05T11:42:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49535948/neymar-called-lowlife-accused-provoking-players-rival-club-president",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697422_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Neymar",
+        "Vozinha"
+      ],
+      "score": 126
     },
     {
       "id": "49532210",
@@ -106,284 +344,25 @@
       "players": [
         "Rodri"
       ],
-      "score": 149
-    },
-    {
-      "id": "49535386",
-      "headline": "Mykhailo Mudryk plays for Chelsea after 20-month doping ban",
-      "description": "Chelsea winger Mykhailo Mudryk returned in Wednesday's pre-season friendly against Juventus after serving a 20-month doping ban.",
-      "published": "2026-08-05T14:16:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535386/mykhailo-mudryk-plays-chelsea-20-month-doping-ban",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697940_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Mykhailo Mudryk",
-        "Erling Haaland"
-      ],
-      "score": 145
-    },
-    {
-      "id": "49536305",
-      "headline": "Real Madrid's Franco Mastantuono set for Fiorentina loan - sources",
-      "description": "Franco Mastantuono is set to join Fiorentina from Real Madrid on a season-long loan, sources have told ESPN.",
-      "published": "2026-08-05T12:24:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536305/real-madrid-franco-mastantuono-set-fiorentina-loan-sources",
-      "image": "https://a.espncdn.com/photo/2025/1229/r1594616_1296x729_16-9.jpg",
-      "byline": "Rodrigo Faez and Alex Kirkland",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Franco Mastantuono",
-        "Erling Haaland"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49536395",
-      "headline": "Huge crowds greet Salah in Turkey ahead of Trabzonspor move",
-      "description": "Huge crowds greet Salah in Turkey ahead of Trabzonspor move",
-      "published": "2026-08-05T12:28:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/49536395/huge-crowds-greet-salah-turkey-ahead-trabzonspor-move",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_News_Huge_crowds_greet_Salah_in_Turkey_ahead_of_Trabzonspor_move__20260805_GLOBAL/dm_260805_COM_SOC_News_Huge_crowds_greet_Salah_in_Turkey_ahead_of_Trabzonspor_move__20260805_GLOBAL.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA",
-        "Egypt",
-        "Turkey"
-      ],
-      "players": [
-        "Mohamed Salah",
-        "Erling Haaland"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49535037",
-      "headline": "Trevoh Chalobah set to join Como from Chelsea on permanent deal - sources",
-      "description": "Trevoh Chalobah is set to join Serie A side Como from Chelsea on a five-year deal, sources have told ESPN.",
-      "published": "2026-08-05T10:00:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535037/trevoh-chalobah-como-chelsea-premier-league-serie-transfers",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697843_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49534772",
-      "headline": "Arsenal agree deal with Newcastle to sign Bruno Guimarães - sources",
-      "description": "Bruno Guimarães is close to completing his move from Newcastle United to Arsenal, sources have told ESPN.",
-      "published": "2026-08-05T09:33:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49534772/arsenal-agree-deal-sign-bruno-guimaraes-newcastle-sources",
-      "image": "https://a.espncdn.com/photo/2025/0423/r1482749_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Bruno Guimarães",
-        "Vozinha"
-      ],
-      "score": 138
-    },
-    {
-      "id": "48897670",
-      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
-      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
-      "published": "2026-08-05T09:29:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 134
-    },
-    {
-      "id": "49535561",
-      "headline": "Chelsea 0-1 Juventus: Zhegrova strike sees Serie A side overcome Blues - as it happened",
-      "description": "Chelsea continue their preseason campaign with an intriguing tie against Juventus in Hong Kong and you can follow it live with ESPN.",
-      "published": "2026-08-05T14:06:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535561/chelsea-vs-juventus-live-latest-updates-preseason-friendly-hong-kong",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697901_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 132
+      "score": 126
     },
     {
       "id": "49535666",
-      "headline": "Eva Olid named Man United Women head coach",
-      "description": "Eva Olid has been named head coach of Women's Super League side Manchester United.",
-      "published": "2026-08-05T14:05:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535666/eva-olid-named-man-united-women-head-coach",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697931_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49536838",
-      "headline": "Man City cruise to preseason win against K League All Stars",
-      "description": "Manchester City ran out 3-1 winners in a preseason friendly against the K-League All Stars in Seoul, South Korea.",
-      "published": "2026-08-05T14:00:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536838/man-city-cruise-preseason-win-k-league-all-stars",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697924_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Korea Republic"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49535315",
-      "headline": "K-League All Stars 1-3 Manchester City: Enzo Maresca wins first match as City boss - as it happened",
-      "description": "Enzo Maresca earned his first victory as Manchester City manager on Wednesday, with a 3-1 win over the K-League All Stars in Seoul, South Korea.",
-      "published": "2026-08-05T13:09:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535315/k-league-all-stars-manchester-city-live-friendly-latest-updates-commentary-score-result",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697880_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Korea Republic"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49534831",
-      "headline": "Patrick Deyto's comeback offers hope for Philippines despite heartbreak against Thailand",
-      "description": "The return of Patrick Deyto offered Philippines some consolation in their heartbreaking loss to Thailand on Tuesday.",
-      "published": "2026-08-05T09:30:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49534831/patrick-deyto-comeback-hope-philippines-heartbreak-thailand",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697839_1296x729_16-9.jpg",
-      "byline": "Mikhail De Guzman",
+      "headline": "Eva Olid set for Man United WSL head coach role - report",
+      "description": "Eva Olid is set to be named head coach of Women's Super League side Manchester United, the Press Association understands.",
+      "published": "2026-08-05T10:56:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49535666/eva-olid-set-man-united-wsl-head-coach-role-report",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697864_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Cabo Verde"
       ],
       "players": [
-        "Patrick Deyto",
         "Vozinha"
       ],
       "score": 125
-    },
-    {
-      "id": "49535011",
-      "headline": "Rafaelson once again looming as the man to fire Vietnam to ASEAN Championship glory",
-      "description": "Rafaelson may have scored just two of Vietnam's ten goals so far, but he still looks the man to fire them to ASEAN Championship glory again.",
-      "published": "2026-08-05T09:24:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535011/rafaelson-looming-man-fire-vietnam-asean-championship-glory",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697844_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Rafaelson",
-        "Vozinha"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49163915",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "published": "2026-08-05T08:35:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49525710",
-      "headline": "New \"Ted Lasso\" season features NWSL's Kansas City Current as plot point",
-      "description": "The new season of \"Ted Lasso\" was filmed in the U.S. at a real-life NWSL club for a cameo that serves as a key plot point of the show.",
-      "published": "2026-08-05T08:06:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49525710/new-ted-lasso-season-features-nwsl-kansas-city-current-plot-point",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697380_1296x729_16-9.png",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "USA"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49527513",
-      "headline": "Top FIFA executives break with Infantino over World Cup plan",
-      "description": "Two senior FIFA executives -- coaching great Arsène Wenger and CEO-like secretary general Mattias Grafström -- distanced themselves Tuesday from their boss Gianni Infantino's failed plan to sell stakes in future World Cup profits to private investors.",
-      "published": "2026-08-04T22:20:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49527513/arsene-wenger-gianni-infantino-fifa-world-cup-sell-u-turn-absolutely-necessary",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697427_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 122
     },
     {
       "id": "49529781",
@@ -399,7 +378,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 120
+      "score": 107
     },
     {
       "id": "49528558",
@@ -417,7 +396,21 @@
         "Canada"
       ],
       "players": [],
-      "score": 109
+      "score": 107
+    },
+    {
+      "id": "49527513",
+      "headline": "Top FIFA executives break with Infantino over World Cup plan",
+      "description": "Two senior FIFA executives -- coaching great Arsène Wenger and CEO-like secretary general Mattias Grafström -- distanced themselves Tuesday from their boss Gianni Infantino's failed plan to sell stakes in future World Cup profits to private investors.",
+      "published": "2026-08-04T22:20:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49527513/arsene-wenger-gianni-infantino-fifa-world-cup-sell-u-turn-absolutely-necessary",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697427_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 99
     },
     {
       "id": "49525299",
@@ -433,7 +426,7 @@
         "USA"
       ],
       "players": [],
-      "score": 101
+      "score": 99
     },
     {
       "id": "49527911",
@@ -449,7 +442,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 90
+      "score": 88
     },
     {
       "id": "49519755",
@@ -465,7 +458,7 @@
         "USA"
       ],
       "players": [],
-      "score": 82
+      "score": 79
     },
     {
       "id": "49521919",
@@ -481,7 +474,7 @@
         "USA"
       ],
       "players": [],
-      "score": 75
+      "score": 72
     },
     {
       "id": "49519633",
@@ -497,7 +490,7 @@
         "USA"
       ],
       "players": [],
-      "score": 74
+      "score": 72
     },
     {
       "id": "49524577",
@@ -513,7 +506,7 @@
         "USA"
       ],
       "players": [],
-      "score": 71
+      "score": 68
     },
     {
       "id": "49524620",
@@ -527,7 +520,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 67
+      "score": 64
     },
     {
       "id": "49524593",
@@ -541,7 +534,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 67
+      "score": 64
     },
     {
       "id": "49518399",
@@ -559,7 +552,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "49521510",
@@ -575,7 +568,7 @@
         "USA"
       ],
       "players": [],
-      "score": 62
+      "score": 59
     },
     {
       "id": "49466177",
@@ -599,7 +592,7 @@
         "Mathew Ryan",
         "Lucas Herrington"
       ],
-      "score": 55
+      "score": 52
     },
     {
       "id": "49518982",
@@ -613,7 +606,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 51
+      "score": 49
     },
     {
       "id": "49518390",
@@ -627,21 +620,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 48
-    },
-    {
-      "id": "49513925",
-      "headline": "Andy Burnham: Gianni Infantino isn't the right man to lead FIFA - we can't 'move on and forget' World Cup plan",
-      "description": "U.K. Prime Minister Andy Burnham has doubled down on his call for change at the top of FIFA, insisting football cannot \"move on and forget.\"",
-      "published": "2026-08-02T18:57:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49513925/andy-burnham-gianni-infantino-right-man-fifa-move-forget-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0802/r1696768_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 25
+      "score": 45
     },
     {
       "id": "49497803",
@@ -660,6 +639,20 @@
         "Yan Diomande"
       ],
       "score": 25
+    },
+    {
+      "id": "49513925",
+      "headline": "Andy Burnham: Gianni Infantino isn't the right man to lead FIFA - we can't 'move on and forget' World Cup plan",
+      "description": "U.K. Prime Minister Andy Burnham has doubled down on his call for change at the top of FIFA, insisting football cannot \"move on and forget.\"",
+      "published": "2026-08-02T18:57:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49513925/andy-burnham-gianni-infantino-right-man-fifa-move-forget-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696768_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 22
     },
     {
       "id": "49496364",
@@ -712,36 +705,6 @@
       "score": 22
     },
     {
-      "id": "49484972",
-      "headline": "USSF president: Pochettino new deal talks 'going well,' announcement coming soon",
-      "description": "United States Soccer Federation president Cindy Parlow Cone said Wednesday before the MLS All-Star Game that conversations with Mauricio Pochettino to extend his contract as U.S. men's national team manager are \"going well.\"",
-      "published": "2026-07-30T03:09:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49484972/us-soccer-president-parlow-cone-pochettino-new-deal-talks-going-well-announcement-coming-soon",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695421_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 22
-    },
-    {
-      "id": "49512906",
-      "headline": "Real Madrid thank UEFA for 'protecting football' after FIFA abandon private equity proposal",
-      "description": "Real Madrid have praised UEFA for helping protect football \"at a decisive moment\" after FIFA abandoned plans to sell stakes in a World Cup company to private investors.",
-      "published": "2026-08-02T15:52:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49512906/real-madrid-thank-uefa-protecting-football-fifa-abandon-private-equity-proposal",
-      "image": "https://a.espncdn.com/photo/2026/0802/r1696702_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 20
-    },
-    {
       "id": "49496746",
       "headline": "U.K. Prime Minister Andy Burnham becomes first leader of a major country to call on FIFA president Gianni Infantino to resign",
       "description": "The U.K. Prime Minister Andy Burnham has called on FIFA President Gianni Infantino to resign over the plan to sell stakes in the World Cup to a private equity group.",
@@ -784,6 +747,20 @@
       "score": 18
     },
     {
+      "id": "49512906",
+      "headline": "Real Madrid thank UEFA for 'protecting football' after FIFA abandon private equity proposal",
+      "description": "Real Madrid have praised UEFA for helping protect football \"at a decisive moment\" after FIFA abandoned plans to sell stakes in a World Cup company to private investors.",
+      "published": "2026-08-02T15:52:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49512906/real-madrid-thank-uefa-protecting-football-fifa-abandon-private-equity-proposal",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696702_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 17
+    },
+    {
       "id": "49470517",
       "headline": "Have World Cup withdrawal? Enjoy the greatest kits in the tournament's history",
       "description": "The 2026 World Cup has come and gone, so after all 48 teams' kits on the pitch, how many of them made ESPN's list of the best in competition history?",
@@ -812,7 +789,25 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 16
+      "score": 14
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-08-02T03:17:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 13
     }
   ]
 }
