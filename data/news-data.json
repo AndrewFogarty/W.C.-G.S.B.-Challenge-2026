@@ -1,13 +1,42 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-05T22:03:10.052Z",
+  "updated": "2026-08-05T23:15:46.578Z",
   "counts": {
-    "news": 26,
+    "news": 27,
     "offfield": 19,
-    "preview": 2,
-    "celebration": 1
+    "preview": 2
   },
   "items": [
+    {
+      "id": "49540676",
+      "headline": "Was Figo right to criticise FIFA president Infantino?",
+      "description": "Was Figo right to criticise FIFA president Infantino?",
+      "published": "2026-08-05T22:26:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticise-fifa-president-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
+    {
+      "id": "49540626",
+      "headline": "Infantino sorry for 'errors' but gets FIFA board's 'full support'",
+      "description": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a summit held in Morocco \"reaffirmed their full support\" for his presidency.",
+      "published": "2026-08-05T22:51:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49540626/gianni-infantino-fifa-president-meeting-morocco-support",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Morocco"
+      ],
+      "players": [],
+      "score": 199
+    },
     {
       "id": "49540216",
       "headline": "Canada PM Carney has no confidence in FIFA's Infantino",
@@ -22,7 +51,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 209
+      "score": 187
     },
     {
       "id": "49537988",
@@ -36,7 +65,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 194
+      "score": 172
     },
     {
       "id": "49536495",
@@ -50,7 +79,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 180
+      "score": 158
     },
     {
       "id": "49537179",
@@ -68,7 +97,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 172
+      "score": 150
     },
     {
       "id": "49537044",
@@ -84,25 +113,26 @@
         "Portugal"
       ],
       "players": [],
-      "score": 171
+      "score": 149
     },
     {
-      "id": "49523086",
-      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
-      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
-      "published": "2026-08-05T14:18:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
-      "byline": "Bill Connelly",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49540382",
+      "headline": "Everton sign midfielder Christian Nørgaard from Arsenal",
+      "description": "Everton have completed the signing of Denmark international Christian Nørgaard from Arsenal, the clubs announced Wednesday.",
+      "published": "2026-08-05T21:37:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49540382/everton-christian-norgaard-arsenal-transfer",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698112_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "USA"
+        "Cabo Verde"
       ],
       "players": [
-        "Erling Haaland"
+        "Christian Nørgaard",
+        "Vozinha"
       ],
-      "score": 160
+      "score": 143
     },
     {
       "id": "49534606",
@@ -120,7 +150,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 141
+      "score": 139
     },
     {
       "id": "49539233",
@@ -139,7 +169,25 @@
         "Miguel Gutiérrez",
         "Vozinha"
       ],
-      "score": 140
+      "score": 139
+    },
+    {
+      "id": "49523086",
+      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
+      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
+      "published": "2026-08-05T14:18:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
+      "byline": "Bill Connelly",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 139
     },
     {
       "id": "49539174",
@@ -152,32 +200,13 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Cabo Verde"
+        "Spain"
       ],
       "players": [
         "Vinícius Júnior",
-        "Vozinha"
+        "Rodri"
       ],
-      "score": 140
-    },
-    {
-      "id": "49535386",
-      "headline": "Mykhailo Mudryk makes 'emotional' Chelsea return after doping ban",
-      "description": "Mykhailo Mudryk made his first appearance for Chelsea following a 20-month doping ban in the club's 1-0 preseason friendly defeat to Juventus on Wednesday.",
-      "published": "2026-08-05T17:57:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535386/mykhailo-mudryk-plays-chelsea-20-month-doping-ban",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697940_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Mykhailo Mudryk",
-        "Vozinha"
-      ],
-      "score": 139
+      "score": 138
     },
     {
       "id": "49539381",
@@ -196,40 +225,44 @@
         "Benjamin Whiteman",
         "Vozinha"
       ],
-      "score": 135
+      "score": 133
     },
     {
-      "id": "49538689",
-      "headline": "Alonso: Mykhailo Mudryk's return was 'emotional' for Chelsea",
-      "description": "Alonso: Mykhailo Mudryk's return was 'emotional' for Chelsea",
-      "published": "2026-08-05T17:43:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/49538689/mykhailo-mudryk-return-was-emotional-chelsea",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_Alonso_Mykhailo_Mudryks_return_was_emotional_for_Chelsea/dm_260805_Alonso_Mykhailo_Mudryks_return_was_emotional_for_Chelsea.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49540284",
+      "headline": "Arsenal suffer disappointing defeat to Real Betis in preseason friendly",
+      "description": "Arsenal were soundly beaten 3-1 by Real Betis in their preseason friendly in Dublin.",
+      "published": "2026-08-05T21:33:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49540284/arsenal-suffer-disappointing-defeat-real-betis-pre-season-friendly",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698111_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Cabo Verde"
       ],
       "players": [
-        "Mykhailo Mudryk",
         "Vozinha"
       ],
-      "score": 133
+      "score": 130
     },
     {
-      "id": "49534594",
-      "headline": "Gianni Infantino calls emergency FIFA staff meeting as pressure grows - report",
-      "description": "Gianni Infantino has called an emergency meeting of FIFA staff in Rabat on Wednesday as pressure on the president ramps up, the Press Association understands.",
-      "published": "2026-08-05T12:18:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49534594/gianni-infantino-calls-emergency-fifa-staff-meeting-pressure-grows",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49540038",
+      "headline": "Mason Greenwood nets 1st Fenerbahce goal in Champions League qualifier",
+      "description": "Former Manchester United forward Mason Greenwood scored his first goal for Fenerbahce as the Turkish club claimed a 2-0 first-leg advantage over Sturm Graz in Champions League qualifying.",
+      "published": "2026-08-05T20:29:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49540038/mason-greenwood-fenerbahce-goal-champions-league-qualifying-sturm-graz",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698093_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 131
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Mason Greenwood",
+        "Vozinha"
+      ],
+      "score": 129
     },
     {
       "id": "49488797",
@@ -242,12 +275,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Cabo Verde"
+        "Spain"
       ],
       "players": [
-        "Vozinha"
+        "Rodri"
       ],
-      "score": 128
+      "score": 126
     },
     {
       "id": "49532221",
@@ -261,7 +294,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 127
+      "score": 116
     },
     {
       "id": "49532207",
@@ -279,7 +312,21 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 118
+      "score": 116
+    },
+    {
+      "id": "49534594",
+      "headline": "Gianni Infantino calls emergency FIFA staff meeting as pressure grows - report",
+      "description": "Gianni Infantino has called an emergency meeting of FIFA staff in Rabat on Wednesday as pressure on the president ramps up, the Press Association understands.",
+      "published": "2026-08-05T12:18:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49534594/gianni-infantino-calls-emergency-fifa-staff-meeting-pressure-grows",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 110
     },
     {
       "id": "49529781",
@@ -295,7 +342,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 99
+      "score": 97
     },
     {
       "id": "49532210",
@@ -313,7 +360,7 @@
       "players": [
         "Rodri"
       ],
-      "score": 98
+      "score": 96
     },
     {
       "id": "49528558",
@@ -331,7 +378,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 98
+      "score": 96
     },
     {
       "id": "49527513",
@@ -345,7 +392,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 90
+      "score": 89
     },
     {
       "id": "49525299",
@@ -361,7 +408,7 @@
         "USA"
       ],
       "players": [],
-      "score": 90
+      "score": 88
     },
     {
       "id": "49527911",
@@ -377,7 +424,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 79
+      "score": 77
     },
     {
       "id": "49519755",
@@ -393,7 +440,7 @@
         "USA"
       ],
       "players": [],
-      "score": 70
+      "score": 69
     },
     {
       "id": "49521919",
@@ -409,7 +456,7 @@
         "USA"
       ],
       "players": [],
-      "score": 64
+      "score": 62
     },
     {
       "id": "49519633",
@@ -425,7 +472,7 @@
         "USA"
       ],
       "players": [],
-      "score": 63
+      "score": 61
     },
     {
       "id": "49524577",
@@ -441,7 +488,7 @@
         "USA"
       ],
       "players": [],
-      "score": 59
+      "score": 58
     },
     {
       "id": "49524620",
@@ -455,7 +502,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 55
+      "score": 54
     },
     {
       "id": "49524593",
@@ -469,7 +516,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 55
+      "score": 54
     },
     {
       "id": "49518399",
@@ -487,7 +534,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 52
+      "score": 50
     },
     {
       "id": "49521510",
@@ -503,7 +550,7 @@
         "USA"
       ],
       "players": [],
-      "score": 50
+      "score": 49
     },
     {
       "id": "49466177",
@@ -527,7 +574,7 @@
         "Mathew Ryan",
         "Lucas Herrington"
       ],
-      "score": 44
+      "score": 42
     },
     {
       "id": "49518982",
@@ -541,7 +588,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 40
+      "score": 38
     },
     {
       "id": "49518390",
@@ -555,7 +602,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 36
+      "score": 35
     },
     {
       "id": "49497803",
@@ -668,20 +715,6 @@
       "score": 18
     },
     {
-      "id": "49513925",
-      "headline": "Andy Burnham: Gianni Infantino isn't the right man to lead FIFA - we can't 'move on and forget' World Cup plan",
-      "description": "U.K. Prime Minister Andy Burnham has doubled down on his call for change at the top of FIFA, insisting football cannot \"move on and forget.\"",
-      "published": "2026-08-02T18:57:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49513925/andy-burnham-gianni-infantino-right-man-fifa-move-forget-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0802/r1696768_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 13
-    },
-    {
       "id": "47978642",
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
       "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
@@ -720,21 +753,18 @@
       "score": 13
     },
     {
-      "id": "49486943",
-      "headline": "Carlo Ancelotti: Tactical mistake during hydration break led to Brazil's World Cup exit",
-      "description": "Brazil coach Carlo Ancelotti has blamed the tactical changes he made during the second-half hydration break against Norway for his team's early exit from the World Cup.",
-      "published": "2026-07-30T10:05:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49486943/carlo-ancelotti-brazil-world-cup-exit-tactical-mistake-hydration-break",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695490_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
+      "id": "49513925",
+      "headline": "Andy Burnham: Gianni Infantino isn't the right man to lead FIFA - we can't 'move on and forget' World Cup plan",
+      "description": "U.K. Prime Minister Andy Burnham has doubled down on his call for change at the top of FIFA, insisting football cannot \"move on and forget.\"",
+      "published": "2026-08-02T18:57:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49513925/andy-burnham-gianni-infantino-right-man-fifa-move-forget-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696768_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "Brazil",
-        "Norway"
-      ],
+      "teams": [],
       "players": [],
-      "score": 10
+      "score": 12
     },
     {
       "id": "49512906",
@@ -748,7 +778,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 9
+      "score": 7
     },
     {
       "id": "49511728",
@@ -758,34 +788,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49511728/why-fifa-president-infantino-plans-sell-world-cup-made-no-sense",
       "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
       "byline": "Gab Marcotti",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49503505",
-      "headline": "Gianni Infantino has 'lost UEFA's confidence' as World Cup investment plan fails",
-      "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
-      "published": "2026-08-01T18:47:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49503505/gianni-infantino-lost-uefa-confidence-world-cup-investment-plan-fails",
-      "image": "https://a.espncdn.com/photo/2024/0208/r1288495_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49497503",
-      "headline": "Could Infantino lose FIFA presidency after World Cup plans were rejected?",
-      "description": "Despite making FIFA unimaginable fortunes, Gianni Infantino is wearing out his welcome. His scrapped plans to privatize the World Cup might be the last straw.",
-      "published": "2026-08-01T16:31:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49497503/fifa-world-cup-president-gianni-infantino-world-cup-selloff-plan-lose-power-analysis",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1696005_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
