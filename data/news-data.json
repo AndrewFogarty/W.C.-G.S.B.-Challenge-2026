@@ -1,14 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-05T19:47:40.077Z",
+  "updated": "2026-08-05T20:50:28.712Z",
   "counts": {
-    "news": 26,
-    "offfield": 17,
-    "preview": 3,
+    "news": 25,
+    "offfield": 19,
+    "preview": 2,
     "injury": 1,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49537988",
+      "headline": "European leagues pile pressure on Infantino amid 'crisis' meeting",
+      "description": "The association of European soccer leagues called for governance reform of FIFA on Wednesday, adding to the mounting pressure on president Gianni Infantino following his failed plan",
+      "published": "2026-08-05T20:41:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49537988/european-leagues-fifa-gianni-infantino-meeting",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695694_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 206
+    },
     {
       "id": "49536495",
       "headline": "Who could challenge Gianni Infantino for FIFA presidency?",
@@ -21,21 +35,23 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 203
+      "score": 192
     },
     {
-      "id": "49537988",
-      "headline": "European leagues pile pressure on Infantino amid 'crisis' meeting",
-      "description": "The association of European soccer leagues called for governance reform of FIFA on Wednesday, adding to the mounting pressure on president Gianni Infantino following his failed plan",
-      "published": "2026-08-05T16:22:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49537988/european-leagues-fifa-gianni-infantino-meeting",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695694_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
+      "id": "49537044",
+      "headline": "Luís Figo joins calls for FIFA president Gianni Infantino to resign",
+      "description": "Portugal great Luís Figo has joined calls for FIFA president Gianni Infantino to step down over his failed plan to sell of the World Cup to private investors.",
+      "published": "2026-08-05T14:33:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49537044/luis-figo-joins-calls-fifa-president-gianni-infantino-resign",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697944_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Portugal"
+      ],
       "players": [],
-      "score": 191
+      "score": 183
     },
     {
       "id": "49537179",
@@ -53,23 +69,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 185
-    },
-    {
-      "id": "49537044",
-      "headline": "Luís Figo joins calls for FIFA president Gianni Infantino to resign",
-      "description": "Portugal great Luís Figo has joined calls for FIFA president Gianni Infantino to step down over his failed plan to sell of the World Cup to private investors.",
-      "published": "2026-08-05T14:33:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49537044/luis-figo-joins-calls-fifa-president-gianni-infantino-resign",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697944_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [],
-      "score": 184
+      "score": 183
     },
     {
       "id": "49523086",
@@ -87,7 +87,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 174
+      "score": 172
     },
     {
       "id": "49534594",
@@ -101,20 +101,81 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 145
+      "score": 143
     },
     {
-      "id": "49532221",
-      "headline": "Does soccer need to vote against Infantino?",
-      "description": "Does soccer need to vote against Infantino?",
-      "published": "2026-08-05T16:21:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
+      "id": "49534606",
+      "headline": "Transfer rumors, news: Liverpool eye move for PSG's Mbaye",
+      "description": "Liverpool are reportedly looking to strengthen their attack by signing Paris Saint-Germain winger Ibrahim Mbaye. Transfer Talk has the latest.",
+      "published": "2026-08-05T19:09:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49534606/transfer-rumors-news-spurs-eye-usmnt-star-balogun-alongside-osimhen-jackson",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698064_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49539233",
+      "headline": "Bayer Leverkusen sign Spanish left back Gutiérrez from Napoli",
+      "description": "Bayer Leverkusen signed Spanish left back Miguel Gutiérrez from Napoli, the Bundesliga club confirmed on Wednesday.",
+      "published": "2026-08-05T19:02:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49539233/bayer-leverkusen-sign-spanish-left-back-gutierrez-napoli",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698061_1024x576_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Miguel Gutiérrez",
+        "Vozinha"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49539174",
+      "headline": "Sources: Real Madrid, Vinícius making progress on new deal",
+      "description": "Progress was made in talks between Real Madrid and Vinicius Junior's representatives over a new contract on Wednesday, sources have told ESPN, with the club making a latest, improved offer, and the player's camp now feeling optimistic about a renewal.",
+      "published": "2026-08-05T18:39:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49539174/real-madrid-vinicius-making-progress-new-deal",
+      "image": "https://a.espncdn.com/photo/2026/0217/r1616465_1296x729_16-9.jpg",
+      "byline": "Gustavo Hofman and Rodra",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vinícius Júnior",
+        "Vozinha"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49535386",
+      "headline": "Mykhailo Mudryk makes 'emotional' Chelsea return after doping ban",
+      "description": "Mykhailo Mudryk made his first appearance for Chelsea following a 20-month doping ban in the club's 1-0 preseason friendly defeat to Juventus on Wednesday.",
+      "published": "2026-08-05T17:57:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49535386/mykhailo-mudryk-plays-chelsea-20-month-doping-ban",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697940_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Mykhailo Mudryk",
+        "Vozinha"
+      ],
       "score": 141
     },
     {
@@ -128,32 +189,45 @@
       "kind": "injury",
       "kindLabel": "Injury",
       "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Paul Okon-Engstler"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49534606",
-      "headline": "Transfer rumors, news: Spurs eye USMNT star Balogun, alongside Osimhen, Jackson",
-      "description": "AS Monaco and USMNT striker Folarin Balogun has been offered to Tottenham Hotspur. Transfer Talk has the latest.",
-      "published": "2026-08-05T15:46:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49534606/transfer-rumors-news-spurs-eye-usmnt-star-balogun-alongside-osimhen-jackson",
-      "image": "https://a.espncdn.com/photo/2026/0304/r1622848_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
         "USA"
       ],
       "players": [
-        "Folarin Balogun",
-        "Paul Okon-Engstler"
+        "Erling Haaland"
       ],
+      "score": 140
+    },
+    {
+      "id": "49532221",
+      "headline": "Does soccer need to vote against Infantino?",
+      "description": "Does soccer need to vote against Infantino?",
+      "published": "2026-08-05T16:21:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
       "score": 139
+    },
+    {
+      "id": "49539381",
+      "headline": "Wrexham make Preston captain Ben Whiteman 2nd summer signing",
+      "description": "Wrexham have signed midfielder Ben Whiteman from Preston on a three-year contract for an undisclosed fee.",
+      "published": "2026-08-05T19:12:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49539381/wrexham-transfer-preston-ben-whiteman",
+      "image": null,
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Benjamin Whiteman",
+        "Vozinha"
+      ],
+      "score": 137
     },
     {
       "id": "49538689",
@@ -166,72 +240,31 @@
       "kind": "celebration",
       "kindLabel": "Celebration",
       "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mykhailo Mudryk",
-        "Paul Okon-Engstler"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49535386",
-      "headline": "Mykhailo Mudryk plays for Chelsea after 20-month doping ban",
-      "description": "Chelsea winger Mykhailo Mudryk returned in Wednesday's pre-season friendly against Juventus after serving a 20-month doping ban.",
-      "published": "2026-08-05T14:16:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535386/mykhailo-mudryk-plays-chelsea-20-month-doping-ban",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697940_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
         "Cabo Verde"
       ],
       "players": [
         "Mykhailo Mudryk",
         "Vozinha"
       ],
-      "score": 137
+      "score": 135
     },
     {
-      "id": "49536305",
-      "headline": "Real Madrid's Franco Mastantuono set for Fiorentina loan - sources",
-      "description": "Franco Mastantuono is set to join Fiorentina from Real Madrid on a season-long loan, sources have told ESPN.",
-      "published": "2026-08-05T12:24:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536305/real-madrid-franco-mastantuono-set-fiorentina-loan-sources",
-      "image": "https://a.espncdn.com/photo/2025/1229/r1594616_1296x729_16-9.jpg",
-      "byline": "Rodrigo Faez and Alex Kirkland",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49488797",
+      "headline": "Newcastle name Matthias Jaissle head coach, replacing Eddie Howe",
+      "description": "Newcastle United have confirmed the appointment of Matthias Jaissle as the club's new head coach following the departure of Eddie Howe.",
+      "published": "2026-08-05T18:35:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49488797/matthias-jaissle-new-newcastle-united-head-coach-eddie-howe",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695580_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Cabo Verde"
       ],
       "players": [
-        "Franco Mastantuono",
         "Vozinha"
       ],
-      "score": 134
-    },
-    {
-      "id": "49536395",
-      "headline": "Huge crowds greet Salah in Turkey ahead of Trabzonspor move",
-      "description": "Huge crowds greet Salah in Turkey ahead of Trabzonspor move",
-      "published": "2026-08-05T12:28:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/49536395/huge-crowds-greet-salah-turkey-ahead-trabzonspor-move",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_News_Huge_crowds_greet_Salah_in_Turkey_ahead_of_Trabzonspor_move__20260805_GLOBAL/dm_260805_COM_SOC_News_Huge_crowds_greet_Salah_in_Turkey_ahead_of_Trabzonspor_move__20260805_GLOBAL.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Cabo Verde",
-        "Egypt",
-        "Turkey"
-      ],
-      "players": [
-        "Mohamed Salah",
-        "Vozinha"
-      ],
-      "score": 131
+      "score": 130
     },
     {
       "id": "49538268",
@@ -244,12 +277,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "USA"
       ],
       "players": [
-        "Paul Okon-Engstler"
+        "Erling Haaland"
       ],
-      "score": 129
+      "score": 127
     },
     {
       "id": "49537300",
@@ -262,86 +295,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "USA"
       ],
       "players": [
-        "Paul Okon-Engstler"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49535561",
-      "headline": "Chelsea 0-1 Juventus: Zhegrova strike sees Serie A side overcome Blues - as it happened",
-      "description": "Chelsea continue their preseason campaign with an intriguing tie against Juventus in Hong Kong and you can follow it live with ESPN.",
-      "published": "2026-08-05T14:06:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535561/chelsea-vs-juventus-live-latest-updates-preseason-friendly-hong-kong",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697901_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
+        "Erling Haaland"
       ],
       "score": 124
-    },
-    {
-      "id": "49535666",
-      "headline": "Eva Olid named Man United Women head coach",
-      "description": "Eva Olid has been named head coach of Women's Super League side Manchester United.",
-      "published": "2026-08-05T14:05:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535666/eva-olid-named-man-united-women-head-coach",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697931_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49536838",
-      "headline": "Man City cruise to preseason win against K League All Stars",
-      "description": "Manchester City ran out 3-1 winners in a preseason friendly against the K-League All Stars in Seoul, South Korea.",
-      "published": "2026-08-05T14:00:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536838/man-city-cruise-preseason-win-k-league-all-stars",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697924_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Korea Republic"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49535315",
-      "headline": "K-League All Stars 1-3 Manchester City: Enzo Maresca wins first match as City boss - as it happened",
-      "description": "Enzo Maresca earned his first victory as Manchester City manager on Wednesday, with a 3-1 win over the K-League All Stars in Seoul, South Korea.",
-      "published": "2026-08-05T13:09:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49535315/k-league-all-stars-manchester-city-live-friendly-latest-updates-commentary-score-result",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697880_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Korea Republic"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 123
     },
     {
       "id": "49532207",
@@ -359,7 +318,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 122
+      "score": 120
     },
     {
       "id": "49532210",
@@ -377,7 +336,7 @@
       "players": [
         "Rodri"
       ],
-      "score": 111
+      "score": 110
     },
     {
       "id": "49529781",
@@ -393,7 +352,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 102
+      "score": 100
     },
     {
       "id": "49528558",
@@ -411,7 +370,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 101
+      "score": 100
     },
     {
       "id": "49527513",
@@ -425,7 +384,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 94
+      "score": 92
     },
     {
       "id": "49525299",
@@ -441,7 +400,7 @@
         "USA"
       ],
       "players": [],
-      "score": 93
+      "score": 92
     },
     {
       "id": "49527911",
@@ -457,7 +416,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 82
+      "score": 81
     },
     {
       "id": "49519755",
@@ -473,7 +432,7 @@
         "USA"
       ],
       "players": [],
-      "score": 74
+      "score": 72
     },
     {
       "id": "49521919",
@@ -489,7 +448,7 @@
         "USA"
       ],
       "players": [],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49519633",
@@ -505,7 +464,7 @@
         "USA"
       ],
       "players": [],
-      "score": 66
+      "score": 65
     },
     {
       "id": "49524577",
@@ -521,7 +480,7 @@
         "USA"
       ],
       "players": [],
-      "score": 63
+      "score": 61
     },
     {
       "id": "49524620",
@@ -535,7 +494,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 59
+      "score": 57
     },
     {
       "id": "49524593",
@@ -549,7 +508,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 59
+      "score": 57
     },
     {
       "id": "49518399",
@@ -567,7 +526,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 55
+      "score": 53
     },
     {
       "id": "49521510",
@@ -583,7 +542,7 @@
         "USA"
       ],
       "players": [],
-      "score": 54
+      "score": 52
     },
     {
       "id": "49466177",
@@ -607,7 +566,7 @@
         "Mathew Ryan",
         "Lucas Herrington"
       ],
-      "score": 47
+      "score": 45
     },
     {
       "id": "49518982",
@@ -621,7 +580,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 43
+      "score": 42
     },
     {
       "id": "49518390",
@@ -635,7 +594,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 40
+      "score": 38
     },
     {
       "id": "49497803",
@@ -759,7 +718,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 17
+      "score": 15
     },
     {
       "id": "47978642",
@@ -811,7 +770,38 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 12
+      "score": 11
+    },
+    {
+      "id": "49486943",
+      "headline": "Carlo Ancelotti: Tactical mistake during hydration break led to Brazil's World Cup exit",
+      "description": "Brazil coach Carlo Ancelotti has blamed the tactical changes he made during the second-half hydration break against Norway for his team's early exit from the World Cup.",
+      "published": "2026-07-30T10:05:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49486943/carlo-ancelotti-brazil-world-cup-exit-tactical-mistake-hydration-break",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695490_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49511728",
+      "headline": "Why Infantino's plans to sell off World Cup made no sense",
+      "description": "FIFA president Gianni Infantino has gambled unsuccessfully on questionable ideas before, but his World Cup plans were ham-fisted and delusional from both a business and political perspective.",
+      "published": "2026-08-02T13:28:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49511728/why-fifa-president-infantino-plans-sell-world-cup-made-no-sense",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
+      "byline": "Gab Marcotti",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 7
     }
   ]
 }
