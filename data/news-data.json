@@ -1,35 +1,17 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-06T03:43:30.320Z",
+  "updated": "2026-08-06T06:17:30.113Z",
   "counts": {
-    "news": 30,
     "offfield": 15,
-    "preview": 3
+    "news": 31,
+    "preview": 2
   },
   "items": [
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-08-06T02:52:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 212
-    },
     {
       "id": "49466177",
       "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
       "description": "There's nothing like a World Cup to put young stars in the shop window! With that in mind, ESPN has assembled a list of all the Socceroos' post-tournament transfers, all in one place.",
-      "published": "2026-08-06T01:56:33Z",
+      "published": "2026-08-06T05:59:50Z",
       "url": "https://www.espn.com/soccer/story/_/id/49466177/socceroos-transfer-tracker-where-australias-stars-play-2026-27",
       "image": "https://a.espncdn.com/photo/2024/0108/r1274753_1296x729_16-9.jpg",
       "byline": "Joey Lynch",
@@ -49,7 +31,25 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 212
+      "score": 225
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-08-06T02:52:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 198
     },
     {
       "id": "49540676",
@@ -63,7 +63,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 178
+      "score": 174
     },
     {
       "id": "49540626",
@@ -79,7 +79,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 174
+      "score": 170
     },
     {
       "id": "49540216",
@@ -95,7 +95,26 @@
         "Canada"
       ],
       "players": [],
-      "score": 161
+      "score": 157
+    },
+    {
+      "id": "49542108",
+      "headline": "Socceroos star Awer Mabil switches Castellón for Melbourne City",
+      "description": "Melbourne City have confirmed the signing of Socceroos star Awer Mabil on a three-year deal.",
+      "published": "2026-08-06T06:00:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49542108/socceroos-star-awer-mabil-switches-castellon-melbourne-city",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698225_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Awer Mabil",
+        "Patrick Beach"
+      ],
+      "score": 145
     },
     {
       "id": "49537988",
@@ -109,43 +128,95 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 145
+      "score": 142
     },
     {
-      "id": "49540754",
-      "headline": "Is Julián Alvarez still 'forcing' move to Barcelona?",
-      "description": "Is Julián Alvarez still 'forcing' move to Barcelona?",
-      "published": "2026-08-05T22:34:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540754/is-julian-alvarez-forcing-move-barcelona",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Is_JuliC3A1n_Alvarez_still_E28098forcingE28099_move_to_Barcelona3F_GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Is_JuliC3A1n_Alvarez_still_E28098forcingE28099_move_to_Barcelona3F_GLOBAL_2026-08-05.jpg",
+      "id": "49542820",
+      "headline": "Sandro Reyes sees young Philippines growing into ASEAN Championship",
+      "description": "Philippines' hopes of reaching the ASEAN Championship semis may be on a lifeline but their youthful team could be peaking at the right time.",
+      "published": "2026-08-06T06:04:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49542820/sandro-reyes-sees-young-philippines-growing-asean-championship",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698263_1296x729_16-9.jpg",
+      "byline": "Mikhail De Guzman",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Sandro Reyes",
+        "Patrick Beach"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49542591",
+      "headline": "LAFC vs. Guadalajara - Game Highlights",
+      "description": "Watch the Game Highlights from LAFC vs. Guadalajara, 08/05/2026",
+      "published": "2026-08-06T05:07:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49542591/lafc-vs-guadalajara-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0806/9798a055-21d9-4c78-b9e2-94fd83360c81/9798a055-21d9-4c78-b9e2-94fd83360c81.jpg",
       "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
-        "Lionel Messi"
+        "Mark Delgado",
+        "Denis Bouanga",
+        "Roberto Alvarado",
+        "Fernando Gonzalez",
+        "Jude Terry",
+        "Patrick Beach"
       ],
-      "score": 137
+      "score": 131
     },
     {
-      "id": "48897670",
-      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
-      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
-      "published": "2026-08-05T23:40:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49542349",
+      "headline": "Toluca vs. Seattle Sounders FC - Game Highlights",
+      "description": "Watch the Game Highlights from Toluca vs. Seattle Sounders FC, 08/05/2026",
+      "published": "2026-08-06T04:29:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/49542349/toluca-vs-seattle-sounders-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0806/96d055df-1bc3-4a14-951a-09bd32b65782/96d055df-1bc3-4a14-951a-09bd32b65782.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
-        "Lionel Messi"
+        "Helinho",
+        "Federico Viñas",
+        "Franco Romero",
+        "Jorge Díaz",
+        "Jesús Gallardo",
+        "Patrick Beach"
       ],
-      "score": 136
+      "score": 130
+    },
+    {
+      "id": "49542339",
+      "headline": "Denver Summit FC vs. North Carolina Courage - Game Highlights",
+      "description": "Watch the Game Highlights from Denver Summit FC vs. North Carolina Courage, 08/06/2026",
+      "published": "2026-08-06T04:10:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49542339/denver-summit-fc-vs-north-carolina-courage-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0806/a11e2a3b-b13d-477a-912d-9c4fcedc5408/a11e2a3b-b13d-477a-912d-9c4fcedc5408.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Riley Jackson",
+        "Natasha Flint",
+        "Érica Parkinson",
+        "Ally Schlegel",
+        "Yazmeen Ryan",
+        "Patrick Beach"
+      ],
+      "score": 130
     },
     {
       "id": "49542077",
@@ -166,93 +237,9 @@
         "Roberto de la Rosa",
         "Tyrese Spicer",
         "Antoine Griezmann",
-        "Jackson Irvine"
+        "Patrick Beach"
       ],
-      "score": 133
-    },
-    {
-      "id": "49541991",
-      "headline": "FC Dallas vs. Querétaro - Game Highlights",
-      "description": "Watch the Game Highlights from FC Dallas vs. Querétaro, 08/05/2026",
-      "published": "2026-08-06T03:24:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49541991/fc-dallas-vs-queretaro-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0806/67bfb0ba-0a97-4dd2-a4ba-a470f6f50f37/67bfb0ba-0a97-4dd2-a4ba-a470f6f50f37.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Santiago Homenchenko",
-        "Joaquín Valiente",
-        "Santiago Moreno",
-        "Herman Johansson",
-        "Guillermo Allison",
-        "Ali Avila",
-        "Jackson Irvine"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49541095",
-      "headline": "Lionel Messi goals help Inter Miami start Leagues Cup in rout",
-      "description": "Lionel Messi scored a stellar pair of goals to guide his team to a come-from-behind 4-2 rout of Atlético de San Luis in its first game of the 2026 Leagues Cup.",
-      "published": "2026-08-06T02:53:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49541095/lionel-messi-goals-miami-leagues-cup-rout",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698177_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Jackson Irvine"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49541861",
-      "headline": "Malawi eliminate Zambia after WAFCON permutation confusion, Nigeria smash Egypt 6-2",
-      "description": "Zambia beat Malawi 2-1, but learnt late that it wasn't enough while Nigeria's goal flurry against Egypt ought not hide ongoing fragilities.",
-      "published": "2026-08-06T02:31:04Z",
-      "url": "https://www.espn.com/espn/story/_/id/49541861/malawi-eliminate-zambia-wafcon-permutation-confusion-nigeria-smash-egypt-6-2",
-      "image": "https://a.espncdn.com/photo/2025/0718/r1520544_608x342_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Egypt"
-      ],
-      "players": [
-        "Jackson Irvine"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49541870",
-      "headline": "Inter Miami CF vs. Atlético San Luis - Game Highlights",
-      "description": "Watch the Game Highlights from Inter Miami CF vs. Atlético San Luis, 08/05/2026",
-      "published": "2026-08-06T02:19:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/49541870/inter-miami-cf-vs-atletico-san-luis-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0806/73979dda-fed7-4597-8c38-daa7d211083d/73979dda-fed7-4597-8c38-daa7d211083d.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Telasco Segovia",
-        "Micael",
-        "Lionel Messi",
-        "Rafa Llorente",
-        "David Rodriguez",
-        "Jackson Irvine"
-      ],
-      "score": 131
+      "score": 129
     },
     {
       "id": "49536495",
@@ -266,81 +253,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 131
-    },
-    {
-      "id": "49540878",
-      "headline": "Myanmar stay in the hunt in nine-goal thriller against Laos",
-      "description": "Myanmar remain in with a chance of reaching the ASEAN Championship semifinals after an entertaining 7-2 win over Laos.",
-      "published": "2026-08-05T23:00:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540878/myanmar-stay-hunt-nine-goal-thriller-laos",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_ASEAN_Highlight_Myanmar_stay_in_the_hunt_in_ninegoal_thriller_against_Laos_202686_ESPN/dm_260805_ASEAN_Highlight_Myanmar_stay_in_the_hunt_in_ninegoal_thriller_against_Laos_202686_ESPN.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49540699",
-      "headline": "Leboeuf: Arsenal are the clear Premier League favourites",
-      "description": "Leboeuf: Arsenal are the clear Premier League favourites",
-      "published": "2026-08-05T22:28:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540699/arsenal-clear-premier-league-favourites",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Leboeuf3A_Arsenal_are_the_clear_Premier_League_favourites_GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Leboeuf3A_Arsenal_are_the_clear_Premier_League_favourites_GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49540686",
-      "headline": "Can Chelsea finish in the top 4 under Alonso?",
-      "description": "Can Chelsea finish in the top 4 under Alonso?",
-      "published": "2026-08-05T22:27:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540686/can-chelsea-finish-top-4-alonso",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Can_Chelsea_finish_in_the_top_4_under_Alonso3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Can_Chelsea_finish_in_the_top_4_under_Alonso3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49540670",
-      "headline": "Has Ferran Torres 'upset' Barcelona?",
-      "description": "Has Ferran Torres 'upset' Barcelona?",
-      "published": "2026-08-05T22:25:48Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540670/has-ferran-torres-upset-barcelona",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Has_Ferran_Torres_E28098upsetE28099_Barcelona3F_GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Has_Ferran_Torres_E28098upsetE28099_Barcelona3F_GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres",
-        "Lionel Messi"
-      ],
-      "score": 125
+      "score": 128
     },
     {
       "id": "49537179",
@@ -358,7 +271,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 123
+      "score": 119
     },
     {
       "id": "49537044",
@@ -374,7 +287,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 122
+      "score": 118
     },
     {
       "id": "49523086",
@@ -392,7 +305,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 122
+      "score": 118
     },
     {
       "id": "49532207",
@@ -410,7 +323,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 110
+      "score": 106
     },
     {
       "id": "49532221",
@@ -424,7 +337,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 109
+      "score": 105
     },
     {
       "id": "49534594",
@@ -438,7 +351,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 103
+      "score": 99
     },
     {
       "id": "49529781",
@@ -454,25 +367,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 90
-    },
-    {
-      "id": "49532210",
-      "headline": "Nicol: It's time for Rodri to leave Man City",
-      "description": "Nicol: It's time for Rodri to leave Man City",
-      "published": "2026-08-04T22:33:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49532210/rodri-leave-man-city",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Nicol3A_ItE28099s_time_for_Rodri_to_leave_Man_City__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Nicol3A_ItE28099s_time_for_Rodri_to_leave_Man_City__GLOBAL_2026-08-04.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Rodri"
-      ],
-      "score": 89
+      "score": 86
     },
     {
       "id": "49528558",
@@ -490,7 +385,25 @@
         "Canada"
       ],
       "players": [],
-      "score": 89
+      "score": 86
+    },
+    {
+      "id": "49532210",
+      "headline": "Nicol: It's time for Rodri to leave Man City",
+      "description": "Nicol: It's time for Rodri to leave Man City",
+      "published": "2026-08-04T22:33:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49532210/rodri-leave-man-city",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Nicol3A_ItE28099s_time_for_Rodri_to_leave_Man_City__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Nicol3A_ItE28099s_time_for_Rodri_to_leave_Man_City__GLOBAL_2026-08-04.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Rodri"
+      ],
+      "score": 85
     },
     {
       "id": "49527513",
@@ -504,7 +417,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 82
+      "score": 78
     },
     {
       "id": "49525299",
@@ -520,7 +433,7 @@
         "USA"
       ],
       "players": [],
-      "score": 81
+      "score": 78
     },
     {
       "id": "49527911",
@@ -536,7 +449,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 70
+      "score": 67
     },
     {
       "id": "49519755",
@@ -552,7 +465,7 @@
         "USA"
       ],
       "players": [],
-      "score": 62
+      "score": 58
     },
     {
       "id": "49521919",
@@ -568,7 +481,7 @@
         "USA"
       ],
       "players": [],
-      "score": 55
+      "score": 51
     },
     {
       "id": "49519633",
@@ -584,7 +497,7 @@
         "USA"
       ],
       "players": [],
-      "score": 54
+      "score": 51
     },
     {
       "id": "49524577",
@@ -600,7 +513,7 @@
         "USA"
       ],
       "players": [],
-      "score": 51
+      "score": 47
     },
     {
       "id": "49524620",
@@ -614,7 +527,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 47
+      "score": 43
     },
     {
       "id": "49524593",
@@ -628,7 +541,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 47
+      "score": 43
     },
     {
       "id": "49518399",
@@ -646,7 +559,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 43
+      "score": 39
     },
     {
       "id": "49521510",
@@ -662,7 +575,7 @@
         "USA"
       ],
       "players": [],
-      "score": 42
+      "score": 38
     },
     {
       "id": "49518982",
@@ -672,20 +585,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49518982/uefa-threatens-gianni-infantino-legal-action-world-cup-sell-plan-sources",
       "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 31
-    },
-    {
-      "id": "49518390",
-      "headline": "English and Welsh FAs withdraw support for Gianni Infantino FIFA re-election",
-      "description": "The English and Welsh associations have formally withdrawn their support for Gianni Infantino as the pressure continues to mount on the FIFA president.",
-      "published": "2026-08-03T10:22:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49518390/football-association-wales-withdraws-support-gianni-infantino-reelection-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
-      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
@@ -709,6 +608,20 @@
         "Yan Diomande"
       ],
       "score": 25
+    },
+    {
+      "id": "49518390",
+      "headline": "English and Welsh FAs withdraw support for Gianni Infantino FIFA re-election",
+      "description": "The English and Welsh associations have formally withdrawn their support for Gianni Infantino as the pressure continues to mount on the FIFA president.",
+      "published": "2026-08-03T10:22:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49518390/football-association-wales-withdraws-support-gianni-infantino-reelection-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 24
     },
     {
       "id": "49496364",
@@ -821,6 +734,76 @@
         "Lionel Messi"
       ],
       "score": 13
+    },
+    {
+      "id": "49513925",
+      "headline": "Andy Burnham: Gianni Infantino isn't the right man to lead FIFA - we can't 'move on and forget' World Cup plan",
+      "description": "U.K. Prime Minister Andy Burnham has doubled down on his call for change at the top of FIFA, insisting football cannot \"move on and forget.\"",
+      "published": "2026-08-02T18:57:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49513925/andy-burnham-gianni-infantino-right-man-fifa-move-forget-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696768_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49512906",
+      "headline": "Real Madrid thank UEFA for 'protecting football' after FIFA abandon private equity proposal",
+      "description": "Real Madrid have praised UEFA for helping protect football \"at a decisive moment\" after FIFA abandoned plans to sell stakes in a World Cup company to private investors.",
+      "published": "2026-08-02T15:52:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49512906/real-madrid-thank-uefa-protecting-football-fifa-abandon-private-equity-proposal",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696702_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49511728",
+      "headline": "Why Infantino's plans to sell off World Cup made no sense",
+      "description": "FIFA president Gianni Infantino has gambled unsuccessfully on questionable ideas before, but his World Cup plans were ham-fisted and delusional from both a business and political perspective.",
+      "published": "2026-08-02T13:28:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49511728/why-fifa-president-infantino-plans-sell-world-cup-made-no-sense",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
+      "byline": "Gab Marcotti",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49503505",
+      "headline": "Gianni Infantino has 'lost UEFA's confidence' as World Cup investment plan fails",
+      "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
+      "published": "2026-08-01T18:47:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49503505/gianni-infantino-lost-uefa-confidence-world-cup-investment-plan-fails",
+      "image": "https://a.espncdn.com/photo/2024/0208/r1288495_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49497503",
+      "headline": "Could Infantino lose FIFA presidency after World Cup plans were rejected?",
+      "description": "Despite making FIFA unimaginable fortunes, Gianni Infantino is wearing out his welcome. His scrapped plans to privatize the World Cup might be the last straw.",
+      "published": "2026-08-01T16:31:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49497503/fifa-world-cup-president-gianni-infantino-world-cup-selloff-plan-lose-power-analysis",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1696005_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
