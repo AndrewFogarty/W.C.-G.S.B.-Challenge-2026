@@ -1,12 +1,47 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-06T09:15:24.695Z",
+  "updated": "2026-08-06T11:36:44.459Z",
   "counts": {
-    "offfield": 14,
-    "news": 30,
-    "preview": 4
+    "celebration": 1,
+    "news": 29,
+    "offfield": 15,
+    "preview": 3
   },
   "items": [
+    {
+      "id": "49543519",
+      "headline": "Argentina announces commemorative day to celebrate World Cup win over England",
+      "description": "Argentina's Football Association unanimously approved for July 15 to be 'National Football Teams Day' in commemoration of the Albiceleste's victory over England in the semifinals of the 2026 World Cup.",
+      "published": "2026-08-06T09:32:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49543519/argentina-announce-commemorative-day-celebrate-world-cup-win-england",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1689834_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 214
+    },
+    {
+      "id": "49543435",
+      "headline": "Spain's sports minister says country 'deserves' to host 2030 World Cup final, not Morocco",
+      "description": "Spain \"deserves\" to host the 2030 World Cup final, according to the country's sports minister Milagros Tolón.",
+      "published": "2026-08-06T10:26:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49543435/spain-sports-minister-says-country-deserves-host-2030-world-cup-final-not-morocco",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698276_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Morocco"
+      ],
+      "players": [],
+      "score": 198
+    },
     {
       "id": "49466177",
       "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
@@ -31,7 +66,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 211
+      "score": 188
     },
     {
       "id": "49543506",
@@ -47,7 +82,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 210
+      "score": 186
     },
     {
       "id": "47978642",
@@ -65,37 +100,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 183
-    },
-    {
-      "id": "49540676",
-      "headline": "Was Figo right to criticise FIFA president Infantino?",
-      "description": "Was Figo right to criticise FIFA president Infantino?",
-      "published": "2026-08-05T22:26:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticise-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
       "score": 160
-    },
-    {
-      "id": "49540626",
-      "headline": "Infantino sorry for 'errors' but gets FIFA board's 'full support'",
-      "description": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a summit held in Morocco \"reaffirmed their full support\" for his presidency.",
-      "published": "2026-08-05T23:55:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49540626/gianni-infantino-fifa-president-meeting-morocco-support",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1698132_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
-      "players": [],
-      "score": 156
     },
     {
       "id": "49543040",
@@ -113,9 +118,9 @@
       ],
       "players": [
         "Raúl Asencio",
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 143
+      "score": 139
     },
     {
       "id": "48990955",
@@ -131,25 +136,9 @@
         "Australia"
       ],
       "players": [
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 142
-    },
-    {
-      "id": "49540216",
-      "headline": "Canada PM Carney has no confidence in FIFA's Infantino",
-      "description": "Canadian Prime Minister Mark Carney said Wednesday he no longer has confidence in FIFA President Gianni Infantino, adding to growing pressure on the soccer leader after his abandoned plan to sell stakes in the World Cup sparked a global backlash.",
-      "published": "2026-08-05T21:32:06Z",
-      "url": "https://www.espn.com/espn/story/_/id/49540216/canada-pm-carney-no-confidence-fifa-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0415/r1644079_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Canada"
-      ],
-      "players": [],
-      "score": 142
+      "score": 139
     },
     {
       "id": "49543367",
@@ -168,9 +157,39 @@
       ],
       "players": [
         "Thembi Kgatlana",
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 141
+      "score": 137
+    },
+    {
+      "id": "49540676",
+      "headline": "Was Figo right to criticise FIFA president Infantino?",
+      "description": "Was Figo right to criticise FIFA president Infantino?",
+      "published": "2026-08-05T22:26:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticise-fifa-president-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 136
+    },
+    {
+      "id": "49540626",
+      "headline": "Infantino sorry for 'errors' but gets FIFA board's 'full support'",
+      "description": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a summit held in Morocco \"reaffirmed their full support\" for his presidency.",
+      "published": "2026-08-05T23:55:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49540626/gianni-infantino-fifa-president-meeting-morocco-support",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698132_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Morocco"
+      ],
+      "players": [],
+      "score": 132
     },
     {
       "id": "49543227",
@@ -186,9 +205,9 @@
         "Australia"
       ],
       "players": [
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 133
+      "score": 129
     },
     {
       "id": "49543275",
@@ -204,9 +223,9 @@
         "Australia"
       ],
       "players": [
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 132
+      "score": 128
     },
     {
       "id": "49543082",
@@ -222,167 +241,25 @@
         "Australia"
       ],
       "players": [
-        "Paul Okon-Engstler"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49543041",
-      "headline": "Matildas star Katrina Gorry hits 'pause' on soccer career",
-      "description": "Matildas midfielder Katrina Gorry has taken a break from soccer barely a year out from the Women's World Cup.",
-      "published": "2026-08-06T07:28:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49543041/matildas-star-katrina-gorry-hits-pause-soccer-career",
-      "image": "https://a.espncdn.com/photo/2023/0816/r1211132_1296x729_16-9.jpg",
-      "byline": "AAP",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Katrina Gorry",
-        "Paul Okon-Engstler"
-      ],
-      "score": 130
-    },
-    {
-      "id": "48897670",
-      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
-      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
-      "published": "2026-08-05T23:40:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
         "Patrick Beach"
       ],
-      "score": 128
-    },
-    {
-      "id": "49537988",
-      "headline": "European leagues pile pressure on Infantino amid 'crisis' meeting",
-      "description": "The association of European soccer leagues called for governance reform of FIFA on Wednesday, adding to the mounting pressure on president Gianni Infantino following his failed plan",
-      "published": "2026-08-05T20:41:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49537988/european-leagues-fifa-gianni-infantino-meeting",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695694_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
       "score": 127
     },
     {
-      "id": "49542077",
-      "headline": "Monterrey vs. Orlando City SC - Game Highlights",
-      "description": "Watch the Game Highlights from Monterrey vs. Orlando City SC, 08/05/2026",
-      "published": "2026-08-06T03:25:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/49542077/monterrey-vs-orlando-city-sc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0806/3a843c39-309d-48e1-b2c2-8be514a268df/3a843c39-309d-48e1-b2c2-8be514a268df.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "David Brekalo",
-        "Hugo Cuypers",
-        "Roberto de la Rosa",
-        "Tyrese Spicer",
-        "Antoine Griezmann",
-        "Patrick Beach"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49541991",
-      "headline": "FC Dallas vs. Querétaro - Game Highlights",
-      "description": "Watch the Game Highlights from FC Dallas vs. Querétaro, 08/05/2026",
-      "published": "2026-08-06T03:24:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49541991/fc-dallas-vs-queretaro-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0806/67bfb0ba-0a97-4dd2-a4ba-a470f6f50f37/67bfb0ba-0a97-4dd2-a4ba-a470f6f50f37.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Santiago Homenchenko",
-        "Joaquín Valiente",
-        "Santiago Moreno",
-        "Herman Johansson",
-        "Guillermo Allison",
-        "Ali Avila",
-        "Patrick Beach"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49541095",
-      "headline": "Lionel Messi goals help Inter Miami start Leagues Cup in rout",
-      "description": "Lionel Messi scored a stellar pair of goals to guide his team to a come-from-behind 4-2 rout of Atlético de San Luis in its first game of the 2026 Leagues Cup.",
-      "published": "2026-08-06T02:53:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49541095/lionel-messi-goals-miami-leagues-cup-rout",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698177_1296x729_16-9.jpg",
+      "id": "49540216",
+      "headline": "Canada PM Carney has no confidence in FIFA's Infantino",
+      "description": "Canadian Prime Minister Mark Carney said Wednesday he no longer has confidence in FIFA President Gianni Infantino, adding to growing pressure on the soccer leader after his abandoned plan to sell stakes in the World Cup sparked a global backlash.",
+      "published": "2026-08-05T21:32:06Z",
+      "url": "https://www.espn.com/espn/story/_/id/49540216/canada-pm-carney-no-confidence-fifa-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0415/r1644079_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Canada"
       ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49541861",
-      "headline": "Malawi eliminate Zambia after WAFCON permutation confusion, Nigeria smash Egypt 6-2",
-      "description": "Zambia beat Malawi 2-1, but learnt late that it wasn't enough while Nigeria's goal flurry against Egypt ought not hide ongoing fragilities.",
-      "published": "2026-08-06T02:31:04Z",
-      "url": "https://www.espn.com/espn/story/_/id/49541861/malawi-eliminate-zambia-wafcon-permutation-confusion-nigeria-smash-egypt-6-2",
-      "image": "https://a.espncdn.com/photo/2025/0718/r1520544_608x342_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Egypt"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49541870",
-      "headline": "Inter Miami CF vs. Atlético San Luis - Game Highlights",
-      "description": "Watch the Game Highlights from Inter Miami CF vs. Atlético San Luis, 08/05/2026",
-      "published": "2026-08-06T02:19:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/49541870/inter-miami-cf-vs-atletico-san-luis-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0806/73979dda-fed7-4597-8c38-daa7d211083d/73979dda-fed7-4597-8c38-daa7d211083d.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Telasco Segovia",
-        "Micael",
-        "Lionel Messi",
-        "Rafa Llorente",
-        "David Rodriguez",
-        "Patrick Beach"
-      ],
-      "score": 123
+      "players": [],
+      "score": 119
     },
     {
       "id": "49537044",
@@ -398,7 +275,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 114
+      "score": 110
     },
     {
       "id": "49523086",
@@ -416,21 +293,21 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 114
+      "score": 110
     },
     {
-      "id": "49536495",
-      "headline": "Who could challenge Gianni Infantino for FIFA presidency?",
-      "description": "Rivals are reportedly circling in a bid to unseat Gianni Infantino as FIFA president following his disastrous plan to bring private equity into the World Cup. Who are they and what makes them viable candidates to run against him?",
-      "published": "2026-08-05T18:03:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536495/fifa-president-gianni-infantino-challengers-montagliani-al-khalifa-al-khelaifi-world-cup-elections",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697942_1075x605_16-9.jpg",
-      "byline": "Connor O'Halloran",
+      "id": "49537988",
+      "headline": "European leagues pile pressure on Infantino amid 'crisis' meeting",
+      "description": "The association of European soccer leagues called for governance reform of FIFA on Wednesday, adding to the mounting pressure on president Gianni Infantino following his failed plan",
+      "published": "2026-08-05T20:41:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49537988/european-leagues-fifa-gianni-infantino-meeting",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695694_1296x729_16-9.jpg",
+      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 113
+      "score": 104
     },
     {
       "id": "49537179",
@@ -448,21 +325,21 @@
       "players": [
         "Vozinha"
       ],
-      "score": 105
+      "score": 101
     },
     {
-      "id": "49532221",
-      "headline": "Does soccer need to vote against Infantino?",
-      "description": "Does soccer need to vote against Infantino?",
-      "published": "2026-08-05T16:21:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
-      "byline": null,
+      "id": "49536495",
+      "headline": "Who could challenge Gianni Infantino for FIFA presidency?",
+      "description": "Rivals are reportedly circling in a bid to unseat Gianni Infantino as FIFA president following his disastrous plan to bring private equity into the World Cup. Who are they and what makes them viable candidates to run against him?",
+      "published": "2026-08-05T18:03:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49536495/fifa-president-gianni-infantino-challengers-montagliani-al-khalifa-al-khelaifi-world-cup-elections",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697942_1075x605_16-9.jpg",
+      "byline": "Connor O'Halloran",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 101
+      "score": 100
     },
     {
       "id": "49532207",
@@ -480,7 +357,21 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 101
+      "score": 98
+    },
+    {
+      "id": "49532221",
+      "headline": "Does soccer need to vote against Infantino?",
+      "description": "Does soccer need to vote against Infantino?",
+      "published": "2026-08-05T16:21:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 97
     },
     {
       "id": "49534594",
@@ -494,7 +385,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 95
+      "score": 91
     },
     {
       "id": "49529781",
@@ -510,25 +401,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 82
-    },
-    {
-      "id": "49532210",
-      "headline": "Nicol: It's time for Rodri to leave Man City",
-      "description": "Nicol: It's time for Rodri to leave Man City",
-      "published": "2026-08-04T22:33:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49532210/rodri-leave-man-city",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Nicol3A_ItE28099s_time_for_Rodri_to_leave_Man_City__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Nicol3A_ItE28099s_time_for_Rodri_to_leave_Man_City__GLOBAL_2026-08-04.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Rodri"
-      ],
-      "score": 81
+      "score": 78
     },
     {
       "id": "49528558",
@@ -546,7 +419,25 @@
         "Canada"
       ],
       "players": [],
-      "score": 81
+      "score": 78
+    },
+    {
+      "id": "49532210",
+      "headline": "Nicol: It's time for Rodri to leave Man City",
+      "description": "Nicol: It's time for Rodri to leave Man City",
+      "published": "2026-08-04T22:33:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49532210/rodri-leave-man-city",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Nicol3A_ItE28099s_time_for_Rodri_to_leave_Man_City__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Nicol3A_ItE28099s_time_for_Rodri_to_leave_Man_City__GLOBAL_2026-08-04.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Rodri"
+      ],
+      "score": 77
     },
     {
       "id": "49527513",
@@ -560,7 +451,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 74
+      "score": 70
     },
     {
       "id": "49525299",
@@ -576,7 +467,7 @@
         "USA"
       ],
       "players": [],
-      "score": 73
+      "score": 70
     },
     {
       "id": "49527911",
@@ -592,7 +483,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 62
+      "score": 59
     },
     {
       "id": "49519755",
@@ -608,7 +499,7 @@
         "USA"
       ],
       "players": [],
-      "score": 54
+      "score": 50
     },
     {
       "id": "49521919",
@@ -624,7 +515,7 @@
         "USA"
       ],
       "players": [],
-      "score": 47
+      "score": 43
     },
     {
       "id": "49519633",
@@ -640,7 +531,7 @@
         "USA"
       ],
       "players": [],
-      "score": 46
+      "score": 43
     },
     {
       "id": "49524577",
@@ -656,7 +547,7 @@
         "USA"
       ],
       "players": [],
-      "score": 43
+      "score": 39
     },
     {
       "id": "49524620",
@@ -670,7 +561,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 39
+      "score": 35
     },
     {
       "id": "49524593",
@@ -684,7 +575,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 39
+      "score": 35
     },
     {
       "id": "49518399",
@@ -702,7 +593,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 35
+      "score": 31
     },
     {
       "id": "49521510",
@@ -718,7 +609,7 @@
         "USA"
       ],
       "players": [],
-      "score": 34
+      "score": 30
     },
     {
       "id": "49497803",
@@ -737,20 +628,6 @@
         "Yan Diomande"
       ],
       "score": 25
-    },
-    {
-      "id": "49518982",
-      "headline": "Sources: UEFA threatens Gianni Infantino with legal action over World Cup sell-off plan",
-      "description": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
-      "published": "2026-08-03T12:41:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49518982/uefa-threatens-gianni-infantino-legal-action-world-cup-sell-plan-sources",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 23
     },
     {
       "id": "49496364",
@@ -803,13 +680,13 @@
       "score": 22
     },
     {
-      "id": "49518390",
-      "headline": "English and Welsh FAs withdraw support for Gianni Infantino FIFA re-election",
-      "description": "The English and Welsh associations have formally withdrawn their support for Gianni Infantino as the pressure continues to mount on the FIFA president.",
-      "published": "2026-08-03T10:22:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49518390/football-association-wales-withdraws-support-gianni-infantino-reelection-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49518982",
+      "headline": "Sources: UEFA threatens Gianni Infantino with legal action over World Cup sell-off plan",
+      "description": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
+      "published": "2026-08-03T12:41:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49518982/uefa-threatens-gianni-infantino-legal-action-world-cup-sell-plan-sources",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
@@ -829,6 +706,90 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "49494953",
+      "headline": "Gianni Infantino dealt another blow as AFC joins UEFA, Concacaf in rejecting World Cup plan",
+      "description": "FIFA's controversial plan to sell stakes in a World Cup company has been dealt what appears to be a fatal blow after the Asian Football Confederation (AFC) joined UEFA and Concacaf in rejecting it.",
+      "published": "2026-07-31T08:58:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49494953/gianni-infantino-dealt-another-blow-afc-joins-uefa-concacaf-rejecting-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 18
+    },
+    {
+      "id": "49518390",
+      "headline": "English and Welsh FAs withdraw support for Gianni Infantino FIFA re-election",
+      "description": "The English and Welsh associations have formally withdrawn their support for Gianni Infantino as the pressure continues to mount on the FIFA president.",
+      "published": "2026-08-03T10:22:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49518390/football-association-wales-withdraws-support-gianni-infantino-reelection-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
+    },
+    {
+      "id": "49513925",
+      "headline": "Andy Burnham: Gianni Infantino isn't the right man to lead FIFA - we can't 'move on and forget' World Cup plan",
+      "description": "U.K. Prime Minister Andy Burnham has doubled down on his call for change at the top of FIFA, insisting football cannot \"move on and forget.\"",
+      "published": "2026-08-02T18:57:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49513925/andy-burnham-gianni-infantino-right-man-fifa-move-forget-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696768_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49512906",
+      "headline": "Real Madrid thank UEFA for 'protecting football' after FIFA abandon private equity proposal",
+      "description": "Real Madrid have praised UEFA for helping protect football \"at a decisive moment\" after FIFA abandoned plans to sell stakes in a World Cup company to private investors.",
+      "published": "2026-08-02T15:52:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49512906/real-madrid-thank-uefa-protecting-football-fifa-abandon-private-equity-proposal",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696702_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49511728",
+      "headline": "Why Infantino's plans to sell off World Cup made no sense",
+      "description": "FIFA president Gianni Infantino has gambled unsuccessfully on questionable ideas before, but his World Cup plans were ham-fisted and delusional from both a business and political perspective.",
+      "published": "2026-08-02T13:28:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49511728/why-fifa-president-infantino-plans-sell-world-cup-made-no-sense",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg",
+      "byline": "Gab Marcotti",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49503505",
+      "headline": "Gianni Infantino has 'lost UEFA's confidence' as World Cup investment plan fails",
+      "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
+      "published": "2026-08-01T18:47:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49503505/gianni-infantino-lost-uefa-confidence-world-cup-investment-plan-fails",
+      "image": "https://a.espncdn.com/photo/2024/0208/r1288495_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
