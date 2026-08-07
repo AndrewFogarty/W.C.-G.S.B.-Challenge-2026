@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-07T22:59:17.193Z",
+  "updated": "2026-08-07T23:41:33.748Z",
   "counts": {
-    "offfield": 14,
-    "news": 31,
-    "preview": 2,
-    "celebration": 1
+    "offfield": 15,
+    "news": 29,
+    "celebration": 2,
+    "preview": 2
   },
   "items": [
     {
@@ -24,7 +24,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 213
+      "score": 212
     },
     {
       "id": "49546977",
@@ -40,7 +40,21 @@
         "USA"
       ],
       "players": [],
-      "score": 189
+      "score": 188
+    },
+    {
+      "id": "49547919",
+      "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
+      "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
+      "published": "2026-08-07T23:23:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 166
     },
     {
       "id": "49551026",
@@ -54,7 +68,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 164
+      "score": 163
     },
     {
       "id": "49536934",
@@ -68,7 +82,45 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 153
+      "score": 152
+    },
+    {
+      "id": "49556421",
+      "headline": "Coventry sign Ghana's Caleb Yirenkyi in club-record deal",
+      "description": "Coventry City have signed Ghana midfielder Caleb Yirenkyi from Danish side Nordsjaelland for an undisclosed fee ahead of their return to the Premier League.",
+      "published": "2026-08-07T22:53:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49556421/coventry-sign-ghana-caleb-yirenkyi-club-record-deal",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698951_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "Ghana"
+      ],
+      "players": [
+        "Caleb Yirenkyi",
+        "Paul Okon-Engstler"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49555510",
+      "headline": "San Jose hires ex-Portland executive Wilkinson as consultant",
+      "description": "Gavin Wilkinson was fired by Portland in 2022 after the release of the Yates Report, which detailed systemic verbal, emotional and sexual abuse by multiple NWSL coaches.",
+      "published": "2026-08-07T22:41:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49555510/san-jose-earthquakes-gavin-wilkinson-portland-timbers-thorns",
+      "image": "https://a.espncdn.com/photo/2024/0119/r1279651_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 139
     },
     {
       "id": "49555196",
@@ -86,7 +138,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 140
+      "score": 139
     },
     {
       "id": "49551148",
@@ -105,7 +157,7 @@
         "Kauã Elias",
         "Patrick Beach"
       ],
-      "score": 139
+      "score": 138
     },
     {
       "id": "49548687",
@@ -125,13 +177,13 @@
         "Hirving Lozano",
         "Patrick Beach"
       ],
-      "score": 138
+      "score": 137
     },
     {
       "id": "49548600",
       "headline": "Middlesbrough edge Wrexham in Carabao Cup 1st round",
       "description": "Will Lankshear's debut strike ensured Middlesbrough made a winning start to the season as they beat Wrexham 1-0 in the Carabao Cup first round.",
-      "published": "2026-08-07T21:07:24Z",
+      "published": "2026-08-07T22:34:27Z",
       "url": "http://www.espn.com/soccer/report/_/gameId/401881129",
       "image": "https://a.espncdn.com/photo/2026/0807/r1698915_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
@@ -143,21 +195,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 130
-    },
-    {
-      "id": "49547919",
-      "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
-      "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
-      "published": "2026-08-06T21:52:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 128
+      "score": 131
     },
     {
       "id": "49554885",
@@ -176,7 +214,7 @@
         "Vincent Kompany",
         "Patrick Beach"
       ],
-      "score": 126
+      "score": 125
     },
     {
       "id": "49554348",
@@ -195,7 +233,7 @@
         "Bruno Guimarães",
         "Patrick Beach"
       ],
-      "score": 125
+      "score": 124
     },
     {
       "id": "49543739",
@@ -213,7 +251,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 124
+      "score": 123
     },
     {
       "id": "49545822",
@@ -227,7 +265,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 111
+      "score": 110
     },
     {
       "id": "49545189",
@@ -241,7 +279,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 106
+      "score": 105
     },
     {
       "id": "49523086",
@@ -259,7 +297,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "49543506",
@@ -275,7 +313,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 90
+      "score": 89
     },
     {
       "id": "49543435",
@@ -292,7 +330,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 85
+      "score": 84
     },
     {
       "id": "49466177",
@@ -318,7 +356,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 85
+      "score": 84
     },
     {
       "id": "49543519",
@@ -335,7 +373,7 @@
         "England"
       ],
       "players": [],
-      "score": 81
+      "score": 80
     },
     {
       "id": "49544673",
@@ -349,7 +387,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 75
+      "score": 74
     },
     {
       "id": "47978642",
@@ -367,7 +405,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 67
+      "score": 66
     },
     {
       "id": "49540626",
@@ -383,7 +421,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 59
+      "score": 58
     },
     {
       "id": "49537044",
@@ -399,7 +437,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 57
+      "score": 56
     },
     {
       "id": "49540216",
@@ -415,7 +453,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 56
+      "score": 55
     },
     {
       "id": "49540676",
@@ -429,7 +467,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 53
+      "score": 52
     },
     {
       "id": "49537988",
@@ -443,7 +481,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 51
+      "score": 50
     },
     {
       "id": "49537179",
@@ -461,7 +499,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 48
+      "score": 47
     },
     {
       "id": "49536495",
@@ -475,7 +513,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 47
+      "score": 46
     },
     {
       "id": "49532207",
@@ -493,7 +531,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 45
+      "score": 44
     },
     {
       "id": "49532221",
@@ -507,7 +545,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 44
+      "score": 43
     },
     {
       "id": "49534594",
@@ -521,41 +559,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 38
-    },
-    {
-      "id": "49529781",
-      "headline": "Cape Verde coach Bubista steps down after historic World Cup campaign",
-      "description": "Cape Verde coach Bubista, who led the World Cup debutants to a stellar tournament, joined Moroccan club RS Berkane on Tuesday.",
-      "published": "2026-08-04T17:03:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 25
-    },
-    {
-      "id": "49528558",
-      "headline": "First USMNT fixtures after new Mauricio Pochettino deal revealed",
-      "description": "The United States men's national team returns to action for the first time since the 2026 World Cup during the September/October FIFA international window, hosting Peru, Chile, Canada and Mexico in friendlies across the country.",
-      "published": "2026-08-04T16:41:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49528558/first-usmnt-fixtures-new-mauricio-pochettino-deal-revealed",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Mexico",
-        "Canada"
-      ],
-      "players": [],
-      "score": 25
+      "score": 37
     },
     {
       "id": "49518399",
@@ -576,6 +580,40 @@
       "score": 25
     },
     {
+      "id": "49529781",
+      "headline": "Cape Verde coach Bubista steps down after historic World Cup campaign",
+      "description": "Cape Verde coach Bubista, who led the World Cup debutants to a stellar tournament, joined Moroccan club RS Berkane on Tuesday.",
+      "published": "2026-08-04T17:03:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 24
+    },
+    {
+      "id": "49528558",
+      "headline": "First USMNT fixtures after new Mauricio Pochettino deal revealed",
+      "description": "The United States men's national team returns to action for the first time since the 2026 World Cup during the September/October FIFA international window, hosting Peru, Chile, Canada and Mexico in friendlies across the country.",
+      "published": "2026-08-04T16:41:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49528558/first-usmnt-fixtures-new-mauricio-pochettino-deal-revealed",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA",
+        "Mexico",
+        "Canada"
+      ],
+      "players": [],
+      "score": 24
+    },
+    {
       "id": "49532210",
       "headline": "Nicol: It's time for Rodri to leave Man City",
       "description": "Nicol: It's time for Rodri to leave Man City",
@@ -591,7 +629,7 @@
       "players": [
         "Rodri"
       ],
-      "score": 24
+      "score": 23
     },
     {
       "id": "49521919",
@@ -687,7 +725,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 17
+      "score": 16
     },
     {
       "id": "49527911",
@@ -761,34 +799,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49524620/infantino-thinks-untouchable-fifa-president",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03.jpg",
       "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49524593",
-      "headline": "Has Iraola been backed as Liverpool manager?",
-      "description": "Has Iraola been backed as Liverpool manager?",
-      "published": "2026-08-03T22:58:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49518982",
-      "headline": "Sources: UEFA threatens Gianni Infantino with legal action over World Cup sell-off plan",
-      "description": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
-      "published": "2026-08-03T12:41:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49518982/uefa-threatens-gianni-infantino-legal-action-world-cup-sell-plan-sources",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg",
-      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
