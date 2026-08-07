@@ -1,18 +1,46 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-06T15:38:20.198Z",
+  "updated": "2026-08-07T00:34:02.446Z",
   "counts": {
-    "news": 28,
+    "news": 31,
+    "offfield": 14,
     "celebration": 1,
-    "offfield": 15,
-    "preview": 4
+    "preview": 2
   },
   "items": [
     {
+      "id": "49547919",
+      "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
+      "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
+      "published": "2026-08-06T21:52:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 202
+    },
+    {
+      "id": "49545822",
+      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
+      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
+      "published": "2026-08-06T16:47:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 184
+    },
+    {
       "id": "49545189",
       "headline": "UEFA stands by World Cup boycott plans despite FIFA, Gianni Infantino apology",
-      "description": "UEFA has said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
-      "published": "2026-08-06T15:11:09Z",
+      "description": "UEFA said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
+      "published": "2026-08-06T20:04:55Z",
       "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
       "byline": "Shubi Arun",
@@ -20,7 +48,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 205
+      "score": 179
     },
     {
       "id": "49543506",
@@ -36,7 +64,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 197
+      "score": 163
     },
     {
       "id": "49544673",
@@ -50,7 +78,27 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 182
+      "score": 148
+    },
+    {
+      "id": "49548687",
+      "headline": "Sources: Lozano close to loan move to Galaxy from San Diego",
+      "description": "Former Mexico star Hirving \"Chucky\" Lozano is finalizing a deal to join the LA Galaxy on loan from San Diego FC, sources told ESPN.",
+      "published": "2026-08-07T00:33:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49548687/lozano-joining-galaxy-season-long-loan",
+      "image": "https://a.espncdn.com/photo/2025/1024/r1565364_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "Mexico"
+      ],
+      "players": [
+        "Hirving Lozano",
+        "Patrick Beach"
+      ],
+      "score": 145
     },
     {
       "id": "49543519",
@@ -67,13 +115,32 @@
         "England"
       ],
       "players": [],
-      "score": 178
+      "score": 144
+    },
+    {
+      "id": "49547388",
+      "headline": "Police raid South Korea FA offices in probe over ex-coach hiring",
+      "description": "Police raided the Korea Football Association's offices on Thursday as part of an investigation into alleged irregularities in the 2024 appointment of Hong Myung-bo as South Korea's national team coach.",
+      "published": "2026-08-06T20:39:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49547388/police-raid-south-korea-fa-offices-probe-ex-coach-hiring",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698487_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "Korea Republic"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 139
     },
     {
       "id": "49543435",
       "headline": "Spain's sports minister says country 'deserves' to host 2030 World Cup final, not Morocco",
       "description": "Spain \"deserves\" to host the 2030 World Cup final, according to the country's sports minister Milagros Tolón.",
-      "published": "2026-08-06T10:26:43Z",
+      "published": "2026-08-06T16:55:30Z",
       "url": "https://www.espn.com/soccer/story/_/id/49543435/spain-sports-minister-says-country-deserves-host-2030-world-cup-final-not-morocco",
       "image": "https://a.espncdn.com/photo/2026/0806/r1698276_1296x729_16-9.jpg",
       "byline": "Adriana Garcia",
@@ -84,7 +151,121 @@
         "Morocco"
       ],
       "players": [],
-      "score": 162
+      "score": 139
+    },
+    {
+      "id": "49546039",
+      "headline": "Liverpool icon Mohamed Salah signs 2-year Trabzonspor contract",
+      "description": "Mohamed Salah signed a two-year contract with Trabzonspor on Thursday, the Turkish club announced.",
+      "published": "2026-08-06T19:56:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49546039/moahmed-salah-trabzonspor-liverpool-transfer-contract",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698419_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Patrick Beach"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49523086",
+      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
+      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
+      "published": "2026-08-06T17:48:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
+      "byline": "Bill Connelly",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49547954",
+      "headline": "Will Arsenal's transfers help them retain the Premier League title?",
+      "description": "Will Arsenal's transfers help them retain the Premier League title?",
+      "published": "2026-08-06T21:51:51Z",
+      "url": "https://www.espn.com/video/clip/_/id/49547954/will-arsenal-transfers-help-retain-premier-league-title",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Will_Arsenals_transfers_help_them_retain_the_Premier_League_title/dm_260806_Will_Arsenals_transfers_help_them_retain_the_Premier_League_title.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Bruno Guimarães",
+        "Patrick Beach"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49547878",
+      "headline": "Where would Rodri fit in at Barcelona?",
+      "description": "Where would Rodri fit in at Barcelona?",
+      "published": "2026-08-06T21:32:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49547878/where-rodri-fit-barcelona",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Where_would_Rodri_fit_in_at_Barcelona/dm_260806_Where_would_Rodri_fit_in_at_Barcelona.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Rodri",
+        "Patrick Beach"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49547835",
+      "headline": "Burley: Diomande has 'a lot of pressure' on him at Real Madrid",
+      "description": "Burley: Diomande has 'a lot of pressure' on him at Real Madrid",
+      "published": "2026-08-06T21:27:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/49547835/diomande-lot-pressure-real-madrid",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_Diomande_has_a_lot_of_pressure_on_him_at_Real_Madrid/dm_260806_Burley_Diomande_has_a_lot_of_pressure_on_him_at_Real_Madrid.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Yan Diomande",
+        "Patrick Beach"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49547739",
+      "headline": "Kirkland: Mourinho 'will have a plan' for Vinícius Júnior",
+      "description": "Kirkland: Mourinho 'will have a plan' for Vinícius Júnior",
+      "published": "2026-08-06T21:17:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49547739/mourinho-plan-vinicius-junior",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Kirkland_Mourinho_will_have_a_plan_for_Vinicius_Junior/dm_260806_Kirkland_Mourinho_will_have_a_plan_for_Vinicius_Junior.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Vinícius Júnior",
+        "Patrick Beach"
+      ],
+      "score": 128
     },
     {
       "id": "49466177",
@@ -110,119 +291,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 162
-    },
-    {
-      "id": "48990955",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "published": "2026-08-06T14:47:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0604/r1668008_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49215309",
-      "headline": "Yan Diomande completes big-money move to Real Madrid from RB Leipzig",
-      "description": "Real Madrid have signed teenage star Yan Diomande from RB Leipzig, the Spanish club confirmed.",
-      "published": "2026-08-06T14:36:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49215309/yan-diomande-completes-big-money-transfer-real-madrid-rb-leipzig",
-      "image": "https://a.espncdn.com/photo/2026/0629/r1681443_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49543040",
-      "headline": "Transfer rumors, news: Liverpool offered Real Madrid CB amid defensive woes",
-      "description": "Liverpool have been offered a way to fix their woeful defensive depth, while Man United are looking at USMNT's Antonee Robinson. Transfer Talk has the latest.",
-      "published": "2026-08-06T14:27:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49543040/transfer-rumors-news-liverpool-offered-real-madrid-cb-amid-defensive-woes",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698268_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "USA"
-      ],
-      "players": [
-        "Raúl Asencio",
-        "Mathew Ryan"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49544098",
-      "headline": "Brighton confirm transfer of Gabby George from Man United",
-      "description": "Brighton have announced the signing of defender Gabby George from Manchester United for an undisclosed fee.",
-      "published": "2026-08-06T11:28:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49544098/brighton-confirm-transfer-gabby-george-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698291_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Gabby George",
-        "Patrick Beach"
-      ],
-      "score": 139
-    },
-    {
-      "id": "48897670",
-      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
-      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
-      "published": "2026-08-06T10:55:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49543820",
-      "headline": "MTN8 quarter-finals - Kick off times, how to watch, format, match previews",
-      "description": "The MTN8 will kick off with defending champions Orlando Pirates in action against Durban City on Saturday, before African champions Mamelodi Sundowns play Polokwane City.",
-      "published": "2026-08-06T10:35:28Z",
-      "url": "https://www.espn.com/espn/story/_/id/49543820/mtn8-quarter-finals-kick-s-how-watch-format-match-previews",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698286_1296x729_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia",
-        "South Africa"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 134
+      "score": 128
     },
     {
       "id": "47978642",
@@ -240,135 +309,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 134
-    },
-    {
-      "id": "49486961",
-      "headline": "Why Real Madrid signed Yan Diomande, and how he'll fit into team",
-      "description": "Why have Real Madrid added World Cup star Yan Diomande to a forward line that already features Kylian Mbappé, Jude Bellingham and Vinícius Júnior?",
-      "published": "2026-08-06T15:00:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49486961/why-real-madrid-signed-yan-diomande-how-fits-attack-kylian-mbappe-jude-bellingham-vinicius-junior",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695493_2_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland and Rodra",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Yan Diomande",
-        "Mathew Ryan"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49544851",
-      "headline": "Kompany: Bayern Munich want to win Champions League",
-      "description": "Kompany: Bayern Munich want to win Champions League",
-      "published": "2026-08-06T13:23:52Z",
-      "url": "https://www.espn.com/video/clip/_/id/49544851/bayern-munich-want-win-champions-league",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Kompany_Bayern_Munich_want_to_win_Champions_League/dm_260806_Kompany_Bayern_Munich_want_to_win_Champions_League.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Vincent Kompany",
-        "Mathew Ryan"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49544243",
-      "headline": "Singapore have no shortage of motivation against Indonesia in ASEAN Championship decider",
-      "description": "In addition to a semifinal berth on offer, there is plenty of other motivation that Singapore can draw on against Indonesia on Friday.",
-      "published": "2026-08-06T11:31:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49544243/singapore-no-shortage-motivation-indonesia-asean-championship-decider",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698295_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Ilhan Fandi",
-        "Patrick Beach"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49543765",
-      "headline": "Sir David Beckham, Gary Neville unveil new-look orange Salford City shirt",
-      "description": "Salford City co-owners Gary Neville and Sir David Beckham have unveiled the team's new-look orange home shirt as part of the club's rebranding.",
-      "published": "2026-08-06T10:29:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49543765/sir-david-beckham-gary-neville-unveil-new-look-orange-salford-city-kit",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698285_1080x607_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49543776",
-      "headline": "Mamelodi Sundowns return to a home pitch for the first time since losing Jayden Adams",
-      "description": "After the start to their season was delayed by a week following the death of Jayden Adams, Mamelodi Sundowns are finally returning to action on Saturday against Polokwane City in the MTN8 quarter-finals.",
-      "published": "2026-08-06T10:09:30Z",
-      "url": "https://www.espn.com/espn/story/_/id/49543776/mamelodi-sundowns-return-home-pitch-first-losing-jayden-adams",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698283_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "South Africa",
-        "Austria"
-      ],
-      "players": [
-        "Jayden Adams",
-        "Patrick Beach"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49543739",
-      "headline": "What every team needs to qualify for the 2026 ASEAN Championship semifinals",
-      "description": "Seven teams are still in the running to qualify for the ASEAN Championship semifinals. Here's what each of them need on the final match day.",
-      "published": "2026-08-06T09:56:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49543739/every-team-needs-qualify-2026-asean-championship-semifinals",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698280_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49540676",
-      "headline": "Was Figo right to criticise FIFA president Infantino?",
-      "description": "Was Figo right to criticise FIFA president Infantino?",
-      "published": "2026-08-05T22:26:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticise-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 110
+      "score": 100
     },
     {
       "id": "49540626",
@@ -384,7 +325,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 106
+      "score": 93
     },
     {
       "id": "49537044",
@@ -400,25 +341,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 104
-    },
-    {
-      "id": "49523086",
-      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
-      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
-      "published": "2026-08-05T14:18:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
-      "byline": "Bill Connelly",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 104
+      "score": 91
     },
     {
       "id": "49540216",
@@ -434,7 +357,21 @@
         "Canada"
       ],
       "players": [],
-      "score": 103
+      "score": 89
+    },
+    {
+      "id": "49540676",
+      "headline": "Was Figo right to criticise FIFA president Infantino?",
+      "description": "Was Figo right to criticise FIFA president Infantino?",
+      "published": "2026-08-05T22:26:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticise-fifa-president-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 87
     },
     {
       "id": "49537988",
@@ -448,7 +385,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 98
+      "score": 84
     },
     {
       "id": "49537179",
@@ -466,7 +403,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 95
+      "score": 82
     },
     {
       "id": "49536495",
@@ -480,7 +417,21 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 94
+      "score": 80
+    },
+    {
+      "id": "49532221",
+      "headline": "Does soccer need to vote against Infantino?",
+      "description": "Does soccer need to vote against Infantino?",
+      "published": "2026-08-05T16:21:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 78
     },
     {
       "id": "49532207",
@@ -498,21 +449,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 92
-    },
-    {
-      "id": "49532221",
-      "headline": "Does soccer need to vote against Infantino?",
-      "description": "Does soccer need to vote against Infantino?",
-      "published": "2026-08-05T16:21:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 91
+      "score": 78
     },
     {
       "id": "49534594",
@@ -526,7 +463,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 85
+      "score": 72
     },
     {
       "id": "49529781",
@@ -542,25 +479,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 72
-    },
-    {
-      "id": "49528558",
-      "headline": "First USMNT fixtures after new Mauricio Pochettino deal revealed",
-      "description": "The United States men's national team returns to action for the first time since the 2026 World Cup during the September/October FIFA international window, hosting Peru, Chile, Canada and Mexico in friendlies across the country.",
-      "published": "2026-08-04T16:41:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49528558/first-usmnt-fixtures-new-mauricio-pochettino-deal-revealed",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA",
-        "Mexico",
-        "Canada"
-      ],
-      "players": [],
-      "score": 72
+      "score": 59
     },
     {
       "id": "49532210",
@@ -578,7 +497,25 @@
       "players": [
         "Rodri"
       ],
-      "score": 71
+      "score": 58
+    },
+    {
+      "id": "49528558",
+      "headline": "First USMNT fixtures after new Mauricio Pochettino deal revealed",
+      "description": "The United States men's national team returns to action for the first time since the 2026 World Cup during the September/October FIFA international window, hosting Peru, Chile, Canada and Mexico in friendlies across the country.",
+      "published": "2026-08-04T16:41:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49528558/first-usmnt-fixtures-new-mauricio-pochettino-deal-revealed",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA",
+        "Mexico",
+        "Canada"
+      ],
+      "players": [],
+      "score": 58
     },
     {
       "id": "49527513",
@@ -592,7 +529,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 64
+      "score": 51
     },
     {
       "id": "49525299",
@@ -608,7 +545,7 @@
         "USA"
       ],
       "players": [],
-      "score": 64
+      "score": 50
     },
     {
       "id": "49527911",
@@ -624,7 +561,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 53
+      "score": 39
     },
     {
       "id": "49519755",
@@ -640,83 +577,7 @@
         "USA"
       ],
       "players": [],
-      "score": 44
-    },
-    {
-      "id": "49521919",
-      "headline": "Gomez: Pochettino won't be with USMNT in 2030 despite contract extension",
-      "description": "Gomez: Pochettino won't be with USMNT in 2030 despite contract extension",
-      "published": "2026-08-03T17:46:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/49521919/pochettino-usmnt-2030-contract-extension",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Gomez3A_Pochettino_wonE28099t_be_with_USMNT_in_2030_despite_contract_extension_GLOBAL_2/dm_260803_COM_SOC_Analysis_Gomez3A_Pochettino_wonE28099t_be_with_USMNT_in_2030_despite_contract_extension_GLOBAL_2.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 37
-    },
-    {
-      "id": "49519633",
-      "headline": "Mauricio Pochettino signs new deal to remain as USMNT manager",
-      "description": "Mauricio Pochettino has signed a new contract to continue as manager of the U.S. men's national team, U.S. Soccer announced Monday morning.",
-      "published": "2026-08-03T17:23:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49519633/mauricio-pochettino-signs-deal-remain-usmnt-manager",
-      "image": "https://a.espncdn.com/photo/2026/0406/r1639368_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 37
-    },
-    {
-      "id": "49524577",
-      "headline": "Will Pochettino leave USMNT before 2030?",
-      "description": "Will Pochettino leave USMNT before 2030?",
-      "published": "2026-08-03T23:00:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524577/will-pochettino-leave-usmnt-2030",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Will_Pochettino_leave_USMNT_before_20303F__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Will_Pochettino_leave_USMNT_before_20303F__GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 33
-    },
-    {
-      "id": "49524620",
-      "headline": "Burley: Infantino thinks he's untouchable as FIFA president",
-      "description": "Burley: Infantino thinks he's untouchable as FIFA president",
-      "published": "2026-08-03T22:59:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524620/infantino-thinks-untouchable-fifa-president",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 29
-    },
-    {
-      "id": "49524593",
-      "headline": "Has Iraola been backed as Liverpool manager?",
-      "description": "Has Iraola been backed as Liverpool manager?",
-      "published": "2026-08-03T22:58:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 29
+      "score": 31
     },
     {
       "id": "49518399",
@@ -755,20 +616,36 @@
       "score": 25
     },
     {
-      "id": "49521510",
-      "headline": "Pochettino: Extending with USMNT was a great opportunity for me",
-      "description": "Pochettino: Extending with USMNT was a great opportunity for me",
-      "published": "2026-08-03T16:57:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/49521510/extending-usmnt-was-great-opportunity-me",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0.jpg",
+      "id": "49521919",
+      "headline": "Gomez: Pochettino won't be with USMNT in 2030 despite contract extension",
+      "description": "Gomez: Pochettino won't be with USMNT in 2030 despite contract extension",
+      "published": "2026-08-03T17:46:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49521919/pochettino-usmnt-2030-contract-extension",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Gomez3A_Pochettino_wonE28099t_be_with_USMNT_in_2030_despite_contract_extension_GLOBAL_2/dm_260803_COM_SOC_Analysis_Gomez3A_Pochettino_wonE28099t_be_with_USMNT_in_2030_despite_contract_extension_GLOBAL_2.jpg",
       "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "USA"
       ],
       "players": [],
       "score": 24
+    },
+    {
+      "id": "49519633",
+      "headline": "Mauricio Pochettino signs new deal to remain as USMNT manager",
+      "description": "Mauricio Pochettino has signed a new contract to continue as manager of the U.S. men's national team, U.S. Soccer announced Monday morning.",
+      "published": "2026-08-03T17:23:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49519633/mauricio-pochettino-signs-deal-remain-usmnt-manager",
+      "image": "https://a.espncdn.com/photo/2026/0406/r1639368_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 23
     },
     {
       "id": "49496364",
@@ -805,20 +682,120 @@
       "score": 22
     },
     {
-      "id": "49495429",
-      "headline": "SAFA confirm Bafana boss Hugo Broos exit as South Africa men's head coach",
-      "description": "South African Football Association (SAFA) president Danny Jordaan confirmed the departure of Bafana Bafana head coach Hugo Broos on Friday, the final day of his contract, after five years.",
-      "published": "2026-07-31T11:00:20Z",
-      "url": "https://www.espn.com/espn/story/_/id/49495429/safa-confirm-bafana-boss-hugo-broos-exit-south-africa-men-head-coach",
-      "image": "https://a.espncdn.com/photo/2026/0531/r1666262_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49524577",
+      "headline": "Will Pochettino leave USMNT before 2030?",
+      "description": "Will Pochettino leave USMNT before 2030?",
+      "published": "2026-08-03T23:00:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/49524577/will-pochettino-leave-usmnt-2030",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Will_Pochettino_leave_USMNT_before_20303F__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Will_Pochettino_leave_USMNT_before_20303F__GLOBAL_2026-08-03.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "South Africa"
+        "USA"
       ],
       "players": [],
-      "score": 22
+      "score": 20
+    },
+    {
+      "id": "49496746",
+      "headline": "U.K. Prime Minister Andy Burnham becomes first leader of a major country to call on FIFA president Gianni Infantino to resign",
+      "description": "The U.K. Prime Minister Andy Burnham has called on FIFA President Gianni Infantino to resign over the plan to sell stakes in the World Cup to a private equity group.",
+      "published": "2026-07-31T15:28:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49496746/fifa-sell-plans-gianni-infantino-andy-burnham-uk-leader",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695968_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 18
+    },
+    {
+      "id": "49524620",
+      "headline": "Burley: Infantino thinks he's untouchable as FIFA president",
+      "description": "Burley: Infantino thinks he's untouchable as FIFA president",
+      "published": "2026-08-03T22:59:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/49524620/infantino-thinks-untouchable-fifa-president",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
+    },
+    {
+      "id": "49524593",
+      "headline": "Has Iraola been backed as Liverpool manager?",
+      "description": "Has Iraola been backed as Liverpool manager?",
+      "published": "2026-08-03T22:58:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
+    },
+    {
+      "id": "49521510",
+      "headline": "Pochettino: Extending with USMNT was a great opportunity for me",
+      "description": "Pochettino: Extending with USMNT was a great opportunity for me",
+      "published": "2026-08-03T16:57:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/49521510/extending-usmnt-was-great-opportunity-me",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 11
+    },
+    {
+      "id": "49518982",
+      "headline": "Sources: UEFA threatens Gianni Infantino with legal action over World Cup sell-off plan",
+      "description": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
+      "published": "2026-08-03T12:41:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49518982/uefa-threatens-gianni-infantino-legal-action-world-cup-sell-plan-sources",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49518390",
+      "headline": "English and Welsh FAs withdraw support for Gianni Infantino FIFA re-election",
+      "description": "The English and Welsh associations have formally withdrawn their support for Gianni Infantino as the pressure continues to mount on the FIFA president.",
+      "published": "2026-08-03T10:22:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49518390/football-association-wales-withdraws-support-gianni-infantino-reelection-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49513925",
+      "headline": "Andy Burnham: Gianni Infantino isn't the right man to lead FIFA - we can't 'move on and forget' World Cup plan",
+      "description": "U.K. Prime Minister Andy Burnham has doubled down on his call for change at the top of FIFA, insisting football cannot \"move on and forget.\"",
+      "published": "2026-08-02T18:57:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49513925/andy-burnham-gianni-infantino-right-man-fifa-move-forget-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696768_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
