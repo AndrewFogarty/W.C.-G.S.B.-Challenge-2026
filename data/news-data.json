@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-07T05:21:58.885Z",
+  "updated": "2026-08-07T06:42:19.065Z",
   "counts": {
-    "news": 31,
-    "offfield": 14,
-    "celebration": 1,
+    "news": 32,
+    "celebration": 2,
+    "offfield": 12,
     "preview": 2
   },
   "items": [
@@ -20,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 195
+      "score": 193
     },
     {
       "id": "49545822",
@@ -34,7 +34,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 177
+      "score": 175
     },
     {
       "id": "49545189",
@@ -48,7 +48,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 172
+      "score": 170
     },
     {
       "id": "49543506",
@@ -64,7 +64,25 @@
         "Morocco"
       ],
       "players": [],
-      "score": 156
+      "score": 154
+    },
+    {
+      "id": "49550843",
+      "headline": "History on the line as Philippines chase ASEAN Championship semifinal dream vs. Malaysia",
+      "description": "Philippines are still a chance to reach the ASEAN Championships semis -- but they'll have to beat Malaysia away for the first time ever.",
+      "published": "2026-08-07T06:36:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49550843/philippines-chase-asean-championship-semifinal-dream-vs-malaysia ",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698703_1296x729_16-9.jpg",
+      "byline": "Mikhail De Guzman",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 140
     },
     {
       "id": "49544673",
@@ -78,7 +96,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 141
+      "score": 139
     },
     {
       "id": "49548687",
@@ -98,7 +116,7 @@
         "Hirving Lozano",
         "Patrick Beach"
       ],
-      "score": 138
+      "score": 136
     },
     {
       "id": "49543519",
@@ -115,46 +133,26 @@
         "England"
       ],
       "players": [],
-      "score": 137
+      "score": 135
     },
     {
-      "id": "49547388",
-      "headline": "Police raid South Korea FA offices in probe over ex-coach hiring",
-      "description": "Police raided the Korea Football Association's offices on Thursday as part of an investigation into alleged irregularities in the 2024 appointment of Hong Myung-bo as South Korea's national team coach.",
-      "published": "2026-08-06T20:39:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49547388/police-raid-south-korea-fa-offices-probe-ex-coach-hiring",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698487_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49549216",
+      "headline": "Emma Hayes urges U20 WWC focus to improve player development",
+      "description": "Emma Hayes urged US Soccer to prioritize the U.S. Under-20 Women's national team at this year's World Cup to help American youth players match the development of top European teams.",
+      "published": "2026-08-07T03:47:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49549216/emma-hayes-urges-20-wwc-focus-improve-player-development",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698615_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia",
-        "Korea Republic"
+        "USA"
       ],
       "players": [
         "Patrick Beach"
       ],
-      "score": 132
-    },
-    {
-      "id": "49546039",
-      "headline": "Liverpool icon Mohamed Salah signs 2-year Trabzonspor contract",
-      "description": "Mohamed Salah signed a two-year contract with Trabzonspor on Thursday, the Turkish club announced.",
-      "published": "2026-08-06T19:56:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49546039/moahmed-salah-trabzonspor-liverpool-transfer-contract",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698419_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "Egypt"
-      ],
-      "players": [
-        "Mohamed Salah",
-        "Patrick Beach"
-      ],
-      "score": 131
+      "score": 129
     },
     {
       "id": "49543435",
@@ -171,7 +169,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 131
+      "score": 129
     },
     {
       "id": "49549683",
@@ -192,9 +190,9 @@
         "Miguel Rodríguez",
         "Jonathan Dean",
         "Andrew Gutman",
-        "Ajdin Hrustic"
+        "Patrick Beach"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49549623",
@@ -212,9 +210,9 @@
         "Cabo Verde"
       ],
       "players": [
-        "Ajdin Hrustic"
+        "Patrick Beach"
       ],
-      "score": 129
+      "score": 127
     },
     {
       "id": "49549515",
@@ -234,26 +232,7 @@
         "José Paradela",
         "Omar Campos",
         "Bruno Damiani",
-        "Ajdin Hrustic"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49549216",
-      "headline": "Emma Hayes urges U20 WWC focus to improve player development",
-      "description": "Emma Hayes urged US Soccer to prioritize the U.S. Under-20 Women's national team at this year's World Cup to help American youth players match the development of top European teams.",
-      "published": "2026-08-07T01:35:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49549216/emma-hayes-urges-20-wwc-focus-improve-player-development",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698615_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "USA"
-      ],
-      "players": [
-        "Ajdin Hrustic"
+        "Patrick Beach"
       ],
       "score": 127
     },
@@ -273,7 +252,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 125
+      "score": 123
     },
     {
       "id": "49547954",
@@ -292,64 +271,7 @@
         "Bruno Guimarães",
         "Patrick Beach"
       ],
-      "score": 122
-    },
-    {
-      "id": "49547878",
-      "headline": "Where would Rodri fit in at Barcelona?",
-      "description": "Where would Rodri fit in at Barcelona?",
-      "published": "2026-08-06T21:32:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/49547878/where-rodri-fit-barcelona",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Where_would_Rodri_fit_in_at_Barcelona/dm_260806_Where_would_Rodri_fit_in_at_Barcelona.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Rodri",
-        "Patrick Beach"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49547835",
-      "headline": "Burley: Diomande has 'a lot of pressure' on him at Real Madrid",
-      "description": "Burley: Diomande has 'a lot of pressure' on him at Real Madrid",
-      "published": "2026-08-06T21:27:47Z",
-      "url": "https://www.espn.com/video/clip/_/id/49547835/diomande-lot-pressure-real-madrid",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_Diomande_has_a_lot_of_pressure_on_him_at_Real_Madrid/dm_260806_Burley_Diomande_has_a_lot_of_pressure_on_him_at_Real_Madrid.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Yan Diomande",
-        "Patrick Beach"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49547739",
-      "headline": "Kirkland: Mourinho 'will have a plan' for Vinícius Júnior",
-      "description": "Kirkland: Mourinho 'will have a plan' for Vinícius Júnior",
-      "published": "2026-08-06T21:17:52Z",
-      "url": "https://www.espn.com/video/clip/_/id/49547739/mourinho-plan-vinicius-junior",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Kirkland_Mourinho_will_have_a_plan_for_Vinicius_Junior/dm_260806_Kirkland_Mourinho_will_have_a_plan_for_Vinicius_Junior.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Vinícius Júnior",
-        "Patrick Beach"
-      ],
-      "score": 121
+      "score": 120
     },
     {
       "id": "49466177",
@@ -375,7 +297,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 121
+      "score": 119
     },
     {
       "id": "47978642",
@@ -393,7 +315,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49540626",
@@ -409,7 +331,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 86
+      "score": 84
     },
     {
       "id": "49537044",
@@ -425,7 +347,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 84
+      "score": 82
     },
     {
       "id": "49540216",
@@ -441,7 +363,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 82
+      "score": 80
     },
     {
       "id": "49540676",
@@ -455,7 +377,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 80
+      "score": 78
     },
     {
       "id": "49537988",
@@ -469,7 +391,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 77
+      "score": 75
     },
     {
       "id": "49537179",
@@ -487,7 +409,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 75
+      "score": 73
     },
     {
       "id": "49536495",
@@ -501,7 +423,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 73
+      "score": 71
     },
     {
       "id": "49532207",
@@ -519,7 +441,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 71
+      "score": 69
     },
     {
       "id": "49532221",
@@ -533,7 +455,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 70
+      "score": 68
     },
     {
       "id": "49534594",
@@ -547,7 +469,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 64
+      "score": 62
     },
     {
       "id": "49529781",
@@ -563,7 +485,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 52
+      "score": 50
     },
     {
       "id": "49532210",
@@ -581,7 +503,7 @@
       "players": [
         "Rodri"
       ],
-      "score": 51
+      "score": 49
     },
     {
       "id": "49528558",
@@ -599,7 +521,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 51
+      "score": 49
     },
     {
       "id": "49527513",
@@ -613,7 +535,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 43
+      "score": 41
     },
     {
       "id": "49525299",
@@ -629,7 +551,7 @@
         "USA"
       ],
       "players": [],
-      "score": 43
+      "score": 41
     },
     {
       "id": "49527911",
@@ -645,7 +567,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 32
+      "score": 30
     },
     {
       "id": "49518399",
@@ -682,22 +604,6 @@
         "Yan Diomande"
       ],
       "score": 25
-    },
-    {
-      "id": "49519755",
-      "headline": "Will lure of Europe threaten fresh Pochettino-USMNT partnership?",
-      "description": "Mauricio Pochettino will remain U.S. men's national team coach through the 2030 World Cup, but what happens if a big club comes calling before then?",
-      "published": "2026-08-04T06:21:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49519755/will-lure-european-club-football-threaten-fresh-mauricio-pochettino-usmnt-partnership",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle and Bill Connelly and Cesar Hernandez and Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 23
     },
     {
       "id": "49521919",
@@ -766,6 +672,22 @@
       "score": 22
     },
     {
+      "id": "49519755",
+      "headline": "Will lure of Europe threaten fresh Pochettino-USMNT partnership?",
+      "description": "Mauricio Pochettino will remain U.S. men's national team coach through the 2030 World Cup, but what happens if a big club comes calling before then?",
+      "published": "2026-08-04T06:21:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49519755/will-lure-european-club-football-threaten-fresh-mauricio-pochettino-usmnt-partnership",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle and Bill Connelly and Cesar Hernandez and Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 21
+    },
+    {
       "id": "49496746",
       "headline": "U.K. Prime Minister Andy Burnham becomes first leader of a major country to call on FIFA president Gianni Infantino to resign",
       "description": "The U.K. Prime Minister Andy Burnham has called on FIFA President Gianni Infantino to resign over the plan to sell stakes in the World Cup to a private equity group.",
@@ -793,7 +715,7 @@
         "USA"
       ],
       "players": [],
-      "score": 12
+      "score": 10
     },
     {
       "id": "49521510",
@@ -823,7 +745,63 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 8
+      "score": 6
+    },
+    {
+      "id": "49524593",
+      "headline": "Has Iraola been backed as Liverpool manager?",
+      "description": "Has Iraola been backed as Liverpool manager?",
+      "published": "2026-08-03T22:58:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49518982",
+      "headline": "Sources: UEFA threatens Gianni Infantino with legal action over World Cup sell-off plan",
+      "description": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
+      "published": "2026-08-03T12:41:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49518982/uefa-threatens-gianni-infantino-legal-action-world-cup-sell-plan-sources",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49518390",
+      "headline": "English and Welsh FAs withdraw support for Gianni Infantino FIFA re-election",
+      "description": "The English and Welsh associations have formally withdrawn their support for Gianni Infantino as the pressure continues to mount on the FIFA president.",
+      "published": "2026-08-03T10:22:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49518390/football-association-wales-withdraws-support-gianni-infantino-reelection-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49513925",
+      "headline": "Andy Burnham: Gianni Infantino isn't the right man to lead FIFA - we can't 'move on and forget' World Cup plan",
+      "description": "U.K. Prime Minister Andy Burnham has doubled down on his call for change at the top of FIFA, insisting football cannot \"move on and forget.\"",
+      "published": "2026-08-02T18:57:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49513925/andy-burnham-gianni-infantino-right-man-fifa-move-forget-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696768_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
