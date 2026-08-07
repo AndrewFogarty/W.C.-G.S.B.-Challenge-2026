@@ -1,29 +1,30 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-07T16:32:06.346Z",
+  "updated": "2026-08-07T17:24:53.758Z",
   "counts": {
-    "news": 31,
-    "offfield": 14,
+    "offfield": 15,
+    "news": 30,
     "preview": 2,
     "celebration": 1
   },
   "items": [
     {
       "id": "49551450",
-      "headline": "Gianni Infantino backed by Argentina and Mexico FAs",
-      "description": "Argentina's Football Association has thrown its full support behind Gianni Infantino while praising FIFA for owning up to the mistakes made in the Forward Enterprise case.",
-      "published": "2026-08-07T11:32:42Z",
+      "headline": "Norway calls on Infantino to quit amid backing from Mexico, Argentina",
+      "description": "Norway's soccer federation president has called on Gianni Infantino to resign, saying there is \"no trust\" in him now, while Mexico and Argentina have expressed their support for the embattled FIFA president.",
+      "published": "2026-08-07T16:44:06Z",
       "url": "https://www.espn.com/soccer/story/_/id/49551450/gianni-infantino-backed-argentina-fa-praised-owning-mistakes",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698717_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698828_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Mexico",
+        "Norway",
         "Argentina"
       ],
       "players": [],
-      "score": 203
+      "score": 221
     },
     {
       "id": "49546977",
@@ -39,7 +40,7 @@
         "USA"
       ],
       "players": [],
-      "score": 199
+      "score": 197
     },
     {
       "id": "49551026",
@@ -53,7 +54,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 173
+      "score": 172
     },
     {
       "id": "49536934",
@@ -67,7 +68,79 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 162
+      "score": 161
+    },
+    {
+      "id": "49553649",
+      "headline": "Fiorentina sign Real Madrid teenager Franco Mastantuono on season-long loan",
+      "description": "Franco Mastantuono has joined Fiorentina on a season-long loan from Real Madrid, the clubs confirmed on Friday.",
+      "published": "2026-08-07T16:11:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49553649/fiorentina-sign-real-madrid-teenager-franco-mastantuono-season-long-loan",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698800_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Franco Mastantuono",
+        "Lucas Herrington"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49551148",
+      "headline": "Transfer rumors, news: Man City eye Enzo Fernández as Rodri replacement",
+      "description": "Chelsea midfielder Enzo Fernández has emerged as a main candidate to replace Rodri at Manchester City. Transfer Talk has the latest.",
+      "published": "2026-08-07T13:14:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49551148/transfer-rumors-news-man-city-eye-enzo-fernandez-rodri-replacement",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1662564_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Enzo Fernández",
+        "Patrick Beach"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49552050",
+      "headline": "Inside how Vinícius Júnior signed new Real Madrid contract",
+      "description": "Vinícius Júnior ended weeks of speculation of a blockbuster move to Arsenal by signing a new six-year Real Madrid contract. Here's how it played out.",
+      "published": "2026-08-07T12:41:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49552050/inside-how-vinicius-junior-signed-new-real-madrid-contract",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698729_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland, Rodra and Gustavo Hofman",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "Brazil"
+      ],
+      "players": [
+        "Vinícius Júnior",
+        "Patrick Beach"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49547919",
+      "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
+      "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
+      "published": "2026-08-06T21:52:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 137
     },
     {
       "id": "49551558",
@@ -87,80 +160,64 @@
         "Thapelo Maseko",
         "Patrick Beach"
       ],
-      "score": 138
+      "score": 136
     },
     {
-      "id": "49547919",
-      "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
-      "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
-      "published": "2026-08-06T21:52:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
-      "byline": null,
+      "id": "49553126",
+      "headline": "Man City reject Barcelona's opening €50m Rodri offer - sources",
+      "description": "Man City have rejected Barcelona's opening offer for Rodri, although various sources have confirmed to ESPN that talks between the clubs will continue.",
+      "published": "2026-08-07T15:59:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49553126/man-city-reject-barcelona-opening-50-million-rodri-offer-sources-transfer",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698777_1296x729_16-9.jpg",
+      "byline": "Moises Llorens",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 138
-    },
-    {
-      "id": "49552050",
-      "headline": "Inside how Vinícius Júnior signed new Real Madrid contract",
-      "description": "Vinícius Júnior ended weeks of speculation of a blockbuster move to Arsenal by signing a new six-year Real Madrid contract. Here's how it played out.",
-      "published": "2026-08-07T11:27:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49552050/inside-how-vinicius-junior-signed-new-real-madrid-contract",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698729_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland, Rodra and Gustavo Hofman",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "Brazil"
-      ],
-      "players": [
-        "Vinícius Júnior",
-        "Patrick Beach"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49551657",
-      "headline": "World Cup stars Vozinha, Salah treated to mad transfer unveilings",
-      "description": "The World Cup may be over, but that hasn't quelled the stardom of its most-viral goalkeeper, Vozinha, or Africa's most storied player, Mohamed Salah.",
-      "published": "2026-08-07T09:50:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49551657/world-cup-stars-vozinha-salah-treated-mad-transfer-unveilings",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698721_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
       "teams": [
         "Australia"
       ],
       "players": [
-        "Vozinha",
-        "Patrick Beach"
+        "Rodri",
+        "Lucas Herrington"
       ],
-      "score": 135
+      "score": 131
     },
     {
-      "id": "49551656",
-      "headline": "England's Ivan Toney charged with assault after nightclub incident",
-      "description": "England striker Ivan Toney has been charged with assault after an incident at a London nightclub.",
-      "published": "2026-08-07T09:48:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49551656/england-ivan-toney-charged-assault-nightclub-incident",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661609_1296x729_16-9.jpg",
-      "byline": "James Dielhenn",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49553754",
+      "headline": "Ilhan Fandi forces draw vs. Indonesia to send Singapore through to ASEAN Championship semifinals",
+      "description": "Singapore are through to the ASEAN Championship semis after getting the point they needed in a 1-1 draw with Indonesia on Friday.",
+      "published": "2026-08-07T15:22:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49553754/ilhan-fandi-forces-draw-vs-indonesia-send-singapore-asean-championship-semifinals",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698802_2_1280x720_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Australia",
-        "England"
+        "Australia"
       ],
       "players": [
-        "Ivan Toney",
+        "Ilhan Fandi",
+        "Lucas Herrington"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49551618",
+      "headline": "Patient Gift Monday ready for more after first WAFCON goal for Nigeria",
+      "description": "It took Washington Spirit and Nigeria forward Gift Monday all of four minutes to make her mark at her debut Women's Africa Cup of Nations tournament. Now she's aiming for more.",
+      "published": "2026-08-07T12:43:51Z",
+      "url": "https://www.espn.com/espn/story/_/id/49551618/patient-gift-monday-ready-more-first-wafcon-goal-nigeria",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698744_1296x729_16-9.png",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Gift Monday",
         "Patrick Beach"
       ],
-      "score": 135
+      "score": 126
     },
     {
       "id": "49552275",
@@ -178,7 +235,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 126
+      "score": 124
     },
     {
       "id": "49551924",
@@ -196,7 +253,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 124
+      "score": 123
     },
     {
       "id": "49551899",
@@ -215,7 +272,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 124
+      "score": 123
     },
     {
       "id": "49551772",
@@ -235,7 +292,7 @@
         "Lionel Messi",
         "Patrick Beach"
       ],
-      "score": 124
+      "score": 122
     },
     {
       "id": "49545822",
@@ -249,7 +306,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 120
+      "score": 119
     },
     {
       "id": "49545189",
@@ -263,7 +320,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 115
+      "score": 114
     },
     {
       "id": "49523086",
@@ -281,7 +338,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 108
+      "score": 107
     },
     {
       "id": "49543506",
@@ -297,7 +354,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 99
+      "score": 98
     },
     {
       "id": "49543435",
@@ -314,7 +371,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 95
+      "score": 93
     },
     {
       "id": "49466177",
@@ -340,7 +397,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 94
+      "score": 93
     },
     {
       "id": "49543519",
@@ -357,7 +414,7 @@
         "England"
       ],
       "players": [],
-      "score": 91
+      "score": 89
     },
     {
       "id": "49544673",
@@ -371,7 +428,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 85
+      "score": 83
     },
     {
       "id": "47978642",
@@ -389,7 +446,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 77
+      "score": 75
     },
     {
       "id": "49540626",
@@ -405,7 +462,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 69
+      "score": 68
     },
     {
       "id": "49537044",
@@ -421,7 +478,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 67
+      "score": 66
     },
     {
       "id": "49540216",
@@ -437,7 +494,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 65
+      "score": 64
     },
     {
       "id": "49540676",
@@ -451,7 +508,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 63
+      "score": 62
     },
     {
       "id": "49537988",
@@ -465,7 +522,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 59
     },
     {
       "id": "49537179",
@@ -483,7 +540,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 58
+      "score": 56
     },
     {
       "id": "49536495",
@@ -497,7 +554,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 56
+      "score": 55
     },
     {
       "id": "49532207",
@@ -515,7 +572,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 55
+      "score": 53
     },
     {
       "id": "49532221",
@@ -529,7 +586,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 54
+      "score": 52
     },
     {
       "id": "49534594",
@@ -543,23 +600,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 48
-    },
-    {
-      "id": "49529781",
-      "headline": "Cape Verde coach Bubista steps down after historic World Cup campaign",
-      "description": "Cape Verde coach Bubista, who led the World Cup debutants to a stellar tournament, joined Moroccan club RS Berkane on Tuesday.",
-      "published": "2026-08-04T17:03:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 35
+      "score": 46
     },
     {
       "id": "49532210",
@@ -577,7 +618,23 @@
       "players": [
         "Rodri"
       ],
-      "score": 34
+      "score": 33
+    },
+    {
+      "id": "49529781",
+      "headline": "Cape Verde coach Bubista steps down after historic World Cup campaign",
+      "description": "Cape Verde coach Bubista, who led the World Cup debutants to a stellar tournament, joined Moroccan club RS Berkane on Tuesday.",
+      "published": "2026-08-04T17:03:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 33
     },
     {
       "id": "49528558",
@@ -595,7 +652,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 34
+      "score": 33
     },
     {
       "id": "49527513",
@@ -609,7 +666,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 27
+      "score": 25
     },
     {
       "id": "49525299",
@@ -625,7 +682,7 @@
         "USA"
       ],
       "players": [],
-      "score": 26
+      "score": 25
     },
     {
       "id": "49518399",
@@ -725,7 +782,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 15
+      "score": 14
     },
     {
       "id": "49519755",
@@ -758,50 +815,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49521510",
-      "headline": "Pochettino: Extending with USMNT was a great opportunity for me",
-      "description": "Pochettino: Extending with USMNT was a great opportunity for me",
-      "published": "2026-08-03T16:57:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/49521510/extending-usmnt-was-great-opportunity-me",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49524620",
-      "headline": "Burley: Infantino thinks he's untouchable as FIFA president",
-      "description": "Burley: Infantino thinks he's untouchable as FIFA president",
-      "published": "2026-08-03T22:59:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524620/infantino-thinks-untouchable-fifa-president",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49524593",
-      "headline": "Has Iraola been backed as Liverpool manager?",
-      "description": "Has Iraola been backed as Liverpool manager?",
-      "published": "2026-08-03T22:58:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
