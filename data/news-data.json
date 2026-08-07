@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-07T08:00:30.805Z",
+  "updated": "2026-08-07T09:12:25.143Z",
   "counts": {
-    "offfield": 12,
-    "news": 32,
-    "celebration": 2,
-    "preview": 2
+    "offfield": 11,
+    "news": 31,
+    "preview": 4,
+    "celebration": 2
   },
   "items": [
     {
@@ -22,13 +22,29 @@
         "USA"
       ],
       "players": [],
-      "score": 221
+      "score": 210
+    },
+    {
+      "id": "49551450",
+      "headline": "Gianni Infantino backed by Argentina FA, praised for owning up to mistakes",
+      "description": "Argentina's Football Association has thrown its full support behind Gianni Infantino while praising FIFA for owning up to the mistakes made in the Forward Enterprise case.",
+      "published": "2026-08-07T08:36:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49551450/gianni-infantino-backed-argentina-fa-praised-owning-mistakes",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698717_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [],
+      "score": 209
     },
     {
       "id": "49551026",
-      "headline": "CAF agree support Gianni Infantino amid FIFA governance crisis",
+      "headline": "CAF agree to support Gianni Infantino amid FIFA governance crisis",
       "description": "The Confederation of African Football has thrown its full weight behind FIFA president Gianni Infantino, unanimously reaffirming its support for the embattled Swiss administrator.",
-      "published": "2026-08-07T07:20:16Z",
+      "published": "2026-08-07T08:03:52Z",
       "url": "https://www.espn.com/espn/story/_/id/49551026/caf-agree-support-gianni-infantino-amid-fifa-governance-crisis",
       "image": "https://a.espncdn.com/photo/2026/0806/r1698273_1296x729_16-9.png",
       "byline": "Colin Udoh",
@@ -36,7 +52,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 195
+      "score": 184
     },
     {
       "id": "49536934",
@@ -50,7 +66,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 185
+      "score": 173
     },
     {
       "id": "49547919",
@@ -64,21 +80,65 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 161
+      "score": 149
     },
     {
-      "id": "49545822",
-      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
-      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
-      "published": "2026-08-06T16:47:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
+      "id": "49551141",
+      "headline": "Players felt 'bypassed' by A-League pay proposal",
+      "description": "A-League Women players don't want to take industrial action but feel like they aren't being listened to by the Australian Professional Leagues (APL) as their pay dispute rolls on.",
+      "published": "2026-08-07T07:57:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49551141/aleague-women-aleague-men-cba-players-felt-bypassed-pay-proposal",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698713_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
       "score": 143
+    },
+    {
+      "id": "49543820",
+      "headline": "MTN8 quarter-finals - Kick off times, how to watch, format, match previews",
+      "description": "The MTN8 will kick off with defending champions Orlando Pirates in action against Durban City on Saturday, before African champions Mamelodi Sundowns play Polokwane City.",
+      "published": "2026-08-07T07:34:08Z",
+      "url": "https://www.espn.com/espn/story/_/id/49543820/mtn8-quarter-finals-kick-s-how-watch-format-match-previews",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698286_1296x729_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia",
+        "South Africa"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49543367",
+      "headline": "Morocco vs. South Africa - Kick-off time, how to watch, team news for WAFCON quarter-final",
+      "description": "Banyana Banyana scraped through to the quarter-finals of the Women's Africa Cup of Nations (WAFCON), but now face a tricky test against hosts Morocco in a Saturday quarter-final in Rabat.",
+      "published": "2026-08-07T07:27:27Z",
+      "url": "https://www.espn.com/espn/story/_/id/49543367/morocco-vs-south-africa-kick-how-watch-team-news-wafcon-quarter-final",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698271_1296x729_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia",
+        "South Africa",
+        "Morocco"
+      ],
+      "players": [
+        "Thembi Kgatlana",
+        "Patrick Beach"
+      ],
+      "score": 139
     },
     {
       "id": "49550843",
@@ -94,23 +154,9 @@
         "Australia"
       ],
       "players": [
-        "Patrick Beach"
+        "Paul Okon-Engstler"
       ],
-      "score": 138
-    },
-    {
-      "id": "49545189",
-      "headline": "UEFA stands by World Cup boycott plans despite FIFA, Gianni Infantino apology",
-      "description": "UEFA said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
-      "published": "2026-08-06T20:04:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 138
+      "score": 136
     },
     {
       "id": "49548687",
@@ -128,9 +174,122 @@
       ],
       "players": [
         "Hirving Lozano",
+        "Paul Okon-Engstler"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49551162",
+      "headline": "Thembi Kgatlana relishing South Africa return as she makes up for lost time at WAFCON",
+      "description": "South Africa's star striker Thembi Kgatlana missed last year's Women's Africa Cup of Nations due to personal reasons, but after firing Banyana Banyana into the quarterfinals, is relishing making up for lost time.",
+      "published": "2026-08-07T07:59:06Z",
+      "url": "https://www.espn.com/espn/story/_/id/49551162/thembi-kgatlana-relishing-south-africa-return-makes-lost-wafcon",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1696067_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "South Africa",
+        "Morocco"
+      ],
+      "players": [
+        "Thembi Kgatlana",
         "Patrick Beach"
       ],
-      "score": 134
+      "score": 131
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-07T07:42:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693086_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49543776",
+      "headline": "Mamelodi Sundowns return to a home pitch for the first time since losing Jayden Adams",
+      "description": "After the start to their season was delayed by a week following the death of Jayden Adams, Mamelodi Sundowns are finally returning to action on Saturday against Polokwane City in the MTN8 quarter-finals.",
+      "published": "2026-08-07T07:34:49Z",
+      "url": "https://www.espn.com/espn/story/_/id/49543776/mamelodi-sundowns-return-home-pitch-first-losing-jayden-adams",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698283_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "South Africa",
+        "Austria"
+      ],
+      "players": [
+        "Jayden Adams",
+        "Patrick Beach"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49545822",
+      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
+      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
+      "published": "2026-08-06T16:47:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 131
+    },
+    {
+      "id": "49461152",
+      "headline": "Why England have no automatic Euro 2028 place -- but Argentina are already in the 2030 World Cup",
+      "description": "England have not been granted a guaranteed spot at UEFA Euro 2028 despite being one of the tournament co-hosts.",
+      "published": "2026-08-07T07:10:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49461152/england-euro-2028-automatic-qualification-ireland-wales-scotland",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694218_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "England",
+        "Argentina",
+        "Uruguay",
+        "Paraguay",
+        "Spain",
+        "Portugal",
+        "Morocco"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49545189",
+      "headline": "UEFA stands by World Cup boycott plans despite FIFA, Gianni Infantino apology",
+      "description": "UEFA said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
+      "published": "2026-08-06T20:04:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 126
     },
     {
       "id": "49549216",
@@ -147,9 +306,9 @@
         "USA"
       ],
       "players": [
-        "Patrick Beach"
+        "Paul Okon-Engstler"
       ],
-      "score": 127
+      "score": 125
     },
     {
       "id": "49549683",
@@ -170,9 +329,9 @@
         "Miguel Rodríguez",
         "Jonathan Dean",
         "Andrew Gutman",
-        "Patrick Beach"
+        "Paul Okon-Engstler"
       ],
-      "score": 126
+      "score": 124
     },
     {
       "id": "49549623",
@@ -190,9 +349,9 @@
         "Cabo Verde"
       ],
       "players": [
-        "Patrick Beach"
+        "Paul Okon-Engstler"
       ],
-      "score": 125
+      "score": 124
     },
     {
       "id": "49549515",
@@ -212,25 +371,9 @@
         "José Paradela",
         "Omar Campos",
         "Bruno Damiani",
-        "Patrick Beach"
+        "Paul Okon-Engstler"
       ],
-      "score": 125
-    },
-    {
-      "id": "49543506",
-      "headline": "CAF's silence is deafening, but Africa can be swing vote in FIFA's Infantino saga",
-      "description": "Since Gianni Infantino's plan to 'sell the FIFA World Cup' scandal first broke, the Confederation of African Football has been conspicuous by its silence.",
-      "published": "2026-08-06T13:30:41Z",
-      "url": "https://www.espn.com/espn/story/_/id/49543506/caf-silence-deafening-africa-swing-vote-fifa-infantino-saga",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
-      "players": [],
-      "score": 122
+      "score": 123
     },
     {
       "id": "49523086",
@@ -248,7 +391,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 121
+      "score": 119
     },
     {
       "id": "49547954",
@@ -265,9 +408,25 @@
       ],
       "players": [
         "Bruno Guimarães",
-        "Patrick Beach"
+        "Paul Okon-Engstler"
       ],
-      "score": 118
+      "score": 116
+    },
+    {
+      "id": "49543506",
+      "headline": "CAF's silence is deafening, but Africa can be swing vote in FIFA's Infantino saga",
+      "description": "Since Gianni Infantino's plan to 'sell the FIFA World Cup' scandal first broke, the Confederation of African Football has been conspicuous by its silence.",
+      "published": "2026-08-06T13:30:41Z",
+      "url": "https://www.espn.com/espn/story/_/id/49543506/caf-silence-deafening-africa-swing-vote-fifa-infantino-saga",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Morocco"
+      ],
+      "players": [],
+      "score": 110
     },
     {
       "id": "49543435",
@@ -284,21 +443,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 107
-    },
-    {
-      "id": "49544673",
-      "headline": "English FA maintains that Gianni Infantino wrong president despite FIFA support - report",
-      "description": "The Football Association continues to believe Gianni Infantino is no longer the right man to lead FIFA despite his own organisation throwing its \"full support\" behind him on Wednesday night.",
-      "published": "2026-08-06T12:53:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49544673/english-fa-maintains-stance-infantino-wrong-president-fifa-support",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698315_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 107
+      "score": 106
     },
     {
       "id": "49466177",
@@ -324,7 +469,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 107
+      "score": 105
     },
     {
       "id": "49543519",
@@ -341,7 +486,21 @@
         "England"
       ],
       "players": [],
-      "score": 103
+      "score": 101
+    },
+    {
+      "id": "49544673",
+      "headline": "English FA maintains that Gianni Infantino wrong president despite FIFA support - report",
+      "description": "The Football Association continues to believe Gianni Infantino is no longer the right man to lead FIFA despite his own organisation throwing its \"full support\" behind him on Wednesday night.",
+      "published": "2026-08-06T12:53:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49544673/english-fa-maintains-stance-infantino-wrong-president-fifa-support",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698315_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 96
     },
     {
       "id": "47978642",
@@ -359,7 +518,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 89
+      "score": 88
     },
     {
       "id": "49540626",
@@ -375,7 +534,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 82
+      "score": 80
     },
     {
       "id": "49537044",
@@ -391,7 +550,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 80
+      "score": 78
     },
     {
       "id": "49540216",
@@ -407,7 +566,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 78
+      "score": 76
     },
     {
       "id": "49540676",
@@ -421,7 +580,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 76
+      "score": 74
     },
     {
       "id": "49537988",
@@ -435,7 +594,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 73
+      "score": 71
     },
     {
       "id": "49537179",
@@ -453,7 +612,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 71
+      "score": 69
     },
     {
       "id": "49536495",
@@ -467,7 +626,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 69
+      "score": 67
     },
     {
       "id": "49532221",
@@ -481,7 +640,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49532207",
@@ -499,7 +658,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 67
+      "score": 65
     },
     {
       "id": "49534594",
@@ -513,7 +672,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 59
     },
     {
       "id": "49529781",
@@ -529,7 +688,7 @@
         "Cabo Verde"
       ],
       "players": [],
-      "score": 48
+      "score": 46
     },
     {
       "id": "49532210",
@@ -547,7 +706,7 @@
       "players": [
         "Rodri"
       ],
-      "score": 47
+      "score": 45
     },
     {
       "id": "49528558",
@@ -565,7 +724,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 47
+      "score": 45
     },
     {
       "id": "49527513",
@@ -579,7 +738,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 40
+      "score": 38
     },
     {
       "id": "49525299",
@@ -595,7 +754,7 @@
         "USA"
       ],
       "players": [],
-      "score": 39
+      "score": 37
     },
     {
       "id": "49527911",
@@ -611,7 +770,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 28
+      "score": 26
     },
     {
       "id": "49518399",
@@ -628,24 +787,6 @@
       ],
       "players": [
         "Vozinha"
-      ],
-      "score": 25
-    },
-    {
-      "id": "49497803",
-      "headline": "Ivory Coast part ways with AFCON-winning coach Emerse Faé",
-      "description": "The Ivorian Football Federation have confirmed that Emerse Faé will leave his position as head coach upon the expiry of his contract on July 31, bringing to an end his remarkable two-and-a-half-year spell.",
-      "published": "2026-07-31T17:53:07Z",
-      "url": "https://www.espn.com/espn/story/_/id/49497803/ivory-coast-part-ways-afcon-winning-coach-emerse-fae",
-      "image": "https://a.espncdn.com/photo/2024/0220/r1293600_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Côte d'Ivoire"
-      ],
-      "players": [
-        "Yan Diomande"
       ],
       "score": 25
     },
@@ -698,112 +839,6 @@
       ],
       "players": [],
       "score": 22
-    },
-    {
-      "id": "49495214",
-      "headline": "FIFA exec resigns, second exec says Infantino deceived staff over plan",
-      "description": "Two senior FIFA officials criticized Gianni Infantino's World Cup sell-off plan Friday with one resigning as a presidential adviser and a second saying staff were deceived by project that must not go ahead.",
-      "published": "2026-07-31T21:55:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49495214/fifa-exec-white-house-world-cup-panel-resigns-protest-infantino-plan",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685336_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 22
-    },
-    {
-      "id": "49519755",
-      "headline": "Will lure of Europe threaten fresh Pochettino-USMNT partnership?",
-      "description": "Mauricio Pochettino will remain U.S. men's national team coach through the 2030 World Cup, but what happens if a big club comes calling before then?",
-      "published": "2026-08-04T06:21:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49519755/will-lure-european-club-football-threaten-fresh-mauricio-pochettino-usmnt-partnership",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle and Bill Connelly and Cesar Hernandez and Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 20
-    },
-    {
-      "id": "49524577",
-      "headline": "Will Pochettino leave USMNT before 2030?",
-      "description": "Will Pochettino leave USMNT before 2030?",
-      "published": "2026-08-03T23:00:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524577/will-pochettino-leave-usmnt-2030",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Will_Pochettino_leave_USMNT_before_20303F__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Will_Pochettino_leave_USMNT_before_20303F__GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49521510",
-      "headline": "Pochettino: Extending with USMNT was a great opportunity for me",
-      "description": "Pochettino: Extending with USMNT was a great opportunity for me",
-      "published": "2026-08-03T16:57:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/49521510/extending-usmnt-was-great-opportunity-me",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49524620",
-      "headline": "Burley: Infantino thinks he's untouchable as FIFA president",
-      "description": "Burley: Infantino thinks he's untouchable as FIFA president",
-      "published": "2026-08-03T22:59:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524620/infantino-thinks-untouchable-fifa-president",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49524593",
-      "headline": "Has Iraola been backed as Liverpool manager?",
-      "description": "Has Iraola been backed as Liverpool manager?",
-      "published": "2026-08-03T22:58:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49518982",
-      "headline": "Sources: UEFA threatens Gianni Infantino with legal action over World Cup sell-off plan",
-      "description": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
-      "published": "2026-08-03T12:41:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49518982/uefa-threatens-gianni-infantino-legal-action-world-cup-sell-plan-sources",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
