@@ -1,13 +1,31 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-07T09:12:25.143Z",
+  "updated": "2026-08-07T10:12:10.424Z",
   "counts": {
-    "offfield": 11,
-    "news": 31,
-    "preview": 4,
-    "celebration": 2
+    "news": 30,
+    "offfield": 13,
+    "injury": 1,
+    "preview": 3,
+    "celebration": 1
   },
   "items": [
+    {
+      "id": "49551450",
+      "headline": "Gianni Infantino backed by Argentina and Mexico FAs",
+      "description": "Argentina's Football Association has thrown its full support behind Gianni Infantino while praising FIFA for owning up to the mistakes made in the Forward Enterprise case.",
+      "published": "2026-08-07T09:51:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49551450/gianni-infantino-backed-argentina-fa-praised-owning-mistakes",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698717_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Mexico",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 209
+    },
     {
       "id": "49546977",
       "headline": "USMNT hasn't really improved under Poch: Will new contract change that?",
@@ -22,23 +40,7 @@
         "USA"
       ],
       "players": [],
-      "score": 210
-    },
-    {
-      "id": "49551450",
-      "headline": "Gianni Infantino backed by Argentina FA, praised for owning up to mistakes",
-      "description": "Argentina's Football Association has thrown its full support behind Gianni Infantino while praising FIFA for owning up to the mistakes made in the Forward Enterprise case.",
-      "published": "2026-08-07T08:36:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49551450/gianni-infantino-backed-argentina-fa-praised-owning-mistakes",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698717_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
-      "score": 209
+      "score": 208
     },
     {
       "id": "49551026",
@@ -52,7 +54,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 184
+      "score": 183
     },
     {
       "id": "49536934",
@@ -66,7 +68,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 173
+      "score": 172
     },
     {
       "id": "49547919",
@@ -80,83 +82,125 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 149
+      "score": 148
     },
     {
-      "id": "49551141",
-      "headline": "Players felt 'bypassed' by A-League pay proposal",
-      "description": "A-League Women players don't want to take industrial action but feel like they aren't being listened to by the Australian Professional Leagues (APL) as their pay dispute rolls on.",
-      "published": "2026-08-07T07:57:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49551141/aleague-women-aleague-men-cba-players-felt-bypassed-pay-proposal",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698713_1296x729_16-9.jpg",
-      "byline": "AAP",
+      "id": "49551574",
+      "headline": "Chicago Fire's Mbekezeli Mbokazi out of MLS season, undergoes surgery in Finland",
+      "description": "Mbekezeli Mbokazi's agent, Basia Michaels of QT Sports, told ESPN that the 20-year-old will be unable to complete a transfer away from Chicago Fire FC this season, as his injury is worse than initially thought.",
+      "published": "2026-08-07T09:53:01Z",
+      "url": "https://www.espn.com/espn/story/_/id/49551574/chicago-fire-mbekezeli-mbokazi-mls-season-undergoes-surgery-finland",
+      "image": "https://a.espncdn.com/photo/2026/0605/r1668703_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia",
+        "South Africa"
+      ],
+      "players": [
+        "Mbekezeli Mbokazi",
+        "Mathew Ryan"
+      ],
+      "score": 147
+    },
+    {
+      "id": "49551657",
+      "headline": "World Cup stars Vozinha, Salah treated to mad transfer unveilings",
+      "description": "The World Cup may be over, but that hasn't quelled the stardom of its most-viral goalkeeper, Vozinha, or Africa's most storied player, Mohamed Salah.",
+      "published": "2026-08-07T09:50:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49551657/world-cup-stars-vozinha-salah-treated-mad-transfer-unveilings",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698721_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Australia"
       ],
       "players": [
-        "Patrick Beach"
+        "Vozinha",
+        "Mathew Ryan"
       ],
-      "score": 143
+      "score": 144
     },
     {
-      "id": "49543820",
-      "headline": "MTN8 quarter-finals - Kick off times, how to watch, format, match previews",
-      "description": "The MTN8 will kick off with defending champions Orlando Pirates in action against Durban City on Saturday, before African champions Mamelodi Sundowns play Polokwane City.",
-      "published": "2026-08-07T07:34:08Z",
-      "url": "https://www.espn.com/espn/story/_/id/49543820/mtn8-quarter-finals-kick-s-how-watch-format-match-previews",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698286_1296x729_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49551656",
+      "headline": "England's Ivan Toney charged with assault after nightclub incident",
+      "description": "England striker Ivan Toney has been charged with assault after an incident at a London nightclub.",
+      "published": "2026-08-07T09:48:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49551656/england-ivan-toney-charged-assault-nightclub-incident",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661609_1296x729_16-9.jpg",
+      "byline": "James Dielhenn",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Australia",
-        "South Africa"
+        "England"
       ],
       "players": [
-        "Patrick Beach"
+        "Ivan Toney",
+        "Mathew Ryan"
       ],
-      "score": 140
+      "score": 144
     },
     {
-      "id": "49543367",
-      "headline": "Morocco vs. South Africa - Kick-off time, how to watch, team news for WAFCON quarter-final",
-      "description": "Banyana Banyana scraped through to the quarter-finals of the Women's Africa Cup of Nations (WAFCON), but now face a tricky test against hosts Morocco in a Saturday quarter-final in Rabat.",
-      "published": "2026-08-07T07:27:27Z",
-      "url": "https://www.espn.com/espn/story/_/id/49543367/morocco-vs-south-africa-kick-how-watch-team-news-wafcon-quarter-final",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698271_1296x729_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia",
-        "South Africa",
-        "Morocco"
-      ],
-      "players": [
-        "Thembi Kgatlana",
-        "Patrick Beach"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49550843",
-      "headline": "History on the line as Philippines chase ASEAN Championship semifinal dream vs. Malaysia",
-      "description": "Philippines are still a chance to reach the ASEAN Championships semis -- but they'll have to beat Malaysia away for the first time ever.",
-      "published": "2026-08-07T06:36:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49550843/philippines-chase-asean-championship-semifinal-dream-vs-malaysia ",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698703_1296x729_16-9.jpg",
-      "byline": "Mikhail De Guzman",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49551148",
+      "headline": "Transfer rumors, news: Man City eye Enzo Fernández as Rodri replacement",
+      "description": "Chelsea midfielder Enzo Fernández has emerged as a main candidate to replace Rodri at Manchester City. Transfer Talk has the latest.",
+      "published": "2026-08-07T08:59:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49551148/transfer-rumors-news-man-city-eye-enzo-fernandez-rodri-replacement",
+      "image": "https://a.espncdn.com/photo/2026/0523/r1662564_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Australia"
       ],
       "players": [
-        "Paul Okon-Engstler"
+        "Enzo Fernández",
+        "Mathew Ryan"
       ],
-      "score": 136
+      "score": 143
+    },
+    {
+      "id": "49551344",
+      "headline": "Cameroon vs. Nigeria - Kick-off time, team news, how to watch Super Falcons' WAFCON quarter-final",
+      "description": "Nigeria scraped through to the quarter-finals of the Women's Africa Cup of Nations in second place in Group C, and will now face West African rivals Cameroon on Sunday in Casablanca.",
+      "published": "2026-08-07T08:11:02Z",
+      "url": "https://www.espn.com/espn/story/_/id/49551344/cameroon-vs-nigeria-kick-team-news-how-watch-super-falcons-wafcon-quarter-final",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1696105_1296x729_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Asisat Oshoala",
+        "Rasheedat Ajibade",
+        "Chiamaka Nnadozie",
+        "Mathew Ryan"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49551552",
+      "headline": "Mohamed Salah at Trabzonspor is 'a level too low' - Jamie Carragher",
+      "description": "Jamie Carragher has said playing for Trabzonspor in Türkiye \"feels a level too low\" for Mohamed Salah.",
+      "published": "2026-08-07T09:49:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49551552/mohamed-salah-trabzonspor-level-too-low-jamie-carragher",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698718_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Mathew Ryan"
+      ],
+      "score": 132
     },
     {
       "id": "49548687",
@@ -174,69 +218,29 @@
       ],
       "players": [
         "Hirving Lozano",
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 132
+      "score": 131
     },
     {
-      "id": "49551162",
-      "headline": "Thembi Kgatlana relishing South Africa return as she makes up for lost time at WAFCON",
-      "description": "South Africa's star striker Thembi Kgatlana missed last year's Women's Africa Cup of Nations due to personal reasons, but after firing Banyana Banyana into the quarterfinals, is relishing making up for lost time.",
-      "published": "2026-08-07T07:59:06Z",
-      "url": "https://www.espn.com/espn/story/_/id/49551162/thembi-kgatlana-relishing-south-africa-return-makes-lost-wafcon",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1696067_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
+      "id": "49551247",
+      "headline": "Paulo Josué went from holiday in Brazil to leading Malaysia's ASEAN Championship charge",
+      "description": "Paulo Josué was enjoying his break in Brazil when he answered the call to lead Malaysia at the 2026 ASEAN Championship.",
+      "published": "2026-08-07T07:58:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49551247/paulo-josue-holiday-brazil-leading-malaysia-asean-championship-charge",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698711_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Australia",
-        "South Africa",
-        "Morocco"
+        "Brazil"
       ],
       "players": [
-        "Thembi Kgatlana",
-        "Patrick Beach"
+        "Paulo Josué",
+        "Mathew Ryan"
       ],
-      "score": 131
-    },
-    {
-      "id": "48955344",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "published": "2026-08-07T07:42:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693086_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49543776",
-      "headline": "Mamelodi Sundowns return to a home pitch for the first time since losing Jayden Adams",
-      "description": "After the start to their season was delayed by a week following the death of Jayden Adams, Mamelodi Sundowns are finally returning to action on Saturday against Polokwane City in the MTN8 quarter-finals.",
-      "published": "2026-08-07T07:34:49Z",
-      "url": "https://www.espn.com/espn/story/_/id/49543776/mamelodi-sundowns-return-home-pitch-first-losing-jayden-adams",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698283_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "South Africa",
-        "Austria"
-      ],
-      "players": [
-        "Jayden Adams",
-        "Patrick Beach"
-      ],
-      "score": 131
+      "score": 130
     },
     {
       "id": "49545822",
@@ -250,31 +254,6 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 131
-    },
-    {
-      "id": "49461152",
-      "headline": "Why England have no automatic Euro 2028 place -- but Argentina are already in the 2030 World Cup",
-      "description": "England have not been granted a guaranteed spot at UEFA Euro 2028 despite being one of the tournament co-hosts.",
-      "published": "2026-08-07T07:10:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49461152/england-euro-2028-automatic-qualification-ireland-wales-scotland",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694218_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "England",
-        "Argentina",
-        "Uruguay",
-        "Paraguay",
-        "Spain",
-        "Portugal",
-        "Morocco"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
       "score": 130
     },
     {
@@ -289,7 +268,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 126
+      "score": 125
     },
     {
       "id": "49549216",
@@ -306,9 +285,9 @@
         "USA"
       ],
       "players": [
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 125
+      "score": 123
     },
     {
       "id": "49549683",
@@ -329,9 +308,9 @@
         "Miguel Rodríguez",
         "Jonathan Dean",
         "Andrew Gutman",
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 124
+      "score": 123
     },
     {
       "id": "49549623",
@@ -349,9 +328,9 @@
         "Cabo Verde"
       ],
       "players": [
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 124
+      "score": 122
     },
     {
       "id": "49549515",
@@ -371,9 +350,9 @@
         "José Paradela",
         "Omar Campos",
         "Bruno Damiani",
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 123
+      "score": 121
     },
     {
       "id": "49523086",
@@ -391,7 +370,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 119
+      "score": 117
     },
     {
       "id": "49547954",
@@ -408,9 +387,28 @@
       ],
       "players": [
         "Bruno Guimarães",
-        "Paul Okon-Engstler"
+        "Patrick Beach"
       ],
-      "score": 116
+      "score": 114
+    },
+    {
+      "id": "49547878",
+      "headline": "Where would Rodri fit in at Barcelona?",
+      "description": "Where would Rodri fit in at Barcelona?",
+      "published": "2026-08-06T21:32:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49547878/where-rodri-fit-barcelona",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Where_would_Rodri_fit_in_at_Barcelona/dm_260806_Where_would_Rodri_fit_in_at_Barcelona.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Rodri",
+        "Patrick Beach"
+      ],
+      "score": 114
     },
     {
       "id": "49543506",
@@ -426,7 +424,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 110
+      "score": 109
     },
     {
       "id": "49543435",
@@ -443,7 +441,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 106
+      "score": 104
     },
     {
       "id": "49466177",
@@ -469,7 +467,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 105
+      "score": 104
     },
     {
       "id": "49543519",
@@ -486,7 +484,7 @@
         "England"
       ],
       "players": [],
-      "score": 101
+      "score": 100
     },
     {
       "id": "49544673",
@@ -500,7 +498,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 96
+      "score": 94
     },
     {
       "id": "47978642",
@@ -518,7 +516,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 88
+      "score": 86
     },
     {
       "id": "49540626",
@@ -534,7 +532,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 80
+      "score": 79
     },
     {
       "id": "49537044",
@@ -550,7 +548,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 78
+      "score": 77
     },
     {
       "id": "49540216",
@@ -566,7 +564,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 76
+      "score": 75
     },
     {
       "id": "49540676",
@@ -580,7 +578,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 74
+      "score": 72
     },
     {
       "id": "49537988",
@@ -594,7 +592,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 71
+      "score": 70
     },
     {
       "id": "49537179",
@@ -612,7 +610,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 69
+      "score": 67
     },
     {
       "id": "49536495",
@@ -626,21 +624,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 67
-    },
-    {
-      "id": "49532221",
-      "headline": "Does soccer need to vote against Infantino?",
-      "description": "Does soccer need to vote against Infantino?",
-      "published": "2026-08-05T16:21:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 65
+      "score": 66
     },
     {
       "id": "49532207",
@@ -658,7 +642,21 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 65
+      "score": 64
+    },
+    {
+      "id": "49532221",
+      "headline": "Does soccer need to vote against Infantino?",
+      "description": "Does soccer need to vote against Infantino?",
+      "published": "2026-08-05T16:21:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 63
     },
     {
       "id": "49534594",
@@ -672,23 +670,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 59
-    },
-    {
-      "id": "49529781",
-      "headline": "Cape Verde coach Bubista steps down after historic World Cup campaign",
-      "description": "Cape Verde coach Bubista, who led the World Cup debutants to a stellar tournament, joined Moroccan club RS Berkane on Tuesday.",
-      "published": "2026-08-04T17:03:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 46
+      "score": 57
     },
     {
       "id": "49532210",
@@ -706,7 +688,23 @@
       "players": [
         "Rodri"
       ],
-      "score": 45
+      "score": 44
+    },
+    {
+      "id": "49529781",
+      "headline": "Cape Verde coach Bubista steps down after historic World Cup campaign",
+      "description": "Cape Verde coach Bubista, who led the World Cup debutants to a stellar tournament, joined Moroccan club RS Berkane on Tuesday.",
+      "published": "2026-08-04T17:03:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [],
+      "score": 44
     },
     {
       "id": "49528558",
@@ -724,7 +722,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 45
+      "score": 44
     },
     {
       "id": "49527513",
@@ -738,7 +736,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 38
+      "score": 36
     },
     {
       "id": "49525299",
@@ -754,7 +752,7 @@
         "USA"
       ],
       "players": [],
-      "score": 37
+      "score": 36
     },
     {
       "id": "49527911",
@@ -770,7 +768,7 @@
         "Turkey"
       ],
       "players": [],
-      "score": 26
+      "score": 25
     },
     {
       "id": "49518399",
