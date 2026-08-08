@@ -1,9 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-08T17:17:42.922Z",
+  "updated": "2026-08-08T17:52:05.513Z",
   "counts": {
-    "news": 33,
-    "offfield": 12,
+    "news": 32,
+    "offfield": 13,
     "preview": 2,
     "celebration": 1
   },
@@ -20,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 200
+      "score": 199
     },
     {
       "id": "49551450",
@@ -38,7 +38,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 175
+      "score": 174
     },
     {
       "id": "49546977",
@@ -57,12 +57,31 @@
       "score": 151
     },
     {
-      "id": "49559004",
-      "headline": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
-      "description": "Inter Milan striker Pio Esposito is wanted by Premier League giants Arsenal and Manchester United. Transfer Talk has the latest.",
-      "published": "2026-08-08T13:58:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49559004/transfer-rumors-news-arsenal-manchester-united-inter-milan-pio-esposito",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699047_1296x729_16-9.jpg",
+      "id": "49560476",
+      "headline": "Ferran Torres told Barcelona he wants to join PSG - sources",
+      "description": "Ferran Torres has told Barcelona he wants to join Paris Saint-Germain this summer after agreeing personal terms with the French club, a source has told ESPN.",
+      "published": "2026-08-08T13:27:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560476/ferran-torres-told-barcelona-wants-join-psg-sources",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691464_1296x729_16-9.jpg",
+      "byline": "Moises Llorens and Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Ferran Torres",
+        "Patrick Beach"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49560391",
+      "headline": "Bruno Guimarães joined Arsenal after 'differences in ideas' with Newcastle",
+      "description": "Bruno Guimarães said he had \"differences in ideas\" with Newcastle United which led him to join Arsenal.",
+      "published": "2026-08-08T13:20:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560391/bruno-guimaraes-joined-arsenal-due-differences-ideas-newcastle",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699087_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
@@ -70,122 +89,29 @@
         "Australia"
       ],
       "players": [
-        "Pio Esposito",
+        "Bruno Guimarães",
         "Patrick Beach"
       ],
-      "score": 140
+      "score": 138
     },
     {
-      "id": "48990955",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "published": "2026-08-08T13:55:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699095_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
+      "id": "49559983",
+      "headline": "Man City won't sanction cut-price Rodri deal amid Barcelona, Real Madrid interest",
+      "description": "Manchester City value Rodri at more than €70 million (£60m / $81m) amid interest from Barcelona and Real Madrid, sources have told ESPN.",
+      "published": "2026-08-08T12:58:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49559983/man-city-wont-sanction-cutprice-rodri-deal-amid-barcelona-real-madrid-interest",
+      "image": "https://a.espncdn.com/photo/2026/0310/r1626419_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Australia"
       ],
       "players": [
+        "Rodri",
         "Patrick Beach"
       ],
-      "score": 140
-    },
-    {
-      "id": "49560549",
-      "headline": "Jorge Messi, the father of Lionel, dies at 68",
-      "description": "Inter Miami and Argentina forward Lionel Messi's father, Jorge, has died at the age of 68, it was confirmed Saturday.",
-      "published": "2026-08-08T15:30:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49560549/jorge-messi-father-lionel-dies-aged-68",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699092_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Patrick Beach"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49561070",
-      "headline": "Malaysia advance to ASEAN Championship semifinals at Philippines' expense",
-      "description": "Malaysia are into the semifinals of the ASEAN Championship at the expense of Philippines, who will not be repeating their dream run from 2024.",
-      "published": "2026-08-08T15:11:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49561070/malaysia-advance-asean-championship-semifinals-philippines-expense",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699113_1103x621_16-9.jpg",
-      "byline": "Mikhail De Guzman",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49561003",
-      "headline": "Onuoha: Rodri deserves to leave Man City for Barcelona",
-      "description": "Onuoha: Rodri deserves to leave Man City for Barcelona",
-      "published": "2026-08-08T15:04:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/49561003/rodri-deserves-leave-man-city-barcelona",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0808/dm_260808_COM_SOC_Analysis_Onuoha3A_Rodri_deserves_to_leave_Man_City_for_Barcelona_GLOBAL_2026-08-08/dm_260808_COM_SOC_Analysis_Onuoha3A_Rodri_deserves_to_leave_Man_City_for_Barcelona_GLOBAL_2026-08-08.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49560861",
-      "headline": "Moisés Caicedo volley helps Chelsea past Milan in preseason",
-      "description": "Moisés Caicedo's brilliant volley helped Chelsea beat AC Milan 3-0 in a preseason friendly on Saturday.",
-      "published": "2026-08-08T14:58:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49560861/moises-caicedo-volley-helps-chelsea-milan-preseason",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699101_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Moisés Caicedo",
-        "Patrick Beach"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49560900",
-      "headline": "Diego Simeone and Atlético Madrid standing firm on Julián Álvarez despite Barcelona interest",
-      "description": "Diego Simeone insists Atlético Madrid's position on Julián Álvarez has not changed despite Barcelona's interest and the striker's desire to leave.",
-      "published": "2026-08-08T14:53:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49560900/diego-simeone-atletico-madrid-julian-alvarez-barcelona-laliga",
-      "image": "https://a.espncdn.com/photo/2026/0726/r1693866_1296x729_16-9.jpg",
-      "byline": "Samuel Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Julián Álvarez",
-        "Patrick Beach"
-      ],
-      "score": 129
+      "score": 138
     },
     {
       "id": "49547919",
@@ -199,7 +125,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 129
+      "score": 128
     },
     {
       "id": "49560552",
@@ -218,7 +144,61 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 128
+      "score": 127
+    },
+    {
+      "id": "49560010",
+      "headline": "Barcelona's 'triangular' match? Unusual preseason fixture explained",
+      "description": "Barcelona's preseason run-out on Saturday pits them against both Nottingham Forest and Udinese over a total of 90 minutes. How does that work?",
+      "published": "2026-08-08T13:22:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560010/barcelona-playing-triangular-match-vs-udinese-nottingham-forest-unusual-preseason-fixture-explained",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699079_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49560178",
+      "headline": "Super Falcons at WAFCON - the good, the bad and what must change against Cameroon",
+      "description": "Times have changed, and even African women's football royalty have a chink in their armour.",
+      "published": "2026-08-08T13:09:14Z",
+      "url": "https://www.espn.com/espn/story/_/id/49560178/super-falcons-wafcon-good-bad-change-cameroon",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698269_1296x729_16-9.png",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49560344",
+      "headline": "Wolves goalkeeper legend Phil Parkes dies aged 79",
+      "description": "Wolves have paid tribute to former goalkeeper Phil Parkes, who has died aged 79.",
+      "published": "2026-08-08T13:04:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560344/wolves-goalkeeper-legend-phil-parkes-dies-aged-79",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699081_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 126
     },
     {
       "id": "49551026",
@@ -232,7 +212,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 126
+      "score": 125
     },
     {
       "id": "49536934",
@@ -246,7 +226,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 115
+      "score": 114
     },
     {
       "id": "49545822",
@@ -260,7 +240,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 73
+      "score": 72
     },
     {
       "id": "49523086",
@@ -278,7 +258,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 71
+      "score": 70
     },
     {
       "id": "49545189",
@@ -292,7 +272,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 68
+      "score": 67
     },
     {
       "id": "49543435",
@@ -335,7 +315,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 57
+      "score": 56
     },
     {
       "id": "49543519",
@@ -368,7 +348,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 52
+      "score": 51
     },
     {
       "id": "49544673",
@@ -416,7 +396,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 32
+      "score": 31
     },
     {
       "id": "49537044",
@@ -432,7 +412,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 30
+      "score": 29
     },
     {
       "id": "49540216",
@@ -462,7 +442,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 26
+      "score": 25
     },
     {
       "id": "49518399",
@@ -494,7 +474,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 23
+      "score": 22
     },
     {
       "id": "49529781",
@@ -596,21 +576,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 21
-    },
-    {
-      "id": "49536495",
-      "headline": "Who could challenge Gianni Infantino for FIFA presidency?",
-      "description": "Rivals are reportedly circling in a bid to unseat Gianni Infantino as FIFA president following his disastrous plan to bring private equity into the World Cup. Who are they and what makes them viable candidates to run against him?",
-      "published": "2026-08-05T18:03:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536495/fifa-president-gianni-infantino-challengers-montagliani-al-khalifa-al-khelaifi-world-cup-elections",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697942_1075x605_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 19
+      "score": 20
     },
     {
       "id": "49525299",
@@ -629,18 +595,18 @@
       "score": 19
     },
     {
-      "id": "49532221",
-      "headline": "Does soccer need to vote against Infantino?",
-      "description": "Does soccer need to vote against Infantino?",
-      "published": "2026-08-05T16:21:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
-      "byline": null,
+      "id": "49536495",
+      "headline": "Who could challenge Gianni Infantino for FIFA presidency?",
+      "description": "Rivals are reportedly circling in a bid to unseat Gianni Infantino as FIFA president following his disastrous plan to bring private equity into the World Cup. Who are they and what makes them viable candidates to run against him?",
+      "published": "2026-08-05T18:03:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49536495/fifa-president-gianni-infantino-challengers-montagliani-al-khalifa-al-khelaifi-world-cup-elections",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697942_1075x605_16-9.jpg",
+      "byline": "Connor O'Halloran",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 17
+      "score": 18
     },
     {
       "id": "49532207",
@@ -659,6 +625,20 @@
         "Erling Haaland"
       ],
       "score": 17
+    },
+    {
+      "id": "49532221",
+      "headline": "Does soccer need to vote against Infantino?",
+      "description": "Does soccer need to vote against Infantino?",
+      "published": "2026-08-05T16:21:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
     },
     {
       "id": "49532210",
@@ -690,7 +670,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 11
+      "score": 10
     },
     {
       "id": "49527911",
@@ -792,6 +772,20 @@
       "url": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg",
       "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49518982",
+      "headline": "Sources: UEFA threatens Gianni Infantino with legal action over World Cup sell-off plan",
+      "description": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
+      "published": "2026-08-03T12:41:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49518982/uefa-threatens-gianni-infantino-legal-action-world-cup-sell-plan-sources",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
