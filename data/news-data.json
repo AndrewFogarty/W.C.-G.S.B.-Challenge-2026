@@ -1,13 +1,27 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-08T13:05:36.369Z",
+  "updated": "2026-08-08T13:54:15.170Z",
   "counts": {
-    "offfield": 14,
-    "news": 30,
+    "news": 31,
+    "offfield": 13,
     "preview": 3,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49560207",
+      "headline": "Gianni Infantino denies UEFA made payment to alleged lover",
+      "description": "Gianni Infantino has denied that UEFA paid off his alleged lover while he was the organisation's general secretary.",
+      "published": "2026-08-08T13:11:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560207/gianni-infantino-denies-uefa-made-departure-payment-alleged-lover",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
     {
       "id": "49551450",
       "headline": "Norway calls on Infantino to quit amid backing from Mexico, Argentina",
@@ -24,7 +38,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 191
+      "score": 180
     },
     {
       "id": "49546977",
@@ -40,21 +54,7 @@
         "USA"
       ],
       "players": [],
-      "score": 168
-    },
-    {
-      "id": "49547919",
-      "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
-      "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
-      "published": "2026-08-07T23:23:17Z",
-      "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 145
+      "score": 157
     },
     {
       "id": "49511174",
@@ -73,7 +73,7 @@
         "Bruno Guimarães",
         "Patrick Beach"
       ],
-      "score": 143
+      "score": 141
     },
     {
       "id": "49559004",
@@ -92,7 +92,7 @@
         "Pio Esposito",
         "Patrick Beach"
       ],
-      "score": 142
+      "score": 141
     },
     {
       "id": "49543427",
@@ -111,21 +111,7 @@
         "Bruno Guimarães",
         "Patrick Beach"
       ],
-      "score": 142
-    },
-    {
-      "id": "49551026",
-      "headline": "CAF agree to support Gianni Infantino amid FIFA governance crisis",
-      "description": "The Confederation of African Football has thrown its full weight behind FIFA president Gianni Infantino, unanimously reaffirming its support for the embattled Swiss administrator.",
-      "published": "2026-08-07T08:03:52Z",
-      "url": "https://www.espn.com/espn/story/_/id/49551026/caf-agree-support-gianni-infantino-amid-fifa-governance-crisis",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698273_1296x729_16-9.png",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 142
+      "score": 141
     },
     {
       "id": "48897670",
@@ -143,16 +129,30 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 137
+      "score": 136
     },
     {
-      "id": "49536934",
-      "headline": "Which big clubs are struggling with World Cup burnout?",
-      "description": "The World Cup was a great spectacle, but it was also hard work for the players, and as many of the game's stars return to their clubs to prepare for the 2026-27, which clubs are battling burnout the most?",
-      "published": "2026-08-07T07:22:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
+      "id": "49547919",
+      "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
+      "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
+      "published": "2026-08-07T23:23:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 134
+    },
+    {
+      "id": "49551026",
+      "headline": "CAF agree to support Gianni Infantino amid FIFA governance crisis",
+      "description": "The Confederation of African Football has thrown its full weight behind FIFA president Gianni Infantino, unanimously reaffirming its support for the embattled Swiss administrator.",
+      "published": "2026-08-07T08:03:52Z",
+      "url": "https://www.espn.com/espn/story/_/id/49551026/caf-agree-support-gianni-infantino-amid-fifa-governance-crisis",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698273_1296x729_16-9.png",
+      "byline": "Colin Udoh",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
@@ -175,7 +175,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 130
+      "score": 129
     },
     {
       "id": "49163915",
@@ -193,7 +193,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49543739",
@@ -211,7 +211,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 128
+      "score": 127
     },
     {
       "id": "49559231",
@@ -230,7 +230,21 @@
         "Jacob Mahler",
         "Patrick Beach"
       ],
-      "score": 128
+      "score": 127
+    },
+    {
+      "id": "49536934",
+      "headline": "Which big clubs are struggling with World Cup burnout?",
+      "description": "The World Cup was a great spectacle, but it was also hard work for the players, and as many of the game's stars return to their clubs to prepare for the 2026-27, which clubs are battling burnout the most?",
+      "published": "2026-08-07T07:22:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 120
     },
     {
       "id": "49545822",
@@ -244,21 +258,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 90
-    },
-    {
-      "id": "49545189",
-      "headline": "UEFA stands by World Cup boycott plans despite FIFA, Gianni Infantino apology",
-      "description": "UEFA said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
-      "published": "2026-08-06T20:04:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 84
+      "score": 78
     },
     {
       "id": "49523086",
@@ -276,23 +276,21 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 77
+      "score": 76
     },
     {
-      "id": "49543506",
-      "headline": "CAF's silence is deafening, but Africa can be swing vote in FIFA's Infantino saga",
-      "description": "Since Gianni Infantino's plan to 'sell the FIFA World Cup' scandal first broke, the Confederation of African Football has been conspicuous by its silence.",
-      "published": "2026-08-06T13:30:41Z",
-      "url": "https://www.espn.com/espn/story/_/id/49543506/caf-silence-deafening-africa-swing-vote-fifa-infantino-saga",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
+      "id": "49545189",
+      "headline": "UEFA stands by World Cup boycott plans despite FIFA, Gianni Infantino apology",
+      "description": "UEFA said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
+      "published": "2026-08-06T20:04:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
+      "teams": [],
       "players": [],
-      "score": 69
+      "score": 73
     },
     {
       "id": "49543435",
@@ -309,7 +307,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 64
+      "score": 63
     },
     {
       "id": "49466177",
@@ -335,7 +333,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 63
+      "score": 62
     },
     {
       "id": "49543519",
@@ -352,7 +350,23 @@
         "England"
       ],
       "players": [],
-      "score": 60
+      "score": 58
+    },
+    {
+      "id": "49543506",
+      "headline": "CAF's silence is deafening, but Africa can be swing vote in FIFA's Infantino saga",
+      "description": "Since Gianni Infantino's plan to 'sell the FIFA World Cup' scandal first broke, the Confederation of African Football has been conspicuous by its silence.",
+      "published": "2026-08-06T13:30:41Z",
+      "url": "https://www.espn.com/espn/story/_/id/49543506/caf-silence-deafening-africa-swing-vote-fifa-infantino-saga",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Morocco"
+      ],
+      "players": [],
+      "score": 57
     },
     {
       "id": "49544673",
@@ -366,7 +380,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 54
+      "score": 52
     },
     {
       "id": "47978642",
@@ -384,7 +398,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 46
+      "score": 44
     },
     {
       "id": "49540626",
@@ -400,7 +414,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 38
+      "score": 37
     },
     {
       "id": "49537044",
@@ -416,7 +430,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 36
+      "score": 35
     },
     {
       "id": "49540216",
@@ -432,7 +446,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 35
+      "score": 33
     },
     {
       "id": "49540676",
@@ -446,7 +460,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 32
+      "score": 31
     },
     {
       "id": "49537988",
@@ -460,7 +474,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 29
+      "score": 28
     },
     {
       "id": "49537179",
@@ -478,21 +492,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 27
-    },
-    {
-      "id": "49536495",
-      "headline": "Who could challenge Gianni Infantino for FIFA presidency?",
-      "description": "Rivals are reportedly circling in a bid to unseat Gianni Infantino as FIFA president following his disastrous plan to bring private equity into the World Cup. Who are they and what makes them viable candidates to run against him?",
-      "published": "2026-08-05T18:03:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536495/fifa-president-gianni-infantino-challengers-montagliani-al-khalifa-al-khelaifi-world-cup-elections",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697942_1075x605_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 25
+      "score": 26
     },
     {
       "id": "49518399",
@@ -513,6 +513,34 @@
       "score": 25
     },
     {
+      "id": "49536495",
+      "headline": "Who could challenge Gianni Infantino for FIFA presidency?",
+      "description": "Rivals are reportedly circling in a bid to unseat Gianni Infantino as FIFA president following his disastrous plan to bring private equity into the World Cup. Who are they and what makes them viable candidates to run against him?",
+      "published": "2026-08-05T18:03:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49536495/fifa-president-gianni-infantino-challengers-montagliani-al-khalifa-al-khelaifi-world-cup-elections",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697942_1075x605_16-9.jpg",
+      "byline": "Connor O'Halloran",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 24
+    },
+    {
+      "id": "49532221",
+      "headline": "Does soccer need to vote against Infantino?",
+      "description": "Does soccer need to vote against Infantino?",
+      "published": "2026-08-05T16:21:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 22
+    },
+    {
       "id": "49532207",
       "headline": "Has Haaland's and Norway's profile been boosted since the World Cup?",
       "description": "Has Haaland's and Norway's profile been boosted since the World Cup?",
@@ -528,21 +556,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 24
-    },
-    {
-      "id": "49532221",
-      "headline": "Does soccer need to vote against Infantino?",
-      "description": "Does soccer need to vote against Infantino?",
-      "published": "2026-08-05T16:21:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49532221/does-soccer-need-vote-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Does_football_need_to_vote_against_Infantino3F__GLOBAL_2026-08-04.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 23
+      "score": 22
     },
     {
       "id": "49529781",
@@ -629,22 +643,6 @@
       "score": 22
     },
     {
-      "id": "49495214",
-      "headline": "FIFA exec resigns, second exec says Infantino deceived staff over plan",
-      "description": "Two senior FIFA officials criticized Gianni Infantino's World Cup sell-off plan Friday with one resigning as a presidential adviser and a second saying staff were deceived by project that must not go ahead.",
-      "published": "2026-07-31T21:55:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49495214/fifa-exec-white-house-world-cup-panel-resigns-protest-infantino-plan",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685336_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 22
-    },
-    {
       "id": "49525299",
       "headline": "Pochettino will now face a different pressure as USMNT boss",
       "description": "Now that he has four years to plan for another World Cup, the demands on Mauricio Pochettino will be entirely different than what he has encountered so far.",
@@ -672,7 +670,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 17
+      "score": 16
     },
     {
       "id": "49532210",
