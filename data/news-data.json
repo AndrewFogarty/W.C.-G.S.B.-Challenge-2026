@@ -1,9 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-08T21:16:04.249Z",
+  "updated": "2026-08-08T21:50:02.962Z",
   "counts": {
-    "news": 32,
-    "offfield": 11,
+    "news": 31,
+    "offfield": 12,
     "injury": 1,
     "preview": 3,
     "celebration": 1
@@ -21,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 194
+      "score": 193
     },
     {
       "id": "49551450",
@@ -39,7 +39,27 @@
         "Argentina"
       ],
       "players": [],
-      "score": 169
+      "score": 168
+    },
+    {
+      "id": "49562837",
+      "headline": "Man United being 'careful' with Mason Mount after injury scare",
+      "description": "Manchester United coach Michael Carrick said he had to be \"careful\" with Mason Mount after the England midfielder handed United an injury scare in their friendly with Paris Saint-Germain.",
+      "published": "2026-08-08T20:20:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49562837/man-united-mason-mount-injury-psg-friendly-preseason",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699224_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia",
+        "England"
+      ],
+      "players": [
+        "Mason Mount",
+        "Patrick Beach"
+      ],
+      "score": 145
     },
     {
       "id": "49546977",
@@ -58,17 +78,19 @@
       "score": 145
     },
     {
-      "id": "49543739",
-      "headline": "How the 2026 ASEAN Championship's final four made it to the semifinals",
-      "description": "The ASEAN Championship semifinals are set. Here's how the final four each made it out of the group stage to get this far.",
-      "published": "2026-08-08T18:29:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49543739/every-team-needs-qualify-2026-asean-championship-semifinals",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699077_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49562392",
+      "headline": "Ivory Coast collapse against Algeria at WAFCON after errors and red card",
+      "description": "Algeria become the first team to reach the WAFCON semifinals, as goals from Ines Khiri and Amira Ould Braham cancelled out Ines Konan's opener for the Ivory Coast in the first quarterfinal in Casablanca on Saturday.",
+      "published": "2026-08-08T20:19:03Z",
+      "url": "https://www.espn.com/espn/story/_/id/49562392/ivory-coast-collapse-algeria-wafcon-errors-red-card",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699219_1296x729_16-9.png",
+      "byline": "Ed Dove",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Australia"
+        "Australia",
+        "Côte d'Ivoire",
+        "Algeria"
       ],
       "players": [
         "Patrick Beach"
@@ -76,30 +98,12 @@
       "score": 143
     },
     {
-      "id": "49562079",
-      "headline": "Andy Carroll sent off for 'reckless challenge' in Dagenham's first game of season",
-      "description": "Andy Carroll was sent off on the opening day of the season although his Dagenham side started their National League South campaign with a 1-0 win at Dorking.",
-      "published": "2026-08-08T18:33:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49562079/andy-carroll-sent-reckless-challenge-dagenham-first-game-season",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699168_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 141
-    },
-    {
       "id": "49561639",
       "headline": "Morocco vs. South Africa - Banyana's WAFCON quarter-final live as it happens",
       "description": "Desiree Ellis' Banyana Banyana face Morocco in the quarter-finals of the WAFCON in Rabat. South Africa look to repeat their 2022 final win over the Atlas Lionesses.",
-      "published": "2026-08-08T19:16:33Z",
+      "published": "2026-08-08T20:29:21Z",
       "url": "https://www.espn.com/espn/story/_/id/49561639/morocco-vs-south-africa-banyana-wafcon-quarter-final-live-happens",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699158_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699229_1296x729_16-9.png",
       "byline": "Leonard Solms",
       "kind": "preview",
       "kindLabel": "Match preview",
@@ -118,7 +122,45 @@
         "Gabriela Salgado",
         "Patrick Beach"
       ],
-      "score": 139
+      "score": 140
+    },
+    {
+      "id": "49562079",
+      "headline": "Andy Carroll sent off for 'reckless challenge' in Dagenham's first game of season",
+      "description": "Andy Carroll was sent off on the opening day of the season although his Dagenham side started their National League South campaign with a 1-0 win at Dorking.",
+      "published": "2026-08-08T18:33:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49562079/andy-carroll-sent-reckless-challenge-dagenham-first-game-season",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699168_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49560549",
+      "headline": "Jorge Messi, the father of Lionel, dies at 68",
+      "description": "Inter Miami and Argentina forward Lionel Messi's father, Jorge Messi, died Saturday at a hospital in the central Argentina city of Rosario. He was 68.",
+      "published": "2026-08-08T20:32:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560549/jorge-messi-father-lionel-dies-aged-68",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699092_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Patrick Beach"
+      ],
+      "score": 131
     },
     {
       "id": "49562527",
@@ -135,24 +177,6 @@
       ],
       "players": [
         "Marcus Rashford",
-        "Patrick Beach"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49561712",
-      "headline": "Manchester United hold PSG to draw as Bryan Mbeumo shines again",
-      "description": "Manchester United held reigning European Champions Paris Saint-Germain to a 1-1 draw in their preseason friendly in Gothenburg, with Bryan Mbeumo cancelling out an early Ibrahim Mbaye goal.",
-      "published": "2026-08-08T19:31:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49561712/manchester-united-hold-psg-draw-bryan-mbeumo-shines-again",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699153_1296x729_16-9.jpg",
-      "byline": "Olivia Pagden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
         "Patrick Beach"
       ],
       "score": 130
@@ -194,24 +218,6 @@
       "score": 129
     },
     {
-      "id": "49561877",
-      "headline": "Hydration breaks in non-league? Explaining why it happened",
-      "description": "Hydration breaks stopped Carabao Cup ties and National League games on the first major weekend of the English football season.",
-      "published": "2026-08-08T17:46:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49561877/hydration-breaks-non-league-explaining-why-happened",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699152_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 128
-    },
-    {
       "id": "49547919",
       "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
       "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
@@ -223,7 +229,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 123
+      "score": 122
     },
     {
       "id": "49551026",
@@ -237,7 +243,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 120
+      "score": 119
     },
     {
       "id": "49536934",
@@ -251,7 +257,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 109
+      "score": 108
     },
     {
       "id": "49545822",
@@ -265,7 +271,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 67
+      "score": 66
     },
     {
       "id": "49523086",
@@ -283,7 +289,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 65
+      "score": 64
     },
     {
       "id": "49545189",
@@ -297,7 +303,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 62
+      "score": 61
     },
     {
       "id": "49543435",
@@ -340,7 +346,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 51
+      "score": 50
     },
     {
       "id": "49543519",
@@ -421,7 +427,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 26
+      "score": 25
     },
     {
       "id": "49518399",
@@ -455,7 +461,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 24
+      "score": 23
     },
     {
       "id": "49540216",
@@ -569,7 +575,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 20
+      "score": 19
     },
     {
       "id": "49525299",
@@ -599,7 +605,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 17
+      "score": 16
     },
     {
       "id": "49537179",
@@ -617,21 +623,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 15
-    },
-    {
-      "id": "49536495",
-      "headline": "Who could challenge Gianni Infantino for FIFA presidency?",
-      "description": "Rivals are reportedly circling in a bid to unseat Gianni Infantino as FIFA president following his disastrous plan to bring private equity into the World Cup. Who are they and what makes them viable candidates to run against him?",
-      "published": "2026-08-05T18:03:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536495/fifa-president-gianni-infantino-challengers-montagliani-al-khalifa-al-khelaifi-world-cup-elections",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697942_1075x605_16-9.jpg",
-      "byline": "Connor O'Halloran",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 13
+      "score": 14
     },
     {
       "id": "49532207",
@@ -670,6 +662,20 @@
       "score": 13
     },
     {
+      "id": "49536495",
+      "headline": "Who could challenge Gianni Infantino for FIFA presidency?",
+      "description": "Rivals are reportedly circling in a bid to unseat Gianni Infantino as FIFA president following his disastrous plan to bring private equity into the World Cup. Who are they and what makes them viable candidates to run against him?",
+      "published": "2026-08-05T18:03:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49536495/fifa-president-gianni-infantino-challengers-montagliani-al-khalifa-al-khelaifi-world-cup-elections",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697942_1075x605_16-9.jpg",
+      "byline": "Connor O'Halloran",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 12
+    },
+    {
       "id": "49532221",
       "headline": "Does soccer need to vote against Infantino?",
       "description": "Does soccer need to vote against Infantino?",
@@ -681,7 +687,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 11
+      "score": 10
     },
     {
       "id": "49527911",
