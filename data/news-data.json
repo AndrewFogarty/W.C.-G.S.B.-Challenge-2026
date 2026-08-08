@@ -1,11 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-08T19:09:21.613Z",
+  "updated": "2026-08-08T19:44:40.528Z",
   "counts": {
     "news": 31,
-    "offfield": 12,
-    "injury": 1,
-    "preview": 3,
+    "offfield": 14,
+    "preview": 2,
     "celebration": 1
   },
   "items": [
@@ -21,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 197
+      "score": 196
     },
     {
       "id": "49551450",
@@ -39,7 +38,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 172
+      "score": 171
     },
     {
       "id": "49546977",
@@ -55,161 +54,102 @@
         "USA"
       ],
       "players": [],
-      "score": 149
+      "score": 148
     },
     {
-      "id": "49543739",
-      "headline": "How the 2026 ASEAN Championship's final four made it to the semifinals",
-      "description": "The ASEAN Championship semifinals are set. Here's how the final four each made it out of the group stage to get this far.",
-      "published": "2026-08-08T17:26:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49543739/every-team-needs-qualify-2026-asean-championship-semifinals",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699077_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49561240",
-      "headline": "West Ham co-owner David Sullivan attends West Ham cup win despite advice to stay away",
-      "description": "West Ham co-owner David Sullivan attended the club's home Carabao Cup tie against Portsmouth on Saturday against the advice of the London Stadium's landlord following allegations of sexual misconduct.",
-      "published": "2026-08-08T17:49:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49561240/west-ham-co-owner-david-sullivan-attends-west-ham-cup-win-advice-stay-away",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699125_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49561336",
-      "headline": "LA Galaxy sign former Barcelona, Spain midfielder Sergi Roberto",
-      "description": "LA Galaxy have confirmed the signing of former Barcelona midfielder Sergi Roberto.",
-      "published": "2026-08-08T16:18:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49561336/la-galaxy-sign-former-barcelona-spain-midfielder-sergi-roberto",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699132_1296x729_16-9.jpg",
+      "id": "49559004",
+      "headline": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
+      "description": "Inter Milan striker Pio Esposito is wanted by Premier League giants Arsenal and Manchester United. Transfer Talk has the latest.",
+      "published": "2026-08-08T13:58:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49559004/transfer-rumors-news-arsenal-manchester-united-inter-milan-pio-esposito",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699047_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Pio Esposito",
+        "Patrick Beach"
+      ],
+      "score": 136
+    },
+    {
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-08-08T13:55:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699095_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49560476",
+      "headline": "Ferran Torres told Barcelona he wants to join PSG - sources",
+      "description": "Ferran Torres has told Barcelona he wants to join Paris Saint-Germain this summer after agreeing personal terms with the French club, a source has told ESPN.",
+      "published": "2026-08-08T13:27:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560476/ferran-torres-told-barcelona-wants-join-psg-sources",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691464_1296x729_16-9.jpg",
+      "byline": "Moises Llorens and Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Ferran Torres",
+        "Patrick Beach"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49560391",
+      "headline": "Bruno Guimarães joined Arsenal after 'differences in ideas' with Newcastle",
+      "description": "Bruno Guimarães said he had \"differences in ideas\" with Newcastle United which led him to join Arsenal.",
+      "published": "2026-08-08T13:20:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560391/bruno-guimaraes-joined-arsenal-due-differences-ideas-newcastle",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699087_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Bruno Guimarães",
+        "Patrick Beach"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49560549",
+      "headline": "Jorge Messi, the father of Lionel, dies at 68",
+      "description": "Inter Miami and Argentina forward Lionel Messi's father, Jorge, has died at the age of 68, it was confirmed Saturday.",
+      "published": "2026-08-08T14:24:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560549/jorge-messi-father-lionel-dies-aged-68",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699092_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia",
-        "Spain"
+        "Argentina"
       ],
       "players": [
-        "Sergi Roberto",
+        "Lionel Messi",
         "Patrick Beach"
       ],
-      "score": 141
-    },
-    {
-      "id": "48897670",
-      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
-      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
-      "published": "2026-08-08T16:45:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49561877",
-      "headline": "Hydration breaks in non-league? Explaining why it happened",
-      "description": "Hydration breaks stopped Carabao Cup ties and National League games on the first major weekend of the English football season.",
-      "published": "2026-08-08T17:46:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49561877/hydration-breaks-non-league-explaining-why-happened",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699152_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49561483",
-      "headline": "Conor Gallagher equaliser against Getafe keeps Tottenham unbeaten in preseason",
-      "description": "Conor Gallagher scored Tottenham's equaliser in a 1-1 draw against Getafe in preseason on Saturday.",
-      "published": "2026-08-08T17:24:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49561483/conor-gallagher-equaliser-getafe-keeps-tottenham-unbeaten-preseason",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699138_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Conor Gallagher",
-        "Patrick Beach"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49561417",
-      "headline": "Old heads, young blood combine perfectly to send Malaysia into ASEAN Championship semifinals",
-      "description": "Despite not being at their strongest, Malaysia's blend of old heads and young blood has led them to the ASEAN Championship semifinals.",
-      "published": "2026-08-08T16:54:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49561417/old-heads-young-blood-combine-perfectly-send-malaysia-asean-championship-semifinals",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699113_1103x621_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Paulo Josué",
-        "G Pavithran",
-        "Syafiq Ahmad",
-        "Endrick",
-        "Mohamadou Sumareh",
-        "Faris Danish",
-        "Patrick Beach"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49561482",
-      "headline": "Four-midable Millwall goalkeeper saves every QPR penalty in cup shootout",
-      "description": "Millwall goalkeeper Lukas Jensen saved all four QPR spot-kicks as the Lions won on penalties at Loftus Road to secure a place in the second round of the Carabao Cup.",
-      "published": "2026-08-08T16:53:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49561482/four-midable-millwall-goalkeeper-saves-every-qpr-penalty-cup-shootout",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699136_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Lukas Jensen",
-        "Patrick Beach"
-      ],
-      "score": 130
+      "score": 125
     },
     {
       "id": "49547919",
@@ -223,7 +163,62 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 126
+      "score": 125
+    },
+    {
+      "id": "49560552",
+      "headline": "SAFA NEC approves Pitso Mosimane return for Bafana, pending 'loose ends'",
+      "description": "The South African Football Association (SAFA) confirmed on Saturday that Pitso Mosimane is close to being appointed as their new head coach - with only the finalisation of \"loose ends\" outstanding.",
+      "published": "2026-08-08T13:41:19Z",
+      "url": "https://www.espn.com/espn/story/_/id/49560552/safa-nec-approves-pitso-mosimane-return-bafana-pending-loose-ends",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699088_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "South Africa"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49560010",
+      "headline": "Barcelona's 'triangular' match? Unusual preseason fixture explained",
+      "description": "Barcelona's preseason run-out on Saturday pits them against both Nottingham Forest and Udinese over a total of 90 minutes. How does that work?",
+      "published": "2026-08-08T13:22:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560010/barcelona-playing-triangular-match-vs-udinese-nottingham-forest-unusual-preseason-fixture-explained",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699079_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49560344",
+      "headline": "Wolves goalkeeper legend Phil Parkes dies aged 79",
+      "description": "Wolves have paid tribute to former goalkeeper Phil Parkes, who has died aged 79.",
+      "published": "2026-08-08T13:04:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560344/wolves-goalkeeper-legend-phil-parkes-dies-aged-79",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699081_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 123
     },
     {
       "id": "49551026",
@@ -237,7 +232,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 123
+      "score": 122
     },
     {
       "id": "49536934",
@@ -251,7 +246,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 112
+      "score": 111
     },
     {
       "id": "49545822",
@@ -283,7 +278,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 68
+      "score": 67
     },
     {
       "id": "49545189",
@@ -314,7 +309,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 55
+      "score": 54
     },
     {
       "id": "49466177",
@@ -340,7 +335,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 54
+      "score": 53
     },
     {
       "id": "49543519",
@@ -357,7 +352,7 @@
         "England"
       ],
       "players": [],
-      "score": 51
+      "score": 50
     },
     {
       "id": "49543506",
@@ -373,7 +368,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 50
+      "score": 49
     },
     {
       "id": "49544673",
@@ -387,7 +382,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 45
+      "score": 44
     },
     {
       "id": "47978642",
@@ -405,7 +400,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 37
+      "score": 36
     },
     {
       "id": "49540626",
@@ -421,7 +416,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 29
+      "score": 28
     },
     {
       "id": "49537044",
@@ -437,7 +432,7 @@
         "Portugal"
       ],
       "players": [],
-      "score": 27
+      "score": 26
     },
     {
       "id": "49540216",
@@ -453,7 +448,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 26
+      "score": 25
     },
     {
       "id": "49518399",
@@ -485,7 +480,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 23
+      "score": 22
     },
     {
       "id": "49529781",
@@ -583,7 +578,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 20
+      "score": 19
     },
     {
       "id": "49525299",
@@ -617,7 +612,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 18
+      "score": 17
     },
     {
       "id": "49536495",
@@ -631,7 +626,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 16
+      "score": 15
     },
     {
       "id": "49532207",
@@ -649,7 +644,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 15
+      "score": 14
     },
     {
       "id": "49532221",
@@ -663,7 +658,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 14
+      "score": 13
     },
     {
       "id": "49532210",
@@ -759,7 +754,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 8
+      "score": 7
     },
     {
       "id": "49527513",
