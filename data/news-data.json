@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-09T04:14:01.125Z",
+  "updated": "2026-08-09T05:26:01.281Z",
   "counts": {
-    "offfield": 11,
-    "news": 33,
-    "injury": 1,
+    "offfield": 12,
+    "news": 32,
     "preview": 2,
+    "injury": 1,
     "celebration": 1
   },
   "items": [
@@ -33,7 +33,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 221
+      "score": 219
     },
     {
       "id": "49563647",
@@ -47,7 +47,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 188
+      "score": 186
     },
     {
       "id": "49560207",
@@ -61,28 +61,25 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 163
+      "score": 162
     },
     {
-      "id": "49562390",
-      "headline": "Morocco bag World Cup place as ageing South Africa limp out of WAFCON",
-      "description": "South Africa still have a faint chance of qualifying for the FIFA Women's World Cup after a 2-1 quarter-final loss to Morocco in Rabat knocked them out of Women's Africa Cup of Nations (WAFCON) contention.",
-      "published": "2026-08-08T23:13:40Z",
-      "url": "https://www.espn.com/espn/story/_/id/49562390/morocco-bag-world-cup-place-ageing-south-africa-limp-wafcon",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699257_1296x729_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49523086",
+      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
+      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well, let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
+      "published": "2026-08-09T04:39:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
+      "byline": "Bill Connelly",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
-        "Australia",
-        "South Africa",
-        "Morocco"
+        "USA"
       ],
       "players": [
-        "Thembi Kgatlana",
-        "Patrick Beach"
+        "Erling Haaland"
       ],
-      "score": 139
+      "score": 141
     },
     {
       "id": "49551450",
@@ -100,7 +97,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 139
+      "score": 137
     },
     {
       "id": "49563588",
@@ -118,49 +115,47 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 136
+      "score": 134
     },
     {
-      "id": "49563774",
-      "headline": "Lionel Messi misses Inter Miami game after father's death",
-      "description": "Lionel Messi will miss Inter Miami's Leagues Cup match against Monterrey on Saturday following the death of his father, Jorge Messi.",
-      "published": "2026-08-08T23:41:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49563774/lionel-messi-inter-miami-game-father-death-tribute",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699304_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Patrick Beach"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49563707",
-      "headline": "New England Revolution vs. Houston Dynamo - Game Highlights",
-      "description": "Watch the Game Highlights from New England Revolution vs. Houston Dynamo, 08/08/2026",
-      "published": "2026-08-08T23:24:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/49563707/new-england-revolution-vs-houston-dynamo-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0808/b3967938-86da-42b9-96cf-f65afcab20ad/b3967938-86da-42b9-96cf-f65afcab20ad.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49562837",
+      "headline": "Man United being 'careful' with Mason Mount after injury scare",
+      "description": "Manchester United coach Michael Carrick said he had to be \"careful\" with Mason Mount after the England midfielder handed United an injury scare in their friendly with Paris Saint-Germain.",
+      "published": "2026-08-08T20:20:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49562837/man-united-mason-mount-injury-psg-friendly-preseason",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699224_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
         "Australia",
         "England"
       ],
       "players": [
-        "Agustín Resch",
-        "Guilherme Augusto",
-        "Mateusz Bogusz",
-        "Peyton Miller",
+        "Mason Mount",
         "Patrick Beach"
       ],
-      "score": 126
+      "score": 133
+    },
+    {
+      "id": "49562392",
+      "headline": "Ivory Coast collapse against Algeria at WAFCON after errors and red card",
+      "description": "Algeria become the first team to reach the WAFCON semifinals, as goals from Ines Khiri and Amira Ould Braham cancelled out Ines Konan's opener for the Ivory Coast in the first quarterfinal in Casablanca on Saturday.",
+      "published": "2026-08-08T20:19:03Z",
+      "url": "https://www.espn.com/espn/story/_/id/49562392/ivory-coast-collapse-algeria-wafcon-errors-red-card",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699219_1296x729_16-9.png",
+      "byline": "Ed Dove",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "Côte d'Ivoire",
+        "Algeria"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 131
     },
     {
       "id": "49563606",
@@ -178,7 +173,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 124
+      "score": 122
     },
     {
       "id": "49563594",
@@ -198,7 +193,7 @@
         "Marcus Rashford",
         "Patrick Beach"
       ],
-      "score": 124
+      "score": 122
     },
     {
       "id": "49563577",
@@ -216,7 +211,52 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 124
+      "score": 122
+    },
+    {
+      "id": "49561639",
+      "headline": "Morocco vs. South Africa - Banyana's WAFCON quarter-final defeat as it happened",
+      "description": "Desiree Ellis' Banyana Banyana lost 2-1 to Morocco in the quarter-finals of the Women's Africa Cup of Nations (WAFCON), leaving themselves with a difficult path to World Cup qualification.",
+      "published": "2026-08-08T22:07:21Z",
+      "url": "https://www.espn.com/espn/story/_/id/49561639/morocco-vs-south-africa-banyana-wafcon-quarter-final-defeat-happened",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699229_1296x729_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "South Africa",
+        "Morocco"
+      ],
+      "players": [
+        "Thembi Kgatlana",
+        "Bambanani Mbane",
+        "Imane Saoud",
+        "Linda Motlhalo",
+        "Hildah Magaia",
+        "Robyn Moodaly",
+        "Gabriela Salgado",
+        "Patrick Beach"
+      ],
+      "score": 122
+    },
+    {
+      "id": "49563413",
+      "headline": "Udinese beat Barcelona, Nottingham Forest in triangular preseason tournament",
+      "description": "Udinese beat Spanish champions Barcelona and Premier League side Nottingham Forest on Saturday to win the inaugural Friuli Venezia Giulia Cup.",
+      "published": "2026-08-08T21:59:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49563413/udinese-beat-barcelona-nottingham-forest-triangular-preseason-tournament",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699269_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 122
     },
     {
       "id": "49546977",
@@ -232,7 +272,7 @@
         "USA"
       ],
       "players": [],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49547919",
@@ -246,7 +286,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 93
+      "score": 91
     },
     {
       "id": "49551026",
@@ -260,7 +300,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 90
+      "score": 88
     },
     {
       "id": "49536934",
@@ -274,25 +314,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 79
-    },
-    {
-      "id": "49523086",
-      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
-      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
-      "published": "2026-08-06T17:48:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
-      "byline": "Bill Connelly",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 54
+      "score": 77
     },
     {
       "id": "49545189",
@@ -306,7 +328,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 42
+      "score": 40
     },
     {
       "id": "49543435",
@@ -323,7 +345,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 41
+      "score": 39
     },
     {
       "id": "49545822",
@@ -337,7 +359,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 37
+      "score": 35
     },
     {
       "id": "49543519",
@@ -354,7 +376,7 @@
         "England"
       ],
       "players": [],
-      "score": 37
+      "score": 35
     },
     {
       "id": "49543506",
@@ -370,7 +392,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 36
+      "score": 34
     },
     {
       "id": "49544673",
@@ -384,7 +406,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 31
+      "score": 29
     },
     {
       "id": "49518399",
@@ -403,24 +425,6 @@
         "Vozinha"
       ],
       "score": 25
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-08-06T02:52:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 23
     },
     {
       "id": "49537044",
@@ -523,6 +527,24 @@
       "score": 22
     },
     {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-08-06T02:52:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 21
+    },
+    {
       "id": "49525299",
       "headline": "Pochettino will now face a different pressure as USMNT boss",
       "description": "Now that he has four years to plan for another World Cup, the demands on Mauricio Pochettino will be entirely different than what he has encountered so far.",
@@ -552,7 +574,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 16
+      "score": 14
     },
     {
       "id": "49537179",
@@ -622,7 +644,7 @@
         "Canada"
       ],
       "players": [],
-      "score": 12
+      "score": 10
     },
     {
       "id": "49527911",
@@ -700,7 +722,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 9
+      "score": 8
     },
     {
       "id": "49537988",
@@ -714,7 +736,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 7
+      "score": 6
     },
     {
       "id": "49536495",
@@ -779,20 +801,6 @@
       "published": "2026-08-03T22:59:12Z",
       "url": "https://www.espn.com/video/clip/_/id/49524620/infantino-thinks-untouchable-fifa-president",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49524593",
-      "headline": "Has Iraola been backed as Liverpool manager?",
-      "description": "Has Iraola been backed as Liverpool manager?",
-      "published": "2026-08-03T22:58:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
