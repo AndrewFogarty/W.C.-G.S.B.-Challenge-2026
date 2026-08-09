@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-09T16:25:19.106Z",
+  "updated": "2026-08-09T17:04:56.253Z",
   "counts": {
     "offfield": 10,
-    "news": 32,
+    "news": 31,
+    "injury": 1,
     "preview": 5,
     "celebration": 1
   },
@@ -32,7 +33,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 203
+      "score": 202
     },
     {
       "id": "49563647",
@@ -46,7 +47,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 170
+      "score": 169
     },
     {
       "id": "49560207",
@@ -60,13 +61,32 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 145
+      "score": 144
+    },
+    {
+      "id": "49567632",
+      "headline": "Real Madrid's José Mourinho unimpressed by Bernardo Silva fitness: 'Has to improve'",
+      "description": "New Real Madrid coach Jose Mourinho has criticised summer signing Bernardo Silva's fitness and says he needs to improve after returning for preseason out of shape.",
+      "published": "2026-08-09T14:09:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49567632/real-madrid-jose-mourinho-unimpressed-bernardo-silva-fitness-improve",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697263_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Bernardo Silva",
+        "Patrick Beach"
+      ],
+      "score": 143
     },
     {
       "id": "49567186",
-      "headline": "Arsenal vs. Borussia Dortmund LIVE: Latest updates from preseason friendly at Emirates Stadium German side take shock two-goal lead",
+      "headline": "Arsenal vs. Borussia Dortmund LIVE: Latest updates from preseason friendly thriller with five goals",
       "description": "Arsenal resume their preseason campaign against Borussia Dortmund in their penultimate clash before the new season gets under way.",
-      "published": "2026-08-09T13:37:14Z",
+      "published": "2026-08-09T14:33:56Z",
       "url": "https://www.espn.com/soccer/story/_/id/49567186/arsenal-vs-borussia-dortmund-live-latest-updates-preseason-friendly-emirates-stadium",
       "image": "https://a.espncdn.com/photo/2026/0809/r1699499_1296x729_16-9.jpg",
       "byline": "Tom Masters",
@@ -96,7 +116,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 137
+      "score": 136
     },
     {
       "id": "49154575",
@@ -114,7 +134,25 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 134
+      "score": 133
+    },
+    {
+      "id": "49567729",
+      "headline": "LaLiga chief Javier Tebas calls for change at FIFA: 'Infantino era is over'",
+      "description": "LaLiga president Javier Tebas claims Gianni Infantino is \"destroying the very essence\" of football and believes his time as FIFA president has come to an end.",
+      "published": "2026-08-09T14:34:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49567729/laliga-chief-javier-tebas-calls-change-fifa-infantino-era-over",
+      "image": "https://a.espncdn.com/photo/2026/0226/r1620426_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 129
     },
     {
       "id": "49567384",
@@ -130,26 +168,6 @@
         "Australia"
       ],
       "players": [
-        "Patrick Beach"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49566791",
-      "headline": "False Ronaldo wedding reports sent fans to another couple's big day. Cristiano found it hilarious",
-      "description": "With rumors circulating that Cristiano Ronaldo was set to marry partner Georgina Rodríguez in his hometown on Saturday, hundreds of fans flocked to the cathedral and saw the wedding of a different couple entirely.",
-      "published": "2026-08-09T13:00:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49566791/cristiano-ronaldo-wedding-reports-huge-crowd-fans-another-couples-big-day-portugal-madeira-funchal",
-      "image": "https://a.espncdn.com/photo/2026/0809/r1699457_900x506_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
         "Patrick Beach"
       ],
       "score": 128
@@ -177,7 +195,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 125
+      "score": 124
     },
     {
       "id": "48955344",
@@ -195,26 +213,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 125
-    },
-    {
-      "id": "49563176",
-      "headline": "Alexia Putellas 'hungry to win' after London City move",
-      "description": "Two-time Ballon d'Or winner Alexia Putellas has said that she is \"hungry to win\" and \"100% committed\" to her new club while aiming to become a more complete player at London City Lionesses.",
-      "published": "2026-08-09T11:00:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49563176/alexia-putellas-hungry-win-london-city-move",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699251_1296x729_16-9.jpg",
-      "byline": "Emily Keogh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Alexia Putellas",
-        "Patrick Beach"
-      ],
-      "score": 125
+      "score": 124
     },
     {
       "id": "49523086",
@@ -232,7 +231,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 124
+      "score": 123
     },
     {
       "id": "49551450",
@@ -250,7 +249,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 120
+      "score": 119
     },
     {
       "id": "49546977",
@@ -266,7 +265,7 @@
         "USA"
       ],
       "players": [],
-      "score": 97
+      "score": 96
     },
     {
       "id": "49547919",
@@ -280,7 +279,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 74
+      "score": 73
     },
     {
       "id": "49551026",
@@ -294,7 +293,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 71
+      "score": 70
     },
     {
       "id": "49536934",
@@ -308,7 +307,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 59
     },
     {
       "id": "49518399",
@@ -340,7 +339,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 23
+      "score": 22
     },
     {
       "id": "49543435",
@@ -357,7 +356,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 23
+      "score": 22
     },
     {
       "id": "49537044",
@@ -460,37 +459,6 @@
       "score": 22
     },
     {
-      "id": "49545822",
-      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
-      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
-      "published": "2026-08-06T16:47:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 19
-    },
-    {
-      "id": "49543519",
-      "headline": "Argentina announces commemorative day to celebrate World Cup win over England",
-      "description": "Argentina's Football Association unanimously approved for July 15 to be 'National Football Teams Day' in commemoration of the Albiceleste's victory over England in the semifinals of the 2026 World Cup.",
-      "published": "2026-08-06T09:32:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49543519/argentina-announce-commemorative-day-celebrate-world-cup-win-england",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689834_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 19
-    },
-    {
       "id": "49525299",
       "headline": "Pochettino will now face a different pressure as USMNT boss",
       "description": "Now that he has four years to plan for another World Cup, the demands on Mauricio Pochettino will be entirely different than what he has encountered so far.",
@@ -507,6 +475,37 @@
       "score": 19
     },
     {
+      "id": "49545822",
+      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
+      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
+      "published": "2026-08-06T16:47:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 18
+    },
+    {
+      "id": "49543519",
+      "headline": "Argentina announces commemorative day to celebrate World Cup win over England",
+      "description": "Argentina's Football Association unanimously approved for July 15 to be 'National Football Teams Day' in commemoration of the Albiceleste's victory over England in the semifinals of the 2026 World Cup.",
+      "published": "2026-08-06T09:32:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49543519/argentina-announce-commemorative-day-celebrate-world-cup-win-england",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1689834_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 18
+    },
+    {
       "id": "49543506",
       "headline": "CAF's silence is deafening, but Africa can be swing vote in FIFA's Infantino saga",
       "description": "Since Gianni Infantino's plan to 'sell the FIFA World Cup' scandal first broke, the Confederation of African Football has been conspicuous by its silence.",
@@ -520,21 +519,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 18
-    },
-    {
-      "id": "49544673",
-      "headline": "English FA maintains that Gianni Infantino wrong president despite FIFA support - report",
-      "description": "The Football Association continues to believe Gianni Infantino is no longer the right man to lead FIFA despite his own organisation throwing its \"full support\" behind him on Wednesday night.",
-      "published": "2026-08-06T12:53:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49544673/english-fa-maintains-stance-infantino-wrong-president-fifa-support",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698315_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 13
+      "score": 17
     },
     {
       "id": "47978642",
@@ -607,6 +592,20 @@
         "Rodri"
       ],
       "score": 13
+    },
+    {
+      "id": "49544673",
+      "headline": "English FA maintains that Gianni Infantino wrong president despite FIFA support - report",
+      "description": "The Football Association continues to believe Gianni Infantino is no longer the right man to lead FIFA despite his own organisation throwing its \"full support\" behind him on Wednesday night.",
+      "published": "2026-08-06T12:53:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49544673/english-fa-maintains-stance-infantino-wrong-president-fifa-support",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698315_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 12
     },
     {
       "id": "49540626",
