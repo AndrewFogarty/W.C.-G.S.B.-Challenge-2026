@@ -1,9 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-09T23:49:47.401Z",
+  "updated": "2026-08-10T00:45:55.278Z",
   "counts": {
-    "offfield": 11,
-    "news": 33,
+    "offfield": 13,
+    "news": 31,
     "injury": 1,
     "preview": 2,
     "celebration": 1
@@ -33,7 +33,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 192
+      "score": 190
     },
     {
       "id": "49563647",
@@ -47,7 +47,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 159
+      "score": 157
     },
     {
       "id": "49569051",
@@ -65,7 +65,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 141
+      "score": 139
     },
     {
       "id": "49566333",
@@ -84,7 +84,45 @@
         "Rodri",
         "Patrick Beach"
       ],
-      "score": 138
+      "score": 137
+    },
+    {
+      "id": "49569137",
+      "headline": "Lucas Digne completes transfer to Paris Saint-Germain from Aston Villa",
+      "description": "Lucas Digne has completed his transfer to Paris Saint-Germain from Aston Villa on a three-year deal, the Ligue 1 club announced.",
+      "published": "2026-08-09T18:35:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49569137/lucas-digne-completes-transfer-paris-saint-germain-aston-villa",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699599_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Lucas Digne",
+        "Patrick Beach"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49568968",
+      "headline": "Hislop: Arsenal should sign Julian Alvarez",
+      "description": "Hislop: Arsenal should sign Julian Alvarez",
+      "published": "2026-08-09T18:07:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/49568968/arsenal-sign-julian-alvarez",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0809/dm_260809_Hislop_Arsenal_should_sign_Julian_Alvarez/dm_260809_Hislop_Arsenal_should_sign_Julian_Alvarez.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Julián Álvarez",
+        "Patrick Beach"
+      ],
+      "score": 135
     },
     {
       "id": "49560207",
@@ -98,70 +136,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 134
-    },
-    {
-      "id": "49570718",
-      "headline": "Maresca expects Rodri back at Manchester City 'at the moment'",
-      "description": "Enzo Maresca said Rodri is due back with Manchester City next week amid continuing speculation over the Spain midfielder's future.",
-      "published": "2026-08-09T22:21:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49570718/maresca-rodri-back-manchester-city-moment",
-      "image": "https://a.espncdn.com/photo/2026/0326/r1634120_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Spain"
-      ],
-      "players": [
-        "Rodri",
-        "Patrick Beach"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49570725",
-      "headline": "Boston Legacy FC vs. Portland Thorns FC - Game Highlights",
-      "description": "Watch the Game Highlights from Boston Legacy FC vs. Portland Thorns FC, 08/10/2026",
-      "published": "2026-08-09T22:14:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/49570725/boston-legacy-fc-vs-portland-thorns-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0809/249d3975-26b5-4d98-a913-c3f83e64ac6a/249d3975-26b5-4d98-a913-c3f83e64ac6a.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Bianca St-Georges",
-        "Pietra Tordin",
-        "Sophia Wilson",
-        "Alba Caño",
-        "Amanda Gutierres",
-        "Patrick Beach"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49570653",
-      "headline": "Nicol: Mourinho's criticism of Silva makes no sense",
-      "description": "Nicol: Mourinho's criticism of Silva makes no sense",
-      "published": "2026-08-09T22:06:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/49570653/mourinho-criticism-silva-makes-no-sense",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0809/dm_260809_COM_SOC_Analysis_Nicol_Mourinhos_criticism_of_Silva_makes_no_sense_20260809_GLOBAL/dm_260809_COM_SOC_Analysis_Nicol_Mourinhos_criticism_of_Silva_makes_no_sense_20260809_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Portugal"
-      ],
-      "players": [
-        "Bernardo Silva",
-        "Patrick Beach"
-      ],
-      "score": 130
+      "score": 133
     },
     {
       "id": "49570447",
@@ -183,9 +158,9 @@
         "Sebastian Gomez",
         "Lucas Abascia",
         "Daniel Musovski",
-        "Patrick Beach"
+        "Ajdin Hrustic"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49569701",
@@ -203,9 +178,9 @@
       ],
       "players": [
         "Chiamaka Nnadozie",
-        "Patrick Beach"
+        "Ajdin Hrustic"
       ],
-      "score": 128
+      "score": 126
     },
     {
       "id": "48955344",
@@ -223,7 +198,64 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 125
+      "score": 124
+    },
+    {
+      "id": "49568986",
+      "headline": "Is Isak key to Liverpool's success next season?",
+      "description": "Is Isak key to Liverpool's success next season?",
+      "published": "2026-08-09T18:10:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/49568986/is-isak-key-liverpool-success-next-season",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0809/dm_260809_Is_Isak_key_to_LiverpoolE28099s_success_next_season/dm_260809_Is_Isak_key_to_LiverpoolE28099s_success_next_season.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Alexander Isak",
+        "Patrick Beach"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49568973",
+      "headline": "Is it time for Marmoush to leave Man City?",
+      "description": "Is it time for Marmoush to leave Man City?",
+      "published": "2026-08-09T18:07:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/49568973/is-marmoush-leave-man-city",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0809/dm_260809_Is_it_time_for_Marmoush_to_leave_Man_City/dm_260809_Is_it_time_for_Marmoush_to_leave_Man_City.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Omar Marmoush",
+        "Patrick Beach"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49568741",
+      "headline": "Arteta says 'warrior' Guimarães can 'ignite' different Arsenal",
+      "description": "Mikel Arteta has backed \"warrior\" Bruno Guimarães to \"ignite something different\" in Premier League champions Arsenal.",
+      "published": "2026-08-09T17:48:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49568741/arteta-says-warrior-guimaraes-ignite-different-arsenal",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699580_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Bruno Guimarães",
+        "Patrick Beach"
+      ],
+      "score": 123
     },
     {
       "id": "49523086",
@@ -241,7 +273,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 113
+      "score": 112
     },
     {
       "id": "49551450",
@@ -259,7 +291,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 109
+      "score": 108
     },
     {
       "id": "49546977",
@@ -275,7 +307,7 @@
         "USA"
       ],
       "players": [],
-      "score": 86
+      "score": 84
     },
     {
       "id": "49547919",
@@ -289,7 +321,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 63
+      "score": 62
     },
     {
       "id": "49551026",
@@ -303,7 +335,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 59
     },
     {
       "id": "49536934",
@@ -317,7 +349,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 49
+      "score": 48
     },
     {
       "id": "49518399",
@@ -554,7 +586,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 12
+      "score": 11
     },
     {
       "id": "49543435",
@@ -571,7 +603,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 12
+      "score": 10
     },
     {
       "id": "49543506",
@@ -697,7 +729,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 7
+      "score": 6
     },
     {
       "id": "49544673",
@@ -777,34 +809,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49534594/gianni-infantino-calls-emergency-fifa-staff-meeting-pressure-grows",
       "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49527513",
-      "headline": "Top FIFA executives break with Infantino over World Cup plan",
-      "description": "Two senior FIFA executives -- coaching great Arsène Wenger and CEO-like secretary general Mattias Grafström -- distanced themselves Tuesday from their boss Gianni Infantino's failed plan to sell stakes in future World Cup profits to private investors.",
-      "published": "2026-08-04T22:20:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49527513/arsene-wenger-gianni-infantino-fifa-world-cup-sell-u-turn-absolutely-necessary",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697427_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49524620",
-      "headline": "Burley: Infantino thinks he's untouchable as FIFA president",
-      "description": "Burley: Infantino thinks he's untouchable as FIFA president",
-      "published": "2026-08-03T22:59:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524620/infantino-thinks-untouchable-fifa-president",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03.jpg",
-      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
