@@ -1,14 +1,32 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-10T21:49:36.791Z",
+  "updated": "2026-08-10T22:23:41.558Z",
   "counts": {
-    "news": 30,
-    "offfield": 13,
+    "offfield": 14,
+    "news": 29,
     "injury": 1,
     "preview": 3,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49577750",
+      "headline": "Should Barcelona be encouraging Ferran Torres' move to PSG?",
+      "description": "Should Barcelona be encouraging Ferran Torres' move to PSG?",
+      "published": "2026-08-10T22:12:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49577750/should-barcelona-encouraging-ferran-torres-move-psg",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0810/dm_260810_COM_SOC_Analysis_Should_Barcelona_be_encouraging_Ferran_Torres_move_to_PSG_20260810_GLOBAL/dm_260810_COM_SOC_Analysis_Should_Barcelona_be_encouraging_Ferran_Torres_move_to_PSG_20260810_GLOBAL.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 225
+    },
     {
       "id": "49575753",
       "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
@@ -23,7 +41,7 @@
         "USA"
       ],
       "players": [],
-      "score": 204
+      "score": 193
     },
     {
       "id": "49573256",
@@ -37,7 +55,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 187
+      "score": 176
     },
     {
       "id": "49466177",
@@ -63,7 +81,25 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 175
+      "score": 164
+    },
+    {
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-08-10T19:50:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1700049_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 141
     },
     {
       "id": "49576056",
@@ -76,32 +112,32 @@
       "kind": "injury",
       "kindLabel": "Injury",
       "teams": [
-        "Australia"
+        "Spain"
       ],
       "players": [
-        "Patrick Beach"
+        "Ferran Torres"
       ],
-      "score": 142
+      "score": 141
     },
     {
       "id": "49575385",
       "headline": "Source: Crystal Palace finalizing deal for USMNT prospect Zavier Gozo from Real Salt Lake",
       "description": "Crystal Palace is finalizing the transfer of Real Salt Lake winger Zavier Gozo, a source confirmed to ESPN.",
-      "published": "2026-08-10T18:51:16Z",
+      "published": "2026-08-10T18:58:41Z",
       "url": "https://www.espn.com/soccer/story/_/id/49575385/crystal-palace-deal-usmnt-prospect-zavier-gozo-real-salt-lake-source",
       "image": "https://a.espncdn.com/photo/2026/0804/r1697690_1296x729_16-9.jpg",
       "byline": "Jeff Carlisle",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Australia",
+        "Spain",
         "USA"
       ],
       "players": [
         "Zavier Gozo",
-        "Patrick Beach"
+        "Ferran Torres"
       ],
-      "score": 141
+      "score": 140
     },
     {
       "id": "49567137",
@@ -114,13 +150,13 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Australia"
+        "Spain"
       ],
       "players": [
         "Ronald Araújo",
-        "Patrick Beach"
+        "Ferran Torres"
       ],
-      "score": 139
+      "score": 138
     },
     {
       "id": "49573469",
@@ -133,47 +169,29 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Australia"
+        "Spain"
       ],
       "players": [
         "Ronald Araújo",
-        "Patrick Beach"
+        "Ferran Torres"
       ],
-      "score": 139
-    },
-    {
-      "id": "48990955",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "published": "2026-08-10T17:43:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699983_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 139
+      "score": 138
     },
     {
       "id": "49576103",
       "headline": "Carabao Cup draw: Chelsea to host Luton, Tottenham play Charlton in second round",
       "description": "Chelsea have been drawn to face Luton Town in the Carabao Cup, while Tottenham will host Charlton in the standout fixtures of the second-round round.",
-      "published": "2026-08-10T18:41:07Z",
+      "published": "2026-08-10T19:00:45Z",
       "url": "https://www.espn.com/soccer/story/_/id/49576103/carabao-cup-draw-chelsea-host-luton-town-tottenham-hotspur-play-charlton-athletic-second-round",
       "image": "https://a.espncdn.com/photo/2026/0810/r1700000_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "byline": "Tom Chambers",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
-        "Australia"
+        "Spain"
       ],
       "players": [
-        "Patrick Beach"
+        "Ferran Torres"
       ],
       "score": 137
     },
@@ -188,12 +206,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Spain"
       ],
       "players": [
-        "Patrick Beach"
+        "Ferran Torres"
       ],
-      "score": 128
+      "score": 127
     },
     {
       "id": "49563647",
@@ -207,21 +225,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 106
-    },
-    {
-      "id": "49560207",
-      "headline": "Gianni Infantino denies UEFA made payment to alleged lover",
-      "description": "Gianni Infantino has denied that UEFA paid off his alleged lover while he was the organisation's general secretary.",
-      "published": "2026-08-08T13:11:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49560207/gianni-infantino-denies-uefa-made-departure-payment-alleged-lover",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 81
+      "score": 95
     },
     {
       "id": "49523086",
@@ -239,7 +243,21 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 80
+      "score": 79
+    },
+    {
+      "id": "49560207",
+      "headline": "Gianni Infantino denies UEFA made payment to alleged lover",
+      "description": "Gianni Infantino has denied that UEFA paid off his alleged lover while he was the organisation's general secretary.",
+      "published": "2026-08-08T13:11:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560207/gianni-infantino-denies-uefa-made-departure-payment-alleged-lover",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 70
     },
     {
       "id": "49551450",
@@ -257,7 +275,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 56
+      "score": 46
     },
     {
       "id": "49546977",
@@ -273,7 +291,7 @@
         "USA"
       ],
       "players": [],
-      "score": 42
+      "score": 32
     },
     {
       "id": "49518399",
@@ -387,7 +405,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 20
+      "score": 19
     },
     {
       "id": "49525299",
@@ -421,20 +439,6 @@
       ],
       "players": [],
       "score": 17
-    },
-    {
-      "id": "49551026",
-      "headline": "CAF agree to support Gianni Infantino amid FIFA governance crisis",
-      "description": "The Confederation of African Football has thrown its full weight behind FIFA president Gianni Infantino, unanimously reaffirming its support for the embattled Swiss administrator.",
-      "published": "2026-08-07T08:03:52Z",
-      "url": "https://www.espn.com/espn/story/_/id/49551026/caf-agree-support-gianni-infantino-amid-fifa-governance-crisis",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698273_1296x729_16-9.png",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
     },
     {
       "id": "47978642",
@@ -638,6 +642,20 @@
       "score": 10
     },
     {
+      "id": "49551026",
+      "headline": "CAF agree to support Gianni Infantino amid FIFA governance crisis",
+      "description": "The Confederation of African Football has thrown its full weight behind FIFA president Gianni Infantino, unanimously reaffirming its support for the embattled Swiss administrator.",
+      "published": "2026-08-07T08:03:52Z",
+      "url": "https://www.espn.com/espn/story/_/id/49551026/caf-agree-support-gianni-infantino-amid-fifa-governance-crisis",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698273_1296x729_16-9.png",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
       "id": "49536934",
       "headline": "Which big clubs are struggling with World Cup burnout?",
       "description": "The World Cup was a great spectacle, but it was also hard work for the players, and as many of the game's stars return to their clubs to prepare for the 2026-27, which clubs are battling burnout the most?",
@@ -771,20 +789,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49527513/arsene-wenger-gianni-infantino-fifa-world-cup-sell-u-turn-absolutely-necessary",
       "image": "https://a.espncdn.com/photo/2026/0804/r1697427_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49524620",
-      "headline": "Burley: Infantino thinks he's untouchable as FIFA president",
-      "description": "Burley: Infantino thinks he's untouchable as FIFA president",
-      "published": "2026-08-03T22:59:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49524620/infantino-thinks-untouchable-fifa-president",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03.jpg",
-      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
