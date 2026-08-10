@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-10T20:56:47.305Z",
+  "updated": "2026-08-10T21:49:36.791Z",
   "counts": {
-    "news": 33,
-    "offfield": 12,
-    "preview": 2,
+    "news": 30,
+    "offfield": 13,
+    "injury": 1,
+    "preview": 3,
     "celebration": 1
   },
   "items": [
@@ -22,7 +23,7 @@
         "USA"
       ],
       "players": [],
-      "score": 205
+      "score": 204
     },
     {
       "id": "49573256",
@@ -36,7 +37,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 188
+      "score": 187
     },
     {
       "id": "49466177",
@@ -62,72 +63,128 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 176
+      "score": 175
     },
     {
-      "id": "49572938",
-      "headline": "Transfer rumors, news: Manchester United turn to youth in chase for Leicester, Club Brugge stars",
-      "description": "Manchester United are targeting two young players in the form of Club Brugge left back Joaquin Seys and Leicester City wonderkid Louis Page. Transfer Talk has the latest.",
-      "published": "2026-08-10T15:16:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49572938/transfer-rumors-news-manchester-united-turn-youth-chase-club-brugge-leicester-stars",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699834_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49576056",
+      "headline": "Derby takeover off as Turki Alalshikh's Lion Sport pull out of deal",
+      "description": "Derby have confirmed discussions with Turki Alalshikh's Lion Sport to buy a controlling interest in the Championship outfit will no longer proceed.",
+      "published": "2026-08-10T18:12:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49576056/derby-county-takeover-turki-alalshikh-lion-sport-pull-deal",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699995_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49575385",
+      "headline": "Source: Crystal Palace finalizing deal for USMNT prospect Zavier Gozo from Real Salt Lake",
+      "description": "Crystal Palace is finalizing the transfer of Real Salt Lake winger Zavier Gozo, a source confirmed to ESPN.",
+      "published": "2026-08-10T18:51:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49575385/crystal-palace-deal-usmnt-prospect-zavier-gozo-real-salt-lake-source",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697690_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "USA"
+      ],
+      "players": [
+        "Zavier Gozo",
+        "Patrick Beach"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49567137",
+      "headline": "Liverpool sign Barcelona defender Ronald Araújo on loan with €55m permanent option",
+      "description": "Liverpool have completed the signing of Barcelona defender Ronald Araújo on a season long loan, the two clubs have confirmed.",
+      "published": "2026-08-10T17:59:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49567137/liverpool-sign-barcelona-defender-ronald-araujo-loan-55m-permanent-option",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699475_1296x729_16-9.jpg",
+      "byline": "Sam Marsden and Beth Lindop",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Australia"
       ],
       "players": [
-        "Joaquin Seys",
-        "Louis Page",
+        "Ronald Araújo",
+        "Patrick Beach"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49573469",
+      "headline": "Why have Liverpool signed Barcelona captain Ronald Araújo, and what will he bring?",
+      "description": "Liverpool have signed versatile Barcelona defender Ronald Araújo on loan, with a €55 million option. But is it a good deal for them? And why have they done it?",
+      "published": "2026-08-10T17:51:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49573469/why-liverpool-signed-barcelona-captain-ronald-araujo-he-bring",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699987_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Ronald Araújo",
+        "Patrick Beach"
+      ],
+      "score": 139
+    },
+    {
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-08-10T17:43:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699983_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49576103",
+      "headline": "Carabao Cup draw: Chelsea to host Luton, Tottenham play Charlton in second round",
+      "description": "Chelsea have been drawn to face Luton Town in the Carabao Cup, while Tottenham will host Charlton in the standout fixtures of the second-round round.",
+      "published": "2026-08-10T18:41:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49576103/carabao-cup-draw-chelsea-host-luton-town-tottenham-hotspur-play-charlton-athletic-second-round",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1700000_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
         "Patrick Beach"
       ],
       "score": 137
     },
     {
-      "id": "49574405",
-      "headline": "Johnson-McNeil deal: Have two clubs ever swapped players before?",
-      "description": "Brennan Johnson and Dwight McNeil are swapping Premier League clubs. It's a rare transfer practice, but it's happened before with varying levels of success.",
-      "published": "2026-08-10T13:50:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49574405/johnson-mcneil-swap-deal-two-clubs-ever-swapped-players-before",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699877_2_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 134
-    },
-    {
-      "id": "49573684",
-      "headline": "Dwight McNeil, Brennan Johnson set for Everton, Crystal Palace swap - source",
-      "description": "Everton and Crystal Palace have agreed a straight swap deal involving Dwight McNeil and Brennan Johnson, a source has told ESPN.",
-      "published": "2026-08-10T10:24:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49573684/dwight-mcneil-brennan-johnson-agree-everton-crystal-palace-swap-source",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699854_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49574576",
-      "headline": "Rangers CEO: Club have 'Klopp-style' head coach in Derek McInnes",
-      "description": "Rangers chief executive Jim Gillespie revealed Derek McInnes was hired for his Jurgen Klopp-type style of management.",
-      "published": "2026-08-10T14:05:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49574576/rangers-derek-mcinnes-scottish-premiership",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699907_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49575170",
+      "headline": "NWSL Power Rankings: Gotham FC new leaders as unbeaten streak continues",
+      "description": "We have a new No. 1 on ESPN's NWSL Power Rankings, as NJ/NY Gotham FC take the top spot.",
+      "published": "2026-08-10T18:42:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49575170/nwsl-power-rankings-nj-ny-gotham-fc-new-leaders-unbeaten-streak-continues",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699964_1296x729_16-9.jpg",
+      "byline": "Arianna Cascone",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -136,80 +193,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 123
-    },
-    {
-      "id": "49574653",
-      "headline": "Simeone: 'Worried' as Atletico Madrid yet to train as a group",
-      "description": "Simeone: 'Worried' as Atletico Madrid yet to train as a group",
-      "published": "2026-08-10T13:58:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/49574653/worried-atletico-madrid-yet-train-group",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0810/dm_260810_Simeone_Worried_as_Atletico_Madrid_yet_to_train_as_a_group/dm_260810_Simeone_Worried_as_Atletico_Madrid_yet_to_train_as_a_group.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49574541",
-      "headline": "Enzo Maresca on Omar Marmoush's Man City future: 'He needs to decide'",
-      "description": "Enzo Maresca has insisted that Omar Marmoush will decide if his future lies at Manchester City.",
-      "published": "2026-08-10T13:54:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49574541/manchester-city-premier-league-enzo-maresca-omar-marmoush-future-needs-decide",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699905_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Omar Marmoush",
-        "Patrick Beach"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49574071",
-      "headline": "Viktor Gyökeres feels 'very good physically' a year on in Arsenal preseason",
-      "description": "Viktor Gyökeres has said he feels in far better physical shape than when he signed for Arsenal a year ago.",
-      "published": "2026-08-10T12:13:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49574071/arsenal-viktor-gyokeres-premier-league-feels-very-good-physically-year-preseason",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699869_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49163915",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
-      "published": "2026-08-10T11:17:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 119
+      "score": 128
     },
     {
       "id": "49563647",
@@ -223,7 +207,21 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 107
+      "score": 106
+    },
+    {
+      "id": "49560207",
+      "headline": "Gianni Infantino denies UEFA made payment to alleged lover",
+      "description": "Gianni Infantino has denied that UEFA paid off his alleged lover while he was the organisation's general secretary.",
+      "published": "2026-08-08T13:11:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560207/gianni-infantino-denies-uefa-made-departure-payment-alleged-lover",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 81
     },
     {
       "id": "49523086",
@@ -241,21 +239,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 82
-    },
-    {
-      "id": "49560207",
-      "headline": "Gianni Infantino denies UEFA made payment to alleged lover",
-      "description": "Gianni Infantino has denied that UEFA paid off his alleged lover while he was the organisation's general secretary.",
-      "published": "2026-08-08T13:11:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49560207/gianni-infantino-denies-uefa-made-departure-payment-alleged-lover",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 82
+      "score": 80
     },
     {
       "id": "49551450",
@@ -273,7 +257,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 58
+      "score": 56
     },
     {
       "id": "49546977",
@@ -308,20 +292,6 @@
         "Vozinha"
       ],
       "score": 25
-    },
-    {
-      "id": "49547919",
-      "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
-      "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
-      "published": "2026-08-07T23:23:17Z",
-      "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 22
     },
     {
       "id": "49537044",
@@ -404,6 +374,20 @@
       ],
       "players": [],
       "score": 22
+    },
+    {
+      "id": "49547919",
+      "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
+      "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
+      "published": "2026-08-07T23:23:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 20
     },
     {
       "id": "49525299",
@@ -787,6 +771,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/49527513/arsene-wenger-gianni-infantino-fifa-world-cup-sell-u-turn-absolutely-necessary",
       "image": "https://a.espncdn.com/photo/2026/0804/r1697427_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49524620",
+      "headline": "Burley: Infantino thinks he's untouchable as FIFA president",
+      "description": "Burley: Infantino thinks he's untouchable as FIFA president",
+      "published": "2026-08-03T22:59:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/49524620/infantino-thinks-untouchable-fifa-president",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president_GLOBAL_2026-08-03.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
