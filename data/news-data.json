@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-11T21:58:41.443Z",
+  "updated": "2026-08-11T22:53:58.616Z",
   "counts": {
-    "news": 33,
-    "offfield": 12,
+    "news": 28,
+    "offfield": 14,
+    "injury": 3,
     "preview": 2,
     "celebration": 1
   },
@@ -22,7 +23,7 @@
         "USA"
       ],
       "players": [],
-      "score": 209
+      "score": 208
     },
     {
       "id": "49582283",
@@ -38,7 +39,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 188
+      "score": 187
     },
     {
       "id": "49579404",
@@ -52,7 +53,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 161
+      "score": 160
     },
     {
       "id": "49577750",
@@ -70,7 +71,102 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 159
+      "score": 158
+    },
+    {
+      "id": "49584489",
+      "headline": "Mason Mount (foot) a doubt for Man United friendly vs. Leeds",
+      "description": "Mason Mount is a doubt for Manchester United's preseason friendly against Leeds United in Dublin on Wednesday as he continues his recovery from a foot injury, sources have told ESPN.",
+      "published": "2026-08-11T19:59:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49584489/mason-mount-injury-man-united-preseason-friendly-vs-leeds",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700434_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mason Mount",
+        "Mathew Ryan"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49583917",
+      "headline": "Manchester City's Kalvin Phillips re-joins Sheffield United on loan",
+      "description": "Manchester City midfielder Kalvin Phillips has returned to Sheffield United on loan after an injury-affected spell last season.",
+      "published": "2026-08-11T19:40:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49583917/manchester-city-kalvin-phillips-re-joins-sheffield-united-loan",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700390_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49584268",
+      "headline": "Montréal signs ex-Arsenal, United star Alexis Sánchez",
+      "description": "CF Montréal has signed Chilean international forward Alexis Sánchez to a Designated Player contract, the club announced on Tuesday.",
+      "published": "2026-08-11T19:48:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49584268/montreal-signs-ex-arsenal-united-star-alexis-sanchez",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700414_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Alexis Sánchez",
+        "Mathew Ryan"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49580333",
+      "headline": "Transfer rumors, news: Arsenal eye move for Barcelona's Koundé",
+      "description": "Arsenal are reportedly looking at a possible move for Barcelona defender Jules Koundé. Transfer Talk has the latest.",
+      "published": "2026-08-11T19:48:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49580333/transfer-rumors-news-manchester-united-rb-leipzig-left-back-david-raum",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700418_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Jules Koundé",
+        "Mathew Ryan"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49583463",
+      "headline": "USWNT, Portland Thorns star Olivia Moultrie (ACL) out for season",
+      "description": "Portland Thorns and United States midfielder Olivia Moultrie has been ruled out for the rest of the 2026 season with an ACL injury, the NWSL club announced Tuesday.",
+      "published": "2026-08-11T17:26:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49583463/olivia-moultrie-acl-injury-usa-portland-thorns-nwsl-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700344_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Spain",
+        "USA"
+      ],
+      "players": [
+        "Olivia Moultrie",
+        "Ferran Torres"
+      ],
+      "score": 139
     },
     {
       "id": "49582862",
@@ -88,7 +184,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 136
+      "score": 135
     },
     {
       "id": "49582618",
@@ -107,7 +203,26 @@
         "Roony Bardghji",
         "Ferran Torres"
       ],
-      "score": 135
+      "score": 134
+    },
+    {
+      "id": "49584332",
+      "headline": "John McGinn: Aston Villa will compete despite big name departures",
+      "description": "John McGinn is confident Aston Villa are going to continue challenging the elite in the Premier League and Europe despite their latest summer shake-up.",
+      "published": "2026-08-11T19:44:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49584332/john-mcginn-aston-villa-compete-big-name-departures",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700421_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "John McGinn",
+        "Mathew Ryan"
+      ],
+      "score": 128
     },
     {
       "id": "49575753",
@@ -123,7 +238,7 @@
         "USA"
       ],
       "players": [],
-      "score": 127
+      "score": 126
     },
     {
       "id": "49583345",
@@ -142,7 +257,7 @@
         "Lionel Messi",
         "Ferran Torres"
       ],
-      "score": 126
+      "score": 124
     },
     {
       "id": "49581013",
@@ -160,7 +275,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 125
+      "score": 124
     },
     {
       "id": "49583279",
@@ -178,7 +293,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 125
+      "score": 124
     },
     {
       "id": "49582031",
@@ -196,7 +311,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 124
+      "score": 122
     },
     {
       "id": "49582626",
@@ -214,7 +329,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 122
+      "score": 121
     },
     {
       "id": "49573256",
@@ -228,7 +343,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 111
+      "score": 109
     },
     {
       "id": "49540676",
@@ -242,7 +357,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 101
+      "score": 100
     },
     {
       "id": "49466177",
@@ -268,7 +383,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "49523086",
@@ -286,7 +401,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 44
+      "score": 43
     },
     {
       "id": "49563647",
@@ -300,7 +415,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 30
+      "score": 28
     },
     {
       "id": "49518399",
@@ -706,90 +821,6 @@
       "url": "https://www.espn.com/espn/story/_/id/49551026/caf-agree-support-gianni-infantino-amid-fifa-governance-crisis",
       "image": "https://a.espncdn.com/photo/2026/0806/r1698273_1296x729_16-9.png",
       "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49536934",
-      "headline": "Which big clubs are struggling with World Cup burnout?",
-      "description": "The World Cup was a great spectacle, but it was also hard work for the players, and as many of the game's stars return to their clubs to prepare for the 2026-27, which clubs are battling burnout the most?",
-      "published": "2026-08-07T07:22:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49545189",
-      "headline": "UEFA stands by World Cup boycott plans despite FIFA, Gianni Infantino apology",
-      "description": "UEFA said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
-      "published": "2026-08-06T20:04:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49545822",
-      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
-      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
-      "published": "2026-08-06T16:47:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49544673",
-      "headline": "English FA maintains that Gianni Infantino wrong president despite FIFA support - report",
-      "description": "The Football Association continues to believe Gianni Infantino is no longer the right man to lead FIFA despite his own organisation throwing its \"full support\" behind him on Wednesday night.",
-      "published": "2026-08-06T12:53:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49544673/english-fa-maintains-stance-infantino-wrong-president-fifa-support",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698315_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49537988",
-      "headline": "European leagues pile pressure on Infantino amid 'crisis' meeting",
-      "description": "The association of European soccer leagues called for governance reform of FIFA on Wednesday, adding to the mounting pressure on president Gianni Infantino following his failed plan",
-      "published": "2026-08-05T20:41:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49537988/european-leagues-fifa-gianni-infantino-meeting",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695694_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49536495",
-      "headline": "Who could challenge Gianni Infantino for FIFA presidency?",
-      "description": "Rivals are reportedly circling in a bid to unseat Gianni Infantino as FIFA president following his disastrous plan to bring private equity into the World Cup. Who are they and what makes them viable candidates to run against him?",
-      "published": "2026-08-05T18:03:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536495/fifa-president-gianni-infantino-challengers-montagliani-al-khalifa-al-khelaifi-world-cup-elections",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697942_1075x605_16-9.jpg",
-      "byline": "Connor O'Halloran",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
