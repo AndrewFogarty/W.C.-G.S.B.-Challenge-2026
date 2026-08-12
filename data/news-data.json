@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-12T13:51:06.378Z",
+  "updated": "2026-08-12T14:49:24.481Z",
   "counts": {
-    "news": 31,
-    "offfield": 14,
-    "preview": 2,
+    "news": 25,
+    "offfield": 18,
+    "preview": 4,
     "celebration": 1
   },
   "items": [
@@ -20,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 199
+      "score": 198
     },
     {
       "id": "49585269",
@@ -36,7 +36,7 @@
         "USA"
       ],
       "players": [],
-      "score": 175
+      "score": 174
     },
     {
       "id": "49582283",
@@ -52,7 +52,46 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 154
+      "score": 153
+    },
+    {
+      "id": "49588834",
+      "headline": "Youri Tielemans: FIFA's Balogun red card U-turn inspired Belgium to beat U.S. at World Cup",
+      "description": "Youri Tielemans has said that FIFA's shock decision to suspend Folarin Balogun's red card helped inspire Belgium's performance against the United States in their World Cup knockout tie.",
+      "published": "2026-08-12T11:08:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49588834/youri-tielemans-man-united-belgium-usmnt-usa-balogun-red-card-world-cup-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700664_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Belgium",
+        "USA"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49588815",
+      "headline": "Youri Tielemans reveals previous Man. United attempts to sign him before Old Trafford move",
+      "description": "COUNTY KILDARE, Ireland -- Youri Tielemans has revealed Manchester United twice tried to sign him earlier in his career before finally making the move to Old Trafford this summer.",
+      "published": "2026-08-12T11:00:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49588815/tielemans-reveals-previous-man-united-attempts-sign-old-trafford-move",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700663_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Youri Tielemans",
+        "Lionel Messi"
+      ],
+      "score": 139
     },
     {
       "id": "49588946",
@@ -65,33 +104,31 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Spain"
+        "Argentina"
       ],
       "players": [
         "Gerónimo Rulli",
-        "Ferran Torres"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49588359",
-      "headline": "Transfer rumors, news: Maresca wants Man City to sign Chelsea duo",
-      "description": "Man City boss Enzo Maresca is keen to be reunited with two of his most-trusted Chelsea players, Enzo Fernandez and Pedro Neto. Transfer Talk has the latest.",
-      "published": "2026-08-12T09:28:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49588359/transfer-rumors-news-maresca-wants-man-city-sign-chelsea-duo",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700654_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Enzo Fernández",
-        "Pedro Neto",
-        "Ferran Torres"
+        "Lionel Messi"
       ],
       "score": 138
+    },
+    {
+      "id": "49589292",
+      "headline": "Luis Enrique: PSG 'don't have players' ahead of Super Cup final",
+      "description": "Luis Enrique: PSG 'don't have players' ahead of Super Cup final",
+      "published": "2026-08-12T11:21:57Z",
+      "url": "https://www.espn.com/video/clip/_/id/49589292/psg-players-ahead-super-cup-final",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_Luis_Enrique_PSG_dont_have_players_ahead_of_Super_Cup_final/dm_260812_Luis_Enrique_PSG_dont_have_players_ahead_of_Super_Cup_final.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 137
     },
     {
       "id": "49573746",
@@ -110,7 +147,45 @@
         "Pep Chavarría",
         "Ferran Torres"
       ],
-      "score": 138
+      "score": 136
+    },
+    {
+      "id": "49588359",
+      "headline": "Transfer rumors, news: Maresca wants Man City to sign Chelsea duo",
+      "description": "Man City boss Enzo Maresca is keen to be reunited with two of his most-trusted Chelsea players, Enzo Fernandez and Pedro Neto. Transfer Talk has the latest.",
+      "published": "2026-08-12T08:49:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49588359/transfer-rumors-news-maresca-wants-man-city-sign-chelsea-duo",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700654_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Enzo Fernández",
+        "Pedro Neto",
+        "Ferran Torres"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49588543",
+      "headline": "Barcelona give Ferran Torres permission to miss training ahead of PSG move - source",
+      "description": "Barcelona have given Ferran Torres permission to stay away from the training ground while they negotiate the forward's transfer to Paris Saint-Germain, a source told ESPN.",
+      "published": "2026-08-12T08:43:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49588543/barcelona-give-ferran-torres-permission-miss-training-ahead-psg-move-source",
+      "image": "https://a.espncdn.com/photo/2026/0510/r1656322_1296x729_16-9.jpg",
+      "byline": "Moises Llorens, Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 136
     },
     {
       "id": "48990955",
@@ -128,7 +203,43 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 137
+      "score": 136
+    },
+    {
+      "id": "49588278",
+      "headline": "Malaysia, Vietnam ASEAN Championship reunion will have no shortage of spice",
+      "description": "Controversy from their recent meetings suggests the upcoming Malaysia-Vietnam semi at the ASEAN Championship should have plenty of spice.",
+      "published": "2026-08-12T07:14:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49588278/malaysia-vietnam-asean-championship-reunion-no-shortage-spice",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700639_2_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 134
+    },
+    {
+      "id": "48897670",
+      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
+      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
+      "published": "2026-08-12T07:14:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 131
     },
     {
       "id": "49589054",
@@ -141,28 +252,10 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Spain"
+        "Argentina"
       ],
       "players": [
-        "Ferran Torres"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49583217",
-      "headline": "Don't look up! Barcelona plan for match during solar eclipse",
-      "description": "\"Keep your eyes on the ball\" is the advice given to Barcelona and Montpellier players as they play each other during a solar eclipse in Spain.",
-      "published": "2026-08-12T09:41:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49583217/look-barcelona-plan-match-solar-eclipse",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700325_1296x729_16-9.png",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
+        "Lionel Messi"
       ],
       "score": 127
     },
@@ -178,13 +271,13 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 127
+      "score": 126
     },
     {
       "id": "48955344",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "published": "2026-08-12T09:30:26Z",
+      "published": "2026-08-12T09:20:28Z",
       "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -196,7 +289,25 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 126
+      "score": 125
+    },
+    {
+      "id": "49163915",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
+      "published": "2026-08-12T08:34:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 124
     },
     {
       "id": "49577750",
@@ -214,7 +325,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 126
+      "score": 124
     },
     {
       "id": "49575753",
@@ -230,7 +341,7 @@
         "USA"
       ],
       "players": [],
-      "score": 93
+      "score": 92
     },
     {
       "id": "49540676",
@@ -244,7 +355,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 77
+      "score": 76
     },
     {
       "id": "49573256",
@@ -258,7 +369,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 77
+      "score": 76
     },
     {
       "id": "49466177",
@@ -284,7 +395,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 65
+      "score": 63
     },
     {
       "id": "49518399",
@@ -708,90 +819,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
       "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49551026",
-      "headline": "CAF agree to support Gianni Infantino amid FIFA governance crisis",
-      "description": "The Confederation of African Football has thrown its full weight behind FIFA president Gianni Infantino, unanimously reaffirming its support for the embattled Swiss administrator.",
-      "published": "2026-08-07T08:03:52Z",
-      "url": "https://www.espn.com/espn/story/_/id/49551026/caf-agree-support-gianni-infantino-amid-fifa-governance-crisis",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698273_1296x729_16-9.png",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49536934",
-      "headline": "Which big clubs are struggling with World Cup burnout?",
-      "description": "The World Cup was a great spectacle, but it was also hard work for the players, and as many of the game's stars return to their clubs to prepare for the 2026-27, which clubs are battling burnout the most?",
-      "published": "2026-08-07T07:22:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49545189",
-      "headline": "UEFA stands by World Cup boycott plans despite FIFA, Gianni Infantino apology",
-      "description": "UEFA said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
-      "published": "2026-08-06T20:04:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49545822",
-      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
-      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
-      "published": "2026-08-06T16:47:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49544673",
-      "headline": "English FA maintains that Gianni Infantino wrong president despite FIFA support - report",
-      "description": "The Football Association continues to believe Gianni Infantino is no longer the right man to lead FIFA despite his own organisation throwing its \"full support\" behind him on Wednesday night.",
-      "published": "2026-08-06T12:53:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49544673/english-fa-maintains-stance-infantino-wrong-president-fifa-support",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698315_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49537988",
-      "headline": "European leagues pile pressure on Infantino amid 'crisis' meeting",
-      "description": "The association of European soccer leagues called for governance reform of FIFA on Wednesday, adding to the mounting pressure on president Gianni Infantino following his failed plan",
-      "published": "2026-08-05T20:41:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49537988/european-leagues-fifa-gianni-infantino-meeting",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695694_1296x729_16-9.jpg",
-      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
