@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-12T11:25:54.756Z",
+  "updated": "2026-08-12T12:12:38.406Z",
   "counts": {
-    "news": 33,
-    "preview": 3,
-    "offfield": 11,
+    "news": 30,
+    "offfield": 15,
+    "preview": 2,
     "celebration": 1
   },
   "items": [
@@ -20,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 203
+      "score": 202
     },
     {
       "id": "49585269",
@@ -36,7 +36,7 @@
         "USA"
       ],
       "players": [],
-      "score": 179
+      "score": 178
     },
     {
       "id": "49582283",
@@ -52,7 +52,101 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 158
+      "score": 157
+    },
+    {
+      "id": "49588946",
+      "headline": "Gerónimo Rulli joins Manchester City as Gianluigi Donnarumma's new understudy",
+      "description": "Manchester City have signed goalkeeper Geronimo Rulli from Marseille, the club have confirmed.",
+      "published": "2026-08-12T10:00:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49588946/geronimo-rulli-joins-manchester-city-gianluigi-donnarumma-new-understudy",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700667_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Gerónimo Rulli",
+        "Ferran Torres"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49588359",
+      "headline": "Transfer rumors, news: Maresca wants Man City to sign Chelsea duo",
+      "description": "Man City boss Enzo Maresca is keen to be reunited with two of his most-trusted Chelsea players, Enzo Fernandez and Pedro Neto. Transfer Talk has the latest.",
+      "published": "2026-08-12T09:28:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49588359/transfer-rumors-news-maresca-wants-man-city-sign-chelsea-duo",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700654_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Enzo Fernández",
+        "Pedro Neto",
+        "Ferran Torres"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49573746",
+      "headline": "Chelsea bolster full-back options with Pep Chavarría arrival from Rayo Vallecano",
+      "description": "Chelsea have completed the signing of Pep Chavarría from Rayo Vallecano, with the left-back becoming the ninth new addition to the first-team at Stamford Bridge.",
+      "published": "2026-08-12T08:54:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49573746/chelsea-pep-chavarria-rayo-vallecano-premier-league-transfers",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699853_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Pep Chavarría",
+        "Ferran Torres"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49588543",
+      "headline": "Barcelona give Ferran Torres permission to miss training ahead of PSG move - source",
+      "description": "Barcelona have given Ferran Torres permission to stay away from the training ground while they negotiate the forward's transfer to Paris Saint-Germain, a source told ESPN.",
+      "published": "2026-08-12T08:43:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49588543/barcelona-give-ferran-torres-permission-miss-training-ahead-psg-move-source",
+      "image": "https://a.espncdn.com/photo/2026/0510/r1656322_1296x729_16-9.jpg",
+      "byline": "Moises Llorens, Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 140
+    },
+    {
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-08-12T08:36:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700656_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 140
     },
     {
       "id": "49579404",
@@ -66,31 +160,43 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 131
+      "score": 130
     },
     {
-      "id": "49587246",
-      "headline": "Women's Africa Cup of Nations semifinals preview: Africa awaits a first-time WAFCON champion",
-      "description": "Here are ESPN's predictions for the two WAFCON semifinals -- Morocco vs Cameroon, and Algeria vs Malawi.",
-      "published": "2026-08-12T03:42:03Z",
-      "url": "https://www.espn.com/espn/story/_/id/49587246/women-africa-cup-nations-semifinals-preview-africa-awaits-first-wafcon-champion",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700620_608x342_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49583217",
+      "headline": "Don't look up! Barcelona plan for match during solar eclipse",
+      "description": "\"Keep your eyes on the ball\" is the advice given to Barcelona and Montpellier players as they play each other during a solar eclipse in Spain.",
+      "published": "2026-08-12T09:41:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49583217/look-barcelona-plan-match-solar-eclipse",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700325_1296x729_16-9.png",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Spain",
-        "Morocco",
-        "Algeria"
+        "Spain"
       ],
       "players": [
-        "Tabitha Chawinga",
-        "Temwa Chawinga",
-        "Sakina Ouzraoui",
-        "Mssoudy Sanaa",
         "Ferran Torres"
       ],
-      "score": 130
+      "score": 129
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-12T09:30:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 129
     },
     {
       "id": "49577750",
@@ -108,129 +214,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 129
-    },
-    {
-      "id": "49580333",
-      "headline": "Transfer rumors, news: Arsenal eye move for Barcelona's Koundé",
-      "description": "Arsenal are reportedly looking at a possible move for Barcelona defender Jules Koundé. Transfer Talk has the latest.",
-      "published": "2026-08-11T19:48:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49580333/transfer-rumors-news-manchester-united-rb-leipzig-left-back-david-raum",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700418_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Jules Koundé",
-        "Ferran Torres"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49587061",
-      "headline": "Charlotte FC vs. Pachuca - Game Highlights",
-      "description": "Watch the Game Highlights from Charlotte FC vs. Pachuca, 08/11/2026",
-      "published": "2026-08-12T02:57:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49587061/charlotte-fc-vs-pachuca-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0812/edb1d41e-606e-4de0-9860-dac653517c9d/edb1d41e-606e-4de0-9860-dac653517c9d.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Alan Bautista",
-        "Idan Toklomati",
-        "Allan Saint-Maximin",
-        "Archie Goodwin",
-        "Rodolfo Pizarro",
-        "Ferran Torres"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49586862",
-      "headline": "Columbus Crew SC vs. Pumas UNAM - Game Highlights",
-      "description": "Watch the Game Highlights from Columbus Crew SC vs. Pumas UNAM, 08/11/2026",
-      "published": "2026-08-12T02:41:00Z",
-      "url": "https://www.espn.com/video/clip/_/id/49586862/columbus-crew-sc-vs-pumas-unam-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0812/80df3edd-e2fb-438b-9239-b27db89d0c44/80df3edd-e2fb-438b-9239-b27db89d0c44.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Álvaro Angulo",
-        "Rudy Camacho",
-        "Nathan Silva",
-        "Luciano Herrera",
-        "Mohamed Farsi",
-        "Tarun Karumanchi",
-        "Ferran Torres"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49586419",
-      "headline": "Singapore's road to the 2026 ASEAN Championship semis",
-      "description": "Singapore are gunning for a first ASEAN Championship title since 2012. Relive their thrilling journey to the last four.",
-      "published": "2026-08-12T01:15:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49586419/singapore-road-2026-asean-championship-semis",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_ASEAN_Highlight_Singapores_road_to_the_2026_ASEAN_Championship_semis_2026812_ESPN/dm_260811_ASEAN_Highlight_Singapores_road_to_the_2026_ASEAN_Championship_semis_2026812_ESPN.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 118
-    },
-    {
-      "id": "49585838",
-      "headline": "Thailand's road to the 2026 ASEAN Championship semis",
-      "description": "The ASEAN Championship's seven-time champions Thailand are gunning for a record-extending eighth title. Here's how they got to the semifinals.",
-      "published": "2026-08-11T23:31:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/49585838/thailand-road-2026-asean-championship-semis",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_ASEAN_Highlight_Thailands_road_to_the_2026_ASEAN_Championship_semis_2026812_ESPN/dm_260811_ASEAN_Highlight_Thailands_road_to_the_2026_ASEAN_Championship_semis_2026812_ESPN.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49584727",
-      "headline": "Cristiano Ronaldo confirms marriage to Georgina Rodríguez",
-      "description": "Cristiano Ronaldo has married his longtime girlfriend Georgina Rodríguez at a civil ceremony in Portugal.",
-      "published": "2026-08-11T20:18:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49584727/cristiano-ronaldo-marriage-wedding-georgina-rodriguez",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700445_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Ferran Torres"
-      ],
-      "score": 110
+      "score": 128
     },
     {
       "id": "49575753",
@@ -246,7 +230,7 @@
         "USA"
       ],
       "players": [],
-      "score": 97
+      "score": 96
     },
     {
       "id": "49540676",
@@ -260,7 +244,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 81
+      "score": 80
     },
     {
       "id": "49573256",
@@ -274,7 +258,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 81
+      "score": 79
     },
     {
       "id": "49466177",
@@ -300,7 +284,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 68
+      "score": 67
     },
     {
       "id": "49518399",
@@ -336,7 +320,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 24
+      "score": 23
     },
     {
       "id": "49551450",
