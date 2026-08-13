@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-13T11:35:45.026Z",
+  "updated": "2026-08-13T12:30:21.481Z",
   "counts": {
-    "news": 33,
-    "preview": 5,
-    "offfield": 9,
+    "news": 29,
+    "preview": 6,
+    "offfield": 11,
+    "injury": 1,
     "celebration": 1
   },
   "items": [
@@ -20,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 205
+      "score": 204
     },
     {
       "id": "49588771",
@@ -34,7 +35,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 172
+      "score": 171
     },
     {
       "id": "49592307",
@@ -50,7 +51,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 166
+      "score": 165
     },
     {
       "id": "49576985",
@@ -68,92 +69,129 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 159
+      "score": 158
     },
     {
-      "id": "49597362",
-      "headline": "Ghana's Black Queens demand outstanding bonuses ahead of World Cup playoff",
-      "description": "Ghana's Black Queens have demanded the immediate payment of outstanding bonuses and allowances as they prepare to continue their pursuit of a place at the 2027 FIFA Women's World Cup.",
-      "published": "2026-08-13T06:56:41Z",
-      "url": "https://www.espn.com/espn/story/_/id/49597362/ghana-black-queens-demand-outstanding-bonuses-ahead-world-cup-playoff",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701161_1296x729_16-9.png",
+      "id": "49597770",
+      "headline": "Transfer rumors, news: Chelsea eye Zubimendi as Enzo Fernández replacement",
+      "description": "Chelsea could sign Arsenal midfielder Martín Zubimendi if Enzo Fernández joins Manchester City this summer. Transfer Talk has the latest.",
+      "published": "2026-08-13T08:18:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49597770/transfer-rumors-news-chelsea-eye-arsenal-zubimendi-replace-man-city-target-enzo-fernandez",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701169_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Martín Zubimendi",
+        "Enzo Fernández",
+        "Ferran Torres"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49580143",
+      "headline": "Justin Madugu, Asisat Oshoala - Super Falcons determined not to follow Super Eagles out of World Cup",
+      "description": "Nigeria coach Justine Madugu and forward Asisat Oshoala say the Super Falcons are determined not to follow the Super Eagles out of World Cup contention.",
+      "published": "2026-08-13T07:22:50Z",
+      "url": "https://www.espn.com/espn/story/_/id/49580143/justin-madugu-asisat-oshoala-super-falcons-determined-not-follow-super-eagles-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694225_1296x729_16-9.jpg",
       "byline": "Colin Udoh",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Spain",
+        "South Africa"
+      ],
+      "players": [
+        "Asisat Oshoala",
+        "Ferran Torres"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49597721",
+      "headline": "Galatasaray make bid to sign Arsenal's Gabriel Martinelli - sources",
+      "description": "Galatasaray have made a €45million ($51.8m) bid to sign Gabriel Martinelli from Arsenal, sources have told ESPN.",
+      "published": "2026-08-13T07:36:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49597721/galatasaray-make-bid-sign-arsenal-gabriel-martinelli-sources",
+      "image": "https://a.espncdn.com/photo/2025/0916/r1546641_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Gabriel Martinelli",
+        "Ferran Torres"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49597995",
+      "headline": "Marcus Rashford could make Man United return against Ruben Amorim's AC Milan",
+      "description": "Manchester United head coach Michael Carrick has praised Marcus Rashford and said that he may be available to face Ruben Amorim's AC Milan in a preseason friendly.",
+      "published": "2026-08-13T08:55:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49597995/marcus-rashford-man-united-ruben-amorim-ac-milan-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701165_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
-        "Spain",
-        "Ghana"
+        "Spain"
       ],
       "players": [
         "Ferran Torres"
       ],
-      "score": 135
+      "score": 137
     },
     {
-      "id": "49597255",
-      "headline": "Des Ellis, Banyana struggling to find a talent pool to replace Thembi Kgatlana and co.",
-      "description": "Banyana Banyana head coach Desiree Ellis finds herself between a rock and a hard place, as African football has jumped ahead of her since Banyana's maiden triumph in 2022.",
-      "published": "2026-08-13T06:34:12Z",
-      "url": "https://www.espn.com/espn/story/_/id/49597255/des-ellis-banyana-struggling-find-talent-pool-replace-thembi-kgatlana-co",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701156_1296x729_16-9.png",
+      "id": "48897670",
+      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
+      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
+      "published": "2026-08-13T08:43:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49579979",
+      "headline": "South Africa vs. Nigeria - Kick-off time, team news, permutations, how to watch",
+      "description": "Banyana Banyana and the Super Falcons will face off in Casablanca on Thursday after their Women's Africa Cup of Nations quarter-final exits.",
+      "published": "2026-08-13T07:23:32Z",
+      "url": "https://www.espn.com/espn/story/_/id/49579979/south-africa-vs-nigeria-kick-team-news-permutations-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698271_1296x729_16-9.png",
       "byline": "Leonard Solms",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
         "Spain",
-        "South Africa",
-        "Morocco"
+        "South Africa"
       ],
       "players": [
-        "Thembi Kgatlana",
         "Ferran Torres"
       ],
       "score": 134
     },
     {
-      "id": "48955344",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "published": "2026-08-13T07:03:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49592465",
-      "headline": "Thailand captain Sarach Yooyen's Midas touch at the ASEAN Championship",
-      "description": "Already the ASEAN Championship's most-successful player, Thailand captain Sarach Yooyen is eyeing a fifth title in 2026.",
-      "published": "2026-08-13T06:51:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49592465/thailand-captain-sarach-yooyen-midas-touch-asean-championship",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700877_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Sarach Yooyen",
-        "Ferran Torres"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49597116",
-      "headline": "Toluca vs. FC Dallas - Game Highlights",
-      "description": "Watch the Game Highlights from Toluca vs. FC Dallas, 08/12/2026",
-      "published": "2026-08-13T05:57:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/49597116/toluca-vs-fc-dallas-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/eb12bc8e-05b8-4b59-bbbd-0a5f85092b0e/eb12bc8e-05b8-4b59-bbbd-0a5f85092b0e.jpg",
+      "id": "49598297",
+      "headline": "Luis Enrique: PSG aiming to 'win every trophy' after Super Cup victory",
+      "description": "Luis Enrique: PSG aiming to 'win every trophy' after Super Cup victory",
+      "published": "2026-08-13T09:14:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49598297/psg-aiming-win-every-trophy-super-cup-victory",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_Luis_Enrique_PSG_aiming_to_win_every_trophy_after_Super_Cup_victory/dm_260813_Luis_Enrique_PSG_aiming_to_win_every_trophy_after_Super_Cup_victory.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -161,22 +199,17 @@
         "Spain"
       ],
       "players": [
-        "Federico Viñas",
-        "Pável Pérez",
-        "Jorge Díaz",
-        "Jesús Gallardo",
-        "Érick Gutiérrez",
         "Ferran Torres"
       ],
-      "score": 125
+      "score": 128
     },
     {
-      "id": "49597115",
-      "headline": "San Diego FC vs. Puebla - Game Highlights",
-      "description": "Watch the Game Highlights from San Diego FC vs. Puebla, 08/12/2026",
-      "published": "2026-08-13T05:56:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49597115/san-diego-fc-vs-puebla-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/2f7cf882-62a9-47a6-9959-25c158914125/2f7cf882-62a9-47a6-9959-25c158914125.jpg",
+      "id": "49597932",
+      "headline": "'We are playing to build a team' - Emery on Aston Villa's Super Cup defeat",
+      "description": "'We are playing to build a team' - Emery on Aston Villa's Super Cup defeat",
+      "published": "2026-08-13T08:29:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/49597932/we-playing-build-team-emery-aston-villa-super-cup-defeat",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_Presser_We_are_playing_to_build_a_team_Emery_on_Aston_Villas_Super_Cup_defeat_202608/dm_260813_COM_SOC_Presser_We_are_playing_to_build_a_team_Emery_on_Aston_Villas_Super_Cup_defeat_202608.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -184,61 +217,9 @@
         "Spain"
       ],
       "players": [
-        "David Vazquez",
-        "Eduardo Mustre",
-        "Juan Pablo Vargas",
-        "Dagur Thórhallsson",
-        "Kevin Velasco",
         "Ferran Torres"
       ],
-      "score": 125
-    },
-    {
-      "id": "49596726",
-      "headline": "Seattle Sounders FC vs. Guadalajara - Game Highlights",
-      "description": "Watch the Game Highlights from Seattle Sounders FC vs. Guadalajara, 08/12/2026",
-      "published": "2026-08-13T05:48:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/49596726/seattle-sounders-fc-vs-guadalajara-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/9d27e12d-88e4-439d-922c-525106131031/9d27e12d-88e4-439d-922c-525106131031.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Brian Gutiérrez",
-        "Santiago Sandoval",
-        "Gallatin Sandnes",
-        "Ryan Sailor",
-        "Luis Gabriel Rey",
-        "Ferran Torres"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49596787",
-      "headline": "LAFC vs. Querétaro - Game Highlights",
-      "description": "Watch the Game Highlights from LAFC vs. Querétaro, 08/12/2026",
-      "published": "2026-08-13T05:21:14Z",
-      "url": "https://www.espn.com/video/clip/_/id/49596787/lafc-vs-queretaro-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/0b005aec-61c6-4f9c-a442-e78601b02050/0b005aec-61c6-4f9c-a442-e78601b02050.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Denis Bouanga",
-        "Ryan Porteous",
-        "Yevhen Cheberko",
-        "Ryan Hollingshead",
-        "Daniel Parra",
-        "Ali Avila",
-        "Ferran Torres"
-      ],
-      "score": 124
+      "score": 127
     },
     {
       "id": "49585269",
@@ -254,7 +235,7 @@
         "USA"
       ],
       "players": [],
-      "score": 112
+      "score": 111
     },
     {
       "id": "49582283",
@@ -270,7 +251,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 91
+      "score": 90
     },
     {
       "id": "49579404",
@@ -284,7 +265,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 65
+      "score": 63
     },
     {
       "id": "49577750",
@@ -302,7 +283,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 63
+      "score": 62
     },
     {
       "id": "49540676",
@@ -316,7 +297,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 45
+      "score": 43
     },
     {
       "id": "49575753",
@@ -332,7 +313,7 @@
         "USA"
       ],
       "players": [],
-      "score": 31
+      "score": 29
     },
     {
       "id": "49466177",
@@ -372,7 +353,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 24
+      "score": 23
     },
     {
       "id": "49523086",
