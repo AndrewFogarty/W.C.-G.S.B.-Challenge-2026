@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-13T09:47:08.041Z",
+  "updated": "2026-08-13T10:46:56.059Z",
   "counts": {
-    "news": 35,
-    "preview": 3,
-    "offfield": 9,
+    "news": 29,
+    "preview": 6,
+    "injury": 1,
+    "offfield": 11,
     "celebration": 1
   },
   "items": [
@@ -20,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 185
+      "score": 183
     },
     {
       "id": "49592307",
@@ -36,7 +37,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 179
+      "score": 177
     },
     {
       "id": "49576985",
@@ -54,15 +55,131 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 172
+      "score": 170
     },
     {
-      "id": "49596787",
-      "headline": "LAFC vs. Querétaro - Game Highlights",
-      "description": "Watch the Game Highlights from LAFC vs. Querétaro, 08/12/2026",
-      "published": "2026-08-13T05:21:14Z",
-      "url": "https://www.espn.com/video/clip/_/id/49596787/lafc-vs-queretaro-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/0b005aec-61c6-4f9c-a442-e78601b02050/0b005aec-61c6-4f9c-a442-e78601b02050.jpg",
+      "id": "49580143",
+      "headline": "Justin Madugu, Asisat Oshoala - Super Falcons determined not to follow Super Eagles out of World Cup",
+      "description": "Nigeria coach Justine Madugu and forward Asisat Oshoala say the Super Falcons are determined not to follow the Super Eagles out of World Cup contention.",
+      "published": "2026-08-13T07:22:50Z",
+      "url": "https://www.espn.com/espn/story/_/id/49580143/justin-madugu-asisat-oshoala-super-falcons-determined-not-follow-super-eagles-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694225_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Spain",
+        "South Africa"
+      ],
+      "players": [
+        "Asisat Oshoala",
+        "Ferran Torres"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49597770",
+      "headline": "Transfer rumors, news: Chelsea eye Zubimendi as Enzo Fernández replacement",
+      "description": "Chelsea could sign Arsenal midfielder Martín Zubimendi if Enzo Fernández joins Manchester City this summer. Transfer Talk has the latest.",
+      "published": "2026-08-13T08:18:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49597770/transfer-rumors-news-chelsea-eye-arsenal-zubimendi-replace-man-city-target-enzo-fernandez",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701169_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Martín Zubimendi",
+        "Enzo Fernández",
+        "Ferran Torres"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49597721",
+      "headline": "Galatasaray make bid to sign Arsenal's Gabriel Martinelli - sources",
+      "description": "Galatasaray have made a €45million ($51.8m) bid to sign Gabriel Martinelli from Arsenal, sources have told ESPN.",
+      "published": "2026-08-13T07:36:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49597721/galatasaray-make-bid-sign-arsenal-gabriel-martinelli-sources",
+      "image": "https://a.espncdn.com/photo/2025/0916/r1546641_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Gabriel Martinelli",
+        "Ferran Torres"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49579979",
+      "headline": "South Africa vs. Nigeria - Kick-off time, team news, permutations, how to watch",
+      "description": "Banyana Banyana and the Super Falcons will face off in Casablanca on Thursday after their Women's Africa Cup of Nations quarter-final exits.",
+      "published": "2026-08-13T07:23:32Z",
+      "url": "https://www.espn.com/espn/story/_/id/49579979/south-africa-vs-nigeria-kick-team-news-permutations-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698271_1296x729_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain",
+        "South Africa"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49580408",
+      "headline": "Lebohang Ramalepe calls on Banyana to up mental strength ahead of Nigeria clash - 'We lost hope and faith'",
+      "description": "South Africa's Lebohang Ramalepe has urged her teammates to be stronger mentally and challenge themselves to raise their game in this week's FIFA Women's World Cup 'play-in' against Nigeria on Thursday.",
+      "published": "2026-08-13T07:22:05Z",
+      "url": "https://www.espn.com/espn/story/_/id/49580408/lebohang-ramalepe-calls-banyana-mental-strength-ahead-nigeria-clash-lost-hope-faith",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700216_997x561_16-9.png",
+      "byline": "Ed Dove",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain",
+        "South Africa"
+      ],
+      "players": [
+        "Lebohang Ramalepe",
+        "Ferran Torres"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49154575",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "published": "2026-08-13T07:12:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49597932",
+      "headline": "'We are playing to build a team' - Emery on Aston Villa's Super Cup defeat",
+      "description": "'We are playing to build a team' - Emery on Aston Villa's Super Cup defeat",
+      "published": "2026-08-13T08:29:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/49597932/we-playing-build-team-emery-aston-villa-super-cup-defeat",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_Presser_We_are_playing_to_build_a_team_Emery_on_Aston_Villas_Super_Cup_defeat_202608/dm_260813_COM_SOC_Presser_We_are_playing_to_build_a_team_Emery_on_Aston_Villas_Super_Cup_defeat_202608.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -70,15 +187,27 @@
         "Spain"
       ],
       "players": [
-        "Denis Bouanga",
-        "Ryan Porteous",
-        "Yevhen Cheberko",
-        "Ryan Hollingshead",
-        "Daniel Parra",
-        "Ali Avila",
         "Ferran Torres"
       ],
-      "score": 126
+      "score": 130
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-13T07:03:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 127
     },
     {
       "id": "49585269",
@@ -94,145 +223,7 @@
         "USA"
       ],
       "players": [],
-      "score": 125
-    },
-    {
-      "id": "49595586",
-      "headline": "Michaely Bihina's heroics help Cameroon beat hosts Morocco on penalties to reach WAFCON final",
-      "description": "Cameroon will meet Malawi in Sunday's Women's Africa Cup of Nations final after stunning tournament hosts Morocco in Rabat.",
-      "published": "2026-08-13T02:37:12Z",
-      "url": "https://www.espn.com/espn/story/_/id/49595586/michaely-bihina-heroics-help-cameroon-beat-hosts-morocco-penalties-reach-wafcon-final",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701092_608x342_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Morocco"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49595370",
-      "headline": "Inter Miami CF vs. León - Game Highlights",
-      "description": "Watch the Game Highlights from Inter Miami CF vs. León, 08/12/2026",
-      "published": "2026-08-13T02:30:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49595370/inter-miami-cf-vs-leon-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/993448d6-674d-4468-9373-7d345e81eabd/993448d6-674d-4468-9373-7d345e81eabd.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Diber Cambindo",
-        "Dániel Pintér",
-        "Daniel Arcila",
-        "Yannick Bright",
-        "Juan Domínguez",
-        "Ferran Torres"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49595702",
-      "headline": "LSU vs. Wake Forest: Game Highlights",
-      "description": "LSU vs. Wake Forest: Game Highlights",
-      "published": "2026-08-13T02:16:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/49595702/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/92f2542d-8213-43f2-8306-0fa897430b60/92f2542d-8213-43f2-8306-0fa897430b60.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49595580",
-      "headline": "Orlando City SC vs. Atlético San Luis - Game Highlights",
-      "description": "Watch the Game Highlights from Orlando City SC vs. Atlético San Luis, 08/12/2026",
-      "published": "2026-08-13T02:05:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/49595580/orlando-city-sc-vs-atletico-san-luis-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/0591c17b-7316-443f-aaad-c98362e38db5/0591c17b-7316-443f-aaad-c98362e38db5.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Aldo Cruz",
-        "Daryl Dike",
-        "Iago Teodoro",
-        "Adrián Marín",
-        "David Rodriguez",
-        "Ferran Torres"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49525764",
-      "headline": "Australia's top 10 most expensive transfers of all-time",
-      "description": "Where does Lucas Herrington sit in the list of most valuable Australian soccer transfers?",
-      "published": "2026-08-13T00:35:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49525764/australias-top-10-most-expensive-transfers-all",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1701010_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Australia"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 119
-    },
-    {
-      "id": "49594718",
-      "headline": "Vietnam's road to the 2026 ASEAN Championship semis",
-      "description": "Relive Vietnam's journey to the semifinals of the ASEAN Championship as the reigning champions look to successfully defend their crown.",
-      "published": "2026-08-13T00:15:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/49594718/vietnam-road-2026-asean-championship-semis",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_ASEAN_Highlight_Vietnams_road_to_the_2026_ASEAN_Championship_semis_2026813_ESPN/dm_260812_ASEAN_Highlight_Vietnams_road_to_the_2026_ASEAN_Championship_semis_2026813_ESPN.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 119
-    },
-    {
-      "id": "49594682",
-      "headline": "PSG defeat Aston Villa to win back-to-back Super Cups",
-      "description": "Désiré Doué's 61st-minute winner lifts PSG to a second successive UEFA Super Cup title following a hard-fought 2-1 victory over Aston Villa.",
-      "published": "2026-08-13T00:07:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49594682/psg-defeat-aston-villa-win-back-back-super-cups",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_UEFA_Highlight_PSG_defeat_Aston_Villa_to_win_backtoback_Super_Cups_20260813_AUS_ONLY/dm_260812_UEFA_Highlight_PSG_defeat_Aston_Villa_to_win_backtoback_Super_Cups_20260813_AUS_ONLY.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 119
+      "score": 124
     },
     {
       "id": "49582283",
@@ -248,7 +239,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 104
+      "score": 103
     },
     {
       "id": "49579404",
@@ -262,7 +253,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 77
+      "score": 76
     },
     {
       "id": "49577750",
@@ -280,7 +271,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 76
+      "score": 74
     },
     {
       "id": "49540676",
@@ -294,7 +285,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 47
+      "score": 46
     },
     {
       "id": "49575753",
@@ -310,7 +301,7 @@
         "USA"
       ],
       "players": [],
-      "score": 44
+      "score": 42
     },
     {
       "id": "49573256",
@@ -324,7 +315,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 27
+      "score": 26
     },
     {
       "id": "49466177",
