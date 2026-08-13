@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-13T01:43:53.347Z",
+  "updated": "2026-08-13T03:55:24.561Z",
   "counts": {
     "news": 33,
     "preview": 3,
-    "offfield": 11,
-    "celebration": 1
+    "offfield": 10,
+    "celebration": 2
   },
   "items": [
     {
@@ -20,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 197
+      "score": 194
     },
     {
       "id": "49592307",
@@ -36,7 +36,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 191
+      "score": 188
     },
     {
       "id": "49576985",
@@ -54,46 +54,25 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 184
+      "score": 181
     },
     {
-      "id": "49592690",
-      "headline": "Myles Lewis-Skelly helps Arsenal beat Cesc Fabregas' Como",
-      "description": "Myles Lewis-Skelly appeared to underline his commitment to Arsenal after setting aside transfer speculation to score in Wednesday's 1-1 friendly draw with Italian club Como.",
-      "published": "2026-08-12T20:53:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49592690/arsenal-como-cesc-fabregas-preseason-friendly-myles-lewis-skelly",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700919_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49593650",
+      "headline": "Moreno: Barcelona must have a plan B if Alvarez transfer fails",
+      "description": "Moreno: Barcelona must have a plan B if Alvarez transfer fails",
+      "published": "2026-08-12T22:14:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49593650/barcelona-plan-b-alvarez-transfer-fails",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_COM_SOC_Analysis_Moreno3A_Barcelona_must_have_a_plan_B_if_Alvarez_transfer_fails__GLOBAL_2026-08-12/dm_260812_COM_SOC_Analysis_Moreno3A_Barcelona_must_have_a_plan_B_if_Alvarez_transfer_fails__GLOBAL_2026-08-12.jpg",
+      "byline": null,
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Spain"
       ],
       "players": [
-        "Myles Lewis-Skelly",
         "Ferran Torres"
       ],
-      "score": 138
-    },
-    {
-      "id": "49588359",
-      "headline": "Transfer rumors, news: Tottenham continue interest for USMNT's Balogun",
-      "description": "United States striker Folarin Balogun is reportedly linked with a move to Tottenham Hotspur. Transfer Talk has the latest.",
-      "published": "2026-08-12T20:09:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49588359/transfer-rumors-news-maresca-wants-man-city-sign-chelsea-duo",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700903_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain",
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun",
-        "Ferran Torres"
-      ],
-      "score": 137
+      "score": 136
     },
     {
       "id": "49585269",
@@ -109,15 +88,52 @@
         "USA"
       ],
       "players": [],
-      "score": 137
+      "score": 134
     },
     {
-      "id": "49582955",
-      "headline": "PSG edge Aston Villa to win back-to-back UEFA Super Cups",
-      "description": "Paris Saint-Germain won the UEFA Super Cup for a second straight year by beating Aston Villa 2-1 on Wednesday thanks to Désiré Doué's second-half goal in the annual curtain-raiser to the European soccer season.",
-      "published": "2026-08-12T22:03:07Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401873624",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700966_1296x729_16-9.jpg",
+      "id": "40850299",
+      "headline": "What is the Super Cup? UEFA soccer history, winners, more",
+      "description": "Learn more about the UEFA Super Cup's history now.",
+      "published": "2026-08-12T22:27:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/40850299/what-super-cup-uefa-soccer-history-winners-more",
+      "image": "https://a.espncdn.com/photo/2024/0814/r1373559_600x400_3-2.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49593781",
+      "headline": "Aston Villa's Unai Emery praises Brian Madjo and youth players in PSG defeat",
+      "description": "Unai Emery has said that Brian Madjo was one of Aston Villa's shining lights after they were eclipsed by Paris Saint-Germain in the Super Cup final.",
+      "published": "2026-08-12T22:42:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49593781/aston-villa-unai-emery-praises-brian-madjo-youth-players-psg-defeat",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700978_594x334_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Brian Madjo",
+        "Ferran Torres"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49593678",
+      "headline": "Mazraoui: Pitch invaders show 'big love' for United",
+      "description": "Noussair Mazraoui kept his cool amid a bizarre finish to Manchester United's pre-season friendly in Dublin, rolling in the decisive penalty as they beat Leeds United 5-4 in a shoot-out.",
+      "published": "2026-08-12T22:27:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49593678/mazraoui-big-love-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700975_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
@@ -125,18 +141,19 @@
         "Spain"
       ],
       "players": [
+        "Noussair Mazraoui",
         "Ferran Torres"
       ],
-      "score": 127
+      "score": 125
     },
     {
-      "id": "49592896",
-      "headline": "Manchester United win friendly over Leeds after shootout",
-      "description": "Manchester United won their penultimate preseason friendly on penalties after a 1-1 draw with Leeds United on Wednesday.",
-      "published": "2026-08-12T20:52:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49592896/manchester-united-win-friendly-leeds-shootout",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700936_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
+      "id": "49593673",
+      "headline": "Who is the best manager in Europe?",
+      "description": "Who is the best manager in Europe?",
+      "published": "2026-08-12T22:15:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49593673/who-best-manager-europe",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_COM_SOC_Analysis_Who_is_the_best_manager_in_Europe3F__GLOBAL_2026-08-12/dm_260812_COM_SOC_Analysis_Who_is_the_best_manager_in_Europe3F__GLOBAL_2026-08-12.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -145,15 +162,33 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 126
+      "score": 125
     },
     {
-      "id": "49592520",
-      "headline": "The stars of LaLiga are on ABC and the ESPN App",
-      "description": "The stars of LaLiga are on ABC and the ESPN App",
-      "published": "2026-08-12T19:50:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/49592520/the-stars-laliga-abc-espn-app",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_soc_laliga_promo/dm_260812_soc_laliga_promo.jpg",
+      "id": "49593644",
+      "headline": "Moreno: Romero is the perfect Simeone and Atlético Madrid player",
+      "description": "Moreno: Romero is the perfect Simeone and Atlético Madrid player",
+      "published": "2026-08-12T22:14:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/49593644/romero-perfect-simeone-atletico-madrid-player",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_COM_SOC_Analysis_Moreno3A_Romero_is_the_perfect_Simeone_and_AtlC3A9tico_Madrid_player_GLOBAL_2026-08-1/dm_260812_COM_SOC_Analysis_Moreno3A_Romero_is_the_perfect_Simeone_and_AtlC3A9tico_Madrid_player_GLOBAL_2026-08-1.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49593619",
+      "headline": "Will PSG claim a third straight UEFA Champions League crown?",
+      "description": "Will PSG claim a third straight UEFA Champions League crown?",
+      "published": "2026-08-12T22:13:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/49593619/will-psg-claim-third-straight-uefa-champions-league-crown",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_COM_SOC_Analysis_Will_PSG_claim_a_third_straight_UEFA_Champions_League_crown3F__GLOBAL_2026-08-12/dm_260812_COM_SOC_Analysis_Will_PSG_claim_a_third_straight_UEFA_Champions_League_crown3F__GLOBAL_2026-08-12.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -169,7 +204,7 @@
       "id": "49593223",
       "headline": "Real Madrid beat Deportivo in friendly with Brahim goal",
       "description": "Real Madrid beat Deportivo La Coruña 1-0 in their latest pre-season friendly on Wednesday, with Brahim Diaz scoring just before halftime.",
-      "published": "2026-08-12T21:34:32Z",
+      "published": "2026-08-12T22:35:47Z",
       "url": "https://www.espn.com/soccer/story/_/id/49593223/real-madrid-beat-deportivo-friendly-brahim-goal",
       "image": null,
       "byline": "Alex Kirkland",
@@ -181,7 +216,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 121
+      "score": 119
     },
     {
       "id": "49582283",
@@ -197,7 +232,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 116
+      "score": 113
     },
     {
       "id": "49579404",
@@ -211,7 +246,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 89
+      "score": 86
     },
     {
       "id": "49577750",
@@ -229,7 +264,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 88
+      "score": 84
     },
     {
       "id": "49540676",
@@ -243,7 +278,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 56
     },
     {
       "id": "49575753",
@@ -259,7 +294,7 @@
         "USA"
       ],
       "players": [],
-      "score": 56
+      "score": 52
     },
     {
       "id": "49573256",
@@ -273,7 +308,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 39
+      "score": 36
     },
     {
       "id": "49466177",
@@ -299,7 +334,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 37
+      "score": 33
     },
     {
       "id": "49523086",
@@ -761,34 +796,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
       "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49544673",
-      "headline": "English FA maintains that Gianni Infantino wrong president despite FIFA support - report",
-      "description": "The Football Association continues to believe Gianni Infantino is no longer the right man to lead FIFA despite his own organisation throwing its \"full support\" behind him on Wednesday night.",
-      "published": "2026-08-06T12:53:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49544673/english-fa-maintains-stance-infantino-wrong-president-fifa-support",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698315_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49537988",
-      "headline": "European leagues pile pressure on Infantino amid 'crisis' meeting",
-      "description": "The association of European soccer leagues called for governance reform of FIFA on Wednesday, adding to the mounting pressure on president Gianni Infantino following his failed plan",
-      "published": "2026-08-05T20:41:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49537988/european-leagues-fifa-gianni-infantino-meeting",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695694_1296x729_16-9.jpg",
-      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
