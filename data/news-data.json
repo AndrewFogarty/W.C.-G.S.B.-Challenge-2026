@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-13T16:10:14.439Z",
+  "updated": "2026-08-13T17:13:20.407Z",
   "counts": {
-    "news": 33,
+    "news": 31,
+    "offfield": 9,
     "preview": 6,
-    "offfield": 8,
-    "celebration": 1
+    "celebration": 2
   },
   "items": [
     {
@@ -22,7 +22,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 208
+      "score": 206
     },
     {
       "id": "49598001",
@@ -38,7 +38,7 @@
         "USA"
       ],
       "players": [],
-      "score": 199
+      "score": 197
     },
     {
       "id": "49598888",
@@ -52,7 +52,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 178
+      "score": 177
     },
     {
       "id": "49588771",
@@ -66,7 +66,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 145
+      "score": 144
     },
     {
       "id": "49592307",
@@ -82,25 +82,27 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 139
+      "score": 138
     },
     {
-      "id": "49591895",
-      "headline": "Does the Community Shield preview Premier League? History provides the answer",
-      "description": "The Community Shield marks the final stretch before the start of the new Premier League season. But should fans take anything away from the result?",
-      "published": "2026-08-13T12:40:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49591895/does-community-shield-mean-anything-premier-league-title-race-history-provides-answer",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700852_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49598413",
+      "headline": "Manchester City transfers: Jérémy Doku pens new deal, Tijjani Reinders set to leave",
+      "description": "Jérémy Doku has become the latest Manchester City player to extend his contract after signing a new five-year deal, the club have confirmed.",
+      "published": "2026-08-13T11:04:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49598413/manchester-city-transfers-jeremy-doku-pens-new-deal-tijjani-reijnders-set-leave",
+      "image": "https://a.espncdn.com/photo/2026/0621/r1677111_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Spain"
       ],
       "players": [
+        "Jérémy Doku",
+        "Tijjani Reijnders",
         "Ferran Torres"
       ],
-      "score": 137
+      "score": 136
     },
     {
       "id": "48897670",
@@ -118,7 +120,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 136
+      "score": 134
     },
     {
       "id": "49599261",
@@ -136,7 +138,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 135
+      "score": 134
     },
     {
       "id": "49576985",
@@ -154,25 +156,44 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 132
+      "score": 131
     },
     {
-      "id": "49599487",
-      "headline": "Former referee Anthony Taylor speaks out on reasons for stepping away from English game",
-      "description": "After 20 years as an English football referee, Anthony Taylor will not be involved at the start of the upcoming season -- he explains what caused him to make such a drastic decision.",
-      "published": "2026-08-13T12:42:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49599487/former-referee-anthony-taylor-speaks-reasons-stepping-away-english-game",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687722_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49598808",
+      "headline": "Marquinhos: Every trophy matters for the history of PSG",
+      "description": "Marquinhos: Every trophy matters for the history of PSG",
+      "published": "2026-08-13T10:31:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/49598808/every-trophy-matters-history-psg",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_Marquinhos_Every_trophy_matters_for_the_history_of_PSG/dm_260813_Marquinhos_Every_trophy_matters_for_the_history_of_PSG.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Marquinhos",
+        "Ferran Torres"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49591895",
+      "headline": "Does the Community Shield preview Premier League? History provides the answer",
+      "description": "The Community Shield marks the final stretch before the start of the new Premier League season. But should fans take anything away from the result?",
+      "published": "2026-08-13T09:18:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49591895/does-community-shield-mean-anything-premier-league-title-race-history-provides-answer",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700852_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "Spain"
       ],
       "players": [
         "Ferran Torres"
       ],
-      "score": 128
+      "score": 130
     },
     {
       "id": "49599121",
@@ -191,7 +212,7 @@
         "Izwan Mahbud",
         "Ferran Torres"
       ],
-      "score": 127
+      "score": 126
     },
     {
       "id": "49163915",
@@ -209,7 +230,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 127
+      "score": 125
     },
     {
       "id": "49585269",
@@ -225,7 +246,7 @@
         "USA"
       ],
       "players": [],
-      "score": 86
+      "score": 84
     },
     {
       "id": "49582283",
@@ -241,7 +262,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 65
+      "score": 63
     },
     {
       "id": "49577750",
@@ -259,7 +280,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 46
+      "score": 44
     },
     {
       "id": "49540676",
@@ -273,7 +294,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 38
+      "score": 36
     },
     {
       "id": "49579404",
@@ -287,7 +308,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 38
+      "score": 36
     },
     {
       "id": "49466177",
@@ -329,7 +350,7 @@
         "USA"
       ],
       "players": [],
-      "score": 24
+      "score": 22
     },
     {
       "id": "49523086",
@@ -466,20 +487,6 @@
       "score": 19
     },
     {
-      "id": "49573256",
-      "headline": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan",
-      "description": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup.",
-      "published": "2026-08-10T15:49:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 17
-    },
-    {
       "id": "49543519",
       "headline": "Argentina announces commemorative day to celebrate World Cup win over England",
       "description": "Argentina's Football Association unanimously approved for July 15 to be 'National Football Teams Day' in commemoration of the Albiceleste's victory over England in the semifinals of the 2026 World Cup.",
@@ -495,6 +502,20 @@
       ],
       "players": [],
       "score": 17
+    },
+    {
+      "id": "49573256",
+      "headline": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan",
+      "description": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup.",
+      "published": "2026-08-10T15:49:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
     },
     {
       "id": "47978642",
@@ -775,20 +796,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
       "byline": "Shubi Arun",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49545822",
-      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
-      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
-      "published": "2026-08-06T16:47:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
-      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
