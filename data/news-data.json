@@ -1,14 +1,27 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-13T10:46:56.059Z",
+  "updated": "2026-08-13T11:35:45.026Z",
   "counts": {
-    "news": 29,
-    "preview": 6,
-    "injury": 1,
-    "offfield": 11,
+    "news": 33,
+    "preview": 5,
+    "offfield": 9,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49598888",
+      "headline": "CAF boss: Only elections can decide Gianni Infantino's FIFA future",
+      "description": "African football boss Patrice Motsepe has said that the position of embattled president Gianni Infantino can only be decided by FIFA elections.",
+      "published": "2026-08-13T10:58:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49598888/gianni-infantino-fifa-caf-uefa-afc-football",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701197_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
     {
       "id": "49588771",
       "headline": "Former FIFA Council member Isha Johansen says Gianni Infantino should step down 'for the good of football'",
@@ -21,7 +34,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 183
+      "score": 172
     },
     {
       "id": "49592307",
@@ -37,7 +50,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 177
+      "score": 166
     },
     {
       "id": "49576985",
@@ -55,141 +68,47 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 170
+      "score": 159
     },
     {
-      "id": "49580143",
-      "headline": "Justin Madugu, Asisat Oshoala - Super Falcons determined not to follow Super Eagles out of World Cup",
-      "description": "Nigeria coach Justine Madugu and forward Asisat Oshoala say the Super Falcons are determined not to follow the Super Eagles out of World Cup contention.",
-      "published": "2026-08-13T07:22:50Z",
-      "url": "https://www.espn.com/espn/story/_/id/49580143/justin-madugu-asisat-oshoala-super-falcons-determined-not-follow-super-eagles-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694225_1296x729_16-9.jpg",
+      "id": "49597362",
+      "headline": "Ghana's Black Queens demand outstanding bonuses ahead of World Cup playoff",
+      "description": "Ghana's Black Queens have demanded the immediate payment of outstanding bonuses and allowances as they prepare to continue their pursuit of a place at the 2027 FIFA Women's World Cup.",
+      "published": "2026-08-13T06:56:41Z",
+      "url": "https://www.espn.com/espn/story/_/id/49597362/ghana-black-queens-demand-outstanding-bonuses-ahead-world-cup-playoff",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701161_1296x729_16-9.png",
       "byline": "Colin Udoh",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "Spain",
-        "South Africa"
+        "Ghana"
       ],
       "players": [
-        "Asisat Oshoala",
         "Ferran Torres"
       ],
-      "score": 142
+      "score": 135
     },
     {
-      "id": "49597770",
-      "headline": "Transfer rumors, news: Chelsea eye Zubimendi as Enzo Fernández replacement",
-      "description": "Chelsea could sign Arsenal midfielder Martín Zubimendi if Enzo Fernández joins Manchester City this summer. Transfer Talk has the latest.",
-      "published": "2026-08-13T08:18:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49597770/transfer-rumors-news-chelsea-eye-arsenal-zubimendi-replace-man-city-target-enzo-fernandez",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701169_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Martín Zubimendi",
-        "Enzo Fernández",
-        "Ferran Torres"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49597721",
-      "headline": "Galatasaray make bid to sign Arsenal's Gabriel Martinelli - sources",
-      "description": "Galatasaray have made a €45million ($51.8m) bid to sign Gabriel Martinelli from Arsenal, sources have told ESPN.",
-      "published": "2026-08-13T07:36:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49597721/galatasaray-make-bid-sign-arsenal-gabriel-martinelli-sources",
-      "image": "https://a.espncdn.com/photo/2025/0916/r1546641_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Gabriel Martinelli",
-        "Ferran Torres"
-      ],
-      "score": 140
-    },
-    {
-      "id": "49579979",
-      "headline": "South Africa vs. Nigeria - Kick-off time, team news, permutations, how to watch",
-      "description": "Banyana Banyana and the Super Falcons will face off in Casablanca on Thursday after their Women's Africa Cup of Nations quarter-final exits.",
-      "published": "2026-08-13T07:23:32Z",
-      "url": "https://www.espn.com/espn/story/_/id/49579979/south-africa-vs-nigeria-kick-team-news-permutations-how-watch",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698271_1296x729_16-9.png",
+      "id": "49597255",
+      "headline": "Des Ellis, Banyana struggling to find a talent pool to replace Thembi Kgatlana and co.",
+      "description": "Banyana Banyana head coach Desiree Ellis finds herself between a rock and a hard place, as African football has jumped ahead of her since Banyana's maiden triumph in 2022.",
+      "published": "2026-08-13T06:34:12Z",
+      "url": "https://www.espn.com/espn/story/_/id/49597255/des-ellis-banyana-struggling-find-talent-pool-replace-thembi-kgatlana-co",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701156_1296x729_16-9.png",
       "byline": "Leonard Solms",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
         "Spain",
-        "South Africa"
+        "South Africa",
+        "Morocco"
       ],
       "players": [
+        "Thembi Kgatlana",
         "Ferran Torres"
       ],
-      "score": 137
-    },
-    {
-      "id": "49580408",
-      "headline": "Lebohang Ramalepe calls on Banyana to up mental strength ahead of Nigeria clash - 'We lost hope and faith'",
-      "description": "South Africa's Lebohang Ramalepe has urged her teammates to be stronger mentally and challenge themselves to raise their game in this week's FIFA Women's World Cup 'play-in' against Nigeria on Thursday.",
-      "published": "2026-08-13T07:22:05Z",
-      "url": "https://www.espn.com/espn/story/_/id/49580408/lebohang-ramalepe-calls-banyana-mental-strength-ahead-nigeria-clash-lost-hope-faith",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700216_997x561_16-9.png",
-      "byline": "Ed Dove",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Spain",
-        "South Africa"
-      ],
-      "players": [
-        "Lebohang Ramalepe",
-        "Ferran Torres"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49154575",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "published": "2026-08-13T07:12:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "byline": "Grace Allen",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49597932",
-      "headline": "'We are playing to build a team' - Emery on Aston Villa's Super Cup defeat",
-      "description": "'We are playing to build a team' - Emery on Aston Villa's Super Cup defeat",
-      "published": "2026-08-13T08:29:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/49597932/we-playing-build-team-emery-aston-villa-super-cup-defeat",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_Presser_We_are_playing_to_build_a_team_Emery_on_Aston_Villas_Super_Cup_defeat_202608/dm_260813_COM_SOC_Presser_We_are_playing_to_build_a_team_Emery_on_Aston_Villas_Super_Cup_defeat_202608.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 130
+      "score": 134
     },
     {
       "id": "48955344",
@@ -207,7 +126,119 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 127
+      "score": 126
+    },
+    {
+      "id": "49592465",
+      "headline": "Thailand captain Sarach Yooyen's Midas touch at the ASEAN Championship",
+      "description": "Already the ASEAN Championship's most-successful player, Thailand captain Sarach Yooyen is eyeing a fifth title in 2026.",
+      "published": "2026-08-13T06:51:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49592465/thailand-captain-sarach-yooyen-midas-touch-asean-championship",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700877_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Sarach Yooyen",
+        "Ferran Torres"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49597116",
+      "headline": "Toluca vs. FC Dallas - Game Highlights",
+      "description": "Watch the Game Highlights from Toluca vs. FC Dallas, 08/12/2026",
+      "published": "2026-08-13T05:57:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/49597116/toluca-vs-fc-dallas-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/eb12bc8e-05b8-4b59-bbbd-0a5f85092b0e/eb12bc8e-05b8-4b59-bbbd-0a5f85092b0e.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Federico Viñas",
+        "Pável Pérez",
+        "Jorge Díaz",
+        "Jesús Gallardo",
+        "Érick Gutiérrez",
+        "Ferran Torres"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49597115",
+      "headline": "San Diego FC vs. Puebla - Game Highlights",
+      "description": "Watch the Game Highlights from San Diego FC vs. Puebla, 08/12/2026",
+      "published": "2026-08-13T05:56:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49597115/san-diego-fc-vs-puebla-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/2f7cf882-62a9-47a6-9959-25c158914125/2f7cf882-62a9-47a6-9959-25c158914125.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "David Vazquez",
+        "Eduardo Mustre",
+        "Juan Pablo Vargas",
+        "Dagur Thórhallsson",
+        "Kevin Velasco",
+        "Ferran Torres"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49596726",
+      "headline": "Seattle Sounders FC vs. Guadalajara - Game Highlights",
+      "description": "Watch the Game Highlights from Seattle Sounders FC vs. Guadalajara, 08/12/2026",
+      "published": "2026-08-13T05:48:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49596726/seattle-sounders-fc-vs-guadalajara-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/9d27e12d-88e4-439d-922c-525106131031/9d27e12d-88e4-439d-922c-525106131031.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Brian Gutiérrez",
+        "Santiago Sandoval",
+        "Gallatin Sandnes",
+        "Ryan Sailor",
+        "Luis Gabriel Rey",
+        "Ferran Torres"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49596787",
+      "headline": "LAFC vs. Querétaro - Game Highlights",
+      "description": "Watch the Game Highlights from LAFC vs. Querétaro, 08/12/2026",
+      "published": "2026-08-13T05:21:14Z",
+      "url": "https://www.espn.com/video/clip/_/id/49596787/lafc-vs-queretaro-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0813/0b005aec-61c6-4f9c-a442-e78601b02050/0b005aec-61c6-4f9c-a442-e78601b02050.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Denis Bouanga",
+        "Ryan Porteous",
+        "Yevhen Cheberko",
+        "Ryan Hollingshead",
+        "Daniel Parra",
+        "Ali Avila",
+        "Ferran Torres"
+      ],
+      "score": 124
     },
     {
       "id": "49585269",
@@ -223,7 +254,7 @@
         "USA"
       ],
       "players": [],
-      "score": 124
+      "score": 112
     },
     {
       "id": "49582283",
@@ -239,7 +270,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 103
+      "score": 91
     },
     {
       "id": "49579404",
@@ -253,7 +284,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 76
+      "score": 65
     },
     {
       "id": "49577750",
@@ -271,7 +302,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 74
+      "score": 63
     },
     {
       "id": "49540676",
@@ -285,7 +316,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 46
+      "score": 45
     },
     {
       "id": "49575753",
@@ -301,21 +332,7 @@
         "USA"
       ],
       "players": [],
-      "score": 42
-    },
-    {
-      "id": "49573256",
-      "headline": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan",
-      "description": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup.",
-      "published": "2026-08-10T15:49:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 26
+      "score": 31
     },
     {
       "id": "49466177",
@@ -342,6 +359,20 @@
         "Nestory Irankunda"
       ],
       "score": 25
+    },
+    {
+      "id": "49573256",
+      "headline": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan",
+      "description": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup.",
+      "published": "2026-08-10T15:49:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 24
     },
     {
       "id": "49523086",
@@ -789,20 +820,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
       "byline": "Shubi Arun",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49545822",
-      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
-      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
-      "published": "2026-08-06T16:47:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
-      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
