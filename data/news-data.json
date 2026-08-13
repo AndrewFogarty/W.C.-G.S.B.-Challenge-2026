@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-13T17:13:20.407Z",
+  "updated": "2026-08-13T18:10:33.448Z",
   "counts": {
-    "news": 31,
-    "offfield": 9,
-    "preview": 6,
-    "celebration": 2
+    "news": 32,
+    "offfield": 10,
+    "preview": 5,
+    "celebration": 1
   },
   "items": [
     {
@@ -22,7 +22,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 206
+      "score": 205
     },
     {
       "id": "49598001",
@@ -38,7 +38,7 @@
         "USA"
       ],
       "players": [],
-      "score": 197
+      "score": 196
     },
     {
       "id": "49598888",
@@ -52,7 +52,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 177
+      "score": 175
     },
     {
       "id": "49588771",
@@ -66,7 +66,45 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 144
+      "score": 142
+    },
+    {
+      "id": "49600103",
+      "headline": "Youri Tielemans apologises to Aston Villa fans following comments regarding Manchester United move",
+      "description": "Youri Tielemans has taken to social media to apologise to Aston Villa fans for comments he made regarding his move to Manchester United.",
+      "published": "2026-08-13T14:39:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49600103/youri-tielemans-apologises-aston-villa-fans-following-comments-regarding-manchester-united-move",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699100_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Youri Tielemans",
+        "Ferran Torres"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49600090",
+      "headline": "Doku: 'I'm an unfinished product' after new Manchester City contract",
+      "description": "Doku: 'I'm an unfinished product' after new Manchester City contract",
+      "published": "2026-08-13T14:33:00Z",
+      "url": "https://www.espn.com/video/clip/_/id/49600090/unfinished-product-new-manchester-city-contract",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_Dok_Im_an_unfinished_product_after_new_Manchester_City_contract/dm_260813_Dok_Im_an_unfinished_product_after_new_Manchester_City_contract.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Jérémy Doku",
+        "Ferran Torres"
+      ],
+      "score": 140
     },
     {
       "id": "49592307",
@@ -82,26 +120,6 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 138
-    },
-    {
-      "id": "49598413",
-      "headline": "Manchester City transfers: Jérémy Doku pens new deal, Tijjani Reinders set to leave",
-      "description": "Jérémy Doku has become the latest Manchester City player to extend his contract after signing a new five-year deal, the club have confirmed.",
-      "published": "2026-08-13T11:04:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49598413/manchester-city-transfers-jeremy-doku-pens-new-deal-tijjani-reijnders-set-leave",
-      "image": "https://a.espncdn.com/photo/2026/0621/r1677111_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Jérémy Doku",
-        "Tijjani Reijnders",
-        "Ferran Torres"
-      ],
       "score": 136
     },
     {
@@ -120,7 +138,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 134
+      "score": 133
     },
     {
       "id": "49599261",
@@ -138,7 +156,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 134
+      "score": 132
     },
     {
       "id": "49576985",
@@ -156,44 +174,25 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 131
+      "score": 129
     },
     {
-      "id": "49598808",
-      "headline": "Marquinhos: Every trophy matters for the history of PSG",
-      "description": "Marquinhos: Every trophy matters for the history of PSG",
-      "published": "2026-08-13T10:31:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49598808/every-trophy-matters-history-psg",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_Marquinhos_Every_trophy_matters_for_the_history_of_PSG/dm_260813_Marquinhos_Every_trophy_matters_for_the_history_of_PSG.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Marquinhos",
-        "Ferran Torres"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49591895",
-      "headline": "Does the Community Shield preview Premier League? History provides the answer",
-      "description": "The Community Shield marks the final stretch before the start of the new Premier League season. But should fans take anything away from the result?",
-      "published": "2026-08-13T09:18:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49591895/does-community-shield-mean-anything-premier-league-title-race-history-provides-answer",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700852_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49599487",
+      "headline": "Former referee Anthony Taylor speaks out on reasons for stepping away from English game",
+      "description": "After 20 years as an English football referee, Anthony Taylor will not be involved at the start of the upcoming season -- he explains what caused him to make such a drastic decision.",
+      "published": "2026-08-13T12:42:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49599487/former-referee-anthony-taylor-speaks-reasons-stepping-away-english-game",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687722_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Spain"
       ],
       "players": [
         "Ferran Torres"
       ],
-      "score": 130
+      "score": 125
     },
     {
       "id": "49599121",
@@ -212,25 +211,7 @@
         "Izwan Mahbud",
         "Ferran Torres"
       ],
-      "score": 126
-    },
-    {
-      "id": "49163915",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
-      "published": "2026-08-13T11:53:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 125
+      "score": 124
     },
     {
       "id": "49585269",
@@ -246,7 +227,7 @@
         "USA"
       ],
       "players": [],
-      "score": 84
+      "score": 83
     },
     {
       "id": "49582283",
@@ -262,7 +243,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 63
+      "score": 62
     },
     {
       "id": "49577750",
@@ -280,7 +261,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 44
+      "score": 43
     },
     {
       "id": "49540676",
@@ -294,7 +275,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 36
+      "score": 35
     },
     {
       "id": "49579404",
@@ -308,7 +289,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 36
+      "score": 35
     },
     {
       "id": "49466177",
@@ -335,22 +316,6 @@
         "Nestory Irankunda"
       ],
       "score": 25
-    },
-    {
-      "id": "49575753",
-      "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
-      "description": "Omar Artan -- the Somali World Cup referee refused entry to the United States -- has spoken about the \"very tough period\" during what should have been the highlight of his career.",
-      "published": "2026-08-10T17:30:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49575753/barred-somali-world-cup-ref-grateful-super-cup-shot",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670161_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 22
     },
     {
       "id": "49523086",
@@ -471,6 +436,22 @@
       "score": 22
     },
     {
+      "id": "49575753",
+      "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
+      "description": "Omar Artan -- the Somali World Cup referee refused entry to the United States -- has spoken about the \"very tough period\" during what should have been the highlight of his career.",
+      "published": "2026-08-10T17:30:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49575753/barred-somali-world-cup-ref-grateful-super-cup-shot",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670161_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 21
+    },
+    {
       "id": "49525299",
       "headline": "Pochettino will now face a different pressure as USMNT boss",
       "description": "Now that he has four years to plan for another World Cup, the demands on Mauricio Pochettino will be entirely different than what he has encountered so far.",
@@ -515,7 +496,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 16
+      "score": 14
     },
     {
       "id": "47978642",
@@ -796,6 +777,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
       "byline": "Shubi Arun",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49545822",
+      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
+      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
+      "published": "2026-08-06T16:47:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
