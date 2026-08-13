@@ -1,11 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-13T07:03:19.282Z",
+  "updated": "2026-08-13T08:40:17.137Z",
   "counts": {
-    "news": 33,
+    "news": 31,
     "preview": 3,
-    "offfield": 10,
-    "celebration": 2
+    "injury": 1,
+    "offfield": 12,
+    "celebration": 1
   },
   "items": [
     {
@@ -20,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 189
+      "score": 187
     },
     {
       "id": "49592307",
@@ -36,7 +37,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 183
+      "score": 181
     },
     {
       "id": "49576985",
@@ -54,25 +55,86 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 176
+      "score": 173
     },
     {
-      "id": "49593650",
-      "headline": "Moreno: Barcelona must have a plan B if Alvarez transfer fails",
-      "description": "Moreno: Barcelona must have a plan B if Alvarez transfer fails",
-      "published": "2026-08-12T22:14:52Z",
-      "url": "https://www.espn.com/video/clip/_/id/49593650/barcelona-plan-b-alvarez-transfer-fails",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_COM_SOC_Analysis_Moreno3A_Barcelona_must_have_a_plan_B_if_Alvarez_transfer_fails__GLOBAL_2026-08-12/dm_260812_COM_SOC_Analysis_Moreno3A_Barcelona_must_have_a_plan_B_if_Alvarez_transfer_fails__GLOBAL_2026-08-12.jpg",
-      "byline": null,
+      "id": "49594061",
+      "headline": "Miami out of Leagues Cup despite Messi return after dad's death",
+      "description": "Lionel Messi rejoined Inter Miami CF on Wednesday following the passing of his father, Jorge Messi, for their Leagues Cup game against Club Leon on the bench at Nu Stadium.",
+      "published": "2026-08-13T01:42:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49594061/lionel-messi-back-inter-miami-bench-father-death",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700995_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Ferran Torres"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49594364",
+      "headline": "Socceroo Herrington makes move to Premier League",
+      "description": "Lucas Herrington's move to Hull City has been confirmed, with the newly-promoted Premier League side announcing the signing of the Australian international from the Colorado Rapids on a five-year contract on Wednesday.",
+      "published": "2026-08-13T00:46:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49594364/socceroos-hull-city-lucas-herrington-makes-move-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1701010_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain",
+        "Australia"
+      ],
+      "players": [
+        "Lucas Herrington",
+        "Ferran Torres"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49594261",
+      "headline": "Arsenal's Mikel Arteta welcomes speculation around Myles Lewis-Skelly",
+      "description": "Arsenal manager Mikel Arteta has brushed off transfer speculation surrounding Myles Lewis-Skelly, saying he welcomes his players being linked with moves to other clubs.",
+      "published": "2026-08-12T23:28:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49594261/arsenal-myles-lewis-skelly-transfer-mikel-arteta-como",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700919_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Spain"
       ],
       "players": [
+        "Myles Lewis-Skelly",
         "Ferran Torres"
       ],
-      "score": 132
+      "score": 131
+    },
+    {
+      "id": "49594267",
+      "headline": "Sources: Atlético Madrid agree €40m deal with Tottenham for Cuti Romero",
+      "description": "Atlético Madrid and Tottenham have reached an agreement for Argentina defender Cristian 'Cuti' Romero in a deal worth €40 million, sources have told ESPN.",
+      "published": "2026-08-12T23:25:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49594267/sources-atletico-madrid-agree-40-million-deal-tottenham-cuti-romero",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700996_1296x729_16-9.jpg",
+      "byline": "Rodrigo Faez and Alex Kirkland",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "players": [
+        "Cristian Romero",
+        "Ferran Torres"
+      ],
+      "score": 131
     },
     {
       "id": "49585269",
@@ -88,25 +150,62 @@
         "USA"
       ],
       "players": [],
-      "score": 129
+      "score": 127
     },
     {
-      "id": "40850299",
-      "headline": "What is the Super Cup? UEFA soccer history, winners, more",
-      "description": "Learn more about the UEFA Super Cup's history now.",
-      "published": "2026-08-12T22:27:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/40850299/what-super-cup-uefa-soccer-history-winners-more",
-      "image": "https://a.espncdn.com/photo/2024/0814/r1373559_600x400_3-2.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49525764",
+      "headline": "Australia's top 10 most expensive transfers of all-time",
+      "description": "Where does Lucas Herrington sit in the list of most valuable Australian soccer transfers?",
+      "published": "2026-08-13T00:35:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49525764/australias-top-10-most-expensive-transfers-all",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1701010_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Australia"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 121
+    },
+    {
+      "id": "49594718",
+      "headline": "Vietnam's road to the 2026 ASEAN Championship semis",
+      "description": "Relive Vietnam's journey to the semifinals of the ASEAN Championship as the reigning champions look to successfully defend their crown.",
+      "published": "2026-08-13T00:15:26Z",
+      "url": "https://www.espn.com/video/clip/_/id/49594718/vietnam-road-2026-asean-championship-semis",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_ASEAN_Highlight_Vietnams_road_to_the_2026_ASEAN_Championship_semis_2026813_ESPN/dm_260812_ASEAN_Highlight_Vietnams_road_to_the_2026_ASEAN_Championship_semis_2026813_ESPN.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Spain"
       ],
       "players": [
         "Ferran Torres"
       ],
-      "score": 127
+      "score": 120
+    },
+    {
+      "id": "49594682",
+      "headline": "PSG defeat Aston Villa to win back-to-back Super Cups",
+      "description": "Désiré Doué's 61st-minute winner lifts PSG to a second successive UEFA Super Cup title following a hard-fought 2-1 victory over Aston Villa.",
+      "published": "2026-08-13T00:07:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/49594682/psg-defeat-aston-villa-win-back-back-super-cups",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_UEFA_Highlight_PSG_defeat_Aston_Villa_to_win_backtoback_Super_Cups_20260813_AUS_ONLY/dm_260812_UEFA_Highlight_PSG_defeat_Aston_Villa_to_win_backtoback_Super_Cups_20260813_AUS_ONLY.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [
+        "Ferran Torres"
+      ],
+      "score": 120
     },
     {
       "id": "49593781",
@@ -125,98 +224,7 @@
         "Brian Madjo",
         "Ferran Torres"
       ],
-      "score": 120
-    },
-    {
-      "id": "49593678",
-      "headline": "Mazraoui: Pitch invaders show 'big love' for United",
-      "description": "Noussair Mazraoui kept his cool amid a bizarre finish to Manchester United's pre-season friendly in Dublin, rolling in the decisive penalty as they beat Leeds United 5-4 in a shoot-out.",
-      "published": "2026-08-12T22:27:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49593678/mazraoui-big-love-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700975_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Noussair Mazraoui",
-        "Ferran Torres"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49593673",
-      "headline": "Who is the best manager in Europe?",
-      "description": "Who is the best manager in Europe?",
-      "published": "2026-08-12T22:15:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/49593673/who-best-manager-europe",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_COM_SOC_Analysis_Who_is_the_best_manager_in_Europe3F__GLOBAL_2026-08-12/dm_260812_COM_SOC_Analysis_Who_is_the_best_manager_in_Europe3F__GLOBAL_2026-08-12.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49593644",
-      "headline": "Moreno: Romero is the perfect Simeone and Atlético Madrid player",
-      "description": "Moreno: Romero is the perfect Simeone and Atlético Madrid player",
-      "published": "2026-08-12T22:14:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/49593644/romero-perfect-simeone-atletico-madrid-player",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_COM_SOC_Analysis_Moreno3A_Romero_is_the_perfect_Simeone_and_AtlC3A9tico_Madrid_player_GLOBAL_2026-08-1/dm_260812_COM_SOC_Analysis_Moreno3A_Romero_is_the_perfect_Simeone_and_AtlC3A9tico_Madrid_player_GLOBAL_2026-08-1.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49593619",
-      "headline": "Will PSG claim a third straight UEFA Champions League crown?",
-      "description": "Will PSG claim a third straight UEFA Champions League crown?",
-      "published": "2026-08-12T22:13:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/49593619/will-psg-claim-third-straight-uefa-champions-league-crown",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_COM_SOC_Analysis_Will_PSG_claim_a_third_straight_UEFA_Champions_League_crown3F__GLOBAL_2026-08-12/dm_260812_COM_SOC_Analysis_Will_PSG_claim_a_third_straight_UEFA_Champions_League_crown3F__GLOBAL_2026-08-12.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49593223",
-      "headline": "Real Madrid beat Deportivo in friendly with Brahim goal",
-      "description": "Real Madrid beat Deportivo La Coruña 1-0 in their latest pre-season friendly on Wednesday, with Brahim Diaz scoring just before halftime.",
-      "published": "2026-08-12T22:35:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49593223/real-madrid-beat-deportivo-friendly-brahim-goal",
-      "image": null,
-      "byline": "Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres"
-      ],
-      "score": 114
+      "score": 118
     },
     {
       "id": "49582283",
@@ -232,7 +240,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "49579404",
@@ -246,7 +254,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 81
+      "score": 79
     },
     {
       "id": "49577750",
@@ -264,7 +272,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 80
+      "score": 77
     },
     {
       "id": "49540676",
@@ -278,7 +286,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 52
+      "score": 49
     },
     {
       "id": "49575753",
@@ -294,7 +302,7 @@
         "USA"
       ],
       "players": [],
-      "score": 48
+      "score": 45
     },
     {
       "id": "49573256",
@@ -308,7 +316,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 31
+      "score": 29
     },
     {
       "id": "49466177",
@@ -334,7 +342,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 29
+      "score": 26
     },
     {
       "id": "49523086",
