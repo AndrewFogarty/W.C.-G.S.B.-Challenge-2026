@@ -1,12 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-14T07:46:35.631Z",
+  "updated": "2026-08-14T08:51:30.954Z",
   "counts": {
-    "news": 34,
-    "offfield": 9,
-    "injury": 1,
-    "preview": 3,
-    "celebration": 1
+    "news": 33,
+    "offfield": 10,
+    "celebration": 2,
+    "preview": 3
   },
   "items": [
     {
@@ -25,7 +24,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 196
+      "score": 195
     },
     {
       "id": "49599931",
@@ -41,7 +40,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 174
+      "score": 173
     },
     {
       "id": "49598001",
@@ -57,7 +56,7 @@
         "USA"
       ],
       "players": [],
-      "score": 166
+      "score": 164
     },
     {
       "id": "49598888",
@@ -71,7 +70,27 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 145
+      "score": 143
+    },
+    {
+      "id": "49604116",
+      "headline": "Tottenham's Djed Spence lands in Italy to complete Inter transfer",
+      "description": "Tottenham Hotspur defender Djed Spence has landed in Italy ahead of completing a move to Inter Milan.",
+      "published": "2026-08-14T01:54:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49604116/tottenham-djed-spence-inter-milan-transfer",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701482_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Djed Spence",
+        "Lionel Messi"
+      ],
+      "score": 135
     },
     {
       "id": "49603825",
@@ -89,25 +108,51 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 131
+      "score": 130
     },
     {
-      "id": "49603065",
-      "headline": "Rangers out of Europa League, Derek McInnes four without a win",
-      "description": "Derek McInnes's fledgling tenure as Rangers boss is in disarray after the they were knocked out of Europa League qualifiers with a 3-2 aggregate defeat to Jagiellonia Bialystok at Ibrox.",
-      "published": "2026-08-13T21:05:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49603065/rangers-europa-league-derek-mcinnes-four-win",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701417_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49604693",
+      "headline": "Banyana advance to World Cup play-offs, Nigeria eliminated",
+      "description": "Nigeria will miss the FIFA Women's World Cup for the first time in history after a 1-2 'play-in' loss to South Africa.",
+      "published": "2026-08-14T01:19:15Z",
+      "url": "https://www.espn.com/espn/story/_/id/49604693/wafcon-2026-banyana-south-africa-advance-world-cup-play-offs-nigeria-eliminated",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701522_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina",
+        "South Africa"
+      ],
+      "players": [
+        "Asisat Oshoala",
+        "Thembi Kgatlana",
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49605679",
+      "headline": "Cruz Azul vs. Chicago Fire FC - Game Highlights",
+      "description": "Watch the Game Highlights from Cruz Azul vs. Chicago Fire FC, 08/13/2026",
+      "published": "2026-08-14T03:17:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49605679/cruz-azul-vs-chicago-fire-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0814/420d62d2-d82e-450c-ad3e-753a0eccd81d/420d62d2-d82e-450c-ad3e-753a0eccd81d.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
+        "Puso Dithejane",
+        "Nicolás Ibáñez",
+        "Robin Lod",
+        "José Paradela",
+        "Chris Brady",
         "Lionel Messi"
       ],
-      "score": 131
+      "score": 125
     },
     {
       "id": "49603893",
@@ -125,7 +170,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 120
+      "score": 118
     },
     {
       "id": "49603875",
@@ -143,30 +188,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 120
-    },
-    {
-      "id": "49603820",
-      "headline": "Banyana's win over Super Falcons proves their quality -- but lack of consistency is their achilles heel",
-      "description": "South Africa rolled back the years with a quality performance in Thursday's 2-1 win over Nigeria in Casablanca that wrapped up a place in the 2027 FIFA Women's World Cup Inter-Confederation playoffs.",
-      "published": "2026-08-13T22:48:39Z",
-      "url": "https://www.espn.com/espn/story/_/id/49603820/banyana-win-super-falcons-proves-their-quality-lack-consistency-their-achilles-heel",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701448_1296x729_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "South Africa",
-        "Côte d'Ivoire",
-        "Ghana"
-      ],
-      "players": [
-        "Asisat Oshoala",
-        "Thembi Kgatlana",
-        "Lionel Messi"
-      ],
-      "score": 120
+      "score": 118
     },
     {
       "id": "49603809",
@@ -184,7 +206,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 119
+      "score": 118
     },
     {
       "id": "49603780",
@@ -202,26 +224,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 119
-    },
-    {
-      "id": "49603330",
-      "headline": "Fabien Barthez reunited with Zinedine Zidane as France GK coach",
-      "description": "France coach Zinedine Zidane reunited with Fabien Barthez after he was named the national team's new goalkeeper coach on Thursday.",
-      "published": "2026-08-13T21:35:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49603330/fabien-barthez-zinedine-zidane-france-goalkeeper-coach",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701432_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "France"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 118
+      "score": 117
     },
     {
       "id": "49588771",
@@ -235,7 +238,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 112
+      "score": 110
     },
     {
       "id": "49592307",
@@ -251,7 +254,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 106
+      "score": 104
     },
     {
       "id": "49576985",
@@ -269,7 +272,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 99
+      "score": 97
     },
     {
       "id": "49585269",
@@ -285,7 +288,7 @@
         "USA"
       ],
       "players": [],
-      "score": 52
+      "score": 51
     },
     {
       "id": "49582283",
@@ -301,7 +304,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 31
+      "score": 30
     },
     {
       "id": "49577750",
@@ -510,7 +513,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 14
+      "score": 13
     },
     {
       "id": "49579404",
@@ -524,7 +527,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 14
+      "score": 13
     },
     {
       "id": "49537179",
