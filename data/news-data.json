@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-14T10:51:07.730Z",
+  "updated": "2026-08-14T11:36:33.253Z",
   "counts": {
-    "news": 34,
-    "offfield": 9,
-    "celebration": 2,
-    "preview": 3
+    "news": 35,
+    "offfield": 8,
+    "preview": 4,
+    "celebration": 1
   },
   "items": [
     {
@@ -24,7 +24,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 210
+      "score": 209
     },
     {
       "id": "49607480",
@@ -40,7 +40,7 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 197
+      "score": 196
     },
     {
       "id": "49600669",
@@ -54,7 +54,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 183
+      "score": 182
     },
     {
       "id": "47978642",
@@ -72,7 +72,45 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 162
+      "score": 161
+    },
+    {
+      "id": "49607175",
+      "headline": "Transfer rumors, news: Arsenal hold talks over Osimhen deal",
+      "description": "Galatasaray striker Victor Osimhen could be on his way to Premier League champions Arsenal. Transfer Talk has the latest.",
+      "published": "2026-08-14T08:13:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49607175/transfer-rumors-news-arsenal-hold-talks-galatasaray-victor-osimhen-deal",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701616_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Victor Osimhen",
+        "Kobbie Mainoo"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49607665",
+      "headline": "Jude Bellingham: Working with José Mourinho at Real Madrid is a 'dream'",
+      "description": "Jude Bellingham has described working with coach José Mourinho as \"a dream\" as the pair prepare to kick off the LaLiga season at Real Madrid.",
+      "published": "2026-08-14T09:21:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49607665/jude-bellingham-dream-jose-mourinho-real-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701623_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Jude Bellingham",
+        "Kobbie Mainoo"
+      ],
+      "score": 139
     },
     {
       "id": "49599931",
@@ -88,26 +126,25 @@
         "Morocco"
       ],
       "players": [],
-      "score": 140
+      "score": 139
     },
     {
-      "id": "49604116",
-      "headline": "Tottenham's Djed Spence lands in Italy to complete Inter transfer",
-      "description": "Tottenham Hotspur defender Djed Spence has landed in Italy ahead of completing a move to Inter Milan.",
-      "published": "2026-08-14T01:54:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49604116/tottenham-djed-spence-inter-milan-transfer",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701482_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49590285",
+      "headline": "LaLiga is back! But why aren't Barcelona, Real Madrid, Atlético playing?",
+      "description": "The new season of LaLiga kicks off without any of its biggest three clubs in action. But there are still plenty of reasons to tune in this weekend.",
+      "published": "2026-08-14T09:39:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49590285/why-arent-barcelona-real-madrid-atletico-playing-laliga-2026-27-season-begins",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701267_2_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland and Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "England"
       ],
       "players": [
-        "Djed Spence",
         "Kobbie Mainoo"
       ],
-      "score": 132
+      "score": 130
     },
     {
       "id": "49598001",
@@ -123,146 +160,44 @@
         "USA"
       ],
       "players": [],
-      "score": 131
+      "score": 130
     },
     {
-      "id": "49603825",
-      "headline": "Leboeuf: Doku's 2032 deal crucial for Man City",
-      "description": "Leboeuf: Doku's 2032 deal crucial for Man City",
-      "published": "2026-08-13T22:43:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/49603825/doku-2032-deal-crucial-man-city",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALSYSIS_Leboeuf_Dokus_2032_deal_crucial_for_Man_City_2026_8_13/dm_260813_COM_SOC_ANALSYSIS_Leboeuf_Dokus_2032_deal_crucial_for_Man_City_2026_8_13.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49601516",
+      "headline": "Predicting where Premier League betting odds are wrong﻿ this season",
+      "description": "Premier League betting odds have picks for who will win the league, get relegated, win the Golden Boot and more. But where might those odds be off base?",
+      "published": "2026-08-14T08:21:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49601516/predicting-where-premier-league-betting-odds-wrong-2026-27-season",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701481_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "England"
       ],
       "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49607283",
+      "headline": "ASEAN Championship golden boot leader Nguyễn Đình Bắc flies homegrown talent flag for Vietnam",
+      "description": "Despite benefiting from naturalisation, Vietnam continue to produce excellent homegrown talent -- led by the ASEAN Championship's current top scorer.",
+      "published": "2026-08-14T07:55:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49607283/asean-championship-golden-boot-leader-nguyen-dinh-bac-flies-homegrown-talent-flag-vietnam",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701615_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Nguyen Dình Bac",
         "Kobbie Mainoo"
       ],
       "score": 127
-    },
-    {
-      "id": "49604693",
-      "headline": "Banyana advance to World Cup play-offs, Nigeria eliminated",
-      "description": "Nigeria will miss the FIFA Women's World Cup for the first time in history after a 1-2 'play-in' loss to South Africa.",
-      "published": "2026-08-14T01:19:15Z",
-      "url": "https://www.espn.com/espn/story/_/id/49604693/wafcon-2026-banyana-south-africa-advance-world-cup-play-offs-nigeria-eliminated",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701522_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "England",
-        "South Africa"
-      ],
-      "players": [
-        "Asisat Oshoala",
-        "Thembi Kgatlana",
-        "Kobbie Mainoo"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49606660",
-      "headline": "World Cup hero Vine a boost for A-League Women",
-      "description": "ESPN's The Far Post discuss how Cortnee Vine's return to the league is a huge positive for the player herself, Melbourne City, the Matildas, and the league as a whole.",
-      "published": "2026-08-14T05:46:47Z",
-      "url": "https://www.espn.com/video/clip/_/id/49606660/world-cup-hero-vine-boost-league-women",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0814/dm_260814_Soccer_Analysis_World_Cup_hero_Vine_a_boost_for_A_League_Women_20260814/dm_260814_Soccer_Analysis_World_Cup_hero_Vine_a_boost_for_A_League_Women_20260814.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Australia"
-      ],
-      "players": [
-        "Cortnee Vine",
-        "Kobbie Mainoo"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49606050",
-      "headline": "Tournament of errors ends with World Cup elimination for Nigeria's Super Falcons",
-      "description": "Record ten-time WAFCON champions Nigeria missed out on the FIFA Women's World Cup for the first time ever.",
-      "published": "2026-08-14T04:56:14Z",
-      "url": "https://www.espn.com/espn/story/_/id/49606050/tournament-errors-ends-world-cup-elimination-nigeria-super-falcons-south-africa-banyana-wafcon",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701593_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "South Africa"
-      ],
-      "players": [
-        "Asisat Oshoala",
-        "Thembi Kgatlana",
-        "Kobbie Mainoo"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49605679",
-      "headline": "Cruz Azul vs. Chicago Fire FC - Game Highlights",
-      "description": "Watch the Game Highlights from Cruz Azul vs. Chicago Fire FC, 08/13/2026",
-      "published": "2026-08-14T03:17:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49605679/cruz-azul-vs-chicago-fire-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0814/420d62d2-d82e-450c-ad3e-753a0eccd81d/420d62d2-d82e-450c-ad3e-753a0eccd81d.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Puso Dithejane",
-        "Nicolás Ibáñez",
-        "Robin Lod",
-        "José Paradela",
-        "Chris Brady",
-        "Kobbie Mainoo"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49603893",
-      "headline": "Will new IFAB rules impact Arsenal most in the Premier League?",
-      "description": "Will new IFAB rules impact Arsenal most in the Premier League?",
-      "published": "2026-08-13T22:58:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/49603893/will-new-ifab-rules-impact-arsenal-most-premier-league",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALYSIS_Will_new_IFAB_rules_impact_Arsenal_most_in_the_Premier_League_2026_8_13/dm_260813_COM_SOC_ANALYSIS_Will_new_IFAB_rules_impact_Arsenal_most_in_the_Premier_League_2026_8_13.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49603875",
-      "headline": "Is Enzo Fernandez the right fit for Man City?",
-      "description": "Is Enzo Fernandez the right fit for Man City?",
-      "published": "2026-08-13T22:53:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/49603875/is-enzo-fernandez-right-fit-man-city",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALYSIS_Is_Enzo_Fernandez_the_right_fit_for_Man_City_2026_8_13/dm_260813_COM_SOC_ANALYSIS_Is_Enzo_Fernandez_the_right_fit_for_Man_City_2026_8_13.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 115
     },
     {
       "id": "49598888",
@@ -276,7 +211,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 110
+      "score": 109
     },
     {
       "id": "49588771",
@@ -290,7 +225,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 77
+      "score": 76
     },
     {
       "id": "49576985",
@@ -308,7 +243,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 74
+      "score": 73
     },
     {
       "id": "49592307",
@@ -324,7 +259,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 71
+      "score": 70
     },
     {
       "id": "49585269",
@@ -340,7 +275,7 @@
         "USA"
       ],
       "players": [],
-      "score": 38
+      "score": 36
     },
     {
       "id": "49582283",
@@ -356,7 +291,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 27
+      "score": 25
     },
     {
       "id": "49577750",
@@ -592,34 +527,6 @@
       "score": 13
     },
     {
-      "id": "49540676",
-      "headline": "Was Figo right to criticize FIFA president Infantino?",
-      "description": "Was Figo right to criticize FIFA president Infantino?",
-      "published": "2026-08-11T05:24:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49579404",
-      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
-      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
-      "published": "2026-08-11T05:22:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 10
-    },
-    {
       "id": "49575753",
       "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
       "description": "Omar Artan -- the Somali World Cup referee refused entry to the United States -- has spoken about the \"very tough period\" during what should have been the highlight of his career.",
@@ -733,6 +640,34 @@
       "score": 10
     },
     {
+      "id": "49540676",
+      "headline": "Was Figo right to criticize FIFA president Infantino?",
+      "description": "Was Figo right to criticize FIFA president Infantino?",
+      "published": "2026-08-11T05:24:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 9
+    },
+    {
+      "id": "49579404",
+      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
+      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
+      "published": "2026-08-11T05:22:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 9
+    },
+    {
       "id": "49573256",
       "headline": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan",
       "description": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup.",
@@ -810,6 +745,48 @@
       "url": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
       "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
       "byline": "Sam Tighe",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49545189",
+      "headline": "UEFA stands by World Cup boycott plans despite FIFA, Gianni Infantino apology",
+      "description": "UEFA said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
+      "published": "2026-08-06T20:04:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49545822",
+      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
+      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
+      "published": "2026-08-06T16:47:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49544673",
+      "headline": "English FA maintains that Gianni Infantino wrong president despite FIFA support - report",
+      "description": "The Football Association continues to believe Gianni Infantino is no longer the right man to lead FIFA despite his own organisation throwing its \"full support\" behind him on Wednesday night.",
+      "published": "2026-08-06T12:53:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49544673/english-fa-maintains-stance-infantino-wrong-president-fifa-support",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698315_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
