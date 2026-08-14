@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-14T12:27:33.752Z",
+  "updated": "2026-08-14T13:56:41.869Z",
   "counts": {
-    "news": 36,
+    "news": 34,
+    "injury": 1,
+    "offfield": 8,
     "preview": 4,
-    "offfield": 7,
     "celebration": 1
   },
   "items": [
@@ -24,7 +25,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 208
+      "score": 205
     },
     {
       "id": "49607480",
@@ -40,7 +41,7 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 195
+      "score": 192
     },
     {
       "id": "49600669",
@@ -54,7 +55,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 181
+      "score": 179
     },
     {
       "id": "47978642",
@@ -72,26 +73,63 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 159
+      "score": 157
     },
     {
-      "id": "49607665",
-      "headline": "Jude Bellingham: Working with José Mourinho at Real Madrid is a 'dream'",
-      "description": "Jude Bellingham has described working with coach José Mourinho as \"a dream\" as the pair prepare to kick off the LaLiga season at Real Madrid.",
-      "published": "2026-08-14T09:21:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49607665/jude-bellingham-dream-jose-mourinho-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701623_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
+      "id": "49608266",
+      "headline": "Barcelona's Frenkie de Jong: 'Fake news does damage to my image'",
+      "description": "Barcelona midfielder Frenkie de Jong has hit out at fake news that has \"angered and irritated\" him after being ruled out for months with a knee injury.",
+      "published": "2026-08-14T11:28:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49608266/barcelona-frenkie-de-jong-fake-news-damage-my-image",
+      "image": "https://a.espncdn.com/photo/2026/0226/r1620423_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Frenkie de Jong",
+        "Kobbie Mainoo"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49608252",
+      "headline": "Arsenal eye Bayer Leverkusen's Jarell Quansah as Ezri Konsa alternative - sources",
+      "description": "Arsenal have added Bayer Leverkusen's Jarell Quansah to their shortlist of options as they aim to sign a defender in the summer transfer window, sources have told ESPN.",
+      "published": "2026-08-14T10:51:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49608252/arsenal-eye-bayer-leverkusen-jarell-quansah-ezri-konsa-alternative-defender",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701639_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Jarell Quansah",
+        "Kobbie Mainoo"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49608274",
+      "headline": "Why is the Community Shield in Cardiff, not at Wembley? Arsenal vs. Man City venue explained",
+      "description": "The first piece of silverware of the season is upon us, with Arsenal and Manchester City set to face off this weekend in the FA Community Shield.",
+      "published": "2026-08-14T11:14:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49608274/explained-arsenal-man-city-community-shield-cardiff-wembley-principality-stadium",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701630_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
         "England"
       ],
       "players": [
-        "Jude Bellingham",
         "Kobbie Mainoo"
       ],
-      "score": 137
+      "score": 138
     },
     {
       "id": "49599931",
@@ -107,7 +145,44 @@
         "Morocco"
       ],
       "players": [],
-      "score": 137
+      "score": 135
+    },
+    {
+      "id": "49608297",
+      "headline": "Neymar tells Santos fans 'it's better to stay home' after boos",
+      "description": "Neymar accused Santos fans of criticizing the club during their 2-1 win Macara on Thursday.",
+      "published": "2026-08-14T11:20:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49608297/neymar-tells-santos-fans-better-stay-home-boos",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697422_1296x729_16-9.jpg",
+      "byline": "ESPN Brazil",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Neymar",
+        "Kobbie Mainoo"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49163915",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
+      "published": "2026-08-14T10:49:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 128
     },
     {
       "id": "49608167",
@@ -126,7 +201,7 @@
         "Ilhan Fandi",
         "Kobbie Mainoo"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49608042",
@@ -145,7 +220,7 @@
         "Enzo Fernández",
         "Kobbie Mainoo"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49608013",
@@ -163,25 +238,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 130
-    },
-    {
-      "id": "49607918",
-      "headline": "Man United's new 2026-27 third kit inspired by iconic local club",
-      "description": "Manchester United's 2026-27 third kit is a stylish jersey in ivory, burgundy and dark green -- similar colors to the famous Salford Lads and Girls Club.",
-      "published": "2026-08-14T10:02:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49607918/manchester-united-new-2026-27-third-kit-inspired-iconic-salford-youth-club",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701618_2_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 129
+      "score": 128
     },
     {
       "id": "49598001",
@@ -197,25 +254,7 @@
         "USA"
       ],
       "players": [],
-      "score": 129
-    },
-    {
-      "id": "49601516",
-      "headline": "Predicting where Premier League betting odds are wrong﻿ this season",
-      "description": "Premier League betting odds have picks for who will win the league, get relegated, win the Golden Boot and more. But where might those odds be off base?",
-      "published": "2026-08-14T08:21:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49601516/predicting-where-premier-league-betting-odds-wrong-2026-27-season",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701481_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 127
+      "score": 126
     },
     {
       "id": "49598888",
@@ -229,7 +268,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 108
+      "score": 106
     },
     {
       "id": "49588771",
@@ -243,7 +282,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 75
+      "score": 73
     },
     {
       "id": "49576985",
@@ -261,7 +300,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 72
+      "score": 70
     },
     {
       "id": "49592307",
@@ -277,7 +316,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 69
+      "score": 67
     },
     {
       "id": "49585269",
@@ -293,7 +332,7 @@
         "USA"
       ],
       "players": [],
-      "score": 35
+      "score": 33
     },
     {
       "id": "49577750",
@@ -353,7 +392,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 24
+      "score": 22
     },
     {
       "id": "49523086",
@@ -669,7 +708,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 7
+      "score": 6
     },
     {
       "id": "49579404",
@@ -683,7 +722,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 7
+      "score": 6
     },
     {
       "id": "49573256",
@@ -763,34 +802,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
       "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
       "byline": "Sam Tighe",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49545189",
-      "headline": "UEFA stands by World Cup boycott plans despite FIFA, Gianni Infantino apology",
-      "description": "UEFA said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
-      "published": "2026-08-06T20:04:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49545822",
-      "headline": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan",
-      "description": "FIFA chief Gianni Infantino has been accused of a \"profound abuse of presidential power\" by the world players' union.",
-      "published": "2026-08-06T16:47:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545822/fifpro-accuses-gianni-infantino-profound-abuse-power-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
-      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
