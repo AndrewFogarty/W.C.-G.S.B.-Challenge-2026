@@ -1,9 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-14T02:44:42.540Z",
+  "updated": "2026-08-14T04:30:56.680Z",
   "counts": {
-    "news": 32,
-    "offfield": 11,
+    "news": 34,
+    "offfield": 9,
     "injury": 1,
     "preview": 3,
     "celebration": 1
@@ -25,7 +25,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 204
+      "score": 201
     },
     {
       "id": "49599931",
@@ -41,7 +41,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 182
+      "score": 179
     },
     {
       "id": "49598001",
@@ -57,7 +57,7 @@
         "USA"
       ],
       "players": [],
-      "score": 173
+      "score": 170
     },
     {
       "id": "49598888",
@@ -71,7 +71,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 152
+      "score": 150
     },
     {
       "id": "49603825",
@@ -89,7 +89,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 139
+      "score": 136
     },
     {
       "id": "49603065",
@@ -107,46 +107,66 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 139
-    },
-    {
-      "id": "49602839",
-      "headline": "Sources: Reijnders exits Manchester City for £52M Saudi move",
-      "description": "Manchester City have agreed a deal with Al Qadsiah for midfielder Tijjani Reijnders, sources have told ESPN.",
-      "published": "2026-08-13T20:31:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49602839/reijnders-exits-manchester-city-52m-saudi-move",
-      "image": "https://a.espncdn.com/photo/2026/0215/r1615444_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina",
-        "Netherlands"
-      ],
-      "players": [
-        "Tijjani Reijnders",
-        "Lionel Messi"
-      ],
       "score": 136
     },
     {
-      "id": "49597770",
-      "headline": "Transfer rumors, news: Chelsea join race to sign Monaco's Camara",
-      "description": "Chelsea are the latest Premier League team linked with a move for AS Monaco midfielder Lamine Camara. Transfer Talk has the latest.",
-      "published": "2026-08-13T20:12:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49597770/transfer-rumors-news-chelsea-eye-arsenal-zubimendi-replace-man-city-target-enzo-fernandez",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701406_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49603893",
+      "headline": "Will new IFAB rules impact Arsenal most in the Premier League?",
+      "description": "Will new IFAB rules impact Arsenal most in the Premier League?",
+      "published": "2026-08-13T22:58:01Z",
+      "url": "https://www.espn.com/video/clip/_/id/49603893/will-new-ifab-rules-impact-arsenal-most-premier-league",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALYSIS_Will_new_IFAB_rules_impact_Arsenal_most_in_the_Premier_League_2026_8_13/dm_260813_COM_SOC_ANALYSIS_Will_new_IFAB_rules_impact_Arsenal_most_in_the_Premier_League_2026_8_13.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Lamine Camara",
         "Lionel Messi"
       ],
-      "score": 135
+      "score": 125
+    },
+    {
+      "id": "49603875",
+      "headline": "Is Enzo Fernandez the right fit for Man City?",
+      "description": "Is Enzo Fernandez the right fit for Man City?",
+      "published": "2026-08-13T22:53:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/49603875/is-enzo-fernandez-right-fit-man-city",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALYSIS_Is_Enzo_Fernandez_the_right_fit_for_Man_City_2026_8_13/dm_260813_COM_SOC_ANALYSIS_Is_Enzo_Fernandez_the_right_fit_for_Man_City_2026_8_13.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49603820",
+      "headline": "Banyana's win over Super Falcons proves their quality -- but lack of consistency is their achilles heel",
+      "description": "South Africa rolled back the years with a quality performance in Thursday's 2-1 win over Nigeria in Casablanca that wrapped up a place in the 2027 FIFA Women's World Cup Inter-Confederation playoffs.",
+      "published": "2026-08-13T22:48:39Z",
+      "url": "https://www.espn.com/espn/story/_/id/49603820/banyana-win-super-falcons-proves-their-quality-lack-consistency-their-achilles-heel",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701448_1296x729_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "South Africa",
+        "Côte d'Ivoire",
+        "Ghana"
+      ],
+      "players": [
+        "Asisat Oshoala",
+        "Thembi Kgatlana",
+        "Lionel Messi"
+      ],
+      "score": 124
     },
     {
       "id": "49603809",
@@ -164,7 +184,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
+      "score": 124
     },
     {
       "id": "49603780",
@@ -182,7 +202,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
+      "score": 124
     },
     {
       "id": "49603330",
@@ -201,7 +221,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 125
+      "score": 123
     },
     {
       "id": "49588771",
@@ -215,7 +235,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 119
+      "score": 117
     },
     {
       "id": "49592307",
@@ -231,7 +251,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 114
+      "score": 111
     },
     {
       "id": "49576985",
@@ -249,7 +269,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 106
+      "score": 104
     },
     {
       "id": "49585269",
@@ -265,7 +285,7 @@
         "USA"
       ],
       "players": [],
-      "score": 60
+      "score": 57
     },
     {
       "id": "49582283",
@@ -281,7 +301,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 39
+      "score": 36
     },
     {
       "id": "49577750",
@@ -299,7 +319,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 30
+      "score": 28
     },
     {
       "id": "49466177",
@@ -326,34 +346,6 @@
         "Nestory Irankunda"
       ],
       "score": 25
-    },
-    {
-      "id": "49540676",
-      "headline": "Was Figo right to criticize FIFA president Infantino?",
-      "description": "Was Figo right to criticize FIFA president Infantino?",
-      "published": "2026-08-11T05:24:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 22
-    },
-    {
-      "id": "49579404",
-      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
-      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
-      "published": "2026-08-11T05:22:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 22
     },
     {
       "id": "49523086",
@@ -472,6 +464,34 @@
       ],
       "players": [],
       "score": 22
+    },
+    {
+      "id": "49540676",
+      "headline": "Was Figo right to criticize FIFA president Infantino?",
+      "description": "Was Figo right to criticize FIFA president Infantino?",
+      "published": "2026-08-11T05:24:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 19
+    },
+    {
+      "id": "49579404",
+      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
+      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
+      "published": "2026-08-11T05:22:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 19
     },
     {
       "id": "49525299",
@@ -783,20 +803,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
       "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
       "byline": "Sam Tighe",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49545189",
-      "headline": "UEFA stands by World Cup boycott plans despite FIFA, Gianni Infantino apology",
-      "description": "UEFA said its participating members could still boycott FIFA competitions, including the World Cup, despite Gianni Infantino's apology statement.",
-      "published": "2026-08-06T20:04:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49545189/uefa-stands-world-cup-boycott-plans-fifa-gianni-infantino-apology",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697830_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
