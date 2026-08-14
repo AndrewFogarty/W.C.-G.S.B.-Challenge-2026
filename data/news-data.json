@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-14T00:08:15.462Z",
+  "updated": "2026-08-14T02:44:42.540Z",
   "counts": {
-    "news": 31,
-    "offfield": 12,
-    "preview": 4,
+    "news": 32,
+    "offfield": 11,
+    "injury": 1,
+    "preview": 3,
     "celebration": 1
   },
   "items": [
@@ -24,7 +25,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 208
+      "score": 204
     },
     {
       "id": "49599931",
@@ -40,7 +41,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 186
+      "score": 182
     },
     {
       "id": "49598001",
@@ -56,7 +57,7 @@
         "USA"
       ],
       "players": [],
-      "score": 177
+      "score": 173
     },
     {
       "id": "49598888",
@@ -70,7 +71,43 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 156
+      "score": 152
+    },
+    {
+      "id": "49603825",
+      "headline": "Leboeuf: Doku's 2032 deal crucial for Man City",
+      "description": "Leboeuf: Doku's 2032 deal crucial for Man City",
+      "published": "2026-08-13T22:43:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/49603825/doku-2032-deal-crucial-man-city",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALSYSIS_Leboeuf_Dokus_2032_deal_crucial_for_Man_City_2026_8_13/dm_260813_COM_SOC_ANALSYSIS_Leboeuf_Dokus_2032_deal_crucial_for_Man_City_2026_8_13.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49603065",
+      "headline": "Rangers out of Europa League, Derek McInnes four without a win",
+      "description": "Derek McInnes's fledgling tenure as Rangers boss is in disarray after the they were knocked out of Europa League qualifiers with a 3-2 aggregate defeat to Jagiellonia Bialystok at Ibrox.",
+      "published": "2026-08-13T21:05:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49603065/rangers-europa-league-derek-mcinnes-four-win",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701417_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 139
     },
     {
       "id": "49602839",
@@ -90,7 +127,7 @@
         "Tijjani Reijnders",
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 136
     },
     {
       "id": "49597770",
@@ -109,105 +146,34 @@
         "Lamine Camara",
         "Lionel Messi"
       ],
-      "score": 139
-    },
-    {
-      "id": "49601819",
-      "headline": "Source: Barcelona, Spain star Ferran Torres to join Paris Saint-Germain in €50M move",
-      "description": "Barcelona forward Ferran Torres will join European champions Paris Saint-Germain after the two clubs reached a deal in principle for around €50 million, a source confirmed to ESPN.",
-      "published": "2026-08-13T19:58:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49601819/barcelona-spain-star-ferran-torres-join-paris-saint-germain-50m-move-source",
-      "image": "https://a.espncdn.com/photo/2026/0411/r1641936_1296x729_16-9.jpg",
-      "byline": "Sam Marsden and Moises Llorens",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Ferran Torres",
-        "Lionel Messi"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49601666",
-      "headline": "South Africa vs. Nigeria - Women's World Cup Qualifying CAF Playoff live updates",
-      "description": "Nigeria and South Africa face off after losing their Women's Africa Cup of Nations (WAFCON) quarter-finals as they each seek a place in the Inter-Confederation Playoffs for FIFA World Cup qualifying.",
-      "published": "2026-08-13T19:41:58Z",
-      "url": "https://www.espn.com/espn/story/_/id/49601666/south-africa-vs-nigeria-women-world-cup-qualifying-caf-playoff-live-updates",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701344_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "South Africa"
-      ],
-      "players": [
-        "Rasheedat Ajibade",
-        "Refiloe Jane",
-        "Thembi Kgatlana",
-        "Asisat Oshoala",
-        "Gift Monday",
-        "Michelle Alozie",
-        "Bambanani Mbane",
-        "Hildah Magaia",
-        "Lionel Messi"
-      ],
       "score": 135
     },
     {
-      "id": "49601440",
-      "headline": "LAFC signs Bayern Munich forward Armindo Sieb through 2028",
-      "description": "LAFC announced the signing Thursday of forward Armindo Sieb from Bayern Munich on a permanent transfer through the 2028-29 MLS season.",
-      "published": "2026-08-13T17:43:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49601440/lafc-signs-bayern-munich-forward-armindo-sieb",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701323_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49603809",
+      "headline": "How will Ferran Torres fit in at PSG?",
+      "description": "How will Ferran Torres fit in at PSG?",
+      "published": "2026-08-13T22:41:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49603809/how-ferran-torres-fit-psg",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALYSIS_How_will_Ferran_Torres_fit_in_at_PSG_2026_8_13/dm_260813_COM_SOC_ANALYSIS_How_will_Ferran_Torres_fit_in_at_PSG_2026_8_13.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Armindo Sieb",
-        "Lionel Messi"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49601079",
-      "headline": "Ghana come from behind to beat Ivory Coast and keep FIFA Women's World Cup dream alive",
-      "description": "Ghana secured one of Africa's two places in the inter-confederation play-offs for the 2027 FIFA Women's World Cup after coming from behind to defeat Ivory Coast 2-1 in Casablanca on Thursday.",
-      "published": "2026-08-13T20:02:22Z",
-      "url": "https://www.espn.com/espn/story/_/id/49601079/ghana-come-beat-ivory-coast-keep-fifa-women-world-cup-dream-alive",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701366_1296x729_16-9.png",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "South Africa",
-        "Côte d'Ivoire",
-        "Ghana"
-      ],
-      "players": [
-        "Asisat Oshoala",
-        "Thembi Kgatlana",
         "Lionel Messi"
       ],
       "score": 127
     },
     {
-      "id": "49601789",
-      "headline": "Celta Vigo postpone LaLiga opener over fungus outbreak on pitch",
-      "description": "Celta Vigo postponed their LaLiga opener against Osasuna because of a fungus outbreak on the field of its stadium Thursday.",
-      "published": "2026-08-13T19:28:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49601789/celta-vigo-postpone-laliga-fungus-pitch-osasuna",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701341_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "49603780",
+      "headline": "Does PSG's Ligue 1 rotation give them a UCL advantage?",
+      "description": "Does PSG's Ligue 1 rotation give them a UCL advantage?",
+      "published": "2026-08-13T22:29:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49603780/does-psg-ligue-1-rotation-give-ucl-advantage",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALYSIS_Does_PSGs_Ligue_1_rotation_give_them_a_UCL_advantage_2026_8_13/dm_260813_COM_SOC_ANALYSIS_Does_PSGs_Ligue_1_rotation_give_them_a_UCL_advantage_2026_8_13.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -216,7 +182,26 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 126
+      "score": 127
+    },
+    {
+      "id": "49603330",
+      "headline": "Fabien Barthez reunited with Zinedine Zidane as France GK coach",
+      "description": "France coach Zinedine Zidane reunited with Fabien Barthez after he was named the national team's new goalkeeper coach on Thursday.",
+      "published": "2026-08-13T21:35:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49603330/fabien-barthez-zinedine-zidane-france-goalkeeper-coach",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701432_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
     },
     {
       "id": "49588771",
@@ -230,7 +215,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 123
+      "score": 119
     },
     {
       "id": "49592307",
@@ -246,7 +231,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 117
+      "score": 114
     },
     {
       "id": "49576985",
@@ -264,7 +249,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 110
+      "score": 106
     },
     {
       "id": "49585269",
@@ -280,7 +265,7 @@
         "USA"
       ],
       "players": [],
-      "score": 64
+      "score": 60
     },
     {
       "id": "49582283",
@@ -296,7 +281,7 @@
         "Uruguay"
       ],
       "players": [],
-      "score": 43
+      "score": 39
     },
     {
       "id": "49577750",
@@ -314,35 +299,7 @@
       "players": [
         "Ferran Torres"
       ],
-      "score": 34
-    },
-    {
-      "id": "49540676",
-      "headline": "Was Figo right to criticize FIFA president Infantino?",
-      "description": "Was Figo right to criticize FIFA president Infantino?",
-      "published": "2026-08-11T05:24:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 26
-    },
-    {
-      "id": "49579404",
-      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
-      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
-      "published": "2026-08-11T05:22:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 26
+      "score": 30
     },
     {
       "id": "49466177",
@@ -369,6 +326,34 @@
         "Nestory Irankunda"
       ],
       "score": 25
+    },
+    {
+      "id": "49540676",
+      "headline": "Was Figo right to criticize FIFA president Infantino?",
+      "description": "Was Figo right to criticize FIFA president Infantino?",
+      "published": "2026-08-11T05:24:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 22
+    },
+    {
+      "id": "49579404",
+      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
+      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
+      "published": "2026-08-11T05:22:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 22
     },
     {
       "id": "49523086",
@@ -589,7 +574,7 @@
         "USA"
       ],
       "players": [],
-      "score": 12
+      "score": 10
     },
     {
       "id": "49543435",
