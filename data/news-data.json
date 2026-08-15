@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-15T19:41:45.622Z",
+  "updated": "2026-08-15T19:58:14.882Z",
   "counts": {
-    "news": 35,
-    "preview": 5,
-    "offfield": 7,
-    "celebration": 1
+    "news": 33,
+    "offfield": 8,
+    "celebration": 2,
+    "preview": 5
   },
   "items": [
     {
@@ -38,7 +38,44 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 151
+      "score": 150
+    },
+    {
+      "id": "49616548",
+      "headline": "Transfer rumors, news: Como want Chelsea's Delap to bolster attack",
+      "description": "Como are looking to add Chelsea's Liam Delap to their forward corps. Transfer Talk has the latest.",
+      "published": "2026-08-15T18:32:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49616548/transfer-rumors-news-arsenal-turn-versatile-brighton-midfielder",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702169_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Liam Delap",
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49620602",
+      "headline": "'Emotional' Xabi Alonso delighted with Chelsea reaction in 'new home'",
+      "description": "Xabi Alonso said he was \"emotional\" to experience Stamford Bridge for the first time as Chelsea manager as his side ended their preseason campaign with a 3-1 win over Real Sociedad.",
+      "published": "2026-08-15T19:07:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49620602/emotional-alonso-delighted-chelsea-reaction-new-home",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702176_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 139
     },
     {
       "id": "48897670",
@@ -56,7 +93,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 139
+      "score": 138
     },
     {
       "id": "49154575",
@@ -74,7 +111,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 139
+      "score": 138
     },
     {
       "id": "49607480",
@@ -90,7 +127,25 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 138
+      "score": 137
+    },
+    {
+      "id": "49620194",
+      "headline": "Michael Carrick on Man United's defeat to Ruben Amorim's AC Milan: 'No excuses'",
+      "description": "Manchester United boss Michael Carrick said there were \"no excuses\" after his side fell to a 4-2 preseason defeat to AC Milan.",
+      "published": "2026-08-15T18:56:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49620194/michael-carrick-manchester-united-ruben-amorim-ac-milan-preseason-no-excuses",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702172_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
     },
     {
       "id": "49620349",
@@ -144,7 +199,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 131
+      "score": 130
     },
     {
       "id": "49620082",
@@ -162,7 +217,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 131
+      "score": 130
     },
     {
       "id": "49619082",
@@ -181,7 +236,7 @@
         "Ilhan Fandi",
         "Kobbie Mainoo"
       ],
-      "score": 130
+      "score": 129
     },
     {
       "id": "49619687",
@@ -264,7 +319,7 @@
         "USA"
       ],
       "players": [],
-      "score": 72
+      "score": 71
     },
     {
       "id": "49598888",
@@ -279,24 +334,6 @@
       "teams": [],
       "players": [],
       "score": 51
-    },
-    {
-      "id": "49576985",
-      "headline": "Why South America is lukewarm on a 2030 World Cup on home soil",
-      "description": "South America will help kick off the 2030 World Cup in three countries, but its limited role in the centenary tournament has left plenty of concerns.",
-      "published": "2026-08-12T15:37:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49576985/why-south-america-lukewarm-2030-fifa-world-cup-home-soil",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1700041_1296x729_16-9.jpg",
-      "byline": "Tim Vickery",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Uruguay",
-        "Paraguay"
-      ],
-      "players": [],
-      "score": 25
     },
     {
       "id": "49577750",
@@ -341,6 +378,24 @@
         "Nestory Irankunda"
       ],
       "score": 25
+    },
+    {
+      "id": "49576985",
+      "headline": "Why South America is lukewarm on a 2030 World Cup on home soil",
+      "description": "South America will help kick off the 2030 World Cup in three countries, but its limited role in the centenary tournament has left plenty of concerns.",
+      "published": "2026-08-12T15:37:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49576985/why-south-america-lukewarm-2030-fifa-world-cup-home-soil",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1700041_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Uruguay",
+        "Paraguay"
+      ],
+      "players": [],
+      "score": 24
     },
     {
       "id": "49592307",
@@ -754,48 +809,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49560207/gianni-infantino-denies-uefa-made-departure-payment-alleged-lover",
       "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49547919",
-      "headline": "Burley: FIFA as an organisation has 'gone down the toilet'",
-      "description": "Burley: FIFA as an organisation has 'gone down the toilet'",
-      "published": "2026-08-07T23:23:17Z",
-      "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49551026",
-      "headline": "CAF agree to support Gianni Infantino amid FIFA governance crisis",
-      "description": "The Confederation of African Football has thrown its full weight behind FIFA president Gianni Infantino, unanimously reaffirming its support for the embattled Swiss administrator.",
-      "published": "2026-08-07T08:03:52Z",
-      "url": "https://www.espn.com/espn/story/_/id/49551026/caf-agree-support-gianni-infantino-amid-fifa-governance-crisis",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698273_1296x729_16-9.png",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49536934",
-      "headline": "Which big clubs are struggling with World Cup burnout?",
-      "description": "The World Cup was a great spectacle, but it was also hard work for the players, and as many of the game's stars return to their clubs to prepare for the 2026-27, which clubs are battling burnout the most?",
-      "published": "2026-08-07T07:22:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
