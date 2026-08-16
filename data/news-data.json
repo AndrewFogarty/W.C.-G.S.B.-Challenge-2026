@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-16T22:35:32.158Z",
+  "updated": "2026-08-16T22:55:50.233Z",
   "counts": {
     "offfield": 10,
-    "preview": 4,
-    "news": 33,
+    "news": 34,
+    "preview": 3,
     "celebration": 1
   },
   "items": [
@@ -21,6 +21,24 @@
       "teams": [],
       "players": [],
       "score": 207
+    },
+    {
+      "id": "49602975",
+      "headline": "10-man Lens shock PSG to win French Super Cup",
+      "description": "Lens overcame a first-half red card for defender Kyllian Antonio to battle to a 1-0 win over Paris Saint-Germain in the Trophee de Champions at Stade Bollaert-Delelis.",
+      "published": "2026-08-16T20:58:12Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401873661",
+      "image": "https://a.espncdn.com/photo/2026/0816/r1702700_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 142
     },
     {
       "id": "49630831",
@@ -42,40 +60,61 @@
       "score": 141
     },
     {
-      "id": "49630528",
-      "headline": "Enzo Maresca: Community Shield defeat won't change Man City's summer transfer plans",
-      "description": "Manchester City boss Enzo Maresca has said the defeat to Arsenal in the Community Shield won't alter their transfer plans this summer.",
-      "published": "2026-08-16T18:46:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49630528/enzo-maresca-manchester-city-community-shield-defeat-change-summer-transfer-plans",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702630_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49630724",
+      "headline": "Cameroon crush Malawi to win first-ever WAFCON crown",
+      "description": "Cameroon won their first ever Women's Africa Cup of Nations title by dismantling Malawi 3-0 in Rabat on Sunday, with three goals coming during a one-sided first-half display.",
+      "published": "2026-08-16T21:26:31Z",
+      "url": "https://www.espn.com/espn/story/_/id/49630724/cameroon-crush-malawi-win-first-ever-wafcon-crown",
+      "image": "https://a.espncdn.com/photo/2026/0816/r1702704_1296x729_16-9.png",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "England"
       ],
       "players": [
+        "Tabitha Chawinga",
+        "Temwa Chawinga",
+        "Michaely Kyria Bihina",
         "Kobbie Mainoo"
       ],
-      "score": 139
+      "score": 131
     },
     {
-      "id": "49630709",
-      "headline": "Rangers to face Celtic in Premier Sports Cup quarterfinals after Derek McInnes gets off the mark",
-      "description": "Rangers were handed a home tie against Old Firm rivals Celtic in the Premier Sports Cup quarterfinal draw after getting their first win under new boss Derek McInnes at the fifth time of asking when they beat St Mirren 5-1 at Ibrox.",
-      "published": "2026-08-16T18:44:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49630709/rangers-face-celtic-premier-sports-cup-quarterfinals-derek-mcinnes-gets-mark",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702633_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49632126",
+      "headline": "Michalik: Wirtz has to be Liverpool's 'Bruno Fernandes' this season",
+      "description": "Michalik: Wirtz has to be Liverpool's 'Bruno Fernandes' this season",
+      "published": "2026-08-16T21:22:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/49632126/wirtz-liverpool-bruno-fernandes-season",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_ANALYSIS_Michalik_Wirtz_has_to_be_Liverpools_Bruno_Fernandes_this_season_2026_8_16/dm_260816_COM_SOC_ANALYSIS_Michalik_Wirtz_has_to_be_Liverpools_Bruno_Fernandes_this_season_2026_8_16.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "England"
       ],
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 136
+      "score": 131
+    },
+    {
+      "id": "49632111",
+      "headline": "Kirkland: Real Madrid have the squad to beat Barcelona",
+      "description": "Kirkland: Real Madrid have the squad to beat Barcelona",
+      "published": "2026-08-16T21:21:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/49632111/real-madrid-squad-beat-barcelona",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_ANALYSIS_Kirkland_Real_Madrid_have_the_squad_to_beat_Barcelona_2026_8_16/dm_260816_COM_SOC_ANALYSIS_Kirkland_Real_Madrid_have_the_squad_to_beat_Barcelona_2026_8_16.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 131
     },
     {
       "id": "49630902",
@@ -97,7 +136,7 @@
         "Javi Hernandez",
         "Kobbie Mainoo"
       ],
-      "score": 128
+      "score": 127
     },
     {
       "id": "49629835",
@@ -115,26 +154,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 128
-    },
-    {
-      "id": "49630667",
-      "headline": "Jacquet nets in debut as Liverpool beat Como in preseason finale",
-      "description": "",
-      "published": "2026-08-16T19:03:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49630667/jacquet-nets-debut-liverpool-beat-como-preseason-finale",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702639_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Jérémy Jacquet",
-        "Kobbie Mainoo"
-      ],
-      "score": 128
+      "score": 127
     },
     {
       "id": "49630832",
@@ -143,24 +163,6 @@
       "published": "2026-08-16T18:55:29Z",
       "url": "https://www.espn.com/video/clip/_/id/49630832/arsenal-give-manchester-city-wake-call",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_City_Arsenal_IA/dm_260816_City_Arsenal_IA.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49630717",
-      "headline": "Arteta: Arsenal ready to challenge for historic back-to-back PL titles",
-      "description": "Arteta: Arsenal ready to challenge for historic back-to-back PL titles",
-      "published": "2026-08-16T18:40:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/49630717/arsenal-ready-challenge-historic-back-back-pl-titles",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_Presser_Arteta_Arsenal_ready_to_challenge_for_historic_back_to_back_PL_titles_20260816/dm_260816_COM_SOC_Presser_Arteta_Arsenal_ready_to_challenge_for_historic_back_to_back_PL_titles_20260816.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -184,7 +186,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 113
+      "score": 112
     },
     {
       "id": "49607572",
@@ -232,7 +234,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 74
+      "score": 73
     },
     {
       "id": "47978642",
