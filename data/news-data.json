@@ -1,13 +1,50 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-16T10:52:37.662Z",
+  "updated": "2026-08-16T11:14:32.622Z",
   "counts": {
-    "news": 35,
     "offfield": 9,
-    "preview": 3,
+    "news": 31,
+    "preview": 7,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49626304",
+      "headline": "Transfer rumors, news: Liverpool step up Barcola chase as PSG sign Godts",
+      "description": "Liverpool are ready to make another move for Paris Saint-Germain winger Bradley Barcola. Transfer Talk has the latest.",
+      "published": "2026-08-16T09:32:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49626304/transfer-rumors-news-liverpool-step-barcola-chase-psg-sign-godts",
+      "image": "https://a.espncdn.com/photo/2025/0807/r1528816_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Bradley Barcola",
+        "Kobbie Mainoo"
+      ],
+      "score": 142
+    },
+    {
+      "id": "48991120",
+      "headline": "Transfer big board: Best players in each position who could move this summer",
+      "description": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our big board!",
+      "published": "2026-08-16T09:30:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 142
+    },
     {
       "id": "49610097",
       "headline": "Andrew Giuliani backs FIFA's Gianni Infantino, calls critics 'jealous'",
@@ -23,42 +60,77 @@
       "score": 140
     },
     {
-      "id": "49623511",
-      "headline": "Messi has 3rd straight penalty miss as Nashville routs Miami",
-      "description": "Lionel Messi missed his third penalty in a row as Inter Miami suffered a third consecutive loss in a 4-1 rout at first-place Nashville SC on Saturday.",
-      "published": "2026-08-16T03:46:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49623511/lionel-messi-penalty-miss-inter-miami-nashville-mls",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702383_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Kobbie Mainoo"
-      ],
-      "score": 134
-    },
-    {
-      "id": "49624218",
-      "headline": "Dynamo beats Galaxy for fourth straight shutout",
-      "description": "Guilherme Santos scored on a first-half penalty kick and Jonathan Bond posted his fourth clean sheet in a row to help the Houston Dynamo beat the Los Angeles Galaxy 1-0 on Saturday night.",
-      "published": "2026-08-16T03:22:51Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761715",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761715.png?templateId=espn.applewatch.awayhome.1",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49591895",
+      "headline": "Does the Community Shield preview Premier League? History provides the answer",
+      "description": "The Community Shield marks the final stretch before the start of the new Premier League season. But should fans take anything away from the result?",
+      "published": "2026-08-16T08:50:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49591895/does-community-shield-mean-anything-premier-league-title-race-history-provides-answer",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700852_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "England"
       ],
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 134
+      "score": 138
+    },
+    {
+      "id": "49621267",
+      "headline": "Ilhan Fandi to draw on spirit of Singapore faithful and 'take on Rajamangala'",
+      "description": "Like how Singapore's fans did not give up throughout their 3-1 loss to Thailand, Ilhan Fandi isn't losing home on their ASEAN Championship just yet.",
+      "published": "2026-08-16T07:31:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49621267/ilhan-fandi-draw-spirit-singapore-faithful-take-rajamangala",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702223_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Ilhan Fandi",
+        "Kobbie Mainoo"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49608274",
+      "headline": "Why is the Community Shield in Cardiff, not at Wembley? Arsenal vs. Man City venue explained",
+      "description": "The first piece of silverware of the season is upon us, with Arsenal and Manchester City set to face off this weekend in the FA Community Shield.",
+      "published": "2026-08-16T06:50:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49608274/explained-arsenal-man-city-community-shield-cardiff-wembley-principality-stadium",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701630_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49154575",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "published": "2026-08-16T06:48:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 135
     },
     {
       "id": "49607572",
@@ -76,15 +148,33 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 128
+      "score": 127
     },
     {
-      "id": "49625173",
-      "headline": "Eto'o's hand-picked 'odd couple' coaching double act at the heart of Cameroon's WAFCON run",
-      "description": "Appointed barely six weeks before the tournament, Valentine Nguele and Dimitri Lipoff have overcome the odds in taking Cameroon to the WAFCON final.",
-      "published": "2026-08-16T05:10:42Z",
-      "url": "https://www.espn.com/espn/story/_/id/49625173/2026-wafcon-final-etoo-hand-picked-odd-couple-dimitri-lipoff-valentine-nguele-coaching-double-act-heart-cameroon-run",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702416_1296x729_16-9.jpg",
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-16T06:45:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49625676",
+      "headline": "Is Malawi's WAFCON run the most remarkable major tournament performance ever?",
+      "description": "Malawi, ranked 153rd in the world, have reached the 2026 WAFCON Final in their tournament debut.",
+      "published": "2026-08-16T06:30:31Z",
+      "url": "https://www.espn.com/espn/story/_/id/49625676/2026-wafcon-final-malawi-run-most-remarkable-major-tournament-performance-ever-temwa-tabitha-chawinga",
+      "image": "https://a.espncdn.com/photo/2026/0816/r1702431_1126x633_16-9.jpg",
       "byline": "Ed Dove",
       "kind": "news",
       "kindLabel": "News",
@@ -97,114 +187,7 @@
         "Temwa Chawinga",
         "Kobbie Mainoo"
       ],
-      "score": 124
-    },
-    {
-      "id": "49624843",
-      "headline": "More penalty heartbreak for Morocco as Algeria claim WAFCON bronze",
-      "description": "Algeria came from behind to defeat Morocco 3-2 in a penalty shootout, with the hosts left to rue missed chances.",
-      "published": "2026-08-16T04:20:17Z",
-      "url": "https://www.espn.com/espn/story/_/id/49624843/wafcon-2026-more-penalty-heartbreak-morocco-algeria-claim-bronze",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702406_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Algeria",
-        "Morocco"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49624159",
-      "headline": "Nashville SC vs. Inter Miami CF - Game Highlights",
-      "description": "Watch the Game Highlights from Nashville SC vs. Inter Miami CF, 08/15/2026",
-      "published": "2026-08-16T03:36:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49624159/nashville-sc-vs-inter-miami-cf-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0816/776c9669-99c8-412a-8f4c-43ad37163925/776c9669-99c8-412a-8f4c-43ad37163925.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Telasco Segovia",
-        "Hany Mukhtar",
-        "Lionel Messi",
-        "Sam Surridge",
-        "Luis Suárez",
-        "Andy Nájar",
-        "Kobbie Mainoo"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49624272",
-      "headline": "Mukhtar brace helps 1st-placed Nashville rout Miami",
-      "description": "Hany Mukhtar scored a pair of second-half goals and Nashville SC beat Lionel Messi and Inter Miami 4-1 on Saturday night in a match featuring the top two teams in the Eastern Conference to remain atop the MLS standings.",
-      "published": "2026-08-16T03:24:39Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761716",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0816/ff411ee3-0cfb-4dc4-a798-ae0c9b10b4bb/ff411ee3-0cfb-4dc4-a798-ae0c9b10b4bb.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49624184",
-      "headline": "Houston Dynamo vs. LA Galaxy - Game Highlights",
-      "description": "Watch the Game Highlights from Houston Dynamo vs. LA Galaxy, 08/15/2026",
-      "published": "2026-08-16T03:05:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/49624184/houston-dynamo-vs-la-galaxy-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0816/affdb41a-1b95-4222-a661-46fb3ca38de4/affdb41a-1b95-4222-a661-46fb3ca38de4.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Lawrence Ennali",
-        "Guilherme Augusto",
-        "Carlos Garcés",
-        "Ibrahim Aliyu",
-        "Kobbie Mainoo"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49624186",
-      "headline": "Portland Thorns FC vs. Orlando Pride - Game Highlights",
-      "description": "Watch the Game Highlights from Portland Thorns FC vs. Orlando Pride, 08/16/2026",
-      "published": "2026-08-16T02:55:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/49624186/portland-thorns-fc-vs-orlando-pride-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0816/0043dd7d-3808-4a93-85e3-dc0f45b54a95/0043dd7d-3808-4a93-85e3-dc0f45b54a95.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Lizbeth Ovalle",
-        "Summer Yates",
-        "Deyna Castellanos",
-        "Sophia Wilson",
-        "Caiya Hanks",
-        "Kobbie Mainoo"
-      ],
-      "score": 121
+      "score": 126
     },
     {
       "id": "49607480",
@@ -220,7 +203,7 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 115
+      "score": 114
     },
     {
       "id": "49600669",
@@ -252,7 +235,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 80
+      "score": 79
     },
     {
       "id": "49599931",
@@ -268,7 +251,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 58
+      "score": 57
     },
     {
       "id": "49598001",
@@ -284,7 +267,7 @@
         "USA"
       ],
       "players": [],
-      "score": 49
+      "score": 48
     },
     {
       "id": "49598888",
