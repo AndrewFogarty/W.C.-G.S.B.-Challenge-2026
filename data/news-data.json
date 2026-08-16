@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-16T01:47:13.325Z",
+  "updated": "2026-08-16T02:48:14.813Z",
   "counts": {
-    "news": 35,
-    "offfield": 9,
+    "news": 33,
+    "injury": 1,
+    "offfield": 10,
     "preview": 3,
     "celebration": 1
   },
@@ -20,7 +21,65 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 154
+      "score": 153
+    },
+    {
+      "id": "49525764",
+      "headline": "Australia's top 11 most expensive transfers of all-time",
+      "description": "Nestory Irankunda has bumped Lucas Herrington out of second place on the list.",
+      "published": "2026-08-15T23:52:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49525764/australias-top-11-most-expensive-transfers-all",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1679795_1296x518_5-2.jpg",
+      "byline": "Joey Lynch",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England",
+        "Australia"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49621757",
+      "headline": "Enzo Maresca to pick Man City leaders at end of transfer window",
+      "description": "Enzo Maresca will wait until the end of the transfer window to finalise his Manchester City leadership group given the uncertainty over the final make-up of his squad.",
+      "published": "2026-08-15T23:48:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49621757/enzo-maresca-pick-man-city-leaders-end-transfer-window-moment-ruben-erling",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702258_594x334_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Kobbie Mainoo"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49622299",
+      "headline": "PSG sign Belgium winger Mika Godts from Ajax for €55m",
+      "description": "European champions Paris Saint-Germain have further boosted their squad ahead of the new season with the signing Belgium winger Mika Godts from Ajax.",
+      "published": "2026-08-15T23:14:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49622299/psg-transfer-mika-godts-ajax-belgium",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702294_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "Belgium"
+      ],
+      "players": [
+        "Mika Godts",
+        "Kobbie Mainoo"
+      ],
+      "score": 140
     },
     {
       "id": "49607572",
@@ -38,45 +97,62 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 142
-    },
-    {
-      "id": "49621757",
-      "headline": "Enzo Maresca to pick Man City leaders at end of transfer window: 'At the moment it's Rúben and Erling'",
-      "description": "Enzo Maresca will wait until the end of the transfer window to finalise his Manchester City leadership group given the uncertainty over the final make-up of his squad.",
-      "published": "2026-08-15T22:07:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49621757/enzo-maresca-pick-man-city-leaders-end-transfer-window-moment-ruben-erling",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702258_594x334_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Kobbie Mainoo"
-      ],
       "score": 140
     },
     {
-      "id": "49593676",
-      "headline": "Cristian Romero seals transfer to Atlético Madrid from Tottenham",
-      "description": "Cristian Romero has completed a transfer from Tottenham Hotspur to Atlético Madrid, the two clubs have confirmed.",
-      "published": "2026-08-15T20:09:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49593676/cristian-romero-seals-transfer-atletico-madrid-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690735_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49622294",
+      "headline": "What kind of transfer activity will happen at Liverpool?",
+      "description": "What kind of transfer activity will happen at Liverpool?",
+      "published": "2026-08-15T22:58:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/49622294/what-kind-transfer-activity-happen-liverpool",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0815/dm_260815_COM_SOC_Analysis_What_kind_of_transfer_activity_will_happen_at_Liverpool3F__GLOBAL_2026-08-16/dm_260815_COM_SOC_Analysis_What_kind_of_transfer_activity_will_happen_at_Liverpool3F__GLOBAL_2026-08-16.jpg",
+      "byline": null,
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "England"
       ],
       "players": [
-        "Cristian Romero",
         "Kobbie Mainoo"
       ],
-      "score": 137
+      "score": 139
+    },
+    {
+      "id": "49622311",
+      "headline": "Can Maresca claim his first trophy vs. Arsenal?",
+      "description": "Can Maresca claim his first trophy vs. Arsenal?",
+      "published": "2026-08-15T23:01:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/49622311/can-maresca-claim-first-trophy-vs-arsenal",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0815/dm_260815_COM_SOC_Analysis_Can_Maresca_claim_his_first_trophy_vs_Arsenal3F__GLOBAL_2026-08-16/dm_260815_COM_SOC_Analysis_Can_Maresca_claim_his_first_trophy_vs_Arsenal3F__GLOBAL_2026-08-16.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49622158",
+      "headline": "The real story behind Enzo Fernández being booed on Stamford Bridge return",
+      "description": "The real story behind Enzo Fernández being booed on Stamford Bridge return",
+      "published": "2026-08-15T22:51:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/49622158/the-real-story-enzo-fernandez-being-booed-stamford-bridge-return",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0815/dm_260815_The_real_story_behind_Enzo_Fernandez_being_booed_on_Stamford_Bridge_return/dm_260815_The_real_story_behind_Enzo_Fernandez_being_booed_on_Stamford_Bridge_return.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Enzo Fernández",
+        "Kobbie Mainoo"
+      ],
+      "score": 127
     },
     {
       "id": "49607480",
@@ -92,7 +168,7 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 129
+      "score": 127
     },
     {
       "id": "49622045",
@@ -110,25 +186,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 128
-    },
-    {
-      "id": "49621730",
-      "headline": "Mikel Arteta: New Premier League managers can make Arsenal better",
-      "description": "Mikel Arteta said a rivalry with Manchester City boss Enzo Maresca and other new managers in the Premier League this season can help raise the level of Arsenal.",
-      "published": "2026-08-15T21:58:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49621730/arsenal-mikel-arteta-new-premier-league-managers-enzo-maresca",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702260_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 127
+      "score": 126
     },
     {
       "id": "49621770",
@@ -152,66 +210,7 @@
         "Miguel Sierra",
         "Kobbie Mainoo"
       ],
-      "score": 127
-    },
-    {
-      "id": "49621314",
-      "headline": "USMNT duo Dest and Pepi combine to give PSV 1st win of season",
-      "description": "United States teammates Sergiño Dest and Ricardo Pepi combined for the winning goal to give PSV Eindhoven their first victory of the Dutch league season on Saturday.",
-      "published": "2026-08-15T21:23:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49621314/usa-sergino-dest-ricardo-pepi-psv-eindhoven-excelsior",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702229_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "USA"
-      ],
-      "players": [
-        "Ricardo Pepi",
-        "Sergiño Dest",
-        "Kobbie Mainoo"
-      ],
       "score": 126
-    },
-    {
-      "id": "49621485",
-      "headline": "John Stones scores winning goal on debut as Inter end preseason campaign with win over Real Betis",
-      "description": "John Stones was the hero on his Inter Milan debut with the winning goal against Real Betis in a friendly at the San Siro.",
-      "published": "2026-08-15T21:16:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49621485/john-stones-scores-winning-goal-debut-inter-end-preseason-campaign-win-real-betis",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702235_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "John Stones",
-        "Kobbie Mainoo"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49620957",
-      "headline": "Cristian Romero describes Atlético move as 'perfect fit for his style'",
-      "description": "Cristian Romero describes Atlético move as 'perfect fit for his style'.",
-      "published": "2026-08-15T19:56:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/49620957/cristian-romero-describes-atletico-move-perfect-fit-style",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0815/dm_260815_Cristian_Romero_describes_Atletico_move_as_perfect_fit_for_his_style/dm_260815_Cristian_Romero_describes_Atletico_move_as_perfect_fit_for_his_style.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Cristian Romero",
-        "Kobbie Mainoo"
-      ],
-      "score": 124
     },
     {
       "id": "49600669",
@@ -225,7 +224,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 115
+      "score": 113
     },
     {
       "id": "47978642",
@@ -243,7 +242,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 93
+      "score": 92
     },
     {
       "id": "49599931",
@@ -259,7 +258,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 71
+      "score": 70
     },
     {
       "id": "49598001",
@@ -275,7 +274,7 @@
         "USA"
       ],
       "players": [],
-      "score": 63
+      "score": 61
     },
     {
       "id": "49598888",
@@ -289,7 +288,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 42
+      "score": 40
     },
     {
       "id": "49577750",
@@ -489,22 +488,6 @@
       "score": 17
     },
     {
-      "id": "49592307",
-      "headline": "Netherlands hire Xavi as coach through 2030 World Cup",
-      "description": "The Netherlands have appointed Barcelona great Xavi Hernández as the national team's new coach following the resignation of Ronald Koeman after a disappointing FIFA World Cup.",
-      "published": "2026-08-12T19:46:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49592307/netherlands-hire-xavi-coach-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0101/r1595503_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Netherlands"
-      ],
-      "players": [],
-      "score": 13
-    },
-    {
       "id": "49537179",
       "headline": "Vozinha: 'Representing Colo-Colo is the best moment of my club career'",
       "description": "Vozinha: 'Representing Colo-Colo is the best moment of my club career'",
@@ -557,6 +540,22 @@
         "Rodri"
       ],
       "score": 13
+    },
+    {
+      "id": "49592307",
+      "headline": "Netherlands hire Xavi as coach through 2030 World Cup",
+      "description": "The Netherlands have appointed Barcelona great Xavi Hernández as the national team's new coach following the resignation of Ronald Koeman after a disappointing FIFA World Cup.",
+      "published": "2026-08-12T19:46:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49592307/netherlands-hire-xavi-coach-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0101/r1595503_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Netherlands"
+      ],
+      "players": [],
+      "score": 11
     },
     {
       "id": "49585269",
@@ -699,7 +698,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 9
+      "score": 7
     },
     {
       "id": "49540676",
