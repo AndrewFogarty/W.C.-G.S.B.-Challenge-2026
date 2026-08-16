@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-16T23:42:10.355Z",
+  "updated": "2026-08-16T23:58:00.399Z",
   "counts": {
     "offfield": 10,
-    "news": 34,
-    "preview": 3,
+    "preview": 4,
+    "news": 33,
     "celebration": 1
   },
   "items": [
@@ -20,13 +20,13 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 206
+      "score": 205
     },
     {
       "id": "49602975",
       "headline": "10-man Lens shock PSG to win French Super Cup",
       "description": "Lens overcame a first-half red card for defender Kyllian Antonio to battle to a 1-0 win over Paris Saint-Germain in the Trophee de Champions at Stade Bollaert-Delelis.",
-      "published": "2026-08-16T20:58:12Z",
+      "published": "2026-08-16T22:25:43Z",
       "url": "http://www.espn.com/soccer/report/_/gameId/401873661",
       "image": "https://a.espncdn.com/photo/2026/0816/r1702700_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
@@ -38,7 +38,27 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 141
+      "score": 143
+    },
+    {
+      "id": "49631489",
+      "headline": "Why Thiago Mendes snubbed Neymar: The feud that defined Vasco-Santos",
+      "description": "Neymar was left hanging by Thiago Mendes in Sunday's handshake line ahead of Vasco da Gama and Santos, and the pair's feud is six years in the making.",
+      "published": "2026-08-16T22:26:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49631489/why-thiago-mendes-snubbed-neymar-feud-defined-vasco-da-gama-vs-santos",
+      "image": "https://a.espncdn.com/photo/2026/0816/r1702676_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Neymar",
+        "Thiago Mendes",
+        "Kobbie Mainoo"
+      ],
+      "score": 140
     },
     {
       "id": "49630831",
@@ -60,6 +80,43 @@
       "score": 139
     },
     {
+      "id": "49632746",
+      "headline": "Maresca admits concerns as Man City plan more spending",
+      "description": "Maresca admits concerns as Man City plan more spending",
+      "published": "2026-08-16T22:18:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49632746/maresca-admits-concerns-man-city-plan-more-spending",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_PRESSER_Maresca_admits_concerns_as_Man_City_plan_more_spending_2026_8_13/dm_260816_COM_SOC_PRESSER_Maresca_admits_concerns_as_Man_City_plan_more_spending_2026_8_13.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49632391",
+      "headline": "Neymar-Mendes feud reignites in frosty handshake snub",
+      "description": "Neymar-Mendes feud reignites in frosty handshake snub",
+      "published": "2026-08-16T21:43:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/49632391/neymar-mendes-feud-reignites-frosty-handshake-snub",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_ANALYSIS_Neymar-Mendes_feud_reignites_in_frosty_handshake_snub_2026_8_16/dm_260816_COM_SOC_ANALYSIS_Neymar-Mendes_feud_reignites_in_frosty_handshake_snub_2026_8_16.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Neymar",
+        "Kobbie Mainoo"
+      ],
+      "score": 130
+    },
+    {
       "id": "49630724",
       "headline": "Cameroon crush Malawi to win first-ever WAFCON crown",
       "description": "Cameroon won their first ever Women's Africa Cup of Nations title by dismantling Malawi 3-0 in Rabat on Sunday, with three goals coming during a one-sided first-half display.",
@@ -78,7 +135,7 @@
         "Michaely Kyria Bihina",
         "Kobbie Mainoo"
       ],
-      "score": 130
+      "score": 129
     },
     {
       "id": "49632126",
@@ -117,64 +174,6 @@
       "score": 129
     },
     {
-      "id": "49630902",
-      "headline": "Espanyol vs. Levante - Game Highlights",
-      "description": "Watch the Game Highlights from Espanyol vs. Levante, 08/16/2026",
-      "published": "2026-08-16T19:09:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/49630902/espanyol-vs-levante-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0816/48dfc72c-558d-43f7-9a99-50b236576fbc/48dfc72c-558d-43f7-9a99-50b236576fbc.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Orio Rey",
-        "Tyrhys Dolan",
-        "Roberto Fernández",
-        "Javi Hernandez",
-        "Kobbie Mainoo"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49629835",
-      "headline": "Schalke 0-3 Real Madrid: Kylian Mbappé nets, Yan Diomande debuts, as Jose Mourinho stays unbeaten",
-      "description": "Kylian Mbappé, Dean Huijsen and Carlos Espí scored as Real Madrid beat Schalke 3-0 in the LaLiga team's final preseason friendly on Sunday.",
-      "published": "2026-08-16T19:03:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49629835/schalke-0-3-real-madrid-kylian-mbappe-scores-yan-diomande-debuts-jose-mourinho-stays-unbeaten",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702597_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49630832",
-      "headline": "Arsenal give Manchester City a wake up call",
-      "description": "James Olley reports on the worrisome result from Manchester City vs. Arsenal in the Community Shield.",
-      "published": "2026-08-16T18:55:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/49630832/arsenal-give-manchester-city-wake-call",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_City_Arsenal_IA/dm_260816_City_Arsenal_IA.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 126
-    },
-    {
       "id": "49610097",
       "headline": "Andrew Giuliani backs FIFA's Gianni Infantino, calls critics 'jealous'",
       "description": "",
@@ -204,7 +203,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 99
+      "score": 98
     },
     {
       "id": "49607480",
@@ -220,7 +219,7 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 86
+      "score": 85
     },
     {
       "id": "49600669",
