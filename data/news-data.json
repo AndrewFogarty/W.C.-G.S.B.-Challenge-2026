@@ -1,9 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-16T05:33:09.653Z",
+  "updated": "2026-08-16T05:58:33.618Z",
   "counts": {
-    "news": 36,
-    "offfield": 8,
+    "news": 35,
+    "offfield": 9,
     "preview": 3,
     "celebration": 1
   },
@@ -26,7 +26,7 @@
       "id": "49623511",
       "headline": "Messi has 3rd straight penalty miss as Nashville routs Miami",
       "description": "Lionel Messi missed his third penalty in a row as Inter Miami suffered a third consecutive loss in a 4-1 rout at first-place Nashville SC on Saturday.",
-      "published": "2026-08-16T03:18:31Z",
+      "published": "2026-08-16T03:29:20Z",
       "url": "https://www.espn.com/soccer/story/_/id/49623511/lionel-messi-penalty-miss-inter-miami-nashville-mls",
       "image": "https://a.espncdn.com/photo/2026/0816/r1702383_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -40,7 +40,25 @@
         "Lionel Messi",
         "Kobbie Mainoo"
       ],
-      "score": 142
+      "score": 141
+    },
+    {
+      "id": "49624218",
+      "headline": "Dynamo beats Galaxy for fourth straight shutout",
+      "description": "Guilherme Santos scored on a first-half penalty kick and Jonathan Bond posted his fourth clean sheet in a row to help the Houston Dynamo beat the Los Angeles Galaxy 1-0 on Saturday night.",
+      "published": "2026-08-16T03:22:51Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761715",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761715.png?templateId=espn.applewatch.awayhome.1",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 141
     },
     {
       "id": "49607572",
@@ -58,15 +76,59 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 136
+      "score": 135
+    },
+    {
+      "id": "49624843",
+      "headline": "More penalty heartbreak for Morocco as Algeria claim WAFCON bronze",
+      "description": "Algeria came from behind to defeat Morocco 3-2 in a penalty shootout, with the hosts left to rue missed chances.",
+      "published": "2026-08-16T04:20:17Z",
+      "url": "https://www.espn.com/espn/story/_/id/49624843/wafcon-2026-more-penalty-heartbreak-morocco-algeria-claim-bronze",
+      "image": "https://a.espncdn.com/photo/2026/0816/r1702406_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Algeria",
+        "Morocco"
+      ],
+      "players": [
+        "Lucas Herrington"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49624159",
+      "headline": "Nashville SC vs. Inter Miami CF - Game Highlights",
+      "description": "Watch the Game Highlights from Nashville SC vs. Inter Miami CF, 08/15/2026",
+      "published": "2026-08-16T03:36:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49624159/nashville-sc-vs-inter-miami-cf-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0816/776c9669-99c8-412a-8f4c-43ad37163925/776c9669-99c8-412a-8f4c-43ad37163925.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Telasco Segovia",
+        "Hany Mukhtar",
+        "Lionel Messi",
+        "Sam Surridge",
+        "Luis Suárez",
+        "Andy Nájar",
+        "Lucas Herrington"
+      ],
+      "score": 129
     },
     {
       "id": "49624272",
       "headline": "Mukhtar brace helps 1st-placed Nashville rout Miami",
       "description": "Hany Mukhtar scored a pair of second-half goals and Nashville SC beat Lionel Messi and Inter Miami 4-1 on Saturday night in a match featuring the top two teams in the Eastern Conference to remain atop the MLS standings.",
-      "published": "2026-08-16T03:21:19Z",
+      "published": "2026-08-16T03:24:39Z",
       "url": "http://www.espn.com/soccer/report/_/gameId/761716",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761716.png?templateId=espn.applewatch.awayhome.1",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0816/4e9baa60-d62e-4a70-b8a4-98f5f6449024/4e9baa60-d62e-4a70-b8a4-98f5f6449024.jpg",
       "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
@@ -76,7 +138,25 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 130
+      "score": 129
+    },
+    {
+      "id": "49623894",
+      "headline": "Baribo scores again as DC United tie with Montreal",
+      "description": "Tai Baribo scored a goal for the fifth consecutive game and Sean Johnson had six saves Saturday night for D.C. United in a 1-1 tie with CF Montreal.",
+      "published": "2026-08-16T03:24:17Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761711",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761711.png?templateId=espn.applewatch.awayhome.1",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 129
     },
     {
       "id": "49623872",
@@ -94,25 +174,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 130
-    },
-    {
-      "id": "49623813",
-      "headline": "Toronto beats Revolution for 1st win since April 4",
-      "description": "Niklas Dorsch scored his first career goal in MLS, Luka Gavran had five saves, and Toronto FC beat the New England Revolution 2-1 on Saturday night to snap a 12-game winless streak.",
-      "published": "2026-08-16T03:15:38Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761714",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761714.png?templateId=espn.applewatch.awayhome.1",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 130
+      "score": 129
     },
     {
       "id": "49624184",
@@ -157,7 +219,7 @@
         "Caiya Hanks",
         "Kobbie Mainoo"
       ],
-      "score": 129
+      "score": 128
     },
     {
       "id": "49623939",
@@ -182,24 +244,6 @@
       "score": 128
     },
     {
-      "id": "49623677",
-      "headline": "Atlanta beats Red Bulls to snap 7-game winless skid",
-      "description": "Fafà Picault scored the go-ahead goal in the 82nd minute, Tristan Muyumba scored for the second consecutive game, and Atlanta United rallied to beat the New York Red Bulls 2-1 on Saturday night to snap a seven-game winless streak.",
-      "published": "2026-08-16T02:03:46Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761712",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761712.png?templateId=espn.applewatch.awayhome.1",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 128
-    },
-    {
       "id": "49607480",
       "headline": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania",
       "description": "New Zealand's football federation has withdrawn its support for under-fire FIFA president Gianni Infantino in a break with the wider Oceania Football Confederation (OFC).",
@@ -213,7 +257,7 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 123
+      "score": 122
     },
     {
       "id": "49600669",
@@ -245,7 +289,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 88
+      "score": 87
     },
     {
       "id": "49599931",
@@ -261,7 +305,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 66
+      "score": 65
     },
     {
       "id": "49598001",
@@ -277,7 +321,7 @@
         "USA"
       ],
       "players": [],
-      "score": 57
+      "score": 56
     },
     {
       "id": "49598888",
@@ -781,34 +825,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49547919/fifa-organisation-gone-toilet",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet/dm_260806_Burley_FIFA_as_an_organisation_has_gone_down_the_toilet.jpg",
       "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49551026",
-      "headline": "CAF agree to support Gianni Infantino amid FIFA governance crisis",
-      "description": "The Confederation of African Football has thrown its full weight behind FIFA president Gianni Infantino, unanimously reaffirming its support for the embattled Swiss administrator.",
-      "published": "2026-08-07T08:03:52Z",
-      "url": "https://www.espn.com/espn/story/_/id/49551026/caf-agree-support-gianni-infantino-amid-fifa-governance-crisis",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698273_1296x729_16-9.png",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49536934",
-      "headline": "Which big clubs are struggling with World Cup burnout?",
-      "description": "The World Cup was a great spectacle, but it was also hard work for the players, and as many of the game's stars return to their clubs to prepare for the 2026-27, which clubs are battling burnout the most?",
-      "published": "2026-08-07T07:22:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
