@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-17T07:34:48.936Z",
+  "updated": "2026-08-17T08:21:44.266Z",
   "counts": {
-    "offfield": 8,
-    "news": 36,
+    "offfield": 9,
+    "injury": 1,
+    "news": 34,
     "preview": 3,
     "celebration": 1
   },
@@ -20,7 +21,90 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 194
+      "score": 193
+    },
+    {
+      "id": "49525764",
+      "headline": "Australia's top 11 most expensive transfers of all-time",
+      "description": "Nestory Irankunda has bumped Lucas Herrington out of second place on the list.",
+      "published": "2026-08-17T05:44:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49525764/australias-top-11-most-expensive-transfers-all",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702825_550x310_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England",
+        "Australia"
+      ],
+      "players": [
+        "Harry Souttar",
+        "Nestory Irankunda",
+        "Lucas Herrington",
+        "Mathew Ryan",
+        "Cristian Volpato",
+        "Kobbie Mainoo"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49634733",
+      "headline": "Auburn's Hannah Bell talks brace vs. Jaguars, transfer into SEC",
+      "description": "After scoring twice in the first half of the Tigers' 5-0 blowout win over Jacksonville State, senior Bell describes the adjustment to SEC student-athlete life.",
+      "published": "2026-08-17T02:33:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/49634733/auburn-hannah-bell-talks-brace-vs-jaguars-transfer-sec",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_SEC_WSOC_Interview_Aub_Bell_brace_260816/dm_260816_SEC_WSOC_Interview_Aub_Bell_brace_260816.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49634986",
+      "headline": "Angel City FC vs. Washington Spirit - Game Highlights",
+      "description": "Watch the Game Highlights from Angel City FC vs. Washington Spirit, 08/17/2026",
+      "published": "2026-08-17T03:18:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/49634986/angel-city-fc-vs-washington-spirit-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0817/0fda7f58-3f59-486b-a4ba-0ec1cdbd5ae4/0fda7f58-3f59-486b-a4ba-0ec1cdbd5ae4.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Ally Sentnor",
+        "Trinity Rodman",
+        "Kobbie Mainoo"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49634858",
+      "headline": "Austin FC vs. FC Dallas - Game Highlights",
+      "description": "Watch the Game Highlights from Austin FC vs. FC Dallas, 08/16/2026",
+      "published": "2026-08-17T02:50:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49634858/austin-fc-vs-fc-dallas-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0817/81be2418-7440-4946-b1f4-7fb7ec269b1a/81be2418-7440-4946-b1f4-7fb7ec269b1a.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Bernard Kamungo",
+        "Lalas Abubakar",
+        "Petar Musa",
+        "Kobbie Mainoo"
+      ],
+      "score": 125
     },
     {
       "id": "49634209",
@@ -43,7 +127,7 @@
         "Evelyn Ijeh",
         "Kobbie Mainoo"
       ],
-      "score": 123
+      "score": 122
     },
     {
       "id": "49633970",
@@ -61,7 +145,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 123
+      "score": 122
     },
     {
       "id": "49633817",
@@ -79,7 +163,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 123
+      "score": 122
     },
     {
       "id": "49633792",
@@ -103,80 +187,7 @@
         "Bruno Damiani",
         "Kobbie Mainoo"
       ],
-      "score": 122
-    },
-    {
-      "id": "49633291",
-      "headline": "South Carolina vs. Wake Forest: Game Highlights",
-      "description": "South Carolina vs. Wake Forest: Game Highlights",
-      "published": "2026-08-16T23:27:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/49633291/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0816/a7fae2d9-7c54-4301-847c-c5aae41abbb2/a7fae2d9-7c54-4301-847c-c5aae41abbb2.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
       "score": 121
-    },
-    {
-      "id": "49633277",
-      "headline": "Arsenal claim Community Shield title in dominant fashion",
-      "description": "Arsenal defeat Manchester City 3-0 to win their second Community Shield in four years.",
-      "published": "2026-08-16T23:26:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/49633277/arsenal-claim-community-shield-title-dominant-fashion",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_Soccer_HIGHLIGHT_Arsenal_claim_Community_Shield_title_in_dominant_fashion_20260817_AUS/dm_260816_Soccer_HIGHLIGHT_Arsenal_claim_Community_Shield_title_in_dominant_fashion_20260817_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49632746",
-      "headline": "Maresca admits concerns as Man City plan more spending",
-      "description": "Maresca admits concerns as Man City plan more spending",
-      "published": "2026-08-16T22:18:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/49632746/maresca-admits-concerns-man-city-plan-more-spending",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_PRESSER_Maresca_admits_concerns_as_Man_City_plan_more_spending_2026_8_13/dm_260816_COM_SOC_PRESSER_Maresca_admits_concerns_as_Man_City_plan_more_spending_2026_8_13.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 119
-    },
-    {
-      "id": "49632391",
-      "headline": "Neymar-Mendes feud reignites in frosty handshake snub",
-      "description": "Neymar-Mendes feud reignites in frosty handshake snub",
-      "published": "2026-08-16T21:43:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/49632391/neymar-mendes-feud-reignites-frosty-handshake-snub",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_ANALYSIS_Neymar-Mendes_feud_reignites_in_frosty_handshake_snub_2026_8_16/dm_260816_COM_SOC_ANALYSIS_Neymar-Mendes_feud_reignites_in_frosty_handshake_snub_2026_8_16.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Neymar",
-        "Kobbie Mainoo"
-      ],
-      "score": 118
     },
     {
       "id": "49610097",
@@ -190,7 +201,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 99
+      "score": 98
     },
     {
       "id": "49607572",
@@ -208,7 +219,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 87
+      "score": 86
     },
     {
       "id": "49607480",
@@ -224,7 +235,7 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 74
+      "score": 73
     },
     {
       "id": "49600669",
@@ -238,7 +249,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 59
     },
     {
       "id": "47978642",
