@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-17T18:53:36.756Z",
+  "updated": "2026-08-17T19:25:35.455Z",
   "counts": {
-    "news": 33,
-    "offfield": 10,
-    "preview": 4,
+    "news": 34,
+    "offfield": 9,
+    "injury": 1,
+    "preview": 3,
     "celebration": 1
   },
   "items": [
@@ -22,7 +23,7 @@
         "Scotland"
       ],
       "players": [],
-      "score": 205
+      "score": 204
     },
     {
       "id": "49601593",
@@ -36,62 +37,44 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 167
+      "score": 166
     },
     {
-      "id": "49639894",
-      "headline": "Coventry City sign striker Taiwo Awoniyi from Nottingham Forest",
-      "description": "Coventry City have signed striker Taiwo Awoniyi from Nottingham Forest.",
-      "published": "2026-08-17T17:11:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49639894/coventry-city-sign-striker-taiwo-awoniyi-nottingham-forest",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703025_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49638146",
+      "headline": "NWSL Power Rankings: Even without Moultrie, Portland is on the rise as K.C. sinks",
+      "description": "Olivia Moultire is out for the season with an ACL tear, but her Portland Thorns are finding a way to climb up the order in ESPN's NWSL Power Rankings.",
+      "published": "2026-08-17T14:40:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49638146/nwsl-power-rankings-even-olivia-moultrie-portland-thorns-rise-kansas-city-current-sink",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702935_1296x729_16-9.jpg",
+      "byline": "Jenna Pel",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49638681",
+      "headline": "Marcotti: Rodri's move to Barcelona from Man City 'makes no sense'",
+      "description": "Marcotti: Rodri's move to Barcelona from Man City 'makes no sense'",
+      "published": "2026-08-17T14:27:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/49638681/rodri-move-barcelona-man-city-makes-no-sense",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Marcotti_Rodris_move_to_Barcelona_from_Man_City_makes_no_sense_20260817_GLO/dm_260817_COM_SOC_Analysis_Marcotti_Rodris_move_to_Barcelona_from_Man_City_makes_no_sense_20260817_GLO.jpg",
+      "byline": null,
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "England"
       ],
       "players": [
-        "Taiwo Awoniyi",
+        "Rodri",
         "Kobbie Mainoo"
       ],
-      "score": 142
-    },
-    {
-      "id": "49639618",
-      "headline": "Strasbourg sign Ortega from Real Madrid in record academy deal",
-      "description": "Real Madrid sent center forward Jacobo Ortega on Monday to French club Strasbourg, who recouped more than five times the transfer fee by dealing the contracts of two players to Ipswich.",
-      "published": "2026-08-17T17:08:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49639618/strasbourg-sign-ortega-real-madrid-record-academy-deal",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703009_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49638217",
-      "headline": "Man City's 115 charges still linger ahead of new Premier League season. Why?",
-      "description": "It's been several years since the Premier League announced charges against Man City. On the eve of the new campaign, why are we still waiting for a resolution?",
-      "published": "2026-08-17T16:40:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49638217/premier-league-manchester-city-115-charges-verdict-latest-mark-ogden",
-      "image": "https://a.espncdn.com/photo/2026/0226/r1620396_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 139
+      "score": 138
     },
     {
       "id": "49639696",
@@ -148,7 +131,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 128
+      "score": 127
     },
     {
       "id": "49639136",
@@ -167,7 +150,25 @@
         "Mohamed Salah",
         "Kobbie Mainoo"
       ],
-      "score": 128
+      "score": 127
+    },
+    {
+      "id": "49638751",
+      "headline": "Thailand coach Anthony Hudson plays down confrontation with Singapore counterpart Gavin Lee",
+      "description": "Thailand coach Anthony Hudson believes his confrontation with Singapore's Gavin Lee is now a matter of the past.",
+      "published": "2026-08-17T14:57:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49638751/thailand-coach-anthony-hudson-plays-confrontation-singapore-counterpart-gavin-lee",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702937_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 126
     },
     {
       "id": "49610097",
