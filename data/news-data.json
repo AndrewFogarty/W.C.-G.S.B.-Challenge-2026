@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-17T05:08:55.885Z",
+  "updated": "2026-08-17T05:49:37.286Z",
   "counts": {
     "offfield": 9,
-    "news": 35,
+    "injury": 1,
+    "news": 34,
     "preview": 3,
     "celebration": 1
   },
@@ -20,16 +21,35 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 198
+      "score": 197
     },
     {
-      "id": "49602975",
-      "headline": "10-man Lens shock PSG to win French Super Cup",
-      "description": "Lens overcame a first-half red card for defender Kyllian Antonio to battle to a 1-0 win over Paris Saint-Germain in the Trophee de Champions at Stade Bollaert-Delelis.",
-      "published": "2026-08-16T22:25:43Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401873661",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702700_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "49525764",
+      "headline": "Australia's top 11 most expensive transfers of all-time",
+      "description": "Nestory Irankunda has bumped Lucas Herrington out of second place on the list.",
+      "published": "2026-08-17T02:02:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49525764/australias-top-11-most-expensive-transfers-all",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702825_550x310_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England",
+        "Australia"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49634733",
+      "headline": "Auburn's Hannah Bell talks brace vs. Jaguars, transfer into SEC",
+      "description": "After scoring twice in the first half of the Tigers' 5-0 blowout win over Jacksonville State, senior Bell describes the adjustment to SEC student-athlete life.",
+      "published": "2026-08-17T02:33:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/49634733/auburn-hannah-bell-talks-brace-vs-jaguars-transfer-sec",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_SEC_WSOC_Interview_Aub_Bell_brace_260816/dm_260816_SEC_WSOC_Interview_Aub_Bell_brace_260816.jpg",
+      "byline": null,
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
@@ -38,15 +58,15 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 135
+      "score": 140
     },
     {
-      "id": "49633291",
-      "headline": "South Carolina vs. Wake Forest: Game Highlights",
-      "description": "South Carolina vs. Wake Forest: Game Highlights",
-      "published": "2026-08-16T23:27:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/49633291/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0816/a7fae2d9-7c54-4301-847c-c5aae41abbb2/a7fae2d9-7c54-4301-847c-c5aae41abbb2.jpg",
+      "id": "49634986",
+      "headline": "Angel City FC vs. Washington Spirit - Game Highlights",
+      "description": "Watch the Game Highlights from Angel City FC vs. Washington Spirit, 08/17/2026",
+      "published": "2026-08-17T03:18:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/49634986/angel-city-fc-vs-washington-spirit-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0817/0fda7f58-3f59-486b-a4ba-0ec1cdbd5ae4/0fda7f58-3f59-486b-a4ba-0ec1cdbd5ae4.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -54,17 +74,19 @@
         "England"
       ],
       "players": [
+        "Ally Sentnor",
+        "Trinity Rodman",
         "Kobbie Mainoo"
       ],
-      "score": 124
+      "score": 129
     },
     {
-      "id": "49633277",
-      "headline": "Arsenal claim Community Shield title in dominant fashion",
-      "description": "Arsenal defeat Manchester City 3-0 to win their second Community Shield in four years.",
-      "published": "2026-08-16T23:26:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/49633277/arsenal-claim-community-shield-title-dominant-fashion",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_Soccer_HIGHLIGHT_Arsenal_claim_Community_Shield_title_in_dominant_fashion_20260817_AUS/dm_260816_Soccer_HIGHLIGHT_Arsenal_claim_Community_Shield_title_in_dominant_fashion_20260817_AUS.jpg",
+      "id": "49634858",
+      "headline": "Austin FC vs. FC Dallas - Game Highlights",
+      "description": "Watch the Game Highlights from Austin FC vs. FC Dallas, 08/16/2026",
+      "published": "2026-08-17T02:50:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49634858/austin-fc-vs-fc-dallas-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0817/81be2418-7440-4946-b1f4-7fb7ec269b1a/81be2418-7440-4946-b1f4-7fb7ec269b1a.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -72,17 +94,20 @@
         "England"
       ],
       "players": [
+        "Bernard Kamungo",
+        "Lalas Abubakar",
+        "Petar Musa",
         "Kobbie Mainoo"
       ],
-      "score": 124
+      "score": 129
     },
     {
-      "id": "49632746",
-      "headline": "Maresca admits concerns as Man City plan more spending",
-      "description": "Maresca admits concerns as Man City plan more spending",
-      "published": "2026-08-16T22:18:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/49632746/maresca-admits-concerns-man-city-plan-more-spending",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_PRESSER_Maresca_admits_concerns_as_Man_City_plan_more_spending_2026_8_13/dm_260816_COM_SOC_PRESSER_Maresca_admits_concerns_as_Man_City_plan_more_spending_2026_8_13.jpg",
+      "id": "49634209",
+      "headline": "North Carolina Courage vs. Houston Dash - Game Highlights",
+      "description": "Watch the Game Highlights from North Carolina Courage vs. Houston Dash, 08/17/2026",
+      "published": "2026-08-17T01:14:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/49634209/north-carolina-courage-vs-houston-dash-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0817/e1a775fd-9b3e-4293-8cf2-5849cc231402/e1a775fd-9b3e-4293-8cf2-5849cc231402.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -90,17 +115,58 @@
         "England"
       ],
       "players": [
+        "Kate Faasse",
+        "Clarissa Laris­ey",
+        "Érica Parkinson",
+        "Ally Schlegel",
+        "Evelyn Ijeh",
         "Kobbie Mainoo"
       ],
-      "score": 123
+      "score": 126
     },
     {
-      "id": "49632391",
-      "headline": "Neymar-Mendes feud reignites in frosty handshake snub",
-      "description": "Neymar-Mendes feud reignites in frosty handshake snub",
-      "published": "2026-08-16T21:43:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/49632391/neymar-mendes-feud-reignites-frosty-handshake-snub",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_ANALYSIS_Neymar-Mendes_feud_reignites_in_frosty_handshake_snub_2026_8_16/dm_260816_COM_SOC_ANALYSIS_Neymar-Mendes_feud_reignites_in_frosty_handshake_snub_2026_8_16.jpg",
+      "id": "49633970",
+      "headline": "Chicago Fire spoil Cifuentes' debut in win over Portland Timbers",
+      "description": "Dje D'Avilla had a goal and an assist in the first 14 minutes as Chicago Fire FC spoiled the debut of Portland Timbers coach Martí Cifuentes with a 2-1 victory on Sunday night.",
+      "published": "2026-08-17T01:10:08Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761723",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761723.png?templateId=espn.applewatch.awayhome.1",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49633817",
+      "headline": "Damiani scores 2, Sullivan sets up 2 in Union rally over NYCFC",
+      "description": "Bruno Damiani scored his first two goals of the season, 16-year-old Cavan Sullivan had two assists and the Philadelphia Union rallied from two goals down to beat New York City FC 3-2 on Sunday night at Yankee Stadium.",
+      "published": "2026-08-17T00:57:11Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761722",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702808_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49633792",
+      "headline": "New York City FC vs. Philadelphia Union - Game Highlights",
+      "description": "Watch the Game Highlights from New York City FC vs. Philadelphia Union, 08/16/2026",
+      "published": "2026-08-17T00:22:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/49633792/new-york-city-fc-vs-philadelphia-union-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0817/029fa3f1-242c-4c03-bf77-6d860856f6e6/029fa3f1-242c-4c03-bf77-6d860856f6e6.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -108,67 +174,15 @@
         "England"
       ],
       "players": [
-        "Neymar",
+        "Luighi Hanri",
+        "Andrés Perea",
+        "Bénie Traoré",
+        "Danley Jean Jacques",
+        "Cavan Sullivan",
+        "Bruno Damiani",
         "Kobbie Mainoo"
       ],
-      "score": 122
-    },
-    {
-      "id": "49630724",
-      "headline": "Cameroon crush Malawi to win first-ever WAFCON crown",
-      "description": "Cameroon won their first ever Women's Africa Cup of Nations title by dismantling Malawi 3-0 in Rabat on Sunday, with three goals coming during a one-sided first-half display.",
-      "published": "2026-08-16T21:26:31Z",
-      "url": "https://www.espn.com/espn/story/_/id/49630724/cameroon-crush-malawi-win-first-ever-wafcon-crown",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702704_1296x729_16-9.png",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Tabitha Chawinga",
-        "Temwa Chawinga",
-        "Michaely Kyria Bihina",
-        "Kobbie Mainoo"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49632126",
-      "headline": "Michalik: Wirtz has to be Liverpool's 'Bruno Fernandes' this season",
-      "description": "Michalik: Wirtz has to be Liverpool's 'Bruno Fernandes' this season",
-      "published": "2026-08-16T21:22:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49632126/wirtz-liverpool-bruno-fernandes-season",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_ANALYSIS_Michalik_Wirtz_has_to_be_Liverpools_Bruno_Fernandes_this_season_2026_8_16/dm_260816_COM_SOC_ANALYSIS_Michalik_Wirtz_has_to_be_Liverpools_Bruno_Fernandes_this_season_2026_8_16.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49632111",
-      "headline": "Kirkland: Real Madrid have the squad to beat Barcelona",
-      "description": "Kirkland: Real Madrid have the squad to beat Barcelona",
-      "published": "2026-08-16T21:21:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/49632111/real-madrid-squad-beat-barcelona",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_ANALYSIS_Kirkland_Real_Madrid_have_the_squad_to_beat_Barcelona_2026_8_16/dm_260816_COM_SOC_ANALYSIS_Kirkland_Real_Madrid_have_the_squad_to_beat_Barcelona_2026_8_16.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 121
+      "score": 125
     },
     {
       "id": "49610097",
@@ -182,7 +196,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 103
+      "score": 102
     },
     {
       "id": "49607572",
@@ -200,7 +214,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 91
+      "score": 90
     },
     {
       "id": "49607480",
@@ -216,7 +230,7 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 78
+      "score": 77
     },
     {
       "id": "49600669",
@@ -230,7 +244,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 64
+      "score": 63
     },
     {
       "id": "47978642",
