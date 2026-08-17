@@ -1,11 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-17T15:57:20.123Z",
+  "updated": "2026-08-17T16:36:11.318Z",
   "counts": {
-    "news": 35,
+    "news": 33,
     "offfield": 9,
-    "preview": 3,
-    "celebration": 1
+    "injury": 1,
+    "celebration": 2,
+    "preview": 3
   },
   "items": [
     {
@@ -36,53 +37,107 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 171
+      "score": 170
     },
     {
-      "id": "49636079",
-      "headline": "Transfer rumors, news: Barcelona eye Arsenal striker Viktor Gyökeres",
-      "description": "Barcelona are considering a move for Arsenal striker Viktor Gyökeres. Transfer Talk has the latest.",
-      "published": "2026-08-17T13:45:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49636079/transfer-rumors-news-barcelona-eye-arsenal-striker-viktor-gyokeres",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702859_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49638146",
+      "headline": "NWSL Power Rankings: Even without Moultrie, Portland is on the rise as K.C. sinks",
+      "description": "Olivia Moultire is out for the season with an ACL tear, but her Portland Thorns are finding a way to climb up the order in ESPN's NWSL Power Rankings.",
+      "published": "2026-08-17T14:40:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49638146/nwsl-power-rankings-even-olivia-moultrie-portland-thorns-rise-kansas-city-current-sink",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702935_1296x729_16-9.jpg",
+      "byline": "Jenna Pel",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49638681",
+      "headline": "Marcotti: Rodri's move to Barcelona from Man City 'makes no sense'",
+      "description": "Marcotti: Rodri's move to Barcelona from Man City 'makes no sense'",
+      "published": "2026-08-17T14:27:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/49638681/rodri-move-barcelona-man-city-makes-no-sense",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Marcotti_Rodris_move_to_Barcelona_from_Man_City_makes_no_sense_20260817_GLO/dm_260817_COM_SOC_Analysis_Marcotti_Rodris_move_to_Barcelona_from_Man_City_makes_no_sense_20260817_GLO.jpg",
+      "byline": null,
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "England"
       ],
       "players": [
-        "Viktor Gyökeres",
+        "Rodri",
         "Kobbie Mainoo"
       ],
       "score": 142
     },
     {
-      "id": "49637958",
-      "headline": "How a tiny Basque club spawned Premier League's top managers",
-      "description": "Whether it be the Premier League, Champions League or World Cup, hiring a coach from Spain's northern coast is bringing clubs guaranteed success.",
-      "published": "2026-08-17T13:44:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49637958/arteta-alonso-iraola-tiny-basque-club-shaped-premier-league-top-bosses",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702904_1296x729_16-9.jpg",
-      "byline": "Garham Hunter",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49638437",
+      "headline": "Ball-boy kicked by Chelsea's Eden Hazard to sell company for major windfall",
+      "description": "The ball-boy kicked by Eden Hazard in 2013 is reportedly set to earn a major windfall by selling his viral business.",
+      "published": "2026-08-17T14:06:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49638437/ball-boy-charlie-morghan-kicked-chelsea-eden-hazard-sell-company-au-vodka",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702922_1296x729_16-9.jpg",
+      "byline": "James Dielhenn and Matt Morlidge",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
-        "England",
-        "Spain"
+        "England"
       ],
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 130
+      "score": 136
     },
     {
-      "id": "49638108",
-      "headline": "Balance the key to Singapore's ASEAN Championship comeback quest against Thailand",
-      "description": "Singapore have a two-goal deficit to overcome against Thailand on Tuesday but all-out attack could be an unwise approach.",
-      "published": "2026-08-17T13:14:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49638108/balance-key-singapore-asean-championship-comeback-quest-thailand",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702908_1296x729_16-9.jpg",
+      "id": "49638809",
+      "headline": "MLS Power Rankings: Nashville blows out Miami to take top spot",
+      "description": "Nashville put four past a full-strength Inter Miami, and now the Music City side have overtaken their expansion cousins atop ESPN's MLS Power Rankings.",
+      "published": "2026-08-17T15:25:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49638809/mls-power-rankings-nashville-sc-blows-inter-miami-take-top-spot",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702948_1296x729_16-9.jpg",
+      "byline": "Megan Swanick",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49639136",
+      "headline": "What Mo Salah's arrival from Liverpool means for Trabzonspor",
+      "description": "What Mo Salah's arrival from Liverpool means for Trabzonspor",
+      "published": "2026-08-17T15:19:00Z",
+      "url": "https://www.espn.com/video/clip/_/id/49639136/what-mo-salah-arrival-liverpool-means-trabzonspor",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_What_Mo_Salahs_arrival_from_Liverpool_means_for_Trabzonspor_20260817_GLOBAL/dm_260817_COM_SOC_Analysis_What_Mo_Salahs_arrival_from_Liverpool_means_for_Trabzonspor_20260817_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Kobbie Mainoo"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49638751",
+      "headline": "Thailand coach Anthony Hudson plays down confrontation with Singapore counterpart Gavin Lee",
+      "description": "Thailand coach Anthony Hudson believes his confrontation with Singapore's Gavin Lee is now a matter of the past.",
+      "published": "2026-08-17T14:57:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49638751/thailand-coach-anthony-hudson-plays-confrontation-singapore-counterpart-gavin-lee",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702937_1296x729_16-9.jpg",
       "byline": "Gabriel Tan",
       "kind": "news",
       "kindLabel": "News",
@@ -90,106 +145,47 @@
         "England"
       ],
       "players": [
-        "Ilhan Fandi",
         "Kobbie Mainoo"
       ],
-      "score": 129
+      "score": 131
     },
     {
-      "id": "49637758",
-      "headline": "Marcotti: Stones and Spence to Inter Milan will 'bring quality'",
-      "description": "Marcotti: Stones and Spence to Inter Milan will 'bring quality'",
-      "published": "2026-08-17T12:35:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49637758/stones-spence-inter-milan-bring-quality",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_Marcotti_Stones_and_Spence_to_Inter_Milan_will_bring_quality/dm_260817_Marcotti_Stones_and_Spence_to_Inter_Milan_will_bring_quality.jpg",
-      "byline": null,
+      "id": "49638680",
+      "headline": "Cagliari forward Yael Trepy, 20, in intensive care after swimming incident",
+      "description": "Cagliari forward Yael Trepy is in intensive care in hospital, the Italian club said on Monday without giving details on his condition.",
+      "published": "2026-08-17T14:40:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49638680/cagliari-forward-yael-trepy-20-intensive-care-swimming-incident",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702939_1296x729_16-9.jpg",
+      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "England"
       ],
       "players": [
-        "Djed Spence",
-        "John Stones",
+        "Yael Trepy",
         "Kobbie Mainoo"
       ],
-      "score": 128
+      "score": 130
     },
     {
-      "id": "49637589",
-      "headline": "Marcotti: If Arsenal had this Ødegaard all season, they'd go places",
-      "description": "Marcotti: If Arsenal had this Ødegaard all season, they'd go places",
-      "published": "2026-08-17T12:18:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49637589/arsenal-had-odegaard-all-season-go-places",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_Marcotti_If_Arsenal_had_this_Odegaard_all_season_theyd_go_places/dm_260817_Marcotti_If_Arsenal_had_this_Odegaard_all_season_theyd_go_places.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Martin Ødegaard",
-        "Kobbie Mainoo"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49637563",
-      "headline": "Laurens: People have been quick to judge Maresca",
-      "description": "Laurens: People have been quick to judge Maresca",
-      "published": "2026-08-17T12:10:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/49637563/people-quick-judge-maresca",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_Laurens_People_have_been_quick_to_judge_Maresca/dm_260817_Laurens_People_have_been_quick_to_judge_Maresca.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49637444",
-      "headline": "Sergio Busquets begins coaching role with Barcelona reserve team",
-      "description": "Former Barcelona midfielder Sergio Busquets has returned to the club to begin his coaching career with the reserve team in the Spanish fourth tier.",
-      "published": "2026-08-17T11:43:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49637444/sergio-busquets-begins-coaching-role-barcelona-reserve-team",
-      "image": "https://a.espncdn.com/photo/2023/0623/r1189821_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49637198",
-      "headline": "Martin Ødegaard on Bruno Guimarães: 'Connection already there' in Arsenal midfield",
-      "description": "Martin Ødegaard has spoken glowingly of Bruno Guimarães and said he has already formed a connection with the Brazil international on the pitch.",
-      "published": "2026-08-17T11:29:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49637198/martin-odegaard-bruno-guimarees-connection-already-there-arsenal-midfield",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702566_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
+      "id": "49638455",
+      "headline": "Sebastien Pocognoli has wooed Scotland's FA, now he must forge a team worthy of the Tartan Army",
+      "description": "New Scotland head coach Sebastien Pocognoli has talked the talk with the SFA, but is he the man to bring the country some long-awaited success?",
+      "published": "2026-08-17T14:21:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49638455/sebastien-pocognoli-scotland-new-coach-tartan-army-world-cup-steve-clarke-tom-hamilton",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702921_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "England",
-        "Brazil"
+        "Scotland"
       ],
       "players": [
-        "Martin Ødegaard",
-        "Bruno Guimarães",
         "Kobbie Mainoo"
       ],
-      "score": 126
+      "score": 130
     },
     {
       "id": "49610097",
@@ -203,7 +199,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 77
+      "score": 76
     },
     {
       "id": "49607572",
@@ -221,7 +217,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 64
+      "score": 63
     },
     {
       "id": "49607480",
@@ -237,7 +233,7 @@
         "New Zealand"
       ],
       "players": [],
-      "score": 51
+      "score": 50
     },
     {
       "id": "49600669",
@@ -251,7 +247,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 38
+      "score": 37
     },
     {
       "id": "47978642",
