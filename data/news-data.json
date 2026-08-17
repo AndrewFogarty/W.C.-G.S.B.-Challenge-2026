@@ -1,11 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-17T18:02:20.770Z",
+  "updated": "2026-08-17T18:53:36.756Z",
   "counts": {
-    "news": 34,
-    "offfield": 9,
-    "injury": 1,
-    "preview": 3,
+    "news": 33,
+    "offfield": 10,
+    "preview": 4,
     "celebration": 1
   },
   "items": [
@@ -23,7 +22,7 @@
         "Scotland"
       ],
       "players": [],
-      "score": 206
+      "score": 205
     },
     {
       "id": "49601593",
@@ -37,18 +36,37 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 168
+      "score": 167
     },
     {
-      "id": "49638146",
-      "headline": "NWSL Power Rankings: Even without Moultrie, Portland is on the rise as K.C. sinks",
-      "description": "Olivia Moultire is out for the season with an ACL tear, but her Portland Thorns are finding a way to climb up the order in ESPN's NWSL Power Rankings.",
-      "published": "2026-08-17T14:40:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49638146/nwsl-power-rankings-even-olivia-moultrie-portland-thorns-rise-kansas-city-current-sink",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702935_1296x729_16-9.jpg",
-      "byline": "Jenna Pel",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49639894",
+      "headline": "Coventry City sign striker Taiwo Awoniyi from Nottingham Forest",
+      "description": "Coventry City have signed striker Taiwo Awoniyi from Nottingham Forest.",
+      "published": "2026-08-17T17:11:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49639894/coventry-city-sign-striker-taiwo-awoniyi-nottingham-forest",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1703025_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Taiwo Awoniyi",
+        "Kobbie Mainoo"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49639618",
+      "headline": "Strasbourg sign Ortega from Real Madrid in record academy deal",
+      "description": "Real Madrid sent center forward Jacobo Ortega on Monday to French club Strasbourg, who recouped more than five times the transfer fee by dealing the contracts of two players to Ipswich.",
+      "published": "2026-08-17T17:08:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49639618/strasbourg-sign-ortega-real-madrid-record-academy-deal",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1703009_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "England"
       ],
@@ -58,23 +76,61 @@
       "score": 142
     },
     {
-      "id": "49638681",
-      "headline": "Marcotti: Rodri's move to Barcelona from Man City 'makes no sense'",
-      "description": "Marcotti: Rodri's move to Barcelona from Man City 'makes no sense'",
-      "published": "2026-08-17T14:27:39Z",
-      "url": "https://www.espn.com/video/clip/_/id/49638681/rodri-move-barcelona-man-city-makes-no-sense",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Marcotti_Rodris_move_to_Barcelona_from_Man_City_makes_no_sense_20260817_GLO/dm_260817_COM_SOC_Analysis_Marcotti_Rodris_move_to_Barcelona_from_Man_City_makes_no_sense_20260817_GLO.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49638217",
+      "headline": "Man City's 115 charges still linger ahead of new Premier League season. Why?",
+      "description": "It's been several years since the Premier League announced charges against Man City. On the eve of the new campaign, why are we still waiting for a resolution?",
+      "published": "2026-08-17T16:40:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49638217/premier-league-manchester-city-115-charges-verdict-latest-mark-ogden",
+      "image": "https://a.espncdn.com/photo/2026/0226/r1620396_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "England"
       ],
       "players": [
-        "Rodri",
         "Kobbie Mainoo"
       ],
-      "score": 140
+      "score": 139
+    },
+    {
+      "id": "49639696",
+      "headline": "Chelsea's Reece James: 'Rust' needs to come off before Premier League opener",
+      "description": "Reece James said there is \"rust\" to come off before he is match fit after being given an extended Chelsea break following England's run to the World Cup semifinal.",
+      "published": "2026-08-17T16:32:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49639696/chelsea-reece-james-rust-needs-come-premier-league-opener",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702996_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Reece James",
+        "Kobbie Mainoo"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49639380",
+      "headline": "Is Vicario a better option for Juventus than Martínez?",
+      "description": "Is Vicario a better option for Juventus than Martínez?",
+      "published": "2026-08-17T15:51:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49639380/is-vicario-better-option-juventus-martinez",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Is_Vicario_a_better_option_for_Juventus_than_Martinez_20260817_GLOBAL/dm_260817_COM_SOC_Analysis_Is_Vicario_a_better_option_for_Juventus_than_Martinez_20260817_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Emiliano Martínez",
+        "Guglielmo Vicario",
+        "Kobbie Mainoo"
+      ],
+      "score": 128
     },
     {
       "id": "49638809",
@@ -92,7 +148,7 @@
       "players": [
         "Kobbie Mainoo"
       ],
-      "score": 129
+      "score": 128
     },
     {
       "id": "49639136",
@@ -111,63 +167,7 @@
         "Mohamed Salah",
         "Kobbie Mainoo"
       ],
-      "score": 129
-    },
-    {
-      "id": "49638751",
-      "headline": "Thailand coach Anthony Hudson plays down confrontation with Singapore counterpart Gavin Lee",
-      "description": "Thailand coach Anthony Hudson believes his confrontation with Singapore's Gavin Lee is now a matter of the past.",
-      "published": "2026-08-17T14:57:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49638751/thailand-coach-anthony-hudson-plays-confrontation-singapore-counterpart-gavin-lee",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702937_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
       "score": 128
-    },
-    {
-      "id": "49638680",
-      "headline": "Cagliari forward Yael Trepy, 20, in intensive care after swimming incident",
-      "description": "Cagliari forward Yael Trepy is in intensive care in hospital, the Italian club said on Monday without giving details on his condition.",
-      "published": "2026-08-17T14:40:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49638680/cagliari-forward-yael-trepy-20-intensive-care-swimming-incident",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702939_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Yael Trepy",
-        "Kobbie Mainoo"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49638455",
-      "headline": "Sebastien Pocognoli has wooed Scotland's FA, now he must forge a team worthy of the Tartan Army",
-      "description": "New Scotland head coach Sebastien Pocognoli has talked the talk with the SFA, but is he the man to bring the country some long-awaited success?",
-      "published": "2026-08-17T14:21:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49638455/sebastien-pocognoli-scotland-new-coach-tartan-army-world-cup-steve-clarke-tom-hamilton",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702921_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Scotland"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 127
     },
     {
       "id": "49610097",
@@ -181,7 +181,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 74
+      "score": 72
     },
     {
       "id": "49607572",
