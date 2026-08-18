@@ -1,18 +1,51 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-18T17:21:17.571Z",
+  "updated": "2026-08-18T17:51:09.715Z",
   "counts": {
-    "news": 37,
+    "news": 36,
+    "injury": 1,
     "offfield": 8,
     "preview": 2,
     "celebration": 1
   },
   "items": [
     {
+      "id": "49650143",
+      "headline": "Premier League chief Masters: FIFA has hit 'self-destruct button'",
+      "description": "Premier League chief executive Richard Masters has accused embattled FIFA president Gianni Infantino of pressing the \"self-destruct button\" over failed plans to sell stakes in the World Cup.",
+      "published": "2026-08-18T17:44:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703471_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 206
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-08-18T17:22:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 202
+    },
+    {
       "id": "49647759",
       "headline": "Norway FA chief slams Infantino's FIFA for firing  COO in 'management by fear'",
       "description": "FIFA's removal of the senior official who said Gianni Infantino deceived staff with his World Cup sell-off plan was unacceptable, Norway FA chief Lise Klaveness said while urging other leaders at the governing body to resist potentially damaging orders.",
-      "published": "2026-08-18T12:49:03Z",
+      "published": "2026-08-18T17:17:10Z",
       "url": "https://www.espn.com/soccer/story/_/id/49647759/norway-fa-chief-slams-gianni-infantino-fifa-firing-coo-management-fear",
       "image": "https://a.espncdn.com/photo/2026/0807/r1698828_1296x729_16-9.jpg",
       "byline": "Associated Press",
@@ -22,7 +55,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 203
+      "score": 189
     },
     {
       "id": "49640657",
@@ -42,7 +75,7 @@
         "Harry Kane",
         "Kylian Mbappé"
       ],
-      "score": 184
+      "score": 163
     },
     {
       "id": "49642660",
@@ -56,7 +89,137 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 170
+      "score": 149
+    },
+    {
+      "id": "49649011",
+      "headline": "Singapore claim valiant win over Thailand but still bow out of ASEAN Championship",
+      "description": "Singapore claimed a first win over Thailand since 2012 but have still been eliminated from the 2026 ASEAN Championship semifinals.",
+      "published": "2026-08-18T15:25:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49649011/singapore-claim-valiant-win-thailand-bow-asean-championship",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703394_1280x720_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49638340",
+      "headline": "Guglielmo Vicario joins Juventus on loan from Tottenham",
+      "description": "Guglilemo Vicario has joined Juventus on a season-long loan from Tottenham, the two clubs have announced.",
+      "published": "2026-08-18T14:22:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49638340/guglielmo-vicario-juventus-spurs-premier-league-transfers-serie-a",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703390_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49646017",
+      "headline": "Transfer rumors, news: Galatasaray offer Bruno Fernandes double his salary",
+      "description": "Galatasaray have stepped up their pursuit of Manchester United midfielder Bruno Fernandes. Transfer Talk has the latest.",
+      "published": "2026-08-18T12:18:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49646017/transfer-rumors-news-galatasaray-offer-bruno-fernandes-double-salary",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1700906_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Bruno Fernandes",
+        "Lionel Messi"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49648725",
+      "headline": "Senegal announce Patrick Vieira as new head coach after Pape Thiaw exit",
+      "description": "Senegal announced Dakar-born France legend Patrick Vieira as their new head coach on Tuesday as they turned to the former Arsenal captain to lead them.",
+      "published": "2026-08-18T15:13:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49648725/senegal-announce-patrick-vieira-new-head-coach-pape-thiaw-exit",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703391_1296x729_16-9.jpg",
+      "byline": "180530 COLUMNIST PROFILE Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Senegal",
+        "France"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49648600",
+      "headline": "Mourinho at official Real Madrid presentation: 'Like coming home'",
+      "description": "José Mourinho said his return to Real Madrid is \"like coming home\" on Tuesday, as the coach prepares to take charge of the team in LaLiga for the first time since 2013.",
+      "published": "2026-08-18T14:20:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49648600/jose-mourinho-official-real-madrid-presentation-coming-home",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703381_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49648047",
+      "headline": "Chelsea rebrand U21, U19 teams to 'Cobham Next Gen'",
+      "description": "Chelsea have announced a rebrand of their under-21 and under-19 teams, confirming their new name as Cobham Next Gen (CNG).",
+      "published": "2026-08-18T13:55:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49648047/chelsea-rebrand-u21-u19-teams-cobham-next-gen",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703361_1296x729_16-9.jpg",
+      "byline": "James Dielhenn",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49641034",
+      "headline": "Can Lewandowski reignite the Fire in Chicago after 20 years of smoldering?",
+      "description": "Since the Chicago Fire last lifted a trophy in 2006, the club has been defined by its underachievement. Robert Lewandowski is ready to change that.",
+      "published": "2026-08-18T13:44:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49641034/can-robert-lewandowski-reignite-fire-chicago-20-years-smoldering-mls",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1703058_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Robert Lewandowski",
+        "Lionel Messi"
+      ],
+      "score": 127
     },
     {
       "id": "49639158",
@@ -72,166 +235,7 @@
         "Scotland"
       ],
       "players": [],
-      "score": 141
-    },
-    {
-      "id": "49646017",
-      "headline": "Transfer rumors, news: Galatasaray offer Bruno Fernandes double his salary",
-      "description": "Galatasaray have stepped up their pursuit of Manchester United midfielder Bruno Fernandes. Transfer Talk has the latest.",
-      "published": "2026-08-18T12:18:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49646017/transfer-rumors-news-galatasaray-offer-bruno-fernandes-double-salary",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1700906_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Bruno Fernandes",
-        "Harry Kane"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49648047",
-      "headline": "Chelsea rebrand U21, U19 teams to 'Cobham Next Gen'",
-      "description": "Chelsea have announced a rebrand of their under-21 and under-19 teams, confirming their new name as Cobham Next Gen (CNG).",
-      "published": "2026-08-18T13:55:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49648047/chelsea-rebrand-u21-u19-teams-cobham-next-gen",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703361_1296x729_16-9.jpg",
-      "byline": "James Dielhenn",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49641034",
-      "headline": "Can Lewandowski reignite the Fire in Chicago after 20 years of smoldering?",
-      "description": "Since the Chicago Fire last lifted a trophy in 2006, the club has been defined by its underachievement. Robert Lewandowski is ready to change that.",
-      "published": "2026-08-18T13:44:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49641034/can-robert-lewandowski-reignite-fire-chicago-20-years-smoldering-mls",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703058_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Robert Lewandowski",
-        "Harry Kane"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49515880",
-      "headline": "2026 FC 100: Where does Haaland rank among best center forwards in men's soccer?",
-      "description": "With the World Cup over, who were the best men's soccer strikers in the world this past year? Our global vote has you covered in this year's edition of the ESPN FC 100.",
-      "published": "2026-08-18T13:22:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49515880/2026-fc-100-haaland-best-center-forwards-men-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0814/260818_soc_fc100_07_cf.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "France",
-        "Norway",
-        "Argentina",
-        "Sweden",
-        "Portugal",
-        "Brazil",
-        "Germany",
-        "Spain",
-        "Netherlands"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Robert Lewandowski",
-        "Harry Kane",
-        "Erling Haaland",
-        "Lautaro Martínez",
-        "Julián Álvarez",
-        "Viktor Gyökeres",
-        "Antoine Griezmann",
-        "Victor Osimhen",
-        "Cristiano Ronaldo",
-        "Kai Havertz",
-        "Alexander Sørloth",
-        "Mikel Oyarzabal",
-        "Marcus Thuram",
-        "Ollie Watkins",
-        "João Pedro",
-        "Donyell Malen",
-        "Hugo Ekitike",
-        "Igor Thiago",
-        "Ousmane Dembélé"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49647189",
-      "headline": "Wayne Rooney on Marcus Rashford at Man United: 'Has he got the hunger?'",
-      "description": "Marcus Rashford must alter his body language and show that he has the \"hunger\" to play for Manchester United, Wayne Rooney has said.",
-      "published": "2026-08-18T12:00:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49647189/wayne-rooney-marcus-rashford-man-united-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703308_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49647075",
-      "headline": "Rafael Leão could stay at AC Milan but Santiago Gimenez on Porto radar - sources",
-      "description": "FC Porto are keen on AC Milan's Mexican striker Santiago Gimenez, while Rafael Leão could yet stay at the Serie A side, sources have told ESPN.",
-      "published": "2026-08-18T11:33:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49647075/rafael-leao-stay-ac-milan-santiago-gimenez-porto-radar-sources",
-      "image": "https://a.espncdn.com/photo/2026/0426/r1649408_600x600_1-1.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [
-        "Rafael Leão",
-        "Santiago Gimenez",
-        "Harry Kane"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49647261",
-      "headline": "2014 heroics give Malaysia hope they can pull off another ASEAN Championship comeback vs. Vietnam",
-      "description": "12 years on from a famous win, Malaysia are looking to once again pull off a remarkable ASEAN Championship comeback in Vietnam.",
-      "published": "2026-08-18T11:23:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49647261/2014-heroics-give-malaysia-hope-another-asean-championship-comeback-vietnam",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703316_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 124
+      "score": 121
     },
     {
       "id": "49466177",
@@ -257,7 +261,7 @@
         "Jackson Irvine",
         "Nestory Irankunda"
       ],
-      "score": 121
+      "score": 120
     },
     {
       "id": "49601593",
@@ -271,39 +275,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 103
-    },
-    {
-      "id": "49610097",
-      "headline": "Andrew Giuliani backs FIFA's Gianni Infantino, calls critics 'jealous'",
-      "description": "",
-      "published": "2026-08-14T15:11:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49610097/andrew-giuliani-backs-fifa-gianni-infantino-calls-critics-jealous",
-      "image": "https://a.espncdn.com/photo/2025/0506/r1489074_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 36
-    },
-    {
-      "id": "49607572",
-      "headline": "Carrick backs Mainoo after 'challenging' World Cup",
-      "description": "Carrick backs Mainoo after 'challenging' World Cup",
-      "published": "2026-08-14T08:53:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/49607572/carrick-backs-mainoo-challenging-world-cup",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0814/dm_260814_COM_SOC_Interview_Carrick_backs_Mainoo_after_challenging_World_Cup_20260814_GLOBAL/dm_260814_COM_SOC_Interview_Carrick_backs_Mainoo_after_challenging_World_Cup_20260814_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 33
+      "score": 82
     },
     {
       "id": "49577750",
@@ -392,38 +364,6 @@
       "score": 22
     },
     {
-      "id": "49529781",
-      "headline": "Cape Verde coach Bubista steps down after historic World Cup campaign",
-      "description": "Cape Verde coach Bubista, who led the World Cup debutants to a stellar tournament, joined Moroccan club RS Berkane on Tuesday.",
-      "published": "2026-08-04T17:03:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [],
-      "score": 22
-    },
-    {
-      "id": "49607480",
-      "headline": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania",
-      "description": "New Zealand's football federation has withdrawn its support for under-fire FIFA president Gianni Infantino in a break with the wider Oceania Football Confederation (OFC).",
-      "published": "2026-08-14T08:49:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49607480/new-zealand-withdraws-support-fifa-president-gianni-infantino-break-oceania",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "New Zealand"
-      ],
-      "players": [],
-      "score": 20
-    },
-    {
       "id": "49576985",
       "headline": "Why South America is lukewarm on a 2030 World Cup on home soil",
       "description": "South America will help kick off the 2030 World Cup in three countries, but its limited role in the centenary tournament has left plenty of concerns.",
@@ -459,20 +399,34 @@
       "score": 17
     },
     {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-08-13T20:38:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49610097",
+      "headline": "Andrew Giuliani backs FIFA's Gianni Infantino, calls critics 'jealous'",
+      "description": "",
+      "published": "2026-08-14T15:11:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49610097/andrew-giuliani-backs-fifa-gianni-infantino-calls-critics-jealous",
+      "image": "https://a.espncdn.com/photo/2025/0506/r1489074_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
+    },
+    {
+      "id": "49607572",
+      "headline": "Carrick backs Mainoo after 'challenging' World Cup",
+      "description": "Carrick backs Mainoo after 'challenging' World Cup",
+      "published": "2026-08-14T08:53:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/49607572/carrick-backs-mainoo-challenging-world-cup",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0814/dm_260814_COM_SOC_Interview_Carrick_backs_Mainoo_after_challenging_World_Cup_20260814_GLOBAL/dm_260814_COM_SOC_Interview_Carrick_backs_Mainoo_after_challenging_World_Cup_20260814_GLOBAL.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "England"
       ],
       "players": [
-        "Lionel Messi"
+        "Kobbie Mainoo"
       ],
       "score": 13
     },
@@ -529,6 +483,22 @@
         "Rodri"
       ],
       "score": 13
+    },
+    {
+      "id": "49607480",
+      "headline": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania",
+      "description": "New Zealand's football federation has withdrawn its support for under-fire FIFA president Gianni Infantino in a break with the wider Oceania Football Confederation (OFC).",
+      "published": "2026-08-14T08:49:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49607480/new-zealand-withdraws-support-fifa-president-gianni-infantino-break-oceania",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "New Zealand"
+      ],
+      "players": [],
+      "score": 10
     },
     {
       "id": "49598001",
