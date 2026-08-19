@@ -1,12 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-19T19:43:16.391Z",
+  "updated": "2026-08-19T20:02:08.844Z",
   "counts": {
-    "offfield": 9,
+    "offfield": 11,
     "news": 33,
-    "injury": 1,
-    "celebration": 2,
-    "preview": 3
+    "preview": 3,
+    "celebration": 1
   },
   "items": [
     {
@@ -73,25 +72,6 @@
       "score": 180
     },
     {
-      "id": "49660572",
-      "headline": "Pulisic returns to Milan training after World Cup injury",
-      "description": "Christian Pulisic returned to training with AC Milan on Tuesday for the first time since suffering an injury as the United States exited the World Cup in the round of 16.",
-      "published": "2026-08-19T16:58:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49660572/christian-pulisic-injury-milan-training-usa-world-cup-injury",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703941_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Christian Pulisic",
-        "Folarin Balogun"
-      ],
-      "score": 143
-    },
-    {
       "id": "49574148",
       "headline": "Aston Villa sign left back Matteo Ruggeri, goalkeeper Zion Suzuki",
       "description": "Aston Villa have completed the signings of left back Matteo Ruggeri from Atlético Madrid and goalkeeper Zion Suzuki from Parma.",
@@ -131,22 +111,43 @@
       "score": 140
     },
     {
-      "id": "49660962",
-      "headline": "Bay FC blasts Quakes' hiring of Wilkinson after 2022 Yates report firing",
-      "description": "Bay FC criticized the San Jose Earthquakes' hiring of Gavin Wilkinson as a consultant, telling ESPN that \"the actions and history associated with Wilkinson's time in professional soccer are inconsistent with the standards we hold.\"",
-      "published": "2026-08-19T17:39:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49660962/bay-fc-blasts-san-jose-earthquakes-hiring-gavin-wilkinson-2022-yates-report-firing",
-      "image": "https://a.espncdn.com/photo/2024/0119/r1279651_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49659965",
+      "headline": "Zoe Thompson, 14, sister of Gisele, Alyssa, signs Nike NIL deal",
+      "description": "The younger sister of soccer phenoms Alyssa and Gisele Thompson, Zoe, signed a name, image and likeness deal with Nike this week.",
+      "published": "2026-08-19T16:28:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49659965/zoe-thompson-14-sister-gisele-alyssa-signs-nike-nil-deal",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703923_1296x729_16-9.jpg",
+      "byline": "Charlotte Gibson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "USA"
       ],
       "players": [
+        "Alyssa Thompson",
+        "Gisele Thompson",
         "Folarin Balogun"
       ],
-      "score": 137
+      "score": 140
+    },
+    {
+      "id": "49619746",
+      "headline": "Tijjani Reijnders completes transfer to Saudi Pro League's Al Qadsiah from Man City",
+      "description": "Tijjani Reijnders has completed a move to Saudi Pro-League club Al Qadsiah from Manchester City, just 12 months after joining the Premier League club.",
+      "published": "2026-08-19T15:55:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49619746/tijjani-reijnders-completes-transfer-saudi-pro-league-al-qadsiah-man-city",
+      "image": "https://a.espncdn.com/photo/2026/0104/r1596482_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Tijjani Reijnders",
+        "Folarin Balogun"
+      ],
+      "score": 139
     },
     {
       "id": "48897670",
@@ -199,24 +200,6 @@
       "score": 133
     },
     {
-      "id": "49660534",
-      "headline": "Coventry boss Frank Lampard keen to emulate Sunderland, Leeds in Premier League return",
-      "description": "Frank Lampard wants his Coventry City side to take inspiration from Sunderland and Leeds United as they prepare for a first Premier League campaign in 25 years.",
-      "published": "2026-08-19T16:59:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49660534/coventry-boss-frank-lampard-keen-emulate-sunderland-leeds-premier-league-return",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703938_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 129
-    },
-    {
       "id": "49660379",
       "headline": "Cape Verde name Humberto Bettencourt as coach to succeed Bubista",
       "description": "World Cup sensation Cape Verde promoted Humberto Bettencourt to coach of the men's national team on Wednesday following the departure of Bubista.",
@@ -234,6 +217,24 @@
         "Folarin Balogun"
       ],
       "score": 128
+    },
+    {
+      "id": "49659742",
+      "headline": "Vietnam just too good as Malaysia exit ASEAN Championship",
+      "description": "Malaysia have been eliminated from the ASEAN Championship semifinals following a 2-0 loss to Vietnam on Wednesday.",
+      "published": "2026-08-19T15:27:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49659742/vietnam-just-too-good-malaysia-exit-asean-championship",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_VIEvsMAS_ASEAN_HLs/dm_260819_VIEvsMAS_ASEAN_HLs.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 126
     },
     {
       "id": "49647759",
@@ -283,7 +284,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 81
+      "score": 80
     },
     {
       "id": "49639158",
@@ -299,7 +300,7 @@
         "Scotland"
       ],
       "players": [],
-      "score": 52
+      "score": 51
     },
     {
       "id": "49577750",
@@ -331,7 +332,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 24
+      "score": 23
     },
     {
       "id": "49523086",
