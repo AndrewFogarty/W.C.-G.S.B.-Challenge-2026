@@ -1,10 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-20T03:57:04.147Z",
+  "updated": "2026-08-20T04:44:35.162Z",
   "counts": {
-    "offfield": 9,
+    "offfield": 10,
     "news": 35,
-    "injury": 1,
     "preview": 2,
     "celebration": 1
   },
@@ -25,7 +24,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 207
+      "score": 206
     },
     {
       "id": "49466177",
@@ -52,7 +51,7 @@
         "Nestory Irankunda",
         "Alessandro Circati"
       ],
-      "score": 201
+      "score": 200
     },
     {
       "id": "49659966",
@@ -70,48 +69,23 @@
       "players": [
         "Julián Álvarez"
       ],
-      "score": 185
+      "score": 184
     },
     {
       "id": "49665614",
       "headline": "Messi scores for Miami in testy draw with Philadelphia Union",
       "description": "Lionel Messi had a goal and assist as Inter Miami and the Philadelphia Union played to a 2-2 draw on Wednesday night in an intense match that ended with two players being sent off.",
-      "published": "2026-08-20T02:30:59Z",
+      "published": "2026-08-20T03:08:34Z",
       "url": "http://www.espn.com/soccer/report/_/gameId/761727",
       "image": "https://a.espncdn.com/photo/2026/0820/r1704214_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49525764",
-      "headline": "Australia's top 12 most expensive transfers of all-time",
-      "description": "Nestory Irankunda has bumped Lucas Herrington out of second place on the list.",
-      "published": "2026-08-20T01:23:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49525764/australias-top-12-most-expensive-transfers-all",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1704095_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "USA",
         "Australia"
       ],
       "players": [
-        "Harry Souttar",
-        "Nestory Irankunda",
-        "Lucas Herrington",
-        "Mathew Ryan",
-        "Cristian Volpato",
-        "Alessandro Circati",
-        "Folarin Balogun"
+        "Patrick Beach"
       ],
       "score": 143
     },
@@ -126,14 +100,127 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Argentina",
+        "USA",
         "Australia"
       ],
       "players": [
         "Alessandro Circati",
-        "Julián Álvarez"
+        "Folarin Balogun"
       ],
-      "score": 137
+      "score": 136
+    },
+    {
+      "id": "49659175",
+      "headline": "Barcelona end Julián Álvarez pursuit, seek alternative - source",
+      "description": "Barcelona have parked attempts to sign Julián Álvarez and are exploring other striker options before the transfer window closes, a source has told ESPN.",
+      "published": "2026-08-19T21:46:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49659175/barcelona-move-julian-alvarez-pursuit-looking-other-options-source",
+      "image": "https://a.espncdn.com/photo/2026/0408/r1640668_1296x729_16-9.jpg",
+      "byline": "Sam Marsden and Moises Llorens",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Julián Álvarez",
+        "Folarin Balogun"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49666102",
+      "headline": "Lewandowski leads Chicago Fire to victory over Griezmann's Orlando City",
+      "description": "Robert Lewandowski scored on a penalty kick to give the Chicago Fire a late victory over Orlando City on Wednesday in a game delayed about 90 minutes by inclement weather.",
+      "published": "2026-08-20T04:13:39Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761729",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761729.png?templateId=espn.applewatch.awayhome.1",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49666298",
+      "headline": "Nico Hansen's 3rd straight shutout helps Rapids beat LAFC 1-0",
+      "description": "Nico Hansen finished with one save and had his third consecutive shutout to help the Colorado Rapids beat Los Angeles FC 1-0 Wednesday night.",
+      "published": "2026-08-20T04:10:45Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761734",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761734.png?templateId=espn.applewatch.awayhome.1",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49666359",
+      "headline": "Petar Musa, Ran Binyamin propel Dallas to 4-3 victory over Real Salt Lake",
+      "description": "Petar Musa scored two goals to increase his league-leading total to 16, and rookie Ran Binyamin scored the winner in second-half stoppage time with his first goal to propel FC Dallas to a 4-3 victory over Real Salt Lake on Wednesday night.",
+      "published": "2026-08-20T04:09:09Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761735",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761735.png?templateId=espn.applewatch.awayhome.1",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49665777",
+      "headline": "Whoops! Montreal keeper gifts Columbus a goal after whiffed clearance",
+      "description": "Whoops! Montreal keeper gifts Columbus a goal after whiffed clearance",
+      "published": "2026-08-20T04:04:57Z",
+      "url": "https://www.espn.com/video/clip/_/id/49665777/whoops-montreal-keeper-gifts-columbus-goal-whiffed-clearance",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0820/642f2e24-c18a-4c01-9646-465c751b0182/642f2e24-c18a-4c01-9646-465c751b0182.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49666100",
+      "headline": "Orlando City SC vs. Chicago Fire FC - Game Highlights",
+      "description": "Watch the Game Highlights from Orlando City SC vs. Chicago Fire FC, 08/19/2026",
+      "published": "2026-08-20T03:23:29Z",
+      "url": "https://www.espn.com/video/clip/_/id/49666100/orlando-city-sc-vs-chicago-fire-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0820/909bdc42-cd0a-4098-860d-e2b3d5513249/909bdc42-cd0a-4098-860d-e2b3d5513249.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "David Brekalo",
+        "Puso Dithejane",
+        "Chris Brady",
+        "Robert Lewandowski",
+        "Patrick Beach"
+      ],
+      "score": 131
     },
     {
       "id": "49665606",
@@ -146,35 +233,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "USA"
+        "Australia"
       ],
       "players": [
-        "Folarin Balogun"
+        "Patrick Beach"
       ],
-      "score": 131
-    },
-    {
-      "id": "49665443",
-      "headline": "Philadelphia Union vs. Inter Miami CF - Game Highlights",
-      "description": "Watch the Game Highlights from Philadelphia Union vs. Inter Miami CF, 08/19/2026",
-      "published": "2026-08-20T02:33:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/49665443/philadelphia-union-vs-inter-miami-cf-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0820/45aa774b-de55-4447-a1d6-ba665a671381/45aa774b-de55-4447-a1d6-ba665a671381.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Dániel Pintér",
-        "Bruno Damiani",
-        "Milan Iloski",
-        "Yannick Bright",
-        "Folarin Balogun"
-      ],
-      "score": 131
+      "score": 130
     },
     {
       "id": "49665551",
@@ -187,7 +251,7 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "USA"
+        "Australia"
       ],
       "players": [
         "Kate Faasse",
@@ -196,71 +260,9 @@
         "Linda Ullmark",
         "Lisa Boattin",
         "Sarah Puntigam",
-        "Folarin Balogun"
+        "Patrick Beach"
       ],
-      "score": 130
-    },
-    {
-      "id": "49665415",
-      "headline": "Evander's stoppage-time goal helps Cincinnati beat NYCFC",
-      "description": "Evander scored a goal in stoppage time, Kenji Mboma Dem added a goal as FC Cincinnati beat New York City FC 2-1 on Wednesday.",
-      "published": "2026-08-20T01:59:02Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761730",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761730.png?templateId=espn.applewatch.awayhome.1",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49665344",
-      "headline": "Alhassan Yusuf hat trick helps Revolution beat D.C., snap skid",
-      "description": "Alhassan Yusuf scored three goals, his first multi-goal game in MLS, and the New England Revolution beat D.C. United 3-0 on Wednesday to snap a three-game winless skid.",
-      "published": "2026-08-20T01:54:49Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761725",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704210_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "England"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49664861",
-      "headline": "Racing Louisville FC vs. Seattle Reign FC - Game Highlights",
-      "description": "Watch the Game Highlights from Racing Louisville FC vs. Seattle Reign FC, 08/20/2026",
-      "published": "2026-08-20T00:40:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/49664861/racing-louisville-fc-vs-seattle-reign-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0820/731376d6-f036-4fb5-af1e-2c5970df592e/731376d6-f036-4fb5-af1e-2c5970df592e.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Sofia Huerta",
-        "Nérilia Mondésir",
-        "Katie O'Kane",
-        "Mia Fishel",
-        "Maddie Mercado",
-        "Sally Menti",
-        "Emma Sears",
-        "Folarin Balogun"
-      ],
-      "score": 128
+      "score": 129
     },
     {
       "id": "49664103",
@@ -273,12 +275,69 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "USA"
       ],
       "players": [
-        "Julián Álvarez"
+        "Folarin Balogun"
       ],
-      "score": 126
+      "score": 125
+    },
+    {
+      "id": "49612768",
+      "headline": "Lee Kang-In scores in debut as Atlético win season opener",
+      "description": "Lee Kang-In scored a superb debut goal as Atlético Madrid opened their LaLiga campaign with a 2-0 win over Málaga.",
+      "published": "2026-08-19T22:38:00Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401882925",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1704060_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49663664",
+      "headline": "Lee Kang-In and Alex Baena score in Atlético's opening win",
+      "description": "Lee Kang-In and Alex Baena score in Atlético's opening win.",
+      "published": "2026-08-19T22:12:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/49663664/lee-kang-alex-baena-score-atletico-opening-win",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Lee_Kang-In_and_Alex_Baena_score_in_Atleticos_opening_win/dm_260819_Lee_Kang-In_and_Alex_Baena_score_in_Atleticos_opening_win.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Lee Kang-In",
+        "Álex Baena",
+        "Folarin Balogun"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49663461",
+      "headline": "Has Barcelona already found the solution to their number 9 dilemma?",
+      "description": "Has Barcelona already found the solution to their number 9 dilemma?",
+      "published": "2026-08-19T21:47:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49663461/has-barcelona-already-found-solution-their-number-9-dilemma",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Has_Barcelona_already_found_the_solution_to_their_number_9_dilemma/dm_260819_Has_Barcelona_already_found_the_solution_to_their_number_9_dilemma.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Hamza Abdelkarim",
+        "Folarin Balogun"
+      ],
+      "score": 123
     },
     {
       "id": "49650143",
@@ -292,27 +351,25 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 125
+      "score": 123
     },
     {
-      "id": "49663664",
-      "headline": "Lee Kang-In and Alex Baena score in Atlético's opening win",
-      "description": "Lee Kang-In and Alex Baena score in Atlético's opening win.",
-      "published": "2026-08-19T22:12:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/49663664/lee-kang-alex-baena-score-atletico-opening-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Lee_Kang-In_and_Alex_Baena_score_in_Atleticos_opening_win/dm_260819_Lee_Kang-In_and_Alex_Baena_score_in_Atleticos_opening_win.jpg",
-      "byline": null,
+      "id": "49662236",
+      "headline": "Fast-emerging Harhys Stewart one of Singapore's big ASEAN Championship positives",
+      "description": "Among the many positives from Singapore's ASEAN Championship campaign, the emergence of Harhys Stewart could be the biggest.",
+      "published": "2026-08-19T19:53:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49662236/fast-emerging-harhys-stewart-singapore-big-asean-championship-positives",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1704020_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "USA"
       ],
       "players": [
-        "Lee Kang-In",
-        "Álex Baena",
-        "Julián Álvarez"
+        "Folarin Balogun"
       ],
-      "score": 124
+      "score": 120
     },
     {
       "id": "47978642",
@@ -330,7 +387,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 121
+      "score": 120
     },
     {
       "id": "49647759",
@@ -346,7 +403,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 108
+      "score": 107
     },
     {
       "id": "49640657",
@@ -366,7 +423,7 @@
         "Harry Kane",
         "Kylian Mbappé"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "49642660",
@@ -380,7 +437,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 68
+      "score": 67
     },
     {
       "id": "49639158",
@@ -396,7 +453,7 @@
         "Scotland"
       ],
       "players": [],
-      "score": 40
+      "score": 38
     },
     {
       "id": "49577750",
@@ -786,62 +843,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
       "image": "https://a.espncdn.com/photo/2026/0813/r1701282_1296x729_16-9.jpg",
       "byline": "Andy Davies",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49598888",
-      "headline": "CAF boss: Only elections can decide Gianni Infantino's FIFA future",
-      "description": "African football boss Patrice Motsepe has said that the position of embattled president Gianni Infantino can only be decided by FIFA elections.",
-      "published": "2026-08-13T10:58:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49598888/gianni-infantino-fifa-caf-uefa-afc-football",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701197_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49588771",
-      "headline": "Former FIFA Council member Isha Johansen says Gianni Infantino should step down 'for the good of football'",
-      "description": "Former FIFA Council member Isha Johansen has become the first prominent African football figure to publicly break with the wave of support for FIFA president Gianni Infantino from across the continent.",
-      "published": "2026-08-12T19:41:14Z",
-      "url": "https://www.espn.com/espn/story/_/id/49588771/former-fifa-council-member-isha-johansen-says-gianni-infantino-step-good-football",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49540676",
-      "headline": "Was Figo right to criticize FIFA president Infantino?",
-      "description": "Was Figo right to criticize FIFA president Infantino?",
-      "published": "2026-08-11T05:24:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49579404",
-      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
-      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
-      "published": "2026-08-11T05:22:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
