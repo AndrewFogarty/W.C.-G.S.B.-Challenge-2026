@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-21T16:31:38.723Z",
+  "updated": "2026-08-21T17:04:01.408Z",
   "counts": {
     "offfield": 12,
-    "news": 31,
-    "preview": 4,
+    "news": 29,
+    "injury": 1,
+    "preview": 5,
     "celebration": 1
   },
   "items": [
@@ -12,7 +13,7 @@
       "id": "49681406",
       "headline": "Paredes banned 10 games as Argentina punished for World Cup final brawl",
       "description": "FIFA banned three Argentina players on Friday, including a 10-match suspension for midfielder Leandro Paredes, for striking Spain opponents after losing the World Cup final.",
-      "published": "2026-08-21T16:29:46Z",
+      "published": "2026-08-21T16:37:18Z",
       "url": "https://www.espn.com/soccer/story/_/id/49681406/leandro-paredes-10-match-ban-world-cup-final-brawl-argentina-fined-falkland-islands-banner",
       "image": "https://a.espncdn.com/photo/2026/0821/r1704848_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
@@ -29,7 +30,7 @@
         "Thiago Almada",
         "Gavi"
       ],
-      "score": 215
+      "score": 214
     },
     {
       "id": "49681857",
@@ -45,7 +46,7 @@
         "England"
       ],
       "players": [],
-      "score": 208
+      "score": 207
     },
     {
       "id": "49669869",
@@ -64,7 +65,7 @@
         "Bryan Mbeumo",
         "Mohamed Salah"
       ],
-      "score": 174
+      "score": 173
     },
     {
       "id": "49466177",
@@ -91,7 +92,45 @@
         "Nestory Irankunda",
         "Alessandro Circati"
       ],
-      "score": 172
+      "score": 171
+    },
+    {
+      "id": "49681409",
+      "headline": "Enzo Maresca: Jérémy Doku will miss Man City's Premier League opener",
+      "description": "Manchester City winger Jérémy Doku will miss their Premier League opener against Bournemouth with a calf injury, manager Enzo Maresca has confirmed.",
+      "published": "2026-08-21T14:58:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49681409/enzo-maresca-jeremy-doku-miss-man-city-premier-league-opener",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704850_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Jérémy Doku",
+        "Nestory Irankunda"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49668045",
+      "headline": "Ezri Konsa joins Premier League champions Arsenal from Aston Villa",
+      "description": "Ezri Konsa has joined Arsenal from Aston Villa, the club has confirmed.",
+      "published": "2026-08-21T15:01:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49668045/ezri-konsa-joins-premier-league-champions-arsenal-aston-villa",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704308_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Ezri Konsa",
+        "Nestory Irankunda"
+      ],
+      "score": 142
     },
     {
       "id": "47978642",
@@ -109,7 +148,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 143
+      "score": 142
     },
     {
       "id": "48990955",
@@ -122,18 +161,36 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Nestory Irankunda"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49680811",
+      "headline": "Liverpool 'will definitely sign some players' - Andoni Iraola",
+      "description": "Andoni Iraola has insisted Liverpool will be active in the transfer market over the coming weeks, although they may have to wait until later in the window for deals to be completed.",
+      "published": "2026-08-21T13:37:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49680811/liverpool-definitely-sign-some-players-andoni-iraola",
+      "image": "https://a.espncdn.com/photo/2026/0726/r1693772_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
         "Argentina"
       ],
       "players": [
         "Leandro Paredes"
       ],
-      "score": 142
+      "score": 140
     },
     {
       "id": "49678076",
       "headline": "Transfer rumors, news: Arsenal want Yildiz as Al Hilal add Martinelli to short list",
       "description": "Arsenal are looking into the possibility of signing Kenan Yildiz from Juventus. Transfer Talk has the latest.",
-      "published": "2026-08-21T14:34:07Z",
+      "published": "2026-08-21T13:19:21Z",
       "url": "https://www.espn.com/soccer/story/_/id/49678076/transfer-rumors-news-arsenal-want-yildiz-al-hilal-add-martinelli-shortlist",
       "image": "https://a.espncdn.com/photo/2026/0128/r1606845_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -146,62 +203,7 @@
         "Kenan Yildiz",
         "Leandro Paredes"
       ],
-      "score": 142
-    },
-    {
-      "id": "49680811",
-      "headline": "Liverpool 'will definitely sign some players' - Andoni Iraola",
-      "description": "Andoni Iraola has insisted Liverpool will be active in the transfer market over the coming weeks, although they may have to wait until later in the window for deals to be completed.",
-      "published": "2026-08-21T14:30:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49680811/liverpool-definitely-sign-some-players-andoni-iraola",
-      "image": "https://a.espncdn.com/photo/2026/0726/r1693772_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Leandro Paredes"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49681055",
-      "headline": "Thomas Partey signs for Al Shabab after leaving Villarreal",
-      "description": "Thomas Partey has signed for Saudi Pro League side Al Shabab, the club announced on Friday.",
-      "published": "2026-08-21T14:12:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49681055/thomas-partey-signs-al-shabab-leaving-villarreal",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1704831_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Thomas Partey",
-        "Leandro Paredes"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49660035",
-      "headline": "Premier League live updates: Arsenal kick off season against Coventry",
-      "description": "The 2026-27 Premier League season begins as defending champions Arsenal take on newly promoted Coventry City.",
-      "published": "2026-08-21T14:05:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49660035/premier-league-live-updates-arsenal-kick-season-coventry-city",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703916_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Leandro Paredes"
-      ],
-      "score": 138
+      "score": 139
     },
     {
       "id": "49680775",
@@ -219,25 +221,100 @@
       "players": [
         "Leandro Paredes"
       ],
-      "score": 137
+      "score": 136
     },
     {
-      "id": "49681135",
-      "headline": "Enzo Maresca 'not worried' about players leaving Manchester City",
-      "description": "Enzo Maresca 'not worried' about players leaving Manchester City",
-      "published": "2026-08-21T14:04:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49681135/enzo-maresca-not-worried-players-leaving-manchester-city",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0821/dm_260821_COM_SOC_Presser_Enzo_Maresca_not_worried_about_players_leaving_Manchester_City_20260821_GLOBAL/dm_260821_COM_SOC_Presser_Enzo_Maresca_not_worried_about_players_leaving_Manchester_City_20260821_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49660035",
+      "headline": "Premier League live updates: Arsenal kick off season against Coventry",
+      "description": "The 2026-27 Premier League season begins as defending champions Arsenal take on newly promoted Coventry City.",
+      "published": "2026-08-21T13:00:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49660035/premier-league-live-updates-arsenal-kick-season-coventry-city",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703916_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Leandro Paredes"
       ],
-      "score": 129
+      "score": 136
+    },
+    {
+      "id": "49668967",
+      "headline": "Champions League 2026-27 draw: How to watch in UK, start time, how does it work, when are fixtures?",
+      "description": "The Champions League returns for another season. Here's everything you need to know about the league phase draw.",
+      "published": "2026-08-21T10:45:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49668967/champions-league-2026-27-draw-football-how-watch-uk-start-how-does-work-teams-in",
+      "image": "https://a.espncdn.com/photo/2025/1106/r1571752_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Leandro Paredes"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49681472",
+      "headline": "Unai Emery: Ollie Watkins, Emiliano Martinez could leave Aston Villa",
+      "description": "Aston Villa boss Unai Emery admits Ollie Watkins could be the next big-name player to leave the club this summer, while also revealing Emiliano Martínez has asked to move.",
+      "published": "2026-08-21T15:17:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49681472/unai-emery-ollie-watkins-emiliano-martinez-leave-aston-villa",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704851_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Ollie Watkins",
+        "Emiliano Martínez",
+        "Nestory Irankunda"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49678735",
+      "headline": "How Malaysia's Johor Darul Ta'zim broke the world record for longest men's domestic unbeaten streak",
+      "description": "Malaysian side Johor Darul Ta'zim (JDT) have made a habit of breaking records, and now they've topped a global one that stood for 32 years.",
+      "published": "2026-08-21T15:12:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49678735/how-malaysia-johor-darul-tazim-broke-world-record-longest-men-domestic-unbeaten-streak",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704743_1296x729_16-9.jpg",
+      "byline": "Lee Wingate",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Nestory Irankunda"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49681498",
+      "headline": "Roberto De Zerbi confirms Micky van de Ven as new Tottenham captain",
+      "description": "Roberto De Zerbi has confirmed Micky van de Ven is Tottenham's new captain.",
+      "published": "2026-08-21T14:59:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49681498/roberto-de-zerbi-confirms-micky-van-de-ven-new-tottenham-captain",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1700064_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Micky van de Ven",
+        "Nestory Irankunda"
+      ],
+      "score": 130
     },
     {
       "id": "49679666",
@@ -257,7 +334,43 @@
         "Rodri",
         "Leandro Paredes"
       ],
-      "score": 125
+      "score": 124
+    },
+    {
+      "id": "49679399",
+      "headline": "Alonso: Fernández is still a Chelsea player",
+      "description": "Alonso: Fernández is still a Chelsea player",
+      "published": "2026-08-21T10:41:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/49679399/fernandez-chelsea-player",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0821/dm_260821_COM_SOC_Analysis_Alonso3A_FernC3A1ndez_is_still_a_Chelsea_player_GLOBAL_2026-08-21/dm_260821_COM_SOC_Analysis_Alonso3A_FernC3A1ndez_is_still_a_Chelsea_player_GLOBAL_2026-08-21.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Leandro Paredes"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49679324",
+      "headline": "Man United's Michael Carrick wary of 'buzz' at newly-promoted Hull",
+      "description": "Manchester United boss Michael Carrick expects a far tougher Premier League opener at promoted Hull than many predict.",
+      "published": "2026-08-21T10:31:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49679324/man-united-michael-carrick-wary-ofbuzz-newlypromoted-hull",
+      "image": "https://a.espncdn.com/photo/2026/0515/r1658535_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Leandro Paredes"
+      ],
+      "score": 123
     },
     {
       "id": "49658888",
@@ -275,7 +388,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 102
+      "score": 101
     },
     {
       "id": "49659966",
@@ -293,7 +406,7 @@
       "players": [
         "Julián Álvarez"
       ],
-      "score": 80
+      "score": 79
     },
     {
       "id": "49650143",
@@ -307,7 +420,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 30
+      "score": 29
     },
     {
       "id": "49577750",
@@ -341,7 +454,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 23
+      "score": 22
     },
     {
       "id": "49523086",
@@ -444,6 +557,23 @@
       "score": 18
     },
     {
+      "id": "49543519",
+      "headline": "Argentina announces commemorative day to celebrate World Cup win over England",
+      "description": "Argentina's Football Association unanimously approved for July 15 to be 'National Football Teams Day' in commemoration of the Albiceleste's victory over England in the semifinals of the 2026 World Cup.",
+      "published": "2026-08-06T09:32:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49543519/argentina-announce-commemorative-day-celebrate-world-cup-win-england",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1689834_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [],
+      "score": 17
+    },
+    {
       "id": "49640657",
       "headline": "Gab & Juls disagree over the No. 1 center forward in the FC 100",
       "description": "Gab & Juls disagree over the No. 1 center forward in the FC 100",
@@ -461,24 +591,7 @@
         "Harry Kane",
         "Kylian Mbappé"
       ],
-      "score": 17
-    },
-    {
-      "id": "49543519",
-      "headline": "Argentina announces commemorative day to celebrate World Cup win over England",
-      "description": "Argentina's Football Association unanimously approved for July 15 to be 'National Football Teams Day' in commemoration of the Albiceleste's victory over England in the semifinals of the 2026 World Cup.",
-      "published": "2026-08-06T09:32:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49543519/argentina-announce-commemorative-day-celebrate-world-cup-win-england",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689834_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [],
-      "score": 17
+      "score": 16
     },
     {
       "id": "49607572",
@@ -731,90 +844,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49610097/andrew-giuliani-backs-fifa-gianni-infantino-calls-critics-jealous",
       "image": "https://a.espncdn.com/photo/2025/0506/r1489074_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49600669",
-      "headline": "Time limits, VAR, mistaken identity: Which World Cup rules has Premier League adopted?",
-      "description": "Which World Cup law changes will continue for the Premier League, and which ones have been rejected?",
-      "published": "2026-08-14T09:05:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701282_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49598888",
-      "headline": "CAF boss: Only elections can decide Gianni Infantino's FIFA future",
-      "description": "African football boss Patrice Motsepe has said that the position of embattled president Gianni Infantino can only be decided by FIFA elections.",
-      "published": "2026-08-13T10:58:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49598888/gianni-infantino-fifa-caf-uefa-afc-football",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701197_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49588771",
-      "headline": "Former FIFA Council member Isha Johansen says Gianni Infantino should step down 'for the good of football'",
-      "description": "Former FIFA Council member Isha Johansen has become the first prominent African football figure to publicly break with the wave of support for FIFA president Gianni Infantino from across the continent.",
-      "published": "2026-08-12T19:41:14Z",
-      "url": "https://www.espn.com/espn/story/_/id/49588771/former-fifa-council-member-isha-johansen-says-gianni-infantino-step-good-football",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49540676",
-      "headline": "Was Figo right to criticize FIFA president Infantino?",
-      "description": "Was Figo right to criticize FIFA president Infantino?",
-      "published": "2026-08-11T05:24:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49579404",
-      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
-      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
-      "published": "2026-08-11T05:22:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49573256",
-      "headline": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan",
-      "description": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup.",
-      "published": "2026-08-10T15:49:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
