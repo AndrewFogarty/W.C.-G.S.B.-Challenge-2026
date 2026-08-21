@@ -1,73 +1,18 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-21T00:01:31.622Z",
+  "updated": "2026-08-21T01:53:31.640Z",
   "counts": {
-    "news": 35,
     "offfield": 8,
-    "preview": 4,
+    "news": 37,
+    "preview": 2,
     "celebration": 1
   },
   "items": [
     {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-08-20T20:37:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 208
-    },
-    {
-      "id": "49669869",
-      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
-      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
-      "published": "2026-08-20T13:13:02Z",
-      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
-      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Achraf Hakimi",
-        "Victor Osimhen",
-        "Bryan Mbeumo",
-        "Mohamed Salah"
-      ],
-      "score": 183
-    },
-    {
-      "id": "49658888",
-      "headline": "Premier League's Webb: Balogun World Cup red card saga fuels ref distrust",
-      "description": "Howard Webb, the head of Premier League referees, has said he was \"troubled\" by Folarin Balogun's overturned red card during the World Cup as it fuelled perceptions among supporters that decisions are either \"correct or corrupt.\"",
-      "published": "2026-08-19T16:00:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49658888/premier-league-howard-webb-balogun-world-cup-red-card-saga-fuels-ref-distrust",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685293_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 157
-    },
-    {
       "id": "49466177",
       "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
       "description": "There's nothing like a World Cup to put young stars in the shop window! With that in mind, ESPN has assembled a list of all the Socceroos' post-tournament transfers, all in one place.",
-      "published": "2026-08-20T01:31:49Z",
+      "published": "2026-08-21T00:52:12Z",
       "url": "https://www.espn.com/soccer/story/_/id/49466177/socceroos-transfer-tracker-where-australias-stars-play-2026-27",
       "image": "https://a.espncdn.com/photo/2026/0819/r1703695_1296x729_16-9.jpg",
       "byline": "Joey Lynch",
@@ -88,7 +33,62 @@
         "Nestory Irankunda",
         "Alessandro Circati"
       ],
-      "score": 151
+      "score": 223
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-08-20T20:37:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 195
+    },
+    {
+      "id": "49669869",
+      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
+      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
+      "published": "2026-08-20T13:13:02Z",
+      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
+      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Achraf Hakimi",
+        "Victor Osimhen",
+        "Bryan Mbeumo",
+        "Mohamed Salah"
+      ],
+      "score": 170
+    },
+    {
+      "id": "49658888",
+      "headline": "Premier League's Webb: Balogun World Cup red card saga fuels ref distrust",
+      "description": "Howard Webb, the head of Premier League referees, has said he was \"troubled\" by Folarin Balogun's overturned red card during the World Cup as it fuelled perceptions among supporters that decisions are either \"correct or corrupt.\"",
+      "published": "2026-08-19T16:00:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49658888/premier-league-howard-webb-balogun-world-cup-red-card-saga-fuels-ref-distrust",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685293_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 144
     },
     {
       "id": "49674977",
@@ -105,45 +105,9 @@
       ],
       "players": [
         "Aune Heggebo",
-        "Mathew Ryan"
+        "Patrick Beach"
       ],
-      "score": 144
-    },
-    {
-      "id": "49659966",
-      "headline": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
-      "description": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
-      "published": "2026-08-19T15:58:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49659966/alvarez-one-best-players-atletico-not-best",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Julián Álvarez"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49672307",
-      "headline": "Newcastle's Matthias Jaissle: 'I don't care' about outside negativity",
-      "description": "Matthias Jaissle told his detractors he does not care about their opinions amid a wave of negativity for his Newcastle side ahead of the start of the new season.",
-      "published": "2026-08-20T17:41:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49672307/newcastle-matthias-jaissle-dont-care-negativity",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704482_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
+      "score": 142
     },
     {
       "id": "49674619",
@@ -159,9 +123,9 @@
         "Australia"
       ],
       "players": [
-        "Mathew Ryan"
+        "Patrick Beach"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49674611",
@@ -177,9 +141,9 @@
         "Australia"
       ],
       "players": [
-        "Mathew Ryan"
+        "Patrick Beach"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49674587",
@@ -195,9 +159,9 @@
         "Australia"
       ],
       "players": [
-        "Mathew Ryan"
+        "Patrick Beach"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49674598",
@@ -213,9 +177,9 @@
         "Australia"
       ],
       "players": [
-        "Mathew Ryan"
+        "Patrick Beach"
       ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49674592",
@@ -231,27 +195,9 @@
         "Australia"
       ],
       "players": [
-        "Mathew Ryan"
+        "Patrick Beach"
       ],
-      "score": 130
-    },
-    {
-      "id": "49671086",
-      "headline": "Frank Lampard expects 'tougher times' for Coventry on return to Premier League",
-      "description": "Coventry boss Frank Lampard said his side need to be ready for \"tougher times\" this season ahead of their Premier League curtain-raiser against champions Arsenal on Friday.",
-      "published": "2026-08-20T15:50:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49671086/frank-lampard-tougher-s-coventry-return-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704441_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49673155",
@@ -268,9 +214,9 @@
         "Brazil"
       ],
       "players": [
-        "Mathew Ryan"
+        "Patrick Beach"
       ],
-      "score": 129
+      "score": 126
     },
     {
       "id": "49674063",
@@ -290,121 +236,27 @@
         "Pelayo Fernández",
         "Toni Martínez",
         "Mariano",
-        "Mathew Ryan"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49672998",
-      "headline": "Brighton settle for goalless draw with Tromso in Conference League playoff first leg",
-      "description": "Brighton had to settle for a goalless draw from the first leg of their Conference League playoff away to Tromso in Norway.",
-      "published": "2026-08-20T19:10:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49672998/brighton-settle-draw-tromso-conference-league-playoff-first-leg",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704505_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Norway"
-      ],
-      "players": [
-        "Lionel Messi"
+        "Patrick Beach"
       ],
       "score": 126
     },
     {
-      "id": "49672340",
-      "headline": "Hull chairman hits out at 'laughable' Joe Cole criticism",
-      "description": "Hull City chairman Acun Ilicali has criticised former players Joe Cole and Carlton Cole for mocking the club's Premier League survival chances.",
-      "published": "2026-08-20T17:40:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49672340/hull-city-chairman-acun-ilicali-joe-cole-carlton",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704483_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49659966",
+      "headline": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
+      "description": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
+      "published": "2026-08-19T15:58:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49659966/alvarez-one-best-players-atletico-not-best",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49672097",
-      "headline": "Michael Carrick: 'Ridiculous' to say Man United have easy start",
-      "description": "Manchester United head coach Michael Carrick has hit back at suggestions that Manchester United have been given a favourable start to the Premier League season.",
-      "published": "2026-08-20T17:22:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49672097/michael-carrick-man-united-premier-league-start-transfer-window",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704476_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49671998",
-      "headline": "Liverpool have £50 million bid for Yankuba Minteh rejected by Brighton - sources",
-      "description": "Liverpool have had a £50 million ($68m) bid for Brighton & Hove Albion's Yankuba Minteh rejected, sources told ESPN.",
-      "published": "2026-08-20T17:11:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49671998/liverpool-yankuba-minteh-50-million-bid-rejected-brighton-sources",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704471_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Yankuba Minteh",
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49671661",
-      "headline": "West Ham tell fans to stop chanting 'anti-Palestine' message",
-      "description": "West Ham has called on its fans to stop singing a chant \"containing an anti-Palestine message\" as the club prepares to host its first home game of the season in England's second-tier Championship.",
-      "published": "2026-08-20T16:41:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49671661/west-ham-chant-anti-palestine-manor-solomon-fans",
-      "image": "https://a.espncdn.com/photo/2025/0530/r1500328_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Manor Solomon",
-        "Lionel Messi"
+        "Julián Álvarez"
       ],
       "score": 122
-    },
-    {
-      "id": "49670623",
-      "headline": "PSG's season opener moved due to heatwave-damaged Parc des Princes pitch",
-      "description": "Paris Saint-Germain's opening game of their title defence in Ligue 1 against Rennes has been relocated at short notice because of damage to the champions' pitch following a heatwave this summer.",
-      "published": "2026-08-20T15:52:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49670623/psg-season-opener-moved-heatwave-damaged-pitch-parc-des-princes",
-      "image": "https://a.espncdn.com/photo/2026/0128/r1606854_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 121
     },
     {
       "id": "49650143",
@@ -418,7 +270,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 75
+      "score": 72
     },
     {
       "id": "49647759",
@@ -434,7 +286,7 @@
         "Norway"
       ],
       "players": [],
-      "score": 68
+      "score": 65
     },
     {
       "id": "49640657",
@@ -454,7 +306,7 @@
         "Harry Kane",
         "Kylian Mbappé"
       ],
-      "score": 42
+      "score": 39
     },
     {
       "id": "49642660",
@@ -468,7 +320,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 28
+      "score": 25
     },
     {
       "id": "49577750",
@@ -842,6 +694,118 @@
       "url": "https://www.espn.com/soccer/story/_/id/49610097/andrew-giuliani-backs-fifa-gianni-infantino-calls-critics-jealous",
       "image": "https://a.espncdn.com/photo/2025/0506/r1489074_1296x729_16-9.jpg",
       "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49600669",
+      "headline": "Time limits, VAR, mistaken identity: Which World Cup rules has Premier League adopted?",
+      "description": "Which World Cup law changes will continue for the Premier League, and which ones have been rejected?",
+      "published": "2026-08-14T09:05:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701282_1296x729_16-9.jpg",
+      "byline": "Andy Davies",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49598888",
+      "headline": "CAF boss: Only elections can decide Gianni Infantino's FIFA future",
+      "description": "African football boss Patrice Motsepe has said that the position of embattled president Gianni Infantino can only be decided by FIFA elections.",
+      "published": "2026-08-13T10:58:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49598888/gianni-infantino-fifa-caf-uefa-afc-football",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701197_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49588771",
+      "headline": "Former FIFA Council member Isha Johansen says Gianni Infantino should step down 'for the good of football'",
+      "description": "Former FIFA Council member Isha Johansen has become the first prominent African football figure to publicly break with the wave of support for FIFA president Gianni Infantino from across the continent.",
+      "published": "2026-08-12T19:41:14Z",
+      "url": "https://www.espn.com/espn/story/_/id/49588771/former-fifa-council-member-isha-johansen-says-gianni-infantino-step-good-football",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49540676",
+      "headline": "Was Figo right to criticize FIFA president Infantino?",
+      "description": "Was Figo right to criticize FIFA president Infantino?",
+      "published": "2026-08-11T05:24:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49579404",
+      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
+      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
+      "published": "2026-08-11T05:22:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49573256",
+      "headline": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan",
+      "description": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup.",
+      "published": "2026-08-10T15:49:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49563647",
+      "headline": "FIFA hits out at campaign to 'undermine' president Infantino",
+      "description": "FIFA has hit out at what it called \"a concerted and ongoing effort by some to undermine\" world soccer's governing body and its president Gianni Infantino.",
+      "published": "2026-08-08T23:03:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49563647/fifa-gianni-infantino-president-uefa",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49560207",
+      "headline": "Gianni Infantino denies UEFA made payment to alleged lover",
+      "description": "Gianni Infantino has denied that UEFA paid off his alleged lover while he was the organisation's general secretary.",
+      "published": "2026-08-08T13:11:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49560207/gianni-infantino-denies-uefa-made-departure-payment-alleged-lover",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
