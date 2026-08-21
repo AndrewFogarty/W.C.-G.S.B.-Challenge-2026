@@ -1,9 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-21T19:44:27.186Z",
+  "updated": "2026-08-21T20:01:42.228Z",
   "counts": {
-    "offfield": 10,
-    "news": 33,
+    "offfield": 11,
+    "news": 32,
     "injury": 1,
     "preview": 3,
     "celebration": 1
@@ -92,16 +92,16 @@
         "Nestory Irankunda",
         "Alessandro Circati"
       ],
-      "score": 167
+      "score": 166
     },
     {
       "id": "49667878",
       "headline": "Inter Milan sign Curtis Jones signing from Liverpool",
       "description": "Inter Milan have completed the signing of Liverpool midfielder Curtis Jones on a five-year contract, the Italian champions announced Friday.",
-      "published": "2026-08-21T18:51:05Z",
+      "published": "2026-08-21T19:15:40Z",
       "url": "https://www.espn.com/soccer/story/_/id/49667878/inter-milan-confirm-curtis-jones-signing-liverpool",
-      "image": "https://a.espncdn.com/photo/2026/0131/r1608582_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704957_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
@@ -115,20 +115,19 @@
       "score": 144
     },
     {
-      "id": "49682247",
-      "headline": "Miami's Germán Berterame on head injury: 'Felt like someone turned off the TV'",
-      "description": "Inter Miami forward Germán Berterame said he felt like someone turned off the TV after suffering a head injury during the match against CF Montreal on Jul. 25.",
-      "published": "2026-08-21T17:01:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49682247/miami-german-berterame-head-injury-felt-turned-tv",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1704885_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-08-21T18:59:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0409/r1641030_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Germán Berterame",
         "Leandro Paredes"
       ],
       "score": 143
@@ -144,10 +143,29 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
-        "Leandro Paredes"
+        "Patrick Beach"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49682247",
+      "headline": "Miami's Germán Berterame on head injury: 'Felt like someone turned off the TV'",
+      "description": "Inter Miami forward Germán Berterame said he felt like someone turned off the TV after suffering a head injury during the match against CF Montreal on Jul. 25.",
+      "published": "2026-08-21T17:01:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49682247/miami-german-berterame-head-injury-felt-turned-tv",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704885_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Germán Berterame",
+        "Patrick Beach"
       ],
       "score": 142
     },
@@ -155,7 +173,7 @@
       "id": "49660035",
       "headline": "Premier League live updates: Arsenal kick off season against Coventry",
       "description": "The 2026-27 Premier League season begins as defending champions Arsenal take on newly promoted Coventry City.",
-      "published": "2026-08-21T18:30:45Z",
+      "published": "2026-08-21T19:10:21Z",
       "url": "https://www.espn.com/soccer/story/_/id/49660035/premier-league-live-updates-arsenal-kick-season-coventry-city",
       "image": "https://a.espncdn.com/photo/2026/0819/r1703916_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -167,7 +185,7 @@
       "players": [
         "Leandro Paredes"
       ],
-      "score": 140
+      "score": 141
     },
     {
       "id": "47978642",
@@ -186,6 +204,26 @@
         "Lionel Messi"
       ],
       "score": 138
+    },
+    {
+      "id": "49683233",
+      "headline": "Cristiano Ronaldo starts 25th season with 977th career goal",
+      "description": "Cristiano Ronaldo began his 25th season as a professional with his 977th career goal as he came off the bench to help Al Nassr secure a 4-0 win on Friday.",
+      "published": "2026-08-21T19:09:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49683233/cristiano-ronaldo-goal-al-nassr-al-riyadh",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704950_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Leandro Paredes"
+      ],
+      "score": 132
     },
     {
       "id": "46751020",
@@ -790,34 +828,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
       "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49579404",
-      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
-      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
-      "published": "2026-08-11T05:22:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49573256",
-      "headline": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan",
-      "description": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup.",
-      "published": "2026-08-10T15:49:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
