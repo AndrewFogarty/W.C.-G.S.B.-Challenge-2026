@@ -1,11 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-22T14:30:35.952Z",
+  "updated": "2026-08-22T14:53:17.100Z",
   "counts": {
-    "offfield": 11,
-    "news": 32,
-    "injury": 1,
-    "preview": 3,
+    "offfield": 9,
+    "news": 34,
+    "preview": 4,
     "celebration": 1
   },
   "items": [
@@ -49,57 +48,19 @@
       "score": 175
     },
     {
-      "id": "49689602",
-      "headline": "Usain Bolt registers to play for non-league team Wythenshawe FC Veterans",
-      "description": "Former sprint star Usain Bolt appears set to turn out for a Sunday league team in Manchester.",
-      "published": "2026-08-22T11:26:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49689602/usain-bolt-registers-play-nonleague-team-wythenshawe-fc-veterans",
-      "image": "https://a.espncdn.com/photo/2021/0706/r876917_1296x729_16-9.jpg",
+      "id": "49690702",
+      "headline": "'Are you watching Joe Cole?' Hull fans mock prediction after Man United upset",
+      "description": "Hull fans had a message for Joe Cole as they got their Premier League campaign underway at home with a 2-0 victory over Manchester United.",
+      "published": "2026-08-22T13:54:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49690702/are-watching-joe-cole-hull-fans-mock-prediction-man-united-upset",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705233_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Leandro Paredes"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49689761",
-      "headline": "Barcelona boss Hansi Flick 'not worried' about Julián Álvarez situation",
-      "description": "Barcelona coach Hansi Flick insists he's \"not worried\" about the Julián Álvarez situation as the club's search for a new striker drags on with just over a week to run in the transfer window.",
-      "published": "2026-08-22T11:49:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49689761/barcelona-boss-hansi-flick-not-worried-julian-alvarez-situation",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705200_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Leandro Paredes"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49689130",
-      "headline": "Transfer rumors, news: Liverpool eye Endrick in case Minteh deal fails",
-      "description": "Liverpool want Brighton's Yankuba Minteh, but they have a plan should they fail to make a deal. Transfer Talk has the latest.",
-      "published": "2026-08-22T11:46:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49689130/transfer-rumors-news-liverpool-eye-endrick-case-minteh-deal-fails",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705202_1252x705_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina",
-        "Brazil"
-      ],
-      "players": [
-        "Endrick",
         "Leandro Paredes"
       ],
       "score": 141
@@ -124,13 +85,13 @@
       "score": 141
     },
     {
-      "id": "49689220",
-      "headline": "João Pedro signs new contract with Chelsea until 2032, option of two further years",
-      "description": "João Pedro has signed a new contract with Chelsea, keeping him at Stamford Bridge until 2032 with an option of two further years.",
-      "published": "2026-08-22T10:46:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49689220/joao-pedro-signs-new-contract-chelsea-2032-option-two-further-years-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705183_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49689761",
+      "headline": "Barcelona boss Hansi Flick 'not worried' about Julián Álvarez situation",
+      "description": "Barcelona coach Hansi Flick insists he's \"not worried\" about the Julián Álvarez situation as the club's search for a new striker drags on with just over a week to run in the transfer window.",
+      "published": "2026-08-22T11:49:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49689761/barcelona-boss-hansi-flick-not-worried-julian-alvarez-situation",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705200_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
@@ -139,7 +100,25 @@
       "players": [
         "Leandro Paredes"
       ],
-      "score": 139
+      "score": 140
+    },
+    {
+      "id": "49689899",
+      "headline": "Barcelona register four new players, no repeat of registration problems",
+      "description": "Barcelona have registered new signings Rodri, Anthony Gordon, Karim Adeyemi and João Cancelo ahead of Sunday's LaLiga opener against Elche.",
+      "published": "2026-08-22T11:58:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49689899/barcelona-register-four-new-players-no-repeat-registration-problems",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705204_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Leandro Paredes"
+      ],
+      "score": 138
     },
     {
       "id": "49466177",
@@ -166,31 +145,49 @@
         "Nestory Irankunda",
         "Alessandro Circati"
       ],
-      "score": 139
+      "score": 138
     },
     {
-      "id": "49689899",
-      "headline": "Barcelona register four new players, no repeat of registration problems",
-      "description": "Barcelona have registered new signings Rodri, Anthony Gordon, Karim Adeyemi and João Cancelo ahead of Sunday's LaLiga opener against Elche.",
-      "published": "2026-08-22T11:58:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49689899/barcelona-register-four-new-players-no-repeat-registration-problems",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705204_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49690579",
+      "headline": "Man United fall in shocking Hull defeat in Premier League opener",
+      "description": "Manchester United fell to a shocking 2-0 defeat to newly promoted Hull City in their first match of the 2026-27 Premier League.",
+      "published": "2026-08-22T13:56:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49690579/man-united-fall-shock-hull-defeat-premier-league-opener",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705227_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Leandro Paredes"
       ],
-      "score": 138
+      "score": 132
+    },
+    {
+      "id": "49673833",
+      "headline": "Man United slip to surprise Hull defeat as Premier League begins",
+      "description": "Manchester United made a nightmare start to the new season as promoted Hull confounded their many doubters by securing a shock 2-0 victory on their Premier League return.",
+      "published": "2026-08-22T13:35:07Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879322",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705228_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Leandro Paredes"
+      ],
+      "score": 131
     },
     {
       "id": "49661606",
-      "headline": "European soccer live updates: Hull lead Man United in season opener",
+      "headline": "European soccer live updates: Hull stun Man United in Premier League opener",
       "description": "Manchester United and Real Madrid are among the clubs in action during a full set of matches across Europe on Saturday.",
-      "published": "2026-08-22T12:51:08Z",
+      "published": "2026-08-22T13:29:23Z",
       "url": "https://www.espn.com/soccer/story/_/id/49661606/european-soccer-live-updates-manchester-united-real-madrid-tottenham",
       "image": "https://a.espncdn.com/photo/2026/0822/r1705211_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -220,7 +217,7 @@
       "players": [
         "Leandro Paredes"
       ],
-      "score": 130
+      "score": 129
     },
     {
       "id": "49689666",
@@ -239,7 +236,7 @@
         "Alexander Isak",
         "Leandro Paredes"
       ],
-      "score": 129
+      "score": 128
     },
     {
       "id": "47978642",
