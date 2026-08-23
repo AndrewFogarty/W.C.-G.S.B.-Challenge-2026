@@ -1,13 +1,31 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-23T10:09:26.735Z",
+  "updated": "2026-08-23T10:40:11.998Z",
   "counts": {
+    "celebration": 2,
     "offfield": 9,
     "news": 36,
-    "preview": 2,
-    "celebration": 1
+    "preview": 1
   },
   "items": [
+    {
+      "id": "49700150",
+      "headline": "New season, new haircut: Erling Haaland ditches iconic long hair for new season",
+      "description": "Erling Haaland shared his latest viral social media post, showing him cutting his long blonde hair in favour of a buzz cut.",
+      "published": "2026-08-23T10:21:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49700150/man-city-erling-haaland-ditches-iconic-long-hair-premier-league-season",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705662_502x282_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 220
+    },
     {
       "id": "49466177",
       "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
@@ -34,7 +52,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 216
+      "score": 205
     },
     {
       "id": "47978642",
@@ -52,7 +70,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 192
+      "score": 182
     },
     {
       "id": "49699054",
@@ -65,13 +83,97 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Australia"
+        "Norway"
       ],
       "players": [
         "Trent Alexander-Arnold",
-        "Patrick Beach"
+        "Erling Haaland"
       ],
-      "score": 140
+      "score": 139
+    },
+    {
+      "id": "49699220",
+      "headline": "Anthony Hudson insists Thailand 'are not done yet' in ASEAN Championship final",
+      "description": "Thailand coach Anthony Hudson believes his side can still win the ASEAN Championship despite trailing Vietnam 2-0 on aggregate.",
+      "published": "2026-08-23T07:13:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49699220/anthony-hudson-insists-thailand-not-done-yet-asean-championship-final",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705647_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 128
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-23T06:18:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49525764",
+      "headline": "Australia's top 12 most expensive transfers of all-time",
+      "description": "To alter an idiom slightly, these days, record Australian transfers are like buses. You wait ages for one, and then three come along at once.",
+      "published": "2026-08-23T05:00:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49525764/australias-top-12-most-expensive-transfers-all",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705615_1208x680_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "Australia"
+      ],
+      "players": [
+        "Harry Souttar",
+        "Nestory Irankunda",
+        "Lucas Herrington",
+        "Mathew Ryan",
+        "Cristian Volpato",
+        "Alessandro Circati",
+        "Erling Haaland"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49698229",
+      "headline": "LAFC vs. Portland Timbers - Game Highlights",
+      "description": "Watch the Game Highlights from LAFC vs. Portland Timbers, 08/22/2026",
+      "published": "2026-08-23T04:44:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49698229/lafc-vs-portland-timbers-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0823/a8bab24e-f3fc-4516-b59a-7b3bfec163ed/a8bab24e-f3fc-4516-b59a-7b3bfec163ed.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Omir Fernández",
+        "David Da Costa",
+        "Denis Bouanga",
+        "Vincent Janssen",
+        "James Pantemis",
+        "Erling Haaland"
+      ],
+      "score": 124
     },
     {
       "id": "49681406",
@@ -94,43 +196,48 @@
         "Thiago Almada",
         "Gavi"
       ],
-      "score": 133
+      "score": 122
     },
     {
-      "id": "49699220",
-      "headline": "Anthony Hudson insists Thailand 'are not done yet' in ASEAN Championship final",
-      "description": "Thailand coach Anthony Hudson believes his side can still win the ASEAN Championship despite trailing Vietnam 2-0 on aggregate.",
-      "published": "2026-08-23T07:13:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49699220/anthony-hudson-insists-thailand-not-done-yet-asean-championship-final",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705647_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
+      "id": "49697271",
+      "headline": "Enzo Maresca: Man City need to find a 'new Rodri'",
+      "description": "Manchester City coach Enzo Maresca said the club need to find a \"new Rodri\" following the departure of their midfield linchpin.",
+      "published": "2026-08-23T02:50:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49697271/enzo-maresca-man-city-transfers-new-rodri",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705593_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Australia"
       ],
       "players": [
+        "Rodri",
         "Patrick Beach"
       ],
-      "score": 129
+      "score": 121
     },
     {
-      "id": "48955344",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "published": "2026-08-23T06:18:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49697283",
+      "headline": "Portland Thorns FC vs. Denver Summit FC - Game Highlights",
+      "description": "Watch the Game Highlights from Portland Thorns FC vs. Denver Summit FC, 08/23/2026",
+      "published": "2026-08-23T02:45:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49697283/portland-thorns-fc-vs-denver-summit-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0823/8caeca83-af0d-475a-af98-93d0a8cb51ca/8caeca83-af0d-475a-af98-93d0a8cb51ca.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Norway"
       ],
       "players": [
-        "Patrick Beach"
+        "Pietra Tordin",
+        "Deyna Castellanos",
+        "Sophia Wilson",
+        "Yazmeen Ryan",
+        "Erling Haaland"
       ],
-      "score": 127
+      "score": 121
     },
     {
       "id": "49681857",
@@ -146,76 +253,7 @@
         "England"
       ],
       "players": [],
-      "score": 126
-    },
-    {
-      "id": "49525764",
-      "headline": "Australia's top 12 most expensive transfers of all-time",
-      "description": "To alter an idiom slightly, these days, record Australian transfers are like buses. You wait ages for one, and then three come along at once.",
-      "published": "2026-08-23T05:00:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49525764/australias-top-12-most-expensive-transfers-all",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705615_1208x680_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Harry Souttar",
-        "Nestory Irankunda",
-        "Lucas Herrington",
-        "Mathew Ryan",
-        "Cristian Volpato",
-        "Alessandro Circati",
-        "Patrick Beach"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49698229",
-      "headline": "LAFC vs. Portland Timbers - Game Highlights",
-      "description": "Watch the Game Highlights from LAFC vs. Portland Timbers, 08/22/2026",
-      "published": "2026-08-23T04:44:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49698229/lafc-vs-portland-timbers-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0823/a8bab24e-f3fc-4516-b59a-7b3bfec163ed/a8bab24e-f3fc-4516-b59a-7b3bfec163ed.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Omir Fernández",
-        "David Da Costa",
-        "Denis Bouanga",
-        "Vincent Janssen",
-        "James Pantemis",
-        "Patrick Beach"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49697283",
-      "headline": "Portland Thorns FC vs. Denver Summit FC - Game Highlights",
-      "description": "Watch the Game Highlights from Portland Thorns FC vs. Denver Summit FC, 08/23/2026",
-      "published": "2026-08-23T02:45:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49697283/portland-thorns-fc-vs-denver-summit-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0823/8caeca83-af0d-475a-af98-93d0a8cb51ca/8caeca83-af0d-475a-af98-93d0a8cb51ca.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Pietra Tordin",
-        "Deyna Castellanos",
-        "Sophia Wilson",
-        "Yazmeen Ryan",
-        "Patrick Beach"
-      ],
-      "score": 122
+      "score": 115
     },
     {
       "id": "49669869",
@@ -234,7 +272,7 @@
         "Bryan Mbeumo",
         "Mohamed Salah"
       ],
-      "score": 92
+      "score": 81
     },
     {
       "id": "49658888",
@@ -252,25 +290,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 55
-    },
-    {
-      "id": "49659966",
-      "headline": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
-      "description": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
-      "published": "2026-08-19T15:58:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49659966/alvarez-one-best-players-atletico-not-best",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Julián Álvarez"
-      ],
-      "score": 33
+      "score": 45
     },
     {
       "id": "49577750",
@@ -291,22 +311,22 @@
       "score": 25
     },
     {
-      "id": "49523086",
-      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
-      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well, let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
-      "published": "2026-08-09T04:39:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
-      "byline": "Bill Connelly",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49659966",
+      "headline": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
+      "description": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
+      "published": "2026-08-19T15:58:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49659966/alvarez-one-best-players-atletico-not-best",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "USA"
+        "Argentina"
       ],
       "players": [
-        "Erling Haaland"
+        "Julián Álvarez"
       ],
-      "score": 22
+      "score": 23
     },
     {
       "id": "49551450",
@@ -406,20 +426,6 @@
       ],
       "players": [],
       "score": 17
-    },
-    {
-      "id": "49650143",
-      "headline": "Premier League chief Masters: FIFA has hit 'self-destruct button'",
-      "description": "Premier League chief executive Richard Masters has accused embattled FIFA president Gianni Infantino of pressing the \"self-destruct button\" over failed plans to sell stakes in the World Cup.",
-      "published": "2026-08-18T17:44:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703471_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
     },
     {
       "id": "49640657",
@@ -687,6 +693,20 @@
       "score": 10
     },
     {
+      "id": "49650143",
+      "headline": "Premier League chief Masters: FIFA has hit 'self-destruct button'",
+      "description": "Premier League chief executive Richard Masters has accused embattled FIFA president Gianni Infantino of pressing the \"self-destruct button\" over failed plans to sell stakes in the World Cup.",
+      "published": "2026-08-18T17:44:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703471_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
       "id": "49642660",
       "headline": "FIFA executive Kevin Lamour departs amid backlash over Infantino's World Cup sale plan",
       "description": "FIFA chief operating officer Kevin Lamour has departed the soccer governing body in the wake of Gianni Infantino's collapsed World Cup sell-off plan.",
@@ -805,20 +825,6 @@
       "published": "2026-08-08T23:03:38Z",
       "url": "https://www.espn.com/soccer/story/_/id/49563647/fifa-gianni-infantino-president-uefa",
       "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49560207",
-      "headline": "Gianni Infantino denies UEFA made payment to alleged lover",
-      "description": "Gianni Infantino has denied that UEFA paid off his alleged lover while he was the organisation's general secretary.",
-      "published": "2026-08-08T13:11:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49560207/gianni-infantino-denies-uefa-made-departure-payment-alleged-lover",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
