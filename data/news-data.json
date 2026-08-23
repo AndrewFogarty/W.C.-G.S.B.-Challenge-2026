@@ -1,13 +1,42 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-23T04:05:56.606Z",
+  "updated": "2026-08-23T04:50:19.421Z",
   "counts": {
-    "news": 37,
     "offfield": 8,
-    "preview": 2,
-    "celebration": 1
+    "news": 35,
+    "injury": 1,
+    "celebration": 2,
+    "preview": 2
   },
   "items": [
+    {
+      "id": "49466177",
+      "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
+      "description": "There's nothing like a World Cup to put young stars in the shop window! With that in mind, ESPN has assembled a list of all the Socceroos' post-tournament transfers, all in one place.",
+      "published": "2026-08-23T04:10:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49466177/socceroos-transfer-tracker-where-australias-stars-play-2026-27",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705607_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach",
+        "Paul Okon-Engstler",
+        "Cameron Devlin",
+        "Ajdin Hrustic",
+        "Tete Yengi",
+        "Mathew Ryan",
+        "Lucas Herrington",
+        "Jackson Irvine",
+        "Nestory Irankunda",
+        "Alessandro Circati",
+        "Harry Souttar"
+      ],
+      "score": 224
+    },
     {
       "id": "47978642",
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
@@ -24,7 +53,32 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 211
+      "score": 200
+    },
+    {
+      "id": "49525764",
+      "headline": "Australia's top 12 most expensive transfers of all-time",
+      "description": "Nestory Irankunda has bumped Lucas Herrington out of second place on the list.",
+      "published": "2026-08-23T04:27:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49525764/australias-top-12-most-expensive-transfers-all",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705615_1208x680_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "Australia"
+      ],
+      "players": [
+        "Harry Souttar",
+        "Nestory Irankunda",
+        "Lucas Herrington",
+        "Mathew Ryan",
+        "Cristian Volpato",
+        "Alessandro Circati",
+        "Lionel Messi"
+      ],
+      "score": 146
     },
     {
       "id": "49681406",
@@ -47,7 +101,7 @@
         "Thiago Almada",
         "Gavi"
       ],
-      "score": 152
+      "score": 141
     },
     {
       "id": "49681857",
@@ -63,25 +117,47 @@
         "England"
       ],
       "players": [],
-      "score": 145
+      "score": 134
     },
     {
-      "id": "49696598",
-      "headline": "Lionel Messi scores but Inter Miami slump to 4th loss in 5 games",
-      "description": "Lionel Messi's 14th goal of the season wasn't enough to prevent Inter Miami from slumping to their fourth loss in their last five games, courtesy of Toronto FC, on Saturday.",
-      "published": "2026-08-23T03:04:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49696598/inter-miami-toronto-fc-lionel-messi-josh-sargent-mls",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705570_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49698229",
+      "headline": "LAFC vs. Portland Timbers - Game Highlights",
+      "description": "Watch the Game Highlights from LAFC vs. Portland Timbers, 08/22/2026",
+      "published": "2026-08-23T04:44:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49698229/lafc-vs-portland-timbers-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0823/a8bab24e-f3fc-4516-b59a-7b3bfec163ed/a8bab24e-f3fc-4516-b59a-7b3bfec163ed.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Omir Fernández",
+        "David Da Costa",
+        "Denis Bouanga",
+        "Vincent Janssen",
+        "James Pantemis",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49695597",
+      "headline": "Mourinho has spoken to Vinícius about 'emotional control'",
+      "description": "Mourinho has spoken to Vinícius about 'emotional control'.",
+      "published": "2026-08-22T23:04:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49695597/mourinho-spoken-vinicius-emotional-control",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_Mourinho_has_spoken_to_Vinicius_about_emotional_control/dm_260822_Mourinho_has_spoken_to_Vinicius_about_emotional_control.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
         "Australia"
       ],
       "players": [
-        "Lionel Messi",
-        "Josh Sargent",
-        "Ajdin Hrustic"
+        "Vinícius Júnior",
+        "Patrick Beach"
       ],
       "score": 131
     },
@@ -96,13 +172,13 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Argentina"
       ],
       "players": [
         "Rodri",
-        "Ajdin Hrustic"
+        "Lionel Messi"
       ],
-      "score": 131
+      "score": 130
     },
     {
       "id": "49697283",
@@ -115,16 +191,16 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Argentina"
       ],
       "players": [
         "Pietra Tordin",
         "Deyna Castellanos",
         "Sophia Wilson",
         "Yazmeen Ryan",
-        "Ajdin Hrustic"
+        "Lionel Messi"
       ],
-      "score": 131
+      "score": 130
     },
     {
       "id": "49697125",
@@ -132,35 +208,17 @@
       "description": "Josh Sargent and Derrick Etienne Jr. scored second-half goals three minutes apart and Toronto FC held on for a 2-1 victory over Inter Miami on Saturday night.",
       "published": "2026-08-23T02:28:20Z",
       "url": "http://www.espn.com/soccer/report/_/gameId/761742",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/4c668ccce6574d52bf6b44a0093ded531341/4c668ccce6574d52bf6b44a0093ded531341.jpg",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0823/73ab91d6-55eb-4c1c-bc05-5d70b6e4e8ca/73ab91d6-55eb-4c1c-bc05-5d70b6e4e8ca.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Argentina"
       ],
       "players": [
-        "Ajdin Hrustic"
+        "Lionel Messi"
       ],
-      "score": 131
-    },
-    {
-      "id": "49696957",
-      "headline": "Montreal rallies to get draw with 10-man Galaxy",
-      "description": "Daniel Ríos and Prince Owusu scored for CF Montreal in a 2-2 tie with the LA Galaxy on Saturday night.",
-      "published": "2026-08-23T02:26:46Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761745",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761745.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Ajdin Hrustic"
-      ],
-      "score": 131
+      "score": 129
     },
     {
       "id": "49697112",
@@ -173,12 +231,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Argentina"
       ],
       "players": [
-        "Ajdin Hrustic"
+        "Lionel Messi"
       ],
-      "score": 130
+      "score": 129
     },
     {
       "id": "49696990",
@@ -194,27 +252,243 @@
         "Australia"
       ],
       "players": [
-        "Ajdin Hrustic"
+        "Harry Souttar"
       ],
-      "score": 130
+      "score": 129
     },
     {
-      "id": "49661606",
-      "headline": "European soccer recap: Madrid nab late winner over Espanyol",
-      "description": "",
-      "published": "2026-08-22T22:52:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49661606/european-soccer-live-updates-manchester-united-real-madrid-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705482_1296x729_16-9.jpg",
+      "id": "49696889",
+      "headline": "Cameron Harper's late goal rallies Red Bulls to 1-1 draw with Fire",
+      "description": "Cameron Harper scored late in the second half after subbing in a minute earlier and the New York Red Bulls rallied for a 1-1 draw with the Chicago Fire on Saturday night.",
+      "published": "2026-08-23T02:20:22Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761744",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761744.png?templateId=espn.applewatch.awayhome.1",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Harry Souttar"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49696885",
+      "headline": "Griezmann scores 2 to lead Orlando past Real Salt Lake",
+      "description": "Antoine Griezmann scored two second-half goals Saturday night to help Orlando City beat Real Salt Lake 2-1 to extend their winless streak to seven games.",
+      "published": "2026-08-23T02:18:08Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761740",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761740.png?templateId=espn.applewatch.awayhome.1",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Harry Souttar"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49696598",
+      "headline": "Lionel Messi scores but Inter Miami slump to 4th loss in 5 games",
+      "description": "Lionel Messi's 14th goal of the season wasn't enough to prevent Inter Miami from slumping to their fourth loss in their last five games, courtesy of Toronto FC, on Saturday.",
+      "published": "2026-08-23T02:13:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49696598/inter-miami-toronto-fc-lionel-messi-josh-sargent-mls",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705570_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
-        "Lionel Messi"
+        "Lionel Messi",
+        "Josh Sargent",
+        "Lucas Herrington"
       ],
-      "score": 125
+      "score": 129
+    },
+    {
+      "id": "49696839",
+      "headline": "North Carolina Courage vs. Boston Legacy FC - Game Highlights",
+      "description": "Watch the Game Highlights from North Carolina Courage vs. Boston Legacy FC, 08/23/2026",
+      "published": "2026-08-23T01:54:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/49696839/north-carolina-courage-vs-boston-legacy-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0823/4585e264-a345-4f34-9342-70b313f4db14/4585e264-a345-4f34-9342-70b313f4db14.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Ashley Sanchez",
+        "Maycee Bell",
+        "Aïssata Traoré",
+        "Lucas Herrington"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49696747",
+      "headline": "Orlando City SC vs. Real Salt Lake - Game Highlights",
+      "description": "Watch the Game Highlights from Orlando City SC vs. Real Salt Lake, 08/22/2026",
+      "published": "2026-08-23T01:48:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/49696747/orlando-city-sc-vs-real-salt-lake-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0823/6c09474f-11fa-425a-8d05-0245b103375b/6c09474f-11fa-425a-8d05-0245b103375b.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Zakaria Taifi",
+        "Antoine Griezmann",
+        "Diego Luna",
+        "Dominik Marczuk",
+        "Maxime Crépeau",
+        "Lucas Herrington"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49696534",
+      "headline": "Ballard scores insane goal-of-the-year contender",
+      "description": "Dom Ballard produces a moment of individual brilliance with a jaw-dropping back-heel volley for Bristol City in the EFL Championship.",
+      "published": "2026-08-23T01:27:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49696534/ballard-scores-insane-goal-year-contender",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_EFL_Highlight_Ballard_scores_insane_goaloftheyear_contender_20260823_AUS_ONLY/dm_260822_EFL_Highlight_Ballard_scores_insane_goaloftheyear_contender_20260823_AUS_ONLY.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Lucas Herrington"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49696280",
+      "headline": "How Carlos Espí lead Real Madrid to a win",
+      "description": "Alex Kirkland recaps Real Madrid's late win vs. Espanyol.",
+      "published": "2026-08-23T00:57:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/49696280/how-carlos-espi-lead-real-madrid-win",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_RealMadrid_Kirkland_Espanyo_16x9/dm_260822_RealMadrid_Kirkland_Espanyo_16x9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Carlos Espí",
+        "Lucas Herrington"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49696190",
+      "headline": "Kansas City Current vs. Seattle Reign FC - Game Highlights",
+      "description": "Watch the Game Highlights from Kansas City Current vs. Seattle Reign FC, 08/23/2026",
+      "published": "2026-08-23T00:43:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/49696190/kansas-city-current-vs-seattle-reign-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0823/964c272b-3267-404a-aca2-961269b32cd5/964c272b-3267-404a-aca2-961269b32cd5.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Kayla Sharples",
+        "Croix Bethune",
+        "Debinha",
+        "Patrick Beach"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49695942",
+      "headline": "Juventus boss 'very calm' over Arsenal links to Kenan Yildiz",
+      "description": "Juventus coach Luciano Spalletti has brushed off reported interest from Arsenal in Türkiye winger Kenan Yildiz, saying no amount of money could prize him away from the Turin club this summer.",
+      "published": "2026-08-23T00:38:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49695942/juventus-arsenal-transfer-kenan-yildiz-luciano-spalletti",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705543_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Kenan Yildiz",
+        "Patrick Beach"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49695452",
+      "headline": "Herrington's dream start to life in Premier League",
+      "description": "Teenage Socceroos star Lucas Herrington has made a dream start to life in the Premier League, coming on as a second-half substitute in Hull City's boilover 2-0 victory over giants Manchester United.",
+      "published": "2026-08-23T00:36:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49695452/premier-league-hull-city-lucas-herrington-dream-start-life-epl",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705509_1296x518_5-2.jpg",
+      "byline": "AAP",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Lucas Herrington",
+        "Patrick Beach"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49695451",
+      "headline": "Real Madrid's José Mourinho defends Vinícius Júnior from 'bullying'",
+      "description": "José Mourinho has defended Vinícius Júnior, saying the star is \"bullied\" after he clashed with Espanyol players and the crowd during Real Madrid's 2-1 LaLiga win Saturday.",
+      "published": "2026-08-23T00:28:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49695451/jose-mourinho-defends-vinicius-junior-bullying",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705503_594x334_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Brazil"
+      ],
+      "players": [
+        "Vinícius Júnior",
+        "Patrick Beach"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49695870",
+      "headline": "Hull City stun Manchester United in historic 2-0 upset",
+      "description": "Newly promoted Hull City silence the doubters and secure their first ever EPL victory against Manchester United in their return to the top-flight division.",
+      "published": "2026-08-22T23:55:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/49695870/hull-city-stun-manchester-united-historic-2-0-upset",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_EPL_Highlight_Hull_City_stun_Manchester_United_in_historic_20_upset_20260823_AUS_ONLY/dm_260822_EPL_Highlight_Hull_City_stun_Manchester_United_in_historic_20_upset_20260823_AUS_ONLY.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 126
     },
     {
       "id": "49695350",
@@ -227,12 +501,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
-        "Lionel Messi"
+        "Patrick Beach"
       ],
-      "score": 125
+      "score": 124
     },
     {
       "id": "49695348",
@@ -245,103 +519,10 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49695190",
-      "headline": "Ivan Toney nets hat trick for Al Ahli in second game since World Cup",
-      "description": "Ivan Toney netted a hat trick in Al Ahli's 4-0 win over Abha in the Saudi Pro League to continue their winning start to the season.",
-      "published": "2026-08-22T22:27:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49695190/ivan-toney-nets-hat-trick-al-ahli-second-game-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705461_594x334_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Ivan Toney",
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49695282",
-      "headline": "Dawson: Rashford will have to play key role for Man United this season",
-      "description": "Dawson: Rashford will have to play key role for Man United this season.",
-      "published": "2026-08-22T22:16:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/49695282/rashford-play-key-role-man-united-season",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_Dawson_Rashford_will_have_to_play_key_role_for_Man_United_this_season/dm_260822_Dawson_Rashford_will_have_to_play_key_role_for_Man_United_this_season.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Marcus Rashford",
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49673974",
-      "headline": "Carlos Espí nets winner to hand Real Madrid win on José Mourinho's return",
-      "description": "Substitute Carlos Espí's last-minute winner ensured Jose Mourinho made a winning start in his first game back as Real Madrid boss as his side clinched a 2-1 win at Espanyol in their opening LaLiga match.",
-      "published": "2026-08-22T21:52:13Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401882912",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705473_594x334_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49695128",
-      "headline": "Bellingham on the scoresheet as Real Madrid win in 90th minute vs. Espanyol",
-      "description": "Bellingham on the scoresheet as Real Madrid win in 90th minute vs. Espanyol.",
-      "published": "2026-08-22T21:48:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49695128/bellingham-scoresheet-real-madrid-win-90th-minute-vs-espanyol",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_Bellingham_on_the_scoresheet_as_Real_Madrid_win_in_90th_minute_vs_Espanyol/dm_260822_Bellingham_on_the_scoresheet_as_Real_Madrid_win_in_90th_minute_vs_Espanyol.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49695029",
-      "headline": "Kim Sang-Sik hails Lê Giang Patrik heroics in Vietnam's ASEAN Championship final first-leg win",
-      "description": "Vietnam coach Kim Sang-Sik hailed the heroics of goalkeeper Lê Giang Patrik in their ASEAN Championship final first-leg win over Thailand.",
-      "published": "2026-08-22T21:43:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49695029/kim-sang-sik-hails-le-giang-patrik-heroics-vietnam-asean-championship-final-first-leg-win",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705478_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Patrik Le Giang",
-        "Lionel Messi"
+        "Patrick Beach"
       ],
       "score": 123
     },
@@ -362,34 +543,7 @@
         "Bryan Mbeumo",
         "Mohamed Salah"
       ],
-      "score": 111
-    },
-    {
-      "id": "49466177",
-      "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
-      "description": "There's nothing like a World Cup to put young stars in the shop window! With that in mind, ESPN has assembled a list of all the Socceroos' post-tournament transfers, all in one place.",
-      "published": "2026-08-21T00:52:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49466177/socceroos-transfer-tracker-where-australias-stars-play-2026-27",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703695_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach",
-        "Paul Okon-Engstler",
-        "Cameron Devlin",
-        "Ajdin Hrustic",
-        "Tete Yengi",
-        "Mathew Ryan",
-        "Lucas Herrington",
-        "Jackson Irvine",
-        "Nestory Irankunda",
-        "Alessandro Circati"
-      ],
-      "score": 108
+      "score": 100
     },
     {
       "id": "49658888",
@@ -743,117 +897,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49582283",
-      "headline": "Forlán: If Suárez is available for selection, why not?",
-      "description": "Forlán: If Suárez is available for selection, why not?",
-      "published": "2026-08-11T13:55:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49582283/suarez-available-selection-why-not",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_COM_SOC_Analysis_ForlC3A1n3A_If_SuC3A1rez_is_available_for_selection2C_why_not3F__GLOBAL_2026-08-11/dm_260811_COM_SOC_Analysis_ForlC3A1n3A_If_SuC3A1rez_is_available_for_selection2C_why_not3F__GLOBAL_2026-08-11.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49575753",
-      "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
-      "description": "Omar Artan -- the Somali World Cup referee refused entry to the United States -- has spoken about the \"very tough period\" during what should have been the highlight of his career.",
-      "published": "2026-08-10T17:30:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49575753/barred-somali-world-cup-ref-grateful-super-cup-shot",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670161_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49543435",
-      "headline": "Spain's sports minister says country 'deserves' to host 2030 World Cup final, not Morocco",
-      "description": "Spain \"deserves\" to host the 2030 World Cup final, according to the country's sports minister Milagros Tolón.",
-      "published": "2026-08-06T16:55:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49543435/spain-sports-minister-says-country-deserves-host-2030-world-cup-final-not-morocco",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698276_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49543506",
-      "headline": "CAF's silence is deafening, but Africa can be swing vote in FIFA's Infantino saga",
-      "description": "Since Gianni Infantino's plan to 'sell the FIFA World Cup' scandal first broke, the Confederation of African Football has been conspicuous by its silence.",
-      "published": "2026-08-06T13:30:41Z",
-      "url": "https://www.espn.com/espn/story/_/id/49543506/caf-silence-deafening-africa-swing-vote-fifa-infantino-saga",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49540626",
-      "headline": "Infantino sorry for 'errors' but gets FIFA board's 'full support'",
-      "description": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a summit held in Morocco \"reaffirmed their full support\" for his presidency.",
-      "published": "2026-08-05T23:55:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49540626/gianni-infantino-fifa-president-meeting-morocco-support",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1698132_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49540216",
-      "headline": "Canada PM Carney has no confidence in FIFA's Infantino",
-      "description": "Canadian Prime Minister Mark Carney said Wednesday he no longer has confidence in FIFA President Gianni Infantino, adding to growing pressure on the soccer leader after his abandoned plan to sell stakes in the World Cup sparked a global backlash.",
-      "published": "2026-08-05T21:32:06Z",
-      "url": "https://www.espn.com/espn/story/_/id/49540216/canada-pm-carney-no-confidence-fifa-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0415/r1644079_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Canada"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49642660",
-      "headline": "FIFA executive Kevin Lamour departs amid backlash over Infantino's World Cup sale plan",
-      "description": "FIFA chief operating officer Kevin Lamour has departed the soccer governing body in the wake of Gianni Infantino's collapsed World Cup sell-off plan.",
-      "published": "2026-08-18T00:05:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49642660/fifa-executive-kevin-lamour-departs-amid-backlash-infantino-world-cup-sale-plan",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703156_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
