@@ -1,11 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-23T17:34:28.990Z",
+  "updated": "2026-08-23T18:24:34.963Z",
   "counts": {
     "celebration": 2,
-    "offfield": 9,
-    "news": 36,
-    "preview": 1
+    "offfield": 8,
+    "news": 35,
+    "injury": 1,
+    "preview": 2
   },
   "items": [
     {
@@ -24,7 +25,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 216
+      "score": 215
     },
     {
       "id": "49466177",
@@ -52,7 +53,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 195
+      "score": 194
     },
     {
       "id": "47978642",
@@ -70,24 +71,41 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 171
+      "score": 170
     },
     {
-      "id": "49699929",
-      "headline": "Transfer rumors, news: Nottingham Forest bid £70M for Igor Thiago",
-      "description": "Nottingham Forest want Brazil striker Igor Thiago, and Barcelona continue their search for a No. 9. Transfer Talk has the latest.",
-      "published": "2026-08-23T13:23:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49699929/transfer-rumors-news-nottingham-forest-bid-70m-igor-thiago",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705658_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49702355",
+      "headline": "Chelsea's Xabi Alonso: 'World class' Cole Palmer is over his injury problems",
+      "description": "Chelsea manager Xabi Alonso said Cole Palmer is over the injury problems that wrecked his season and is determined to get back to enjoying playing football.",
+      "published": "2026-08-23T16:05:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49702355/world-class-cole-palmer-injury-problems",
+      "image": "https://a.espncdn.com/photo/2026/0405/r1638833_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
-        "Norway",
-        "Brazil"
+        "Norway"
       ],
       "players": [
-        "Igor Thiago",
+        "Cole Palmer",
+        "Erling Haaland"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49702124",
+      "headline": "Newcastle, Liverpool pay joint tribute to Kevin Keegan before Premier League clash",
+      "description": "Newcastle United and Liverpool paid tribute to Kevin Keegan ahead of their Premier League clash at St James' Park on Sunday, with both sides honouring the former player and manager following his death.",
+      "published": "2026-08-23T16:15:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49702124/newcastle-liverpool-pay-tribute-kevin-keegan-premier-league-clash",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705768_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
         "Erling Haaland"
       ],
       "score": 139
@@ -96,7 +114,7 @@
       "id": "49661948",
       "headline": "European soccer live updates:  Liverpool chasing Newcastle in battle of new eras",
       "description": "Follow all the action this Sunday with Man City, Liverpool, Barcelona and more in action.",
-      "published": "2026-08-23T15:49:47Z",
+      "published": "2026-08-23T16:48:15Z",
       "url": "https://www.espn.com/soccer/story/_/id/49661948/european-soccer-live-updates-manchester-city-liverpool-barcelona-ac-milan-juventus",
       "image": "https://a.espncdn.com/photo/2026/0823/r1705765_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -106,6 +124,62 @@
         "Norway"
       ],
       "players": [
+        "Erling Haaland"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49702640",
+      "headline": "'Call him, ask him' - Unai Emery hints about Ollie Watkins absence for Aston Villa",
+      "description": "Unai Emery said he can only address the absence of Ollie Watkins from Aston Villa's defeat against Brighton by \"silence.\"",
+      "published": "2026-08-23T16:41:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49702640/call-ask-unai-emery-hint-ollie-watkins-absence-aston-villa",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1651089_1296x729_16-9.jpg",
+      "byline": "James Dielhenn",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Ollie Watkins",
+        "Erling Haaland"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49702459",
+      "headline": "Nicol: Title challengers win games like Man City did vs. Bournemouth",
+      "description": "Nicol: Title challengers win games like Man City did vs. Bournemouth",
+      "published": "2026-08-23T16:22:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49702459/title-challengers-win-games-man-city-did-vs-bournemouth",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_Analysis_Nicol_Title_challengers_win_games_like_Man_City_did_vs_Bournemouth_20260823_G/dm_260823_COM_SOC_Analysis_Nicol_Title_challengers_win_games_like_Man_City_did_vs_Bournemouth_20260823_G.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49702415",
+      "headline": "Nicol: Anderson's good, but he's 'just not Rodri' for Man City",
+      "description": "Nicol: Anderson's good, but he's 'just not Rodri' for Man City",
+      "published": "2026-08-23T16:21:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/49702415/anderson-good-just-not-rodri-man-city",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_Nicol_Andersons_good_but_hes_just_not_Rodri_for_Man_City/dm_260823_Nicol_Andersons_good_but_hes_just_not_Rodri_for_Man_City.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Elliot Anderson",
         "Erling Haaland"
       ],
       "score": 130
@@ -126,25 +200,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 130
-    },
-    {
-      "id": "49701780",
-      "headline": "Two late goals save Man City blushes against Bournemouth in Premier League opener",
-      "description": "Late goals from Marc Guéhi and Josko Gvardiol rescued Manchester City who eventually beat Bournemouth 2-1 in their Premier League opener.",
-      "published": "2026-08-23T15:42:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49701780/two-late-goals-save-man-city-blushes-bournemouth-premier-league-opener",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705744_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 130
+      "score": 129
     },
     {
       "id": "49673912",
@@ -160,45 +216,6 @@
         "Norway"
       ],
       "players": [
-        "Erling Haaland"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49673916",
-      "headline": "Man City strike late to break Bournemouth's hearts",
-      "description": "Manchester City produced a dramatic late fightback to snatch a 2-1 victory over Bournemouth in Enzo Maresca's first Premier League match as their manager.",
-      "published": "2026-08-23T15:23:53Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879320",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705746_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49701689",
-      "headline": "USMNT's Ricardo Pepi, Sergiño Dest score in PSV 5-1 rout",
-      "description": "United States duo Ricardo Pepi and Sergiño Dest were on the scoresheet for PSV Eindhoven who continued their Eredivisie season with a 5-1 hammering of Groningen on Sunday.",
-      "published": "2026-08-23T15:05:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49701689/usmnt-ricardo-pepi-sergino-dest-score-psv-51-rout",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705718_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "USA"
-      ],
-      "players": [
-        "Ricardo Pepi",
-        "Sergiño Dest",
         "Erling Haaland"
       ],
       "score": 129
@@ -224,7 +241,7 @@
         "Thiago Almada",
         "Gavi"
       ],
-      "score": 112
+      "score": 110
     },
     {
       "id": "49681857",
@@ -240,7 +257,7 @@
         "England"
       ],
       "players": [],
-      "score": 105
+      "score": 103
     },
     {
       "id": "49669869",
@@ -259,7 +276,7 @@
         "Bryan Mbeumo",
         "Mohamed Salah"
       ],
-      "score": 71
+      "score": 69
     },
     {
       "id": "49658888",
@@ -798,20 +815,6 @@
       "published": "2026-08-10T15:49:41Z",
       "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
       "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49563647",
-      "headline": "FIFA hits out at campaign to 'undermine' president Infantino",
-      "description": "FIFA has hit out at what it called \"a concerted and ongoing effort by some to undermine\" world soccer's governing body and its president Gianni Infantino.",
-      "published": "2026-08-08T23:03:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49563647/fifa-gianni-infantino-president-uefa",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
