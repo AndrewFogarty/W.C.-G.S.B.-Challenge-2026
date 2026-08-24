@@ -1,14 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-24T10:09:43.538Z",
+  "updated": "2026-08-24T10:53:52.058Z",
   "counts": {
-    "celebration": 3,
-    "offfield": 9,
-    "news": 33,
     "injury": 1,
-    "preview": 2
+    "celebration": 3,
+    "offfield": 10,
+    "preview": 2,
+    "news": 32
   },
   "items": [
+    {
+      "id": "49704497",
+      "headline": "UEFA boss Aleksander Čeferin rules out FIFA presidency bid",
+      "description": "UEFA president Aleksander Čeferin has ruled himself out of the running to replace FIFA chief Gianni Infantino, but Čeferin warned the beleaguered FIFA boss that he must either quit or face a leadership challenge in March.",
+      "published": "2026-08-24T10:13:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49704497/aleksander-ceferin-uefa-boss-rules-fifa-presidency-bid",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705936_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [],
+      "players": [],
+      "score": 219
+    },
     {
       "id": "49700150",
       "headline": "New season, new haircut: Erling Haaland ditches iconic long hair for new season",
@@ -25,7 +39,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 191
+      "score": 180
     },
     {
       "id": "49466177",
@@ -53,25 +67,44 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 170
+      "score": 159
     },
     {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-08-23T03:03:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49709434",
+      "headline": "Morgan Rogers: Xabi Alonso 'could probably still play in the Premier League now'",
+      "description": "New Chelsea signing Morgan Rogers said that Xabi Alonso \"could probably still play in the Premier League\" due to his ability to pass a ball in training.",
+      "published": "2026-08-24T08:54:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49709434/morgan-rogers-chelsea-xabi-alonso-probably-play-premier-league-now",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693618_1296x729_16-9.jpg",
+      "byline": "João Castelo-Branco",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
-        "Lionel Messi"
+        "Morgan Rogers",
+        "Jackson Irvine"
       ],
-      "score": 146
+      "score": 142
+    },
+    {
+      "id": "49704190",
+      "headline": "Inside Tottenham's plan to break into the WSL elite after a superb transfer window",
+      "description": "Tottenham Hotspur enjoyed a successful first season under manager Martin Ho. Now, they're planning to go one further and break into the WSL's elite clubs.",
+      "published": "2026-08-24T08:19:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49704190/inside-tottenham-plan-break-wsl-elite-superb-transfer-window",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705886_1296x729_16-9.jpg",
+      "byline": "Emily Keogh",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 141
     },
     {
       "id": "49709318",
@@ -90,27 +123,7 @@
         "Alejandro Balde",
         "Erling Haaland"
       ],
-      "score": 141
-    },
-    {
-      "id": "49709156",
-      "headline": "U.S. international Rose Lavelle suffers head injury in Gotham FC draw",
-      "description": "Gotham FC midfielder Rose Lavelle was substituted in the first half of her team's scoreless draw with Angel City FC on Sunday due to a head injury.",
-      "published": "2026-08-24T06:29:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49709156/us-international-rose-lavelle-suffers-head-injury-gotham-fc-draw",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706117_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Norway",
-        "USA"
-      ],
-      "players": [
-        "Rose Lavelle",
-        "Erling Haaland"
-      ],
-      "score": 141
+      "score": 140
     },
     {
       "id": "49709360",
@@ -129,7 +142,7 @@
         "Deon Hotto",
         "Erling Haaland"
       ],
-      "score": 138
+      "score": 137
     },
     {
       "id": "49708875",
@@ -147,7 +160,101 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 136
+      "score": 135
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-08-23T03:03:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49710051",
+      "headline": "Maradona 'Hand of God' football sells for almost £5 million short of valuation",
+      "description": "The football with which Argentina's Diego Maradona scored his \"Hand of God\" goal against England in the 1986 World Cup fell short of it's valuation by almost £5 million ($6.8m).",
+      "published": "2026-08-24T09:49:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49710051/maradona-hand-god-football-sells-almost-5-million-short-valuation",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706127_594x334_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Jackson Irvine"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49709745",
+      "headline": "Burley & Nicol question 'scared' Van Dijk",
+      "description": "Burley & Nicol question 'scared' Van Dijk",
+      "published": "2026-08-24T08:53:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49709745/burley-nicol-question-scared-van-dijk",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_COM_SOC_Analysis_Burley_Nicol_question_scared_Van_Dijk_20260824_GLOBAL/dm_260824_COM_SOC_Analysis_Burley_Nicol_question_scared_Van_Dijk_20260824_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Netherlands"
+      ],
+      "players": [
+        "Virgil van Dijk",
+        "Jackson Irvine"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49668709",
+      "headline": "Arsenal want another Premier League title, but it won't come easy",
+      "description": "Arsenal's Premier League title win was a triumph for Mikel Arteta & Co., but their desire to defend their crown will be a much tougher challenge. Just ask former title winners who fell short of a repeat.",
+      "published": "2026-08-24T08:17:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49668709/premier-league-arsenal-title-mikel-arteta-challenges-dynasty-mark-ogden",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706058_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 129
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-24T07:48:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 128
     },
     {
       "id": "49709399",
@@ -165,7 +272,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 129
+      "score": 128
     },
     {
       "id": "49709254",
@@ -184,43 +291,7 @@
         "Kyra Cooney-Cross",
         "Erling Haaland"
       ],
-      "score": 128
-    },
-    {
-      "id": "48955344",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "published": "2026-08-24T06:44:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49708338",
-      "headline": "Brighton have red hot start to season with 4-0 win over Villa",
-      "description": "Brighton's Maxim De Cuyper and Jack Hinshelwood doing the damage for Brighton as they opened up 4-0 lead after just 30 minutes to blow Aston Villa away.",
-      "published": "2026-08-24T03:40:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/49708338/brighton-red-hot-start-season-4-0-win-villa",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_Soccer_HIGHLIGHT_Brighton_have_red_hot_start_to_season_with_4_0_win_over_Villa_20260824_AUS/dm_260823_Soccer_HIGHLIGHT_Brighton_have_red_hot_start_to_season_with_4_0_win_over_Villa_20260824_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 123
+      "score": 127
     },
     {
       "id": "49681406",
@@ -243,7 +314,7 @@
         "Thiago Almada",
         "Gavi"
       ],
-      "score": 87
+      "score": 76
     },
     {
       "id": "49681857",
@@ -259,7 +330,7 @@
         "England"
       ],
       "players": [],
-      "score": 80
+      "score": 69
     },
     {
       "id": "49669869",
@@ -278,7 +349,7 @@
         "Bryan Mbeumo",
         "Mohamed Salah"
       ],
-      "score": 46
+      "score": 35
     },
     {
       "id": "49658888",
@@ -296,7 +367,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 45
+      "score": 35
     },
     {
       "id": "49577750",
@@ -315,24 +386,6 @@
         "Ferran Torres"
       ],
       "score": 25
-    },
-    {
-      "id": "49659966",
-      "headline": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
-      "description": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
-      "published": "2026-08-19T15:58:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49659966/alvarez-one-best-players-atletico-not-best",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Julián Álvarez"
-      ],
-      "score": 23
     },
     {
       "id": "49551450",
@@ -364,22 +417,6 @@
       "kindLabel": "Off the field",
       "teams": [
         "USA"
-      ],
-      "players": [],
-      "score": 22
-    },
-    {
-      "id": "49537044",
-      "headline": "Luís Figo joins calls for FIFA president Gianni Infantino to resign",
-      "description": "Portugal great Luís Figo has joined calls for FIFA president Gianni Infantino to step down over his failed plan to sell of the World Cup to private investors.",
-      "published": "2026-08-05T14:33:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49537044/luis-figo-joins-calls-fifa-president-gianni-infantino-resign",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697944_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Portugal"
       ],
       "players": [],
       "score": 22
@@ -432,6 +469,24 @@
       ],
       "players": [],
       "score": 17
+    },
+    {
+      "id": "49659966",
+      "headline": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
+      "description": "Simeone: Alvarez is one of the best players Atlético have, if not the best",
+      "published": "2026-08-19T15:58:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49659966/alvarez-one-best-players-atletico-not-best",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best/dm_260819_Simeone_Alvarez_is_one_of_the_best_players_Atletico_have_if_not_the_best.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Julián Álvarez"
+      ],
+      "score": 13
     },
     {
       "id": "49640657",
@@ -776,48 +831,6 @@
       "url": "https://www.espn.com/espn/story/_/id/49588771/former-fifa-council-member-isha-johansen-says-gianni-infantino-step-good-football",
       "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
       "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49540676",
-      "headline": "Was Figo right to criticize FIFA president Infantino?",
-      "description": "Was Figo right to criticize FIFA president Infantino?",
-      "published": "2026-08-11T05:24:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49579404",
-      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
-      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
-      "published": "2026-08-11T05:22:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49573256",
-      "headline": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan",
-      "description": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup.",
-      "published": "2026-08-10T15:49:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
