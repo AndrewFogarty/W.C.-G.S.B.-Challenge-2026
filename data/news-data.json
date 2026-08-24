@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-24T11:55:41.061Z",
+  "updated": "2026-08-24T12:55:34.390Z",
   "counts": {
     "injury": 1,
-    "celebration": 3,
-    "offfield": 10,
+    "celebration": 2,
+    "offfield": 12,
     "preview": 2,
-    "news": 32
+    "news": 31
   },
   "items": [
     {
@@ -21,7 +21,7 @@
       "kindLabel": "Injury",
       "teams": [],
       "players": [],
-      "score": 217
+      "score": 216
     },
     {
       "id": "49700150",
@@ -39,7 +39,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 179
+      "score": 177
     },
     {
       "id": "49466177",
@@ -67,25 +67,101 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 157
+      "score": 156
     },
     {
-      "id": "49704190",
-      "headline": "Inside Tottenham's plan to break into the WSL elite after a superb transfer window",
-      "description": "Tottenham Hotspur enjoyed a successful first season under manager Martin Ho. Now, they're planning to go one further and break into the WSL's elite clubs.",
-      "published": "2026-08-24T09:03:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49704190/inside-tottenham-plan-break-wsl-elite-superb-transfer-window",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705886_1296x729_16-9.jpg",
-      "byline": "Emily Keogh",
+      "id": "49710404",
+      "headline": "Arsenal ready if Julián Álvarez transfer door opens - sources",
+      "description": "Arsenal are ready to make a move for Julián Álvarez in the final week of the transfer window if they receive encouragement, sources told ESPN.",
+      "published": "2026-08-24T11:17:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49710404/arsenal-ready-swoop-julian-alvarez-atletico-madrid-sources",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706143_1296x729_16-9.jpg",
+      "byline": "James Olley",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Australia"
       ],
       "players": [
-        "Mathew Ryan"
+        "Julián Álvarez",
+        "Paul Okon-Engstler"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49709884",
+      "headline": "Virgil van Dijk 'fully trusts' Liverpool in transfer market",
+      "description": "Virgil van Dijk has said he \"fully trusts\" Liverpool to make the right decisions in the transfer market before the window shuts next week.",
+      "published": "2026-08-24T11:00:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49709884/virgil-van-dijk-fully-trusts-liverpool-transfer-market",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706130_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Virgil van Dijk",
+        "Paul Okon-Engstler"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49709318",
+      "headline": "Transfer rumors, news: Barcelona's Balde open to Man United move",
+      "description": "Barcelona left back Alejandro Balde is ready to join Manchester United. Transfer Talk has the latest.",
+      "published": "2026-08-24T10:47:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49709318/transfer-rumors-news-barcelona-alejandro-balde-open-manchester-united-move",
+      "image": "https://a.espncdn.com/photo/2026/0606/r1669122_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Alejandro Balde",
+        "Erling Haaland"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49710202",
+      "headline": "Christopher Nkunku close to Leipzig loan from AC Milan - sources",
+      "description": "France forward Christopher Nkunku is on the verge of a return to RB Leipzig on loan from AC Milan, sources have told ESPN.",
+      "published": "2026-08-24T10:22:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49710202/christopher-nkunku-close-leipzig-loan-ac-milan-sources",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706137_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway",
+        "France"
+      ],
+      "players": [
+        "Erling Haaland"
       ],
       "score": 141
+    },
+    {
+      "id": "49709983",
+      "headline": "Erling Haaland: Zlatan Ibrahimovic told me 'never cut your hair, your strength is in your hair'",
+      "description": "Erling Haaland revealed that Zlatan Ibrahimović had told him to never cut his hair because his \"strength is in it\" but the Manchester City forward did just that ahead of the new Premier League season.",
+      "published": "2026-08-24T10:45:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49709983/zlatan-ibrahimovic-told-never-cut-your-hair-your-strength-your-hair",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705691_2_576x324_16-9.jpg",
+      "byline": "Nina Hristova",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 139
     },
     {
       "id": "49709434",
@@ -98,51 +174,13 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Australia"
+        "Norway"
       ],
       "players": [
         "Morgan Rogers",
-        "Mathew Ryan"
+        "Erling Haaland"
       ],
-      "score": 140
-    },
-    {
-      "id": "49709318",
-      "headline": "Transfer rumors, news: Barcelona's Balde open to Man United move",
-      "description": "Barcelona left back Alejandro Balde is ready to join Manchester United. Transfer Talk has the latest.",
-      "published": "2026-08-24T07:25:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49709318/transfer-rumors-news-barcelona-alejandro-balde-open-manchester-united-move",
-      "image": "https://a.espncdn.com/photo/2026/0606/r1669122_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Alejandro Balde",
-        "Mathew Ryan"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49709360",
-      "headline": "Orlando Pirates vs. Sekhukhune United - PSL kick-off time, how to watch, team news",
-      "description": "After their 1-0 MTN8 semi-final first leg win over Sekhukhune United, Orlando Pirates will look to get another victory over Cedric Kaze's side when they host them in the South African Premiership on Tuesday.",
-      "published": "2026-08-24T07:15:16Z",
-      "url": "https://www.espn.com/espn/story/_/id/49709360/orlando-pirates-vs-sekhukhune-united-psl-kick-how-watch-team-news",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706122_1231x693_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Deon Hotto",
-        "Mathew Ryan"
-      ],
-      "score": 135
+      "score": 139
     },
     {
       "id": "47978642",
@@ -160,25 +198,82 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 134
+      "score": 132
     },
     {
-      "id": "49708875",
-      "headline": "Premier League Stats: Man United's first in history, Haaland 200, Saka's 62 overtakes Fabregas",
-      "description": "ESPN brings you the best stats from this weekend's Premier League football action.",
-      "published": "2026-08-24T07:30:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49708875/premier-league-stats-manchester-united-first-history-erling-haaland-200-bukayo-saka-62-overtakes-cesc-fabregas",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705282_1296x729_16-9.jpg",
-      "byline": "Sunaadh Sagar",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49710514",
+      "headline": "Does Iraola need to change Liverpool's formation?",
+      "description": "Does Iraola need to change Liverpool's formation?",
+      "published": "2026-08-24T11:12:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/49710514/does-iraola-need-change-liverpool-formation",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_COM_SOC_Analysis_Does_Iraola_need_to_change_Liverpools_formation_20260824_GLOBAL/dm_260824_COM_SOC_Analysis_Does_Iraola_need_to_change_Liverpools_formation_20260824_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia"
       ],
       "players": [
-        "Mathew Ryan"
+        "Paul Okon-Engstler"
       ],
-      "score": 133
+      "score": 130
+    },
+    {
+      "id": "49710499",
+      "headline": "Laurens: Newcastle executed 'perfect plan' vs. Liverpool",
+      "description": "Laurens: Newcastle executed 'perfect plan' vs. Liverpool",
+      "published": "2026-08-24T11:08:00Z",
+      "url": "https://www.espn.com/video/clip/_/id/49710499/newcastle-executed-perfect-plan-vs-liverpool",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_COM_SOC_Analysis_Laurens_Newcastle_executed_perfect_plan_vs_Liverpool_20260824_GLOBAL/dm_260824_COM_SOC_Analysis_Laurens_Newcastle_executed_perfect_plan_vs_Liverpool_20260824_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Paul Okon-Engstler"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49710318",
+      "headline": "Man City target Allan, Palmeiras boss: 'I don't know' what's going to happen",
+      "description": "Palmeiras coach Abel Ferreira said he is unsure about Brazilian winger Allan's future at the club amid ongoing interest from Manchester City.",
+      "published": "2026-08-24T10:48:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49710318/palmeiras-coach-admits-know-happen-manchester-city-target-allan",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706140_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Allan Elias",
+        "Erling Haaland"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49710051",
+      "headline": "Maradona 'Hand of God' football sells for almost £5 million short of valuation",
+      "description": "The football with which Argentina's Diego Maradona scored his \"Hand of God\" goal against England in the 1986 World Cup fell short of it's valuation by almost £5 million ($6.8m).",
+      "published": "2026-08-24T09:49:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49710051/maradona-hand-god-football-sells-almost-5-million-short-valuation",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706127_594x334_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway",
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 128
     },
     {
       "id": "49709745",
@@ -191,32 +286,14 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia",
+        "Norway",
         "Netherlands"
       ],
       "players": [
         "Virgil van Dijk",
-        "Mathew Ryan"
+        "Erling Haaland"
       ],
-      "score": 128
-    },
-    {
-      "id": "49709399",
-      "headline": "Brighton fan, 72, dies after falling ill after Aston Villa match",
-      "description": "A Brighton fan has died after falling ill as he was leaving the stadium following their 4-0 win over Aston Villa, the club have confirmed.",
-      "published": "2026-08-24T08:51:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49709399/brighton-fan-72-dies-falling-ill-aston-villa-match",
-      "image": "https://a.espncdn.com/photo/2018/1027/r453825_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 128
+      "score": 127
     },
     {
       "id": "49668709",
@@ -229,165 +306,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49708338",
-      "headline": "Brighton have red hot start to season with 4-0 win over Villa",
-      "description": "Brighton's Maxim De Cuyper and Jack Hinshelwood doing the damage for Brighton as they opened up 4-0 lead after just 30 minutes to blow Aston Villa away.",
-      "published": "2026-08-24T03:40:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/49708338/brighton-red-hot-start-season-4-0-win-villa",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_Soccer_HIGHLIGHT_Brighton_have_red_hot_start_to_season_with_4_0_win_over_Villa_20260824_AUS/dm_260823_Soccer_HIGHLIGHT_Brighton_have_red_hot_start_to_season_with_4_0_win_over_Villa_20260824_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
         "Norway"
       ],
       "players": [
         "Erling Haaland"
       ],
-      "score": 121
-    },
-    {
-      "id": "49707665",
-      "headline": "Angel City FC vs. NJ/NY Gotham FC - Game Highlights",
-      "description": "Watch the Game Highlights from Angel City FC vs. NJ/NY Gotham FC, 08/24/2026",
-      "published": "2026-08-24T02:15:05Z",
-      "url": "https://www.espn.com/video/clip/_/id/49707665/angel-city-fc-vs-nj-ny-gotham-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0824/968f7b59-4278-498f-a58b-6f8abc77b6ee/968f7b59-4278-498f-a58b-6f8abc77b6ee.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Guro Reiten",
-        "Sam Kerr",
-        "Jordynn Dudley",
-        "Erling Haaland"
-      ],
-      "score": 118
-    },
-    {
-      "id": "49706917",
-      "headline": "Florida's Kyra Taylor on keeping her momentum high vs. Florida State",
-      "description": "Taylor reflects on her offensive performance after scoring two goals for the Gators and describes how she was able to keep her energy high in order to help beat the Seminoles.",
-      "published": "2026-08-24T00:45:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706917/florida-kyra-taylor-keeping-momentum-high-vs-florida-state",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_SEC_WSOC_Interview_Florida_soccer_interview_260823/dm_260823_SEC_WSOC_Interview_Florida_soccer_interview_260823.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 116
-    },
-    {
-      "id": "49706810",
-      "headline": "Tennessee's Shae O'Rourke reflects on her goal vs. Western Carolina",
-      "description": "O'Rourke describes the exciting feeling of scoring a goal for the Lady Vols as she discusses how good it feels to have contributed in the win over the Catamounts.",
-      "published": "2026-08-24T00:37:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706810/tennessee-shae-orourke-reflects-goal-vs-western-carolina",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_SEC_WSOC_Interview_Tennessee_soccer_interview_260823/dm_260823_SEC_WSOC_Interview_Tennessee_soccer_interview_260823.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 116
-    },
-    {
-      "id": "49706674",
-      "headline": "Bay FC vs. Houston Dash - Game Highlights",
-      "description": "Watch the Game Highlights from Bay FC vs. Houston Dash, 08/24/2026",
-      "published": "2026-08-24T00:14:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706674/bay-fc-vs-houston-dash-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0824/7482d663-4359-4b89-8469-8c2121105dc5/7482d663-4359-4b89-8469-8c2121105dc5.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Karlie Lema",
-        "Cristiana Girelli",
-        "Linda Ullmark",
-        "Danielle Colaprico",
-        "Jordan Silkowitz",
-        "Erling Haaland"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49706417",
-      "headline": "Iraola: Isak expected a tough atmosphere at St James' Park",
-      "description": "Iraola: Isak expected a tough atmosphere at St James' Park",
-      "published": "2026-08-23T23:42:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706417/isak-expected-tough-atmosphere-st-james-park",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_PRESSER_Iraola_Isak_expected_a_tough_atmosphere_at_St_James_Park_2026_8_24/dm_260823_COM_SOC_PRESSER_Iraola_Isak_expected_a_tough_atmosphere_at_St_James_Park_2026_8_24.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49706381",
-      "headline": "Maresca explains Guehi midfield role after Bournemouth win",
-      "description": "Maresca explains Guehi midfield role after Bournemouth win",
-      "published": "2026-08-23T23:38:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706381/maresca-explains-guehi-midfield-role-bournemouth-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_PRESSER_Maresca_explains_Guehi_midfield_role_after_Bournemouth_win_2026_8_24/dm_260823_COM_SOC_PRESSER_Maresca_explains_Guehi_midfield_role_after_Bournemouth_win_2026_8_24.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49706356",
-      "headline": "Moreno 'disappointed' by Lamine Yamal's reaction to Barcelona substitution",
-      "description": "Moreno 'disappointed' by Lamine Yamal's reaction to Barcelona substitution",
-      "published": "2026-08-23T23:33:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706356/moreno-disappointed-lamine-yamal-reaction-barcelona-substitution",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_Analysis_Moreno_disappointed_by_Lamine_Yamals_reaction_to_Barcelona_substitution_20260/dm_260823_COM_SOC_Analysis_Moreno_disappointed_by_Lamine_Yamals_reaction_to_Barcelona_substitution_20260.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Erling Haaland"
-      ],
-      "score": 114
+      "score": 126
     },
     {
       "id": "49681406",
@@ -410,7 +334,7 @@
         "Thiago Almada",
         "Gavi"
       ],
-      "score": 74
+      "score": 73
     },
     {
       "id": "49681857",
@@ -426,7 +350,7 @@
         "England"
       ],
       "players": [],
-      "score": 67
+      "score": 66
     },
     {
       "id": "49658888",
@@ -463,7 +387,7 @@
         "Bryan Mbeumo",
         "Mohamed Salah"
       ],
-      "score": 33
+      "score": 32
     },
     {
       "id": "49577750",
@@ -856,6 +780,62 @@
       "published": "2026-08-18T17:44:03Z",
       "url": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
       "image": "https://a.espncdn.com/photo/2026/0818/r1703471_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49642660",
+      "headline": "FIFA executive Kevin Lamour departs amid backlash over Infantino's World Cup sale plan",
+      "description": "FIFA chief operating officer Kevin Lamour has departed the soccer governing body in the wake of Gianni Infantino's collapsed World Cup sell-off plan.",
+      "published": "2026-08-18T00:05:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49642660/fifa-executive-kevin-lamour-departs-amid-backlash-infantino-world-cup-sale-plan",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1703156_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49610097",
+      "headline": "Andrew Giuliani backs FIFA's Gianni Infantino, calls critics 'jealous'",
+      "description": "",
+      "published": "2026-08-14T15:11:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49610097/andrew-giuliani-backs-fifa-gianni-infantino-calls-critics-jealous",
+      "image": "https://a.espncdn.com/photo/2025/0506/r1489074_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49600669",
+      "headline": "Time limits, VAR, mistaken identity: Which World Cup rules has Premier League adopted?",
+      "description": "Which World Cup law changes will continue for the Premier League, and which ones have been rejected?",
+      "published": "2026-08-14T09:05:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701282_1296x729_16-9.jpg",
+      "byline": "Andy Davies",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49598888",
+      "headline": "CAF boss: Only elections can decide Gianni Infantino's FIFA future",
+      "description": "African football boss Patrice Motsepe has said that the position of embattled president Gianni Infantino can only be decided by FIFA elections.",
+      "published": "2026-08-13T10:58:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49598888/gianni-infantino-fifa-caf-uefa-afc-football",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701197_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
