@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-24T19:23:01.503Z",
+  "updated": "2026-08-24T20:26:37.726Z",
   "counts": {
     "injury": 1,
     "celebration": 2,
-    "offfield": 8,
+    "offfield": 10,
     "preview": 2,
-    "news": 35
+    "news": 33
   },
   "items": [
     {
@@ -21,7 +21,7 @@
       "kindLabel": "Injury",
       "teams": [],
       "players": [],
-      "score": 206
+      "score": 205
     },
     {
       "id": "49700150",
@@ -39,7 +39,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 168
+      "score": 166
     },
     {
       "id": "49466177",
@@ -67,7 +67,45 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 146
+      "score": 145
+    },
+    {
+      "id": "49714065",
+      "headline": "Manchester City agree €40M deal for Allan Elias - sources",
+      "description": "Manchester City have agreed a deal with Palmeiras for winger Allan Elias, sources have told ESPN.",
+      "published": "2026-08-24T19:12:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49714065/manchester-city-agree-40m-deal-allan-elias-sources",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704419_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Allan Elias",
+        "Erling Haaland"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49709318",
+      "headline": "Transfer rumors, news: Al Hilal eye move for Arsenal's Martinelli",
+      "description": "Al Hilal are reportedly looking to sign Arsenal's Gabriel Martinelli. Transfer Talk has the latest.",
+      "published": "2026-08-24T18:24:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49709318/transfer-rumors-news-man-city-ready-sign-enzo-fernandez-120m",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706363_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Gabriel Martinelli",
+        "Erling Haaland"
+      ],
+      "score": 142
     },
     {
       "id": "49713105",
@@ -86,31 +124,50 @@
         "Éderson",
         "Erling Haaland"
       ],
-      "score": 142
+      "score": 140
     },
     {
-      "id": "49662528",
-      "headline": "Premier League live updates: Chelsea kick off their season against Fulham",
-      "description": "Enjoy all the updates from Monday's Premier League match as Fulham hosts Chelsea in the last game of Matchday 1.",
-      "published": "2026-08-24T17:10:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49662528/premier-league-live-updates-chelsea-kick-their-season-fulham",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1704032_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49713656",
+      "headline": "Enzo Fernández named on Chelsea bench for Fulham clash",
+      "description": "Enzo Fernández has been named on the bench for Chelsea's Premier League opener against Fulham amid uncertainty around his future at the club.",
+      "published": "2026-08-24T18:35:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49713656/enzo-fernandez-chelsea-bench-fulham-clash",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1662564_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
         "Norway"
       ],
       "players": [
+        "Enzo Fernández",
         "Erling Haaland"
       ],
       "score": 139
     },
     {
+      "id": "49662528",
+      "headline": "Premier League live updates: João Pedro gives Chelsea early lead against Fulham",
+      "description": "Enjoy all the updates from Monday's Premier League match as Fulham hosts Chelsea in the last game of Matchday 1.",
+      "published": "2026-08-24T19:11:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49662528/premier-league-live-updates-chelsea-kick-their-season-fulham",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706394_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 131
+    },
+    {
       "id": "49712649",
       "headline": "Samuel Eto'o: Gianni Infantino was not wrong to propose FIFA private investment",
       "description": "Samuel Eto'o has pledged his support for Gianni Infantino, and said that he does not believe the FIFA president's proposed plan to sell off part of the World Cup to private investors was wrong.",
-      "published": "2026-08-24T16:35:36Z",
+      "published": "2026-08-24T18:33:04Z",
       "url": "https://www.espn.com/soccer/story/_/id/49712649/samuel-etoo-gianni-infantino-private-equity-proposal-fifa-president",
       "image": "https://a.espncdn.com/photo/2026/0824/r1706299_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -122,25 +179,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 129
-    },
-    {
-      "id": "49710365",
-      "headline": "NWSL Power Rankings: Gotham still No. 1 after draw; Pride snap losing streak with Spirit win",
-      "description": "NY Gotham FC had a disappointing 0-0 draw with Angel City, but are still top of the NWSL and also ESPN's Power Rankings.",
-      "published": "2026-08-24T15:03:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49710365/nwsl-power-rankings-gotham-held-top-orlando-pride-snap-losing-streak-spirit-win",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706145_1296x729_16-9.jpg",
-      "byline": "Arianna Cascone",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 127
+      "score": 130
     },
     {
       "id": "49712216",
@@ -159,7 +198,7 @@
         "Michael Carrick",
         "Erling Haaland"
       ],
-      "score": 126
+      "score": 125
     },
     {
       "id": "49712119",
@@ -176,45 +215,6 @@
       ],
       "players": [
         "Julián Álvarez",
-        "Erling Haaland"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49712111",
-      "headline": "Marcotti: Cherki has to start for Manchester City",
-      "description": "Marcotti: Cherki has to start for Manchester City",
-      "published": "2026-08-24T14:49:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49712111/cherki-start-manchester-city",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_COM_SOC_Analysis_Marcotti_Cherki_has_to_start_for_Manchester_City_20260824_GLOBAL/dm_260824_COM_SOC_Analysis_Marcotti_Cherki_has_to_start_for_Manchester_City_20260824_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway",
-        "France"
-      ],
-      "players": [
-        "Rayan Cherki",
-        "Erling Haaland"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49708776",
-      "headline": "MLS Power Rankings: Messi's Inter Miami slipping off the pace",
-      "description": "Are Inter Miami officially in a slump? Can any team lay a glove on Nashville SC? All that and more in this week's edition of ESPN's MLS Power Rankings.",
-      "published": "2026-08-24T13:56:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49708776/mls-power-rankings-messis-inter-miami-slipping-pace",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706118_1296x729_16-9.jpg",
-      "byline": "Joseph Lowery",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Lionel Messi",
         "Erling Haaland"
       ],
       "score": 125
@@ -235,7 +235,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 123
+      "score": 121
     },
     {
       "id": "49681406",
@@ -258,7 +258,7 @@
         "Thiago Almada",
         "Gavi"
       ],
-      "score": 63
+      "score": 61
     },
     {
       "id": "49681857",
@@ -274,7 +274,7 @@
         "England"
       ],
       "players": [],
-      "score": 56
+      "score": 54
     },
     {
       "id": "49658888",
