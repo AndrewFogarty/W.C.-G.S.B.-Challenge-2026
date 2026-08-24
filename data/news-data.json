@@ -1,11 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-24T08:24:56.262Z",
+  "updated": "2026-08-24T10:09:43.538Z",
   "counts": {
-    "celebration": 2,
-    "offfield": 8,
-    "news": 37,
-    "preview": 1
+    "celebration": 3,
+    "offfield": 9,
+    "news": 33,
+    "injury": 1,
+    "preview": 2
   },
   "items": [
     {
@@ -24,7 +25,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 194
+      "score": 191
     },
     {
       "id": "49466177",
@@ -52,7 +53,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 173
+      "score": 170
     },
     {
       "id": "47978642",
@@ -70,7 +71,138 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 149
+      "score": 146
+    },
+    {
+      "id": "49709318",
+      "headline": "Transfer rumors, news: Barcelona's Balde open to Man United move",
+      "description": "Barcelona left back Alejandro Balde is ready to join Manchester United. Transfer Talk has the latest.",
+      "published": "2026-08-24T07:25:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49709318/transfer-rumors-news-barcelona-alejandro-balde-open-manchester-united-move",
+      "image": "https://a.espncdn.com/photo/2026/0606/r1669122_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Alejandro Balde",
+        "Erling Haaland"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49709156",
+      "headline": "U.S. international Rose Lavelle suffers head injury in Gotham FC draw",
+      "description": "Gotham FC midfielder Rose Lavelle was substituted in the first half of her team's scoreless draw with Angel City FC on Sunday due to a head injury.",
+      "published": "2026-08-24T06:29:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49709156/us-international-rose-lavelle-suffers-head-injury-gotham-fc-draw",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706117_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Norway",
+        "USA"
+      ],
+      "players": [
+        "Rose Lavelle",
+        "Erling Haaland"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49709360",
+      "headline": "Orlando Pirates vs. Sekhukhune United - PSL kick-off time, how to watch, team news",
+      "description": "After their 1-0 MTN8 semi-final first leg win over Sekhukhune United, Orlando Pirates will look to get another victory over Cedric Kaze's side when they host them in the South African Premiership on Tuesday.",
+      "published": "2026-08-24T07:15:16Z",
+      "url": "https://www.espn.com/espn/story/_/id/49709360/orlando-pirates-vs-sekhukhune-united-psl-kick-how-watch-team-news",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706122_1231x693_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Deon Hotto",
+        "Erling Haaland"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49708875",
+      "headline": "Premier League Stats: Man United's first in history, Haaland 200, Saka's 62 overtakes Fabregas",
+      "description": "ESPN brings you the best stats from this weekend's Premier League football action.",
+      "published": "2026-08-24T07:30:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49708875/premier-league-stats-manchester-united-first-history-erling-haaland-200-bukayo-saka-62-overtakes-cesc-fabregas",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705282_1296x729_16-9.jpg",
+      "byline": "Sunaadh Sagar",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49709399",
+      "headline": "Brighton fan, 73, dies after falling ill after Aston Villa match",
+      "description": "A Brighton fan has died after falling ill as he was leaving the stadium following their 4-0 win over Aston Villa, the club have confirmed.",
+      "published": "2026-08-24T07:15:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49709399/brighton-fan-73-dies-falling-ill-aston-villa-match",
+      "image": "https://a.espncdn.com/photo/2018/1027/r453825_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49709254",
+      "headline": "Kyra Cooney-Cross makes Arsenal return after family tragedy",
+      "description": "Matildas midfielder Kyra Cooney-Cross has played her first match in more than five months after taking time away from football to be with her late mother.",
+      "published": "2026-08-24T07:02:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49709254/kyra-cooney-cross-makes-arsenal-return-family-tragedy",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706121_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Kyra Cooney-Cross",
+        "Erling Haaland"
+      ],
+      "score": 128
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-24T06:44:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 128
     },
     {
       "id": "49708338",
@@ -88,142 +220,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 126
-    },
-    {
-      "id": "49707665",
-      "headline": "Angel City FC vs. NJ/NY Gotham FC - Game Highlights",
-      "description": "Watch the Game Highlights from Angel City FC vs. NJ/NY Gotham FC, 08/24/2026",
-      "published": "2026-08-24T02:15:05Z",
-      "url": "https://www.espn.com/video/clip/_/id/49707665/angel-city-fc-vs-nj-ny-gotham-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0824/968f7b59-4278-498f-a58b-6f8abc77b6ee/968f7b59-4278-498f-a58b-6f8abc77b6ee.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Guro Reiten",
-        "Sam Kerr",
-        "Jordynn Dudley",
-        "Erling Haaland"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49706917",
-      "headline": "Florida's Kyra Taylor on keeping her momentum high vs. Florida State",
-      "description": "Taylor reflects on her offensive performance after scoring two goals for the Gators and describes how she was able to keep her energy high in order to help beat the Seminoles.",
-      "published": "2026-08-24T00:45:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706917/florida-kyra-taylor-keeping-momentum-high-vs-florida-state",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_SEC_WSOC_Interview_Florida_soccer_interview_260823/dm_260823_SEC_WSOC_Interview_Florida_soccer_interview_260823.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49706810",
-      "headline": "Tennessee's Shae O'Rourke reflects on her goal vs. Western Carolina",
-      "description": "O'Rourke describes the exciting feeling of scoring a goal for the Lady Vols as she discusses how good it feels to have contributed in the win over the Catamounts.",
-      "published": "2026-08-24T00:37:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706810/tennessee-shae-orourke-reflects-goal-vs-western-carolina",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_SEC_WSOC_Interview_Tennessee_soccer_interview_260823/dm_260823_SEC_WSOC_Interview_Tennessee_soccer_interview_260823.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49706674",
-      "headline": "Bay FC vs. Houston Dash - Game Highlights",
-      "description": "Watch the Game Highlights from Bay FC vs. Houston Dash, 08/24/2026",
-      "published": "2026-08-24T00:14:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706674/bay-fc-vs-houston-dash-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0824/7482d663-4359-4b89-8469-8c2121105dc5/7482d663-4359-4b89-8469-8c2121105dc5.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Karlie Lema",
-        "Cristiana Girelli",
-        "Linda Ullmark",
-        "Danielle Colaprico",
-        "Jordan Silkowitz",
-        "Erling Haaland"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49706417",
-      "headline": "Iraola: Isak expected a tough atmosphere at St James' Park",
-      "description": "Iraola: Isak expected a tough atmosphere at St James' Park",
-      "published": "2026-08-23T23:42:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706417/isak-expected-tough-atmosphere-st-james-park",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_PRESSER_Iraola_Isak_expected_a_tough_atmosphere_at_St_James_Park_2026_8_24/dm_260823_COM_SOC_PRESSER_Iraola_Isak_expected_a_tough_atmosphere_at_St_James_Park_2026_8_24.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49706381",
-      "headline": "Maresca explains Guehi midfield role after Bournemouth win",
-      "description": "Maresca explains Guehi midfield role after Bournemouth win",
-      "published": "2026-08-23T23:38:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706381/maresca-explains-guehi-midfield-role-bournemouth-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_PRESSER_Maresca_explains_Guehi_midfield_role_after_Bournemouth_win_2026_8_24/dm_260823_COM_SOC_PRESSER_Maresca_explains_Guehi_midfield_role_after_Bournemouth_win_2026_8_24.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49706356",
-      "headline": "Moreno 'disappointed' by Lamine Yamal's reaction to Barcelona substitution",
-      "description": "Moreno 'disappointed' by Lamine Yamal's reaction to Barcelona substitution",
-      "published": "2026-08-23T23:33:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/49706356/moreno-disappointed-lamine-yamal-reaction-barcelona-substitution",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_Analysis_Moreno_disappointed_by_Lamine_Yamals_reaction_to_Barcelona_substitution_20260/dm_260823_COM_SOC_Analysis_Moreno_disappointed_by_Lamine_Yamals_reaction_to_Barcelona_substitution_20260.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Erling Haaland"
-      ],
-      "score": 120
+      "score": 123
     },
     {
       "id": "49681406",
@@ -246,7 +243,7 @@
         "Thiago Almada",
         "Gavi"
       ],
-      "score": 89
+      "score": 87
     },
     {
       "id": "49681857",
@@ -262,7 +259,7 @@
         "England"
       ],
       "players": [],
-      "score": 82
+      "score": 80
     },
     {
       "id": "49669869",
@@ -281,7 +278,7 @@
         "Bryan Mbeumo",
         "Mohamed Salah"
       ],
-      "score": 48
+      "score": 46
     },
     {
       "id": "49658888",
