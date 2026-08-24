@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-24T00:00:36.066Z",
+  "updated": "2026-08-24T02:57:11.330Z",
   "counts": {
     "celebration": 2,
-    "offfield": 9,
-    "news": 36,
+    "offfield": 11,
+    "news": 33,
+    "injury": 1,
     "preview": 1
   },
   "items": [
@@ -24,7 +25,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 207
+      "score": 202
     },
     {
       "id": "49466177",
@@ -52,7 +53,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 185
+      "score": 181
     },
     {
       "id": "47978642",
@@ -70,7 +71,44 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 162
+      "score": 157
+    },
+    {
+      "id": "49704497",
+      "headline": "UEFA boss Aleksander Čeferin rules out FIFA presidency bid",
+      "description": "UEFA president Aleksander Čeferin has ruled himself out of the running to replace FIFA chief Gianni Infantino but warned the beleaguered FIFA boss that he must either quit or face a leadership challenge in March.",
+      "published": "2026-08-23T23:13:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49704497/aleksander-ceferin-uefa-boss-rules-fifa-presidency-bid",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705936_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Lucas Herrington"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49706104",
+      "headline": "Barcelona's Hansi Flick, Deco to hold further discussions on new striker move after league opener",
+      "description": "Barcelona coach Hansi Flick will hold further conversations with sporting director Deco over signing a striker after the Spanish champions started their defence of LaLiga with a 5-0 win over Elche on Sunday.",
+      "published": "2026-08-23T23:22:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49706104/barcelona-hansi-flick-deco-new-number-9-striker-league-elche-win",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705991_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Raphinha",
+        "Lucas Herrington"
+      ],
+      "score": 140
     },
     {
       "id": "49705900",
@@ -83,14 +121,124 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Norway",
+        "Australia",
         "Spain"
       ],
       "players": [
         "Esther González",
+        "Lucas Herrington"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49704532",
+      "headline": "Newcastle boss Jaissle: 'Careful' to avoid being fined after 'really soft' penalty vs. Liverpool",
+      "description": "Newcastle United head coach Matthias Jaissle said he had to be careful \"not to get fined\" after the \"really soft\" late penalty awarded to Liverpool in Sunday's 2-2 draw at St James' Park.",
+      "published": "2026-08-23T21:21:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49704532/newcastle-matthias-jaissle-liverpool-really-soft-fined-penalty-szoboszlai",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705916_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
         "Erling Haaland"
       ],
-      "score": 143
+      "score": 137
+    },
+    {
+      "id": "49706417",
+      "headline": "Iraola: Isak expected a tough atmosphere at St James' Park",
+      "description": "Iraola: Isak expected a tough atmosphere at St James' Park",
+      "published": "2026-08-23T23:42:56Z",
+      "url": "https://www.espn.com/video/clip/_/id/49706417/isak-expected-tough-atmosphere-st-james-park",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_PRESSER_Iraola_Isak_expected_a_tough_atmosphere_at_St_James_Park_2026_8_24/dm_260823_COM_SOC_PRESSER_Iraola_Isak_expected_a_tough_atmosphere_at_St_James_Park_2026_8_24.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Lucas Herrington"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49706381",
+      "headline": "Maresca explains Guehi midfield role after Bournemouth win",
+      "description": "Maresca explains Guehi midfield role after Bournemouth win",
+      "published": "2026-08-23T23:38:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/49706381/maresca-explains-guehi-midfield-role-bournemouth-win",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_PRESSER_Maresca_explains_Guehi_midfield_role_after_Bournemouth_win_2026_8_24/dm_260823_COM_SOC_PRESSER_Maresca_explains_Guehi_midfield_role_after_Bournemouth_win_2026_8_24.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Lucas Herrington"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49706356",
+      "headline": "Moreno 'disappointed' by Lamine Yamal's reaction to Barcelona substitution",
+      "description": "Moreno 'disappointed' by Lamine Yamal's reaction to Barcelona substitution",
+      "published": "2026-08-23T23:33:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/49706356/moreno-disappointed-lamine-yamal-reaction-barcelona-substitution",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_Analysis_Moreno_disappointed_by_Lamine_Yamals_reaction_to_Barcelona_substitution_20260/dm_260823_COM_SOC_Analysis_Moreno_disappointed_by_Lamine_Yamals_reaction_to_Barcelona_substitution_20260.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Lucas Herrington"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49674184",
+      "headline": "Raphinha, Fermín López both score two each as Barcelona open campaign with 5-0 win",
+      "description": "Raphinha and Fermín López scored two goals each as Barcelona cruised to a 5-0 victory at Elche.",
+      "published": "2026-08-23T23:28:23Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401882913",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1706005_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Lucas Herrington"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49706105",
+      "headline": "Gordon confident in fulfilling Barcelona's number nine role",
+      "description": "Gordon confident in fulfilling Barcelona's number nine role",
+      "published": "2026-08-23T22:59:38Z",
+      "url": "https://www.espn.com/video/clip/_/id/49706105/gordon-confident-fulfilling-barcelona-number-nine-role",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_Interview_Gordon_confident_in_fulfilling_Barcelonas_number_nine_role_20260823_GLOBAL/dm_260823_COM_SOC_Interview_Gordon_confident_in_fulfilling_Barcelonas_number_nine_role_20260823_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Anthony Gordon",
+        "Lucas Herrington"
+      ],
+      "score": 127
     },
     {
       "id": "49705870",
@@ -113,7 +261,7 @@
         "Haley McCutcheon",
         "Erling Haaland"
       ],
-      "score": 131
+      "score": 126
     },
     {
       "id": "49705660",
@@ -132,7 +280,7 @@
         "Raphinha",
         "Erling Haaland"
       ],
-      "score": 130
+      "score": 126
     },
     {
       "id": "49674189",
@@ -150,7 +298,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 130
+      "score": 125
     },
     {
       "id": "49705551",
@@ -171,7 +319,7 @@
         "Fermín López",
         "Erling Haaland"
       ],
-      "score": 130
+      "score": 125
     },
     {
       "id": "49704833",
@@ -189,7 +337,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 128
+      "score": 123
     },
     {
       "id": "49704588",
@@ -208,7 +356,7 @@
         "Alexander Isak",
         "Erling Haaland"
       ],
-      "score": 128
+      "score": 123
     },
     {
       "id": "49704586",
@@ -232,7 +380,7 @@
         "Julia Grosso",
         "Erling Haaland"
       ],
-      "score": 127
+      "score": 123
     },
     {
       "id": "49681406",
@@ -255,7 +403,7 @@
         "Thiago Almada",
         "Gavi"
       ],
-      "score": 102
+      "score": 98
     },
     {
       "id": "49681857",
@@ -271,7 +419,7 @@
         "England"
       ],
       "players": [],
-      "score": 95
+      "score": 91
     },
     {
       "id": "49669869",
@@ -290,7 +438,7 @@
         "Bryan Mbeumo",
         "Mohamed Salah"
       ],
-      "score": 61
+      "score": 56
     },
     {
       "id": "49658888",
@@ -718,118 +866,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
       "image": "https://a.espncdn.com/photo/2026/0818/r1703471_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49642660",
-      "headline": "FIFA executive Kevin Lamour departs amid backlash over Infantino's World Cup sale plan",
-      "description": "FIFA chief operating officer Kevin Lamour has departed the soccer governing body in the wake of Gianni Infantino's collapsed World Cup sell-off plan.",
-      "published": "2026-08-18T00:05:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49642660/fifa-executive-kevin-lamour-departs-amid-backlash-infantino-world-cup-sale-plan",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703156_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49610097",
-      "headline": "Andrew Giuliani backs FIFA's Gianni Infantino, calls critics 'jealous'",
-      "description": "",
-      "published": "2026-08-14T15:11:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49610097/andrew-giuliani-backs-fifa-gianni-infantino-calls-critics-jealous",
-      "image": "https://a.espncdn.com/photo/2025/0506/r1489074_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49600669",
-      "headline": "Time limits, VAR, mistaken identity: Which World Cup rules has Premier League adopted?",
-      "description": "Which World Cup law changes will continue for the Premier League, and which ones have been rejected?",
-      "published": "2026-08-14T09:05:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701282_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49598888",
-      "headline": "CAF boss: Only elections can decide Gianni Infantino's FIFA future",
-      "description": "African football boss Patrice Motsepe has said that the position of embattled president Gianni Infantino can only be decided by FIFA elections.",
-      "published": "2026-08-13T10:58:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49598888/gianni-infantino-fifa-caf-uefa-afc-football",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701197_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49588771",
-      "headline": "Former FIFA Council member Isha Johansen says Gianni Infantino should step down 'for the good of football'",
-      "description": "Former FIFA Council member Isha Johansen has become the first prominent African football figure to publicly break with the wave of support for FIFA president Gianni Infantino from across the continent.",
-      "published": "2026-08-12T19:41:14Z",
-      "url": "https://www.espn.com/espn/story/_/id/49588771/former-fifa-council-member-isha-johansen-says-gianni-infantino-step-good-football",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49540676",
-      "headline": "Was Figo right to criticize FIFA president Infantino?",
-      "description": "Was Figo right to criticize FIFA president Infantino?",
-      "published": "2026-08-11T05:24:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49579404",
-      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
-      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
-      "published": "2026-08-11T05:22:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49573256",
-      "headline": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan",
-      "description": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup.",
-      "published": "2026-08-10T15:49:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
