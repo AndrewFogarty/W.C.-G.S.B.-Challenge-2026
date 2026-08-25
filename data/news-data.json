@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-25T04:49:48.929Z",
+  "updated": "2026-08-25T08:23:30.980Z",
   "counts": {
-    "offfield": 8,
-    "injury": 1,
+    "offfield": 9,
+    "injury": 2,
     "celebration": 2,
-    "news": 36,
+    "news": 34,
     "preview": 1
   },
   "items": [
@@ -35,7 +35,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 219
+      "score": 213
     },
     {
       "id": "49704497",
@@ -49,7 +49,63 @@
       "kindLabel": "Injury",
       "teams": [],
       "players": [],
-      "score": 182
+      "score": 177
+    },
+    {
+      "id": "49704318",
+      "headline": "UWCL shock watch: Could Chelsea, PSG or Wolfsburg fail to make the league phase?",
+      "description": "Chelsea, PSG and Wolfsburg are one two-legged defeat from being dumped out of the Women's Champions League before it's even begun. What could go wrong?",
+      "published": "2026-08-25T07:15:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49704318/uwcl-shock-watch-chelsea-psg-wolfsburg-fail-make-league-phase",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705891_1296x729_16-9.jpg",
+      "byline": "Yash Thakur",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49719175",
+      "headline": "Has Brentford's Mamadou Sangare won signing of the season already?",
+      "description": "Twelve minutes were enough for Mamadou Sangare to prove that the pre-match hype was real.",
+      "published": "2026-08-25T07:56:48Z",
+      "url": "https://www.espn.com/espn/story/_/id/49719175/has-brentford-mamadou-sangare-won-signing-season-already",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706597_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mamadou Sangare",
+        "Patrick Beach"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49719456",
+      "headline": "Transfer rumors, news: Could Jackson to Atlético pave way for Álvarez exit?",
+      "description": "Atlético Madrid want Chelsea striker Nicolas Jackson, plus Bournemouth's Junior Kroupi is still attracting interest. Transfer Talk has the latest.",
+      "published": "2026-08-25T07:47:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49719456/transfer-rumors-news-nicolas-jackson-atletico-madrid-pave-way-julian-alvarez-arsenal-barcelona",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706604_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Julián Álvarez",
+        "Patrick Beach"
+      ],
+      "score": 144
     },
     {
       "id": "49700150",
@@ -67,27 +123,63 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 143
+      "score": 138
     },
     {
-      "id": "49716466",
-      "headline": "Jamie Carragher: Liverpool 2025 summer could be 'worst transfer window' in Premier League history",
-      "description": "Jamie Carragher has said that Liverpool's 2025 summer transfer window could end up being \"arguably the worst\" in Premier League history.",
-      "published": "2026-08-24T23:37:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49716466/jamie-carragher-liverpool-2025-worst-transfer-window-premier-league-history",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706515_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49719549",
+      "headline": "Alonso: Chelsea are better when Palmer plays with freedom",
+      "description": "Alonso: Chelsea are better when Palmer plays with freedom",
+      "published": "2026-08-25T07:35:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/49719549/chelsea-better-palmer-plays-freedom",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0825/dm_260825_COM_SOC_Presser_Alonso_Chelsea_are_better_when_Palmer_plays_with_freedom_20260825_GLOBAL/dm_260825_COM_SOC_Presser_Alonso_Chelsea_are_better_when_Palmer_plays_with_freedom_20260825_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "England"
+      ],
+      "players": [
+        "Cole Palmer",
+        "Patrick Beach"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49716245",
+      "headline": "Premier League overreactions: Takeaways now that all 20 teams played their first games",
+      "description": "The first week of the Premier League is over: What does it tell us about how Arsenal, Liverpool, Man United and the rest will do this season?",
+      "published": "2026-08-25T07:20:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49716245/premier-league-overreactions-takeaways-now-all-20-teams-played-their-first-games",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706513_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia"
       ],
       "players": [
-        "Florian Wirtz",
-        "Alexander Isak",
         "Patrick Beach"
       ],
-      "score": 137
+      "score": 131
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-25T06:29:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 130
     },
     {
       "id": "49717796",
@@ -105,7 +197,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 130
+      "score": 124
     },
     {
       "id": "49710805",
@@ -123,80 +215,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 129
-    },
-    {
-      "id": "49716318",
-      "headline": "Chelsea escape Fulham with all three points",
-      "description": "Chelsea start the Xabi Alonso era with a thrilling 3-2 win over Fulham at Craven Cottage.",
-      "published": "2026-08-24T23:02:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49716318/chelsea-escape-fulham-all-three-points",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_Soccer_HIGHLIGHT_Chelsea_escape_Fulham_with_all_three_points_20260825_AUS/dm_260824_Soccer_HIGHLIGHT_Chelsea_escape_Fulham_with_all_three_points_20260825_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49716116",
-      "headline": "Burley: Flick is 'looking down the line' with Lamine Yamal",
-      "description": "Burley: Flick is 'looking down the line' with Lamine Yamal",
-      "published": "2026-08-24T23:00:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49716116/flick-looking-line-lamine-yamal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_Burley_Flick_is_looking_down_the_line_with_Lamine_Yamal/dm_260824_Burley_Flick_is_looking_down_the_line_with_Lamine_Yamal.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Patrick Beach"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49716101",
-      "headline": "Burley: Arsenal are the Premier League's only finished article",
-      "description": "Burley: Arsenal are the Premier League's only finished article",
-      "published": "2026-08-24T23:00:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49716101/arsenal-premier-league-only-finished-article",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_Burley_Arsenal_are_the_Premier_Leagues_only_finished_article/dm_260824_Burley_Arsenal_are_the_Premier_Leagues_only_finished_article.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49716094",
-      "headline": "Xabi Alonso wins Chelsea debut as revamped front three dazzles",
-      "description": "",
-      "published": "2026-08-24T22:36:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49716094/xabi-alonso-wins-chelsea-debut-revamped-front-three-dazzles",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706489_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 124
+      "score": 123
     },
     {
       "id": "47978642",
@@ -214,7 +233,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 108
+      "score": 103
     },
     {
       "id": "49681406",
@@ -795,20 +814,6 @@
       "published": "2026-08-10T15:49:41Z",
       "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
       "image": "https://a.espncdn.com/photo/2025/1012/r1558924_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49563647",
-      "headline": "FIFA hits out at campaign to 'undermine' president Infantino",
-      "description": "FIFA has hit out at what it called \"a concerted and ongoing effort by some to undermine\" world soccer's governing body and its president Gianni Infantino.",
-      "published": "2026-08-08T23:03:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49563647/fifa-gianni-infantino-president-uefa",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
