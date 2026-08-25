@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-25T18:54:37.218Z",
+  "updated": "2026-08-25T19:32:20.218Z",
   "counts": {
-    "news": 32,
-    "offfield": 12,
+    "news": 28,
+    "offfield": 14,
+    "preview": 3,
     "injury": 1,
-    "celebration": 2,
-    "preview": 1
+    "celebration": 2
   },
   "items": [
     {
@@ -25,7 +25,7 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 210
+      "score": 209
     },
     {
       "id": "49720082",
@@ -41,7 +41,7 @@
         "USA"
       ],
       "players": [],
-      "score": 186
+      "score": 185
     },
     {
       "id": "49719477",
@@ -57,7 +57,7 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 176
+      "score": 175
     },
     {
       "id": "49466177",
@@ -85,26 +85,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 168
-    },
-    {
-      "id": "49722867",
-      "headline": "Thomas Müller among World Cup winners to buy Portuguese club Estrela in $47M deal",
-      "description": "Three World Cup winners are among an international consortium that has bought a majority stake in Portuguese top-flight club Estrela da Amadora.",
-      "published": "2026-08-25T17:09:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49722867/thomas-muller-world-cup-winners-buy-portuguese-club-estrela-47m-deal",
-      "image": "https://a.espncdn.com/photo/2025/0915/r1546013_2_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Thomas Müller",
-        "Lucy Bronze"
-      ],
-      "score": 142
+      "score": 167
     },
     {
       "id": "49723011",
@@ -123,7 +104,7 @@
         "Nico González",
         "Lucy Bronze"
       ],
-      "score": 141
+      "score": 140
     },
     {
       "id": "49657167",
@@ -142,7 +123,7 @@
         "Carlos Baleba",
         "Lucy Bronze"
       ],
-      "score": 141
+      "score": 140
     },
     {
       "id": "48990955",
@@ -160,7 +141,7 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 141
+      "score": 140
     },
     {
       "id": "49709524",
@@ -179,24 +160,99 @@
         "Carlos Baleba",
         "Lucy Bronze"
       ],
-      "score": 141
+      "score": 140
     },
     {
-      "id": "49723301",
-      "headline": "Xavi on being 3rd choice for Netherlands job: 'Don't care'",
-      "description": "Xavi Hernandez said he was unfazed at being third choice for the job of Netherlands national team head coach, as he was unveiled in his new role on Tuesday.",
-      "published": "2026-08-25T17:23:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49723301/xavi-hernandez-netherlands-coach-unveiling-pep-guardiola-arne-slot",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706769_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49722028",
+      "headline": "Wayne Rooney backs 'top player' Carlos Baleba to shine at Manchester United",
+      "description": "Wayne Rooney believes Carlos Baleba will improve Manchester United \"massively\" and rejects the claim the Cameroon midfielder went missing after his failed move to Old Trafford last season.",
+      "published": "2026-08-25T14:12:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49722028/wayne-rooney-backs-top-player-carlos-baleba-shine-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706683_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "England",
-        "Netherlands"
+        "England"
       ],
       "players": [
+        "Carlos Baleba",
         "Lucy Bronze"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49719456",
+      "headline": "Transfer rumors, news: Could Jackson to Atlético pave way for Álvarez exit?",
+      "description": "Atlético Madrid want Chelsea striker Nicolas Jackson, plus Bournemouth's Junior Kroupi is still attracting interest. Transfer Talk has the latest.",
+      "published": "2026-08-25T13:09:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49719456/transfer-rumors-news-nicolas-jackson-atletico-madrid-pave-way-julian-alvarez-arsenal-barcelona",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706604_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Julián Álvarez",
+        "Patrick Beach"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49721166",
+      "headline": "Graham Arnold extends Iraq coaching deal through 2027 Asian Cup",
+      "description": "Graham Arnold has extended his contract as Iraq head coach through the 2027 Asian Cup, months after guiding the national team at its first World Cup in 40 years.",
+      "published": "2026-08-25T12:35:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49721166/graham-arnold-extends-iraq-coaching-deal-2027-asian-cup",
+      "image": "https://a.espncdn.com/photo/2025/1118/r1577382_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "Iraq"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49721278",
+      "headline": "Retaining ASEAN Championship the only thing on Nguyễn Đình Bắc's mind",
+      "description": "Nguyễn Đình Bắc is in the running to win the golden boot at the ASEAN Championship -- but it is the furthest thing on his mind ahead of the decider.",
+      "published": "2026-08-25T12:51:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49721278/retaining-asean-championship-only-thing-nguyen-dinh-bac-mind",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706644_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Nguyen Dình Bac",
+        "Patrick Beach"
+      ],
+      "score": 132
+    },
+    {
+      "id": "48897670",
+      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
+      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
+      "published": "2026-08-25T12:10:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
       ],
       "score": 131
     },
@@ -212,7 +268,7 @@
       "kindLabel": "Injury",
       "teams": [],
       "players": [],
-      "score": 131
+      "score": 130
     },
     {
       "id": "49722859",
@@ -232,7 +288,63 @@
         "Virgil van Dijk",
         "Lucy Bronze"
       ],
-      "score": 128
+      "score": 127
+    },
+    {
+      "id": "49722514",
+      "headline": "Arsenal's Bruno Guimarães: Chance to 'make a dynasty' under Mikel Arteta",
+      "description": "Bruno Guimaraes is relishing being part of Mikel Arteta's quest to \"make a dynasty\" at Arsenal.",
+      "published": "2026-08-25T15:21:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49722514/arsenal-bruno-guimaraes-mikel-arteta-make-dynasty",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706709_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Bruno Guimarães",
+        "Lucy Bronze"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49720546",
+      "headline": "Kansas City Current's Temwa Chawinga targets NWSL title; MVP title not enough",
+      "description": "Kansas City Current forward Temwa Chawinga says individual awards are no longer enough, with the two-time NWSL MVP setting her sights on the one prize still missing from her NWSL collection, a Championship win.",
+      "published": "2026-08-25T13:13:56Z",
+      "url": "https://www.espn.com/espn/story/_/id/49720546/kansas-city-current-temwa-chawinga-targets-nwsl-title-mvp-title-not-enough",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706625_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Temwa Chawinga",
+        "Lucy Bronze"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49721083",
+      "headline": "Italy 'in good hands' with Roberto Mancini back as coach - Gattuso",
+      "description": "Gennaro Gattuso said failure to lead Italy to 2026 World Cup qualification as coach has left a lifelong \"wound.\"",
+      "published": "2026-08-25T11:38:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49721083/italy-good-hands-roberto-mancini-back-coach-gennaro-gattuso",
+      "image": "https://a.espncdn.com/photo/2025/1016/r1560952_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 121
     },
     {
       "id": "49700150",
@@ -250,7 +362,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 92
+      "score": 91
     },
     {
       "id": "47978642",
@@ -268,7 +380,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 57
+      "score": 56
     },
     {
       "id": "49681406",
@@ -734,90 +846,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49642660/fifa-executive-kevin-lamour-departs-amid-backlash-infantino-world-cup-sale-plan",
       "image": "https://a.espncdn.com/photo/2026/0817/r1703156_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49610097",
-      "headline": "Andrew Giuliani backs FIFA's Gianni Infantino, calls critics 'jealous'",
-      "description": "",
-      "published": "2026-08-14T15:11:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49610097/andrew-giuliani-backs-fifa-gianni-infantino-calls-critics-jealous",
-      "image": "https://a.espncdn.com/photo/2025/0506/r1489074_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49600669",
-      "headline": "Time limits, VAR, mistaken identity: Which World Cup rules has Premier League adopted?",
-      "description": "Which World Cup law changes will continue for the Premier League, and which ones have been rejected?",
-      "published": "2026-08-14T09:05:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701282_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49598888",
-      "headline": "CAF boss: Only elections can decide Gianni Infantino's FIFA future",
-      "description": "African football boss Patrice Motsepe has said that the position of embattled president Gianni Infantino can only be decided by FIFA elections.",
-      "published": "2026-08-13T10:58:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49598888/gianni-infantino-fifa-caf-uefa-afc-football",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701197_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49588771",
-      "headline": "Former FIFA Council member Isha Johansen says Gianni Infantino should step down 'for the good of football'",
-      "description": "Former FIFA Council member Isha Johansen has become the first prominent African football figure to publicly break with the wave of support for FIFA president Gianni Infantino from across the continent.",
-      "published": "2026-08-12T19:41:14Z",
-      "url": "https://www.espn.com/espn/story/_/id/49588771/former-fifa-council-member-isha-johansen-says-gianni-infantino-step-good-football",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49540676",
-      "headline": "Was Figo right to criticize FIFA president Infantino?",
-      "description": "Was Figo right to criticize FIFA president Infantino?",
-      "published": "2026-08-11T05:24:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49579404",
-      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
-      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
-      "published": "2026-08-11T05:22:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
