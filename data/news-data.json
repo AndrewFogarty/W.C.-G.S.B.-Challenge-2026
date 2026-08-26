@@ -1,14 +1,30 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-26T18:15:44.813Z",
+  "updated": "2026-08-26T23:37:43.266Z",
   "counts": {
-    "news": 33,
-    "offfield": 11,
+    "news": 36,
+    "offfield": 8,
     "injury": 1,
     "celebration": 2,
     "preview": 1
   },
   "items": [
+    {
+      "id": "49735503",
+      "headline": "Barcelona cancel World Cup tribute for Spain players",
+      "description": "Barcelona have canceled the planned tribute honoring its World Cup-winning players, which was set to take place during Thursday's opening home match.",
+      "published": "2026-08-26T22:12:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49735503/barcelona-cancel-world-cup-tribute-spain-players",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707338_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 208
+    },
     {
       "id": "49729916",
       "headline": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
@@ -23,7 +39,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 196
+      "score": 178
     },
     {
       "id": "49723045",
@@ -41,7 +57,27 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 165
+      "score": 147
+    },
+    {
+      "id": "49731730",
+      "headline": "Barcelona hopeful of signing Julián Álvarez from  Atlético Madrid - Joan Laporta",
+      "description": "Barcelona president Joan Laporta says the club's offer for Atlético Madrid's Julián Álvarez stands and that the Spanish champions remain hopeful of doing a deal before the transfer window closes next week.",
+      "published": "2026-08-26T16:09:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49731730/barcelona-hopeful-signing-julian-alvarez-atletico-madrid-joan-laporta",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707119_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [
+        "Julián Álvarez",
+        "Lucy Bronze"
+      ],
+      "score": 134
     },
     {
       "id": "49720082",
@@ -57,104 +93,117 @@
         "USA"
       ],
       "players": [],
-      "score": 141
+      "score": 123
     },
     {
-      "id": "49724390",
-      "headline": "Who are the USMNT's brightest U21 prospects bound for Europe?",
-      "description": "Zavier Gozo has already left MLS for the Premier League at age 19, so who are the next under-21 American prospects destined for a move to Europe?",
-      "published": "2026-08-26T13:53:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49724390/who-united-states-brightest-21-prospects-bound-europe",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706819_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England",
-        "USA"
-      ],
-      "players": [
-        "Cavan Sullivan",
-        "Julian Hall",
-        "Peyton Miller",
-        "Adri Mehmeti",
-        "Neil Pierre",
-        "Lucy Bronze"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49731730",
-      "headline": "Barcelona hopeful of signing Julián Álvarez from  Atlético Madrid - Joan Laporta",
-      "description": "Barcelona president Joan Laporta says the club's offer for Atlético Madrid's Julián Álvarez stands and that the Spanish champions remain hopeful of doing a deal before the transfer window closes next week.",
-      "published": "2026-08-26T13:40:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49731730/barcelona-hopeful-signing-julian-alvarez-atletico-madrid-joan-laporta",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707119_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Julián Álvarez",
-        "Lucy Bronze"
-      ],
-      "score": 138
-    },
-    {
-      "id": "49731490",
-      "headline": "Chelsea's Valentín Barco: Shift to midfield 'changed my life'",
-      "description": "Valentín Barco believes his move from playing as an attacking left-back to central midfielder has transformed his career and earned him a move to Chelsea.",
-      "published": "2026-08-26T13:06:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49731490/chelsea-valentin-barco-shift-midfield-changed-my-life",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707107_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Valentín Barco",
-        "Lucy Bronze"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49731175",
-      "headline": "Lille announce Thato Sibiya loan signing from Mamelodi Sundowns with option to buy",
-      "description": "",
-      "published": "2026-08-26T12:29:13Z",
-      "url": "https://www.espn.com/espn/story/_/id/49731175/lille-announce-thato-sibiya-loan-signing-mamelodi-sundowns-option-buy",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707089_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Thato Sibiya",
-        "Lucy Bronze"
-      ],
-      "score": 136
-    },
-    {
-      "id": "49719477",
-      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
-      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
-      "published": "2026-08-25T10:22:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
+      "id": "49731813",
+      "headline": "Nico O'Reilly targets 'bigger and better things' after PFA award",
+      "description": "Nico O'Reilly is targeting \"bigger and better things\" after capping his outstanding breakthrough season with the PFA Young Player of the Year prize.",
+      "published": "2026-08-26T16:08:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49731813/nico-oreilly-targets-bigger-better-things-pfa-award",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707127_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [],
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Nico O'Reilly",
+        "Lucy Bronze"
+      ],
+      "score": 122
+    },
+    {
+      "id": "49732312",
+      "headline": "UEFA set to end FIFA boycott over Infantino's failed World Cup investor plan",
+      "description": "UEFA is set to formally withdraw its threat to boycott FIFA competitions after receiving assurances Gianni Infantino's failed World Cup sell-off plan will not be revived.",
+      "published": "2026-08-26T15:49:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49732312/uefa-set-end-fifa-boycott-infantino-failed-world-cup-investor-plan",
+      "image": "https://a.espncdn.com/photo/2021/1005/r918604_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
       "players": [
         "Lucy Bronze"
       ],
-      "score": 131
+      "score": 121
+    },
+    {
+      "id": "49732393",
+      "headline": "Vietnam crowned kings of ASEAN Championship again as Thailand squander comeback bid",
+      "description": "Vietnam have won back-to-back ASEAN Championship titles for the first time after seeing off Thailand in the 2026 final on Wednesday.",
+      "published": "2026-08-26T15:36:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49732393/vietnam-crowned-kings-asean-championship-again-thailand-squander-comeback-bid",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707153_1280x720_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 121
+    },
+    {
+      "id": "49732470",
+      "headline": "Vietnam hold off Thailand to retain ASEAN Championship",
+      "description": "A thrilling 2-2 draw was enough to see Vietnam win the 2026 ASEAN Championship with a 4-2 aggregate victory over Thailand in the final.",
+      "published": "2026-08-26T15:29:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49732470/vietnam-hold-thailand-retain-asean-championship",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_VIEvTHA-ASEAN26/dm_260826_VIEvTHA-ASEAN26.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 121
+    },
+    {
+      "id": "49732129",
+      "headline": "QPR 'praying' for Akos Buzsaky after ex-player reported missing",
+      "description": "QPR are \"praying\" for former midfielder Akos Buzsaky after he was reported missing in Hungary.",
+      "published": "2026-08-26T14:42:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49732129/qpr-praying-akos-buzsaky-ex-player-reported-missing",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707148_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 120
+    },
+    {
+      "id": "49732041",
+      "headline": "Man United's Bruno Fernandes eager to 'make it right' against Ipswich",
+      "description": "Bruno Fernandes is determined to \"make it right\" against Ipswich and belatedly begin Manchester United's push to better last season's third-place finish having been given a bloody nose at Hull.",
+      "published": "2026-08-26T14:37:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49732041/man-united-bruno-fernandes-eager-make-right-ipswich",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705300_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Bruno Fernandes",
+        "Lucy Bronze"
+      ],
+      "score": 119
     },
     {
       "id": "49712829",
@@ -174,63 +223,23 @@
         "Estêvão",
         "Lucy Bronze"
       ],
-      "score": 127
+      "score": 119
     },
     {
-      "id": "49731813",
-      "headline": "Nico O'Reilly targets 'bigger and better things' after PFA award",
-      "description": "Nico O'Reilly is targeting \"bigger and better things\" after capping his outstanding breakthrough season with the PFA Young Player of the Year prize.",
-      "published": "2026-08-26T14:02:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49731813/nico-oreilly-targets-bigger-better-things-pfa-award",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707127_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49719477",
+      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
+      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
+      "published": "2026-08-25T10:22:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
+      "teams": [],
       "players": [
         "Lucy Bronze"
       ],
-      "score": 127
-    },
-    {
-      "id": "49731563",
-      "headline": "David Raya: Arsenal 'confident we can beat anybody at any time'",
-      "description": "David Raya says Arsenal want to become serial winners after ending their 22-year wait for a Premier League title.",
-      "published": "2026-08-26T13:11:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49731563/david-raya-arsenal-confident-beat-anybody",
-      "image": "https://a.espncdn.com/photo/2025/1229/r1594611_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "David Raya",
-        "Lucy Bronze"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49731305",
-      "headline": "Hansi Flick: 'I don't want to speak about Julian Alvarez'",
-      "description": "Hansi Flick: 'I don't want to speak about Julian Alvarez'",
-      "published": "2026-08-26T12:37:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49731305/want-speak-julian-alvarez",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_Hansi_Flick_I_dont_want_to_speak_about_Julian_Alvarez/dm_260826_Hansi_Flick_I_dont_want_to_speak_about_Julian_Alvarez.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Julián Álvarez",
-        "Lucy Bronze"
-      ],
-      "score": 125
+      "score": 113
     },
     {
       "id": "49466177",
@@ -258,7 +267,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 123
+      "score": 105
     },
     {
       "id": "49704497",
@@ -272,7 +281,7 @@
       "kindLabel": "Injury",
       "teams": [],
       "players": [],
-      "score": 86
+      "score": 68
     },
     {
       "id": "49700150",
@@ -290,7 +299,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 47
+      "score": 30
     },
     {
       "id": "49681406",
@@ -350,24 +359,6 @@
         "Ferran Torres"
       ],
       "score": 25
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-08-23T03:03:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 23
     },
     {
       "id": "49551450",
@@ -451,6 +442,24 @@
       ],
       "players": [],
       "score": 17
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-08-23T03:03:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 13
     },
     {
       "id": "49659966",
@@ -693,22 +702,6 @@
       "url": "https://www.espn.com/espn/story/_/id/49543506/caf-silence-deafening-africa-swing-vote-fifa-infantino-saga",
       "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg",
       "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49540626",
-      "headline": "Infantino sorry for 'errors' but gets FIFA board's 'full support'",
-      "description": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a summit held in Morocco \"reaffirmed their full support\" for his presidency.",
-      "published": "2026-08-05T23:55:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49540626/gianni-infantino-fifa-president-meeting-morocco-support",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1698132_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
