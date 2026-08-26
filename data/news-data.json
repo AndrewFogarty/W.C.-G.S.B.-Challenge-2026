@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-26T10:29:07.523Z",
+  "updated": "2026-08-26T11:03:54.253Z",
   "counts": {
-    "news": 35,
-    "injury": 2,
-    "offfield": 8,
-    "celebration": 2,
-    "preview": 1
+    "news": 32,
+    "offfield": 11,
+    "preview": 2,
+    "injury": 1,
+    "celebration": 2
   },
   "items": [
     {
@@ -41,7 +41,7 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 176
+      "score": 175
     },
     {
       "id": "49720082",
@@ -57,7 +57,47 @@
         "USA"
       ],
       "players": [],
-      "score": 152
+      "score": 151
+    },
+    {
+      "id": "49730071",
+      "headline": "Barcelona set to sign Fenerbahçe goalkeeper Dominik Livaković - source",
+      "description": "Barcelona are set to seal the signing of goalkeeper Dominik Livaković from Fenerbahçe, a source confirmed to ESPN.",
+      "published": "2026-08-26T09:27:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49730071/barcelona-set-sign-fenerbahce-goalkeeper-dominik-livaković-source",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707050_1296x729_16-9.jpg",
+      "byline": "Sam Marsden and Moises Llorens",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Dominik Livakovic",
+        "Harry Souttar"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49726645",
+      "headline": "10 players who could still move before the transfer window closes",
+      "description": "Here are 10 players who either really need to find a solution, or promise to be the subject of intense speculation, ahead of the transfer window slamming shut on Sept. 1.",
+      "published": "2026-08-26T09:12:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49726645/10-players-looking-moves-transfer-window-closes",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1706988_1295x729_16-9.png",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Enzo Fernández",
+        "Bradley Barcola",
+        "Julián Álvarez",
+        "Harry Souttar"
+      ],
+      "score": 142
     },
     {
       "id": "49719477",
@@ -73,25 +113,64 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 143
+      "score": 142
     },
     {
-      "id": "49727275",
-      "headline": "Hull win on penalties in Herrington's first start",
-      "description": "Hull knocked Stoke City out of the League Cup on Tuesday in Lucas Herrington's first start for the club, just days after the Aussie's dream debut against Man United.",
-      "published": "2026-08-26T01:41:45Z",
-      "url": "https://www.espn.com/video/clip/_/id/49727275/hull-win-penalties-herrington-first-start",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0825/dm_260825_Soccer_Highlight_Hull_win_on_penalties_in_Herringtons_first_start_20260826_AUS_ONLY/dm_260825_Soccer_Highlight_Hull_win_on_penalties_in_Herringtons_first_start_20260826_AUS_ONLY.jpg",
-      "byline": null,
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49729868",
+      "headline": "Raheem Sterling charged with dangerous driving after car crash",
+      "description": "Former England forward Raheem Sterling has been charged with dangerous driving and possession of nitrous oxide after a crash involving a Lamborghini on the motorway, police have said.",
+      "published": "2026-08-26T08:34:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49729868/raheem-sterling-charges-dangerous-driving-car-crash",
+      "image": "https://a.espncdn.com/photo/2026/0129/r1607247_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "England"
       ],
       "players": [
+        "Raheem Sterling",
         "Lucy Bronze"
       ],
-      "score": 134
+      "score": 141
+    },
+    {
+      "id": "49729578",
+      "headline": "Transfer rumors, news: Barcelona, Man United to hold Balde talks",
+      "description": "Manchester United are set to open negotiations with Barcelona over the signing of defender Alejandro Balde. Transfer Talk has the latest.",
+      "published": "2026-08-26T08:11:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49729578/transfer-rumors-news-barcelona-manchester-united-alejandro-balde-talks",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707044_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Alejandro Balde",
+        "Lucy Bronze"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49729710",
+      "headline": "SAFA confirm money paid by govt. for VAR in PSL, say money is 'secure'",
+      "description": "After Sport, Arts & Culture Minister Gayton McKenzie's ultimatum that SAFA put in place a viable plan for the rollout of VAR technology or face a recall of funds, the association acknowledged delays, but said the money remains secure.",
+      "published": "2026-08-26T07:56:47Z",
+      "url": "https://www.espn.com/espn/story/_/id/49729710/safa-confirm-money-paid-govt-var-psl-say-money-secure",
+      "image": "https://a.espncdn.com/photo/2024/1028/r1406953_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England",
+        "South Africa"
+      ],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 137
     },
     {
       "id": "49466177",
@@ -119,27 +198,79 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 134
+      "score": 133
     },
     {
-      "id": "49725897",
-      "headline": "Liverpool reignite Bradley Barcola talks with PSG - sources",
-      "description": "Paris Saint-Germain and Liverpool restarted discussions over the transfer of Bradley Barcola on Tuesday, sources have told ESPN.",
-      "published": "2026-08-25T22:49:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49725897/liverpool-psg-bradley-barcola-transfer-talks",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706911_1296x729_16-9.jpg",
-      "byline": "Julien Laurens",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49730074",
+      "headline": "Sabah FK, founded just nine years ago, qualify for Champions League",
+      "description": "Sabah FK qualified for the Champions League on Tuesday night, only nine years after being founded.",
+      "published": "2026-08-26T09:27:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49730074/sabah-fk-founded-just-nine-years-ag-qualify-champions-league",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707056_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "England",
-        "France"
+        "Australia"
       ],
       "players": [
-        "Bradley Barcola",
+        "Harry Souttar"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49729581",
+      "headline": "Oliver Glasner: 'I'm no messiah,' Nottingham Forest 'ignored reality'",
+      "description": "Nottingham Forest boss Oliver Glasner says the club have \"ignored reality\" after losing to Leeds for the second time in three days.",
+      "published": "2026-08-26T07:39:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49729581/oliver-glasner-no-messiah-nottingham-forest-ignored-reality",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707039_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
         "Lucy Bronze"
       ],
       "score": 128
+    },
+    {
+      "id": "49729538",
+      "headline": "Martin O'Neill distraught by Celtic collapse - Callum McGregor: 'No excuse'",
+      "description": "Celtic captain Callum McGregor accepted there were no excuses for the players after their incredible Champions League playoff collapse.",
+      "published": "2026-08-26T07:14:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49729538/celtic-four-goal-collapse-martin-oneill-worst-night-callum-mcgregor-no-excuse",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707040_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 127
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-26T06:35:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704726_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 126
     },
     {
       "id": "49728677",
@@ -162,105 +293,7 @@
         "Daniel Arcila",
         "Lucy Bronze"
       ],
-      "score": 125
-    },
-    {
-      "id": "49727817",
-      "headline": "Monterrey vs. Chicago Fire FC - Game Highlights",
-      "description": "Watch the Game Highlights from Monterrey vs. Chicago Fire FC, 08/25/2026",
-      "published": "2026-08-26T04:38:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/49727817/monterrey-vs-chicago-fire-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0826/b5938796-47fc-4f92-8bf4-0f0f94f3bf2d/b5938796-47fc-4f92-8bf4-0f0f94f3bf2d.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Hugo Cuypers",
-        "Lucas Ocampos",
-        "Anton Saletros",
-        "Orbelín Pineda",
-        "Víctor Guzmán",
-        "Philip Zinckernagel",
-        "Lucy Bronze"
-      ],
       "score": 124
-    },
-    {
-      "id": "49726306",
-      "headline": "Will Carlos Baleba improve Man United?",
-      "description": "Will Carlos Baleba improve Man United?",
-      "published": "2026-08-25T23:27:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/49726306/will-carlos-baleba-improve-man-united",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0825/dm_260825_COM_SOC_Analysis_Will_Carlos_Baleba_improve_Man_United3F_GLOBAL_2026-08-25/dm_260825_COM_SOC_Analysis_Will_Carlos_Baleba_improve_Man_United3F_GLOBAL_2026-08-25.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 116
-    },
-    {
-      "id": "49725855",
-      "headline": "Ogden: I'd be surprised if Gakpo leaves Liverpool",
-      "description": "Ogden: I'd be surprised if Gakpo leaves Liverpool",
-      "published": "2026-08-25T22:22:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/49725855/surprised-gakpo-leaves-liverpool",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0825/dm_260825_COM_SOC_Analysis_Ogden3A_Id_be_surprised_if_Gakpo_leaves_Liverpool_GLOBAL_2026-08-25/dm_260825_COM_SOC_Analysis_Ogden3A_Id_be_surprised_if_Gakpo_leaves_Liverpool_GLOBAL_2026-08-25.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49725848",
-      "headline": "Nicol: Rogers deserved to be in the PFA team of the year over Cherki",
-      "description": "Nicol: Rogers deserved to be in the PFA team of the year over Cherki",
-      "published": "2026-08-25T22:21:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/49725848/rogers-deserved-the-pfa-team-year-cherki",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0825/dm_260825_COM_SOC_Analysis_Nicol3A_Rogers_deserved_to_be_in_the_PFA_team_of_the_year_over_Cherki_GLOBAL_2026-/dm_260825_COM_SOC_Analysis_Nicol3A_Rogers_deserved_to_be_in_the_PFA_team_of_the_year_over_Cherki_GLOBAL_2026-.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49725837",
-      "headline": "Hutchison: Bruno Fernandes deserved to win the PFA player of the year award",
-      "description": "Hutchison: Bruno Fernandes deserved to win the PFA player of the year award",
-      "published": "2026-08-25T22:20:57Z",
-      "url": "https://www.espn.com/video/clip/_/id/49725837/bruno-fernandes-deserved-win-pfa-player-year-award",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0825/dm_260825_COM_SOC_Analysis_Hutchison3A_Bruno_Fernandes_deserved_to_win_the_PFA_player_of_the_year_award_GLOBA/dm_260825_COM_SOC_Analysis_Hutchison3A_Bruno_Fernandes_deserved_to_win_the_PFA_player_of_the_year_award_GLOBA.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Portugal"
-      ],
-      "players": [
-        "Bruno Fernandes",
-        "Lucy Bronze"
-      ],
-      "score": 115
     },
     {
       "id": "49704497",
@@ -274,7 +307,7 @@
       "kindLabel": "Injury",
       "teams": [],
       "players": [],
-      "score": 98
+      "score": 97
     },
     {
       "id": "49700150",
@@ -292,7 +325,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 59
+      "score": 58
     },
     {
       "id": "49681406",
@@ -369,7 +402,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 24
+      "score": 23
     },
     {
       "id": "49551450",
@@ -802,34 +835,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49598888/gianni-infantino-fifa-caf-uefa-afc-football",
       "image": "https://a.espncdn.com/photo/2026/0813/r1701197_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49588771",
-      "headline": "Former FIFA Council member Isha Johansen says Gianni Infantino should step down 'for the good of football'",
-      "description": "Former FIFA Council member Isha Johansen has become the first prominent African football figure to publicly break with the wave of support for FIFA president Gianni Infantino from across the continent.",
-      "published": "2026-08-12T19:41:14Z",
-      "url": "https://www.espn.com/espn/story/_/id/49588771/former-fifa-council-member-isha-johansen-says-gianni-infantino-step-good-football",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49540676",
-      "headline": "Was Figo right to criticize FIFA president Infantino?",
-      "description": "Was Figo right to criticize FIFA president Infantino?",
-      "published": "2026-08-11T05:24:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/49540676/was-figo-right-criticize-fifa-president-infantino",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
