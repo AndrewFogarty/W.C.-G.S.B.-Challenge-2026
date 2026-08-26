@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-26T11:03:54.253Z",
+  "updated": "2026-08-26T11:40:39.693Z",
   "counts": {
-    "news": 32,
-    "offfield": 11,
+    "news": 30,
+    "offfield": 12,
     "preview": 2,
-    "injury": 1,
+    "injury": 2,
     "celebration": 2
   },
   "items": [
@@ -23,7 +23,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 207
+      "score": 206
     },
     {
       "id": "49723045",
@@ -57,7 +57,63 @@
         "USA"
       ],
       "players": [],
-      "score": 151
+      "score": 150
+    },
+    {
+      "id": "49729578",
+      "headline": "Transfer rumors, news: Barcelona, Man United to hold Balde talks",
+      "description": "Manchester United are set to open negotiations with Barcelona over the signing of defender Alejandro Balde. Transfer Talk has the latest.",
+      "published": "2026-08-26T10:28:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49729578/transfer-rumors-news-barcelona-manchester-united-alejandro-balde-talks",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707044_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Alejandro Balde",
+        "Lucas Herrington"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49700891",
+      "headline": "Man City confirm Ayyoub Bouaddi signing from Lille",
+      "description": "Ayyoub Bouaddi has completed his move from Lille to Manchester City.",
+      "published": "2026-08-26T10:17:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49700891/man-city-confirm-ayyoub-bouaddi-signing-lille",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1672721_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Ayyoub Bouaddi",
+        "Lucas Herrington"
+      ],
+      "score": 143
+    },
+    {
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-08-26T10:16:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695938_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Lucas Herrington"
+      ],
+      "score": 143
     },
     {
       "id": "49730071",
@@ -74,9 +130,9 @@
       ],
       "players": [
         "Dominik Livakovic",
-        "Harry Souttar"
+        "Lucas Herrington"
       ],
-      "score": 143
+      "score": 142
     },
     {
       "id": "49726645",
@@ -95,9 +151,9 @@
         "Enzo Fernández",
         "Bradley Barcola",
         "Julián Álvarez",
-        "Harry Souttar"
+        "Lucas Herrington"
       ],
-      "score": 142
+      "score": 141
     },
     {
       "id": "49719477",
@@ -111,44 +167,6 @@
       "kindLabel": "News",
       "teams": [],
       "players": [
-        "Lucy Bronze"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49729868",
-      "headline": "Raheem Sterling charged with dangerous driving after car crash",
-      "description": "Former England forward Raheem Sterling has been charged with dangerous driving and possession of nitrous oxide after a crash involving a Lamborghini on the motorway, police have said.",
-      "published": "2026-08-26T08:34:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49729868/raheem-sterling-charges-dangerous-driving-car-crash",
-      "image": "https://a.espncdn.com/photo/2026/0129/r1607247_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Raheem Sterling",
-        "Lucy Bronze"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49729578",
-      "headline": "Transfer rumors, news: Barcelona, Man United to hold Balde talks",
-      "description": "Manchester United are set to open negotiations with Barcelona over the signing of defender Alejandro Balde. Transfer Talk has the latest.",
-      "published": "2026-08-26T08:11:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49729578/transfer-rumors-news-barcelona-manchester-united-alejandro-balde-talks",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707044_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Alejandro Balde",
         "Lucy Bronze"
       ],
       "score": 141
@@ -170,7 +188,7 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 137
+      "score": 136
     },
     {
       "id": "49466177",
@@ -201,6 +219,24 @@
       "score": 133
     },
     {
+      "id": "49727275",
+      "headline": "Hull win on penalties in Herrington's first start",
+      "description": "Hull knocked Stoke City out of the League Cup on Tuesday in Lucas Herrington's first start for the club, just days after the Aussie's dream debut against Man United.",
+      "published": "2026-08-26T01:41:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/49727275/hull-win-penalties-herrington-first-start",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0825/dm_260825_Soccer_Highlight_Hull_win_on_penalties_in_Herringtons_first_start_20260826_AUS_ONLY/dm_260825_Soccer_Highlight_Hull_win_on_penalties_in_Herringtons_first_start_20260826_AUS_ONLY.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 132
+    },
+    {
       "id": "49730074",
       "headline": "Sabah FK, founded just nine years ago, qualify for Champions League",
       "description": "Sabah FK qualified for the Champions League on Tuesday night, only nine years after being founded.",
@@ -214,9 +250,9 @@
         "Australia"
       ],
       "players": [
-        "Harry Souttar"
+        "Lucas Herrington"
       ],
-      "score": 131
+      "score": 130
     },
     {
       "id": "49729581",
@@ -234,7 +270,7 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 128
+      "score": 127
     },
     {
       "id": "49729538",
@@ -252,7 +288,7 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 127
+      "score": 126
     },
     {
       "id": "48955344",
@@ -270,7 +306,7 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 126
+      "score": 125
     },
     {
       "id": "49728677",
@@ -293,7 +329,49 @@
         "Daniel Arcila",
         "Lucy Bronze"
       ],
-      "score": 124
+      "score": 123
+    },
+    {
+      "id": "49727817",
+      "headline": "Monterrey vs. Chicago Fire FC - Game Highlights",
+      "description": "Watch the Game Highlights from Monterrey vs. Chicago Fire FC, 08/25/2026",
+      "published": "2026-08-26T04:38:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/49727817/monterrey-vs-chicago-fire-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0826/b5938796-47fc-4f92-8bf4-0f0f94f3bf2d/b5938796-47fc-4f92-8bf4-0f0f94f3bf2d.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Hugo Cuypers",
+        "Lucas Ocampos",
+        "Anton Saletros",
+        "Orbelín Pineda",
+        "Víctor Guzmán",
+        "Philip Zinckernagel",
+        "Lucy Bronze"
+      ],
+      "score": 122
+    },
+    {
+      "id": "49726306",
+      "headline": "Will Carlos Baleba improve Man United?",
+      "description": "Will Carlos Baleba improve Man United?",
+      "published": "2026-08-25T23:27:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49726306/will-carlos-baleba-improve-man-united",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0825/dm_260825_COM_SOC_Analysis_Will_Carlos_Baleba_improve_Man_United3F_GLOBAL_2026-08-25/dm_260825_COM_SOC_Analysis_Will_Carlos_Baleba_improve_Man_United3F_GLOBAL_2026-08-25.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 115
     },
     {
       "id": "49704497",
@@ -307,7 +385,7 @@
       "kindLabel": "Injury",
       "teams": [],
       "players": [],
-      "score": 97
+      "score": 96
     },
     {
       "id": "49700150",
@@ -325,7 +403,7 @@
       "players": [
         "Erling Haaland"
       ],
-      "score": 58
+      "score": 57
     },
     {
       "id": "49681406",
@@ -778,62 +856,6 @@
       "published": "2026-08-18T17:44:03Z",
       "url": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
       "image": "https://a.espncdn.com/photo/2026/0818/r1703471_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49642660",
-      "headline": "FIFA executive Kevin Lamour departs amid backlash over Infantino's World Cup sale plan",
-      "description": "FIFA chief operating officer Kevin Lamour has departed the soccer governing body in the wake of Gianni Infantino's collapsed World Cup sell-off plan.",
-      "published": "2026-08-18T00:05:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49642660/fifa-executive-kevin-lamour-departs-amid-backlash-infantino-world-cup-sale-plan",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703156_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49610097",
-      "headline": "Andrew Giuliani backs FIFA's Gianni Infantino, calls critics 'jealous'",
-      "description": "",
-      "published": "2026-08-14T15:11:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49610097/andrew-giuliani-backs-fifa-gianni-infantino-calls-critics-jealous",
-      "image": "https://a.espncdn.com/photo/2025/0506/r1489074_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49600669",
-      "headline": "Time limits, VAR, mistaken identity: Which World Cup rules has Premier League adopted?",
-      "description": "Which World Cup law changes will continue for the Premier League, and which ones have been rejected?",
-      "published": "2026-08-14T09:05:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701282_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49598888",
-      "headline": "CAF boss: Only elections can decide Gianni Infantino's FIFA future",
-      "description": "African football boss Patrice Motsepe has said that the position of embattled president Gianni Infantino can only be decided by FIFA elections.",
-      "published": "2026-08-13T10:58:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49598888/gianni-infantino-fifa-caf-uefa-afc-football",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701197_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
