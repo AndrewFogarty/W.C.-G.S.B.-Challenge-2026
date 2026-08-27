@@ -1,14 +1,44 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-27T05:02:28.632Z",
+  "updated": "2026-08-27T16:25:54.231Z",
   "counts": {
-    "offfield": 9,
-    "news": 34,
+    "news": 33,
+    "offfield": 10,
     "preview": 2,
     "injury": 1,
     "celebration": 2
   },
   "items": [
+    {
+      "id": "49742098",
+      "headline": "Sources: UEFA prepares criminal complaint against FIFA's Infantino over World Cup sell-off",
+      "description": "UEFA is preparing a criminal complaint against FIFA president Gianni Infantino in Swiss courts for possible financial mismanagement over his failed plan to sell future World Cup profits to private investors.",
+      "published": "2026-08-27T16:06:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49742098/uefa-prepares-criminal-complaint-fifa-boss-gianni-infantino-world-cup-selloff",
+      "image": "https://a.espncdn.com/photo/2023/1221/r1269161_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 206
+    },
+    {
+      "id": "49741495",
+      "headline": "Saudi federation backs Gianni Infantino as FIFA president 'at this time'",
+      "description": "One month into a crisis for FIFA provoked by his failed World Cup sell-off plan, Gianni Infantino finally got some public backing from a key nation Thursday -- 2034 World Cup host Saudi Arabia.",
+      "published": "2026-08-27T15:26:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49741495/saudi-federation-backs-gianni-infantino-fifa-president",
+      "image": "https://a.espncdn.com/photo/2024/1211/r1426673_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "players": [],
+      "score": 199
+    },
     {
       "id": "49466177",
       "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
@@ -35,7 +65,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 220
+      "score": 183
     },
     {
       "id": "49735503",
@@ -51,7 +81,134 @@
         "Spain"
       ],
       "players": [],
-      "score": 190
+      "score": 153
+    },
+    {
+      "id": "49742361",
+      "headline": "Julian Hall signs new four-year deal with New York Red Bulls",
+      "description": "The New York Red Bulls announced that striker Julian Hall has signed a new four-year contract with the club.",
+      "published": "2026-08-27T15:33:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49742361/julian-hall-signs-new-four-year-deal-new-york-red-bulls",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706819_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 144
+    },
+    {
+      "id": "48990955",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-08-27T15:30:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695938_1296x729_16-9.jpg",
+      "byline": "Sam Tighe",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49742289",
+      "headline": "Iraola on Barcola transfer: I hope we'll have good news soon",
+      "description": "Iraola on Barcola transfer: I hope we'll have good news soon",
+      "published": "2026-08-27T14:50:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49742289/hope-good-news-soon",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0827/dm_260827_COM_SOC_Analysis_Iraola_on_Barcola_transfer3A_I_hope_weE28099ll_have_good_news_soon_GLOBAL_2026-08-28/dm_260827_COM_SOC_Analysis_Iraola_on_Barcola_transfer3A_I_hope_weE28099ll_have_good_news_soon_GLOBAL_2026-08-28.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Bradley Barcola",
+        "Patrick Beach"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49742190",
+      "headline": "Jamie Carragher faces bankruptcy petition after unpaid tax bill",
+      "description": "Former Liverpool defender Jamie Carragher could face bankruptcy after HM Revenue and Customs (HMRC) issued a bankruptcy petition against him.",
+      "published": "2026-08-27T14:46:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49742190/jamie-carragher-faces-bankruptcy-petition-unpaid-tax-bill",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660275_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49725713",
+      "headline": "Live updates: 2026-27 UEFA Champions League league phase draw",
+      "description": "Enjoy all the updates from Monaco for the league phase draw of the 2026-27 UEFA Champions League.",
+      "published": "2026-08-27T16:18:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49725713/live-updates-2026-27-uefa-champions-league-league-phase-draw",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707631_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49742273",
+      "headline": "Champions League draw LIVE: Arsenal, Man City, Man United, Aston Villa and Liverpool find out fate",
+      "description": "It's that time of year again, when all eyes turn to the Champions League and potential glory, with the draw for Europe's premier competition taking place, and you can follow all of the action live with ESPN.",
+      "published": "2026-08-27T16:09:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49742273/champions-league-draw-live-arsenal-man-city-man-united-aston-villa-liverpool-find-fate",
+      "image": "https://a.espncdn.com/photo/2026/0130/r1607952_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49163915",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "The 2026-27 Premier League season is finally here, and that means new home and away jerseys for all 20 clubs. Here they all are -- ranked!",
+      "published": "2026-08-27T15:09:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 131
     },
     {
       "id": "49729916",
@@ -67,107 +224,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 160
-    },
-    {
-      "id": "49736418",
-      "headline": "Sávio stars as Tottenham thrash Charlton 5-1",
-      "description": "Tottenham's new signing Sávio scores on debut in an exhilarating performance as Spurs dismantle Charlton in the Carabao Cup.",
-      "published": "2026-08-26T23:55:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/49736418/savio-stars-tottenham-thrash-charlton-5-1",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_EFL_Highlight_Savio_stars_as_Tottenham_thrash_Charlton_51_20260827_AUS_ONLY/dm_260826_EFL_Highlight_Savio_stars_as_Tottenham_thrash_Charlton_51_20260827_AUS_ONLY.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Ajdin Hrustic"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49735636",
-      "headline": "Can Arsenal realistically sign Julian Alvarez over Barcelona?",
-      "description": "Can Arsenal realistically sign Julian Alvarez over Barcelona?",
-      "published": "2026-08-26T22:17:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/49735636/can-arsenal-realistically-sign-julian-alvarez-barcelona",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_COM_SOC_Analysis_Can_Arsenal_realistically_sign_Julian_Alvarez_over_Barcelona3F__GLOBAL_2026-08-26/dm_260826_COM_SOC_Analysis_Can_Arsenal_realistically_sign_Julian_Alvarez_over_Barcelona3F__GLOBAL_2026-08-26.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Julián Álvarez",
-        "Patrick Beach"
-      ],
-      "score": 135
-    },
-    {
-      "id": "48897670",
-      "headline": "2026 ASEAN Championship: Fixtures, results, standings, how to watch",
-      "description": "The 16th ASEAN Championship -- officially known as the ASEAN Hyundai Cup 2026 -- will take place from July 24 to Aug. 26.",
-      "published": "2026-08-26T22:45:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48897670/2026-asean-championship-fixtures-results-standings-how-watch",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664740_1296x729_16-9.png",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49737419",
-      "headline": "World Cup star Vozinha makes Colo Colo debut in Copa Chile match",
-      "description": "Cape Verde goalkeeper Vozinha made his debut for Chilean side Colo-Colo during Wednesday's Copa Chile match.",
-      "published": "2026-08-27T02:32:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49737419/world-cup-star-vozinha-makes-colo-colo-debut-copa-chile-match",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707450_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha",
-        "Ajdin Hrustic"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49737634",
-      "headline": "North Carolina Courage vs. Angel City FC - Game Highlights",
-      "description": "Watch the Game Highlights from North Carolina Courage vs. Angel City FC, 08/27/2026",
-      "published": "2026-08-27T02:19:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49737634/north-carolina-courage-vs-angel-city-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0827/edb18e47-2cc8-46bd-9c4c-ddb873765e2c/edb18e47-2cc8-46bd-9c4c-ddb873765e2c.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Ashley Sanchez",
-        "Claire Emslie",
-        "Chioma Okafor",
-        "Ally Sentnor",
-        "Sarah Gorden",
-        "Nealy Martin",
-        "Ryan Williams",
-        "Ajdin Hrustic"
-      ],
-      "score": 129
+      "score": 122
     },
     {
       "id": "49723045",
@@ -185,147 +242,7 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 128
-    },
-    {
-      "id": "49736233",
-      "headline": "Champions League draw: Seeding pots confirmed for league phase",
-      "description": "The seeding pots for Thursday's Champions League league phase draw have been confirmed after the final four teams clinched their place in the competition proper on Wednesday.",
-      "published": "2026-08-27T00:09:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027",
-      "image": "https://a.espncdn.com/photo/2025/0531/r1500836_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Ajdin Hrustic"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49735746",
-      "headline": "De Zerbi sets Sávio goals target after debut Tottenham strike",
-      "description": "Roberto De Zerbi toasted the perfect day for Tottenham Hotspur new boy Sávio but then ordered him to hit doubles figures this season.",
-      "published": "2026-08-26T22:42:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49735746/savio-tottenham-goal-roberto-de-zerbi-carabao-cup-charlton",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707360_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Brazil"
-      ],
-      "players": [
-        "Sávio",
-        "Patrick Beach"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49735868",
-      "headline": "Thailand future looks exceedingly bright despite missing out on ASEAN Championship",
-      "description": "Despite losing to Vietnam in the ASEAN Championship final, Thailand's future still looks very promising.",
-      "published": "2026-08-26T22:39:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49735868/thailand-future-exceedingly-bright-missing-asean-championship",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707355_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Seksan Ratree",
-        "Teerasak Poeiphimai",
-        "Yotsakorn Burapha",
-        "Chaiyaphon Otton",
-        "Suphanat Mueanta",
-        "Supachok Sarachat",
-        "Chanathip Songkrasin",
-        "Theerathon Bunmathan",
-        "Patrick Beach"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49735745",
-      "headline": "David Moyes 'would like more' from Thierno Barry after first Everton hat trick",
-      "description": "Thierno Barry scored the first hat-trick of his Everton career in the 4-0 Carabao Cup win over Preston but manager David Moyes still wants more from the striker.",
-      "published": "2026-08-26T22:36:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49735745/david-moyes-thierno-barry-first-everton-hat-trick",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707352_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Thierno Barry",
-        "Patrick Beach"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49735633",
-      "headline": "Olley: Jackson to Aston Villa makes sense",
-      "description": "Olley: Jackson to Aston Villa makes sense",
-      "published": "2026-08-26T22:16:31Z",
-      "url": "https://www.espn.com/video/clip/_/id/49735633/jackson-aston-villa-makes-sense",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_COM_SOC_Analysis_Olley3A_Jackson_to_Aston_Villa_makes_sense__GLOBAL_2026-08-26/dm_260826_COM_SOC_Analysis_Olley3A_Jackson_to_Aston_Villa_makes_sense__GLOBAL_2026-08-26.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Nicolas Jackson",
-        "Patrick Beach"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49735599",
-      "headline": "Will Martínez leave Aston Villa for Chelsea?",
-      "description": "Will Martínez leave Aston Villa for Chelsea?",
-      "published": "2026-08-26T22:15:39Z",
-      "url": "https://www.espn.com/video/clip/_/id/49735599/will-martinez-leave-aston-villa-chelsea",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_COM_SOC_Analysis_Will_MartC3ADnez_leave_Aston_Villa_for_Chelsea3F_GLOBAL_2026-08-26/dm_260826_COM_SOC_Analysis_Will_MartC3ADnez_leave_Aston_Villa_for_Chelsea3F_GLOBAL_2026-08-26.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Emiliano Martínez",
-        "Patrick Beach"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49735570",
-      "headline": "Will Chelsea accept a late move for Fernández from Man City?",
-      "description": "Will Chelsea accept a late move for Fernández from Man City?",
-      "published": "2026-08-26T22:14:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/49735570/will-chelsea-accept-late-move-fernandez-man-city",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_COM_SOC_Analysis_Will_Chelsea_accept_a_late_move_for_FernC3A1ndez_from_Man_City3F_GLOBAL_2026-08-26/dm_260826_COM_SOC_Analysis_Will_Chelsea_accept_a_late_move_for_FernC3A1ndez_from_Man_City3F_GLOBAL_2026-08-26.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Enzo Fernández",
-        "Patrick Beach"
-      ],
-      "score": 123
+      "score": 91
     },
     {
       "id": "49720082",
@@ -341,7 +258,7 @@
         "USA"
       ],
       "players": [],
-      "score": 104
+      "score": 67
     },
     {
       "id": "49719477",
@@ -357,39 +274,7 @@
       "players": [
         "Lucy Bronze"
       ],
-      "score": 95
-    },
-    {
-      "id": "49704497",
-      "headline": "UEFA boss Aleksander Čeferin rules out FIFA presidency bid",
-      "description": "UEFA president Aleksander Čeferin has ruled himself out of the running to replace FIFA chief Gianni Infantino, but Čeferin warned the beleaguered FIFA boss that he must either quit or face a leadership challenge in March.",
-      "published": "2026-08-24T10:13:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49704497/aleksander-ceferin-uefa-boss-rules-fifa-presidency-bid",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705936_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [],
-      "players": [],
-      "score": 60
-    },
-    {
-      "id": "49700150",
-      "headline": "New season, new haircut: Erling Haaland ditches iconic long hair for new season",
-      "description": "Erling Haaland shared his latest viral social media post, showing him cutting his long blonde hair in favour of a buzz cut.",
-      "published": "2026-08-23T15:09:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49700150/man-city-erling-haaland-ditches-iconic-long-hair-premier-league-season",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705662_502x282_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland"
-      ],
-      "score": 30
+      "score": 58
     },
     {
       "id": "49681406",
@@ -451,6 +336,20 @@
       "score": 25
     },
     {
+      "id": "49704497",
+      "headline": "UEFA boss Aleksander Čeferin rules out FIFA presidency bid",
+      "description": "UEFA president Aleksander Čeferin has ruled himself out of the running to replace FIFA chief Gianni Infantino, but Čeferin warned the beleaguered FIFA boss that he must either quit or face a leadership challenge in March.",
+      "published": "2026-08-24T10:13:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49704497/aleksander-ceferin-uefa-boss-rules-fifa-presidency-bid",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705936_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [],
+      "players": [],
+      "score": 23
+    },
+    {
       "id": "49551450",
       "headline": "Norway calls on Infantino to quit amid backing from Mexico, Argentina",
       "description": "Norway's soccer federation president has called on Gianni Infantino to resign, saying there is \"no trust\" in him now, while Mexico and Argentina have expressed their support for the embattled FIFA president.",
@@ -483,6 +382,24 @@
       ],
       "players": [],
       "score": 22
+    },
+    {
+      "id": "49700150",
+      "headline": "New season, new haircut: Erling Haaland ditches iconic long hair for new season",
+      "description": "Erling Haaland shared his latest viral social media post, showing him cutting his long blonde hair in favour of a buzz cut.",
+      "published": "2026-08-23T15:09:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49700150/man-city-erling-haaland-ditches-iconic-long-hair-premier-league-season",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705662_502x282_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland"
+      ],
+      "score": 20
     },
     {
       "id": "49576985",
@@ -768,23 +685,6 @@
       "score": 10
     },
     {
-      "id": "49543435",
-      "headline": "Spain's sports minister says country 'deserves' to host 2030 World Cup final, not Morocco",
-      "description": "Spain \"deserves\" to host the 2030 World Cup final, according to the country's sports minister Milagros Tolón.",
-      "published": "2026-08-06T16:55:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49543435/spain-sports-minister-says-country-deserves-host-2030-world-cup-final-not-morocco",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698276_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
       "id": "49543506",
       "headline": "CAF's silence is deafening, but Africa can be swing vote in FIFA's Infantino saga",
       "description": "Since Gianni Infantino's plan to 'sell the FIFA World Cup' scandal first broke, the Confederation of African Football has been conspicuous by its silence.",
@@ -855,6 +755,62 @@
       "url": "https://www.espn.com/soccer/story/_/id/49610097/andrew-giuliani-backs-fifa-gianni-infantino-calls-critics-jealous",
       "image": "https://a.espncdn.com/photo/2025/0506/r1489074_1296x729_16-9.jpg",
       "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49600669",
+      "headline": "Time limits, VAR, mistaken identity: Which World Cup rules has Premier League adopted?",
+      "description": "Which World Cup law changes will continue for the Premier League, and which ones have been rejected?",
+      "published": "2026-08-14T09:05:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701282_1296x729_16-9.jpg",
+      "byline": "Andy Davies",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49598888",
+      "headline": "CAF boss: Only elections can decide Gianni Infantino's FIFA future",
+      "description": "African football boss Patrice Motsepe has said that the position of embattled president Gianni Infantino can only be decided by FIFA elections.",
+      "published": "2026-08-13T10:58:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49598888/gianni-infantino-fifa-caf-uefa-afc-football",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701197_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49588771",
+      "headline": "Former FIFA Council member Isha Johansen says Gianni Infantino should step down 'for the good of football'",
+      "description": "Former FIFA Council member Isha Johansen has become the first prominent African football figure to publicly break with the wave of support for FIFA president Gianni Infantino from across the continent.",
+      "published": "2026-08-12T19:41:14Z",
+      "url": "https://www.espn.com/espn/story/_/id/49588771/former-fifa-council-member-isha-johansen-says-gianni-infantino-step-good-football",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49579404",
+      "headline": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
+      "description": "President Donald Trump said in a social media post Monday that ousting FIFA president Gianni Infantino would be a \"terrible mistake.\"",
+      "published": "2026-08-11T05:22:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49579404/trump-warns-soccer-federations-replacing-fifa-president-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
