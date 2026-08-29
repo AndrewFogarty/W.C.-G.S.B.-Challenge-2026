@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-29T10:52:00.849Z",
+  "updated": "2026-08-29T15:24:10.800Z",
   "counts": {
-    "news": 36,
-    "offfield": 9,
+    "news": 32,
+    "offfield": 12,
+    "preview": 2,
     "injury": 1,
-    "celebration": 1,
-    "preview": 1
+    "celebration": 1
   },
   "items": [
     {
@@ -26,7 +26,7 @@
       "players": [
         "Chris Richards"
       ],
-      "score": 184
+      "score": 177
     },
     {
       "id": "49750811",
@@ -40,7 +40,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 170
+      "score": 164
     },
     {
       "id": "49732248",
@@ -56,7 +56,7 @@
         "USA"
       ],
       "players": [],
-      "score": 151
+      "score": 144
     },
     {
       "id": "49744909",
@@ -70,26 +70,142 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 146
+      "score": 139
     },
     {
-      "id": "49756836",
-      "headline": "RB Leipzig eyeing Chelsea striker Marc Guiu - source",
-      "description": "RB Leipzig are keen on signing Chelsea 's Spanish striker Marc Guiu, a source has told ESPN.",
-      "published": "2026-08-28T23:26:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49756836/rb-leipzig-chelsea-transfer-marc-guiu",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708334_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
+      "id": "49733907",
+      "headline": "European live updates: Liverpool host Nottingham Forest at Anfield",
+      "description": "Soccer matches kick off across Europe as Liverpool take on Nottingham Forest in the first Premier League match of the weekend.",
+      "published": "2026-08-29T10:32:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49733907/european-live-updates-liverpool-host-nottingham-forest-anfield",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707230_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Chris Richards"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49760043",
+      "headline": "Ipswich Town sign World Cup winner Exequiel Palacios from Bayer Leverkusen",
+      "description": "Ipswich Town have announced the signing of World Cup-winner Exequiel Palacios from Bayer Leverkusen.",
+      "published": "2026-08-29T08:50:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49760043/ipswich-town-sign-world-cup-winner-exequiel-palacios-bayer-leverkusen",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708427_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "USA"
       ],
       "players": [
-        "Marc Guiu",
+        "Exequiel Palacios",
         "Chris Richards"
       ],
-      "score": 128
+      "score": 135
+    },
+    {
+      "id": "49759947",
+      "headline": "Transfer rumors, news: Could Julián Álvarez rejoin Man City?",
+      "description": "Barcelona and Arsenal target Julián Álvarez is being lined up for a return to Manchester City. Transfer Talk has the latest.",
+      "published": "2026-08-29T08:44:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49759947/transfer-rumors-news-julian-alvarez-atletico-madrid-arsenal-barcelona-manchester-city",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707853_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Julián Álvarez",
+        "Chris Richards"
+      ],
+      "score": 135
+    },
+    {
+      "id": "49750790",
+      "headline": "Is Liverpool's No.1 transfer target Barcola the right Salah replacement?",
+      "description": "Liverpool could spend up to €140 million in their deal for PSG winger Bradley Barcola, so is he the man to replace Mohamed Salah long term?",
+      "published": "2026-08-29T08:40:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49750790/will-liverpool-no1-summer-transfer-target-winger-psg-bradley-barcola-replacement-mohamed-salah",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708014_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Bradley Barcola",
+        "Mohamed Salah",
+        "Chris Richards"
+      ],
+      "score": 135
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out as we head towards the end of the summer transfer window.",
+      "published": "2026-08-29T06:30:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687125_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Chris Richards"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49760222",
+      "headline": "Michael Carrick keen to entertain as Man United look to bounce back against Ipswich",
+      "description": "Michael Carrick wants to get back to winning games United host Ipswich at Old Trafford and look to bounce back from their opening weekend humiliation at Hull.",
+      "published": "2026-08-29T09:19:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49760222/michael-carrick-keen-entertain-man-united-look-bounce-back-ipswich",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708429_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Chris Richards"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49758893",
+      "headline": "San Diego Wave FC vs. Racing Louisville FC - Game Highlights",
+      "description": "Watch the Game Highlights from San Diego Wave FC vs. Racing Louisville FC, 08/29/2026",
+      "published": "2026-08-29T04:08:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/49758893/san-diego-wave-fc-vs-racing-louisville-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0829/cf05f174-34b0-4131-a0e4-abfb6ebad2e7/cf05f174-34b0-4131-a0e4-abfb6ebad2e7.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Lauren Milliet",
+        "Ludmila",
+        "Taylor Flint",
+        "Trinity Byars",
+        "Kenza Dali",
+        "Chris Richards"
+      ],
+      "score": 116
     },
     {
       "id": "49758035",
@@ -112,117 +228,7 @@
         "Morgan Weaver",
         "Chris Richards"
       ],
-      "score": 120
-    },
-    {
-      "id": "49757830",
-      "headline": "Saint Louis vs. Notre Dame: Game Highlights",
-      "description": "Saint Louis vs. Notre Dame: Game Highlights",
-      "published": "2026-08-29T01:46:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49757830/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0829/75326c82-8fac-4104-853c-bdf236b84028/75326c82-8fac-4104-853c-bdf236b84028.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Chris Richards"
-      ],
-      "score": 119
-    },
-    {
-      "id": "49757105",
-      "headline": "Luis Enrique praises PSG's trademark resilience after another late comeback",
-      "description": "Paris Saint-Germain coach Luis Enrique praised his team's fighting spirit after they staged another late comeback, scoring two stoppage-time goals to secure a 2-2 draw against Lille in Ligue 1.",
-      "published": "2026-08-29T00:50:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49757105/luis-enrique-praises-psg-trademark-resilience-another-late-comeback",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708346_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Chris Richards"
-      ],
-      "score": 118
-    },
-    {
-      "id": "49756300",
-      "headline": "Man City's Enzo Maresca hails 'complete' Rayan Cherki after Crystal Palace win",
-      "description": "Manchester City manager Enzo Maresca said Rayan Cherki put in a \"complete\" performance as his double helped them to a commanding 4-1 win at Crystal Palace on Friday evening.",
-      "published": "2026-08-28T23:53:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49756300/man-city-enzo-maresca-hails-complete-rayan-cherki-crystal-palace-win",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708308_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Rayan Cherki",
-        "Chris Richards"
-      ],
-      "score": 117
-    },
-    {
-      "id": "49756706",
-      "headline": "Maresca hails 'complete' Cherki after brace vs. Crystal Palace",
-      "description": "Maresca hails 'complete' Cherki after brace vs. Crystal Palace.",
-      "published": "2026-08-28T22:55:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49756706/maresca-hails-complete-cherki-brace-vs-crystal-palace",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Maresca_hails_complete_Cherki_after_brace_vs_Crystal_Palace/dm_260828_Maresca_hails_complete_Cherki_after_brace_vs_Crystal_Palace.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Rayan Cherki",
-        "Chris Richards"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49747324",
-      "headline": "PSG score 2 stoppage-time goals to rescue draw at Lille",
-      "description": "Paris Saint-Germain scored two goals in stoppage time to draw at Lille 2-2 and record their second consecutive Ligue 1 draw.",
-      "published": "2026-08-28T22:45:17Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401876476",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708320_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Chris Richards"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49756342",
-      "headline": "Wrexham boss 'shellshocked' by 'unacceptable' loss to Birmingham",
-      "description": "Phil Parkinson said he was left \"shellshocked\" by the goals Wrexham conceded as they slumped to a 2-1 Championship defeat at home to Birmingham.",
-      "published": "2026-08-28T22:37:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49756342/wrexham-phil-parkinson-birmingham-city-championship",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708313_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Chris Richards"
-      ],
-      "score": 115
+      "score": 113
     },
     {
       "id": "49742098",
@@ -236,7 +242,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 103
+      "score": 96
     },
     {
       "id": "49741495",
@@ -252,7 +258,7 @@
         "Saudi Arabia"
       ],
       "players": [],
-      "score": 95
+      "score": 88
     },
     {
       "id": "49466177",
@@ -280,7 +286,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 79
+      "score": 73
     },
     {
       "id": "49735503",
@@ -296,7 +302,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 49
+      "score": 42
     },
     {
       "id": "49681406",
@@ -424,22 +430,6 @@
       "score": 20
     },
     {
-      "id": "49729916",
-      "headline": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
-      "description": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
-      "published": "2026-08-26T08:44:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49729916/netherlands-tried-get-guardiola-slot-xavi",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_De_Jong_Netherlands_tried_to_get_Guardiola_and_Slot_before_Xavi/dm_260826_De_Jong_Netherlands_tried_to_get_Guardiola_and_Slot_before_Xavi.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Netherlands"
-      ],
-      "players": [],
-      "score": 19
-    },
-    {
       "id": "49576985",
       "headline": "Why South America is lukewarm on a 2030 World Cup on home soil",
       "description": "South America will help kick off the 2030 World Cup in three countries, but its limited role in the centenary tournament has left plenty of concerns.",
@@ -562,6 +552,22 @@
         "Kobbie Mainoo"
       ],
       "score": 13
+    },
+    {
+      "id": "49729916",
+      "headline": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
+      "description": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
+      "published": "2026-08-26T08:44:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/49729916/netherlands-tried-get-guardiola-slot-xavi",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_De_Jong_Netherlands_tried_to_get_Guardiola_and_Slot_before_Xavi/dm_260826_De_Jong_Netherlands_tried_to_get_Guardiola_and_Slot_before_Xavi.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Netherlands"
+      ],
+      "players": [],
+      "score": 12
     },
     {
       "id": "49720082",
