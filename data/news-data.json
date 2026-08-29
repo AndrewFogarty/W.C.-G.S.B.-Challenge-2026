@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-29T15:24:10.800Z",
+  "updated": "2026-08-29T18:44:50.842Z",
   "counts": {
-    "news": 32,
-    "offfield": 12,
-    "preview": 2,
+    "news": 34,
+    "offfield": 11,
     "injury": 1,
-    "celebration": 1
+    "celebration": 1,
+    "preview": 1
   },
   "items": [
     {
@@ -26,7 +26,7 @@
       "players": [
         "Chris Richards"
       ],
-      "score": 177
+      "score": 172
     },
     {
       "id": "49750811",
@@ -40,7 +40,63 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 164
+      "score": 159
+    },
+    {
+      "id": "49763383",
+      "headline": "Nottingham Forest nearing deal for Daniel Muñoz from Crystal Palace - sources",
+      "description": "Nottingham Forest are closing in on the signing of full-back Daniel Muñoz from fellow Premier League side Crystal Palace, sources have told ESPN.",
+      "published": "2026-08-29T17:33:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49763383/nottingham-forest-nearing-deal-daniel-munoz-crystal-palace-sources",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708569_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Daniel Muñoz",
+        "Chris Richards"
+      ],
+      "score": 143
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out as we head towards the end of the summer transfer window.",
+      "published": "2026-08-29T17:25:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687125_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Chris Richards"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49759947",
+      "headline": "Transfer rumors, news: Could Julián Álvarez rejoin Man City?",
+      "description": "Barcelona and Arsenal target Julián Álvarez is being lined up for a return to Manchester City. Transfer Talk has the latest.",
+      "published": "2026-08-29T16:06:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49759947/transfer-rumors-news-julian-alvarez-atletico-madrid-arsenal-barcelona-manchester-city",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707853_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Julián Álvarez",
+        "Chris Richards"
+      ],
+      "score": 141
     },
     {
       "id": "49732248",
@@ -56,7 +112,7 @@
         "USA"
       ],
       "players": [],
-      "score": 144
+      "score": 139
     },
     {
       "id": "49744909",
@@ -70,109 +126,33 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 139
+      "score": 134
     },
     {
       "id": "49733907",
-      "headline": "European live updates: Liverpool host Nottingham Forest at Anfield",
-      "description": "Soccer matches kick off across Europe as Liverpool take on Nottingham Forest in the first Premier League match of the weekend.",
-      "published": "2026-08-29T10:32:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49733907/european-live-updates-liverpool-host-nottingham-forest-anfield",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707230_1296x729_16-9.jpg",
+      "headline": "European live updates: Liverpool held by Forest, big-spending Spurs stumble vs. Newcastle",
+      "description": "Soccer matches are kicking off in the Premier League and across Europe with all five of the continent's major leagues finally in action!",
+      "published": "2026-08-29T18:36:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49733907/european-live-updates-liverpool-draw-forest-premier-league-action-continues",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708595_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "USA"
       ],
       "players": [
         "Chris Richards"
       ],
-      "score": 135
+      "score": 133
     },
     {
-      "id": "49760043",
-      "headline": "Ipswich Town sign World Cup winner Exequiel Palacios from Bayer Leverkusen",
-      "description": "Ipswich Town have announced the signing of World Cup-winner Exequiel Palacios from Bayer Leverkusen.",
-      "published": "2026-08-29T08:50:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49760043/ipswich-town-sign-world-cup-winner-exequiel-palacios-bayer-leverkusen",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708427_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Exequiel Palacios",
-        "Chris Richards"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49759947",
-      "headline": "Transfer rumors, news: Could Julián Álvarez rejoin Man City?",
-      "description": "Barcelona and Arsenal target Julián Álvarez is being lined up for a return to Manchester City. Transfer Talk has the latest.",
-      "published": "2026-08-29T08:44:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49759947/transfer-rumors-news-julian-alvarez-atletico-madrid-arsenal-barcelona-manchester-city",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707853_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Julián Álvarez",
-        "Chris Richards"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49750790",
-      "headline": "Is Liverpool's No.1 transfer target Barcola the right Salah replacement?",
-      "description": "Liverpool could spend up to €140 million in their deal for PSG winger Bradley Barcola, so is he the man to replace Mohamed Salah long term?",
-      "published": "2026-08-29T08:40:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49750790/will-liverpool-no1-summer-transfer-target-winger-psg-bradley-barcola-replacement-mohamed-salah",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708014_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Bradley Barcola",
-        "Mohamed Salah",
-        "Chris Richards"
-      ],
-      "score": 135
-    },
-    {
-      "id": "48955344",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out as we head towards the end of the summer transfer window.",
-      "published": "2026-08-29T06:30:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687125_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Chris Richards"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49760222",
-      "headline": "Michael Carrick keen to entertain as Man United look to bounce back against Ipswich",
-      "description": "Michael Carrick wants to get back to winning games United host Ipswich at Old Trafford and look to bounce back from their opening weekend humiliation at Hull.",
-      "published": "2026-08-29T09:19:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49760222/michael-carrick-keen-entertain-man-united-look-bounce-back-ipswich",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708429_1296x729_16-9.jpg",
+      "id": "49763646",
+      "headline": "West Ham still winless after three games in EFL Championship",
+      "description": "Nuno Espirito Santo is still waiting for West Ham's first win the CHampionship after they were held to a gritty 1-1 draw in front of Vicarage Road's biggest crowd for six years.",
+      "published": "2026-08-29T17:47:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49763646/west-ham-efl-championship-watford",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708582_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
@@ -182,15 +162,33 @@
       "players": [
         "Chris Richards"
       ],
-      "score": 124
+      "score": 132
     },
     {
-      "id": "49758893",
-      "headline": "San Diego Wave FC vs. Racing Louisville FC - Game Highlights",
-      "description": "Watch the Game Highlights from San Diego Wave FC vs. Racing Louisville FC, 08/29/2026",
-      "published": "2026-08-29T04:08:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49758893/san-diego-wave-fc-vs-racing-louisville-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0829/cf05f174-34b0-4131-a0e4-abfb6ebad2e7/cf05f174-34b0-4131-a0e4-abfb6ebad2e7.jpg",
+      "id": "49763086",
+      "headline": "Everton fans threaten 'riot' over potential sale of teenage winger Harrison Armstrong to Nottingham Forest",
+      "description": "Everton fans threatened to \"riot\" if the club cash in on teenage winger Harrison Armstrong.",
+      "published": "2026-08-29T17:41:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49763086/everton-harrison-armstrong-nottingham-forest-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708547_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Chris Richards"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49763768",
+      "headline": "Levante vs. Real Betis - Game Highlights",
+      "description": "Watch the Game Highlights from Levante vs. Real Betis, 08/29/2026",
+      "published": "2026-08-29T17:11:57Z",
+      "url": "https://www.espn.com/video/clip/_/id/49763768/levante-vs-real-betis-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0829/46f40484-cfa4-4a18-a3d6-1b001a5175da/46f40484-cfa4-4a18-a3d6-1b001a5175da.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -198,37 +196,35 @@
         "USA"
       ],
       "players": [
-        "Lauren Milliet",
-        "Ludmila",
-        "Taylor Flint",
-        "Trinity Byars",
-        "Kenza Dali",
+        "Rodrigo Riquelme",
+        "Jon Ander Olasagasti",
+        "Roger Brugué",
+        "Enzo Bardeli",
+        "Marc Bartra",
+        "Adrián de la Fuente",
+        "Antony",
         "Chris Richards"
       ],
-      "score": 116
+      "score": 131
     },
     {
-      "id": "49758035",
-      "headline": "NJ/NY Gotham FC vs. Portland Thorns FC - Game Highlights",
-      "description": "Watch the Game Highlights from NJ/NY Gotham FC vs. Portland Thorns FC, 08/29/2026",
-      "published": "2026-08-29T02:16:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/49758035/nj-ny-gotham-fc-vs-portland-thorns-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0829/e5685c31-185f-4e3d-aab8-eb77870e1030/e5685c31-185f-4e3d-aab8-eb77870e1030.jpg",
-      "byline": null,
+      "id": "49762884",
+      "headline": "Muñoz rescues draw for a Liverpool team unable to shake last season's bad habits",
+      "description": "It's a new season for Liverpool, with a new manager, but Andoni Iraola's side are showing the same shortcomings that cost Arne Slot his job last term.",
+      "published": "2026-08-29T16:12:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49762884/victor-munoz-liverpool-nottingham-forest-bad-habits-andoni-iraola-arne-slot",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708482_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "USA"
       ],
       "players": [
-        "Pietra Tordin",
-        "Deyna Castellanos",
-        "Sophia Wilson",
-        "Jaedyn Shaw",
-        "Morgan Weaver",
+        "Víctor Muñoz",
         "Chris Richards"
       ],
-      "score": 113
+      "score": 129
     },
     {
       "id": "49742098",
@@ -242,7 +238,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 96
+      "score": 91
     },
     {
       "id": "49741495",
@@ -258,7 +254,7 @@
         "Saudi Arabia"
       ],
       "players": [],
-      "score": 88
+      "score": 83
     },
     {
       "id": "49466177",
@@ -286,7 +282,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 73
+      "score": 68
     },
     {
       "id": "49735503",
@@ -302,7 +298,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 42
+      "score": 37
     },
     {
       "id": "49681406",
@@ -567,7 +563,7 @@
         "Netherlands"
       ],
       "players": [],
-      "score": 12
+      "score": 10
     },
     {
       "id": "49720082",
