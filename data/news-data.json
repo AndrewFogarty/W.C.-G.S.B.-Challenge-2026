@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-08-29T18:44:50.842Z",
+  "updated": "2026-08-29T23:27:11.271Z",
   "counts": {
-    "news": 34,
+    "news": 31,
     "offfield": 11,
+    "preview": 4,
     "injury": 1,
-    "celebration": 1,
-    "preview": 1
+    "celebration": 1
   },
   "items": [
     {
@@ -26,7 +26,7 @@
       "players": [
         "Chris Richards"
       ],
-      "score": 172
+      "score": 165
     },
     {
       "id": "49750811",
@@ -40,7 +40,61 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 159
+      "score": 151
+    },
+    {
+      "id": "49659323",
+      "headline": "Aston Villa's Champions League draw: Paris Saint-Germain, Barcelona, Borussia Dortmund",
+      "description": "Aston Villa have been handed a tough draw in the league phase of the Champions League with a trip to Barcelona and a home clash against back-to-back winners Paris Saint-Germain.",
+      "published": "2026-08-29T21:11:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49659323/aston-villa-champions-league-draw-paris-saint-germain-barcelona-borussia-dortmund",
+      "image": "https://a.espncdn.com/photo/2026/0319/r1630909_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49659293",
+      "headline": "Man City's Champions League draw: PSG, Barcelona, Napoli, more",
+      "description": "Manchester City will host defending champions Paris Saint-Germain and travel to Spotify Camp Nou to face Barcelona during this year's Champions League league phase.",
+      "published": "2026-08-29T21:10:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49659293/man-city-champions-league-draw-psg-barcelona-napoli",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707612_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49659289",
+      "headline": "Arsenal's Champions League draw: Real Madrid, Bayern Munich, Borussia Dortmund, more",
+      "description": "Arsenal will begin their quest to go one step further in the UEFA Champions League with a difficult start to the league phase, hosting Real Madrid before a trip to face German champions Bayern Munich.",
+      "published": "2026-08-29T21:07:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49659289/real-madrid-bayern-munich-borussia-dortmund-more",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1705014_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 139
     },
     {
       "id": "49763383",
@@ -59,7 +113,7 @@
         "Daniel Muñoz",
         "Chris Richards"
       ],
-      "score": 143
+      "score": 136
     },
     {
       "id": "48955344",
@@ -77,7 +131,7 @@
       "players": [
         "Chris Richards"
       ],
-      "score": 143
+      "score": 136
     },
     {
       "id": "49759947",
@@ -96,7 +150,7 @@
         "Julián Álvarez",
         "Chris Richards"
       ],
-      "score": 141
+      "score": 134
     },
     {
       "id": "49732248",
@@ -112,7 +166,85 @@
         "USA"
       ],
       "players": [],
-      "score": 139
+      "score": 132
+    },
+    {
+      "id": "49659296",
+      "headline": "Man United's Champions League draw: Bayern Munich, Atlético Madrid, Roma",
+      "description": "Manchester United will host Bayern Munich and AS Roma in this year's Champions League league phase as they return to the competition for the first time in three years.",
+      "published": "2026-08-29T21:09:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49659296/bayern-munich-atletico-madrid-roma",
+      "image": "https://a.espncdn.com/photo/2026/0117/r1601718_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49765158",
+      "headline": "Tottenham's De Zerbi: Richarlison, Danso, Sarr have asked to leave",
+      "description": "Tottenham Hotspur coach Roberto De Zerbi said Richarlison, Kevin Danso and Pape Matar Sarr have asked to leave the club.",
+      "published": "2026-08-29T21:04:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49765158/tottenham-roberto-de-zerbi-richarlison-kevin-danso-pape-sarr",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708658_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Brazil",
+        "Senegal",
+        "Austria"
+      ],
+      "players": [
+        "Richarlison",
+        "Kevin Danso",
+        "Pape Matar Sarr",
+        "Mathew Ryan"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49765222",
+      "headline": "Spurs spent £380m this summer, but De Zerbi & Co. can't buy mentality",
+      "description": "After nearly being relegated last season, Tottenham spent big this summer. In a 2-0 loss to Newcastle on Saturday, they showed the same mental frailty.",
+      "published": "2026-08-29T20:29:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49765222/tottenham-hotspur-spent-380-million-transfers-summer-roberto-de-zerbi-cant-buy-mentality",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708661_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49765147",
+      "headline": "De Zerbi apologies to Spurs fans for 'environment' after successive league defeats",
+      "description": "De Zerbi apologies to Spurs fans for 'environment' after successive league defeats",
+      "published": "2026-08-29T20:16:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49765147/de-zerbi-apologies-spurs-fans-environment-successive-league-defeats",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_De_Zerbi_apologies_to_Spurs_fans_for_environment_after_successive_league_defeats/dm_260829_De_Zerbi_apologies_to_Spurs_fans_for_environment_after_successive_league_defeats.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 128
     },
     {
       "id": "49744909",
@@ -126,7 +258,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 134
+      "score": 127
     },
     {
       "id": "49733907",
@@ -144,7 +276,7 @@
       "players": [
         "Chris Richards"
       ],
-      "score": 133
+      "score": 126
     },
     {
       "id": "49763646",
@@ -162,7 +294,7 @@
       "players": [
         "Chris Richards"
       ],
-      "score": 132
+      "score": 125
     },
     {
       "id": "49763086",
@@ -180,7 +312,7 @@
       "players": [
         "Chris Richards"
       ],
-      "score": 131
+      "score": 124
     },
     {
       "id": "49763768",
@@ -205,7 +337,7 @@
         "Antony",
         "Chris Richards"
       ],
-      "score": 131
+      "score": 124
     },
     {
       "id": "49762884",
@@ -224,7 +356,7 @@
         "Víctor Muñoz",
         "Chris Richards"
       ],
-      "score": 129
+      "score": 122
     },
     {
       "id": "49742098",
@@ -238,7 +370,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 91
+      "score": 84
     },
     {
       "id": "49741495",
@@ -254,7 +386,7 @@
         "Saudi Arabia"
       ],
       "players": [],
-      "score": 83
+      "score": 76
     },
     {
       "id": "49466177",
@@ -282,7 +414,7 @@
         "Alessandro Circati",
         "Harry Souttar"
       ],
-      "score": 68
+      "score": 61
     },
     {
       "id": "49735503",
@@ -298,7 +430,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 37
+      "score": 30
     },
     {
       "id": "49681406",
@@ -724,113 +856,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49575753",
-      "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
-      "description": "Omar Artan -- the Somali World Cup referee refused entry to the United States -- has spoken about the \"very tough period\" during what should have been the highlight of his career.",
-      "published": "2026-08-10T17:30:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49575753/barred-somali-world-cup-ref-grateful-super-cup-shot",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670161_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49719477",
-      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
-      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
-      "published": "2026-08-25T10:22:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49669869",
-      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
-      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
-      "published": "2026-08-21T06:36:25Z",
-      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
-      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Achraf Hakimi",
-        "Victor Osimhen",
-        "Bryan Mbeumo",
-        "Mohamed Salah"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49650143",
-      "headline": "Premier League chief Masters: FIFA has hit 'self-destruct button'",
-      "description": "Premier League chief executive Richard Masters has accused embattled FIFA president Gianni Infantino of pressing the \"self-destruct button\" over failed plans to sell stakes in the World Cup.",
-      "published": "2026-08-18T17:44:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703471_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49642660",
-      "headline": "FIFA executive Kevin Lamour departs amid backlash over Infantino's World Cup sale plan",
-      "description": "FIFA chief operating officer Kevin Lamour has departed the soccer governing body in the wake of Gianni Infantino's collapsed World Cup sell-off plan.",
-      "published": "2026-08-18T00:05:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49642660/fifa-executive-kevin-lamour-departs-amid-backlash-infantino-world-cup-sale-plan",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703156_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49610097",
-      "headline": "Andrew Giuliani backs FIFA's Gianni Infantino, calls critics 'jealous'",
-      "description": "",
-      "published": "2026-08-14T15:11:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49610097/andrew-giuliani-backs-fifa-gianni-infantino-calls-critics-jealous",
-      "image": "https://a.espncdn.com/photo/2025/0506/r1489074_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49600669",
-      "headline": "Time limits, VAR, mistaken identity: Which World Cup rules has Premier League adopted?",
-      "description": "Which World Cup law changes will continue for the Premier League, and which ones have been rejected?",
-      "published": "2026-08-14T09:05:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701282_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
