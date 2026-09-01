@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-01T08:42:41.262Z",
+  "updated": "2026-09-01T13:42:43.504Z",
   "counts": {
-    "news": 32,
+    "news": 31,
+    "injury": 2,
     "offfield": 13,
-    "injury": 1,
     "celebration": 1,
     "preview": 1
   },
@@ -26,7 +26,7 @@
         "Lionel Messi",
         "Cristiano Ronaldo"
       ],
-      "score": 194
+      "score": 186
     },
     {
       "id": "49266819",
@@ -44,7 +44,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 182
+      "score": 175
     },
     {
       "id": "49784295",
@@ -62,7 +62,119 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 180
+      "score": 172
+    },
+    {
+      "id": "49793209",
+      "headline": "Scott McTominay ruled out of Scotland games due to minor heart surgery",
+      "description": "Scott McTominay is set to miss Scotland's upcoming Nations League fixtures as he undergoes corrective surgery for a minor heart issue.",
+      "published": "2026-09-01T13:21:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49793209/scott-mctominay-ruled-scotland-games-due-minor-heart-surgery",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709929_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "Scotland"
+      ],
+      "players": [
+        "Scott McTominay",
+        "Lionel Messi"
+      ],
+      "score": 146
+    },
+    {
+      "id": "49746632",
+      "headline": "Live transfer rumors, news, updates on deadline day",
+      "description": "We bring you the latest news, rumors, done deals and reaction throughout Europe's transfer deadline day, up to the Premier League window closing at 6 p.m. ET.",
+      "published": "2026-09-01T13:35:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49746632/live-transfer-window-rumors-news-updates-deadline-day-premier-league-laliga-bundesliga-serie-ligue-1",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709704_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49773859",
+      "headline": "Gabriel Jesus completes transfer to Barcelona from Arsenal",
+      "description": "Barcelona have completed the signing of Gabriel Jesus from Arsenal, the two clubs confirmed on Tuesday.",
+      "published": "2026-09-01T13:21:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49773859/gabriel-jesus-completes-transfer-barcelona-arsenal",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709931_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Gabriel Jesus",
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "48955344",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out as we head towards the end of the summer transfer window.",
+      "published": "2026-09-01T13:11:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709917_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49792982",
+      "headline": "Honest Ahanor joins Crystal Palace on loan, will join Chelsea in 2027",
+      "description": "Chelsea have agreed a deal to sign Atalanta defender Honest Ahanor, with the player set to move to Stamford Bridge in 2027.",
+      "published": "2026-09-01T12:57:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49792982/honest-ahanor-joins-crystal-palace-loan-join-chelsea-2027",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709917_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49792242",
+      "headline": "Crystal Palace swoop for Malick Fofana despite Sunderland talks - sources",
+      "description": "Crystal Palace have made a late move to hijack Sunderland's move for Lyon star Malick Fofana and are optimistic of securing his signature, sources have told ESPN.",
+      "published": "2026-09-01T12:19:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49792242/crystal-palace-swoop-malick-fofana-sunderland-talks-sources",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709886_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Malick Fofana",
+        "Lionel Messi"
+      ],
+      "score": 143
     },
     {
       "id": "49466177",
@@ -91,154 +203,34 @@
         "Harry Souttar",
         "Mohamed Toure"
       ],
-      "score": 150
+      "score": 143
     },
     {
-      "id": "49746632",
-      "headline": "Live transfer rumors, news, updates on deadline day",
-      "description": "We bring you the latest news, rumors, done deals and reaction throughout Europe's transfer deadline day, up to the Premier League window closing at 6 p.m. ET.",
-      "published": "2026-09-01T08:09:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49746632/live-transfer-window-rumors-news-updates-deadline-day-premier-league-laliga-bundesliga-serie-ligue-1",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709704_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49781590",
-      "headline": "Transfer Deadline Day: What will your Premier League club do?",
-      "description": "Here's the transfer activity expected at your Premier League on Deadline Day...",
-      "published": "2026-09-01T07:56:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49781590/transfer-deadline-day-your-premier-league-club-do",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709396_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 144
-    },
-    {
-      "id": "48955344",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out as we head towards the end of the summer transfer window.",
-      "published": "2026-09-01T06:51:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709442_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49790853",
-      "headline": "Africa's transfer deadline day - Ndiaye to Man City, Mbaye incoming, Osimhen to Man United?",
-      "description": "Tuesday is the final day of the window, but which African players could get their move over the line before business concludes on Sept. 1?",
-      "published": "2026-09-01T06:37:37Z",
-      "url": "https://www.espn.com/espn/story/_/id/49790853/africa-transfer-deadline-day-ndiaye-man-city-mbaye-incoming-osimhen-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708897_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Victor Osimhen",
-        "Iliman Ndiaye",
-        "Ibrahim Mbaye",
-        "Lionel Messi"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49791210",
-      "headline": "Yoane Wissa's Newcastle sequel is already looking better than the original",
-      "description": "Two matches into the 26-27 season, and Newcastle United's Yoane Wissa has already matched his Premier League goal tally for the entirety of last term.",
-      "published": "2026-09-01T08:30:42Z",
-      "url": "https://www.espn.com/espn/story/_/id/49791210/yoane-wissa-newcastle-sequel-already-looking-better-original",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1709866_1296x729_16-9.jpg",
+      "id": "49793023",
+      "headline": "Flick: I really love Gabriel Jesus, I was surprised we got him",
+      "description": "Flick: I really love Gabriel Jesus, I was surprised we got him",
+      "published": "2026-09-01T13:04:22Z",
+      "url": "https://www.espn.com/video/clip/_/id/49793023/really-love-gabriel-jesus-was-surprised-got-him",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Flick_I_really_love_Gabriel_Jesus_I_was_surprised_we_got_him/dm_260901_Flick_I_really_love_Gabriel_Jesus_I_was_surprised_we_got_him.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "DR Congo"
+        "Argentina"
       ],
       "players": [
-        "Yoane Wissa",
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 132
     },
     {
-      "id": "49787774",
-      "headline": "Flick 'surprised' perfect-fit Jesus set to join Barcelona",
-      "description": "Barcelona coach Hansi Flick said he was surprised to be able to sign Gabriel Jesus after the Spanish champions struck a deal with Arsenal worth an initial €10 million for the striker.",
-      "published": "2026-08-31T23:27:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49787774/flick-surprised-jesus-join-barcelona",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709734_1296x729_16-9.jpg",
+      "id": "49792291",
+      "headline": "Jose Mourinho's first Clásico on Real Madrid return set for Oct. 25",
+      "description": "Jose Mourinho's first Clásico against Barcelona since returning as Real Madrid coach will be played at Spotify Camp Nou at 9 p.m. local time on Sunday, Oct. 25.",
+      "published": "2026-09-01T13:02:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49792291/jose-mourinho-first-clasico-real-madrid-barcelona-return-set-oct-25",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709889_2_1296x729_16-9.jpg",
       "byline": "Sam Marsden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Gabriel Jesus",
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49789160",
-      "headline": "Boston Legacy FC vs. Angel City FC - Game Highlights",
-      "description": "Watch the Game Highlights from Boston Legacy FC vs. Angel City FC, 09/01/2026",
-      "published": "2026-09-01T02:09:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/49789160/boston-legacy-fc-vs-angel-city-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0901/89c91cac-9feb-444f-bc83-7b46e37af7cb/89c91cac-9feb-444f-bc83-7b46e37af7cb.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Aïssata Traoré",
-        "Sammy Smith",
-        "Ally Sentnor",
-        "Prisca Chilufya",
-        "Maiara Niehues",
-        "Sveindís Jónsdóttir",
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49788307",
-      "headline": "Arsenal remain undefeated in the Premier League",
-      "description": "The defending champions sneak past Aston Villa 1-0, thanks to a 59th-minute goal from Bukayo Saka.",
-      "published": "2026-08-31T23:57:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49788307/arsenal-remain-undefeated-premier-league",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_Soccer_HIGHLIGHT_2_Arsenal_remain_undefeated_in_the_Premier_League_20260901_AUS/dm_260831_Soccer_HIGHLIGHT_2_Arsenal_remain_undefeated_in_the_Premier_League_20260901_AUS.jpg",
-      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -247,7 +239,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 120
+      "score": 132
     },
     {
       "id": "47978642",
@@ -265,7 +257,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 91
+      "score": 84
     },
     {
       "id": "49768137",
@@ -283,7 +275,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 82
+      "score": 74
     },
     {
       "id": "49753414",
