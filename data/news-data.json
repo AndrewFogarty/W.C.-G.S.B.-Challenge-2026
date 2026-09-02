@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-02T09:29:56.200Z",
+  "updated": "2026-09-02T13:49:26.552Z",
   "counts": {
-    "offfield": 12,
-    "news": 32,
-    "injury": 2,
+    "offfield": 10,
+    "news": 35,
+    "injury": 1,
     "celebration": 1,
     "preview": 1
   },
@@ -36,7 +36,7 @@
         "Harry Souttar",
         "Mohamed Toure"
       ],
-      "score": 213
+      "score": 206
     },
     {
       "id": "49796943",
@@ -50,7 +50,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 180
+      "score": 173
     },
     {
       "id": "49793781",
@@ -68,38 +68,110 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 165
+      "score": 158
     },
     {
-      "id": "49795948",
-      "headline": "Reports: Balogun walks away from move to Everton from Monaco",
-      "description": "Folarin Balogun pulled out of a move to Everton from AS Monaco after an on-again, off-again day ended without the United States striker making a transfer to the Premier League, according to multiple reports.",
-      "published": "2026-09-02T03:22:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49795948/everton-need-extension-folarin-balogun-deal",
-      "image": "https://a.espncdn.com/photo/2026/0217/r1616394_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49800789",
+      "headline": "Transfer rumors, news: Wrexham keen on free-agent Vardy",
+      "description": "Wrexham have made an approach to sign former Leicester City striker Jamie Vardy on a free transfer. Transfer Talk has the latest.",
+      "published": "2026-09-02T12:53:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49800789/transfer-rumors-news-wrexham-keen-free-agent-ex-leicester-jamie-vardy",
+      "image": "https://a.espncdn.com/photo/2026/0507/r1654777_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Australia",
-        "USA"
+        "Australia"
+      ],
+      "players": [
+        "Jamie Vardy",
+        "Patrick Beach"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49801809",
+      "headline": "Premier League sets new record for transfer spending",
+      "description": "The Premier League set a new record for transfer spending as the window closed with a flurry of deals.",
+      "published": "2026-09-02T11:49:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49801809/premier-league-transfers-record-spend",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710316_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49801705",
+      "headline": "Erik Lira's move to Monaco falls through due to Folarin Balogun's failed move to Everton",
+      "description": "Erik Lira's move to AS Monaco from Cruz Azul collapsed on the 11th hour after the French club failed to free up a non-EU spot to register the Mexican midfielder.",
+      "published": "2026-09-02T10:24:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49801705/erik-lira-move-monaco-falls-due-folarin-balogun-failed-move-everton",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710315_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
       ],
       "players": [
         "Folarin Balogun",
         "Patrick Beach"
       ],
-      "score": 138
+      "score": 140
     },
     {
-      "id": "49531065",
-      "headline": "USMNT summer transfers: Grading major American players' signings",
-      "description": "The 2026 summer transfer window is well underway, with several U.S. players finding new homes. ESPN sets out to grade the biggest deals.",
-      "published": "2026-09-02T04:03:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49531065/usmnt-summer-transfers-grading-major-american-players-signings",
-      "image": "https://a.espncdn.com/photo/2025/0203/r1446995_1296x729_16-9.jpg",
-      "byline": "Ryan Rosenblatt",
+      "id": "49801733",
+      "headline": "Nicol: Spurs have had the worst transfer window",
+      "description": "Nicol: Spurs have had the worst transfer window",
+      "published": "2026-09-02T10:20:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/49801733/spurs-had-worst-transfer-window",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Spurs_have_had_the_worst_transfer_window/dm_260902_Nicol_Spurs_have_had_the_worst_transfer_window.jpg",
+      "byline": null,
       "kind": "offfield",
       "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49803024",
+      "headline": "Nicol: Liverpool won't finish in the finish top four",
+      "description": "Nicol: Liverpool won't finish in the finish top four",
+      "published": "2026-09-02T13:16:03Z",
+      "url": "https://www.espn.com/video/clip/_/id/49803024/liverpool-finish-finish-top-four",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49795119",
+      "headline": "U.S. MLS teams to make full return to Open Cup in 2027",
+      "description": "All 27 United States-based MLS teams will compete in the 2027 edition of the U.S. Open Cup for the first time since 2023.",
+      "published": "2026-09-02T12:02:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49795119/us-mls-teams-make-full-return-open-cup-2027",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1710028_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia",
         "USA"
@@ -107,101 +179,46 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 137
+      "score": 130
     },
     {
-      "id": "48990955",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window has closed. Here is how we rated the biggest deals.",
-      "published": "2026-09-02T02:58:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709704_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49801732",
+      "headline": "Real Madrid's Raúl Asencio convicted of drink driving",
+      "description": "Real Madrid footballer Raúl Asencio has been convicted of a traffic offense for driving under the influence of alcohol.",
+      "published": "2026-09-02T11:42:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49801732/real-madrid-raul-asencio-convicted-drink-driving",
+      "image": "https://a.espncdn.com/photo/2025/0211/r1450424_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia and Rodra",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia"
       ],
       "players": [
+        "Raúl Asencio",
         "Patrick Beach"
       ],
-      "score": 135
+      "score": 130
     },
     {
-      "id": "48955344",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "With the summer transfer window having finally slammed shut, here's every Premier League in and out.",
-      "published": "2026-09-01T23:05:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1709917_1296x729_16-9.jpg",
+      "id": "49801194",
+      "headline": "Ollie Watkins scores on Al Hilal debut, says Saudi Arabia is 'Premier League quality'",
+      "description": "Ollie Watkins marked his Al Hilal debut with a goal in the 3-0 win over Al Ahli in the Saudi Pro League.",
+      "published": "2026-09-02T10:50:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49801194/ollie-watkins-scores-al-hilal-debut-eyes-opened-club-win-man-city",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710298_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49746632",
-      "headline": "Transfer deadline day recap: Everton hopeful on Balogun deal, Enzo signs for Man City",
-      "description": "We recap the latest news, rumors, done deals and reaction throughout Europe's transfer deadline day, up to the Premier League window closing at 6 p.m. ET.",
-      "published": "2026-09-01T23:03:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49746632/live-transfer-window-rumors-news-updates-deadline-day-premier-league-laliga-bundesliga-serie-ligue-1",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1710167_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49794375",
-      "headline": "Man City sign Enzo Fernández from Chelsea for joint-record fee",
-      "description": "Manchester City have signed Argentine World Cup winner Enzo Fernández from Chelsea for a Premier League record-equaling £125 million ($169m) fee.",
-      "published": "2026-09-01T22:43:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49794375/man-city-agree-record-equalling-125m-deal-chelsea-enzo-fernandez-sources",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1709997_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia",
-        "Argentina"
+        "Saudi Arabia"
       ],
       "players": [
-        "Enzo Fernández",
+        "Ollie Watkins",
         "Patrick Beach"
       ],
       "score": 129
-    },
-    {
-      "id": "49792150",
-      "headline": "Chelsea fume after Monaco's Lamine Camara U-turn - sources",
-      "description": "Chelsea have agreed a €55 million ($64m / £47m deal) with AS Monaco for midfielder Lamine Camara, sources have told ESPN.",
-      "published": "2026-09-01T22:29:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49792150/chelsea-make-lamine-camara-offer-amid-enzo-fernandez-talks-sources",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1709884_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "Senegal"
-      ],
-      "players": [
-        "Lamine Camara",
-        "Patrick Beach"
-      ],
-      "score": 128
     },
     {
       "id": "49784066",
@@ -220,7 +237,7 @@
         "Lionel Messi",
         "Cristiano Ronaldo"
       ],
-      "score": 126
+      "score": 120
     },
     {
       "id": "49266819",
@@ -238,7 +255,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 115
+      "score": 109
     },
     {
       "id": "49784295",
@@ -256,7 +273,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 113
+      "score": 106
     },
     {
       "id": "47978642",
@@ -274,25 +291,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 34
-    },
-    {
-      "id": "49768137",
-      "headline": "Lionel Messi's 4-goal performance leads Inter Miami to big win",
-      "description": "Lionel Messi's 4-goal performance leads Inter Miami to big win",
-      "published": "2026-08-30T02:32:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/49768137/lionel-messi-4-goal-performance-leads-inter-miami-big-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/ss_20260829_214626533_3641024/ss_20260829_214626533_3641024.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 25
+      "score": 33
     },
     {
       "id": "49681406",
@@ -352,6 +351,24 @@
         "Ferran Torres"
       ],
       "score": 25
+    },
+    {
+      "id": "49768137",
+      "headline": "Lionel Messi's 4-goal performance leads Inter Miami to big win",
+      "description": "Lionel Messi's 4-goal performance leads Inter Miami to big win",
+      "published": "2026-08-30T02:32:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/49768137/lionel-messi-4-goal-performance-leads-inter-miami-big-win",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/ss_20260829_214626533_3641024/ss_20260829_214626533_3641024.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 23
     },
     {
       "id": "49704497",
@@ -821,20 +838,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49742098/uefa-prepares-criminal-complaint-fifa-boss-gianni-infantino-world-cup-selloff",
       "image": "https://a.espncdn.com/photo/2023/1221/r1269161_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "49650143",
-      "headline": "Premier League chief Masters: FIFA has hit 'self-destruct button'",
-      "description": "Premier League chief executive Richard Masters has accused embattled FIFA president Gianni Infantino of pressing the \"self-destruct button\" over failed plans to sell stakes in the World Cup.",
-      "published": "2026-08-18T17:44:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703471_1296x729_16-9.jpg",
-      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
