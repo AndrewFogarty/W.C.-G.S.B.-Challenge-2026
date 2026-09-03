@@ -1,9 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-02T22:34:39.723Z",
+  "updated": "2026-09-03T00:37:21.249Z",
   "counts": {
-    "offfield": 11,
-    "news": 34,
+    "offfield": 13,
+    "news": 32,
     "injury": 1,
     "celebration": 1,
     "preview": 1
@@ -36,7 +36,7 @@
         "Harry Souttar",
         "Mohamed Toure"
       ],
-      "score": 193
+      "score": 190
     },
     {
       "id": "49796943",
@@ -50,7 +50,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 160
+      "score": 157
     },
     {
       "id": "49793781",
@@ -68,7 +68,47 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 145
+      "score": 142
+    },
+    {
+      "id": "49807254",
+      "headline": "Man United sign Mexico's Rebeca Bernal from Washington Spirit",
+      "description": "Manchester United completed the signing of Mexico international Rebeca Bernal from the Washington Spirit on Wednesday.",
+      "published": "2026-09-02T22:12:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49807254/man-united-transfer-mexico-rebeca-bernal-washington-spirit",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710614_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "Mexico"
+      ],
+      "players": [
+        "Rebeca Bernal",
+        "Paul Okon-Engstler"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49806229",
+      "headline": "Enzo Fernández: Dream to be at club as 'big' as Man City",
+      "description": "Enzo Fernández said he had always dreamed of playing for \"a club as big as Manchester City\" in his first interview since completing his big-money transfer from Chelsea.",
+      "published": "2026-09-02T20:29:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49806229/enzo-fernandez-manchester-city-transfer-chelsea-big-club",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710567_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia",
+        "Argentina"
+      ],
+      "players": [
+        "Enzo Fernández",
+        "Paul Okon-Engstler"
+      ],
+      "score": 139
     },
     {
       "id": "49531065",
@@ -87,7 +127,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 141
+      "score": 138
     },
     {
       "id": "49805093",
@@ -106,7 +146,7 @@
         "Riquelme",
         "Patrick Beach"
       ],
-      "score": 140
+      "score": 137
     },
     {
       "id": "49805134",
@@ -127,7 +167,7 @@
         "Dani Olmo",
         "Patrick Beach"
       ],
-      "score": 138
+      "score": 135
     },
     {
       "id": "49803814",
@@ -148,7 +188,7 @@
         "Folarin Balogun",
         "Patrick Beach"
       ],
-      "score": 136
+      "score": 133
     },
     {
       "id": "49800789",
@@ -167,7 +207,98 @@
         "Jamie Vardy",
         "Patrick Beach"
       ],
-      "score": 134
+      "score": 131
+    },
+    {
+      "id": "49767241",
+      "headline": "Wrexham thrash Millwall for 1st win of season",
+      "description": "Wrexham got their first win of the Championship season in style as Millwall were swept aside 3-0 at the New Den.",
+      "published": "2026-09-02T22:23:52Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401880295",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710575_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Paul Okon-Engstler"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49807377",
+      "headline": "Why Folarin Balogun's Everton move broke down",
+      "description": "Why Folarin Balogun's Everton move broke down",
+      "published": "2026-09-02T22:20:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49807377/why-folarin-balogun-everton-move-broke-down",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Why_Folarin_Baloguns_Everton_movebroke_down_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Why_Folarin_Baloguns_Everton_movebroke_down_2026_9_2.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Paul Okon-Engstler"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49807316",
+      "headline": "Hislop: I feel no sympathy for Chelsea over Camara breakdown",
+      "description": "Hislop: I feel no sympathy for Chelsea over Camara breakdown",
+      "published": "2026-09-02T22:12:01Z",
+      "url": "https://www.espn.com/video/clip/_/id/49807316/feel-no-sympathy-chelsea-camara-breakdown",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Hislop_I_feel_no_sympathy_for_Chelsea_over_Camara_breakdown_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Hislop_I_feel_no_sympathy_for_Chelsea_over_Camara_breakdown_2026_9_2.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Paul Okon-Engstler"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49807263",
+      "headline": "Will Enzo Fernandez live up to his £125m fee?",
+      "description": "Will Enzo Fernandez live up to his £125m fee?",
+      "published": "2026-09-02T22:05:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49807263/will-enzo-fernandez-live-125m-fee",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Will_Enzo_Fernandez_live_up_to_his_125m_fee_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Will_Enzo_Fernandez_live_up_to_his_125m_fee_2026_9_2.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Paul Okon-Engstler"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49767240",
+      "headline": "Kane double helps Bayern overcome early scare in German Cup",
+      "description": "Bundesliga champions Bayern Munich avoided a major upset in the defence of their DFB-Pokal title after coming from behind to beat second-tier Osnabruck 4-1.",
+      "published": "2026-09-02T21:08:26Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401875174",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710590_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Harry Kane",
+        "Paul Okon-Engstler"
+      ],
+      "score": 128
     },
     {
       "id": "49767256",
@@ -185,7 +316,7 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 128
+      "score": 125
     },
     {
       "id": "49804591",
@@ -205,7 +336,7 @@
         "Lionel Messi",
         "Patrick Beach"
       ],
-      "score": 128
+      "score": 125
     },
     {
       "id": "49803024",
@@ -222,25 +353,6 @@
       ],
       "players": [
         "Patrick Beach"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49795119",
-      "headline": "U.S. MLS teams to make full return to Open Cup in 2027",
-      "description": "All 27 United States-based MLS teams will compete in the 2027 edition of the U.S. Open Cup for the first time since 2023.",
-      "published": "2026-09-02T12:02:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49795119/us-mls-teams-make-full-return-open-cup-2027",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1710028_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "USA"
-      ],
-      "players": [
-        "Paul Okon-Engstler"
       ],
       "score": 117
     },
@@ -261,7 +373,7 @@
         "Lionel Messi",
         "Cristiano Ronaldo"
       ],
-      "score": 107
+      "score": 104
     },
     {
       "id": "49266819",
@@ -279,7 +391,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 96
+      "score": 92
     },
     {
       "id": "49784295",
@@ -297,7 +409,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "47978642",
@@ -756,103 +868,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49585269",
-      "headline": "Chris Turner roasts the USMNT's World Cup performance in a freestyle rap",
-      "description": "Chris Turner roasts the USMNT's World Cup performance in a freestyle rap",
-      "published": "2026-08-11T21:15:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49585269/chris-turner-roasts-usmnt-world-cup-performance-freestyle-rap",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_Chris_Turner_roasts_the_USMNTs_World_Cup_performance_in_a_freestyle_rap/dm_260811_Chris_Turner_roasts_the_USMNTs_World_Cup_performance_in_a_freestyle_rap.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49582283",
-      "headline": "Forlán: If Suárez is available for selection, why not?",
-      "description": "Forlán: If Suárez is available for selection, why not?",
-      "published": "2026-08-11T13:55:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49582283/suarez-available-selection-why-not",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_COM_SOC_Analysis_ForlC3A1n3A_If_SuC3A1rez_is_available_for_selection2C_why_not3F__GLOBAL_2026-08-11/dm_260811_COM_SOC_Analysis_ForlC3A1n3A_If_SuC3A1rez_is_available_for_selection2C_why_not3F__GLOBAL_2026-08-11.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49575753",
-      "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
-      "description": "Omar Artan -- the Somali World Cup referee refused entry to the United States -- has spoken about the \"very tough period\" during what should have been the highlight of his career.",
-      "published": "2026-08-10T17:30:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49575753/barred-somali-world-cup-ref-grateful-super-cup-shot",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670161_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49719477",
-      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
-      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
-      "published": "2026-08-25T10:22:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49669869",
-      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
-      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
-      "published": "2026-08-21T06:36:25Z",
-      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
-      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Achraf Hakimi",
-        "Victor Osimhen",
-        "Bryan Mbeumo",
-        "Mohamed Salah"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49744909",
-      "headline": "Champions League draw becomes UEFA's latest stand against FIFA president Infantino",
-      "description": "Thursday saw the UEFA Champions League draw take place in Monaco, but the big news beyond the pots involved Europe taking their battle with FIFA president Gianni Infantino into criminal court.",
-      "published": "2026-08-28T08:19:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49744909/uefa-fifa-world-cup-champions-league-gianni-infantino-lawsuits-gab-marcotti",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707747_1296x729_16-9.jpg",
-      "byline": "Gabriele Marcotti",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
