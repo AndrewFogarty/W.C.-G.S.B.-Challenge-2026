@@ -1,9 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-03T00:37:21.249Z",
+  "updated": "2026-09-03T05:03:30.178Z",
   "counts": {
-    "offfield": 13,
-    "news": 32,
+    "offfield": 9,
+    "news": 36,
     "injury": 1,
     "celebration": 1,
     "preview": 1
@@ -36,7 +36,7 @@
         "Harry Souttar",
         "Mohamed Toure"
       ],
-      "score": 190
+      "score": 183
     },
     {
       "id": "49796943",
@@ -50,7 +50,67 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 157
+      "score": 150
+    },
+    {
+      "id": "49800789",
+      "headline": "Transfer rumors, news: Could Maguire depart Man United next season?",
+      "description": "Several Manchester United defenders could reportedly depart next season. Transfer Talk has the latest.",
+      "published": "2026-09-03T02:03:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49800789/transfer-rumors-news-wrexham-keen-free-agent-ex-leicester-jamie-vardy",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710637_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Harry Maguire",
+        "Luke Shaw",
+        "Lisandro Martínez",
+        "Matthijs de Ligt",
+        "Patrick Beach"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49808396",
+      "headline": "Source: Matías Galarza joins Inter Miami from River Plate",
+      "description": "Matías Galarza is joining Inter Miami CF from Argentinian side River Plate, a source told ESPN.",
+      "published": "2026-09-03T01:02:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49808396/matias-galarza-joins-inter-miami-river-plate",
+      "image": "https://a.espncdn.com/photo/2026/0903/r1710661_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Matías Galarza",
+        "Patrick Beach"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49807577",
+      "headline": "Man United loan teen striker Chido Obi to Dutch side Willem II",
+      "description": "Manchester United striker Chido Obi has joined Dutch side Willem II on a season-long loan deal",
+      "published": "2026-09-02T22:45:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49807577/man-united-chido-obi-loan-willem-ii",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710630_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Chido Obi",
+        "Patrick Beach"
+      ],
+      "score": 136
     },
     {
       "id": "49793781",
@@ -68,58 +128,61 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 142
+      "score": 135
     },
     {
-      "id": "49807254",
-      "headline": "Man United sign Mexico's Rebeca Bernal from Washington Spirit",
-      "description": "Manchester United completed the signing of Mexico international Rebeca Bernal from the Washington Spirit on Wednesday.",
-      "published": "2026-09-02T22:12:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49807254/man-united-transfer-mexico-rebeca-bernal-washington-spirit",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710614_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49809826",
+      "headline": "Toluca vs. León - Game Highlights",
+      "description": "Watch the Game Highlights from Toluca vs. León, 09/02/2026",
+      "published": "2026-09-03T03:56:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49809826/toluca-vs-leon-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0903/428eb0bc-94d1-40b2-a89f-6a43c0b3fa2b/428eb0bc-94d1-40b2-a89f-6a43c0b3fa2b.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Australia",
-        "Mexico"
+        "Australia"
       ],
       "players": [
-        "Rebeca Bernal",
-        "Paul Okon-Engstler"
+        "Federico Pereira",
+        "Daniel Arcila",
+        "Federico Viñas",
+        "Jhohan Romaña",
+        "Bruno Méndez",
+        "Patrick Beach"
       ],
-      "score": 141
+      "score": 131
     },
     {
-      "id": "49806229",
-      "headline": "Enzo Fernández: Dream to be at club as 'big' as Man City",
-      "description": "Enzo Fernández said he had always dreamed of playing for \"a club as big as Manchester City\" in his first interview since completing his big-money transfer from Chelsea.",
-      "published": "2026-09-02T20:29:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49806229/enzo-fernandez-manchester-city-transfer-chelsea-big-club",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710567_1296x729_16-9.jpg",
+      "id": "49809278",
+      "headline": "Argentina pausing all games in minute 10 for Messi tribute",
+      "description": "The Argentine Football Association (AFA) will honor Lionel Messi this weekend by pausing all domestic matches in the 10th minute for a minute of applause, following his retirement from the national team.",
+      "published": "2026-09-03T02:27:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49809278/argentina-pausing-all-league-games-lionel-messi-tribute",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709634_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia",
         "Argentina"
       ],
       "players": [
-        "Enzo Fernández",
-        "Paul Okon-Engstler"
+        "Lionel Messi",
+        "Patrick Beach"
       ],
-      "score": 139
+      "score": 129
     },
     {
-      "id": "49531065",
-      "headline": "USMNT summer transfers: Grading major American players' signings",
-      "description": "The 2026 summer transfer window is well underway, with several U.S. players finding new homes. ESPN sets out to grade the biggest deals.",
-      "published": "2026-09-02T19:40:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49531065/usmnt-summer-transfers-grading-major-american-players-signings",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710543_1296x729_16-9.jpg",
-      "byline": "Ryan Rosenblatt",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49809038",
+      "headline": "Aidan Morris scores a goal as USMNT friendlies approach",
+      "description": "Jeff Carlisle breaks down USMNT's Aidan Morris' goal in the English Championship.",
+      "published": "2026-09-03T01:39:26Z",
+      "url": "https://www.espn.com/video/clip/_/id/49809038/aidan-morris-scores-goal-usmnt-friendlies-approach",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_USMNT_Morris_IA/dm_260902_USMNT_Morris_IA.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia",
         "USA"
@@ -127,105 +190,27 @@
       "players": [
         "Patrick Beach"
       ],
-      "score": 138
+      "score": 128
     },
     {
-      "id": "49805093",
-      "headline": "Inter Miami signs Riquelme from Palmeiras through 2030",
-      "description": "Inter Miami has signed Riquelme Fillipi from Brazilian team Palmeiras through the conclusion of the 2029-30 MLS season, with an extension option for the 2030-31 season.",
-      "published": "2026-09-02T19:18:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49805093/inter-miami-signs-riquelme-palmeiras-2030",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710451_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Riquelme",
-        "Patrick Beach"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49805134",
-      "headline": "Barcelona's Olmo: Don't understand Atlético stance on Álvarez",
-      "description": "Barcelona's Dani Olmo says he doesn't understand Atlético Madrid's refusal to negotiate a deal for Julián Álvarez with the Spanish champions.",
-      "published": "2026-09-02T17:42:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49805134/barcelona-julian-alvarez-transfer-atletico-madrid-dani-olmo",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710494_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "Argentina"
-      ],
-      "players": [
-        "Julián Álvarez",
-        "Dani Olmo",
-        "Patrick Beach"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49803814",
-      "headline": "Monaco CEO still looking for Folarin Balogun transfer after failed Everton move",
-      "description": "Folarin Balogun could be forced to consider a move to a Turkey or Saudi Pro League club this week after Monaco said they are still looking to offload the contract of the USMNT forward following the collapse of his $45 million transfer to Everton.",
-      "published": "2026-09-02T16:48:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49803814/monaco-ceo-looking-folarin-balogun-transfer-failed-everton-move",
-      "image": "https://a.espncdn.com/photo/2026/0304/r1622848_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "USA",
-        "Turkey"
-      ],
-      "players": [
-        "Folarin Balogun",
-        "Patrick Beach"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49800789",
-      "headline": "Transfer rumors, news: Wrexham keen on free-agent Vardy",
-      "description": "Wrexham have made an approach to sign former Leicester City striker Jamie Vardy on a free transfer. Transfer Talk has the latest.",
-      "published": "2026-09-02T15:00:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49800789/transfer-rumors-news-wrexham-keen-free-agent-ex-leicester-jamie-vardy",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654777_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Jamie Vardy",
-        "Patrick Beach"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49767241",
-      "headline": "Wrexham thrash Millwall for 1st win of season",
-      "description": "Wrexham got their first win of the Championship season in style as Millwall were swept aside 3-0 at the New Den.",
-      "published": "2026-09-02T22:23:52Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401880295",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710575_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49807756",
+      "headline": "Bayern boss Kompany won't 'pressure' Musiala after collapses",
+      "description": "Bayern Munich coach Vincent Kompany said Wednesday that Jamal Musiala could be available to play soon, but added he wouldn't pressure the Germany star to return to the field until he was ready.",
+      "published": "2026-09-02T23:49:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49807756/bayern-boss-kompany-pressure-musiala-collapses",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710639_1024x576_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Australia",
+        "Germany"
       ],
       "players": [
-        "Paul Okon-Engstler"
+        "Jamal Musiala",
+        "Patrick Beach"
       ],
-      "score": 130
+      "score": 125
     },
     {
       "id": "49807377",
@@ -241,120 +226,9 @@
         "Australia"
       ],
       "players": [
-        "Paul Okon-Engstler"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49807316",
-      "headline": "Hislop: I feel no sympathy for Chelsea over Camara breakdown",
-      "description": "Hislop: I feel no sympathy for Chelsea over Camara breakdown",
-      "published": "2026-09-02T22:12:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/49807316/feel-no-sympathy-chelsea-camara-breakdown",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Hislop_I_feel_no_sympathy_for_Chelsea_over_Camara_breakdown_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Hislop_I_feel_no_sympathy_for_Chelsea_over_Camara_breakdown_2026_9_2.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Paul Okon-Engstler"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49807263",
-      "headline": "Will Enzo Fernandez live up to his £125m fee?",
-      "description": "Will Enzo Fernandez live up to his £125m fee?",
-      "published": "2026-09-02T22:05:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/49807263/will-enzo-fernandez-live-125m-fee",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Will_Enzo_Fernandez_live_up_to_his_125m_fee_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Will_Enzo_Fernandez_live_up_to_his_125m_fee_2026_9_2.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Paul Okon-Engstler"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49767240",
-      "headline": "Kane double helps Bayern overcome early scare in German Cup",
-      "description": "Bundesliga champions Bayern Munich avoided a major upset in the defence of their DFB-Pokal title after coming from behind to beat second-tier Osnabruck 4-1.",
-      "published": "2026-09-02T21:08:26Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401875174",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710590_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Harry Kane",
-        "Paul Okon-Engstler"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49767256",
-      "headline": "Chelsea cruise past Real Sociedad to clinch place in UWCL",
-      "description": "Chelsea booked their spot in the Champions League league phase after a 1-0 win over Real Sociedad in the second leg of their third qualifying round tie.",
-      "published": "2026-09-02T19:13:19Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401909077",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710535_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
         "Patrick Beach"
       ],
-      "score": 125
-    },
-    {
-      "id": "49804591",
-      "headline": "Messi wasn't always the international GOAT, but his perseverance for Argentina paid off",
-      "description": "Lionel Messi's career with Argentina was ultimately a successful one, but it also became a career full of adversity which only strengthens his legacy.",
-      "published": "2026-09-02T19:09:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49804591/lionel-messi-always-international-goat-perseverance-argentina-paid-off",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710483_1296x729_16-9.jpg",
-      "byline": "Tim Vickery",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Patrick Beach"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49803024",
-      "headline": "Nicol: Liverpool won't finish in the top four",
-      "description": "Nicol: Liverpool won't finish in the top four",
-      "published": "2026-09-02T14:05:57Z",
-      "url": "https://www.espn.com/video/clip/_/id/49803024/liverpool-finish-top-four",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 117
+      "score": 123
     },
     {
       "id": "49784066",
@@ -373,7 +247,7 @@
         "Lionel Messi",
         "Cristiano Ronaldo"
       ],
-      "score": 104
+      "score": 97
     },
     {
       "id": "49266819",
@@ -391,7 +265,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 92
+      "score": 86
     },
     {
       "id": "49784295",
@@ -409,7 +283,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 90
+      "score": 83
     },
     {
       "id": "47978642",
@@ -868,6 +742,117 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "49585269",
+      "headline": "Chris Turner roasts the USMNT's World Cup performance in a freestyle rap",
+      "description": "Chris Turner roasts the USMNT's World Cup performance in a freestyle rap",
+      "published": "2026-08-11T21:15:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/49585269/chris-turner-roasts-usmnt-world-cup-performance-freestyle-rap",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_Chris_Turner_roasts_the_USMNTs_World_Cup_performance_in_a_freestyle_rap/dm_260811_Chris_Turner_roasts_the_USMNTs_World_Cup_performance_in_a_freestyle_rap.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49582283",
+      "headline": "Forlán: If Suárez is available for selection, why not?",
+      "description": "Forlán: If Suárez is available for selection, why not?",
+      "published": "2026-08-11T13:55:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/49582283/suarez-available-selection-why-not",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_COM_SOC_Analysis_ForlC3A1n3A_If_SuC3A1rez_is_available_for_selection2C_why_not3F__GLOBAL_2026-08-11/dm_260811_COM_SOC_Analysis_ForlC3A1n3A_If_SuC3A1rez_is_available_for_selection2C_why_not3F__GLOBAL_2026-08-11.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49575753",
+      "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
+      "description": "Omar Artan -- the Somali World Cup referee refused entry to the United States -- has spoken about the \"very tough period\" during what should have been the highlight of his career.",
+      "published": "2026-08-10T17:30:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49575753/barred-somali-world-cup-ref-grateful-super-cup-shot",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670161_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49719477",
+      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
+      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
+      "published": "2026-08-25T10:22:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 9
+    },
+    {
+      "id": "49669869",
+      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
+      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
+      "published": "2026-08-21T06:36:25Z",
+      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
+      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Achraf Hakimi",
+        "Victor Osimhen",
+        "Bryan Mbeumo",
+        "Mohamed Salah"
+      ],
+      "score": 9
+    },
+    {
+      "id": "49744909",
+      "headline": "Champions League draw becomes UEFA's latest stand against FIFA president Infantino",
+      "description": "Thursday saw the UEFA Champions League draw take place in Monaco, but the big news beyond the pots involved Europe taking their battle with FIFA president Gianni Infantino into criminal court.",
+      "published": "2026-08-28T08:19:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49744909/uefa-fifa-world-cup-champions-league-gianni-infantino-lawsuits-gab-marcotti",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707747_1296x729_16-9.jpg",
+      "byline": "Gabriele Marcotti",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49742098",
+      "headline": "Sources: UEFA prepares criminal complaint against FIFA's Infantino over World Cup sell-off",
+      "description": "UEFA is preparing a criminal complaint against FIFA president Gianni Infantino in Swiss courts for possible financial mismanagement over his failed plan to sell future World Cup profits to private investors.",
+      "published": "2026-08-27T17:04:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49742098/uefa-prepares-criminal-complaint-fifa-boss-gianni-infantino-world-cup-selloff",
+      "image": "https://a.espncdn.com/photo/2023/1221/r1269161_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
