@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-04T00:21:09.107Z",
+  "updated": "2026-09-04T04:49:16.720Z",
   "counts": {
-    "news": 28,
-    "injury": 3,
-    "offfield": 14,
-    "preview": 2,
-    "celebration": 1
+    "news": 36,
+    "injury": 2,
+    "offfield": 8,
+    "celebration": 1,
+    "preview": 1
   },
   "items": [
     {
@@ -21,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 204
+      "score": 197
     },
     {
       "id": "49818474",
@@ -38,9 +38,9 @@
       ],
       "players": [
         "Federico Chiesa",
-        "Nestory Irankunda"
+        "Patrick Beach"
       ],
-      "score": 145
+      "score": 139
     },
     {
       "id": "49466177",
@@ -69,7 +69,7 @@
         "Harry Souttar",
         "Mohamed Toure"
       ],
-      "score": 144
+      "score": 138
     },
     {
       "id": "49811226",
@@ -86,9 +86,9 @@
       ],
       "players": [
         "Lamine Camara",
-        "Nestory Irankunda"
+        "Patrick Beach"
       ],
-      "score": 141
+      "score": 135
     },
     {
       "id": "49813741",
@@ -106,162 +106,63 @@
       ],
       "players": [
         "Élisa De Almeida",
-        "Nestory Irankunda"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49817954",
-      "headline": "Man City loan England keeper Anna Moorhouse from Orlando Pride",
-      "description": "Manchester City have signed England international goalkeeper Anna Moorhouse on a short-term loan until the end of January 2027 from NWSL side Orlando Pride.",
-      "published": "2026-09-03T21:22:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49817954/man-city-loan-england-goalkeeper-anna-moorhouse-orlando-pride",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711073_1296x729_16-9.jpg",
-      "byline": "Emily Keogh",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "England"
-      ],
-      "players": [
-        "Anna Moorhouse",
-        "Nestory Irankunda"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49816199",
-      "headline": "Weekend predictions: Arsenal take on Chelsea in a London derby, can PSG bounce back?",
-      "description": "Arsenal host Chelsea in a heavyweight clash this early in the Premier League, while teams such as PSG and Napoli are on the ropes in their respective title races.",
-      "published": "2026-09-03T22:20:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49816199/weekend-predictions-arsenal-take-chelsea-london-derby-paris-saint-germain-bounce-back",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710963_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Nestory Irankunda"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49815813",
-      "headline": "Tottenham leave Richarlison out of Premier League squad amid exit talk",
-      "description": "Tottenham Hotspur have left Richarlison out of their Premier League squad for the 2026-27 season.",
-      "published": "2026-09-03T17:13:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49815813/tottenham-leave-richarlison-premier-league-squad-amid-exit-talk",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710954_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Richarlison",
-        "Patrick Beach"
-      ],
-      "score": 136
-    },
-    {
-      "id": "49816239",
-      "headline": "USWNT great Becky Sauerbrunn named Portland Thorns consultant",
-      "description": "Two-time World Cup champion Becky Sauerbrunn has joined the Portland Thorns as a technical consultant through the rest of the 2026 NWSL season, the club announced on Thursday.",
-      "published": "2026-09-03T17:48:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49816239/usa-becky-sauerbrunn-portland-thorns-consultant-nwsl",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710971_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "USA"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49808396",
-      "headline": "Matías Galarza joins Inter Miami from River Plate",
-      "description": "Matías Galarza has joined Inter Miami CF from Argentinian side River Plate.",
-      "published": "2026-09-03T17:27:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49808396/matias-galarza-joins-inter-miami-river-plate",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710661_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Matías Galarza",
-        "Patrick Beach"
-      ],
-      "score": 135
-    },
-    {
-      "id": "49720317",
-      "headline": "Gabriel Martinelli leaves Arsenal for Al Hilal in £60m transfer",
-      "description": "Al Hilal have completed the signing of Brazil international Gabriel Martinelli from Arsenal.",
-      "published": "2026-09-03T17:06:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49720317/gabriel-martinelli-al-hilal-arsenal-transfers-premier-league-saudi-pro-league",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706616_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia",
-        "Brazil"
-      ],
-      "players": [
-        "Gabriel Martinelli",
         "Patrick Beach"
       ],
       "score": 134
     },
     {
-      "id": "48990955",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window has closed. Here is how we rated the biggest deals.",
-      "published": "2026-09-03T16:51:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710301_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49820418",
+      "headline": "Florida St. vs. Georgia: Game Highlights",
+      "description": "Florida St. vs. Georgia: Game Highlights",
+      "published": "2026-09-04T02:00:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49820418/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/bda9cf73-722c-4875-a4d4-765a3f47a1df/bda9cf73-722c-4875-a4d4-765a3f47a1df.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia"
       ],
       "players": [
         "Patrick Beach"
       ],
-      "score": 134
+      "score": 129
     },
     {
-      "id": "49814986",
-      "headline": "South Africa's Lyle Foster joins Dynamo on loan from Burnley",
-      "description": "South Africa's Lyle Foster joined the Houston Dynamo on loan from Burnley on Thursday through summer of 2027.",
-      "published": "2026-09-03T15:41:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49814986/south-africa-lyle-foster-joins-dynamo-loan-burnley",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680394_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49820189",
+      "headline": "Zoe Main feels the love from Gators on victorious Senior Night",
+      "description": "After tallying both a goal and assist in No. 21 Florida's 2-0 win over Youngstown State, Main expresses her deep appreciation for the program and her teammates.",
+      "published": "2026-09-04T01:36:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/49820189/zoe-main-feels-love-gators-victorious-senior-night",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_SEC_WSOC_Interview_UF_Main_260903/dm_260903_SEC_WSOC_Interview_UF_Main_260903.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Australia",
-        "South Africa"
+        "Australia"
       ],
       "players": [
-        "Lyle Foster",
         "Patrick Beach"
       ],
-      "score": 132
+      "score": 128
+    },
+    {
+      "id": "49820076",
+      "headline": "Tennessee vs. Virginia: Game Highlights",
+      "description": "Tennessee vs. Virginia: Game Highlights",
+      "published": "2026-09-04T01:26:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49820076/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/83880490-e55c-4c9d-a10f-911a39cc28cb/83880490-e55c-4c9d-a10f-911a39cc28cb.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 128
     },
     {
       "id": "49818303",
@@ -277,9 +178,9 @@
         "Australia"
       ],
       "players": [
-        "Nestory Irankunda"
+        "Patrick Beach"
       ],
-      "score": 129
+      "score": 122
     },
     {
       "id": "49818109",
@@ -300,47 +201,9 @@
         "Iago Aspas",
         "Gonçalo Guedes",
         "Mikel Oyarzabal",
-        "Nestory Irankunda"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49816240",
-      "headline": "Marcos Llorente retires from Spain duty aged 31 after World Cup win",
-      "description": "Marcos Llorente has announced his retirement from international football after helping Spain win the World Cup this summer.",
-      "published": "2026-09-03T19:07:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49816240/marcos-llorente-calls-spain-career-aged-31-world-cup-win",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710991_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Spain"
-      ],
-      "players": [
-        "Marcos Llorente",
         "Patrick Beach"
       ],
-      "score": 125
-    },
-    {
-      "id": "49814884",
-      "headline": "Luis Enrique targets third straight Champions League title with PSG",
-      "description": "Luis Enrique targets third straight Champions League title with PSG",
-      "published": "2026-09-03T15:25:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/49814884/luis-enrique-targets-third-straight-champions-league-title-psg",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_Luis_Enrique_targets_third_straight_Champions_League_title_with_PSG/dm_260903_Luis_Enrique_targets_third_straight_Champions_League_title_with_PSG.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach"
-      ],
-      "score": 120
+      "score": 122
     },
     {
       "id": "49796943",
@@ -354,7 +217,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 111
+      "score": 105
     },
     {
       "id": "49793781",
@@ -372,7 +235,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 97
+      "score": 90
     },
     {
       "id": "49784066",
@@ -391,25 +254,7 @@
         "Lionel Messi",
         "Cristiano Ronaldo"
       ],
-      "score": 58
-    },
-    {
-      "id": "49266819",
-      "headline": "Argentina legend Lionel Messi announces international retirement",
-      "description": "Lionel Messi on Monday announced his retirement from international soccer with a heartfelt Instagram post.",
-      "published": "2026-09-01T01:36:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49266819/lionel-messi-argentina-international-retirement-world-cup-copa-america",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709546_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 47
+      "score": 53
     },
     {
       "id": "49784295",
@@ -427,7 +272,25 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 44
+      "score": 43
+    },
+    {
+      "id": "49266819",
+      "headline": "Argentina legend Lionel Messi announces international retirement",
+      "description": "Lionel Messi on Monday announced his retirement from international soccer with a heartfelt Instagram post.",
+      "published": "2026-09-01T01:36:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49266819/lionel-messi-argentina-international-retirement-world-cup-copa-america",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709546_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 40
     },
     {
       "id": "49681406",
@@ -870,6 +733,119 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "49592307",
+      "headline": "Netherlands hire Xavi as coach through 2030 World Cup",
+      "description": "The Netherlands have appointed Barcelona great Xavi Hernández as the national team's new coach following the resignation of Ronald Koeman after a disappointing FIFA World Cup.",
+      "published": "2026-08-12T19:46:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49592307/netherlands-hire-xavi-coach-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0101/r1595503_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Netherlands"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49585269",
+      "headline": "Chris Turner roasts the USMNT's World Cup performance in a freestyle rap",
+      "description": "Chris Turner roasts the USMNT's World Cup performance in a freestyle rap",
+      "published": "2026-08-11T21:15:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/49585269/chris-turner-roasts-usmnt-world-cup-performance-freestyle-rap",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_Chris_Turner_roasts_the_USMNTs_World_Cup_performance_in_a_freestyle_rap/dm_260811_Chris_Turner_roasts_the_USMNTs_World_Cup_performance_in_a_freestyle_rap.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49582283",
+      "headline": "Forlán: If Suárez is available for selection, why not?",
+      "description": "Forlán: If Suárez is available for selection, why not?",
+      "published": "2026-08-11T13:55:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/49582283/suarez-available-selection-why-not",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_COM_SOC_Analysis_ForlC3A1n3A_If_SuC3A1rez_is_available_for_selection2C_why_not3F__GLOBAL_2026-08-11/dm_260811_COM_SOC_Analysis_ForlC3A1n3A_If_SuC3A1rez_is_available_for_selection2C_why_not3F__GLOBAL_2026-08-11.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49575753",
+      "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
+      "description": "Omar Artan -- the Somali World Cup referee refused entry to the United States -- has spoken about the \"very tough period\" during what should have been the highlight of his career.",
+      "published": "2026-08-10T17:30:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49575753/barred-somali-world-cup-ref-grateful-super-cup-shot",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670161_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49719477",
+      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
+      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
+      "published": "2026-08-25T10:22:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 9
+    },
+    {
+      "id": "49669869",
+      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
+      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
+      "published": "2026-08-21T06:36:25Z",
+      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
+      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Achraf Hakimi",
+        "Victor Osimhen",
+        "Bryan Mbeumo",
+        "Mohamed Salah"
+      ],
+      "score": 9
+    },
+    {
+      "id": "49744909",
+      "headline": "Champions League draw becomes UEFA's latest stand against FIFA president Infantino",
+      "description": "Thursday saw the UEFA Champions League draw take place in Monaco, but the big news beyond the pots involved Europe taking their battle with FIFA president Gianni Infantino into criminal court.",
+      "published": "2026-08-28T08:19:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49744909/uefa-fifa-world-cup-champions-league-gianni-infantino-lawsuits-gab-marcotti",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707747_1296x729_16-9.jpg",
+      "byline": "Gabriele Marcotti",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
