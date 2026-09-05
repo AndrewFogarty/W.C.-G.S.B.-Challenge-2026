@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-05T13:03:30.477Z",
+  "updated": "2026-09-05T16:01:15.506Z",
   "counts": {
-    "news": 38,
-    "offfield": 7,
+    "news": 36,
+    "offfield": 8,
+    "preview": 2,
     "injury": 1,
-    "celebration": 1,
-    "preview": 1
+    "celebration": 1
   },
   "items": [
     {
@@ -25,26 +25,66 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 178
+      "score": 173
     },
     {
-      "id": "49833077",
-      "headline": "Transfer rumors, news: Arsenal set to sign teenage Georgian midfielder",
-      "description": "The transfer window may be over, but that hasn't stopped clubs doing business. Transfer Talk has the latest.",
-      "published": "2026-09-05T08:36:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49833077/transfer-rumors-news-arsenal-set-sign-teenage-georgian-midfielder",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711684_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49835710",
+      "headline": "Ex-Premier League ref Mike Dean says he did his job 'properly and professionally' after podcast claims",
+      "description": "Former referee Mike Dean regrets his controversial comments on a podcast this week, but insists he always did his job \"properly and professionally\" during his 25-year career.",
+      "published": "2026-09-05T15:25:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49835710/mike-dean-premier-league-var-refereeing",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711771_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Australia"
+        "Argentina"
       ],
       "players": [
-        "Andria Bartishvili",
-        "Mohamed Toure"
+        "Enzo Fernández"
       ],
-      "score": 138
+      "score": 144
+    },
+    {
+      "id": "49835255",
+      "headline": "Fenerbahce's Mattéo Guendouzi banned for two Champions League matches after Lyon clashes",
+      "description": "Mattéo Guendouzi was banned by UEFA from Fenerbahce's first two Champions League games for provocations and insults in a heated playoff win at Lyon in his native France.",
+      "published": "2026-09-05T14:48:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49835255/fenerbahce-matteo-guendouzi-two-champions-league-games-banned-lyon-clashes",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711756_2_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Matteo Guendouzi",
+        "Enzo Fernández"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49834985",
+      "headline": "Luka Modrić to play in the Nations League for Croatia at the age of 41",
+      "description": "Luka Modrić is set to face England next month after he made the decision to continue playing for the Croatia national team.",
+      "published": "2026-09-05T14:00:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49834985/luka-modric-play-nations-league-croatia-age-41",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711729_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "England",
+        "Croatia"
+      ],
+      "players": [
+        "Luka Modric",
+        "Enzo Fernández"
+      ],
+      "score": 139
     },
     {
       "id": "49817156",
@@ -58,40 +98,16 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 138
+      "score": 134
     },
     {
-      "id": "49823973",
-      "headline": "Barcelona's Yamal hits 50 goals! When did Messi, Ronaldo, Mbappé, Haaland reach half-centuries?",
-      "description": "Yamal scored his 50th club goal this week at 19 years and 49 days old. How does that compare to other prodigies who became greats of the modern game?",
-      "published": "2026-09-05T08:44:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49823973/lamine-yamal-50-career-goals-barcelonalionel-messi-cristiano-ronaldo-kylian-mbappe-erling-haaland",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711266_1296x729_16-9.jpg",
-      "byline": "Lluís Bou",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Lionel Messi",
-        "Cristiano Ronaldo",
-        "Kylian Mbappé",
-        "Erling Haaland",
-        "Neymar",
-        "Mohamed Toure"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49830540",
-      "headline": "Nashville rookie Brian Schwake duels NYCFC's Matt Freese to scoreless draw",
-      "description": "Nashville SC goalkeeper Brian Schwake dueled New York City FC's Matt Freese to a scoreless draw at Yankee Stadium on Friday night.",
-      "published": "2026-09-05T04:58:21Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761770",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761770.png?templateId=espn.applewatch.awayhome.1",
-      "byline": "Associated Press",
+      "id": "49817484",
+      "headline": "Premier League live updates: Haaland fires Man City to win, Spurs remain winless",
+      "description": "Erling Haaland scores yet again as Manchester City win, as a busy Saturday of soccer unfolds across Europe.",
+      "published": "2026-09-05T15:57:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49817484/premier-league-live-updates-newcastle-host-bournemouth-man-city-coventry-city-inter-napoli",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711764_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -100,60 +116,16 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 121
+      "score": 133
     },
     {
-      "id": "49831677",
-      "headline": "Bay FC vs. Kansas City Current - Game Highlights",
-      "description": "Watch the Game Highlights from Bay FC vs. Kansas City Current, 09/05/2026",
-      "published": "2026-09-05T04:10:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/49831677/bay-fc-vs-kansas-city-current-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/d62c8cc1-1d86-4913-b2fb-ed5bd2fb0be7/d62c8cc1-1d86-4913-b2fb-ed5bd2fb0be7.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Karlie Lema",
-        "Rocky Rodríguez",
-        "Amelia White",
-        "Izzy Rodriguez",
-        "Enzo Fernández"
-      ],
-      "score": 120
-    },
-    {
-      "id": "49831378",
-      "headline": "Utah Royals vs. Boston Legacy FC - Game Highlights",
-      "description": "Watch the Game Highlights from Utah Royals vs. Boston Legacy FC, 09/05/2026",
-      "published": "2026-09-05T03:34:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/49831378/utah-royals-vs-boston-legacy-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/96fa5401-8f04-49bd-9da9-357ac4b771b7/96fa5401-8f04-49bd-9da9-357ac4b771b7.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Kiana Palacios",
-        "Aïssata Traoré",
-        "Aleigh Gambone",
-        "Amanda Gutierres",
-        "Enzo Fernández"
-      ],
-      "score": 119
-    },
-    {
-      "id": "49830623",
-      "headline": "Zoe Susi's ready for Arkansas to shine in conference play after win",
-      "description": "Susi reflects on her brace against Jackson State and explains how the Razorbacks' early-season schedule is preparing them to compete in SEC play.",
-      "published": "2026-09-05T02:11:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/49830623/zoe-susi-ready-arkansas-shine-conference-play-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_SEC_WSOC_Interview_Arkansas_Zoe_260904/dm_260904_SEC_WSOC_Interview_Arkansas_Zoe_260904.jpg",
-      "byline": null,
+      "id": "49835694",
+      "headline": "Chelsea's WSL revenge campaign begins with a stumble",
+      "description": "Chelsea enter this season looking to bounce back from a rare trophyless campaign. In a 1-1 opening-day draw to Aston Villa, they didn't get off to a fast start.",
+      "published": "2026-09-05T15:10:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49835694/chelsea-wsl-revenge-campaign-begins-stumble",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711767_1296x729_16-9.jpg",
+      "byline": "Emily Keogh",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -162,83 +134,16 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 117
+      "score": 132
     },
     {
-      "id": "49830480",
-      "headline": "New York City FC vs. Nashville SC - Game Highlights",
-      "description": "Watch the Game Highlights from New York City FC vs. Nashville SC, 09/04/2026",
-      "published": "2026-09-05T01:45:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/49830480/new-york-city-fc-vs-nashville-sc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/8ae208ac-1e07-43be-99fd-59e2a802fb0d/8ae208ac-1e07-43be-99fd-59e2a802fb0d.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nicolás Fernández",
-        "Elias Saad",
-        "Hany Mukhtar",
-        "Sam Surridge",
-        "Agustin Ojeda",
-        "Enzo Fernández"
-      ],
-      "score": 116
-    },
-    {
-      "id": "49830465",
-      "headline": "Isak's quickfire double gives Iraola first Reds win",
-      "description": "Alexander Isak was the star for Liverpool in their 2-0 win over Ipswich Town, scoring a three minute brace after just nine minutes of play giving Andoni Iraola his first win as Liverpool manager.",
-      "published": "2026-09-05T01:44:48Z",
-      "url": "https://www.espn.com/video/clip/_/id/49830465/isak-quickfire-double-gives-iraola-first-reds-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Soccer_HIGHLIGHT_Isaks_quickfire_double_gives_Iraola_first_Reds_win_20260905_AUS/dm_260904_Soccer_HIGHLIGHT_Isaks_quickfire_double_gives_Iraola_first_Reds_win_20260905_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Alexander Isak",
-        "Enzo Fernández"
-      ],
-      "score": 116
-    },
-    {
-      "id": "49829960",
-      "headline": "Real Betis vs. Real Madrid - Game Highlights",
-      "description": "Real Betis vs. Real Madrid - Game Highlights",
-      "published": "2026-09-05T01:14:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49829960/real-betis-vs-real-madrid-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_204059701_36470181267/ss_20260904_204059701_36470181267.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Carlos Espí",
-        "Troy Parrott",
-        "Dean Huijsen",
-        "Vinícius Júnior",
-        "Kylian Mbappé",
-        "Marc Bartra",
-        "Antony",
-        "Enzo Fernández"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49829043",
-      "headline": "Luis Enrique unfazed as historic PSG winless start deepens",
-      "description": "Paris Saint-Germain deepened their slow start to the season with a home defeat to Monaco on Friday, but Luis Enrique remained unconcerned and insisted he is pleased with his team's performances.",
-      "published": "2026-09-04T23:02:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49829043/luis-enrique-unfazed-historic-psg-winless-start-deepens-monaco-defeat",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711544_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "49818753",
+      "headline": "Jacob Ramsey scores last-gasp equaliser to salvage a point for Newcastle, Bournemouth drop points from winning position again",
+      "description": "Substitute Jacob Ramsey struck late on as Newcastle came from 2-0 down to snatch a 2-2 draw against Bournemouth and preserve Matthias Jaissle's unbeaten start to his time on Tyneside.",
+      "published": "2026-09-05T14:25:54Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879286",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711732_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -247,7 +152,45 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 112
+      "score": 131
+    },
+    {
+      "id": "49818856",
+      "headline": "Chelsea held to draw by Aston Villa in their first WSL game of the season",
+      "description": "Aston Villa's third-choice goalkeeper Akane Okuma enjoyed a debut to remember as a wasteful Chelsea paid the price for their profligacy by conceding a late equaliser in their Barclays Women's Super League opener.",
+      "published": "2026-09-05T14:17:24Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401902927",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711737_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Enzo Fernández"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49834658",
+      "headline": "Raphinha appointed Barcelona captain, first Brazilian to hold the role",
+      "description": "Raphinha has been appointed as Barcelona's captain for the 2026-27 season, becoming the first Brazilian to be handed the role at the Spanish champions.",
+      "published": "2026-09-05T13:33:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49834658/raphinha-barcelona-la-liga-spain-brazil-pedri-lamine-yamal-frenkie-de-jong-eric-garcia",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711720_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Brazil"
+      ],
+      "players": [
+        "Raphinha",
+        "Enzo Fernández"
+      ],
+      "score": 129
     },
     {
       "id": "49732248",
@@ -263,7 +206,7 @@
         "USA"
       ],
       "players": [],
-      "score": 96
+      "score": 92
     },
     {
       "id": "49466177",
@@ -870,6 +813,41 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "49719477",
+      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
+      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
+      "published": "2026-08-25T10:22:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 9
+    },
+    {
+      "id": "49669869",
+      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
+      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
+      "published": "2026-08-21T06:36:25Z",
+      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
+      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Achraf Hakimi",
+        "Victor Osimhen",
+        "Bryan Mbeumo",
+        "Mohamed Salah"
+      ],
+      "score": 9
     }
   ]
 }
