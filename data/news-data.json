@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-05T22:08:35.163Z",
+  "updated": "2026-09-05T23:53:41.926Z",
   "counts": {
     "news": 38,
-    "injury": 2,
-    "offfield": 6,
+    "offfield": 7,
+    "injury": 1,
     "celebration": 1,
     "preview": 1
   },
@@ -25,42 +25,126 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 164
+      "score": 162
     },
     {
-      "id": "49818892",
-      "headline": "Bayern Munich falter, Loris Karius secures goalless draw for newly promoted Schalke",
-      "description": "Bayern Munich suffered their first setback of the new season when they were held to a goalless draw by newly promoted Schalke.",
-      "published": "2026-09-05T19:57:07Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401884801",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711893_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49837387",
+      "headline": "Carrick: Man United 'can compete' with Premier League rivals despite spending less",
+      "description": "Michael Carrick insists Manchester United can compete with their Premier League rivals this season despite being out-spent in the transfer market.",
+      "published": "2026-09-05T21:30:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49837387/michael-carrick-manchester-united-compete-premier-league-outspent",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711860_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
+        "Andrey Santos",
+        "Youri Tielemans",
+        "Carlos Baleba",
         "Enzo Fernández"
       ],
-      "score": 144
+      "score": 141
     },
     {
-      "id": "49838222",
-      "headline": "Atlético Madrid 'need' Julián Álvarez's goals - Marcos Llorente",
-      "description": "Marcos Llorente told ESPN that Atletico Madrid need Julián Álvarez to start scoring after the team suffered a shock 3-0 defeat at Athletic Club in LaLiga on Saturday.",
-      "published": "2026-09-05T19:35:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49838222/julian-alvarez-atletico-madrid-marcos-llorente-spanish-la-liga",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711896_2_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
+      "id": "49839417",
+      "headline": "Haaland outpaces Ronaldo, Mbappé to 300 club goals",
+      "description": "Erling Haaland scored the 300th goal of his club career as Man City extended their 100% start by beating Coventry 1-0 to stay at the top of the Premier League.",
+      "published": "2026-09-05T21:58:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49839417/erling-haaland-cristiano-ronaldo-kylian-mbappe-300-club-goals",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711982_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Norway"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Cristiano Ronaldo",
+        "Kylian Mbappé",
+        "Enzo Fernández"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49818958",
+      "headline": "Championship leaders Swansea held in goalless draw against Wrexham",
+      "description": "Championship leaders Swansea and visitors Wrexham fought out a 0-0 draw in a passionate all-Welsh affair.",
+      "published": "2026-09-05T21:23:08Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401880283",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711954_594x334_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Julián Álvarez",
-        "Marcos Llorente",
+        "Enzo Fernández"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49838809",
+      "headline": "Bayern Munich fail to score Bundesliga goal for first time in 18 months",
+      "description": "Bayern Munich failed to score in the Bundesliga for the first time in more than 18 months as they were held to a goalless draw by newly promoted Schalke.",
+      "published": "2026-09-05T21:21:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49838809/bayern-munich-fail-score-bundesliga-goal-first-18-months",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711923_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Enzo Fernández"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49839412",
+      "headline": "Adama Traore scores ridiculous own goal in Deportivo's win over Villarreal",
+      "description": "Adama Traore scores ridiculous own goal in Deportivo's win over Villarreal",
+      "published": "2026-09-05T21:07:23Z",
+      "url": "https://www.espn.com/video/clip/_/id/49839412/adama-traore-scores-ridiculous-own-goal-deportivo-win-villarreal",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_COM_SOC_Highlight_Adama_Traore_scores_ridiculous_own_goal_in_Deportivos_win_over_Villarreal_2026/dm_260905_COM_SOC_Highlight_Adama_Traore_scores_ridiculous_own_goal_in_Deportivos_win_over_Villarreal_2026.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Adama Traoré",
+        "Enzo Fernández"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49839400",
+      "headline": "Villarreal vs. Deportivo La Coruña - Game Highlights",
+      "description": "Watch the Game Highlights from Villarreal vs. Deportivo La Coruña, 09/05/2026",
+      "published": "2026-09-05T21:06:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49839400/villarreal-vs-deportivo-la-coruna-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/28cbcaa0-f1a2-45b7-85fd-b0e80ada14c4/28cbcaa0-f1a2-45b7-85fd-b0e80ada14c4.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Nicolas Pépé",
+        "Zakaria Eddahchouri",
+        "Pierre-Emerick Aubameyang",
+        "Pape Gueye",
+        "Adama Traoré",
+        "Luis Cruz",
         "Enzo Fernández"
       ],
       "score": 129
@@ -81,26 +165,7 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 129
-    },
-    {
-      "id": "49838122",
-      "headline": "Lautaro Martínez scores stoppage-time winner as Inter come from two down to beat Napoli",
-      "description": "Lautaro Martínez scored a stoppage-time winner as Inter Milan came from behind to beat Napoli 3-2 and maintain their perfect start to the new Serie A season.",
-      "published": "2026-09-05T19:18:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49838122/lautaro-martinez-scores-stoppage-winner-inter-come-two-beat-napoli",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711889_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lautaro Martínez",
-        "Enzo Fernández"
-      ],
-      "score": 129
+      "score": 126
     },
     {
       "id": "49838440",
@@ -118,63 +183,7 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 129
-    },
-    {
-      "id": "49817484",
-      "headline": "European soccer recap: Haaland wins it for Man City, Inter with comeback vs. Napoli",
-      "description": "Erling Haaland scores again as Manchester City win and Inter staged an incredible comeback against Napoli, as a busy Saturday unfolded across Europe.",
-      "published": "2026-09-05T19:09:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49817484/premier-league-live-updates-newcastle-host-bournemouth-man-city-coventry-city-inter-napoli",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711764_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Enzo Fernández"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49838329",
-      "headline": "Should Nottingham Forest's disallowed goal vs. Spurs have stood?",
-      "description": "Should Nottingham Forest's disallowed goal vs. Spurs have stood?",
-      "published": "2026-09-05T18:57:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49838329/should-nottingham-forest-disallowed-goal-vs-spurs-stood",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Should_Nottingham_Forests_disallowed_goal_vs_Spurs_have_stood/dm_260905_Should_Nottingham_Forests_disallowed_goal_vs_Spurs_have_stood.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Neco Williams",
-        "Enzo Fernández"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49838159",
-      "headline": "Hislop: Donnarumma showed he is not comfortable with the ball at his feet",
-      "description": "Hislop: Donnarumma showed he is not comfortable with the ball at his feet",
-      "published": "2026-09-05T18:45:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49838159/donnarumma-showed-not-comfortable-ball-feet",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Hislop_Donnarumma_showed_he_is_not_comfortable_with_the_ball_at_his_feet/dm_260905_Hislop_Donnarumma_showed_he_is_not_comfortable_with_the_ball_at_his_feet.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Gianluigi Donnarumma",
-        "Enzo Fernández"
-      ],
-      "score": 128
+      "score": 126
     },
     {
       "id": "49817156",
@@ -188,7 +197,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 125
+      "score": 122
     },
     {
       "id": "49466177",
@@ -233,7 +242,7 @@
         "USA"
       ],
       "players": [],
-      "score": 83
+      "score": 80
     },
     {
       "id": "49796943",
