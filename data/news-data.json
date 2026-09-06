@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-06T14:26:31.590Z",
+  "updated": "2026-09-06T17:16:45.702Z",
   "counts": {
-    "offfield": 8,
+    "news": 35,
+    "offfield": 9,
     "preview": 2,
-    "news": 36,
     "injury": 1,
     "celebration": 1
   },
@@ -12,16 +12,53 @@
     {
       "id": "49847747",
       "headline": "FIFA president Gianni Infantino to stand for reelection in 2027",
-      "description": "FIFA president Gianni Infantino has reiterated his desire to stand for reelection despite the continuing controversy surrounding his leadership.",
-      "published": "2026-09-06T13:32:29Z",
+      "description": "Gianni Infantino will run for reelection as FIFA president despite uncertainty over his future in the position following his failed attempt to raise $20 billion with the sale of a stake in future World Cups to private investors.",
+      "published": "2026-09-06T17:11:07Z",
       "url": "https://www.espn.com/soccer/story/_/id/49847747/fifa-president-gianni-infantino-stand-re-election-2027",
       "image": "https://a.espncdn.com/photo/2026/0906/r1712226_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 206
+    },
+    {
+      "id": "49848349",
+      "headline": "Jamie Vardy joins Burnley on a season-long contract",
+      "description": "Former Leicester forward Jamie Vardy has joined Burnley for the remainder of the season, the club have announced.",
+      "published": "2026-09-06T14:25:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49848349/jamie-vardy-burnley-efl-championship-transfers",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712249_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Jamie Vardy",
+        "Nestory Irankunda"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49848076",
+      "headline": "Portsmouth urge supporters not to speculate on social media as fan incident with Cardiff player is investigated",
+      "description": "Portsmouth have urged supporters not to speculate on social media while an investigation takes place into an altercation between a Pompey fan and Cardiff defender Krystian Bielik on Saturday.",
+      "published": "2026-09-06T13:59:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49848076/portsmouth-cardiff-efl-championship-fan-incident",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712240_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "offfield",
       "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 217
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Nestory Irankunda"
+      ],
+      "score": 140
     },
     {
       "id": "49817781",
@@ -34,12 +71,12 @@
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
-        "Australia"
+        "Argentina"
       ],
       "players": [
-        "Paul Okon-Engstler"
+        "Enzo Fernández"
       ],
-      "score": 136
+      "score": 132
     },
     {
       "id": "49846296",
@@ -52,13 +89,31 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "Australia"
+        "Argentina"
       ],
       "players": [
         "Ismaïla Sarr",
-        "Paul Okon-Engstler"
+        "Enzo Fernández"
       ],
-      "score": 136
+      "score": 132
+    },
+    {
+      "id": "49818865",
+      "headline": "Lisa Baum scores in WSL debut as Arsenal edge win against Brighton",
+      "description": "Lisa Baum scored a superb debut goal as Arsenal opened their Barclays Women's Super League campaign with a 1-0 victory over Brighton at the Broadfield Stadium.",
+      "published": "2026-09-06T13:20:16Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401902926",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712231_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Nestory Irankunda"
+      ],
+      "score": 127
     },
     {
       "id": "49824937",
@@ -76,7 +131,7 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 130
+      "score": 125
     },
     {
       "id": "49846491",
@@ -89,13 +144,13 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Argentina"
       ],
       "players": [
         "Mykhailo Mudryk",
-        "Paul Okon-Engstler"
+        "Enzo Fernández"
       ],
-      "score": 125
+      "score": 121
     },
     {
       "id": "49843737",
@@ -117,7 +172,7 @@
         "Luis Suárez",
         "Enzo Fernández"
       ],
-      "score": 121
+      "score": 117
     },
     {
       "id": "49843980",
@@ -140,7 +195,7 @@
         "Miguel Almirón",
         "Enzo Fernández"
       ],
-      "score": 118
+      "score": 114
     },
     {
       "id": "49842819",
@@ -160,7 +215,7 @@
         "Cavan Sullivan",
         "Enzo Fernández"
       ],
-      "score": 117
+      "score": 113
     },
     {
       "id": "49844135",
@@ -178,7 +233,7 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 117
+      "score": 112
     },
     {
       "id": "49843727",
@@ -196,65 +251,6 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 116
-    },
-    {
-      "id": "49842494",
-      "headline": "Josh Sargent scores goal for Toronto FC",
-      "description": "Josh Sargent scores goal for Toronto FC",
-      "published": "2026-09-06T02:07:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49842494/josh-sargent-scores-goal-toronto-fc",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/797bb4e1-10c4-4e01-8401-66e2f54ba186/797bb4e1-10c4-4e01-8401-66e2f54ba186.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Josh Sargent",
-        "Enzo Fernández"
-      ],
-      "score": 115
-    },
-    {
-      "id": "49842465",
-      "headline": "Virginia Tech vs. NC State: Game Highlights",
-      "description": "Virginia Tech vs. NC State: Game Highlights",
-      "published": "2026-09-06T00:54:57Z",
-      "url": "https://www.espn.com/video/clip/_/id/49842465/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/b1f1ba24-f17d-47aa-bc4d-2323c6c77b4e/b1f1ba24-f17d-47aa-bc4d-2323c6c77b4e.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Enzo Fernández"
-      ],
-      "score": 113
-    },
-    {
-      "id": "49842208",
-      "headline": "Racing Louisville FC vs. Angel City FC - Game Highlights",
-      "description": "Watch the Game Highlights from Racing Louisville FC vs. Angel City FC, 09/06/2026",
-      "published": "2026-09-06T00:37:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/49842208/racing-louisville-fc-vs-angel-city-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/e85e0452-ae3f-4b55-8e0b-65b2dde5ea83/e85e0452-ae3f-4b55-8e0b-65b2dde5ea83.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Ally Sentnor",
-        "Maja Lardner",
-        "Evelyn Shores",
-        "Ellie Jean",
-        "Enzo Fernández"
-      ],
       "score": 112
     },
     {
@@ -269,7 +265,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 90
+      "score": 86
     },
     {
       "id": "49466177",
@@ -314,7 +310,7 @@
         "USA"
       ],
       "players": [],
-      "score": 58
+      "score": 54
     },
     {
       "id": "49796943",
