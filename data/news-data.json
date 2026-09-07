@@ -1,19 +1,38 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-07T05:54:53.271Z",
+  "updated": "2026-09-07T11:49:51.035Z",
   "counts": {
-    "news": 39,
-    "offfield": 6,
-    "injury": 1,
+    "offfield": 9,
+    "news": 35,
+    "injury": 2,
     "celebration": 1,
     "preview": 1
   },
   "items": [
     {
+      "id": "49857842",
+      "headline": "Belgian FA won't back Gianni Infantino's FIFA re-election, cites Folarin Balogun red card ban U-turn",
+      "description": "The Belgian football federation said it can't support Gianni Infantino's bid for another term as FIFA president, citing transparency and governance issues and the way it handled clearing Folarin Balogun from a mandatory one-game ban at the World Cup.",
+      "published": "2026-09-07T10:07:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49857842/gianni-infantino-fifa-belgian-fa-belgium-world-cup-2026-folarin-balogun-red-card-overturned-usmnt",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Belgium",
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 222
+    },
+    {
       "id": "49847747",
       "headline": "FIFA president Gianni Infantino to stand for reelection in 2027",
       "description": "Gianni Infantino will run for reelection as FIFA president despite uncertainty over his future in the position following his failed attempt to raise $20 billion with the sale of a stake in future World Cups to private investors.",
-      "published": "2026-09-06T20:45:09Z",
+      "published": "2026-09-07T09:38:00Z",
       "url": "https://www.espn.com/soccer/story/_/id/49847747/fifa-president-gianni-infantino-stand-re-election-2027",
       "image": "https://a.espncdn.com/photo/2026/0906/r1712226_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
@@ -21,169 +40,138 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 192
+      "score": 193
     },
     {
-      "id": "49855497",
-      "headline": "Stats: Haaland's 300 goals faster than Ronaldo, Mbappe; Mourinho's unbeaten Real Madrid streak ends",
-      "description": "ESPN brings you the best stats from this weekend's football action.",
-      "published": "2026-09-07T05:28:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49855497/stats-haaland-300-goals-faster-ronaldo-mbappe-mourinho-unbeaten-real-madrid-streak-ends",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711982_608x342_16-9.jpg",
-      "byline": "Zenia D'Cunha",
+      "id": "49858345",
+      "headline": "Neymar set to be sidelined until October with muscular injury",
+      "description": "Neymar is expected to be sidelined for at least a month with a muscular injury.",
+      "published": "2026-09-07T11:23:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49858345/neymar-set-sidelined-october-muscular-injury",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712705_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Belgium"
+      ],
+      "players": [
+        "Neymar",
+        "Folarin Balogun"
+      ],
+      "score": 146
+    },
+    {
+      "id": "49858021",
+      "headline": "Bayern Munich CEO: 'No offers' for Michael Olise in summer, cannot make promises on future",
+      "description": "Bayern Munich CEO Jan-Christian Dreesen has said the club did not receive any offers for Michael Olise over the summer transfer window, but stopped short of guaranteeing the Frenchman's long-term future.",
+      "published": "2026-09-07T11:42:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49858021/bayern-munich-ceo-no-offers-michael-olise",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712702_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Belgium"
+      ],
+      "players": [
+        "Michael Olise",
+        "Folarin Balogun"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49857536",
+      "headline": "Wayne Rooney: Arsenal defender Gabriel 'extremely lucky' to avoid red in Chelsea win",
+      "description": "Wayne Rooney has said Arsenal defender Gabriel was \"extremely lucky\" to avoid being sent off in his side's 2-1 win over Chelsea on Sunday.",
+      "published": "2026-09-07T09:34:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49857536/wayne-rooney-arsenal-gabriel-magalhaes-extremely-lucky-avoid-red-chelsea-win",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712690_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Belgium"
+      ],
+      "players": [
+        "Gabriel Magalhães",
+        "Emiliano Martínez",
+        "Folarin Balogun"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49858346",
+      "headline": "Cristiano Ronaldo, Al Nassr mocked after first SPL defeat of season: 'Cheating and still losing'",
+      "description": "Al Ittihad poked fun at Al Nassr captain Cristiano Ronaldo after inflicting the first defeat of the season on the Saudi Pro League defending champions.",
+      "published": "2026-09-07T11:20:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49858346/cristiano-ronaldo-al-nassr-mocked-first-spl-defeat-al-ittihad-cheating-losing",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712707_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Belgium"
       ],
       "players": [
-        "Enzo Fernández"
+        "Cristiano Ronaldo",
+        "Folarin Balogun"
       ],
       "score": 132
     },
     {
-      "id": "49855824",
-      "headline": "Toluca vs. Monterrey - Game Highlights",
-      "description": "Watch the Game Highlights from Toluca vs. Monterrey, 09/06/2026",
-      "published": "2026-09-07T03:51:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49855824/toluca-vs-monterrey-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0907/9021edca-c55c-456f-a69e-975ac021ad22/9021edca-c55c-456f-a69e-975ac021ad22.jpg",
-      "byline": null,
+      "id": "49858015",
+      "headline": "Fiorentina sack manager Fabio Grosso after 0-3 start",
+      "description": "Fabio Grosso at Fiorentina became the first head coach fired in Europe's top leagues this season after an 0-3 start in Serie A for the Tuscan club -- who are celebrating their 100th anniversary.",
+      "published": "2026-09-07T10:39:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49858015/fiorentina-sack-manager-fabio-grosso-winless-start",
+      "image": "https://a.espncdn.com/photo/2023/1130/r1260010_1296x729_16-9.jpg",
+      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Belgium"
       ],
       "players": [
-        "Hugo Cuypers",
-        "Alexis Vega",
-        "Helinho",
-        "Jorge Díaz",
-        "Enzo Fernández"
+        "Folarin Balogun"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49858056",
+      "headline": "Man United still pursuing Leicester midfielder Louis Page - sources",
+      "description": "Manchester United are still in the hunt for Louis Page despite missing out on a deadline day move for the Leicester City midfielder, sources have told ESPN.",
+      "published": "2026-09-07T10:34:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49858056/man-united-leicester-louis-page-premier-league-transfers-league-one",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712698_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49857747",
+      "headline": "Can Mourinho lead Real Madrid to Champions League glory and prove how special he is?",
+      "description": "Jose Mourinho's career nosedived after he left Real Madrid in 2013, but can he prove how special he is on his return?",
+      "published": "2026-09-07T09:42:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49857747/can-mourinho-lead-real-madrid-champions-league-glory-prove-how-special-is",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702870_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Belgium"
+      ],
+      "players": [
+        "Folarin Balogun"
       ],
       "score": 130
-    },
-    {
-      "id": "49855551",
-      "headline": "Seattle Reign FC vs. San Diego Wave FC - Game Highlights",
-      "description": "Watch the Game Highlights from Seattle Reign FC vs. San Diego Wave FC, 09/07/2026",
-      "published": "2026-09-07T03:18:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/49855551/seattle-reign-fc-vs-san-diego-wave-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0907/4e1b26ab-4e63-4619-95ca-e836351e0857/4e1b26ab-4e63-4619-95ca-e836351e0857.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Ludmila",
-        "Amelia Van Zanten",
-        "Maddie Mercado",
-        "Ryanne Brown",
-        "Enzo Fernández"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49854949",
-      "headline": "Orlando Pride vs. Houston Dash - Game Highlights",
-      "description": "Watch the Game Highlights from Orlando Pride vs. Houston Dash, 09/07/2026",
-      "published": "2026-09-07T02:35:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/49854949/orlando-pride-vs-houston-dash-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0907/363b25b6-2e7a-44a8-982a-0e328e674db9/363b25b6-2e7a-44a8-982a-0e328e674db9.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Summer Yates",
-        "Kiki Van Zanten",
-        "Barbra Banda",
-        "Haley McCutcheon",
-        "Leah Klenke",
-        "Kat Rader",
-        "Enzo Fernández"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49854874",
-      "headline": "Texas vs. TCU: Game Highlights",
-      "description": "Texas vs. TCU: Game Highlights",
-      "published": "2026-09-07T02:22:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/49854874/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0907/cc852645-324e-4ec8-be26-692db88231a5/cc852645-324e-4ec8-be26-692db88231a5.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Enzo Fernández"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49854032",
-      "headline": "Valencia fans slam owner Peter Lim, club 'mercenaries'",
-      "description": "Valencia fans protested Sunday against club officials and players after a demoralizing 5-0 home loss to Barcelona in LaLiga.",
-      "published": "2026-09-07T02:18:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49854032/valencia-fans-slam-owner-peter-lim-club-mercenaries",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712569_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Enzo Fernández"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49854563",
-      "headline": "North Carolina vs. California: Game Highlights",
-      "description": "North Carolina vs. California: Game Highlights",
-      "published": "2026-09-07T01:24:14Z",
-      "url": "https://www.espn.com/video/clip/_/id/49854563/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0907/c8462d7b-9358-4d8e-a3aa-318ce9366d38/c8462d7b-9358-4d8e-a3aa-318ce9366d38.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Enzo Fernández"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49854140",
-      "headline": "León vs. América - Game Highlights",
-      "description": "Watch the Game Highlights from León vs. América, 09/06/2026",
-      "published": "2026-09-07T00:37:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49854140/leon-vs-america-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0907/a2051057-cd49-4a85-b77f-98737791659e/a2051057-cd49-4a85-b77f-98737791659e.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Sebastian Vegas",
-        "Diber Cambindo",
-        "Brian Rodríguez",
-        "Alejandro Cárdenas",
-        "Enzo Fernández"
-      ],
-      "score": 125
     },
     {
       "id": "49824937",
@@ -201,7 +189,7 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 107
+      "score": 88
     },
     {
       "id": "49466177",
@@ -230,7 +218,7 @@
         "Harry Souttar",
         "Mohamed Toure"
       ],
-      "score": 75
+      "score": 65
     },
     {
       "id": "49817156",
@@ -244,7 +232,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 67
+      "score": 56
     },
     {
       "id": "49796943",
@@ -258,7 +246,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 46
+      "score": 36
     },
     {
       "id": "49793781",
@@ -276,7 +264,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 43
+      "score": 33
     },
     {
       "id": "49732248",
@@ -292,26 +280,7 @@
         "USA"
       ],
       "players": [],
-      "score": 35
-    },
-    {
-      "id": "49784066",
-      "headline": "Lionel Messi's Argentina career: the stats, records and how he compares to Cristiano Ronaldo",
-      "description": "After Lionel Messi announced his international retirement, ESPN takes a look at the numbers behind his storied Argentina career.",
-      "published": "2026-08-31T19:49:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49784066/lionel-messi-argentina-career-stats-records-how-compares-cristiano-ronaldo",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709497_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Cristiano Ronaldo"
-      ],
-      "score": 33
+      "score": 26
     },
     {
       "id": "49681406",
@@ -373,20 +342,21 @@
       "score": 25
     },
     {
-      "id": "49784295",
-      "headline": "Lionel Messi's Argentina career in numbers",
-      "description": "Lionel Messi's Argentina career in numbers",
-      "published": "2026-08-31T17:15:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/49784295/lionel-messi-argentina-career-numbers",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_Lionel_Messis_Argentina_career_in_numbers/dm_260831_Lionel_Messis_Argentina_career_in_numbers.jpg",
-      "byline": null,
+      "id": "49784066",
+      "headline": "Lionel Messi's Argentina career: the stats, records and how he compares to Cristiano Ronaldo",
+      "description": "After Lionel Messi announced his international retirement, ESPN takes a look at the numbers behind his storied Argentina career.",
+      "published": "2026-08-31T19:49:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49784066/lionel-messi-argentina-career-stats-records-how-compares-cristiano-ronaldo",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709497_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Lionel Messi"
+        "Lionel Messi",
+        "Cristiano Ronaldo"
       ],
       "score": 23
     },
@@ -476,6 +446,24 @@
       "url": "https://www.espn.com/soccer/story/_/id/49266819/lionel-messi-argentina-international-retirement-world-cup-copa-america",
       "image": "https://a.espncdn.com/photo/2026/0831/r1709546_1296x729_16-9.jpg",
       "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 13
+    },
+    {
+      "id": "49784295",
+      "headline": "Lionel Messi's Argentina career in numbers",
+      "description": "Lionel Messi's Argentina career in numbers",
+      "published": "2026-08-31T17:15:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/49784295/lionel-messi-argentina-career-numbers",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_Lionel_Messis_Argentina_career_in_numbers/dm_260831_Lionel_Messis_Argentina_career_in_numbers.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -824,22 +812,6 @@
       "score": 10
     },
     {
-      "id": "49575753",
-      "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
-      "description": "Omar Artan -- the Somali World Cup referee refused entry to the United States -- has spoken about the \"very tough period\" during what should have been the highlight of his career.",
-      "published": "2026-08-10T17:30:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49575753/barred-somali-world-cup-ref-grateful-super-cup-shot",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670161_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
       "id": "49719477",
       "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
       "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
@@ -852,6 +824,25 @@
       "teams": [],
       "players": [
         "Lucy Bronze"
+      ],
+      "score": 9
+    },
+    {
+      "id": "49669869",
+      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
+      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
+      "published": "2026-08-21T06:36:25Z",
+      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
+      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Achraf Hakimi",
+        "Victor Osimhen",
+        "Bryan Mbeumo",
+        "Mohamed Salah"
       ],
       "score": 9
     }
