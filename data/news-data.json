@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-06T23:04:27.868Z",
+  "updated": "2026-09-07T00:57:08.411Z",
   "counts": {
-    "news": 36,
-    "offfield": 9,
+    "news": 37,
+    "offfield": 7,
+    "preview": 2,
     "injury": 1,
-    "celebration": 1,
-    "preview": 1
+    "celebration": 1
   },
   "items": [
     {
@@ -21,115 +21,155 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 203
+      "score": 200
     },
     {
-      "id": "49853186",
-      "headline": "Giovanni Reyna scores first goal since move to Strasbourg",
-      "description": "Giovanni Reyna scored his first goal since signing for Strasbourg as his new club trounced Troyes 6-2 on Sunday in Ligue 1.",
-      "published": "2026-09-06T22:56:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49853186/giovanni-reyna-scores-first-goal-move-strasbourg",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712519_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "49846296",
+      "headline": "Transfer rumors, news: Richarlison could be forced into Saudi move",
+      "description": "The transfer window may be over, but that hasn't stopped clubs from doing business. Transfer Talk has the latest.",
+      "published": "2026-09-06T20:13:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49846296/transfer-rumors-news-liverpool-eye-ismaila-sarr-move-january",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712441_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Richarlison",
+        "Enzo Fernández"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49849522",
+      "headline": "Chelsea are on the rise, but Arsenal remain kings of Premier League",
+      "description": "Arsenal continue to overcome every obstacle they face in the Premier League -- including London rivals and title aspirants Chelsea.",
+      "published": "2026-09-06T19:09:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49849522/chelsea-rise-arsenal-remain-kings-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712396_1296x729_16-9.jpg",
+      "byline": "Mark Ogden and James Olley",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49852515",
+      "headline": "Espanyol vs. Sevilla - Game Highlights",
+      "description": "Watch the Game Highlights from Espanyol vs. Sevilla, 09/06/2026",
+      "published": "2026-09-06T21:12:48Z",
+      "url": "https://www.espn.com/video/clip/_/id/49852515/espanyol-vs-sevilla-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/5401bf21-c8d8-4237-9def-18b0e8eac803/5401bf21-c8d8-4237-9def-18b0e8eac803.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "José Ángel Carmona",
+        "Omar El Hilali",
+        "Javi Hernandez",
+        "Marcos Fernández",
+        "Arouna Sangante",
+        "Lucas Stassin",
+        "Enzo Fernández"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49818931",
+      "headline": "Federico Gatti's stoppage-time header rescues point for Juventus against Milan",
+      "description": "Federico Gatti scored deep into stoppage time as Juventus snatched a late 1-1 draw with AC Milan at the Allianz Stadium.",
+      "published": "2026-09-06T21:08:27Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401874954",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712461_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Enzo Fernández"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49851757",
+      "headline": "Goalkeeper Ronald Koeman Jr. scores twice to secure dramatic comeback point in Eredivisie",
+      "description": "Goalkeeper Ronald Koeman Jr, was on the scoresheet not once, but twice for Telstar in the Dutch Eredivisie on Sunday.",
+      "published": "2026-09-06T20:38:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49851757/goalkeeper-ronald-koeman-jr-scores-twice-secure-dramatic-comeback-point-eredivisie",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712443_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Enzo Fernández"
+      ],
+      "score": 127
+    },
+    {
+      "id": "49851846",
+      "headline": "Denver Summit FC vs. NJ/NY Gotham FC - Game Highlights",
+      "description": "Watch the Game Highlights from Denver Summit FC vs. NJ/NY Gotham FC, 09/06/2026",
+      "published": "2026-09-06T20:16:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/49851846/denver-summit-fc-vs-nj-ny-gotham-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/0acc37f8-e330-4a28-8e17-c58e6ca7479c/0acc37f8-e330-4a28-8e17-c58e6ca7479c.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Melissa Kössler",
+        "Sam Kerr",
+        "Lindsey Heaps",
+        "Yazmeen Ryan",
+        "Olivia Thomas",
+        "Yuzuki Yamamoto",
+        "Enzo Fernández"
+      ],
+      "score": 126
+    },
+    {
+      "id": "49851299",
+      "headline": "Italy stuns United States in U20 Women's World Cup opener",
+      "description": "The United States lost its opening match at the U20 Women's World Cup on Sunday in Lódź, Poland, falling 2-1 to Italy, a result that leaves the Americans in an early hole in a difficult group.",
+      "published": "2026-09-06T19:34:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49851299/italy-stuns-united-states-u20-women-world-cup-opener",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712416_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina",
         "USA"
       ],
       "players": [
-        "Giovanni Reyna",
         "Enzo Fernández"
       ],
-      "score": 145
+      "score": 125
     },
     {
-      "id": "49852864",
-      "headline": "Iliman Ndiaye on Tottenham links: 'When Manchester City comes through you don't say no'",
-      "description": "Iliman Ndiaye has insisted signing for Manchester City was the obvious choice for him this week after he made his debut for Enzo Maresca's side in Saturday's 1-0 win over Coventry.",
-      "published": "2026-09-06T22:03:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49852864/iliman-ndiaye-tottenham-links-manchester-city-comes-dont-say-no",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712497_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Iliman Ndiaye",
-        "Enzo Fernández"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49852585",
-      "headline": "WSL launch investigation after Crystal Palace substitute blunder",
-      "description": "The Women's Super League has launched an investigation after Crystal Palace \"breached competition rules\" in their opening-day win over Everton at the VBS Community Stadium.",
-      "published": "2026-09-06T21:36:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49852585/wsl-launch-investigation-crystal-palace-substitute-blunder",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712477_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Enzo Fernández"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49853230",
-      "headline": "Man Utd teen lands in ALM to chase Socceroos dream",
-      "description": "James Overy will be out to emulate Socceroos young gun Paul Okon-Engstler after joining Sydney FC from Manchester United.",
-      "published": "2026-09-06T23:00:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49853230/manchester-united-teen-lands-league-men-chase-socceroos-dream",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712522_1296x518_5-2.jpg",
-      "byline": "AAP",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Enzo Fernández"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49853150",
-      "headline": "Portland Thorns FC vs. Washington Spirit - Game Highlights",
-      "description": "Watch the Game Highlights from Portland Thorns FC vs. Washington Spirit, 09/07/2026",
-      "published": "2026-09-06T22:27:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49853150/portland-thorns-fc-vs-washington-spirit-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/de30933a-831b-4fb7-8a58-5a2f1088401c/de30933a-831b-4fb7-8a58-5a2f1088401c.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Melissa Bethi",
-        "Andi Sullivan",
-        "Caiya Hanks",
-        "Tara Rudd",
-        "Nina Nijstad",
-        "Sophia Wilson",
-        "Sofia Cantore",
-        "Enzo Fernández"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49853080",
-      "headline": "Stanford vs. Santa Clara: Game Highlights",
-      "description": "Stanford vs. Santa Clara: Game Highlights",
-      "published": "2026-09-06T22:17:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/49853080/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/ab5a12a6-b49d-4e48-bfd8-a6eb7b21a294/ab5a12a6-b49d-4e48-bfd8-a6eb7b21a294.jpg",
+      "id": "49851430",
+      "headline": "Arteta 'enjoyed every minute' of Arsenal's win over Chelsea",
+      "description": "Arteta 'enjoyed every minute' of Arsenal's win over Chelsea",
+      "published": "2026-09-06T19:29:03Z",
+      "url": "https://www.espn.com/video/clip/_/id/49851430/arteta-enjoyed-every-minute-arsenal-win-chelsea",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_Arteta_enjoyed_every_minute_of_Arsenals_win_over_Chelsea/dm_260906_Arteta_enjoyed_every_minute_of_Arsenals_win_over_Chelsea.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -139,15 +179,15 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 132
+      "score": 125
     },
     {
-      "id": "49853079",
-      "headline": "Chicago Stars vs. North Carolina Courage - Game Highlights",
-      "description": "Watch the Game Highlights from Chicago Stars vs. North Carolina Courage, 09/07/2026",
-      "published": "2026-09-06T22:17:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49853079/chicago-stars-vs-north-carolina-courage-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/312954fc-bbf7-44bc-8da0-eae067408685/312954fc-bbf7-44bc-8da0-eae067408685.jpg",
+      "id": "49851333",
+      "headline": "Mohamed Salah scores and assists in Trabzonspor's big win",
+      "description": "Mohamed Salah scores and assists in Trabzonspor's big win",
+      "published": "2026-09-06T19:18:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/49851333/mohamed-salah-scores-assists-trabzonspor-big-win",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_Mohamed_Salah_scores_and_assists_in_Trabzonspors_big_win/dm_260906_Mohamed_Salah_scores_and_assists_in_Trabzonspors_big_win.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -155,32 +195,147 @@
         "Argentina"
       ],
       "players": [
-        "Ashley Sanchez",
-        "Érica Parkinson",
-        "Ryan Williams",
-        "Shinomi Koyama",
-        "Chioma Okafor",
+        "Mohamed Salah",
         "Enzo Fernández"
       ],
-      "score": 132
+      "score": 125
     },
     {
-      "id": "49852821",
-      "headline": "Michigan vs. Notre Dame: Game Highlights",
-      "description": "Michigan vs. Notre Dame: Game Highlights",
-      "published": "2026-09-06T21:51:51Z",
-      "url": "https://www.espn.com/video/clip/_/id/49852821/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/c9d888d3-a340-4663-a56d-f32ace993d1a/c9d888d3-a340-4663-a56d-f32ace993d1a.jpg",
+      "id": "49851253",
+      "headline": "Leboeuf: Everton made Bruno Fernandes 'invisible' in Man United draw",
+      "description": "Leboeuf: Everton made Bruno Fernandes 'invisible' in Man United draw",
+      "published": "2026-09-06T19:04:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49851253/everton-made-bruno-fernandes-invisible-man-united-draw",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_COM_SOC_Analysis_Leboeuf_Everton_made_Bruno_Fernandes_invisible_in_Man_United_draw_20260906_G/dm_260906_COM_SOC_Analysis_Leboeuf_Everton_made_Bruno_Fernandes_invisible_in_Man_United_draw_20260906_G.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
-        "Enzo Fernández"
+        "Bruno Fernandes",
+        "Patrick Beach"
       ],
-      "score": 131
+      "score": 124
+    },
+    {
+      "id": "49851128",
+      "headline": "Mikel Arteta: Arsenal can go to a 'higher level' than last season",
+      "description": "Mikel Arteta believes Arsenal's 2-1 win over Chelsea is proof the Gunners can go to a \"higher level\" than last season.",
+      "published": "2026-09-06T19:00:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49851128/mikel-arteta-arsenal-chelsea-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712404_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49851060",
+      "headline": "Burley hails 'sublime' Odegaard after Arsenal impress vs. Chelsea",
+      "description": "Burley hails 'sublime' Odegaard after Arsenal impress vs. Chelsea",
+      "published": "2026-09-06T18:44:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/49851060/burley-hails-sublime-odegaard-arsenal-impress-vs-chelsea",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_COM_SOC_Analysis_Burley_hails_sublime_Odegaard_after_Arsenal_impress_vs_Chelsea_20260906_GLOB/dm_260906_COM_SOC_Analysis_Burley_hails_sublime_Odegaard_after_Arsenal_impress_vs_Chelsea_20260906_GLOB.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Martin Ødegaard",
+        "Patrick Beach"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49851058",
+      "headline": "Málaga vs. Levante - Game Highlights",
+      "description": "Watch the Game Highlights from Málaga vs. Levante, 09/06/2026",
+      "published": "2026-09-06T18:42:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49851058/malaga-vs-levante-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/93bec655-ad32-44e0-abb7-efd22556e4ee/93bec655-ad32-44e0-abb7-efd22556e4ee.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Chupete",
+        "Nacho Pérez",
+        "Thiago Fernández",
+        "Juan Cruz",
+        "Mathew Ryan",
+        "Patrick Beach"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49851013",
+      "headline": "Xabi Alonso: Chelsea must 'address' defensive issues after Arsenal defeat",
+      "description": "Xabi Alonso said Chelsea must resolve their defensive frailties after a 2-1 defeat against Arsenal took their goals conceded tally to seven in just three games this sea",
+      "published": "2026-09-06T18:41:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49851013/xabi-alonso-chelsea-address-defensive-issues-arsenal-defeat",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712398_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49851035",
+      "headline": "Alavés vs. Osasuna - Game Highlights",
+      "description": "Watch the Game Highlights from Alavés vs. Osasuna, 09/06/2026",
+      "published": "2026-09-06T18:38:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49851035/alaves-vs-osasuna-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/ce9890a3-e8e8-4293-8998-5ec7b0acfab2/ce9890a3-e8e8-4293-8998-5ec7b0acfab2.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Pablo Ibáñez",
+        "Lucas Boyé",
+        "Mariano Díaz",
+        "Ante Budimir",
+        "Patrick Beach"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49851009",
+      "headline": "Rice vs. Florida St.: Game Highlights",
+      "description": "Rice vs. Florida St.: Game Highlights",
+      "published": "2026-09-06T18:34:22Z",
+      "url": "https://www.espn.com/video/clip/_/id/49851009/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/bc202eed-53af-4b4b-aeb3-c31b43b5556b/bc202eed-53af-4b4b-aeb3-c31b43b5556b.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Patrick Beach"
+      ],
+      "score": 123
     },
     {
       "id": "49824937",
@@ -198,7 +353,7 @@
       "players": [
         "Enzo Fernández"
       ],
-      "score": 117
+      "score": 114
     },
     {
       "id": "49817156",
@@ -212,7 +367,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 77
+      "score": 75
     },
     {
       "id": "49466177",
@@ -271,7 +426,7 @@
         "USA"
       ],
       "players": [],
-      "score": 45
+      "score": 43
     },
     {
       "id": "49793781",
@@ -723,134 +878,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49607480",
-      "headline": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania",
-      "description": "New Zealand's football federation has withdrawn its support for under-fire FIFA president Gianni Infantino in a break with the wider Oceania Football Confederation (OFC).",
-      "published": "2026-08-14T08:49:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49607480/new-zealand-withdraws-support-fifa-president-gianni-infantino-break-oceania",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "New Zealand"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49598001",
-      "headline": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup",
-      "description": "Somali referee Omar Artan was denied entry to the U.S. for the World Cup, sparking a remarkable chain of events that led to him officiating the UEFA Super Cup.",
-      "published": "2026-08-13T15:28:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49598001/this-was-my-world-cup-somali-referee-omar-artan-barred-us-uefa-super-cup",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701194_1296x729_16-9.jpg",
-      "byline": "Lee Wingate",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49599931",
-      "headline": "Six Arab federations back Infantino amid revolt over World Cup plan",
-      "description": "The heads of six Arab football federations expressed their \"full support\" and \"confidence\" in Gianni Infantino on Thursday as the embattled FIFA president fights to keep his job after his failed World Cup private investment plan.",
-      "published": "2026-08-13T14:40:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49599931/six-arab-federations-back-infantino-amid-revolt-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49592307",
-      "headline": "Netherlands hire Xavi as coach through 2030 World Cup",
-      "description": "The Netherlands have appointed Barcelona great Xavi Hernández as the national team's new coach following the resignation of Ronald Koeman after a disappointing FIFA World Cup.",
-      "published": "2026-08-12T19:46:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49592307/netherlands-hire-xavi-coach-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0101/r1595503_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Netherlands"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49585269",
-      "headline": "Chris Turner roasts the USMNT's World Cup performance in a freestyle rap",
-      "description": "Chris Turner roasts the USMNT's World Cup performance in a freestyle rap",
-      "published": "2026-08-11T21:15:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49585269/chris-turner-roasts-usmnt-world-cup-performance-freestyle-rap",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_Chris_Turner_roasts_the_USMNTs_World_Cup_performance_in_a_freestyle_rap/dm_260811_Chris_Turner_roasts_the_USMNTs_World_Cup_performance_in_a_freestyle_rap.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49582283",
-      "headline": "Forlán: If Suárez is available for selection, why not?",
-      "description": "Forlán: If Suárez is available for selection, why not?",
-      "published": "2026-08-11T13:55:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49582283/suarez-available-selection-why-not",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_COM_SOC_Analysis_ForlC3A1n3A_If_SuC3A1rez_is_available_for_selection2C_why_not3F__GLOBAL_2026-08-11/dm_260811_COM_SOC_Analysis_ForlC3A1n3A_If_SuC3A1rez_is_available_for_selection2C_why_not3F__GLOBAL_2026-08-11.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49575753",
-      "headline": "Barred Somali World Cup ref 'grateful' for Super Cup shot",
-      "description": "Omar Artan -- the Somali World Cup referee refused entry to the United States -- has spoken about the \"very tough period\" during what should have been the highlight of his career.",
-      "published": "2026-08-10T17:30:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49575753/barred-somali-world-cup-ref-grateful-super-cup-shot",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670161_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49719477",
-      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
-      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
-      "published": "2026-08-25T10:22:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 9
     }
   ]
 }
