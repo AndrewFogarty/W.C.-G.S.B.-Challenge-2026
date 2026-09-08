@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-08T21:00:29.291Z",
+  "updated": "2026-09-08T23:20:09.160Z",
   "counts": {
-    "news": 35,
-    "offfield": 8,
-    "injury": 3,
-    "celebration": 1,
-    "preview": 1
+    "news": 36,
+    "offfield": 6,
+    "injury": 2,
+    "celebration": 2,
+    "preview": 2
   },
   "items": [
     {
@@ -21,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 204
+      "score": 200
     },
     {
       "id": "49868020",
@@ -39,7 +39,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 193
+      "score": 189
     },
     {
       "id": "49857842",
@@ -58,7 +58,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 156
+      "score": 153
     },
     {
       "id": "49869543",
@@ -71,69 +71,68 @@
       "kind": "injury",
       "kindLabel": "Injury",
       "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 136
+    },
+    {
+      "id": "49842017",
+      "headline": "McGinn makes Villa history in opening UCL win over Club Brugge",
+      "description": "After a summer of change for Aston Villa, captain John McGinn continues to deliver.",
+      "published": "2026-09-08T19:47:58Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915426",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713344_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
         "Australia"
       ],
       "players": [
         "Lucas Herrington"
       ],
-      "score": 140
-    },
-    {
-      "id": "49868732",
-      "headline": "Napoli's Scott McTominay undergoes successful heart surgery",
-      "description": "Napoli midfielder Scott McTominay has undergone successful corrective surgery for a minor heart issue.",
-      "published": "2026-09-08T14:10:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49868732/napoli-scott-mctominay-undergoes-successful-heart-surgery",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713214_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Scott McTominay",
-        "Vozinha"
-      ],
-      "score": 137
-    },
-    {
-      "id": "49868479",
-      "headline": "Liverpool's Alexis Mac Allister 'very, very sad' after not being offered new contract",
-      "description": "Liverpool midfielder Alexis Mac Allister has said he was left \"very, very, sad\" after he was not offered a new contract at the club.",
-      "published": "2026-09-08T14:12:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49868479/liverpool-alexis-mac-allister-very-very-sad-not-being-offered-new-contract",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713205_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Alexis Mac Allister",
-        "Vozinha"
-      ],
       "score": 135
     },
     {
-      "id": "49868559",
-      "headline": "Mac Allister 'very sad' not to be offered new Liverpool contract",
-      "description": "Mac Allister 'very sad' not to be offered new Liverpool contract",
-      "published": "2026-09-08T13:30:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/49868559/mac-allister-very-sad-not-offered-new-liverpool-contract",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/dm_260908_Mac_Allister_very_sad_not_to_be_offered_new_Liverpool_contract/dm_260908_Mac_Allister_very_sad_not_to_be_offered_new_Liverpool_contract.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49870536",
+      "headline": "Napoli facing midfielder shortage for Arsenal Champions League clash",
+      "description": "- Napoli has issues in midfield for its Champions League opener against Arsenal on Wednesday, with both",
+      "published": "2026-09-08T17:56:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49870536/napoli-midfielder-arsenal-champions-league-allegri-mctominay",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713317_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
-        "Cabo Verde"
+        "Australia"
       ],
       "players": [
-        "Alexis Mac Allister",
-        "Vozinha"
+        "Lucas Herrington"
       ],
       "score": 134
+    },
+    {
+      "id": "49871058",
+      "headline": "Spanish refs stand by call not to retake Mbappé pen miss",
+      "description": "The decision not to allow Kylian Mbappé's missed penalty in Real Madrid's 1-0 defeat at Real Betis to be retaken was correct, the body in charge of Spain's referees said on Tuesday.",
+      "published": "2026-09-08T19:28:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49871058/spanish-refs-stand-call-not-retake-mbappe-pen-miss",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713360_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Spain"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Lucas Herrington"
+      ],
+      "score": 127
     },
     {
       "id": "49869563",
@@ -146,12 +145,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Cabo Verde"
       ],
       "players": [
-        "Lucas Herrington"
+        "Vozinha"
       ],
-      "score": 128
+      "score": 124
     },
     {
       "id": "49829825",
@@ -164,12 +163,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Cabo Verde"
       ],
       "players": [
-        "Lucas Herrington"
+        "Vozinha"
       ],
-      "score": 128
+      "score": 124
     },
     {
       "id": "49869841",
@@ -182,12 +181,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Cabo Verde"
       ],
       "players": [
-        "Lucas Herrington"
+        "Vozinha"
       ],
-      "score": 127
+      "score": 123
     },
     {
       "id": "49866841",
@@ -200,15 +199,15 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Cabo Verde"
       ],
       "players": [
         "Harry Kane",
         "Kylian Mbappé",
         "Lamine Yamal",
-        "Lucas Herrington"
+        "Vozinha"
       ],
-      "score": 125
+      "score": 121
     },
     {
       "id": "49869325",
@@ -221,12 +220,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Cabo Verde"
       ],
       "players": [
-        "Lucas Herrington"
+        "Vozinha"
       ],
-      "score": 124
+      "score": 121
     },
     {
       "id": "49869101",
@@ -239,13 +238,13 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Australia"
+        "Cabo Verde"
       ],
       "players": [
         "Jonathan David",
-        "Lucas Herrington"
+        "Vozinha"
       ],
-      "score": 123
+      "score": 120
     },
     {
       "id": "49847747",
@@ -259,107 +258,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 123
-    },
-    {
-      "id": "49868658",
-      "headline": "Barcelona's Lamine Yamal says he won't 'beg' to win Ballon d'Or",
-      "description": "Barcelona forward Lamine Yamal said he won't \"beg\" to be given the Ballon d'Or after helping Spain win the World Cup this summer.",
-      "published": "2026-09-08T13:56:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49868658/barcelona-spain-lamine-yamal-not-beg-win-ballon-dor",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711266_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Vozinha"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49868657",
-      "headline": "Hislop: Espi will not resolve Real Madrid balance issue",
-      "description": "Hislop: Espi will not resolve Real Madrid balance issue",
-      "published": "2026-09-08T13:44:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/49868657/espi-not-resolve-real-madrid-balance-issue",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/dm_260908_Hislop_Espi_will_not_resolve_Real_Madrid_balance_issue/dm_260908_Hislop_Espi_will_not_resolve_Real_Madrid_balance_issue.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Carlos Espí",
-        "Kylian Mbappé",
-        "Vinícius Júnior",
-        "Vozinha"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49868642",
-      "headline": "Gomez: This is Barcelona playing total football",
-      "description": "Gomez: This is Barcelona playing total football",
-      "published": "2026-09-08T13:38:48Z",
-      "url": "https://www.espn.com/video/clip/_/id/49868642/barcelona-playing-total-football",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/dm_260908_Gomez_This_is_Barcelona_playing_total_football/dm_260908_Gomez_This_is_Barcelona_playing_total_football.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Fermín López",
-        "Lamine Yamal",
-        "Pedri",
-        "Raphinha",
-        "Rodri",
-        "Vozinha"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49868515",
-      "headline": "Iraola looking forward to 'special' first UCL game at Anfield",
-      "description": "Iraola looking forward to 'special' first UCL game at Anfield",
-      "published": "2026-09-08T13:23:57Z",
-      "url": "https://www.espn.com/video/clip/_/id/49868515/iraola-looking-forward-special-first-ucl-game-anfield",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/dm_260908_Iraola_looking_forward_to_special_first_UCL_game_at_Anfield/dm_260908_Iraola_looking_forward_to_special_first_UCL_game_at_Anfield.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 122
-    },
-    {
-      "id": "49868333",
-      "headline": "English non-league goalkeeper chosen as king of Ugandan kingdom",
-      "description": "A goalkeeper playing in the ninth tier of English football has been chosen to become the next king of a traditional kingdom in Uganda.",
-      "published": "2026-09-08T13:03:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49868333/english-non-league-goalkeeper-chosen-king-ugandan-kingdom",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713181_1200x675_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 121
+      "score": 119
     },
     {
       "id": "49824937",
@@ -865,6 +764,86 @@
       "kindLabel": "News",
       "teams": [
         "Norway"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49639158",
+      "headline": "Scotland FA latest to withdraw support for FIFA's Gianni Infantino",
+      "description": "The Scottish Football Association has officially withdrawn its support for FIFA president Gianni Infantino, citing the \"lack of transparency\" shown over the plan to sell stakes in a World Cup company to private investors.",
+      "published": "2026-08-17T15:37:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49639158/scotland-fa-latest-withdraw-support-fifa-gianni-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698132_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Scotland"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49607480",
+      "headline": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania",
+      "description": "New Zealand's football federation has withdrawn its support for under-fire FIFA president Gianni Infantino in a break with the wider Oceania Football Confederation (OFC).",
+      "published": "2026-08-14T08:49:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49607480/new-zealand-withdraws-support-fifa-president-gianni-infantino-break-oceania",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "New Zealand"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49598001",
+      "headline": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup",
+      "description": "Somali referee Omar Artan was denied entry to the U.S. for the World Cup, sparking a remarkable chain of events that led to him officiating the UEFA Super Cup.",
+      "published": "2026-08-13T15:28:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49598001/this-was-my-world-cup-somali-referee-omar-artan-barred-us-uefa-super-cup",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701194_1296x729_16-9.jpg",
+      "byline": "Lee Wingate",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49599931",
+      "headline": "Six Arab federations back Infantino amid revolt over World Cup plan",
+      "description": "The heads of six Arab football federations expressed their \"full support\" and \"confidence\" in Gianni Infantino on Thursday as the embattled FIFA president fights to keep his job after his failed World Cup private investment plan.",
+      "published": "2026-08-13T14:40:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49599931/six-arab-federations-back-infantino-amid-revolt-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Morocco"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49592307",
+      "headline": "Netherlands hire Xavi as coach through 2030 World Cup",
+      "description": "The Netherlands have appointed Barcelona great Xavi Hernández as the national team's new coach following the resignation of Ronald Koeman after a disappointing FIFA World Cup.",
+      "published": "2026-08-12T19:46:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49592307/netherlands-hire-xavi-coach-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0101/r1595503_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Netherlands"
       ],
       "players": [],
       "score": 10
