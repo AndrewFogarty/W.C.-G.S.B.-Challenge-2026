@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-09T11:17:40.793Z",
+  "updated": "2026-09-09T21:11:53.697Z",
   "counts": {
-    "news": 36,
-    "offfield": 7,
-    "preview": 3,
+    "news": 37,
+    "offfield": 8,
     "injury": 1,
-    "celebration": 1
+    "celebration": 1,
+    "preview": 1
   },
   "items": [
     {
@@ -25,7 +25,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 209
+      "score": 194
     },
     {
       "id": "49865329",
@@ -42,7 +42,7 @@
         "Egypt"
       ],
       "players": [],
-      "score": 186
+      "score": 171
     },
     {
       "id": "49867974",
@@ -56,7 +56,45 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 162
+      "score": 147
+    },
+    {
+      "id": "49881502",
+      "headline": "Curaçao extend Dick Advocaat's contract to July 2027",
+      "description": "Veteran coach Dick Advocaat has extended his contract with Curaçao until the end of July 2027, the country's federation said on Wednesday.",
+      "published": "2026-09-09T16:53:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49881502/curacao-extend-dick-advocaat-contract-july-2027",
+      "image": "https://a.espncdn.com/photo/2025/1119/r1577590_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde",
+        "Curaçao"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49876963",
+      "headline": "Transfer rumors, news: Man United blow as Hall agrees new Newcastle deal",
+      "description": "Manchester United target Lewis Hall has reportedly agreed a new contract with Newcastle United. Transfer Talk has the latest.",
+      "published": "2026-09-09T14:58:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49876963/transfer-rumors-news-man-united-blow-hall-agrees-new-newcastle-deal",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711244_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Lewis Hall",
+        "Harry Kane"
+      ],
+      "score": 136
     },
     {
       "id": "49868020",
@@ -74,73 +112,52 @@
       "players": [
         "Vozinha"
       ],
-      "score": 151
+      "score": 136
     },
     {
-      "id": "49877964",
-      "headline": "Gabriel Jesus: I was made to train alone at Arsenal before Barcelona move",
-      "description": "Gabriel Jesus has said he was made to train alone at Arsenal this summer as the club sought to move him on during the transfer window.",
-      "published": "2026-09-09T09:43:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49877964/gabriel-jesus-was-made-train-alone-arsenal-barcelona-move",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713666_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49882238",
+      "headline": "Stuttgart's Demirovic scores 12-minute Champions League hat trick",
+      "description": "VfB Stuttgart 's Ermedin Demirovic scored the first hat trick of the Champions League season in the span of 12 first-half minutes against Viking on Wednesday.",
+      "published": "2026-09-09T18:30:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49882238/stuttgart-ermedin-demirovic-champions-league-hat-trick-viking",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713856_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "England"
+        "Cabo Verde"
       ],
       "players": [
-        "Gabriel Jesus",
-        "Harry Kane"
+        "Ermedin Demirovic",
+        "Vozinha"
       ],
-      "score": 143
+      "score": 129
     },
     {
-      "id": "49878227",
-      "headline": "Marcus Rashford returns to training ahead of Manchester United's Champions League clash",
-      "description": "Marcus Rashford trained as normal with the Manchester United squad on Wednesday ahead of the Champions League tie with Sabah FK.",
-      "published": "2026-09-09T10:35:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49878227/marcus-rashford-returns-training-ahead-manchester-united-champions-league-clash",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713674_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49881473",
+      "headline": "Non-league side report individual for impersonating their manager, making offers to players",
+      "description": "Non-league side Gainsborough Trinity have reported an unidentified individual for impersonating their manager, Russ Wilcox, and making bogus offers to players.",
+      "published": "2026-09-09T16:52:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49881473/gainsborough-trinity-non-league-side-report-individual-impersonating-their-manager-making-offers-players",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713802_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "England"
+        "Cabo Verde"
       ],
       "players": [
-        "Marcus Rashford",
-        "Harry Kane"
+        "Vozinha"
       ],
-      "score": 141
+      "score": 127
     },
     {
-      "id": "49877824",
-      "headline": "Thiago Silva slams Ancelotti's Brazil overhaul: 'You can't just get rid of everyone'",
-      "description": "Thiago Silva has criticised plans by Brazil manager Carlo Ancelotti to carry out a major overhaul of the national team at the start of the build-up to the 2030 World Cup.",
-      "published": "2026-09-09T09:27:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49877824/thiago-silva-slams-ancelotti-brazil-overhaul-just-get-rid-everyone",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713668_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England",
-        "Brazil"
-      ],
-      "players": [
-        "Thiago Silva Nascimento",
-        "Harry Kane"
-      ],
-      "score": 139
-    },
-    {
-      "id": "49878463",
-      "headline": "Premier League panel: Harry Maguire goal vs. Ipswich right to stand, Arsenal deserved penalty vs. Aston Villa",
-      "description": "The Premier League's Key Match Incidents (KMI) panel has said the decision to allow a Man United goal against Ipswich after an apparent handball by Maguire was correct and added that VAR should have intervened to award Arsenal a penalty against Villa.",
-      "published": "2026-09-09T11:13:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49878463/premier-league-panel-harry-maguire-goal-vs-ipswich-right-stand-arsenal-deserved-penalty-vs-aston-villa",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709133_1296x729_16-9.jpg",
+      "id": "49879156",
+      "headline": "Vincent Kompany sets out Bayern Champions League title aim as new campaign begins",
+      "description": "Bayern Munich head coach Vincent Kompany knows his side will again be expected to mount another serious Champions League challenge as they prepare to open the new European campaign against Bodo/Glimt.",
+      "published": "2026-09-09T14:39:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49879156/vincent-kompany-reiterates-bayern-always-champions-league-title-ambitions-campaign-begins",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713698_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
@@ -148,59 +165,109 @@
         "England"
       ],
       "players": [
-        "Harry Maguire",
-        "Bruno Guimarães",
         "Harry Kane"
       ],
-      "score": 133
+      "score": 123
     },
     {
-      "id": "49878143",
-      "headline": "Spanish Football Federation announces egg freezing, fertility treatment agreement",
-      "description": "The Royal Spanish Football Federation (RFEF) has announced an agreement for its players to freeze their eggs and undergo fertility treatment.",
-      "published": "2026-09-09T10:16:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49878143/spanish-football-federation-announces-egg-freezing-fertility-treatment-agreement",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713672_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
+      "id": "49880158",
+      "headline": "Man City's Erling Haaland claims Porto's Pablo Rosario grabbed his backside in Champions League win",
+      "description": "Erling Haaland claimed Porto's Pablo Rosario grabbed his bottom during Manchester City's ill-tempered Champions League win at the Estádio do Dragão on Tuesday.",
+      "published": "2026-09-09T14:34:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49880158/manchester-city-erling-haaland-champions-league-porto-bottom-pablo-rosario",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713749_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "England",
-        "Spain"
+        "England"
       ],
       "players": [
-        "Alexia Putellas",
+        "Erling Haaland",
         "Harry Kane"
       ],
-      "score": 131
+      "score": 123
     },
     {
-      "id": "49878072",
-      "headline": "Real Madrid goalkeeper Thibaut Courtois to step away from Belgium's Nations League campaign",
-      "description": "Real Madrid goalkeeper Thibaut Courtois will not play for Belgium in the Nations League campaign but has not retired from international football.",
-      "published": "2026-09-09T10:05:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49878072/real-madrid-goalkeeper-thibaut-courtois-step-away-belgium-nations-league-campaign",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713669_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
+      "id": "49880311",
+      "headline": "Kompany: Bayern Munich must be patient with Musiala",
+      "description": "Kompany: Bayern Munich must be patient with Musiala",
+      "published": "2026-09-09T14:28:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/49880311/bayern-munich-patient-musiala",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0909/dm_260909_Kompany_Bayern_Munich_must_be_patient_with_Musiala/dm_260909_Kompany_Bayern_Munich_must_be_patient_with_Musiala.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "England",
-        "Belgium"
+        "England"
       ],
       "players": [
-        "Thibaut Courtois",
+        "Jamal Musiala",
         "Harry Kane"
       ],
-      "score": 131
+      "score": 123
     },
     {
-      "id": "49877847",
-      "headline": "Ex-Liverpool, Real Oviedo midfielder Ovie Ejaria takes to LinkedIn in new club search",
-      "description": "Former Liverpool and Real Oviedo midfielder Ovie Ejaria has taken to LinkedIn as he bids to find a new club.",
-      "published": "2026-09-09T09:41:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49877847/ex-liverpool-real-oviedo-midfielder-ovie-ejaria-looking-new-club-linkedin",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713667_1296x729_16-9.jpg",
+      "id": "49829954",
+      "headline": "UEFA Champions League live updates: Barcelona begin campaign against Feyenoord",
+      "description": "The UEFA Champions League is back this week! Enjoy all of Wednesday's league phase matches across Europe.",
+      "published": "2026-09-09T14:27:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49829954/uefa-champions-league-live-updates-barcelona-feyenoord-liverpool-atletico-madrid-napoli-arsenal",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711587_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49879895",
+      "headline": "Michael Carrick: Man United not in Champions League 'to just enjoy the occasion'",
+      "description": "Michael Carrick has said Manchester United are not in the Champions League to make up the numbers and insists his team can make an impression on the competition this season.",
+      "published": "2026-09-09T14:03:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49879895/man-united-not-champions-league-just-enjoy-occasion",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713722_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 122
+    },
+    {
+      "id": "49862659",
+      "headline": "Man United's Champions League return: What does success look like?",
+      "description": "A club of Manchester United's size should start most competitions among the favourites, though that doesn't tally with the situation they find themselves upon their return to the Champions League.",
+      "published": "2026-09-09T13:48:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49862659/man-uniteds-champions-league-return-does-success-look-like",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713598_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 122
+    },
+    {
+      "id": "49879219",
+      "headline": "Ryan Giggs: Attempted to sway Elliot Anderson to Man United in chance holiday meeting",
+      "description": "Ryan Giggs has said that he tried to pitch Manchester United to Elliot Anderson over the summer -- being before asked to \"leave me alone.\"",
+      "published": "2026-09-09T13:29:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49879219/ryan-giggs-attempted-sway-elliot-anderson-manchester-united-chance-holiday-meeting",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713703_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
@@ -208,29 +275,10 @@
         "England"
       ],
       "players": [
-        "Ovie Ejaria",
+        "Elliot Anderson",
         "Harry Kane"
       ],
-      "score": 131
-    },
-    {
-      "id": "49877849",
-      "headline": "Krieger: Fertility support should be the standard across the women's game",
-      "description": "Krieger: Fertility support should be the standard across the women's game",
-      "published": "2026-09-09T09:20:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/49877849/fertility-support-standard-women-game",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0909/dm_260909_COM_SOC_Analysis_Krieger_Fertility_support_should_be_the_standard_across_the_womens_game_202609/dm_260909_COM_SOC_Analysis_Krieger_Fertility_support_should_be_the_standard_across_the_womens_game_202609.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Spain"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 130
+      "score": 121
     },
     {
       "id": "49857842",
@@ -249,7 +297,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 115
+      "score": 100
     },
     {
       "id": "49847747",
@@ -263,7 +311,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 82
+      "score": 67
     },
     {
       "id": "49824937",
@@ -806,54 +854,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49599931",
-      "headline": "Six Arab federations back Infantino amid revolt over World Cup plan",
-      "description": "The heads of six Arab football federations expressed their \"full support\" and \"confidence\" in Gianni Infantino on Thursday as the embattled FIFA president fights to keep his job after his failed World Cup private investment plan.",
-      "published": "2026-08-13T14:40:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49599931/six-arab-federations-back-infantino-amid-revolt-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49592307",
-      "headline": "Netherlands hire Xavi as coach through 2030 World Cup",
-      "description": "The Netherlands have appointed Barcelona great Xavi Hernández as the national team's new coach following the resignation of Ronald Koeman after a disappointing FIFA World Cup.",
-      "published": "2026-08-12T19:46:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49592307/netherlands-hire-xavi-coach-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0101/r1595503_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Netherlands"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49719477",
-      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
-      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
-      "published": "2026-08-25T10:22:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 9
     }
   ]
 }
