@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-10T01:12:02.604Z",
+  "updated": "2026-09-10T06:01:06.971Z",
   "counts": {
-    "news": 36,
-    "offfield": 9,
-    "injury": 1,
+    "news": 37,
+    "injury": 2,
+    "offfield": 7,
     "celebration": 1,
     "preview": 1
   },
@@ -13,7 +13,7 @@
       "id": "47978642",
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
       "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-09-09T21:13:11Z",
+      "published": "2026-09-10T04:14:58Z",
       "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
       "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -25,7 +25,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 207
+      "score": 210
     },
     {
       "id": "49877552",
@@ -43,7 +43,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 178
+      "score": 171
     },
     {
       "id": "49865329",
@@ -60,64 +60,144 @@
         "Egypt"
       ],
       "players": [],
-      "score": 155
+      "score": 147
     },
     {
-      "id": "49884948",
-      "headline": "Mac Allister stunner gives Liverpool win amid contract sadness",
-      "description": "A day after revealing his disappointment over the lack of a new contract offer by Liverpool, Alexis Mac Allister delivered the perfect response with the winning goal in a 2-1 victory against Atlético Madrid in the Champions League on Wednesday.",
-      "published": "2026-09-10T00:49:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49884948/alexis-mac-allister-liverpool-contract-atletico-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1714067_1296x729_16-9.jpg",
+      "id": "49888215",
+      "headline": "Filipinas' Angela Beard ruled out of Asian Games",
+      "description": "The Philippines Women's National Team's preparations for the Asian Games have suffered a setback, with Angela Beard ruled out of the tournament due to injury.",
+      "published": "2026-09-10T05:17:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49888215/asian-games-2026-aichi-nagoya-angela-beard-ruled-philippines-womens-national-team",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713640_1296x729_16-9.jpg",
+      "byline": "Mikhail De Guzman",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Angela Beard",
+        "Lionel Messi"
+      ],
+      "score": 146
+    },
+    {
+      "id": "49887789",
+      "headline": "Sources: Deyna Castellanos to join Tigres after Portland Thorns exit",
+      "description": "Deyna Castellanos is set to sign with Liga MX Femenil powerhouse Tigres after reaching an agreement to terminate her contract with the Portland Thorns.",
+      "published": "2026-09-10T04:36:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49887789/sources-tigres-sign-former-portland-thorns-midfielder-deyna-castellanos",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714181_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Deyna Castellanos",
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49888506",
+      "headline": "LAFC vs. New York Red Bulls - Game Highlights",
+      "description": "Watch the Game Highlights from LAFC vs. New York Red Bulls, 09/09/2026",
+      "published": "2026-09-10T05:06:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/49888506/lafc-vs-new-york-red-bulls-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0910/ae4122a9-48ed-4e93-9423-8579d264e176/ae4122a9-48ed-4e93-9423-8579d264e176.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Jacob Shaffelburg",
+        "Armindo Sieb",
+        "Son Heung-Min",
+        "Eric Maxim Choupo-Moting",
+        "Jude Terry",
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49888519",
+      "headline": "Ødegaard scores 75th-minute match-winner for Arsenal",
+      "description": "Arsenal captain Martin Ødegaard leads by example, striking a rocket in the 75th-minute to give the Gunners a 1-0 win over Napoli.",
+      "published": "2026-09-10T04:52:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/49888519/odegaard-scores-75th-minute-match-winner-arsenal",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_Soccer_HIGHLIGHT_Odegaard_scores_75th_minute_match_winner_for_Arsenal_20260910_AUS/dm_260910_Soccer_HIGHLIGHT_Odegaard_scores_75th_minute_match_winner_for_Arsenal_20260910_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49888351",
+      "headline": "Liverpool recover from early deficit for 2-1 win",
+      "description": "Dominik Szoboszlai and Alexis Mac Allister's goals see the Reds complete the comeback at Anfield.",
+      "published": "2026-09-10T04:26:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49888351/liverpool-recover-early-deficit-2-1-win",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_Soccer_HIGHLIGHT_Liverpool_recover_from_early_deficit_for_2_1_win_20260910_AUS/dm_260910_Soccer_HIGHLIGHT_Liverpool_recover_from_early_deficit_for_2_1_win_20260910_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49887266",
+      "headline": "Socceroos Depth Chart: Preparing for Brazil and the Asian Cup",
+      "description": "With the Seleção headed to Australian shores, Joey Lynch runs the rule over Tony Popovic's potential Socceroos squad.",
+      "published": "2026-09-10T04:17:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49887266/socceroos-depth-chart-preparing-brazil-asian-cup",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714195_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Australia",
+        "Brazil"
+      ],
+      "players": [
+        "Nestory Irankunda",
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49887607",
+      "headline": "Miami rallies for draw after Lewandowski goal in front of record Fire crowd",
+      "description": "Inter Miami and Lionel Messi rallied from a goal down at Soldier Field in Chicago for a 1-1 draw against Robert Lewandowski and the Fire in front of 63,094 fans, besting the club's home attendance record set last season in the same matchup.",
+      "published": "2026-09-10T03:41:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49887607/miami-rallies-draw-lewandowski-goal-record-fire-crowd",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714168_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Alexis Mac Allister",
+        "Robert Lewandowski",
         "Lionel Messi"
       ],
-      "score": 144
-    },
-    {
-      "id": "49884516",
-      "headline": "Who needs a forward? Arsenal might, but not while Ødegaard keeps delivering",
-      "description": "Having Martin Ødegaard at his best could be the key to Arsenal winning the Champions League, transfer window misses notwithstanding.",
-      "published": "2026-09-09T23:11:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49884516/who-needs-forward-arsenal-not-odegaard-keeps-delivering-uefa-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1714017_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49885468",
-      "headline": "Atlético's Koke: Team, Julián Álvarez 'tired' of summer transfer fuss",
-      "description": "Atlético Madrid captain Koke stated on Wednesday that Julián Álvarez must be left \"in peace\" so he can \"play, enjoy himself, and do his job\", following the 2-1 Champions League defeat against Liverpool,",
-      "published": "2026-09-09T23:00:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49885468/atletico-madrid-koke-team-julian-alvarez-tired-summer-transfer-fuss",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1714044_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Koke",
-        "Julián Álvarez",
-        "Lionel Messi"
-      ],
-      "score": 142
+      "score": 130
     },
     {
       "id": "49867974",
@@ -131,101 +211,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 131
-    },
-    {
-      "id": "49885818",
-      "headline": "Moreno hails Barcelona's Raphinha for 'No. 9 clinic'",
-      "description": "Moreno hails Barcelona's Raphinha for 'No. 9 clinic'",
-      "published": "2026-09-09T23:24:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/49885818/moreno-hails-barcelona-raphinha-no-9-clinic",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0909/dm_260909_COM_SOC_Analysis_Moreno_hails_Barcelonas_Raphinha_for_No_9_clinic_20260909_GLOBAL/dm_260909_COM_SOC_Analysis_Moreno_hails_Barcelonas_Raphinha_for_No_9_clinic_20260909_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Raphinha",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49885599",
-      "headline": "Moreno: Odegaard goals a 'necessity' for Arsenal",
-      "description": "Moreno: Odegaard goals a 'necessity' for Arsenal",
-      "published": "2026-09-09T23:04:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/49885599/odegaard-goals-necessity-arsenal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0909/dm_260909_COM_SOC_Analysis_Moreno_Odegaard_goals_a_necessity_for_Arsenal_20260909_GLOBAL/dm_260909_COM_SOC_Analysis_Moreno_Odegaard_goals_a_necessity_for_Arsenal_20260909_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Martin Ødegaard",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49885503",
-      "headline": "Mikel Arteta: Martin Ødegaard 'decisive' in Champions League win at Napoli",
-      "description": "Arsenal boss Mikel Arteta hailed the \"decisive\" contribution of Martin Ødegaard after the captain fired his side to a 1-0 win in their Champions League opener at Napoli.",
-      "published": "2026-09-09T23:01:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49885503/mikel-arteta-martin-odegaard-decisive-champions-league-win-napoli",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1714055_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Martin Ødegaard",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49885470",
-      "headline": "Nicol praises Wirtz for best Liverpool performance so far",
-      "description": "Nicol praises Wirtz for best Liverpool performance so far",
-      "published": "2026-09-09T22:46:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/49885470/nicol-praises-wirtz-best-liverpool-performance-far",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0909/dm_260909_COM_SOC_Analysis_Nicol_praises_Wirtz_for_best_Liverpool_performance_so_far_20260909_GLOBAL/dm_260909_COM_SOC_Analysis_Nicol_praises_Wirtz_for_best_Liverpool_performance_so_far_20260909_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Florian Wirtz",
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49885184",
-      "headline": "Chelsea 6-3 Leeds: Morgan Rogers jokes he deserved player of the match award, not Cole Palmer",
-      "description": "Morgan Rogers joked he should have been awarded the player of the match award after Chelsea's stunning come-from-behind 6-3 win over Leeds United.",
-      "published": "2026-09-09T22:43:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49885184/chelsea-6-3-leeds-united-carabao-cup-morgan-rogers-jokes-deserved-player-match-award-not-cole-palmer",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1714042_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 129
+      "score": 124
     },
     {
       "id": "49868020",
@@ -243,7 +229,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 120
+      "score": 113
     },
     {
       "id": "49857842",
@@ -262,7 +248,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 84
+      "score": 77
     },
     {
       "id": "49847747",
@@ -276,7 +262,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 51
+      "score": 43
     },
     {
       "id": "49466177",
@@ -854,6 +840,20 @@
         "Mohamed Salah"
       ],
       "score": 9
+    },
+    {
+      "id": "49817156",
+      "headline": "FIFA accuses UEFA of 'smear campaign' in opposing discovery request",
+      "description": "FIFA accused European soccer body UEFA of a \"smear campaign\" in a court filing Thursday concerning FIFA president Gianni Infantino's failed plan to sell stakes in the World Cup and other competitions.",
+      "published": "2026-09-03T22:42:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49817156/fifa-uefa-legal-filing-discovery-world-cup-sell-stake",
+      "image": "https://a.espncdn.com/photo/2026/0903/r1711044_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
