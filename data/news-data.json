@@ -1,14 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-10T06:01:06.971Z",
+  "updated": "2026-09-10T11:10:01.612Z",
   "counts": {
     "news": 37,
-    "injury": 2,
     "offfield": 7,
-    "celebration": 1,
-    "preview": 1
+    "preview": 2,
+    "injury": 1,
+    "celebration": 1
   },
   "items": [
+    {
+      "id": "49867974",
+      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
+      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
+      "published": "2026-09-10T10:47:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
     {
       "id": "47978642",
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
@@ -25,7 +39,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 210
+      "score": 193
     },
     {
       "id": "49877552",
@@ -43,7 +57,122 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 171
+      "score": 153
+    },
+    {
+      "id": "49889462",
+      "headline": "Transfer rumors, news: Man United, Tottenham eye Club Brugge striker",
+      "description": "Club Brugge striker Nicolo Tresoldi has emerged as a potential target for both Manchester United and Tottenham. Transfer Talk has the latest.",
+      "published": "2026-09-10T10:49:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49889462/transfer-rumors-news-man-united-tottenham-eye-club-brugge-striker",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714230_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Nicolo Tresoldi",
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49890220",
+      "headline": "Sabah FK coach has full-circle moment ahead of club's UCL debut vs. Man Utd",
+      "description": "Sabah FK coach has full-circle moment ahead of club's UCL debut vs. Man Utd",
+      "published": "2026-09-10T10:03:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/49890220/sabah-fk-coach-full-circle-moment-ahead-club-ucl-debut-vs-man-utd",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_Sabah_FK_coach_has_full_circle_moment_ahead_of_clubs_UCL_debut_vs_Man_Utd/dm_260910_Sabah_FK_coach_has_full_circle_moment_ahead_of_clubs_UCL_debut_vs_Man_Utd.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49890559",
+      "headline": "Barcelona's Deco: Anthony Gordon a better fit than Marcus Rashford",
+      "description": "Barcelona sporting director Deco said the club signed Anthony Gordon over Marcus Rashford because he fits the team's style of play better.",
+      "published": "2026-09-10T11:05:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49890559/barcelona-deco-anthony-gordon-better-fit-marcus-rashford",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706159_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Anthony Gordon",
+        "Marcus Rashford",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49890120",
+      "headline": "Nicol believes there is no 'obvious choice' for Ballon d'Or",
+      "description": "Nicol believes there is no 'obvious choice' for Ballon d'Or",
+      "published": "2026-09-10T09:44:01Z",
+      "url": "https://www.espn.com/video/clip/_/id/49890120/nicol-believes-there-no-obvious-choice-ballon-dor",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_Nicol_believes_there_is_no_obvious_choice_for_Ballon_dOr/dm_260910_Nicol_believes_there_is_no_obvious_choice_for_Ballon_dOr.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Harry Kane",
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49890034",
+      "headline": "Barcelona midfielder Rodri apologises for Valencia 'weak' criticism",
+      "description": "Barcelona midfielder Rodri has apologised after television images showed him calling Valencia a \"really bad\" and \"weak\" team during last weekend's 5-0 win at Mestalla.",
+      "published": "2026-09-10T09:28:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49890034/barcelona-midfielder-rodri-apologises-valencia-weak-criticism",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714239_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Rodri",
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49889953",
+      "headline": "Cristiano Ronaldo scores 979th goal, named MOTM as Al Nassr bounce back with win",
+      "description": "Cristiano Ronaldo scored his 979th career goal to pave the way for Al Nassr's 2-1 win against Abha Club on Wednesday.",
+      "published": "2026-09-10T09:26:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49889953/cristiano-ronaldo-scores-979th-goal-named-motm-al-nassr-bounce-back-win",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714240_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Lionel Messi"
+      ],
+      "score": 130
     },
     {
       "id": "49865329",
@@ -60,158 +189,26 @@
         "Egypt"
       ],
       "players": [],
-      "score": 147
-    },
-    {
-      "id": "49888215",
-      "headline": "Filipinas' Angela Beard ruled out of Asian Games",
-      "description": "The Philippines Women's National Team's preparations for the Asian Games have suffered a setback, with Angela Beard ruled out of the tournament due to injury.",
-      "published": "2026-09-10T05:17:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49888215/asian-games-2026-aichi-nagoya-angela-beard-ruled-philippines-womens-national-team",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713640_1296x729_16-9.jpg",
-      "byline": "Mikhail De Guzman",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Angela Beard",
-        "Lionel Messi"
-      ],
-      "score": 146
-    },
-    {
-      "id": "49887789",
-      "headline": "Sources: Deyna Castellanos to join Tigres after Portland Thorns exit",
-      "description": "Deyna Castellanos is set to sign with Liga MX Femenil powerhouse Tigres after reaching an agreement to terminate her contract with the Portland Thorns.",
-      "published": "2026-09-10T04:36:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49887789/sources-tigres-sign-former-portland-thorns-midfielder-deyna-castellanos",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714181_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Deyna Castellanos",
-        "Lionel Messi"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49888506",
-      "headline": "LAFC vs. New York Red Bulls - Game Highlights",
-      "description": "Watch the Game Highlights from LAFC vs. New York Red Bulls, 09/09/2026",
-      "published": "2026-09-10T05:06:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/49888506/lafc-vs-new-york-red-bulls-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0910/ae4122a9-48ed-4e93-9423-8579d264e176/ae4122a9-48ed-4e93-9423-8579d264e176.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Jacob Shaffelburg",
-        "Armindo Sieb",
-        "Son Heung-Min",
-        "Eric Maxim Choupo-Moting",
-        "Jude Terry",
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49888519",
-      "headline": "Ødegaard scores 75th-minute match-winner for Arsenal",
-      "description": "Arsenal captain Martin Ødegaard leads by example, striking a rocket in the 75th-minute to give the Gunners a 1-0 win over Napoli.",
-      "published": "2026-09-10T04:52:05Z",
-      "url": "https://www.espn.com/video/clip/_/id/49888519/odegaard-scores-75th-minute-match-winner-arsenal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_Soccer_HIGHLIGHT_Odegaard_scores_75th_minute_match_winner_for_Arsenal_20260910_AUS/dm_260910_Soccer_HIGHLIGHT_Odegaard_scores_75th_minute_match_winner_for_Arsenal_20260910_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49888351",
-      "headline": "Liverpool recover from early deficit for 2-1 win",
-      "description": "Dominik Szoboszlai and Alexis Mac Allister's goals see the Reds complete the comeback at Anfield.",
-      "published": "2026-09-10T04:26:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/49888351/liverpool-recover-early-deficit-2-1-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_Soccer_HIGHLIGHT_Liverpool_recover_from_early_deficit_for_2_1_win_20260910_AUS/dm_260910_Soccer_HIGHLIGHT_Liverpool_recover_from_early_deficit_for_2_1_win_20260910_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49887266",
-      "headline": "Socceroos Depth Chart: Preparing for Brazil and the Asian Cup",
-      "description": "With the Seleção headed to Australian shores, Joey Lynch runs the rule over Tony Popovic's potential Socceroos squad.",
-      "published": "2026-09-10T04:17:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49887266/socceroos-depth-chart-preparing-brazil-asian-cup",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714195_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Australia",
-        "Brazil"
-      ],
-      "players": [
-        "Nestory Irankunda",
-        "Lionel Messi"
-      ],
       "score": 130
     },
     {
-      "id": "49887607",
-      "headline": "Miami rallies for draw after Lewandowski goal in front of record Fire crowd",
-      "description": "Inter Miami and Lionel Messi rallied from a goal down at Soldier Field in Chicago for a 1-1 draw against Robert Lewandowski and the Fire in front of 63,094 fans, besting the club's home attendance record set last season in the same matchup.",
-      "published": "2026-09-10T03:41:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49887607/miami-rallies-draw-lewandowski-goal-record-fire-crowd",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714168_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "49883605",
+      "headline": "What does Racing Louisville's NWSL future look like -- and does the club even have one?",
+      "description": "Racing Louisville has few fans, its best players want to leave, and there's no improvement in sight. Is an exit from the NWSL next?",
+      "published": "2026-09-10T08:09:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49883605/nwsl-racing-louisville-future-look-new-ownership-relocation-city-folding",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713953_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Robert Lewandowski",
+        "Emma Sears",
         "Lionel Messi"
       ],
-      "score": 130
-    },
-    {
-      "id": "49867974",
-      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
-      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
-      "published": "2026-09-08T19:22:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 124
+      "score": 128
     },
     {
       "id": "49868020",
@@ -229,7 +226,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 113
+      "score": 105
     },
     {
       "id": "49857842",
@@ -248,7 +245,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 77
+      "score": 69
     },
     {
       "id": "49847747",
@@ -262,7 +259,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 43
+      "score": 36
     },
     {
       "id": "49466177",
