@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-10T11:10:01.612Z",
+  "updated": "2026-09-10T14:59:26.544Z",
   "counts": {
-    "news": 37,
+    "news": 38,
     "offfield": 7,
-    "preview": 2,
     "injury": 1,
-    "celebration": 1
+    "celebration": 1,
+    "preview": 1
   },
   "items": [
     {
@@ -21,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 205
+      "score": 200
     },
     {
       "id": "47978642",
@@ -39,7 +39,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 193
+      "score": 187
     },
     {
       "id": "49877552",
@@ -57,7 +57,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 153
+      "score": 147
     },
     {
       "id": "49889462",
@@ -76,25 +76,104 @@
         "Nicolo Tresoldi",
         "Lionel Messi"
       ],
-      "score": 144
+      "score": 139
     },
     {
-      "id": "49890220",
-      "headline": "Sabah FK coach has full-circle moment ahead of club's UCL debut vs. Man Utd",
-      "description": "Sabah FK coach has full-circle moment ahead of club's UCL debut vs. Man Utd",
-      "published": "2026-09-10T10:03:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/49890220/sabah-fk-coach-full-circle-moment-ahead-club-ucl-debut-vs-man-utd",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_Sabah_FK_coach_has_full_circle_moment_ahead_of_clubs_UCL_debut_vs_Man_Utd/dm_260910_Sabah_FK_coach_has_full_circle_moment_ahead_of_clubs_UCL_debut_vs_Man_Utd.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49891906",
+      "headline": "Bayern Munich Ballon d'Or nominees Michael Olise, Luis Díaz get behind Harry Kane in award bid",
+      "description": "Bayern Munich's Ballon d'Or nominees Michael Olise and Luis Diaz have leant their backing to fellow shortlisted player Harry Kane to win the award.",
+      "published": "2026-09-10T14:10:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49891906/bayern-munich-ballon-dor-nominees-michael-olise-luis-diaz-get-harry-kane-award-bid",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688823_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Harry Kane",
+        "Michael Olise",
+        "Luis Díaz",
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49891752",
+      "headline": "Non-league goalkeeper turns down chance to be king of Ugandan kingdom due to 'responsibilities'",
+      "description": "A goalkeeper playing in the ninth tier of English football has turned down the chance to become king of a traditional kingdom in Uganda, according to the royal succession committee.",
+      "published": "2026-09-10T13:46:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49891752/george-desmond-kamurasi-king-ugandan-kingdom",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713181_1200x675_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 131
+    },
+    {
+      "id": "49891231",
+      "headline": "French Football Federation withdraws support for FIFA president Gianni Infantino",
+      "description": "The French Football Federation (FFF) has withdrawn support for Gianni Infantino's bid to be re-elected as FIFA president next year.",
+      "published": "2026-09-10T12:38:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49891231/french-football-federation-withdraws-support-fifa-president-gianni-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714267_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49890906",
+      "headline": "Carlo Ancelotti hits back at Thiago Silva over Brazil squad: 'A 34-year-old player isn't the future'",
+      "description": "Carlo Ancelotti has defended his decision to count on youth rather than experience in his new-look Brazil squad.",
+      "published": "2026-09-10T12:22:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49890906/brazil-squad-carlo-ancelotti-thiago-silva",
+      "image": "https://a.espncdn.com/photo/2026/0327/r1634430_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Brazil",
+        "Australia"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "49890780",
+      "headline": "Chelsea's attacking players are enjoying life under Xabi Alonso - Cole Palmer",
+      "description": "Cole Palmer has said that Chelsea's attacking players are enjoying life under Xabi Alonso after they took the team's goal tally to 16 in five games.",
+      "published": "2026-09-10T11:43:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49890780/chelsea-attacking-players-enjoying-life-xabi-alonso-cole-palmer",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714257_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Cole Palmer",
+        "Lionel Messi"
+      ],
+      "score": 128
     },
     {
       "id": "49890559",
@@ -114,65 +193,7 @@
         "Marcus Rashford",
         "Lionel Messi"
       ],
-      "score": 133
-    },
-    {
-      "id": "49890120",
-      "headline": "Nicol believes there is no 'obvious choice' for Ballon d'Or",
-      "description": "Nicol believes there is no 'obvious choice' for Ballon d'Or",
-      "published": "2026-09-10T09:44:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/49890120/nicol-believes-there-no-obvious-choice-ballon-dor",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_Nicol_believes_there_is_no_obvious_choice_for_Ballon_dOr/dm_260910_Nicol_believes_there_is_no_obvious_choice_for_Ballon_dOr.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Harry Kane",
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49890034",
-      "headline": "Barcelona midfielder Rodri apologises for Valencia 'weak' criticism",
-      "description": "Barcelona midfielder Rodri has apologised after television images showed him calling Valencia a \"really bad\" and \"weak\" team during last weekend's 5-0 win at Mestalla.",
-      "published": "2026-09-10T09:28:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49890034/barcelona-midfielder-rodri-apologises-valencia-weak-criticism",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714239_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Rodri",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49889953",
-      "headline": "Cristiano Ronaldo scores 979th goal, named MOTM as Al Nassr bounce back with win",
-      "description": "Cristiano Ronaldo scored his 979th career goal to pave the way for Al Nassr's 2-1 win against Abha Club on Wednesday.",
-      "published": "2026-09-10T09:26:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49889953/cristiano-ronaldo-scores-979th-goal-named-motm-al-nassr-bounce-back-win",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714240_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Lionel Messi"
-      ],
-      "score": 130
+      "score": 127
     },
     {
       "id": "49865329",
@@ -189,26 +210,7 @@
         "Egypt"
       ],
       "players": [],
-      "score": 130
-    },
-    {
-      "id": "49883605",
-      "headline": "What does Racing Louisville's NWSL future look like -- and does the club even have one?",
-      "description": "Racing Louisville has few fans, its best players want to leave, and there's no improvement in sight. Is an exit from the NWSL next?",
-      "published": "2026-09-10T08:09:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49883605/nwsl-racing-louisville-future-look-new-ownership-relocation-city-folding",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713953_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Emma Sears",
-        "Lionel Messi"
-      ],
-      "score": 128
+      "score": 124
     },
     {
       "id": "49868020",
@@ -226,7 +228,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 105
+      "score": 100
     },
     {
       "id": "49857842",
@@ -245,7 +247,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 69
+      "score": 63
     },
     {
       "id": "49847747",
@@ -259,7 +261,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 36
+      "score": 30
     },
     {
       "id": "49466177",
