@@ -1,11 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-11T10:26:08.322Z",
+  "updated": "2026-09-11T14:34:20.474Z",
   "counts": {
-    "news": 38,
-    "offfield": 8,
-    "injury": 1,
-    "celebration": 1
+    "news": 37,
+    "injury": 2,
+    "celebration": 2,
+    "preview": 1,
+    "offfield": 6
   },
   "items": [
     {
@@ -23,7 +24,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 183
+      "score": 177
     },
     {
       "id": "49867974",
@@ -37,7 +38,26 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 161
+      "score": 154
+    },
+    {
+      "id": "49903038",
+      "headline": "Luke Shaw to face late fitness test ahead of Manchester derby - Michael Carrick",
+      "description": "Michael Carrick has said Luke Shaw will be assessed before deciding whether the defender is fit to face Manchester City.",
+      "published": "2026-09-11T12:36:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49903038/luke-shaw-late-fitness-test-manchester-derby-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/0911/r1714832_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Luke Shaw",
+        "Lionel Messi"
+      ],
+      "score": 144
     },
     {
       "id": "47978642",
@@ -55,54 +75,79 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 148
+      "score": 142
     },
     {
-      "id": "49901824",
-      "headline": "Ajax's Thilo Kehrer using his success to help Burundi's children",
-      "description": "Thilo Kehrer may have joined Ajax Amsterdam on loan from AS Monaco, but his mission away from football remains unchanged -- he is aiming to leverage his success in football to help children in Burundi.",
-      "published": "2026-09-11T10:18:43Z",
-      "url": "https://www.espn.com/espn/story/_/id/49901824/ajax-thilo-kehrer-using-success-help-burundi-children",
-      "image": "https://a.espncdn.com/photo/2026/0911/r1714790_1296x729_16-9.jpg",
-      "byline": "ESPN Netherlands and Leonard Solms",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49903623",
+      "headline": "Kylian Mbappé says viral meme depicting him as dictator 'shows a lack of political awareness in people'",
+      "description": "Kylian Mbappé has criticised a viral meme depicting him as a dictator, saying that the trend \"shows a lack of political and human awareness in people.\"",
+      "published": "2026-09-11T13:53:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49903623/kylian-mbappe-dictator-meme-criticises-lack-political-awareness",
+      "image": "https://a.espncdn.com/photo/2026/0911/r1714861_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
         "Argentina",
-        "Germany"
+        "France"
       ],
       "players": [
-        "Thilo Kehrer",
+        "Kylian Mbappé",
         "Lionel Messi"
       ],
-      "score": 145
+      "score": 139
     },
     {
-      "id": "49890784",
-      "headline": "The staggering numbers behind Premier League's spending power over Europe",
-      "description": "Barcola's big move from PSG to Liverpool was a highlight of another summer transfer window in which the Premier League effectively subsidizes big European leagues such as Ligue 1.",
-      "published": "2026-09-11T08:58:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49890784/summer-transfer-window-analysis-premier-league-laliga-ligue-1-gab-marcotti",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714304_1296x729_16-9.jpg",
-      "byline": "Gabriele Marcotti",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49903001",
+      "headline": "'Kings of Manchester': City boss Enzo Maresca defends Elliot Anderson's claim ahead of derby",
+      "description": "Enzo Maresca believes Elliot Anderson was justified in describing Manchester City as the \"kings of Manchester.\"",
+      "published": "2026-09-11T12:27:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49903001/man-united-man-city-derby-enzo-maresca-elliot-anderson",
+      "image": "https://a.espncdn.com/photo/2026/0911/r1714829_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "Argentina"
       ],
       "players": [
+        "Elliot Anderson",
         "Lionel Messi"
       ],
-      "score": 143
+      "score": 139
     },
     {
-      "id": "49901752",
-      "headline": "Mikel Arteta reveals how he sabotaged Arsenal preseason to prepare for chaos",
-      "description": "Mikel Arteta has revealed he deliberately sabotaged elements of Arsenal's preseason in order to better prepare his players for the campaign ahead.",
-      "published": "2026-09-11T10:09:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49901752/mikel-arteta-reveals-how-sabotaged-arsenal-preseason",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709723_1296x729_16-9.jpg",
-      "byline": "James Olley",
+      "id": "49895766",
+      "headline": "Luna, Musah and the USMNT's fringe players hoping for a bigger role in 2030",
+      "description": "The U.S. is brimming with 20-somethings full of potential, and while this quintet missed this year's World Cup, they may get another chance in 2030.",
+      "published": "2026-09-11T14:32:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49895766/diego-luna-yunus-musah-usmnt-fringe-players-hoping-bigger-role-2030-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714526_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Yunus Musah",
+        "Diego Luna",
+        "Aidan Morris",
+        "Johnny Cardoso",
+        "Gianluca Busio",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49903951",
+      "headline": "Carrick expects 'different' Manchester derby after last season's win",
+      "description": "Carrick expects 'different' Manchester derby after last season's win",
+      "published": "2026-09-11T14:31:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/49903951/carrick-expects-different-manchester-derby-last-season-win",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_COM_SOC_Presser_Carrick_expects_different_Manchester_derby_after_last_seasons_win_20260911_GL/dm_260911_COM_SOC_Presser_Carrick_expects_different_Manchester_derby_after_last_seasons_win_20260911_GL.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -114,32 +159,13 @@
       "score": 133
     },
     {
-      "id": "49901684",
-      "headline": "Mikel Arteta 'surprised' by criticism over handling of Gabriel Jesus, Gabriel Martinelli exits",
-      "description": "Mikel Arteta has said he is \"very surprised\" by criticism over Arsenal's handling of the departures of Gabriel Jesus and Gabriel Martinelli this summer.",
-      "published": "2026-09-11T09:47:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49901684/mikel-arteta-surprised-criticism-handling-gabriel-jesus-gabriel-martinelli-exits",
-      "image": "https://a.espncdn.com/photo/2026/0911/r1714786_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Gabriel Jesus",
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49901658",
-      "headline": "Fenerbahçe coach stuns press conference by resigning after Roma draw",
-      "description": "Fenerbahçe coach stuns press conference by resigning after Roma draw",
-      "published": "2026-09-11T09:34:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/49901658/fenerbahce-coach-stuns-press-conference-resigning-roma-draw",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_COM_SOC_PRESSER_Fenerbahce_coach_stuns_press_conference_by_resigning_after_Roma_draw_2026_9_11/dm_260911_COM_SOC_PRESSER_Fenerbahce_coach_stuns_press_conference_by_resigning_after_Roma_draw_2026_9_11.jpg",
-      "byline": null,
+      "id": "49903787",
+      "headline": "Wrexham told to 'get act in order' after planning snag with new training ground",
+      "description": "Wrexham have been told to \"get their act in order\" by a local community council after the club built their new training base without planning permission.",
+      "published": "2026-09-11T14:10:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49903787/wrexham-told-get-act-order-planning-snag-new-training-ground",
+      "image": "https://a.espncdn.com/photo/2026/0911/r1714871_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -151,59 +177,37 @@
       "score": 132
     },
     {
-      "id": "49901452",
-      "headline": "Mayor of Madrid weighs in on Julián Álvarez saga: 'We need him back on track'",
-      "description": "José Luis Martínez-Almeida, the mayor of Madrid, has weighed in on Julián Álvarez's status at Atlético Madrid.",
-      "published": "2026-09-11T09:03:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49901452/mayor-madrid-weighs-julian-alvarez-saga-need-back-track",
-      "image": "https://a.espncdn.com/photo/2026/0911/r1714784_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Julián Álvarez",
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49901454",
-      "headline": "Could Yunus Musah receive USMNT call-up after 'renaissance' at Milan?",
-      "description": "Could Yunus Musah receive USMNT call-up after 'renaissance' at Milan?",
-      "published": "2026-09-11T08:54:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49901454/could-yunus-musah-receive-usmnt-call-renaissance-milan",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_COM_SOC_Analysis_Could_Yunus_Musah_receive_USMNT_call_up_after_renaissance_at_Milan_20260911/dm_260911_COM_SOC_Analysis_Could_Yunus_Musah_receive_USMNT_call_up_after_renaissance_at_Milan_20260911.jpg",
+      "id": "49903272",
+      "headline": "De Zerbi: Expect to see the real Tottenham when we become a team",
+      "description": "De Zerbi: Expect to see the real Tottenham when we become a team",
+      "published": "2026-09-11T12:58:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/49903272/expect-see-real-tottenham-become-team",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_COM_SOC_Presser_De_Zerbi_Expect_to_see_the_real_Tottenham_when_we_become_a_team_20260911_GLOBAL/dm_260911_COM_SOC_Presser_De_Zerbi_Expect_to_see_the_real_Tottenham_when_we_become_a_team_20260911_GLOBAL.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "USA"
+        "Argentina"
       ],
       "players": [
-        "Yunus Musah",
         "Lionel Messi"
       ],
       "score": 131
     },
     {
-      "id": "49901364",
-      "headline": "Kylian Mbappé responds to defensive criticism: 'It's not something I take personally'",
-      "description": "Kylian Mbappé has responded to criticism regarding his defensive commitment at Real Madrid.",
-      "published": "2026-09-11T08:42:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49901364/kylian-mbappe-responds-defensive-criticism-not-take-personally",
-      "image": "https://a.espncdn.com/photo/2026/0911/r1714783_2_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
+      "id": "49897758",
+      "headline": "Fenerbahçe coach Kartal misses training despite club blocking resignation",
+      "description": "Fenerbahçe coach Ismail Kartal announced his shock resignation after the 1-1 draw against Roma, but club president Aziz Yildirim said the coach remains in his position.",
+      "published": "2026-09-11T12:37:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49897758/fenerbahce-coach-kartal-misses-training-club-blocking-resignation",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714625_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Kylian Mbappé",
         "Lionel Messi"
       ],
       "score": 130
@@ -224,7 +228,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 108
+      "score": 102
     },
     {
       "id": "49865329",
@@ -241,7 +245,7 @@
         "Egypt"
       ],
       "players": [],
-      "score": 85
+      "score": 79
     },
     {
       "id": "49868020",
@@ -259,7 +263,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 60
+      "score": 54
     },
     {
       "id": "49857842",
