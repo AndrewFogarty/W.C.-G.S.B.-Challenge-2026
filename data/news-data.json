@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-10T23:05:13.319Z",
+  "updated": "2026-09-11T01:01:46.548Z",
   "counts": {
     "news": 38,
-    "offfield": 7,
-    "preview": 1,
+    "preview": 2,
+    "offfield": 6,
     "injury": 1,
     "celebration": 1
   },
@@ -24,7 +24,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 200
+      "score": 197
     },
     {
       "id": "49867974",
@@ -38,7 +38,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 178
+      "score": 175
     },
     {
       "id": "47978642",
@@ -56,31 +56,13 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 165
-    },
-    {
-      "id": "49896262",
-      "headline": "Jack Wilshere sent off as Luton fall to Stevenage defeat",
-      "description": "Manager Jack Wilshere was sent off and had to endure Luton slipping to a 2-1 loss away to Stevenage from the dressing room.",
-      "published": "2026-09-10T22:26:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49896262/jack-wilshere-sent-luton-stevenage-defeat",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714560_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 144
+      "score": 162
     },
     {
       "id": "49896289",
       "headline": "Musiala scores on return to Bayern Munich lineup after seizures",
       "description": "After dealing with seizures on the field, Jamal Musiala celebrated his first goal of the season by pointing to his head.",
-      "published": "2026-09-10T22:51:07Z",
+      "published": "2026-09-10T23:47:31Z",
       "url": "https://www.espn.com/soccer/story/_/id/49896289/jamal-musiala-bayern-munich-goal-bodo-glimt-seizures",
       "image": "https://a.espncdn.com/photo/2026/0910/r1714565_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
@@ -94,15 +76,34 @@
         "Jamal Musiala",
         "Lionel Messi"
       ],
-      "score": 142
+      "score": 140
     },
     {
-      "id": "49897088",
-      "headline": "Does Harry Kane deserve to win the Ballon d'Or?",
-      "description": "Does Harry Kane deserve to win the Ballon d'Or?",
-      "published": "2026-09-10T23:05:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/49897088/does-harry-kane-deserve-win-ballon-dor",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_COM_SOC_Analysis_Does_Harry_Kane_deserve_to_win_the_Ballon_dOr_20260910_GLOBAL/dm_260910_COM_SOC_Analysis_Does_Harry_Kane_deserve_to_win_the_Ballon_dOr_20260910_GLOBAL.jpg",
+      "id": "49897449",
+      "headline": "Šeško makes his case for Man United ahead of Manchester derby",
+      "description": "Benjamin Šeško's form for Manchester United has given Michael Carrick a selection decision to make ahead of Sunday's Manchester derby.",
+      "published": "2026-09-10T23:45:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49897449/benjamin-sesko-makes-case-manchester-united-ahead-manchester-derby",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714615_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Benjamin Sesko",
+        "Lionel Messi"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49898054",
+      "headline": "Duke vs. NC State: Game Highlights",
+      "description": "Duke vs. NC State: Game Highlights",
+      "published": "2026-09-11T00:25:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49898054/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0911/1ab578bf-f4c6-480d-b1a6-a79d4bdd63ac/1ab578bf-f4c6-480d-b1a6-a79d4bdd63ac.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -110,16 +111,77 @@
         "Argentina"
       ],
       "players": [
-        "Harry Kane",
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 132
+    },
+    {
+      "id": "49897758",
+      "headline": "Fenerbahce president rejects coach Kartal's resignation after UCL draw",
+      "description": "Fenerbahce coach Ismail Kartal announced his shock resignation after the 1-1 draw against Roma, but club president Aziz Yildirim said the coach remains in his position.",
+      "published": "2026-09-11T00:03:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49897758/fenerbahce-president-rejects-kartal-shock-resignation-roma-draw",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714625_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "43810752",
+      "headline": "Who has the most Champions League goals, assists all time?",
+      "description": "Cristiano Ronaldo leads the Champions League in all-time goals and assists. Check out which other soccer stars are behind him.",
+      "published": "2026-09-10T23:42:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/43810752/who-most-champions-league-goals-assists-all",
+      "image": "https://a.espncdn.com/photo/2018/0411/r355065_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Neymar",
+        "Ángel Di María",
+        "Robert Lewandowski",
+        "Karim Benzema",
+        "Thomas Müller",
+        "Kevin De Bruyne",
+        "Mohamed Salah"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49897399",
+      "headline": "Carrick: It was a good game for Man United from start to finish",
+      "description": "Carrick: It was a good game for Man United from start to finish",
+      "published": "2026-09-10T23:06:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49897399/was-good-game-man-united-start-finish",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_COM_SOC_Analysis_Carrick_It_was_a_good_game_for_Man_United_from_start_to_finish_20260910_GLOBAL/dm_260910_COM_SOC_Analysis_Carrick_It_was_a_good_game_for_Man_United_from_start_to_finish_20260910_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
     },
     {
       "id": "49897129",
       "headline": "Musiala returns with a goal in Bayern's Champions League win",
       "description": "Musiala returns with a goal in Bayern's Champions League win",
-      "published": "2026-09-10T23:04:42Z",
+      "published": "2026-09-10T23:06:42Z",
       "url": "https://www.espn.com/video/clip/_/id/49897129/musiala-returns-goal-bayern-champions-league-win",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_Musiala_returns_with_a_goal_in_BayernE28099s_Champions_League_win/dm_260910_Musiala_returns_with_a_goal_in_BayernE28099s_Champions_League_win.jpg",
       "byline": null,
@@ -133,25 +195,7 @@
         "Jamal Musiala",
         "Lionel Messi"
       ],
-      "score": 133
-    },
-    {
-      "id": "49897399",
-      "headline": "Carrick: It was a good game for Man United from start to finish",
-      "description": "Carrick: It was a good game for Man United from start to finish",
-      "published": "2026-09-10T23:04:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/49897399/was-good-game-man-united-start-finish",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_COM_SOC_Analysis_Carrick_It_was_a_good_game_for_Man_United_from_start_to_finish_20260910_GLOBAL/dm_260910_COM_SOC_Analysis_Carrick_It_was_a_good_game_for_Man_United_from_start_to_finish_20260910_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
+      "score": 130
     },
     {
       "id": "49897185",
@@ -169,43 +213,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
-    },
-    {
-      "id": "49897092",
-      "headline": "Will Manchester United struggle later on in the Champions League?",
-      "description": "Will Manchester United struggle later on in the Champions League?",
-      "published": "2026-09-10T22:25:45Z",
-      "url": "https://www.espn.com/video/clip/_/id/49897092/will-manchester-united-struggle-later-champions-league",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_COM_SOC_Analysis_Will_Manchester_United_struggle_later_on_in_the_Champions_League_20260910_GLOB/dm_260910_COM_SOC_Analysis_Will_Manchester_United_struggle_later_on_in_the_Champions_League_20260910_GLOB.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49883635",
-      "headline": "UCL talking points: Bayern Munich's dominant win among Matchday 1 standouts",
-      "description": "Which players and clubs shined in the Champions League? Mark Ogden, Gab Marcotti, Rob Dawson and Sam Tighe weigh in on all the moments that mattered from Matchday 1.",
-      "published": "2026-09-10T21:57:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49883635/ucl-talking-points-mourinhos-blueprint-win-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714568_1296x729_16-9.jpg",
-      "byline": "Multiple contributors",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
+      "score": 130
     },
     {
       "id": "49877552",
@@ -223,7 +231,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 125
+      "score": 122
     },
     {
       "id": "49865329",
@@ -240,7 +248,7 @@
         "Egypt"
       ],
       "players": [],
-      "score": 102
+      "score": 99
     },
     {
       "id": "49868020",
@@ -258,7 +266,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "49857842",
