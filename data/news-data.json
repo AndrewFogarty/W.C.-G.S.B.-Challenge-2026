@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-11T17:53:17.685Z",
+  "updated": "2026-09-11T20:23:07.857Z",
   "counts": {
-    "offfield": 7,
-    "news": 36,
-    "injury": 2,
+    "offfield": 10,
+    "news": 32,
+    "injury": 3,
     "celebration": 2,
     "preview": 1
   },
@@ -21,7 +21,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 218
+      "score": 214
     },
     {
       "id": "49892754",
@@ -38,26 +38,84 @@
         "Morocco"
       ],
       "players": [],
-      "score": 162
+      "score": 158
     },
     {
-      "id": "49903038",
-      "headline": "Luke Shaw to face late fitness test ahead of Manchester derby - Michael Carrick",
-      "description": "Michael Carrick has said Luke Shaw will be assessed before deciding whether the defender is fit to face Manchester City.",
-      "published": "2026-09-11T12:36:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49903038/luke-shaw-late-fitness-test-manchester-derby-michael-carrick",
-      "image": "https://a.espncdn.com/photo/2026/0911/r1714832_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
+      "id": "49905024",
+      "headline": "Tottenham's Roberto De Zerbi says Mykhailo Mudryk suffered 'stupid' injury",
+      "description": "Tottenham Hotspur boss Roberto De Zerbi has called new arrival Mykhailo Mudryk's injury \"stupid\" and has backed the winger to return to action soon.",
+      "published": "2026-09-11T16:47:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49905024/tottenham-roberto-de-zerbi-says-mykhailo-mudryk-suffered-stupid-injury",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712191_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "injury",
       "kindLabel": "Injury",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Luke Shaw",
+        "Mykhailo Mudryk",
         "Lionel Messi"
       ],
-      "score": 139
+      "score": 142
+    },
+    {
+      "id": "49904659",
+      "headline": "Andrée Jeglertz thrilled as 'magnificent' Fujino and Blindkilde Brown sign new Man City deals",
+      "description": "Manchester City boss Andrée Jeglertz expressed his delight after Aoba Fujino and Laura Blindkilde Brown both signed new contracts.",
+      "published": "2026-09-11T17:01:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49904659/andree-jeglertz-thrilled-magnificent-aoba-fujino-laura-blindkilde-brown-sign-new-man-city-deals",
+      "image": "https://a.espncdn.com/photo/2026/0911/r1714920_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Laura Blindkilde Brown",
+        "Aoba Fujino",
+        "Lionel Messi"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49905021",
+      "headline": "Monaco's Lamine Camara says he has 'turned the page' after failed Chelsea move",
+      "description": "Monaco midfielder Lamine Camara said he has moved on from his collapsed move to Chelsea and is fully focused on playing well for the Ligue 1 leaders.",
+      "published": "2026-09-11T16:46:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49905021/monaco-lamine-camara-turned-page-failed-chelsea-move",
+      "image": "https://a.espncdn.com/photo/2026/0911/r1714932_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lamine Camara",
+        "Lionel Messi"
+      ],
+      "score": 140
+    },
+    {
+      "id": "49905001",
+      "headline": "Barbara Bonansea joins San Diego on loan from Juventus",
+      "description": "San Diego Wave FC has signed Italy forward Barbara Bonansea on loan from Juventus through June 2027, the teams announced on Friday.",
+      "published": "2026-09-11T16:45:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49905001/barbara-bonansea-joins-san-diego-loan-juventus",
+      "image": "https://a.espncdn.com/photo/2025/0722/r1522250_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Barbara Bonansea",
+        "Lionel Messi"
+      ],
+      "score": 140
     },
     {
       "id": "49867974",
@@ -71,7 +129,26 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 139
+      "score": 136
+    },
+    {
+      "id": "49903038",
+      "headline": "Luke Shaw to face late fitness test ahead of Manchester derby - Michael Carrick",
+      "description": "Michael Carrick has said Luke Shaw will be assessed before deciding whether the defender is fit to face Manchester City.",
+      "published": "2026-09-11T12:36:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49903038/luke-shaw-late-fitness-test-manchester-derby-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/0911/r1714832_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Luke Shaw",
+        "Harry Kane"
+      ],
+      "score": 135
     },
     {
       "id": "49903623",
@@ -84,14 +161,14 @@
       "kind": "celebration",
       "kindLabel": "Celebration",
       "teams": [
-        "Argentina",
+        "England",
         "France"
       ],
       "players": [
         "Kylian Mbappé",
-        "Lionel Messi"
+        "Harry Kane"
       ],
-      "score": 134
+      "score": 130
     },
     {
       "id": "49903001",
@@ -104,13 +181,72 @@
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
-        "Argentina"
+        "England"
       ],
       "players": [
         "Elliot Anderson",
+        "Harry Kane"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49905122",
+      "headline": "Christian Pulisic 'upset' about Milan bench role, Ruben Amorim says",
+      "description": "Christian Pulisic is \"upset\" about not yet featuring for Milan this season, coach Ruben Amorim said Friday before hinting that the United States star is likely to get some playing time this weekend.",
+      "published": "2026-09-11T17:43:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49905122/christian-pulisic-upset-ac-milan-role-ruben-amorim",
+      "image": "https://a.espncdn.com/photo/2026/0911/r1714944_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Christian Pulisic",
         "Lionel Messi"
       ],
-      "score": 134
+      "score": 129
+    },
+    {
+      "id": "49905007",
+      "headline": "Athletic Club's Iñaki Williams retires from Ghana duty",
+      "description": "Ghana forward Iñaki Williams announced on Friday he is retiring from international football.",
+      "published": "2026-09-11T17:20:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49905007/athletic-club-inaki-williams-retires-ghana-duty",
+      "image": "https://a.espncdn.com/photo/2025/0918/r1547335_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Ghana"
+      ],
+      "players": [
+        "Iñaki Williams",
+        "Lionel Messi"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49904946",
+      "headline": "Dalot: I want to put Manchester United back on top",
+      "description": "Dalot: I want to put Manchester United back on top",
+      "published": "2026-09-11T16:30:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/49904946/want-put-manchester-united-back-top",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_Dalot_I_want_to_put_Manchester_United_back_on_top/dm_260911_Dalot_I_want_to_put_Manchester_United_back_on_top.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Diogo Dalot",
+        "Lionel Messi"
+      ],
+      "score": 127
     },
     {
       "id": "49895766",
@@ -123,7 +259,7 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
+        "England",
         "USA"
       ],
       "players": [
@@ -132,9 +268,9 @@
         "Aidan Morris",
         "Johnny Cardoso",
         "Gianluca Busio",
-        "Lionel Messi"
+        "Harry Kane"
       ],
-      "score": 128
+      "score": 124
     },
     {
       "id": "49903951",
@@ -147,12 +283,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "England"
       ],
       "players": [
-        "Lionel Messi"
+        "Harry Kane"
       ],
-      "score": 128
+      "score": 124
     },
     {
       "id": "49903787",
@@ -165,12 +301,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "England"
       ],
       "players": [
-        "Lionel Messi"
+        "Harry Kane"
       ],
-      "score": 127
+      "score": 124
     },
     {
       "id": "47978642",
@@ -188,7 +324,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
+      "score": 123
     },
     {
       "id": "49903272",
@@ -201,12 +337,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "England"
       ],
       "players": [
-        "Lionel Messi"
+        "Harry Kane"
       ],
-      "score": 126
+      "score": 122
     },
     {
       "id": "49897758",
@@ -219,12 +355,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "England"
       ],
       "players": [
-        "Lionel Messi"
+        "Harry Kane"
       ],
-      "score": 125
+      "score": 121
     },
     {
       "id": "49877552",
@@ -242,7 +378,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 87
+      "score": 83
     },
     {
       "id": "49865329",
@@ -259,7 +395,7 @@
         "Egypt"
       ],
       "players": [],
-      "score": 64
+      "score": 60
     },
     {
       "id": "49868020",
@@ -277,7 +413,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 39
+      "score": 35
     },
     {
       "id": "49857842",
@@ -741,119 +877,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49639158",
-      "headline": "Scotland FA latest to withdraw support for FIFA's Gianni Infantino",
-      "description": "The Scottish Football Association has officially withdrawn its support for FIFA president Gianni Infantino, citing the \"lack of transparency\" shown over the plan to sell stakes in a World Cup company to private investors.",
-      "published": "2026-08-17T15:37:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49639158/scotland-fa-latest-withdraw-support-fifa-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1698132_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Scotland"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49607480",
-      "headline": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania",
-      "description": "New Zealand's football federation has withdrawn its support for under-fire FIFA president Gianni Infantino in a break with the wider Oceania Football Confederation (OFC).",
-      "published": "2026-08-14T08:49:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49607480/new-zealand-withdraws-support-fifa-president-gianni-infantino-break-oceania",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "New Zealand"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49598001",
-      "headline": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup",
-      "description": "Somali referee Omar Artan was denied entry to the U.S. for the World Cup, sparking a remarkable chain of events that led to him officiating the UEFA Super Cup.",
-      "published": "2026-08-13T15:28:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49598001/this-was-my-world-cup-somali-referee-omar-artan-barred-us-uefa-super-cup",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701194_1296x729_16-9.jpg",
-      "byline": "Lee Wingate",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49599931",
-      "headline": "Six Arab federations back Infantino amid revolt over World Cup plan",
-      "description": "The heads of six Arab football federations expressed their \"full support\" and \"confidence\" in Gianni Infantino on Thursday as the embattled FIFA president fights to keep his job after his failed World Cup private investment plan.",
-      "published": "2026-08-13T14:40:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49599931/six-arab-federations-back-infantino-amid-revolt-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49719477",
-      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
-      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
-      "published": "2026-08-25T10:22:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49669869",
-      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
-      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
-      "published": "2026-08-21T06:36:25Z",
-      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
-      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Achraf Hakimi",
-        "Victor Osimhen",
-        "Bryan Mbeumo",
-        "Mohamed Salah"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49847747",
-      "headline": "FIFA president Gianni Infantino to stand for reelection in 2027",
-      "description": "Gianni Infantino will run for reelection as FIFA president despite uncertainty over his future in the position following his failed attempt to raise $20 billion with the sale of a stake in future World Cups to private investors.",
-      "published": "2026-09-07T09:38:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49847747/fifa-president-gianni-infantino-stand-re-election-2027",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712226_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
