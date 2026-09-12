@@ -1,9 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-12T16:10:38.406Z",
+  "updated": "2026-09-12T22:39:10.765Z",
   "counts": {
-    "offfield": 8,
-    "news": 38,
+    "offfield": 7,
+    "news": 39,
     "injury": 1,
     "celebration": 1
   },
@@ -20,70 +20,147 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 184
+      "score": 175
     },
     {
-      "id": "49911577",
-      "headline": "Transfer rumors, news: Liverpool look at Inter's Stankovic",
-      "description": "Liverpool remain keen on Internazionale midfielder Aleksandar Stankovic after enquiring about him while negotiating Curtis Jones' €35 million move to San Siro. Transfer Talk has the latest.",
-      "published": "2026-09-12T16:07:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49911577/transfer-rumors-news-man-united-eye-bournemouth-defender-replace-shaw",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715245_1296x729_16-9.jpg",
+      "id": "49917361",
+      "headline": "Pulisic gets assist for Milan in 1st game since World Cup",
+      "description": "Christian Pulisic marked his first appearance since the 2026 World Cup with an assist to help AC Milan rally to claim a 2-2 draw at Lazio on Saturday.",
+      "published": "2026-09-12T20:42:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49917361/christian-pulisic-assist-ac-milan-usa-world-cup-serie-lazio",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715544_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Cabo Verde",
+        "USA"
       ],
       "players": [
-        "Aleksandar Stankovic",
-        "Lionel Messi"
+        "Christian Pulisic",
+        "Vozinha"
       ],
-      "score": 145
+      "score": 130
     },
     {
-      "id": "49897526",
-      "headline": "Kevin Schade brace denies Bournemouth a first Premier League win of season",
-      "description": "",
-      "published": "2026-09-12T16:06:02Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879285",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715372_1296x729_16-9.jpg",
+      "id": "49917628",
+      "headline": "Winless Tottenham lack confidence and physical conditioning - Roberto De Zerbi",
+      "description": "Roberto de Zerbi has admitted Tottenham lack \"physical condition\" and \"confidence\" but insisted they can overcome their slow start to the season.",
+      "published": "2026-09-12T20:21:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49917628/winless-tottenham-lack-confidence-physical-conditioning-roberto-de-zerbi",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715500_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49916991",
+      "headline": "Fenerbahce coach returns to work after resignation confusion",
+      "description": "Fenerbahce coach Ismail Kartal returned to his duties on Saturday, contradicting media reports from the day before suggesting his resignation was final.",
+      "published": "2026-09-12T19:35:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49916991/fenerbahce-coach-ismail-kartal-resignation-return",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715493_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49917030",
+      "headline": "Nicol: Everton are a mid-table side at best",
+      "description": "Nicol: Everton are a mid-table side at best",
+      "published": "2026-09-12T19:15:29Z",
+      "url": "https://www.espn.com/video/clip/_/id/49917030/everton-mid-table-side-best",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_COM_SOC_ANALYSIS_Nicol_Everton_are_a_mid-table_side_at_best_2026_9_12/dm_260912_COM_SOC_ANALYSIS_Nicol_Everton_are_a_mid-table_side_at_best_2026_9_12.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49916988",
+      "headline": "Nicol: De Zerbi should be concerned about Tottenham's attack",
+      "description": "Nicol: De Zerbi should be concerned about Tottenham's attack",
+      "published": "2026-09-12T19:12:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/49916988/de-zerbi-concerned-tottenham-attack",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_COM_SOC_ANALYSIS_Nicol_De_Zerbi_should_be_concerned_about_Tottenhams_attack_2026_9_12/dm_260912_COM_SOC_ANALYSIS_Nicol_De_Zerbi_should_be_concerned_about_Tottenhams_attack_2026_9_12.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49897575",
+      "headline": "Winless Tottenham still searching for first goal of season after draw with Everton",
+      "description": "Tottenham Hotspur fired another blank after being frustrated by Everton in a 0-0 draw to extend their winless start to the new Premier League season to four matches.",
+      "published": "2026-09-12T18:56:30Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879277",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715450_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Cabo Verde"
       ],
       "players": [
-        "Lionel Messi"
+        "Vozinha"
       ],
-      "score": 133
+      "score": 127
     },
     {
-      "id": "49897531",
-      "headline": "Chelsea draw with Premier League surprise package Hull City",
-      "description": "Chelsea's chaotic start to life under Xabi Alonso continued with an entertaining 2-2 draw against Hull at Stamford Bridge.",
-      "published": "2026-09-12T16:03:02Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879283",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715369_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49916498",
+      "headline": "Athletic Club vs. Elche - Game Highlights",
+      "description": "Watch the Game Highlights from Athletic Club vs. Elche, 09/12/2026",
+      "published": "2026-09-12T18:34:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/49916498/athletic-club-vs-elche-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0912/eb9c23cc-e5d1-439e-97c7-88f05695ef48/eb9c23cc-e5d1-439e-97c7-88f05695ef48.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Cabo Verde"
       ],
       "players": [
-        "Lionel Messi"
+        "Facundo Buonanotte",
+        "Maroan Sannadi",
+        "Germán Valera",
+        "Iñaki Williams",
+        "Vozinha"
       ],
-      "score": 133
+      "score": 127
     },
     {
       "id": "49894589",
-      "headline": "Premier League live updates: Chelsea held by Hull, Liverpool draw vs. Fulham",
-      "description": "Unbeaten Hull City stay unbeaten after a 2-2 draw with Chelsea, while Liverpool were held 0-0 by Fulham on a Saturday full of matches across Europe.",
-      "published": "2026-09-12T16:00:32Z",
+      "headline": "Premier League live updates: Can Spurs get a first win? Also: Chelsea held by Hull",
+      "description": "It's Tottenham's turn to take the field in search of their first win of the season. Can they beat Everton? Earlier unbeaten Hull City shocked Chelsea with a 2-2 draw, while Liverpool were held 0-0 by Fulham on a busy Saturday across Europe.",
+      "published": "2026-09-12T18:13:41Z",
       "url": "https://www.espn.com/soccer/story/_/id/49894589/premier-league-live-updates-chelsea-hull-city-tottenham-everton-sunderland-arsenal-real-madrid-ac-milan",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715325_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715440_2_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
@@ -93,15 +170,15 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 126
     },
     {
-      "id": "49897552",
-      "headline": "Liverpool momentum dented by Anfield draw with struggling Fulham",
-      "description": "Fulham frustrated Liverpool to claim their first point of the season with a goalless draw at Anfield on Saturday.",
-      "published": "2026-09-12T15:57:39Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879279",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715366_1296x729_16-9.jpg",
+      "id": "49916096",
+      "headline": "Andoni Iraola cites 'lack of freshness' after Liverpool's draw with Fulham",
+      "description": "Liverpool manager Andoni Iraola said his players were tired but refused to use it as an excuse after being held to a 0-0 draw by Fulham at Anfield.",
+      "published": "2026-09-12T18:07:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49916096/andoni-iraola-lack-freshness-liverpool-draw-fulham",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715431_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
@@ -111,16 +188,16 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 126
     },
     {
-      "id": "49914765",
-      "headline": "Hull continue unbeaten Premier League streak with entertaining 2-2 draw at Chelsea",
-      "description": "Hull continued their unbeaten start to the Premier League season after an entertaining 2-2 draw at Chelsea.",
-      "published": "2026-09-12T15:57:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49914765/hull-continue-unbeaten-premier-league-streak-entertaining-2-2-draw-chelsea",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715373_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49915665",
+      "headline": "A decade after Premier League glory, Leicester are adjusting to life in third-tier",
+      "description": "Leicester have endured a sad descent to English soccer's third tier, barely a decade after their stunning Premier League win and Champions League debut. Is there a way out?",
+      "published": "2026-09-12T17:53:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49915665/leicester-city-premier-league-champions-uefa-champions-league-decade-league-one-decline",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715423_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -129,15 +206,33 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 126
     },
     {
-      "id": "49913770",
-      "headline": "Racing Santander vs. Alavés - Game Highlights",
-      "description": "Watch the Game Highlights from Racing Santander vs. Alavés, 09/12/2026",
-      "published": "2026-09-12T14:06:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/49913770/racing-santander-vs-alaves-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0912/e81257bb-8e3d-4094-8a13-3072f2628f7b/e81257bb-8e3d-4094-8a13-3072f2628f7b.jpg",
+      "id": "49915725",
+      "headline": "Xabi Alonso wants more 'boring' wins as Chelsea draw with Hull",
+      "description": "Xabi Alonso says his Chelsea side must show more desire in defence, and warns it will take time to fix their frailties at the back after they drew 2-2 with Hull City at Stamford Bridge on Saturday.",
+      "published": "2026-09-12T17:31:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49915725/xabi-alonso-wants-more-boring-wins-chelsea-slip-hull-draw",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715413_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49915838",
+      "headline": "Nicol: There is no fear factor at Anfield",
+      "description": "Nicol: There is no fear factor at Anfield",
+      "published": "2026-09-12T17:29:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/49915838/there-no-fear-factor-anfield",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_Nicol_There_is_no_fear_factor_at_Anfield/dm_260912_Nicol_There_is_no_fear_factor_at_Anfield.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -145,13 +240,67 @@
         "Argentina"
       ],
       "players": [
-        "Ville Koski",
-        "Mariano Díaz",
-        "Yassir Zabiri",
-        "André Almeida",
         "Lionel Messi"
       ],
-      "score": 130
+      "score": 125
+    },
+    {
+      "id": "49915702",
+      "headline": "Nicol: Chelsea's defence isn't good enough to win the title",
+      "description": "Nicol: Chelsea's defence isn't good enough to win the title",
+      "published": "2026-09-12T17:23:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/49915702/chelsea-defence-good-enough-win-title",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_COM_SOC_ANALYSIS_Nicol__Chelseas_defence_isnt_good_enough_to_win_the_title_2026_9_12/dm_260912_COM_SOC_ANALYSIS_Nicol__Chelseas_defence_isnt_good_enough_to_win_the_title_2026_9_12.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
+    },
+    {
+      "id": "49912334",
+      "headline": "In-form Hull show why Chelsea fans are in for a rough ride this season",
+      "description": "Chelsea have a star-studded attack which has saved them many times already this season, but their defense was exposed again vs. an impressive Hull City.",
+      "published": "2026-09-12T16:34:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49912334/in-form-hull-show-why-chelsea-fans-a-rough-ride-season",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715362_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49914983",
+      "headline": "Osasuna vs. Espanyol - Game Highlights",
+      "description": "Watch the Game Highlights from Osasuna vs. Espanyol, 09/12/2026",
+      "published": "2026-09-12T16:15:56Z",
+      "url": "https://www.espn.com/video/clip/_/id/49914983/osasuna-vs-espanyol-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0912/7b8f5bdc-523c-40c7-89cb-47ade248f8c1/7b8f5bdc-523c-40c7-89cb-47ade248f8c1.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Rubén García",
+        "Marcos Fernández",
+        "Roger Hinojo",
+        "Roberto Fernández",
+        "Lionel Messi"
+      ],
+      "score": 123
     },
     {
       "id": "49892754",
@@ -168,26 +317,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 128
-    },
-    {
-      "id": "49911868",
-      "headline": "Xabi Alonso on Chelsea's João Pedro: Like Karim Benzema, as good as Erling Haaland",
-      "description": "Chelsea boss Xabi Alonso has compared striker João Pedro to the like of Erling Haaland and Karim Benzema following his flying start to the Premier League this season.",
-      "published": "2026-09-12T12:13:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49911868/xabi-alonso-chelsea-joao-pedro-karim-benzema-good-erling-haaland",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715246_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "João Pedro",
-        "Lionel Messi"
-      ],
-      "score": 127
+      "score": 119
     },
     {
       "id": "49867974",
@@ -201,7 +331,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 106
+      "score": 96
     },
     {
       "id": "47978642",
@@ -219,7 +349,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 93
+      "score": 83
     },
     {
       "id": "49877552",
@@ -237,7 +367,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 54
+      "score": 53
     },
     {
       "id": "49865329",
@@ -736,119 +866,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49639158",
-      "headline": "Scotland FA latest to withdraw support for FIFA's Gianni Infantino",
-      "description": "The Scottish Football Association has officially withdrawn its support for FIFA president Gianni Infantino, citing the \"lack of transparency\" shown over the plan to sell stakes in a World Cup company to private investors.",
-      "published": "2026-08-17T15:37:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49639158/scotland-fa-latest-withdraw-support-fifa-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1698132_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Scotland"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49607480",
-      "headline": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania",
-      "description": "New Zealand's football federation has withdrawn its support for under-fire FIFA president Gianni Infantino in a break with the wider Oceania Football Confederation (OFC).",
-      "published": "2026-08-14T08:49:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49607480/new-zealand-withdraws-support-fifa-president-gianni-infantino-break-oceania",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "New Zealand"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49598001",
-      "headline": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup",
-      "description": "Somali referee Omar Artan was denied entry to the U.S. for the World Cup, sparking a remarkable chain of events that led to him officiating the UEFA Super Cup.",
-      "published": "2026-08-13T15:28:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49598001/this-was-my-world-cup-somali-referee-omar-artan-barred-us-uefa-super-cup",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701194_1296x729_16-9.jpg",
-      "byline": "Lee Wingate",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49599931",
-      "headline": "Six Arab federations back Infantino amid revolt over World Cup plan",
-      "description": "The heads of six Arab football federations expressed their \"full support\" and \"confidence\" in Gianni Infantino on Thursday as the embattled FIFA president fights to keep his job after his failed World Cup private investment plan.",
-      "published": "2026-08-13T14:40:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49599931/six-arab-federations-back-infantino-amid-revolt-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49719477",
-      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
-      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
-      "published": "2026-08-25T10:22:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49669869",
-      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
-      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
-      "published": "2026-08-21T06:36:25Z",
-      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
-      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Achraf Hakimi",
-        "Victor Osimhen",
-        "Bryan Mbeumo",
-        "Mohamed Salah"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49847747",
-      "headline": "FIFA president Gianni Infantino to stand for reelection in 2027",
-      "description": "Gianni Infantino will run for reelection as FIFA president despite uncertainty over his future in the position following his failed attempt to raise $20 billion with the sale of a stake in future World Cups to private investors.",
-      "published": "2026-09-07T09:38:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49847747/fifa-president-gianni-infantino-stand-re-election-2027",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712226_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
