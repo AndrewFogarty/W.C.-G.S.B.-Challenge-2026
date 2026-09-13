@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-13T10:15:00.251Z",
+  "updated": "2026-09-13T14:27:30.951Z",
   "counts": {
     "offfield": 9,
+    "injury": 2,
     "preview": 1,
-    "news": 36,
-    "injury": 1,
+    "news": 35,
     "celebration": 1
   },
   "items": [
@@ -21,7 +21,65 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 157
+      "score": 151
+    },
+    {
+      "id": "49927013",
+      "headline": "Cristiano Ronaldo calls for lifetime bans after Rúben Neves taunted by Diogo Jota chants",
+      "description": "Cristiano Ronaldo has called on the Saudi Pro League to issue lifetime stadium bans to any supporter found to have been involved in the taunting of Ruben Neves.",
+      "published": "2026-09-13T14:09:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49927013/cristiano-ronaldo-calls-life-bans-ruben-neves-taunted-diogo-jota-chants-saudi-pro-league",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715861_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Portugal"
+      ],
+      "players": [
+        "Rúben Neves",
+        "Cristiano Ronaldo",
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49926499",
+      "headline": "Man United's Benjamin Sesko 'in perfect place' after injury recovery",
+      "description": "Benjamin Sesko now feels in the \"perfect\" place having recovered from the injury which brought his first season with Manchester United to a premature end.",
+      "published": "2026-09-13T12:13:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49926499/man-united-benjamin-sesko-perfect-place-injury-recovery",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715825_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Benjamin Sesko",
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49894830",
+      "headline": "Premier League live updates: Coventry host Brighton ahead of Manchester derby",
+      "description": "Coventry City will look for their first win of the season as they take on Brighton & Hove Albion on a Sunday full of matches across Europe.",
+      "published": "2026-09-13T13:37:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49894830/premier-league-europe-soccer-live-updates-coventry-city-brighton-manchester-united-manchester-city-barcelona-bayern-munich",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715866_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 141
     },
     {
       "id": "49925331",
@@ -40,43 +98,66 @@
         "Manu Koné",
         "Lionel Messi"
       ],
-      "score": 145
+      "score": 138
     },
     {
-      "id": "49703019",
-      "headline": "Premier League VAR review: Was Sunderland's penalty legit vs. Arsenal?",
-      "description": "VAR often causes Premier League controversy, but how are decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
-      "published": "2026-09-13T09:56:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715793_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49927268",
+      "headline": "Celta Vigo vs. Málaga - Game Highlights",
+      "description": "Watch the Game Highlights from Celta Vigo vs. Málaga, 09/13/2026",
+      "published": "2026-09-13T14:07:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/49927268/celta-vigo-vs-malaga-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/25eb5e77-b186-4cb4-b072-fe3f8faeb232/25eb5e77-b186-4cb4-b072-fe3f8faeb232.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Adrián Niño",
+        "Ferran Jutglà",
+        "Alfonso Herrero",
+        "Iago Aspas",
+        "Sergio Carreira",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49927223",
+      "headline": "Iraola: Liverpool haven't been as good offensively as other days",
+      "description": "Iraola: Liverpool haven't been as good offensively as other days",
+      "published": "2026-09-13T14:05:48Z",
+      "url": "https://www.espn.com/video/clip/_/id/49927223/liverpool-good-offensively-other-days",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Iraola_Liverpool_havent_been_as_good_offensively_as_other_days/dm_260913_Iraola_Liverpool_havent_been_as_good_offensively_as_other_days.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 145
+      "score": 132
     },
     {
-      "id": "49894830",
-      "headline": "Premier League live updates: Coventry host Brighton ahead of Manchester derby",
-      "description": "Coventry City will look for their first win of the season as they take on Brighton & Hove Albion on a Sunday full of matches across Europe.",
-      "published": "2026-09-13T09:39:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49894830/premier-league-europe-soccer-live-updates-coventry-city-brighton-manchester-united-manchester-city-barcelona-bayern-munich",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714468_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49927079",
+      "headline": "Maresca: Manchester United are a 'dangerous' team",
+      "description": "Maresca: Manchester United are a 'dangerous' team",
+      "published": "2026-09-13T13:33:29Z",
+      "url": "https://www.espn.com/video/clip/_/id/49927079/manchester-united-dangerous-team",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Maresca_Manchester_United_are_a_dangerous_team/dm_260913_Maresca_Manchester_United_are_a_dangerous_team.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 141
+      "score": 132
     },
     {
       "id": "49925262",
@@ -95,84 +176,7 @@
         "Luis Vázquez",
         "Lionel Messi"
       ],
-      "score": 132
-    },
-    {
-      "id": "49924750",
-      "headline": "Hali Long: More than a shirt",
-      "description": "There is a difference between wearing the Philippines jersey and understanding what it means to wear it. Hali Long learned that difference after more than a decade with the national team.",
-      "published": "2026-09-13T07:07:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49924750/asian-games-2026-filipinas-hali-long-more-shirt",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715784_1296x729_16-9.jpg",
-      "byline": "Mikhail De Guzman",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Hali Long",
-        "Lionel Messi"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49921983",
-      "headline": "Messi scores, but Nashville strikes late to deny Miami win",
-      "description": "Lionel Messi scored a second-half goal, but Nashville SC struck back in stoppage time to earn a 2-2 draw at Inter Miami and maintain its nine-point lead at the top of the Eastern Conference.",
-      "published": "2026-09-13T03:40:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49921983/lionel-messi-goal-inter-miami-vs-nashville-mls-supporters-shield",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715698_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49923189",
-      "headline": "Houston Dash vs. Utah Royals - Game Highlights",
-      "description": "Watch the Game Highlights from Houston Dash vs. Utah Royals, 09/13/2026",
-      "published": "2026-09-13T03:20:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/49923189/houston-dash-vs-utah-royals-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/9604fb29-e166-4d88-9f3d-8ad1ad4221c5/9604fb29-e166-4d88-9f3d-8ad1ad4221c5.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Cece Delzer",
-        "Cloé Lacasse",
-        "Mina Tanaka",
-        "Ana Tejada",
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49923053",
-      "headline": "André Luiz, Taylor Calheira help Sporting KC stun LAFC 3-1 to end long winless streak",
-      "description": "André Luiz and Taylor Calheira scored first-half goals and Sporting Kansas City shocked Los Angeles FC with a 3-1 victory on Saturday night that ended a seven-match winless streak.",
-      "published": "2026-09-13T03:02:59Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761806",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761806.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 122
+      "score": 125
     },
     {
       "id": "49892754",
@@ -189,7 +193,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 101
+      "score": 95
     },
     {
       "id": "49867974",
@@ -203,7 +207,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 79
+      "score": 72
     },
     {
       "id": "47978642",
@@ -221,7 +225,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 66
+      "score": 63
     },
     {
       "id": "49877552",
