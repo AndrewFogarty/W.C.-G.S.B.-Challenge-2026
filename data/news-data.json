@@ -1,14 +1,31 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-13T14:27:30.951Z",
+  "updated": "2026-09-13T19:45:53.952Z",
   "counts": {
-    "offfield": 9,
-    "injury": 2,
-    "preview": 1,
-    "news": 35,
+    "offfield": 10,
+    "news": 36,
+    "injury": 1,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49930019",
+      "headline": "Maresca fine with Foden red, says Bruno should have been sent off too",
+      "description": "Manchester City manager Enzo Maresca backed referee Michael Oliver's decision to send off Phil Foden in his team's 1-0 win against Manchester United, but said that Reds captain Bruno Fernandes should also have been shown a red card.",
+      "published": "2026-09-13T19:45:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49930019/maresca-fine-foden-red-bruno-sent-off",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716047_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Tete Yengi"
+      ],
+      "score": 145
+    },
     {
       "id": "49905396",
       "headline": "Two FIFA officials get lifetime bans for misuse of funds",
@@ -21,58 +38,18 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 151
+      "score": 143
     },
     {
-      "id": "49927013",
-      "headline": "Cristiano Ronaldo calls for lifetime bans after Rúben Neves taunted by Diogo Jota chants",
-      "description": "Cristiano Ronaldo has called on the Saudi Pro League to issue lifetime stadium bans to any supporter found to have been involved in the taunting of Ruben Neves.",
-      "published": "2026-09-13T14:09:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49927013/cristiano-ronaldo-calls-life-bans-ruben-neves-taunted-diogo-jota-chants-saudi-pro-league",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715861_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49703019",
+      "headline": "Premier League VAR review: Did Man City's Foden deserve red card vs. Man United?",
+      "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
+      "published": "2026-09-13T16:58:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715970_2_1296x729_16-9.jpg",
+      "byline": "Andy Davies",
       "kind": "offfield",
       "kindLabel": "Off the field",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
-      "players": [
-        "Rúben Neves",
-        "Cristiano Ronaldo",
-        "Lionel Messi"
-      ],
-      "score": 145
-    },
-    {
-      "id": "49926499",
-      "headline": "Man United's Benjamin Sesko 'in perfect place' after injury recovery",
-      "description": "Benjamin Sesko now feels in the \"perfect\" place having recovered from the injury which brought his first season with Manchester United to a premature end.",
-      "published": "2026-09-13T12:13:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49926499/man-united-benjamin-sesko-perfect-place-injury-recovery",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715825_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Benjamin Sesko",
-        "Lionel Messi"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49894830",
-      "headline": "Premier League live updates: Coventry host Brighton ahead of Manchester derby",
-      "description": "Coventry City will look for their first win of the season as they take on Brighton & Hove Albion on a Sunday full of matches across Europe.",
-      "published": "2026-09-13T13:37:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49894830/premier-league-europe-soccer-live-updates-coventry-city-brighton-manchester-united-manchester-city-barcelona-bayern-munich",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715866_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
       "teams": [
         "Argentina"
       ],
@@ -82,54 +59,184 @@
       "score": 141
     },
     {
-      "id": "49925331",
-      "headline": "Transfer rumors, news: Chelsea to return for Roma star Koné",
-      "description": "Chelsea are ready to reignite their interest in AS Roma midfielder Manu Koné. Transfer Talk has the latest.",
-      "published": "2026-09-13T10:03:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49925331/transfer-rumors-news-chelsea-return-roma-star-manu-kone",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708284_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49928532",
+      "headline": "Man City's Phil Foden sent off in derby after kick on Man United's Bruno Fernandes",
+      "description": "Manchester City's Phil Foden was sent off after a kick on Manchester United captain Bruno Fernandes in the first half of the derby on Sunday.",
+      "published": "2026-09-13T16:53:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49928532/manchester-city-phil-foden-sent-manchester-united-derby-kick-bruno-fernandes",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715955_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Manu Koné",
         "Lionel Messi"
       ],
-      "score": 138
+      "score": 141
     },
     {
-      "id": "49927268",
-      "headline": "Celta Vigo vs. Málaga - Game Highlights",
-      "description": "Watch the Game Highlights from Celta Vigo vs. Málaga, 09/13/2026",
-      "published": "2026-09-13T14:07:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/49927268/celta-vigo-vs-malaga-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/25eb5e77-b186-4cb4-b072-fe3f8faeb232/25eb5e77-b186-4cb4-b072-fe3f8faeb232.jpg",
+      "id": "49931191",
+      "headline": "Washington Spirit vs. Boston Legacy FC - Game Highlights",
+      "description": "Watch the Game Highlights from Washington Spirit vs. Boston Legacy FC, 09/13/2026",
+      "published": "2026-09-13T19:43:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49931191/washington-spirit-vs-boston-legacy-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/620d17c9-7018-4c10-8ca7-1e3094a74ec0/620d17c9-7018-4c10-8ca7-1e3094a74ec0.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Australia"
       ],
       "players": [
-        "Adrián Niño",
-        "Ferran Jutglà",
-        "Alfonso Herrero",
-        "Iago Aspas",
-        "Sergio Carreira",
-        "Lionel Messi"
+        "Melissa Bethi",
+        "Aïssata Traoré",
+        "Amanda Gutierres",
+        "Tete Yengi"
       ],
       "score": 133
     },
     {
-      "id": "49927223",
-      "headline": "Iraola: Liverpool haven't been as good offensively as other days",
-      "description": "Iraola: Liverpool haven't been as good offensively as other days",
-      "published": "2026-09-13T14:05:48Z",
-      "url": "https://www.espn.com/video/clip/_/id/49927223/liverpool-good-offensively-other-days",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Iraola_Liverpool_havent_been_as_good_offensively_as_other_days/dm_260913_Iraola_Liverpool_havent_been_as_good_offensively_as_other_days.jpg",
+      "id": "49931083",
+      "headline": "NWSL's Houston Dash fire manager Gautrat, director Kilgore",
+      "description": "The Houston Dash have fired head coach Fabrice Gautrat and technical director Twila Kilgore, the team announced on Sunday.",
+      "published": "2026-09-13T19:34:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49931083/nwsl-houston-dash-fire-manager-gautrat-director-kilgore",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716100_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Tete Yengi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49930265",
+      "headline": "Lisandro Martínez, Michael Carrick blast 'injustice' to allow Erling Haaland, Man City's winner in derby",
+      "description": "Lisandro Martínez branded the decision to allow Manchester City's winning goal against Manchester United as \"an injustice\" while Michael Carrick said it was an \"obvious\" error.",
+      "published": "2026-09-13T19:05:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49930265/lisandro-martinez-michael-carrick-manchester-united-blast-decision-allow-erling-haaland-manhester-city-winning-goal-derby",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716064_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Lisandro Martínez",
+        "Tete Yengi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49930538",
+      "headline": "Hutchison: Haaland's goal should have been disallowed",
+      "description": "Hutchison: Haaland's goal should have been disallowed",
+      "published": "2026-09-13T18:48:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49930538/haaland-goal-disallowed",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Hutchison_Haalands_goal_should_have_been_disallowed/dm_260913_Hutchison_Haalands_goal_should_have_been_disallowed.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Tete Yengi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49930506",
+      "headline": "Hutchison: Manchester United will not be title contenders",
+      "description": "Hutchison: Manchester United will not be title contenders",
+      "published": "2026-09-13T18:48:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/49930506/manchester-united-not-title-contenders",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Hutchison_Manchester_United_will_not_be_title_contenders/dm_260913_Hutchison_Manchester_United_will_not_be_title_contenders.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Michael Carrick",
+        "Tete Yengi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49930531",
+      "headline": "Getafe vs. Deportivo La Coruña - Game Highlights",
+      "description": "Watch the Game Highlights from Getafe vs. Deportivo La Coruña, 09/13/2026",
+      "published": "2026-09-13T18:47:14Z",
+      "url": "https://www.espn.com/video/clip/_/id/49930531/getafe-vs-deportivo-la-coruna-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/d7a1d8a7-fe34-4bdd-aeeb-e7f87a1e326f/d7a1d8a7-fe34-4bdd-aeeb-e7f87a1e326f.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Pierre-Emerick Aubameyang",
+        "Martín Satriano",
+        "Ramón Terrats",
+        "Mario Martín",
+        "Tete Yengi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49897649",
+      "headline": "Contentious Erling Haaland goal decides Manchester derby in Man City's favour",
+      "description": "Erling Haaland secured Manchester City a memorable derby-day triumph as Manchester United failed to capitalise on Phil Foden's sending-off on a day of contentious decisions.",
+      "published": "2026-09-13T17:32:56Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879278",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716007_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49894830",
+      "headline": "Premier League live updates: Haaland, Man City defeat United in derby",
+      "description": "",
+      "published": "2026-09-13T17:27:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49894830/premier-league-europe-soccer-live-updates-coventry-city-brighton-manchester-united-manchester-city-barcelona-bayern-munich",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715984_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49929359",
+      "headline": "Did Levante expose Barcelona's weaknesses?",
+      "description": "Did Levante expose Barcelona's weaknesses?",
+      "published": "2026-09-13T17:19:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49929359/did-levante-expose-barcelona-weaknesses",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Did_Levante_expose_Barcelonas_weaknesses/dm_260913_Did_Levante_expose_Barcelonas_weaknesses.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -139,15 +246,15 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 132
+      "score": 129
     },
     {
-      "id": "49927079",
-      "headline": "Maresca: Manchester United are a 'dangerous' team",
-      "description": "Maresca: Manchester United are a 'dangerous' team",
-      "published": "2026-09-13T13:33:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/49927079/manchester-united-dangerous-team",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Maresca_Manchester_United_are_a_dangerous_team/dm_260913_Maresca_Manchester_United_are_a_dangerous_team.jpg",
+      "id": "49929136",
+      "headline": "Flick: Barcelona have to show quality in every game",
+      "description": "Flick: Barcelona have to show quality in every game",
+      "published": "2026-09-13T16:57:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/49929136/barcelona-show-quality-every-game",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Flick_Barcelona_have_to_show_quality_in_every_game/dm_260913_Flick_Barcelona_have_to_show_quality_in_every_game.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -157,26 +264,49 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 132
+      "score": 129
     },
     {
-      "id": "49925262",
-      "headline": "Was this miss from Tom Brady's Birmingham the worst ever? Not even close",
-      "description": "Birmingham's Luis Vázquez put the ball over the bar from close range on Saturday, but is it the worst miss ever?",
-      "published": "2026-09-13T09:21:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49925262/is-miss-tom-brady-birmingham-luis-vazquez-worst-ever-seen-not-even-close",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715795_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
+      "id": "49897694",
+      "headline": "Lamine Yamal brace helps free-scoring Barcelona overcome Levante",
+      "description": "Lamine Yamal fired a double as Barcelona won 4-2 at Levante to extend their 100% start in LaLiga this season to five matches and move three points clear at the top.",
+      "published": "2026-09-13T16:45:58Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401882883",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715965_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Luis Vázquez",
         "Lionel Messi"
       ],
-      "score": 125
+      "score": 129
+    },
+    {
+      "id": "49928791",
+      "headline": "Levante vs. Barcelona - Game Highlights",
+      "description": "Watch the Game Highlights from Levante vs. Barcelona, 09/13/2026",
+      "published": "2026-09-13T16:28:03Z",
+      "url": "https://www.espn.com/video/clip/_/id/49928791/levante-vs-barcelona-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/1546eec2-ba3c-4f77-affa-7a0c6a4aeef5/1546eec2-ba3c-4f77-affa-7a0c6a4aeef5.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Andreas Christensen",
+        "Roger Brugué",
+        "Xavi Espart",
+        "Karim Adeyemi",
+        "Iván Romero",
+        "Lamine Yamal",
+        "Lionel Messi"
+      ],
+      "score": 128
     },
     {
       "id": "49892754",
@@ -193,7 +323,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 95
+      "score": 87
     },
     {
       "id": "49867974",
@@ -207,7 +337,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 72
+      "score": 66
     },
     {
       "id": "47978642",
@@ -742,119 +872,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49639158",
-      "headline": "Scotland FA latest to withdraw support for FIFA's Gianni Infantino",
-      "description": "The Scottish Football Association has officially withdrawn its support for FIFA president Gianni Infantino, citing the \"lack of transparency\" shown over the plan to sell stakes in a World Cup company to private investors.",
-      "published": "2026-08-17T15:37:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49639158/scotland-fa-latest-withdraw-support-fifa-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1698132_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Scotland"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49607480",
-      "headline": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania",
-      "description": "New Zealand's football federation has withdrawn its support for under-fire FIFA president Gianni Infantino in a break with the wider Oceania Football Confederation (OFC).",
-      "published": "2026-08-14T08:49:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49607480/new-zealand-withdraws-support-fifa-president-gianni-infantino-break-oceania",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "New Zealand"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49598001",
-      "headline": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup",
-      "description": "Somali referee Omar Artan was denied entry to the U.S. for the World Cup, sparking a remarkable chain of events that led to him officiating the UEFA Super Cup.",
-      "published": "2026-08-13T15:28:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49598001/this-was-my-world-cup-somali-referee-omar-artan-barred-us-uefa-super-cup",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701194_1296x729_16-9.jpg",
-      "byline": "Lee Wingate",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49599931",
-      "headline": "Six Arab federations back Infantino amid revolt over World Cup plan",
-      "description": "The heads of six Arab football federations expressed their \"full support\" and \"confidence\" in Gianni Infantino on Thursday as the embattled FIFA president fights to keep his job after his failed World Cup private investment plan.",
-      "published": "2026-08-13T14:40:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49599931/six-arab-federations-back-infantino-amid-revolt-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49719477",
-      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
-      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
-      "published": "2026-08-25T10:22:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49669869",
-      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
-      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
-      "published": "2026-08-21T06:36:25Z",
-      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
-      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Achraf Hakimi",
-        "Victor Osimhen",
-        "Bryan Mbeumo",
-        "Mohamed Salah"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49847747",
-      "headline": "FIFA president Gianni Infantino to stand for reelection in 2027",
-      "description": "Gianni Infantino will run for reelection as FIFA president despite uncertainty over his future in the position following his failed attempt to raise $20 billion with the sale of a stake in future World Cups to private investors.",
-      "published": "2026-09-07T09:38:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49847747/fifa-president-gianni-infantino-stand-re-election-2027",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712226_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
