@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-13T05:07:19.801Z",
+  "updated": "2026-09-13T10:15:00.251Z",
   "counts": {
-    "offfield": 7,
-    "news": 39,
+    "offfield": 9,
+    "preview": 1,
+    "news": 36,
     "injury": 1,
     "celebration": 1
   },
@@ -20,7 +21,100 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 165
+      "score": 157
+    },
+    {
+      "id": "49925331",
+      "headline": "Transfer rumors, news: Chelsea to return for Roma star Koné",
+      "description": "Chelsea are ready to reignite their interest in AS Roma midfielder Manu Koné. Transfer Talk has the latest.",
+      "published": "2026-09-13T10:03:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49925331/transfer-rumors-news-chelsea-return-roma-star-manu-kone",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708284_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Manu Koné",
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49703019",
+      "headline": "Premier League VAR review: Was Sunderland's penalty legit vs. Arsenal?",
+      "description": "VAR often causes Premier League controversy, but how are decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
+      "published": "2026-09-13T09:56:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715793_1296x729_16-9.jpg",
+      "byline": "Andy Davies",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49894830",
+      "headline": "Premier League live updates: Coventry host Brighton ahead of Manchester derby",
+      "description": "Coventry City will look for their first win of the season as they take on Brighton & Hove Albion on a Sunday full of matches across Europe.",
+      "published": "2026-09-13T09:39:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49894830/premier-league-europe-soccer-live-updates-coventry-city-brighton-manchester-united-manchester-city-barcelona-bayern-munich",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714468_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49925262",
+      "headline": "Was this miss from Tom Brady's Birmingham the worst ever? Not even close",
+      "description": "Birmingham's Luis Vázquez put the ball over the bar from close range on Saturday, but is it the worst miss ever?",
+      "published": "2026-09-13T09:21:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49925262/is-miss-tom-brady-birmingham-luis-vazquez-worst-ever-seen-not-even-close",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715795_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Luis Vázquez",
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49924750",
+      "headline": "Hali Long: More than a shirt",
+      "description": "There is a difference between wearing the Philippines jersey and understanding what it means to wear it. Hali Long learned that difference after more than a decade with the national team.",
+      "published": "2026-09-13T07:07:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49924750/asian-games-2026-filipinas-hali-long-more-shirt",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715784_1296x729_16-9.jpg",
+      "byline": "Mikhail De Guzman",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Hali Long",
+        "Lionel Messi"
+      ],
+      "score": 128
     },
     {
       "id": "49921983",
@@ -38,7 +132,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 131
+      "score": 123
     },
     {
       "id": "49923189",
@@ -60,7 +154,7 @@
         "Ana Tejada",
         "Lionel Messi"
       ],
-      "score": 130
+      "score": 123
     },
     {
       "id": "49923053",
@@ -78,104 +172,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 130
-    },
-    {
-      "id": "49922750",
-      "headline": "Griezmann scores in 5th straight to help Orlando beat Toronto",
-      "description": "Antoine Griezmann scored for the eighth time in 10 matches, and rookie Harvey Sarajian notched his first goal and assist to spark Orlando City to a 3-0 victory over Toronto FC on Saturday night.",
-      "published": "2026-09-13T02:44:06Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761801",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761801.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Antoine Griezmann",
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49922867",
-      "headline": "Sporting Kansas City vs. LAFC - Game Highlights",
-      "description": "Watch the Game Highlights from Sporting Kansas City vs. LAFC, 09/12/2026",
-      "published": "2026-09-13T02:43:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49922867/sporting-kansas-city-vs-lafc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/8d8533b2-0b31-4d77-a13c-265fca6616a8/8d8533b2-0b31-4d77-a13c-265fca6616a8.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Mark Delgado",
-        "Denis Bouanga",
-        "Jacob Bartlett",
-        "Taylor Calheira",
-        "André Luiz",
-        "Stephen Afrifa",
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49922704",
-      "headline": "Virginia vs. Wake Forest: Game Highlights",
-      "description": "Virginia vs. Wake Forest: Game Highlights",
-      "published": "2026-09-13T02:30:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/49922704/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/dbf65df7-afb0-4850-b711-98d5e8f62c7f/dbf65df7-afb0-4850-b711-98d5e8f62c7f.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49922354",
-      "headline": "Donkor goals sees Red Bulls beat Crew to end winless streak at 6",
-      "description": "Ronald Donkor scored in the 89th minute and Ethan Horvath made three saves to help the New York Red Bulls end a six-match winless streak with a 1-0 victory over the Columbus Crew on Saturday night.",
-      "published": "2026-09-13T02:23:12Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761804",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761804.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49922420",
-      "headline": "Messi scores his 19th MLS goal as Inter Miami draws 2-2 with Nashville",
-      "description": "Lionel Messi scored his MLS-leading 19th goal of the season as Inter Miami played first-place Nashville to a 2-2 tie on Saturday night.",
-      "published": "2026-09-13T02:20:22Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761800",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/e5179b8d-7a12-4c1e-a77c-a8594705b62b/e5179b8d-7a12-4c1e-a77c-a8594705b62b.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 129
+      "score": 122
     },
     {
       "id": "49892754",
@@ -192,7 +189,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 109
+      "score": 101
     },
     {
       "id": "49867974",
@@ -206,7 +203,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 86
+      "score": 79
     },
     {
       "id": "47978642",
@@ -224,7 +221,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 74
+      "score": 66
     },
     {
       "id": "49877552",
