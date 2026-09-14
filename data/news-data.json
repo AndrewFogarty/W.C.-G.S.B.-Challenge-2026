@@ -1,14 +1,32 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-14T19:17:57.895Z",
+  "updated": "2026-09-14T22:35:34.813Z",
   "counts": {
+    "news": 35,
     "preview": 1,
     "injury": 3,
     "offfield": 8,
-    "news": 35,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-09-14T22:00:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 212
+    },
     {
       "id": "49941399",
       "headline": "Ecuador hires Marcelo Gallardo through 2030 World Cup",
@@ -23,7 +41,7 @@
         "Ecuador"
       ],
       "players": [],
-      "score": 216
+      "score": 202
     },
     {
       "id": "49935086",
@@ -43,7 +61,7 @@
         "Catarina Macario",
         "Lionel Messi"
       ],
-      "score": 147
+      "score": 142
     },
     {
       "id": "49940193",
@@ -62,7 +80,7 @@
         "Richarlison",
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 135
     },
     {
       "id": "49934950",
@@ -81,7 +99,7 @@
         "Barbra Banda",
         "Lionel Messi"
       ],
-      "score": 138
+      "score": 133
     },
     {
       "id": "49941016",
@@ -101,7 +119,7 @@
         "Cavan Sullivan",
         "Lionel Messi"
       ],
-      "score": 130
+      "score": 125
     },
     {
       "id": "49940062",
@@ -119,7 +137,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 129
+      "score": 124
     },
     {
       "id": "49940750",
@@ -137,7 +155,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 128
+      "score": 123
     },
     {
       "id": "49940582",
@@ -157,7 +175,7 @@
         "Kylian Mbappé",
         "Lionel Messi"
       ],
-      "score": 128
+      "score": 123
     },
     {
       "id": "49905396",
@@ -171,7 +189,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 98
+      "score": 83
     },
     {
       "id": "49892754",
@@ -188,7 +206,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 70
+      "score": 60
     },
     {
       "id": "49867974",
@@ -202,25 +220,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 56
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-09-10T04:14:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 53
+      "score": 46
     },
     {
       "id": "49877552",
