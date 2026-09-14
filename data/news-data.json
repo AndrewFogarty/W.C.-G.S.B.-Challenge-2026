@@ -1,18 +1,74 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-14T14:03:55.719Z",
+  "updated": "2026-09-14T19:17:57.895Z",
   "counts": {
-    "offfield": 9,
-    "news": 37,
-    "injury": 1,
+    "preview": 1,
+    "injury": 3,
+    "offfield": 8,
+    "news": 35,
     "celebration": 1
   },
   "items": [
     {
+      "id": "49941399",
+      "headline": "Ecuador hires Marcelo Gallardo through 2030 World Cup",
+      "description": "Marcelo Gallardo, one of the most decorated coaches in the history of the Argentine league, has reached an agreement to manage Ecuador ahead of the 2030 FIFA World Cup.",
+      "published": "2026-09-14T17:36:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49941399/ecuador-hires-marcelo-gallardo-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716613_1024x576_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Ecuador"
+      ],
+      "players": [],
+      "score": 216
+    },
+    {
+      "id": "49935086",
+      "headline": "Wave put USWNT's Catarina Macario on season-ending injury list",
+      "description": "Forward Catarina Macario was placed on the NWSL's season-ending injury list by San Diego Wave FC on Monday due to an ongoing knee issue.",
+      "published": "2026-09-14T19:17:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49935086/wave-put-uswnt-catarina-macario-season-ending-injury-list",
+      "image": "https://a.espncdn.com/photo/2025/1129/r1582147_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Catarina Macario",
+        "Lionel Messi"
+      ],
+      "score": 147
+    },
+    {
+      "id": "49940193",
+      "headline": "Roberto De Zerbi leaves Richarlison out of Spurs' Carabao Cup squad for Liverpool clash",
+      "description": "Roberto De Zerbi has turned down the chance to include Richarlison in Tottenham's squad for Tuesday's Carabao Cup tie at Liverpool.",
+      "published": "2026-09-14T14:40:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49940193/roberto-de-zerbi-leaves-richarlison-spurs-carabao-cup-squad-liverpool-clash",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712441_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Richarlison",
+        "Lionel Messi"
+      ],
+      "score": 140
+    },
+    {
       "id": "49934950",
       "headline": "Sources: Banda joins 'high-impact' club with new Pride deal",
       "description": "The Orlando Pride have signed forward Barbra Banda to a new contract through the 2029 season, the club announced, locking up one of the NWSL's best players for the long term in one of the league's biggest contracts.",
-      "published": "2026-09-14T14:00:20Z",
+      "published": "2026-09-14T14:43:07Z",
       "url": "https://www.espn.com/soccer/story/_/id/49934950/banda-joins-exclusive-high-impact-club-new-pride-deal",
       "image": "https://a.espncdn.com/photo/2026/0723/r1692763_1296x729_16-9.jpg",
       "byline": "Jeff Kassouf",
@@ -25,35 +81,36 @@
         "Barbra Banda",
         "Lionel Messi"
       ],
-      "score": 145
+      "score": 138
     },
     {
-      "id": "49937841",
-      "headline": "Transfer rumors, news: Arsenal keeping tabs on Liverpool teen Ngumoha",
-      "description": "Arsenal are watching developments between Liverpool and Rio Ngumoha with interest. Transfer Talk has the latest.",
-      "published": "2026-09-14T13:43:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49937841/transfer-rumors-news-arsenal-keeping-tabs-liverpool-teen-ngumoha",
-      "image": "https://a.espncdn.com/photo/2026/0411/r1641945_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49941016",
+      "headline": "Cavan Sullivan records first 2-goal game as Union crush San Diego",
+      "description": "Cavan Sullivan recorded his first two-goal game in MLS and assisted on another goal to help the Philadelphia Union cruise to a 5-0 victory over San Diego on Sunday night.",
+      "published": "2026-09-14T17:16:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49941016/cavan-sullivan-first-2-goal-game-union-crush-san-diego",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716577_1024x576_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "USA"
       ],
       "players": [
-        "Rio Ngumoha",
+        "Cavan Sullivan",
         "Lionel Messi"
       ],
-      "score": 144
+      "score": 130
     },
     {
-      "id": "49940001",
-      "headline": "Iraola: Fulham draw was a step back for Liverpool",
-      "description": "Iraola: Fulham draw was a step back for Liverpool",
-      "published": "2026-09-14T13:54:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/49940001/fulham-draw-was-step-back-liverpool",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_Iraola_Fulham_draw_was_a_step_back_for_Liverpool/dm_260914_Iraola_Fulham_draw_was_a_step_back_for_Liverpool.jpg",
-      "byline": null,
+      "id": "49940062",
+      "headline": "MLS Power Rankings: Chicago's slide continues as Nashville cements top spot",
+      "description": "The Chicago Fire haven't tasted victory in more than three weeks, precipitating a slide down this week's edition of ESPN's MLS Power Rankings.",
+      "published": "2026-09-14T16:35:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49940062/mls-power-rankings-chicago-fire-slide-continues-nashville-sc-cement-top-spot",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716553_1296x729_16-9.jpg",
+      "byline": "Megan Swanick",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -62,15 +119,15 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 129
     },
     {
-      "id": "49939998",
-      "headline": "Ex-Man United striker Wayne Rooney: 'Baffling' that VAR awarded Erling Haaland goal",
-      "description": "Former Manchester United striker Wayne Rooney said it was \"baffling\" VAR awarded Erling Haaland's winner in the Manchester derby.",
-      "published": "2026-09-14T13:53:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49939998/ex-man-united-striker-wayne-rooney-baffling-var-awarded-erling-haaland-goal",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716456_1296x729_16-9.jpg",
+      "id": "49940750",
+      "headline": "VAR from Manchester derby not given a Premier League game for upcoming weekend",
+      "description": "The VAR who made an \"error of judgement\" in awarding a goal to Manchester City in Sunday's derby at Old Trafford has not been appointed to a Premier League game this weekend.",
+      "published": "2026-09-14T15:48:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49940750/var-manchester-derby-not-given-premier-league-games-upcoming-weekend",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716022_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
@@ -80,81 +137,27 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 128
     },
     {
-      "id": "49936126",
-      "headline": "Manchester derby defined by VAR drama; Real Madrid booed; Chelsea bullied by Hull",
-      "description": "Sunday's Manchester derby was fascinating and not just because of the referee/VAR errors. Also: Real Madrid get booed again, and Chelsea should be worried after being bullied by Hull City, as Gab Marcotti recaps the weekend.",
-      "published": "2026-09-14T13:22:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49936126/manchester-united-manchester-city-var-drama-real-madrid-chelsea-premier-league-analysis",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716497_1296x729_16-9.jpg",
-      "byline": "Gabriele Marcotti",
+      "id": "49940582",
+      "headline": "Ousmane Dembélé: 'Never the chosen one,' but hard work at 'back of the class' earned Ballon d'Or",
+      "description": "Ousmane Dembélé said he has \"never been the chosen one\" after Kylian Mbappé used the phrase to describe himself and his expectations in football.",
+      "published": "2026-09-14T15:47:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49940582/ousmane-dembele-never-chosen-one-hard-work-earned-ballon-dor",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673641_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
+        "Ousmane Dembélé",
+        "Kylian Mbappé",
         "Lionel Messi"
       ],
-      "score": 132
-    },
-    {
-      "id": "49939662",
-      "headline": "Arsenal to contact Pro Ref over Sunderland penalty incident - source",
-      "description": "Arsenal will contact Pro Ref, the body in charge of officiating in English football, over the decision to award Sunderland a penalty in Saturday's Premier League match at the Stadium of Light, a source has told ESPN.",
-      "published": "2026-09-14T13:07:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49939662/arsenal-contact-pro-ref-sunderland-penalty-incident-source",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716509_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49939346",
-      "headline": "Liverpool boss Andoni Iraola calls for help from forwards: 'Need to recover the ball as high as possible'",
-      "description": "Liverpool head coach Andoni Iraola has called for his forward line to provide more support for the players behind them amid criticism of his team's midfield.",
-      "published": "2026-09-14T12:22:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49939346/liverpool-boss-andoni-iraola-attackers-need-recover-ball-high-possible",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716494_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Dominik Szoboszlai",
-        "Ryan Gravenberch",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49939086",
-      "headline": "Michael Carrick calls on Man United squad to 'move on' after derby loss, Erling Haaland goal 'injustice'",
-      "description": "Michael Carrick has told his Manchester United players to put their derby disappointment behind them quickly despite feeling frustration that Erling Haaland's winner was allowed to stand.",
-      "published": "2026-09-14T11:52:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49939086/michael-carrick-manchester-united-move-city-loss-erling-haaland-goal-stands",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716479_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "49905396",
@@ -168,7 +171,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 115
+      "score": 98
     },
     {
       "id": "49892754",
@@ -185,7 +188,7 @@
         "Morocco"
       ],
       "players": [],
-      "score": 80
+      "score": 70
     },
     {
       "id": "49867974",
@@ -199,7 +202,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 66
+      "score": 56
     },
     {
       "id": "47978642",
@@ -217,7 +220,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 63
+      "score": 53
     },
     {
       "id": "49877552",
@@ -235,7 +238,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 53
+      "score": 43
     },
     {
       "id": "49865329",
@@ -252,7 +255,7 @@
         "Egypt"
       ],
       "players": [],
-      "score": 40
+      "score": 30
     },
     {
       "id": "49857842",
@@ -271,25 +274,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 35
-    },
-    {
-      "id": "49868020",
-      "headline": "Cape Verde's Vozinha nominated for Goalkeeper of the Year award at Ballon d'Or after World Cup heroics",
-      "description": "Cape Verde goalkeeper Vozinha has been nominated for the men's Goalkeeper of the Year award at the 2026 Ballon d'Or.",
-      "published": "2026-09-08T14:00:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49868020/cape-verde-colo-colo-vozinha-nominated-goalkeeper-year-award",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713164_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 33
+      "score": 25
     },
     {
       "id": "49466177",
@@ -360,6 +345,24 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "49868020",
+      "headline": "Cape Verde's Vozinha nominated for Goalkeeper of the Year award at Ballon d'Or after World Cup heroics",
+      "description": "Cape Verde goalkeeper Vozinha has been nominated for the men's Goalkeeper of the Year award at the 2026 Ballon d'Or.",
+      "published": "2026-09-08T14:00:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49868020/cape-verde-colo-colo-vozinha-nominated-goalkeeper-year-award",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713164_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 23
     },
     {
       "id": "49704497",
