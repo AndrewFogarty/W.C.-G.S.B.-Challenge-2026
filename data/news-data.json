@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-16T21:32:28.081Z",
+  "updated": "2026-09-16T23:48:07.199Z",
   "counts": {
     "news": 35,
-    "offfield": 8,
-    "preview": 3,
-    "injury": 1,
-    "celebration": 1
+    "celebration": 3,
+    "preview": 2,
+    "offfield": 7,
+    "injury": 1
   },
   "items": [
     {
@@ -24,7 +24,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 207
+      "score": 204
     },
     {
       "id": "49952392",
@@ -41,7 +41,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 166
+      "score": 162
     },
     {
       "id": "49952015",
@@ -59,26 +59,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 162
-    },
-    {
-      "id": "49955473",
-      "headline": "Transfer rumors, news: Barcelona keeping tabs on possible move for Kane",
-      "description": "Could LaLiga giants Barcelona make a move for Harry Kane next summer? Transfer talk has the latest.",
-      "published": "2026-09-16T21:04:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49955473/transfer-rumors-news-barca-madrid-believe-haaland-leave-man-city-next-summer",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717747_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Harry Kane",
-        "Lionel Messi"
-      ],
-      "score": 144
+      "score": 159
     },
     {
       "id": "49950986",
@@ -96,25 +77,137 @@
       "players": [
         "James Rodríguez"
       ],
-      "score": 144
+      "score": 140
     },
     {
-      "id": "49922711",
-      "headline": "David strikes again as Atleti roll ahead of Madrid derby",
-      "description": "Atlético Madrid breezed to a 4-0 home win over Osasuna on Wednesday to move into third place in LaLiga.",
-      "published": "2026-09-16T19:22:00Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401882875",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717676_1296x729_16-9.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49960419",
+      "headline": "Raphinha bags hat trick as Barcelona score 7 to set record start",
+      "description": "Barcelona sent records tumbling with a 7-2 thumping of Racing Santander to make it seven straight wins to start the season for the first time in the club's history.",
+      "published": "2026-09-16T23:22:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49960419/barcelona-raphinha-racing-santander-laliga-record",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717763_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Raphinha",
+        "Lionel Messi"
+      ],
+      "score": 139
+    },
+    {
+      "id": "49922724",
+      "headline": "Raphinha hat trick in Barcelona's 7-goal rout of Santander",
+      "description": "Barcelona thrashed Racing Santander 7-2 on Wednesday to make it seven wins at the start of a season for the first time in their history.",
+      "published": "2026-09-16T22:13:08Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401882871",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717768_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 139
+      "score": 138
+    },
+    {
+      "id": "49960706",
+      "headline": "Boehly, Walter sell Chelsea stakes as Clearlake takes full control",
+      "description": "Clearlake Capital has taken full control of Chelsea after acquiring the ownership stakes of Mark Walter and Todd Boehly, the Premier League club announced Wednesday.",
+      "published": "2026-09-16T23:45:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49960706/chelsea-clarlake-capital-todd-boehly-mark-walter-ownership",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Alonso_Chelsea_have_been_punished_over_defensive_problems/dm_260913_Alonso_Chelsea_have_been_punished_over_defensive_problems.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49960828",
+      "headline": "Man United will be 'careful' with Gabriel future, Carrick says",
+      "description": "Michael Carrick confirmed he is involved in conversations about JJ Gabriel's future after the 15-year-old's request to leave Manchester United made major ripples and that the team is being \"careful\" with the situation.",
+      "published": "2026-09-16T23:43:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49960828/man-united-careful-gabriel-future",
+      "image": "sportscenter://x-callback-url/showStory?uid=49950304",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "JJ Gabriel",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49960829",
+      "headline": "Man United's collapse puts Carrick under pressure for first time",
+      "description": "After being eliminated to Brighton & Hove Albion in the Carabao Cup, Manchester United boss Michael Carrick is now facing the first real pressure of his reign.",
+      "published": "2026-09-16T23:34:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49960829/manchester-united-collapse-puts-michael-carrick-pressure-first",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717818_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49960667",
+      "headline": "Michael Carrick: 'We can't accept' Man United showing in Carabao Cup exit, 'I take responsibility'",
+      "description": "Michael Carrick branded Manchester United's capitulation as unacceptable, after watching his team lose 3-2 to Brighton in the Carabao Cup after leading 2-0.",
+      "published": "2026-09-16T22:58:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49960667/michael-carrick-accept-manchester-united-showing-carabao-cup-exit-take-responsibility",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717812_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Shea Lacey",
+        "Mason Mount",
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49922786",
+      "headline": "Sunderland mark European return with win over AZ Alkmaar",
+      "description": "Enzo Le Fee's penalty ensured Sunderland kicked off their Europa League adventure with a 1-0 win over AZ Alkmaar at the Stadium of Light.",
+      "published": "2026-09-16T22:39:15Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915592",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717731_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
     },
     {
       "id": "49947673",
@@ -136,74 +229,15 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 135
+      "score": 131
     },
     {
-      "id": "49922683",
-      "headline": "Man United collapse in Carabao Cup exit as Brighton advance",
-      "description": "Manchester United surrendered a two-goal advantage in a shambolic 3-2 Carabao Cup collapse to Brighton & Hove Albion as loud boos rang around Old Trafford and pressure on boss Michael Carrick went up a notch.",
-      "published": "2026-09-16T21:26:56Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401914261",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717753_1024x576_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49922780",
-      "headline": "Pulisic subs on as Milan humbled by Benfica in Europa League",
-      "description": "AC Milan kicked off their Europa League campaign with a disappointing 2-0 home loss to Portuguese side Benfica.",
-      "published": "2026-09-16T21:25:08Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915586",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717761_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Christian Pulisic",
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49959666",
-      "headline": "Kylian Mbappé explains obscuring Ceuta shirt amid backlash",
-      "description": "Kylian Mbappé has explained his refusal to wear a T-shirt in support of Ceuta, saying he doesn't \"want to prioritize one form of suffering over another.",
-      "published": "2026-09-16T21:10:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49959666/kylian-mbappe-real-madrid-ceuta-shirt-spain-vinicius-junior",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717720_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "France"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Vinícius Júnior",
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49958960",
-      "headline": "Deportivo La Coruña vs. Sevilla - Game Highlights",
-      "description": "Watch the Game Highlights from Deportivo La Coruña vs. Sevilla, 09/16/2026",
-      "published": "2026-09-16T19:04:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49958960/deportivo-la-coruna-vs-sevilla-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0916/a4407b93-eb1f-47ed-8f59-13ecc4f49d90/a4407b93-eb1f-47ed-8f59-13ecc4f49d90.jpg",
+      "id": "49960425",
+      "headline": "Barcelona vs. Racing Santander - Game Highlights",
+      "description": "Watch the Game Highlights from Barcelona vs. Racing Santander, 09/16/2026",
+      "published": "2026-09-16T21:47:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/49960425/barcelona-vs-racing-santander-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0916/51ff16c4-752f-4305-aa56-bef2f3843d49/51ff16c4-752f-4305-aa56-bef2f3843d49.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -211,40 +245,15 @@
         "Argentina"
       ],
       "players": [
-        "Jon Guridi",
-        "Enrique Salas",
-        "Angeliño",
-        "Lucas Stassin",
-        "Miguel Sierra",
-        "Bil Nsongo",
+        "Raphinha",
+        "Yassir Zabiri",
+        "João Cancelo",
+        "Gabriel Jesus",
+        "Lamine Yamal",
+        "Maguette Gueye",
         "Lionel Messi"
       ],
-      "score": 129
-    },
-    {
-      "id": "49958958",
-      "headline": "Atletico Madrid vs. Osasuna - Game Highlights",
-      "description": "Watch the Game Highlights from Atletico Madrid vs. Osasuna, 09/16/2026",
-      "published": "2026-09-16T19:04:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49958958/atletico-madrid-vs-osasuna-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0916/1c40fe91-1f36-4be6-aa6a-b4e3771d3496/1c40fe91-1f36-4be6-aa6a-b4e3771d3496.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Jonathan David",
-        "Robin Le Normand",
-        "Lee Kang-In",
-        "Abel Bretones",
-        "Lucas Torró",
-        "Álex Baena",
-        "Aitor Fernández",
-        "Lionel Messi"
-      ],
-      "score": 129
+      "score": 130
     },
     {
       "id": "49947635",
@@ -262,7 +271,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 107
+      "score": 104
     },
     {
       "id": "49784295",
@@ -280,7 +289,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 97
+      "score": 94
     },
     {
       "id": "47978642",
@@ -298,7 +307,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 82
+      "score": 78
     },
     {
       "id": "49941399",
@@ -314,7 +323,7 @@
         "Ecuador"
       ],
       "players": [],
-      "score": 71
+      "score": 68
     },
     {
       "id": "49857842",
@@ -856,25 +865,6 @@
       "teams": [],
       "players": [
         "Lucy Bronze"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49669869",
-      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
-      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
-      "published": "2026-08-21T06:36:25Z",
-      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
-      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Achraf Hakimi",
-        "Victor Osimhen",
-        "Bryan Mbeumo",
-        "Mohamed Salah"
       ],
       "score": 9
     }
