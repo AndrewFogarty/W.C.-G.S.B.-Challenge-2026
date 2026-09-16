@@ -1,14 +1,31 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-16T14:32:46.821Z",
+  "updated": "2026-09-16T21:32:28.081Z",
   "counts": {
     "news": 35,
-    "preview": 2,
-    "offfield": 9,
+    "offfield": 8,
+    "preview": 3,
     "injury": 1,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49959154",
+      "headline": "England boss Thomas Tuchel defends subs vs. Argentina: 'It's my scar'",
+      "description": "England boss Thomas Tuchel said he stands by his heavily criticised defensive substitutions in the World Cup semifinal defeat to Argentina, but accepts he made them too early.",
+      "published": "2026-09-16T19:28:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49959154/england-thomas-tuchel-argentina-substitutions-2026-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717694_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 207
+    },
     {
       "id": "49952392",
       "headline": "Thomas Tuchel: 'Regret I didn't eat some grass' after England's Azteca win over Mexico",
@@ -24,7 +41,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 186
+      "score": 166
     },
     {
       "id": "49952015",
@@ -42,7 +59,26 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 182
+      "score": 162
+    },
+    {
+      "id": "49955473",
+      "headline": "Transfer rumors, news: Barcelona keeping tabs on possible move for Kane",
+      "description": "Could LaLiga giants Barcelona make a move for Harry Kane next summer? Transfer talk has the latest.",
+      "published": "2026-09-16T21:04:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49955473/transfer-rumors-news-barca-madrid-believe-haaland-leave-man-city-next-summer",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717747_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Harry Kane",
+        "Lionel Messi"
+      ],
+      "score": 144
     },
     {
       "id": "49950986",
@@ -60,7 +96,25 @@
       "players": [
         "James Rodríguez"
       ],
-      "score": 164
+      "score": 144
+    },
+    {
+      "id": "49922711",
+      "headline": "David strikes again as Atleti roll ahead of Madrid derby",
+      "description": "Atlético Madrid breezed to a 4-0 home win over Osasuna on Wednesday to move into third place in LaLiga.",
+      "published": "2026-09-16T19:22:00Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401882875",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717676_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 139
     },
     {
       "id": "49947673",
@@ -82,55 +136,16 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 155
+      "score": 135
     },
     {
-      "id": "49956007",
-      "headline": "Soccer should learn from the NFL to fix the mess that VAR has created",
-      "description": "Is it time to give the VAR the red card, or does soccer actually need the red flag? The Manchester derby controversy could have been avoided with an on-field challenge.",
-      "published": "2026-09-16T13:51:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49956007/soccer-learn-nfl-fix-mess-var-created",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717460_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Lionel Messi"
-      ],
-      "score": 144
-    },
-    {
-      "id": "49956518",
-      "headline": "VAR right not to send off Arsenal's Gabriel for Emi Martínez kick, panel finds",
-      "description": "The referee and VAR were correct not to issue a red card to Arsenal defender Gabriel for his kick to the head of Chelsea goalkeeper Emiliano Martínez earlier this month, a panel has found.",
-      "published": "2026-09-16T13:21:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49956518/var-right-not-send-arsenal-gabriel-emi-martinez-kick-panel-finds",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717485_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Emiliano Martínez",
-        "Gabriel Magalhães",
-        "Lionel Messi"
-      ],
-      "score": 143
-    },
-    {
-      "id": "49949693",
-      "headline": "Furious fans, peeved parents and side gigs: Why would anyone want to be a ref?",
-      "description": "Whether they're officiating the Premier League or under-12s, referees are often the least popular people on the pitch. So why do they do it?",
-      "published": "2026-09-16T14:26:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49949693/furious-fans-peeved-parents-side-gigs-why-anyone-want-soccer-football-referee",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717078_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
+      "id": "49922683",
+      "headline": "Man United collapse in Carabao Cup exit as Brighton advance",
+      "description": "Manchester United surrendered a two-goal advantage in a shambolic 3-2 Carabao Cup collapse to Brighton & Hove Albion as loud boos rang around Old Trafford and pressure on boss Michael Carrick went up a notch.",
+      "published": "2026-09-16T21:26:56Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401914261",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717753_1024x576_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -142,52 +157,53 @@
       "score": 133
     },
     {
-      "id": "49956789",
-      "headline": "Borussia Dortmund teenager Konstantinos Karetsas returns to training after Champions League health scare",
-      "description": "Borussia Dortmund says 18-year-old midfielder Konstantinos Karetsas is back in training just over a week after he slumped to the ground in an alarming medical incident on his Champions League debut.",
-      "published": "2026-09-16T14:12:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49956789/borussia-dortmund-teenager-konstantinos-karetsas-returns-training-champions-league-health-scare",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717509_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "49922780",
+      "headline": "Pulisic subs on as Milan humbled by Benfica in Europa League",
+      "description": "AC Milan kicked off their Europa League campaign with a disappointing 2-0 home loss to Portuguese side Benfica.",
+      "published": "2026-09-16T21:25:08Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915586",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717761_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "USA"
       ],
       "players": [
+        "Christian Pulisic",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49959666",
+      "headline": "Kylian Mbappé explains obscuring Ceuta shirt amid backlash",
+      "description": "Kylian Mbappé has explained his refusal to wear a T-shirt in support of Ceuta, saying he doesn't \"want to prioritize one form of suffering over another.",
+      "published": "2026-09-16T21:10:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49959666/kylian-mbappe-real-madrid-ceuta-shirt-spain-vinicius-junior",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717720_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Vinícius Júnior",
         "Lionel Messi"
       ],
       "score": 132
     },
     {
-      "id": "49956431",
-      "headline": "Abdelkarim praises Norwegian striker, accepts 'Haaland of the Nile' comparison",
-      "description": "Abdelkarim praises Norwegian striker, accepts 'Haaland of the Nile' comparison",
-      "published": "2026-09-16T13:03:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/49956431/abdelkarim-praises-norwegian-striker-accepts-haaland-nile-comparison",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0916/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Egypt",
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Hamza Abdelkarim",
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49956373",
-      "headline": "Mourinho warns his Real Madrid side about failing to finish games strongly",
-      "description": "Mourinho warns his Real Madrid side about failing to finish games strongly",
-      "published": "2026-09-16T12:42:57Z",
-      "url": "https://www.espn.com/video/clip/_/id/49956373/mourinho-warns-real-madrid-side-failing-finish-games-strongly",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0916/dm_260916_COM_SOC_Analysis_Mourinho_warns_his_Real_Madrid_side_about_failing_to_finish_games_strongly_GLOBAL/dm_260916_COM_SOC_Analysis_Mourinho_warns_his_Real_Madrid_side_about_failing_to_finish_games_strongly_GLOBAL.jpg",
+      "id": "49958960",
+      "headline": "Deportivo La Coruña vs. Sevilla - Game Highlights",
+      "description": "Watch the Game Highlights from Deportivo La Coruña vs. Sevilla, 09/16/2026",
+      "published": "2026-09-16T19:04:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/49958960/deportivo-la-coruna-vs-sevilla-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0916/a4407b93-eb1f-47ed-8f59-13ecc4f49d90/a4407b93-eb1f-47ed-8f59-13ecc4f49d90.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -195,46 +211,40 @@
         "Argentina"
       ],
       "players": [
+        "Jon Guridi",
+        "Enrique Salas",
+        "Angeliño",
+        "Lucas Stassin",
+        "Miguel Sierra",
+        "Bil Nsongo",
         "Lionel Messi"
       ],
-      "score": 130
+      "score": 129
     },
     {
-      "id": "49956291",
-      "headline": "Lion City Sailors begin Mark Jackson era looking to make waves again in AFC Champions League Two",
-      "description": "It was only two seasons ago when Lion City Sailors made a miraculous run to the final of the AFC Champions League Two.",
-      "published": "2026-09-16T12:19:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49956291/lion-city-sailors-begin-mark-jackson-era-make-waves-again-afc-champions-league-two",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717470_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
+      "id": "49958958",
+      "headline": "Atletico Madrid vs. Osasuna - Game Highlights",
+      "description": "Watch the Game Highlights from Atletico Madrid vs. Osasuna, 09/16/2026",
+      "published": "2026-09-16T19:04:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/49958958/atletico-madrid-vs-osasuna-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0916/1c40fe91-1f36-4be6-aa6a-b4e3771d3496/1c40fe91-1f36-4be6-aa6a-b4e3771d3496.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Hariss Harun",
+        "Jonathan David",
+        "Robin Le Normand",
+        "Lee Kang-In",
+        "Abel Bretones",
+        "Lucas Torró",
+        "Álex Baena",
+        "Aitor Fernández",
         "Lionel Messi"
       ],
-      "score": 130
-    },
-    {
-      "id": "49956250",
-      "headline": "Leading sports barrister highlights 'incredible delay' on two-year anniversary of Man City hearing",
-      "description": "Leading sports barrister Nick De Marco has highlighted the \"most incredible delay\" in reaching an outcome in the key Manchester City legal case.",
-      "published": "2026-09-16T12:18:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49956250/man-city-115-charges-legal-case-premier-league-lord-david-pannick-nick-de-marco",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717467_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
+      "score": 129
     },
     {
       "id": "49947635",
@@ -252,7 +262,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 128
+      "score": 107
     },
     {
       "id": "49784295",
@@ -270,7 +280,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 108
+      "score": 97
     },
     {
       "id": "47978642",
@@ -288,7 +298,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 102
+      "score": 82
     },
     {
       "id": "49941399",
@@ -304,21 +314,7 @@
         "Ecuador"
       ],
       "players": [],
-      "score": 92
-    },
-    {
-      "id": "49905396",
-      "headline": "Two FIFA officials get lifetime bans for misuse of funds",
-      "description": "FIFA judges imposed life bans on two former federation presidents for financial misconduct.",
-      "published": "2026-09-11T17:43:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49905396/two-fifa-officials-get-life-bans-misuse-funds",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682659_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 28
+      "score": 71
     },
     {
       "id": "49857842",
@@ -440,6 +436,20 @@
         "Erling Haaland"
       ],
       "score": 20
+    },
+    {
+      "id": "49905396",
+      "headline": "Two FIFA officials get lifetime bans for misuse of funds",
+      "description": "FIFA judges imposed life bans on two former federation presidents for financial misconduct.",
+      "published": "2026-09-11T17:43:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49905396/two-fifa-officials-get-life-bans-misuse-funds",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682659_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 18
     },
     {
       "id": "49750811",
@@ -672,24 +682,6 @@
       "score": 13
     },
     {
-      "id": "49607572",
-      "headline": "Carrick backs Mainoo after 'challenging' World Cup",
-      "description": "Carrick backs Mainoo after 'challenging' World Cup",
-      "published": "2026-08-14T08:53:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/49607572/carrick-backs-mainoo-challenging-world-cup",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0814/dm_260814_COM_SOC_Interview_Carrick_backs_Mainoo_after_challenging_World_Cup_20260814_GLOBAL/dm_260814_COM_SOC_Interview_Carrick_backs_Mainoo_after_challenging_World_Cup_20260814_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Kobbie Mainoo"
-      ],
-      "score": 13
-    },
-    {
       "id": "49892754",
       "headline": "FIFA: 2030 World Cup final host country decision to be made 'in due course'",
       "description": "FIFA said on Thursday that the decision over whether Morocco or Spain would host the 2030 World Cup final would be made \"in due course.\"",
@@ -864,6 +856,25 @@
       "teams": [],
       "players": [
         "Lucy Bronze"
+      ],
+      "score": 9
+    },
+    {
+      "id": "49669869",
+      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
+      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
+      "published": "2026-08-21T06:36:25Z",
+      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
+      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Achraf Hakimi",
+        "Victor Osimhen",
+        "Bryan Mbeumo",
+        "Mohamed Salah"
       ],
       "score": 9
     }
