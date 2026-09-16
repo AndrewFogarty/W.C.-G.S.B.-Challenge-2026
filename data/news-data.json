@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-16T00:23:40.580Z",
+  "updated": "2026-09-16T05:03:40.049Z",
   "counts": {
     "news": 35,
-    "preview": 3,
-    "injury": 2,
-    "offfield": 7,
+    "preview": 2,
+    "offfield": 9,
+    "injury": 1,
     "celebration": 1
   },
   "items": [
@@ -24,13 +24,13 @@
         "Mexico"
       ],
       "players": [],
-      "score": 207
+      "score": 200
     },
     {
       "id": "49952015",
-      "headline": "Lionel Messi called up for Oct. 6 Argentina friendly as 'last tango'",
+      "headline": "Lionel Messi called up for Oct. 6 Argentina friendly for 'last tango'",
       "description": "Despite announcing his international retirement, Lionel Messi was included Tuesday in Argentina's squad for a farewell friendly against Benin on Oct. 6.",
-      "published": "2026-09-15T23:45:34Z",
+      "published": "2026-09-16T00:52:38Z",
       "url": "https://www.espn.com/soccer/story/_/id/49952015/lionel-messi-called-argentina-friendly-last-tango-farewell",
       "image": "https://a.espncdn.com/photo/2026/0915/r1717226_1296x729_16-9.jpg",
       "byline": "Lizzy Becherano",
@@ -42,7 +42,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 202
+      "score": 197
     },
     {
       "id": "49950986",
@@ -60,7 +60,7 @@
       "players": [
         "James Rodríguez"
       ],
-      "score": 186
+      "score": 179
     },
     {
       "id": "49947673",
@@ -82,7 +82,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 176
+      "score": 169
     },
     {
       "id": "49947635",
@@ -100,27 +100,158 @@
       "players": [
         "Raphinha"
       ],
-      "score": 149
+      "score": 142
     },
     {
-      "id": "49950214",
-      "headline": "USMNT, RSL midfielder Diego Luna (knee) set to be out for months",
-      "description": "Real Salt Lake and U.S. midfielder Diego Luna is expected to be out for months and will likely undergo an arthroscopic procedure to determine the extent of a knee injury, sources confirmed to ESPN.",
-      "published": "2026-09-15T16:53:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49950214/usa-diego-luna-real-salt-lake-injury-mls",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717093_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49952542",
+      "headline": "Louisville's DeMelo sues doctors after cardiac arrest during NWSL game",
+      "description": "Racing Louisville FC midfielder Savannah DeMelo is suing the University of Louisville Health and two physicians for allegedly failing to diagnose a heart condition that led to her suffering cardiac arrest on the field during a match in September 2025.",
+      "published": "2026-09-16T02:05:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49952542/savannah-demelo-racing-louisville-doctors-lawsuit-university-nwsl",
+      "image": "https://a.espncdn.com/photo/2025/0915/r1545841_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Argentina",
         "USA"
       ],
       "players": [
-        "Diego Luna",
+        "Savannah DeMelo",
         "Lionel Messi"
       ],
-      "score": 136
+      "score": 141
+    },
+    {
+      "id": "49952712",
+      "headline": "Barcelona re-sign Egypt striker Abdelkarim, 'Haaland of the Nile'",
+      "description": "Egypt striker Hamza Abdelkarim is relishing being nicknamed the \"Haaland of the Nile\" after signing a new contract with Barcelona on Tuesday.",
+      "published": "2026-09-15T23:57:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49952712/barcelona-re-sign-egypt-striker-abdelkarim",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717290_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Egypt"
+      ],
+      "players": [
+        "Hamza Abdelkarim",
+        "Lionel Messi"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49954843",
+      "headline": "Santa Clara vs. Stanford: Game Highlights",
+      "description": "Santa Clara vs. Stanford: Game Highlights",
+      "published": "2026-09-16T04:37:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/49954843/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0916/8a0e76d1-1f78-4f7b-8af5-fe8a590615c7/8a0e76d1-1f78-4f7b-8af5-fe8a590615c7.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49954056",
+      "headline": "Why Melbourne Victory feels like home for Giovanni Savarese",
+      "description": "From New York to Melbourne, new Victory boss Giovanni Savarese sat down with ESPN to discuss football, culture and the pressure to return to the A-League summit.",
+      "published": "2026-09-16T03:45:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49954056/why-melbourne-victory-feels-home-giovanni-savarese",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717391_1280x720_16-9.png",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49935722",
+      "headline": "Filipinas' Angie Beard returns to Melbourne Victory",
+      "description": "Philippines international Angela Beard is returning to Melbourne Victory for the coming A-League Women season, as previously reported by ESPN.",
+      "published": "2026-09-16T03:24:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49935722/sources-filipinas-angie-beard-set-return-melbourne-victory",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716397_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Angela Beard",
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49953583",
+      "headline": "Fluminense advance past Platense to Copa Libertadores semifinals",
+      "description": "Despite a 2-1 loss to Argentina's Platense on Tuesday, Brazil's Fluminense secured a spot in the Copa Libertadores semifinals with a 3-2 aggregate victory.",
+      "published": "2026-09-16T01:59:17Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401912517",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717346_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Brazil"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 128
+    },
+    {
+      "id": "49952550",
+      "headline": "Mourinho 'risked everything' with subs in Real Madrid win",
+      "description": "José Mourinho said Real Madrid \"risked everything\" after going all-out attack in a 3-2 LaLiga win at Elche on Tuesday, with substitute Carlos Espí scoring a 91st minute winner.",
+      "published": "2026-09-15T23:14:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49952550/mourinho-risked-everything-subs-real-madrid-win",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717266_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49952647",
+      "headline": "Liverpool's Andoni Iraola lauds Dominik Szoboszlai for 'worldie' in Tottenham win",
+      "description": "Andoni Iraola has heaped praise on midfielder Dominik Szoboszlai after he scored a \"worldie\" in Liverpool's 3-1 victory over Tottenham Hotspur.",
+      "published": "2026-09-15T23:10:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49952647/andoni-iraola-lauds-dominik-szoboszlai-worldie-tottenham-win",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717265_2_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Dominik Szoboszlai",
+        "Lionel Messi"
+      ],
+      "score": 124
     },
     {
       "id": "49784295",
@@ -138,99 +269,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 129
-    },
-    {
-      "id": "49949298",
-      "headline": "Ruben Amorim: AC Milan's objective is 'obviously to win' Europa League",
-      "description": "AC Milan boss Ruben Amorim has set his intentions on winning the Europa League ahead of the club's first game against Benfica on Wednesday.",
-      "published": "2026-09-15T14:32:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49949298/ac-milan-europa-league-ruben-amorim",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717033_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49950304",
-      "headline": "Man United need wins after bad week of JJ Gabriel unrest, protests and derby drama",
-      "description": "Things have gone from bad to worse this week for Man United, with defeats on and off the field. Victory against Brighton in midweek would go a long way to lifting the mood.",
-      "published": "2026-09-15T18:45:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49950304/manchester-united-jj-gabriel-fan-protests-manchester-derby-var-defeat-analysis-michael-carrick",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717115_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "JJ Gabriel",
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49950869",
-      "headline": "Dawson: Man Utd still hope to keep JJ Gabriel at the club",
-      "description": "Dawson: Man Utd still hope to keep JJ Gabriel at the club",
-      "published": "2026-09-15T18:43:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/49950869/man-utd-hope-keep-jj-gabriel-club",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Dawson_Man_Utd_still_hope_to_keep_JJ_Gabriel_at_the_club/dm_260915_Dawson_Man_Utd_still_hope_to_keep_JJ_Gabriel_at_the_club.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "JJ Gabriel",
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49950744",
-      "headline": "Cristian 'Kily' González arrives to take charge of Messi, Miami",
-      "description": "New Inter Miami head coach Cristian \"Kily\" González said he feels blessed at being given the opportunity to lead the club and coach Lionel Messi, after formerly taking up the role on Tuesday.",
-      "published": "2026-09-15T18:34:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49950744/cristian-kily-gonzalez-inter-miami-lionel-messi-coach",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717146_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49950514",
-      "headline": "Ogden: Manchester derby mistake has broken trust in VAR",
-      "description": "Ogden: Manchester derby mistake has broken trust in VAR",
-      "published": "2026-09-15T17:27:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/49950514/manchester-derby-mistake-broken-trust-var",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_COM_SOC_Analysis_Ogden_Manchester_derby_mistake_has_broken_trust_in_VAR__20260915_GLOBAL/dm_260915_COM_SOC_Analysis_Ogden_Manchester_derby_mistake_has_broken_trust_in_VAR__20260915_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
+      "score": 122
     },
     {
       "id": "47978642",
@@ -248,44 +287,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 123
-    },
-    {
-      "id": "49950126",
-      "headline": "Pro Ref chief Howard Webb: 'Tunnel vision' helped Erling Haaland goal to stand, Enzo Fernández offside missed",
-      "description": "Referees' chief Howard Webb said \"tunnel vision\" from VAR Matt Donohue led to Manchester City's derby winner being allowed to stand -- but that the assistant VAR should have intervened.",
-      "published": "2026-09-15T16:39:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49950126/pro-ref-chief-howard-webb-tunnel-vision-allowed-erling-haaland-goal-stand",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716042_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Lionel Messi"
-      ],
-      "score": 121
-    },
-    {
-      "id": "49949297",
-      "headline": "Le Bris: 'We deserve to be where we are' in the Europa League",
-      "description": "Le Bris: 'We deserve to be where we are' in the Europa League",
-      "published": "2026-09-15T14:19:52Z",
-      "url": "https://www.espn.com/video/clip/_/id/49949297/deserve-where-the-europa-league",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Le_Bris_We_deserve_to_be_where_we_are_in_the_Europa_League/dm_260915_Le_Bris_We_deserve_to_be_where_we_are_in_the_Europa_League.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 118
+      "score": 116
     },
     {
       "id": "49941399",
@@ -301,7 +303,7 @@
         "Ecuador"
       ],
       "players": [],
-      "score": 113
+      "score": 106
     },
     {
       "id": "49905396",
