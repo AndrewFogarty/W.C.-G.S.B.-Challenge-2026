@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-17T20:20:18.861Z",
+  "updated": "2026-09-17T22:55:42.243Z",
   "counts": {
-    "news": 37,
-    "offfield": 7,
+    "news": 38,
     "preview": 2,
+    "offfield": 6,
     "injury": 1,
     "celebration": 1
   },
@@ -25,7 +25,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 203
+      "score": 199
     },
     {
       "id": "49964525",
@@ -41,7 +41,7 @@
         "USA"
       ],
       "players": [],
-      "score": 194
+      "score": 190
     },
     {
       "id": "49963369",
@@ -55,7 +55,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 177
+      "score": 173
     },
     {
       "id": "49963173",
@@ -69,7 +69,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 162
+      "score": 158
     },
     {
       "id": "47978642",
@@ -87,35 +87,108 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 147
+      "score": 143
     },
     {
-      "id": "49962718",
-      "headline": "Transfer rumors, news: Liverpool targeting former Bayern Munich midfielder",
-      "description": "PSV Eindhoven's Paul Wanner has emerged as a Liverpool target. Transfer Talk has the latest.",
-      "published": "2026-09-17T19:31:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49962718/transfer-rumors-news-arsenal-keen-real-madrid-winger-rodrygo",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718179_1296x729_16-9.jpg",
+      "id": "49968118",
+      "headline": "Maresca has been pushing all the right buttons in perfect Man City start",
+      "description": "Despite using an alternative team, Manchester City made it six wins from six under Enzo Maresca, highlighting just how smoothly the post-Pep Guardiola era has begun.",
+      "published": "2026-09-17T22:54:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49968118/enzo-maresca-pushing-all-right-buttons-perfect-man-city-start",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718300_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49968164",
+      "headline": "Marco Rose proud of 'Bournemouth football' in European debut win over Real Sociedad",
+      "description": "Marco Rose was delighted to watch \"Bournemouth football\" during a 2-1 win at Real Sociedad and a memorable first match in Europe for the Premier League club.",
+      "published": "2026-09-17T22:50:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49968164/marco-rose-proud-bournemouth-football-european-debut-win-real-sociedad",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718306_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49968056",
+      "headline": "Burley not sure Vinicius Jr. is ready to step up if Mbappe falters",
+      "description": "Burley not sure Vinicius Jr. is ready to step up if Mbappe falters",
+      "published": "2026-09-17T22:19:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/49968056/burley-not-sure-vinicius-jr-ready-step-mbappe-falters",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_COM_SOC_analysis_Burley_not_sure_Vinicius_Jr_is_ready_to_step_up_if_Mbappe_falters_20260917_GLO/dm_260917_COM_SOC_analysis_Burley_not_sure_Vinicius_Jr_is_ready_to_step_up_if_Mbappe_falters_20260917_GLO.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49967991",
+      "headline": "Man City's 17-year-old Floyd Samba: Debut brace vs. Norwich was 'mind-blowing'",
+      "description": "Teenager Floyd Samba said his debut was \"mind-blowing\" after his stunning two-goal display in Manchester City's 5-0 thrashing of Norwich.",
+      "published": "2026-09-17T22:18:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49967991/manchester-city-floyd-samba-debut-brace-vs-norwich-was-mind-blowing",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718297_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49967712",
+      "headline": "Red Bulls teen Hall undecided on USMNT future despite 1st call-up",
+      "description": "New York Red Bulls teenage forward Julian Hall said the decision on his international allegiance was still \"not solidified,\" despite earning a first call-up to the U.S. men's national team on Thursday.",
+      "published": "2026-09-17T22:08:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49967712/julian-hall-usa-poland-new-york-red-bulls",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718291_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "USA"
       ],
       "players": [
-        "Paul Wanner",
+        "Julian Hall",
         "Lionel Messi"
       ],
-      "score": 144
+      "score": 132
     },
     {
-      "id": "49966527",
-      "headline": "Weekend predictions: Madrid derby heats up LaLiga, Brighton to stun Arsenal?",
-      "description": "It's another big weekend of matches in Europe which will include heated derbies, top-of-the-table matchups and other rivalries.",
-      "published": "2026-09-17T19:37:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49966527/weekend-predictions-madrid-derby-heats-laliga-brighton-stun-arsenal",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718195_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
+      "id": "49967974",
+      "headline": "Hislop: I do not see Chelsea beating Brentford",
+      "description": "Hislop: I do not see Chelsea beating Brentford",
+      "published": "2026-09-17T21:57:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/49967974/do-not-see-chelsea-beating-brentford",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_COM_SOC_analysis_Hislop_I_do_not_see_Chelsea_beating_Brentford_20260917_GLOBAL/dm_260917_COM_SOC_analysis_Hislop_I_do_not_see_Chelsea_beating_Brentford_20260917_GLOBAL.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -127,55 +200,13 @@
       "score": 132
     },
     {
-      "id": "49965805",
-      "headline": "Ex-USWNT coach Andonovski named Chicago Stars soccer chief",
-      "description": "The Chicago Stars have hired former United States women's national team coach Vlatko Andonovski as the team's new chief soccer officer.",
-      "published": "2026-09-17T19:29:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49965805/vlatko-andonovski-chicago-stars-chief-soccer-officer-usa-women",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718158_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49966841",
-      "headline": "Real Betis vs. Getafe - Game Highlights",
-      "description": "Watch the Game Highlights from Real Betis vs. Getafe, 09/17/2026",
-      "published": "2026-09-17T19:09:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/49966841/real-betis-vs-getafe-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0917/1740db3f-1059-4025-a1f4-a4fdcee4ea20/1740db3f-1059-4025-a1f4-a4fdcee4ea20.jpg",
+      "id": "49967931",
+      "headline": "Phil Jones: Old Trafford has a 'massive effect' on the players",
+      "description": "Phil Jones: Old Trafford has a 'massive effect' on the players",
+      "published": "2026-09-17T21:46:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49967931/old-trafford-massive-effect-players",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_COM_SOC_analysis_Phil_Jones_Old_Trafford_has_a_massive_effect_on_the_players_20260917_GLOBAL/dm_260917_COM_SOC_analysis_Phil_Jones_Old_Trafford_has_a_massive_effect_on_the_players_20260917_GLOBAL.jpg",
       "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Facundo Bernal",
-        "David Soria",
-        "Abde Ezzalzouli",
-        "Antony",
-        "Mario Martín",
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49966625",
-      "headline": "Messi, MLS' Garber appear to have heated exchange after Miami win",
-      "description": "Lionel Messi pointed his finger at MLS commissioner Don Garber on multiple occasions while speaking with him after Inter Miami's game with Cruz Azul on Wednesday.",
-      "published": "2026-09-17T18:58:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49966625/lionel-messi-mls-commissioner-don-garber-inter-miami-campeones-cup",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718209_1296x729_16-9.jpg",
-      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -187,67 +218,28 @@
       "score": 131
     },
     {
-      "id": "49966291",
-      "headline": "The USMNT's first post-World Cup squad is missing its biggest summer stars",
-      "description": "Christian Pulisic and Folarin Balogun were the USMNT's biggest stars at the World Cup, so why aren't they part of Mauricio Pochettino's latest squad?",
-      "published": "2026-09-17T18:14:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49966291/the-usmnt-first-post-world-cup-squad-missing-biggest-summer-stars-christian-pulisic-folarin-balogun",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718180_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Christian Pulisic",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49961597",
-      "headline": "Can ex-USWNT coach Andonovski save NWSL's last-place Chicago Stars?",
-      "description": "Vlatko Andonovski takes over Chicago Stars FC as the last-place NWSL club's chief soccer officer. Will it be enough to save their season?",
-      "published": "2026-09-17T18:08:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49961597/can-ex-uswnt-coach-andonovski-save-nwsl-last-place-chicago-stars",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717898_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Mallory Swanson",
-        "Jordyn Huitema",
-        "Brianna Pinto",
-        "Ryan Gareis",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49966290",
-      "headline": "Pochettino calls for a 'fresh start' as Pulisic misses out on USMNT squad",
-      "description": "Pochettino calls for a 'fresh start' as Pulisic misses out on USMNT squad",
-      "published": "2026-09-17T18:00:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/49966290/pochettino-calls-fresh-start-pulisic-misses-usmnt-squad",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_COM_SOC_Presser_Pochettino_calls_for_a_fresh_start_as_Pulisic_misses_out_on_USMNT_squad_202609/dm_260917_COM_SOC_Presser_Pochettino_calls_for_a_fresh_start_as_Pulisic_misses_out_on_USMNT_squad_202609.jpg",
+      "id": "49967855",
+      "headline": "Málaga vs. Villarreal - Game Highlights",
+      "description": "Watch the Game Highlights from Málaga vs. Villarreal, 09/17/2026",
+      "published": "2026-09-17T21:37:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/49967855/malaga-vs-villarreal-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0917/157396fd-14ca-4db1-947c-081ea6753579/157396fd-14ca-4db1-947c-081ea6753579.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "USA"
+        "Argentina"
       ],
       "players": [
-        "Christian Pulisic",
+        "Ángel Recio",
+        "Carlos Dotor",
+        "Alberto Moleiro",
+        "Pape Gueye",
+        "Carlos Macià",
+        "Sergi Cardona",
         "Lionel Messi"
       ],
-      "score": 130
+      "score": 131
     },
     {
       "id": "49959154",
@@ -264,7 +256,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 123
+      "score": 119
     },
     {
       "id": "49952392",
@@ -281,7 +273,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 81
+      "score": 78
     },
     {
       "id": "49952015",
@@ -299,7 +291,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 78
+      "score": 74
     },
     {
       "id": "49784295",
@@ -317,7 +309,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 63
+      "score": 59
     },
     {
       "id": "49947673",
@@ -339,7 +331,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 61
+      "score": 57
     },
     {
       "id": "49950986",
@@ -357,7 +349,7 @@
       "players": [
         "James Rodríguez"
       ],
-      "score": 60
+      "score": 56
     },
     {
       "id": "49947635",
@@ -375,23 +367,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 43
-    },
-    {
-      "id": "49941399",
-      "headline": "Ecuador hires Marcelo Gallardo through 2030 World Cup",
-      "description": "Marcelo Gallardo, one of the most decorated coaches in the history of the Argentine league, has reached an agreement to manage Ecuador ahead of the 2030 FIFA World Cup.",
-      "published": "2026-09-14T17:36:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49941399/ecuador-hires-marcelo-gallardo-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716613_1024x576_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Ecuador"
-      ],
-      "players": [],
-      "score": 27
+      "score": 39
     },
     {
       "id": "49857842",
@@ -481,6 +457,22 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "49941399",
+      "headline": "Ecuador hires Marcelo Gallardo through 2030 World Cup",
+      "description": "Marcelo Gallardo, one of the most decorated coaches in the history of the Argentine league, has reached an agreement to manage Ecuador ahead of the 2030 FIFA World Cup.",
+      "published": "2026-09-14T17:36:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49941399/ecuador-hires-marcelo-gallardo-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716613_1024x576_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Ecuador"
+      ],
+      "players": [],
+      "score": 23
     },
     {
       "id": "49704497",
