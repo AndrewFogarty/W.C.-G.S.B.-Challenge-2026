@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-17T17:08:22.445Z",
+  "updated": "2026-09-17T20:20:18.861Z",
   "counts": {
-    "news": 34,
-    "injury": 2,
+    "news": 37,
     "offfield": 7,
-    "preview": 3,
-    "celebration": 2
+    "preview": 2,
+    "injury": 1,
+    "celebration": 1
   },
   "items": [
     {
@@ -25,7 +25,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 208
+      "score": 203
     },
     {
       "id": "49964525",
@@ -41,7 +41,7 @@
         "USA"
       ],
       "players": [],
-      "score": 199
+      "score": 194
     },
     {
       "id": "49963369",
@@ -55,7 +55,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 182
+      "score": 177
     },
     {
       "id": "49963173",
@@ -69,7 +69,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 167
+      "score": 162
     },
     {
       "id": "47978642",
@@ -87,88 +87,112 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 152
+      "score": 147
     },
     {
-      "id": "49965317",
-      "headline": "Newcastle boss Matthias Jaissle hoping for 'positive' update on Anthony Elanga injury",
-      "description": "Matthias Jaissle hopes Anthony Elanga's injury is \"not that serious\" as Newcastle prepare to face Hull City on Saturday.",
-      "published": "2026-09-17T15:40:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49965317/newcastle-boss-matthias-jaissle-hoping-positive-update-anthony-elanga-injury",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718114_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Anthony Elanga",
-        "Lionel Messi"
-      ],
-      "score": 145
-    },
-    {
-      "id": "49965677",
-      "headline": "PSG ultras take legal action over Marseille travel ban",
-      "description": "Paris Saint-Germain fans have been banned from traveling to Marseille due to the risk of violent clashes between supporters in connection with the biggest match in French soccer on Sunday, local authorities said.",
-      "published": "2026-09-17T16:45:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49965677/psg-marseille-fans-travel-ban-ultras-ligue-1-france",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718146_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "49962718",
+      "headline": "Transfer rumors, news: Liverpool targeting former Bayern Munich midfielder",
+      "description": "PSV Eindhoven's Paul Wanner has emerged as a Liverpool target. Transfer Talk has the latest.",
+      "published": "2026-09-17T19:31:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49962718/transfer-rumors-news-arsenal-keen-real-madrid-winger-rodrygo",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718179_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
+        "Paul Wanner",
         "Lionel Messi"
       ],
       "score": 144
     },
     {
-      "id": "49964732",
-      "headline": "Ryan Reynolds and Rob Mac poke fun at 'Spygate' in Wrexham sponsor ad ahead of Southampton clash",
-      "description": "Wrexham co-owners Ryan Reynolds and Rob Mac have poked fun at Southampton's \"Spygate\" scandal in an advert for the Championship club's new sponsor.",
-      "published": "2026-09-17T14:12:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49964732/ryan-reynolds-rob-mac-spygate-scandal-wrexham-sponsor-ad-southampton",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705403_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49966527",
+      "headline": "Weekend predictions: Madrid derby heats up LaLiga, Brighton to stun Arsenal?",
+      "description": "It's another big weekend of matches in Europe which will include heated derbies, top-of-the-table matchups and other rivalries.",
+      "published": "2026-09-17T19:37:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49966527/weekend-predictions-madrid-derby-heats-laliga-brighton-stun-arsenal",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718195_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 138
+      "score": 132
     },
     {
-      "id": "49964446",
-      "headline": "Still at zero: Viral Man United fan's haircut challenge nears two years",
-      "description": "Viral Manchester United fan Frank Ilett's haircut challenge is nearing the two-year mark and he's back to square 1.",
-      "published": "2026-09-17T15:10:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49964446/still-zero-viral-man-united-fan-haircut-challenge-nears-two-years",
-      "image": "https://a.espncdn.com/photo/2026/0210/r1613205_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49965805",
+      "headline": "Ex-USWNT coach Andonovski named Chicago Stars soccer chief",
+      "description": "The Chicago Stars have hired former United States women's national team coach Vlatko Andonovski as the team's new chief soccer officer.",
+      "published": "2026-09-17T19:29:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49965805/vlatko-andonovski-chicago-stars-chief-soccer-officer-usa-women",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718158_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49966841",
+      "headline": "Real Betis vs. Getafe - Game Highlights",
+      "description": "Watch the Game Highlights from Real Betis vs. Getafe, 09/17/2026",
+      "published": "2026-09-17T19:09:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/49966841/real-betis-vs-getafe-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0917/1740db3f-1059-4025-a1f4-a4fdcee4ea20/1740db3f-1059-4025-a1f4-a4fdcee4ea20.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Facundo Bernal",
+        "David Soria",
+        "Abde Ezzalzouli",
+        "Antony",
+        "Mario Martín",
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49966625",
+      "headline": "Messi, MLS' Garber appear to have heated exchange after Miami win",
+      "description": "Lionel Messi pointed his finger at MLS commissioner Don Garber on multiple occasions while speaking with him after Inter Miami's game with Cruz Azul on Wednesday.",
+      "published": "2026-09-17T18:58:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49966625/lionel-messi-mls-commissioner-don-garber-inter-miami-campeones-cup",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718209_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 137
+      "score": 131
     },
     {
-      "id": "49965164",
-      "headline": "16-year-old Cavan Sullivan named to USMNT squad, Christian Pulisic left out",
-      "description": "Philadelphia Union phenom Cavan Sullivan, 16, headlines the 28-player roster named by U.S. men's national team manager Mauricio Pochettino for the upcoming FIFA international window.",
-      "published": "2026-09-17T15:30:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49965164/usmnt-cavan-sullivan-christian-pulisic-mauricio-pochettino",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718089_1296x729_16-9.jpg",
+      "id": "49966291",
+      "headline": "The USMNT's first post-World Cup squad is missing its biggest summer stars",
+      "description": "Christian Pulisic and Folarin Balogun were the USMNT's biggest stars at the World Cup, so why aren't they part of Mauricio Pochettino's latest squad?",
+      "published": "2026-09-17T18:14:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49966291/the-usmnt-first-post-world-cup-squad-missing-biggest-summer-stars-christian-pulisic-folarin-balogun",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718180_1296x729_16-9.jpg",
       "byline": "Jeff Carlisle",
       "kind": "news",
       "kindLabel": "News",
@@ -177,47 +201,53 @@
         "USA"
       ],
       "players": [
-        "Cavan Sullivan",
         "Christian Pulisic",
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49964627",
-      "headline": "Philippines find breakthrough vs. Hong Kong but Asian Games quarterfinals still up in the air",
-      "description": "Philippines now have their first win at the Asian Games but a spot in the women's football quarterfinals is far from certain.",
-      "published": "2026-09-17T14:58:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49964627/philippines-find-breakthrough-hong-kong-asian-games-quarterfinals-air",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718088_1296x729_16-9.jpg",
-      "byline": "Mikhail De Guzman",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
         "Lionel Messi"
       ],
       "score": 130
     },
     {
-      "id": "49964818",
-      "headline": "Fabian Hürzeler urges Brighton to stay humble despite impressive comeback win over Man United",
-      "description": "Fabian Hürzeler called for humility and continued focus on the basics as Brighton host Arsenal fresh from their remarkable Carabao Cup turnaround at Manchester United.",
-      "published": "2026-09-17T14:42:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49964818/fabian-hurzeler-brighton-stay-humble-comeback-win-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718073_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "49961597",
+      "headline": "Can ex-USWNT coach Andonovski save NWSL's last-place Chicago Stars?",
+      "description": "Vlatko Andonovski takes over Chicago Stars FC as the last-place NWSL club's chief soccer officer. Will it be enough to save their season?",
+      "published": "2026-09-17T18:08:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49961597/can-ex-uswnt-coach-andonovski-save-nwsl-last-place-chicago-stars",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1717898_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "USA"
       ],
       "players": [
+        "Mallory Swanson",
+        "Jordyn Huitema",
+        "Brianna Pinto",
+        "Ryan Gareis",
         "Lionel Messi"
       ],
-      "score": 129
+      "score": 130
+    },
+    {
+      "id": "49966290",
+      "headline": "Pochettino calls for a 'fresh start' as Pulisic misses out on USMNT squad",
+      "description": "Pochettino calls for a 'fresh start' as Pulisic misses out on USMNT squad",
+      "published": "2026-09-17T18:00:26Z",
+      "url": "https://www.espn.com/video/clip/_/id/49966290/pochettino-calls-fresh-start-pulisic-misses-usmnt-squad",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_COM_SOC_Presser_Pochettino_calls_for_a_fresh_start_as_Pulisic_misses_out_on_USMNT_squad_202609/dm_260917_COM_SOC_Presser_Pochettino_calls_for_a_fresh_start_as_Pulisic_misses_out_on_USMNT_squad_202609.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Christian Pulisic",
+        "Lionel Messi"
+      ],
+      "score": 130
     },
     {
       "id": "49959154",
@@ -234,7 +264,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 128
+      "score": 123
     },
     {
       "id": "49952392",
@@ -251,7 +281,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 86
+      "score": 81
     },
     {
       "id": "49952015",
@@ -269,7 +299,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 83
+      "score": 78
     },
     {
       "id": "49784295",
@@ -287,7 +317,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 68
+      "score": 63
     },
     {
       "id": "49947673",
@@ -309,7 +339,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 65
+      "score": 61
     },
     {
       "id": "49950986",
@@ -327,7 +357,7 @@
       "players": [
         "James Rodríguez"
       ],
-      "score": 64
+      "score": 60
     },
     {
       "id": "49947635",
@@ -345,7 +375,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 48
+      "score": 43
     },
     {
       "id": "49941399",
@@ -361,7 +391,7 @@
         "Ecuador"
       ],
       "players": [],
-      "score": 32
+      "score": 27
     },
     {
       "id": "49857842",
@@ -839,22 +869,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49719477",
-      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
-      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
-      "published": "2026-08-25T10:22:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 9
     }
   ]
 }
