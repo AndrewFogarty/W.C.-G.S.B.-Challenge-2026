@@ -1,14 +1,42 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-17T06:50:31.324Z",
+  "updated": "2026-09-17T12:17:14.528Z",
   "counts": {
-    "news": 35,
-    "offfield": 8,
+    "news": 37,
     "preview": 3,
+    "offfield": 6,
     "injury": 1,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49963369",
+      "headline": "UEFA VP: Gianni Infantino World Cup plan 'struck at the heart of the game'",
+      "description": "Gianni Infantino's plan to sell off a stake in the World Cup \"struck at the very heart of the principles of the game,\" UEFA vice-president Laura McAllister has told ESPN.",
+      "published": "2026-09-17T11:35:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49963369/uefa-vp-laura-mcallister-gianni-infantino-world-cup-plan-struck-very-heart-game",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
+    {
+      "id": "49963173",
+      "headline": "Barcelona president Joan Laporta says Camp Nou should host 2030 World Cup final",
+      "description": "Barcelona president Joan Laporta has argued that the Camp Nou should host the 2030 World Cup final.",
+      "published": "2026-09-17T10:51:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49963173/barcelona-president-joan-laporta-camp-nou-host-2030-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1717980_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 194
+    },
     {
       "id": "47978642",
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
@@ -25,7 +53,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 207
+      "score": 179
     },
     {
       "id": "49959154",
@@ -42,47 +70,121 @@
         "Argentina"
       ],
       "players": [],
-      "score": 183
+      "score": 155
     },
     {
-      "id": "49962474",
-      "headline": "Skye Leach joins Filipinas teammate Angela Beard at Melbourne Victory",
-      "description": "Skye Leach signed a one-year deal to join Melbourne Victory three days after making her international debut for the Philippines in the Asian Games.",
-      "published": "2026-09-17T05:31:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49962474/skye-leach-joins-filipinas-teammate-angela-beard-melbourne-victory",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717943_1296x729_16-9.jpg",
-      "byline": "ESPN Staff Writers",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "49963760",
+      "headline": "Frank Lampard urges Coventry to stay positive amid four-game losing streak",
+      "description": "Coventry boss Frank Lampard has urged his players to stay positive ahead of Saturday's Premier League trip to Nottingham Forest.",
+      "published": "2026-09-17T12:12:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49963760/frank-lampard-coventry-stay-positive-four-game-losing-streak",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718005_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Skye Leach",
         "Lionel Messi"
       ],
-      "score": 143
+      "score": 142
     },
     {
-      "id": "49962667",
-      "headline": "Mamelodi Sundowns vs. Al-Ahli - Kick-off time, how to watch Intercontinental Cup clash",
-      "description": "African champions Mamelodi Sundowns will host Saudi Pro League giants and Asian champions Al-Ahli at Loftus Versfeld in a FIFA Intercontinental Cup clash on Saturday.",
-      "published": "2026-09-17T06:46:15Z",
-      "url": "https://www.espn.com/espn/story/_/id/49962667/mamelodi-sundowns-vs-al-ahli-kick-how-watch-intercontinental-cup-clash",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717951_1296x729_16-9.jpg",
+      "id": "49963751",
+      "headline": "Lion City Sailors begin Mark Jackson era with positives despite draw with BG Pathum United",
+      "description": "Lion City Sailors' first game with Mark Jackson at the helm has ended in a 1-1 draw with BG Pathum United.",
+      "published": "2026-09-17T12:07:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49963751/lion-city-sailors-begin-mark-jackson-era-positives-draw-bg-pathum-united",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718004_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49963491",
+      "headline": "Man City boss Andree Jeglertz thrilled with perfect start to WSL title defence",
+      "description": "Andree Jeglertz is delighted with how quickly Manchester City have gelled in their Women's Super League title defence.",
+      "published": "2026-09-17T11:45:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49963491/man-city-andree-jeglertz-wsl-title-defence",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1717995_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49963488",
+      "headline": "Puso Dithejane makes Bafana Bafana squad as Lyle Foster, Tshepang Moremi cut",
+      "description": "Pitso Mosimane has named a 30-man squad for the first two games of his second stint.",
+      "published": "2026-09-17T11:45:11Z",
+      "url": "https://www.espn.com/espn/story/_/id/49963488/puso-dithejane-makes-bafana-bafana-squad-lyle-foster-tshepang-moremi-cut",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680394_1296x729_16-9.jpg",
       "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina",
         "South Africa"
       ],
       "players": [
         "Ronwen Williams",
-        "Édouard Mendy",
+        "Luther Singh",
+        "Puso Dithejane",
+        "Lyle Foster",
+        "Tshepang Moremi",
         "Lionel Messi"
       ],
-      "score": 142
+      "score": 132
+    },
+    {
+      "id": "49957535",
+      "headline": "World soccer's hottest men's teams right now: Can anyone stop Barcelona?",
+      "description": "Is there any team hotter in world soccer right now than Barcelona? Bill Connelly crunches the numbers to tell us the most in-form European teams heading into the international break.",
+      "published": "2026-09-17T11:33:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49957535/soccer-hottest-teams-form-analysis-barcelona-arsenal-psg",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717661_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49963233",
+      "headline": "Liverpool's Dominik Szoboszlai on his best position: 'I just want to be on the pitch'",
+      "description": "Liverpool midfielder Dominik Szoboszlai has said he does not mind where he plays under Andoni Iraola amid criticism of his recent performances.",
+      "published": "2026-09-17T11:01:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49963233/liverpool-dominik-szoboszlai-andoni-iraola",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1717982_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
     },
     {
       "id": "49952392",
@@ -99,7 +201,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 142
+      "score": 113
     },
     {
       "id": "49952015",
@@ -117,111 +219,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 138
-    },
-    {
-      "id": "49962364",
-      "headline": "Depay misses late penalty, Estudiantes advance to Libertadores semis after 17 years",
-      "description": "Estudiantes and Palmeiras advanced to the Copa Libertadores semifinals following dramatic quarterfinal ties against Corinthians and Liga de Quito.",
-      "published": "2026-09-17T05:17:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49962364/depay-misses-late-penalty-estudiantes-advance-libertadores-semis-17-years",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717940_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49962283",
-      "headline": "Angel City FC vs. Seattle Reign FC - Game Highlights",
-      "description": "Watch the Game Highlights from Angel City FC vs. Seattle Reign FC, 09/17/2026",
-      "published": "2026-09-17T04:12:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/49962283/angel-city-fc-vs-seattle-reign-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0917/7039076b-1bd5-4ac8-8884-202a3736542b/7039076b-1bd5-4ac8-8884-202a3736542b.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Sofia Huerta",
-        "Taylor Suarez",
-        "Ally Sentnor",
-        "Maiara Niehues",
-        "Madison Curry",
-        "Ary Borges",
-        "Jess Fishlock",
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49962207",
-      "headline": "Denver Summit FC vs. Bay FC - Game Highlights",
-      "description": "Watch the Game Highlights from Denver Summit FC vs. Bay FC, 09/17/2026",
-      "published": "2026-09-17T03:47:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/49962207/denver-summit-fc-vs-bay-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0917/ca8aa0b5-974d-423e-84e9-dfb4989f9fc5/ca8aa0b5-974d-423e-84e9-dfb4989f9fc5.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Taylor Huff",
-        "Claire Hutton",
-        "Kaleigh Kurtz",
-        "Lindsey Heaps",
-        "Yazmeen Ryan",
-        "Janine Sonis",
-        "Aldana Cometti",
-        "Lionel Messi"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49958765",
-      "headline": "Messi nets 100th Miami goal en route to Campeones Cup win",
-      "description": "Lionel Messi scored his 100th goal for Inter Miami in all competitions after heading home the opener in a 2-0 win over Cruz Azul in the Campeones Cup on Wednesday night at Nu Stadium.",
-      "published": "2026-09-17T03:41:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49958765/messi-opens-campeones-cup-scoring-100th-goal-miami",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717892_1024x576_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49922758",
-      "headline": "Inter Miami win Campeones Cup in González's first match in charge",
-      "description": "Lionel Messi scored the 100th goal of his Inter Miami career and Casemiro added another as Miami defeated Cruz Azul 2-0 on Wednesday night to win the Campeones Cup.",
-      "published": "2026-09-17T02:34:08Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401901377",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717907_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 127
+      "score": 110
     },
     {
       "id": "49950986",
@@ -239,7 +237,7 @@
       "players": [
         "James Rodríguez"
       ],
-      "score": 120
+      "score": 92
     },
     {
       "id": "49947673",
@@ -261,7 +259,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 111
+      "score": 83
     },
     {
       "id": "49784295",
@@ -279,7 +277,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 83
+      "score": 75
     },
     {
       "id": "49947635",
@@ -297,7 +295,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 83
+      "score": 55
     },
     {
       "id": "49941399",
@@ -313,7 +311,7 @@
         "Ecuador"
       ],
       "players": [],
-      "score": 57
+      "score": 39
     },
     {
       "id": "49857842",
@@ -458,20 +456,6 @@
       "url": "https://www.espn.com/espn/story/_/id/49750811/entire-nigeria-fa-board-resigns-world-cup-x2-wafcon-flops",
       "image": "https://a.espncdn.com/photo/2026/0828/r1708022_1296x729_16-9.jpg",
       "byline": "Colin Udoh",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 18
-    },
-    {
-      "id": "49601593",
-      "headline": "FAQ: Latest on FIFA, Infantino mess as opposition applies pressure",
-      "description": "Lots has happened since FIFA president Gianni Infantino rolled back his controversial plan to \"sell\" stakes in the FIFA World Cup, with opposition swirling and his future uncertain. We answer some of the big questions.",
-      "published": "2026-08-16T15:30:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49601593/fifa-gianni-infantino-presidency-world-cup-explainer-saudi-arabia-analysis-marcotti",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701862_1296x729_16-9.jpg",
-      "byline": "Gab Marcotti",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [],
