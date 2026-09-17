@@ -1,19 +1,53 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-17T12:17:14.528Z",
+  "updated": "2026-09-17T17:08:22.445Z",
   "counts": {
-    "news": 37,
+    "news": 34,
+    "injury": 2,
+    "offfield": 7,
     "preview": 3,
-    "offfield": 6,
-    "injury": 1,
-    "celebration": 1
+    "celebration": 2
   },
   "items": [
+    {
+      "id": "49964659",
+      "headline": "Inter Miami manager: 'It would be only fair' for Messi to win Ballon d'Or again",
+      "description": "Inter Miami manager: 'It would be only fair' for Messi to win Ballon d'Or again",
+      "published": "2026-09-17T13:53:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49964659/only-fair-messi-win-ballon-dor-again",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_Inter_Miami_manager_It_would_be_only_fair_for_Messi_to_win_Ballon_dOr_again/dm_260917_Inter_Miami_manager_It_would_be_only_fair_for_Messi_to_win_Ballon_dOr_again.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 208
+    },
+    {
+      "id": "49964525",
+      "headline": "Sources: English FA chief demands documents on FIFA World Cup sell-off plan, Balogun decision",
+      "description": "FIFA vice president and FA chairwoman Debbie Hewitt has demanded FIFA president Gianni Infantino release all documents concerning his proposal for private investors to buy stakes in the World Cup, sources told ESPN.",
+      "published": "2026-09-17T16:26:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49964525/fa-chief-demands-gianni-infantino-releases-fifa-documents-private-equity-proposal-folarin-balogun-decision",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718041_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 199
+    },
     {
       "id": "49963369",
       "headline": "UEFA VP: Gianni Infantino World Cup plan 'struck at the heart of the game'",
       "description": "Gianni Infantino's plan to sell off a stake in the World Cup \"struck at the very heart of the principles of the game,\" UEFA vice-president Laura McAllister has told ESPN.",
-      "published": "2026-09-17T11:35:08Z",
+      "published": "2026-09-17T14:19:51Z",
       "url": "https://www.espn.com/soccer/story/_/id/49963369/uefa-vp-laura-mcallister-gianni-infantino-world-cup-plan-struck-very-heart-game",
       "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
       "byline": "Alex Kirkland",
@@ -21,7 +55,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 205
+      "score": 182
     },
     {
       "id": "49963173",
@@ -35,7 +69,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 194
+      "score": 167
     },
     {
       "id": "47978642",
@@ -53,7 +87,137 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 179
+      "score": 152
+    },
+    {
+      "id": "49965317",
+      "headline": "Newcastle boss Matthias Jaissle hoping for 'positive' update on Anthony Elanga injury",
+      "description": "Matthias Jaissle hopes Anthony Elanga's injury is \"not that serious\" as Newcastle prepare to face Hull City on Saturday.",
+      "published": "2026-09-17T15:40:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49965317/newcastle-boss-matthias-jaissle-hoping-positive-update-anthony-elanga-injury",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718114_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Anthony Elanga",
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49965677",
+      "headline": "PSG ultras take legal action over Marseille travel ban",
+      "description": "Paris Saint-Germain fans have been banned from traveling to Marseille due to the risk of violent clashes between supporters in connection with the biggest match in French soccer on Sunday, local authorities said.",
+      "published": "2026-09-17T16:45:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49965677/psg-marseille-fans-travel-ban-ultras-ligue-1-france",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718146_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49964732",
+      "headline": "Ryan Reynolds and Rob Mac poke fun at 'Spygate' in Wrexham sponsor ad ahead of Southampton clash",
+      "description": "Wrexham co-owners Ryan Reynolds and Rob Mac have poked fun at Southampton's \"Spygate\" scandal in an advert for the Championship club's new sponsor.",
+      "published": "2026-09-17T14:12:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49964732/ryan-reynolds-rob-mac-spygate-scandal-wrexham-sponsor-ad-southampton",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705403_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 138
+    },
+    {
+      "id": "49964446",
+      "headline": "Still at zero: Viral Man United fan's haircut challenge nears two years",
+      "description": "Viral Manchester United fan Frank Ilett's haircut challenge is nearing the two-year mark and he's back to square 1.",
+      "published": "2026-09-17T15:10:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49964446/still-zero-viral-man-united-fan-haircut-challenge-nears-two-years",
+      "image": "https://a.espncdn.com/photo/2026/0210/r1613205_2_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 137
+    },
+    {
+      "id": "49965164",
+      "headline": "16-year-old Cavan Sullivan named to USMNT squad, Christian Pulisic left out",
+      "description": "Philadelphia Union phenom Cavan Sullivan, 16, headlines the 28-player roster named by U.S. men's national team manager Mauricio Pochettino for the upcoming FIFA international window.",
+      "published": "2026-09-17T15:30:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49965164/usmnt-cavan-sullivan-christian-pulisic-mauricio-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718089_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Cavan Sullivan",
+        "Christian Pulisic",
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49964627",
+      "headline": "Philippines find breakthrough vs. Hong Kong but Asian Games quarterfinals still up in the air",
+      "description": "Philippines now have their first win at the Asian Games but a spot in the women's football quarterfinals is far from certain.",
+      "published": "2026-09-17T14:58:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49964627/philippines-find-breakthrough-hong-kong-asian-games-quarterfinals-air",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718088_1296x729_16-9.jpg",
+      "byline": "Mikhail De Guzman",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49964818",
+      "headline": "Fabian Hürzeler urges Brighton to stay humble despite impressive comeback win over Man United",
+      "description": "Fabian Hürzeler called for humility and continued focus on the basics as Brighton host Arsenal fresh from their remarkable Carabao Cup turnaround at Manchester United.",
+      "published": "2026-09-17T14:42:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49964818/fabian-hurzeler-brighton-stay-humble-comeback-win-man-united",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718073_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
     },
     {
       "id": "49959154",
@@ -70,121 +234,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 155
-    },
-    {
-      "id": "49963760",
-      "headline": "Frank Lampard urges Coventry to stay positive amid four-game losing streak",
-      "description": "Coventry boss Frank Lampard has urged his players to stay positive ahead of Saturday's Premier League trip to Nottingham Forest.",
-      "published": "2026-09-17T12:12:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49963760/frank-lampard-coventry-stay-positive-four-game-losing-streak",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718005_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 142
-    },
-    {
-      "id": "49963751",
-      "headline": "Lion City Sailors begin Mark Jackson era with positives despite draw with BG Pathum United",
-      "description": "Lion City Sailors' first game with Mark Jackson at the helm has ended in a 1-1 draw with BG Pathum United.",
-      "published": "2026-09-17T12:07:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49963751/lion-city-sailors-begin-mark-jackson-era-positives-draw-bg-pathum-united",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718004_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "49963491",
-      "headline": "Man City boss Andree Jeglertz thrilled with perfect start to WSL title defence",
-      "description": "Andree Jeglertz is delighted with how quickly Manchester City have gelled in their Women's Super League title defence.",
-      "published": "2026-09-17T11:45:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49963491/man-city-andree-jeglertz-wsl-title-defence",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717995_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49963488",
-      "headline": "Puso Dithejane makes Bafana Bafana squad as Lyle Foster, Tshepang Moremi cut",
-      "description": "Pitso Mosimane has named a 30-man squad for the first two games of his second stint.",
-      "published": "2026-09-17T11:45:11Z",
-      "url": "https://www.espn.com/espn/story/_/id/49963488/puso-dithejane-makes-bafana-bafana-squad-lyle-foster-tshepang-moremi-cut",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680394_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "South Africa"
-      ],
-      "players": [
-        "Ronwen Williams",
-        "Luther Singh",
-        "Puso Dithejane",
-        "Lyle Foster",
-        "Tshepang Moremi",
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49957535",
-      "headline": "World soccer's hottest men's teams right now: Can anyone stop Barcelona?",
-      "description": "Is there any team hotter in world soccer right now than Barcelona? Bill Connelly crunches the numbers to tell us the most in-form European teams heading into the international break.",
-      "published": "2026-09-17T11:33:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49957535/soccer-hottest-teams-form-analysis-barcelona-arsenal-psg",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717661_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49963233",
-      "headline": "Liverpool's Dominik Szoboszlai on his best position: 'I just want to be on the pitch'",
-      "description": "Liverpool midfielder Dominik Szoboszlai has said he does not mind where he plays under Andoni Iraola amid criticism of his recent performances.",
-      "published": "2026-09-17T11:01:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49963233/liverpool-dominik-szoboszlai-andoni-iraola",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717982_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
+      "score": 128
     },
     {
       "id": "49952392",
@@ -201,7 +251,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 113
+      "score": 86
     },
     {
       "id": "49952015",
@@ -219,25 +269,25 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 110
+      "score": 83
     },
     {
-      "id": "49950986",
-      "headline": "James Rodríguez retires from Colombia after 15-year career",
-      "description": "James Rodríguez announced his retirement from Colombia's national team on Tuesday after 15 years on the international stage.",
-      "published": "2026-09-15T19:28:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49950986/james-rodriguez-retires-colombia",
-      "image": "https://a.espncdn.com/photo/2026/0205/r1610909_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
+      "id": "49784295",
+      "headline": "Lionel Messi's Argentina career in numbers",
+      "description": "Lionel Messi's Argentina career in numbers",
+      "published": "2026-09-15T21:43:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/49784295/lionel-messi-argentina-career-numbers",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_Lionel_Messis_Argentina_career_in_numbers/dm_260831_Lionel_Messis_Argentina_career_in_numbers.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Colombia"
+        "Argentina"
       ],
       "players": [
-        "James Rodríguez"
+        "Lionel Messi"
       ],
-      "score": 92
+      "score": 68
     },
     {
       "id": "49947673",
@@ -259,25 +309,25 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 83
+      "score": 65
     },
     {
-      "id": "49784295",
-      "headline": "Lionel Messi's Argentina career in numbers",
-      "description": "Lionel Messi's Argentina career in numbers",
-      "published": "2026-09-15T21:43:58Z",
-      "url": "https://www.espn.com/video/clip/_/id/49784295/lionel-messi-argentina-career-numbers",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_Lionel_Messis_Argentina_career_in_numbers/dm_260831_Lionel_Messis_Argentina_career_in_numbers.jpg",
-      "byline": null,
+      "id": "49950986",
+      "headline": "James Rodríguez retires from Colombia after 15-year career",
+      "description": "James Rodríguez announced his retirement from Colombia's national team on Tuesday after 15 years on the international stage.",
+      "published": "2026-09-15T19:28:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49950986/james-rodriguez-retires-colombia",
+      "image": "https://a.espncdn.com/photo/2026/0205/r1610909_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Colombia"
       ],
       "players": [
-        "Lionel Messi"
+        "James Rodríguez"
       ],
-      "score": 75
+      "score": 64
     },
     {
       "id": "49947635",
@@ -295,7 +345,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 55
+      "score": 48
     },
     {
       "id": "49941399",
@@ -311,7 +361,7 @@
         "Ecuador"
       ],
       "players": [],
-      "score": 39
+      "score": 32
     },
     {
       "id": "49857842",
@@ -645,26 +695,6 @@
       "score": 13
     },
     {
-      "id": "49640657",
-      "headline": "Gab & Juls disagree over the No. 1 center forward in the FC 100",
-      "description": "Gab & Juls disagree over the No. 1 center forward in the FC 100",
-      "published": "2026-08-18T11:06:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/49640657/gab-juls-disagree-no-1-center-forward-fc-100",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Gab_Juls_disagree_over_the_No_1_center_forward_in_the_FC_100_20260817_GLOBAL/dm_260817_COM_SOC_Analysis_Gab_Juls_disagree_over_the_No_1_center_forward_in_the_FC_100_20260817_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "France"
-      ],
-      "players": [
-        "Harry Kane",
-        "Kylian Mbappé"
-      ],
-      "score": 13
-    },
-    {
       "id": "49892754",
       "headline": "FIFA: 2030 World Cup final host country decision to be made 'in due course'",
       "description": "FIFA said on Thursday that the decision over whether Morocco or Spain would host the 2030 World Cup final would be made \"in due course.\"",
@@ -811,22 +841,6 @@
       "score": 10
     },
     {
-      "id": "49639158",
-      "headline": "Scotland FA latest to withdraw support for FIFA's Gianni Infantino",
-      "description": "The Scottish Football Association has officially withdrawn its support for FIFA president Gianni Infantino, citing the \"lack of transparency\" shown over the plan to sell stakes in a World Cup company to private investors.",
-      "published": "2026-08-17T15:37:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49639158/scotland-fa-latest-withdraw-support-fifa-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1698132_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Scotland"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
       "id": "49719477",
       "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
       "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
@@ -839,25 +853,6 @@
       "teams": [],
       "players": [
         "Lucy Bronze"
-      ],
-      "score": 9
-    },
-    {
-      "id": "49669869",
-      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
-      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
-      "published": "2026-08-21T06:36:25Z",
-      "url": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
-      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Achraf Hakimi",
-        "Victor Osimhen",
-        "Bryan Mbeumo",
-        "Mohamed Salah"
       ],
       "score": 9
     }
