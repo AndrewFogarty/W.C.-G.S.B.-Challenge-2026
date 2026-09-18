@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-18T05:54:54.534Z",
+  "updated": "2026-09-18T10:39:23.320Z",
   "counts": {
-    "preview": 3,
-    "news": 36,
-    "injury": 2,
+    "preview": 5,
+    "news": 33,
+    "injury": 3,
     "offfield": 6,
     "celebration": 1
   },
@@ -26,7 +26,7 @@
       "players": [
         "Mathew Ryan"
       ],
-      "score": 215
+      "score": 208
     },
     {
       "id": "49964659",
@@ -44,7 +44,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 179
+      "score": 172
     },
     {
       "id": "49964525",
@@ -60,7 +60,44 @@
         "USA"
       ],
       "players": [],
-      "score": 170
+      "score": 163
+    },
+    {
+      "id": "49971310",
+      "headline": "Alexander Isak 'never' regretted Liverpool move even amid 'tough' injury",
+      "description": "Alexander Isak has said he didn't regret his move from Newcastle United to Liverpool at any point of a tumultuous first season with the club.",
+      "published": "2026-09-18T10:10:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49971310/alexander-isak-never-regretted-liverpool-move-even-amid-tough-injury",
+      "image": "https://a.espncdn.com/photo/2026/0414/r1643606_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Alexander Isak",
+        "Mathew Ryan"
+      ],
+      "score": 146
+    },
+    {
+      "id": "49971307",
+      "headline": "Philippines U23s sent packing from Asian Games after late collapse against Vietnam",
+      "description": "After holding out for much of the contest against Vietnam, a late collapse has seen Philippines U23s eliminated from the Asian Games.",
+      "published": "2026-09-18T09:58:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49971307/philippines-u23s-sent-packing-asian-games-late-collapse-vietnam",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718464_1296x729_16-9.jpg",
+      "byline": "Mikhail De Guzman",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 146
     },
     {
       "id": "49963369",
@@ -74,26 +111,127 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 153
+      "score": 146
     },
     {
-      "id": "49968591",
-      "headline": "Socceroos stalwart axed for Brazil series",
-      "description": "Captain Maty Ryan has been left out of the Socceroos squad altogether for upcoming games against Brazil, while coach Tony Popovic has called up seven uncapped players for Australia's first matches since the World Cup.",
-      "published": "2026-09-18T03:17:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49968591/socceroos-stalwart-maty-ryan-axed-brazil-series",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718337_1296x518_5-2.jpg",
-      "byline": "AAP",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "49971397",
+      "headline": "Arsenal boss Mikel Arteta on Fabian Hurzeler falling out: 'That's all in the past'",
+      "description": "Arsenal boss Mikel Arteta insisted he has buried the hatchet with Brighton manager Fabian Hurzeler on the eve of their Premier League clash.",
+      "published": "2026-09-18T10:26:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49971397/arsenal-boss-mikel-arteta-fabian-hurzeler-falling-thats-all-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718467_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
-        "Australia",
-        "Brazil"
+        "Australia"
       ],
       "players": [
         "Mathew Ryan"
       ],
-      "score": 143
+      "score": 142
+    },
+    {
+      "id": "49970819",
+      "headline": "England Nations League squad: Trent Alexander-Arnold, Cole Palmer recalled after World Cup snub",
+      "description": "Trent Alexander-Arnold is back in the England fold as one of several players included who missed out on the World Cup in Thomas Tuchel's latest squad ahead of their four Nations League matches.",
+      "published": "2026-09-18T09:58:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49970819/england-nations-league-squad-cole-palmer-trent-alexander-arnold-recalled-world-cup-snub",
+      "image": "https://a.espncdn.com/photo/2024/1016/r1401590_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Australia",
+        "England"
+      ],
+      "players": [
+        "Cole Palmer",
+        "Trent Alexander-Arnold",
+        "Mathew Ryan"
+      ],
+      "score": 141
+    },
+    {
+      "id": "49971198",
+      "headline": "Bitter pill for Phil: Six eye-opening omissions from England's Nations League squad",
+      "description": "Thomas Tuchel's first England squad since the World Cup features several notable omissions.",
+      "published": "2026-09-18T10:26:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49971198/six-key-omissions-englands-nations-league-squad-phil-foden-max-dowman-harry-maguire",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637260_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "England"
+      ],
+      "players": [
+        "Phil Foden",
+        "Mathew Ryan"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49971206",
+      "headline": "'Africa FC' - What makes NWSL team Washington Spirit so attractive to African players?",
+      "description": "Washington Spirit lead the NWSL in having the highest contingent of African players in the league. But what makes the team, and the DC area, so attractive to players from the continent?",
+      "published": "2026-09-18T09:49:01Z",
+      "url": "https://www.espn.com/espn/story/_/id/49971206/africa-fc-makes-nwsl-team-washington-spirit-attractive-african-players",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718459_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Côte d'Ivoire"
+      ],
+      "players": [
+        "Trinity Rodman",
+        "Gift Monday",
+        "Monique Ngock",
+        "Deborah Abiodun",
+        "Mathew Ryan"
+      ],
+      "score": 132
+    },
+    {
+      "id": "49971205",
+      "headline": "Ilhan Fandi pleased with start to life at Lion City Sailors, eyeing more under Mark Jackson",
+      "description": "Three games in and now reunited with a former coach, Ilhan Fandi is satisfied with how life is going at the Sailors.",
+      "published": "2026-09-18T09:37:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49971205/ilhan-fandi-pleased-start-life-lion-city-sailors-eyeing-more-mark-jackson",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718456_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Ilhan Fandi",
+        "Mathew Ryan"
+      ],
+      "score": 131
+    },
+    {
+      "id": "49970975",
+      "headline": "Is Man City teen Samba a backup for Haaland, or new Pogba?",
+      "description": "Manchester City's 17-year-old Floyd Samba starred against Norwich and could be used as a backup for Erling Haaland this season, despite being a midfielder. What do you need to know about him?",
+      "published": "2026-09-18T09:32:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49970975/is-manchester-city-teenager-floyd-samba-backup-erling-haaland-new-paul-pogba",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718450_1296x729_16-9.jpg",
+      "byline": "Rob Dawson and Sam Tighe",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Floyd Samba",
+        "Mathew Ryan"
+      ],
+      "score": 131
     },
     {
       "id": "49963173",
@@ -107,115 +245,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 137
-    },
-    {
-      "id": "49969016",
-      "headline": "Wake Forest vs. California: Game Highlights",
-      "description": "Wake Forest vs. California: Game Highlights",
-      "published": "2026-09-18T01:19:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49969016/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0918/680c5da3-4c05-4d23-a594-ef1708cc8423/680c5da3-4c05-4d23-a594-ef1708cc8423.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49968984",
-      "headline": "Miami (Fl) vs. Virginia: Game Highlights",
-      "description": "Miami (Fl) vs. Virginia: Game Highlights",
-      "published": "2026-09-18T01:14:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/49968984/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0918/1c85bb1c-24bc-44d3-8b9f-612cd1e15a1c/1c85bb1c-24bc-44d3-8b9f-612cd1e15a1c.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49968638",
-      "headline": "Smu vs. Nc State: Game Highlights",
-      "description": "Smu vs. Nc State: Game Highlights",
-      "published": "2026-09-18T00:21:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/49968638/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0918/309337de-4dcb-49ce-af34-1ff7922fddc5/309337de-4dcb-49ce-af34-1ff7922fddc5.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 125
-    },
-    {
-      "id": "49968333",
-      "headline": "Ex-USWNT coach Andonovski named Chicago Stars soccer chief",
-      "description": "Jeff Kassouf discusses Chicago Stars' appointment of Vlatko Andonovski as soccer chief.",
-      "published": "2026-09-17T23:33:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/49968333/ex-uswnt-coach-andonovski-named-chicago-stars-soccer-chief",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_Vlatko_Stars_IA/dm_260917_Vlatko_Stars_IA.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49968118",
-      "headline": "Maresca has been pushing all the right buttons in perfect Man City start",
-      "description": "Despite using an alternative team, Manchester City made it six wins from six under Enzo Maresca, highlighting just how smoothly the post-Pep Guardiola era has begun.",
-      "published": "2026-09-17T23:05:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49968118/enzo-maresca-pushing-all-right-buttons-perfect-man-city-start",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718300_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 123
-    },
-    {
-      "id": "49968164",
-      "headline": "Marco Rose proud of 'Bournemouth football' in European debut win over Real Sociedad",
-      "description": "Marco Rose was delighted to watch \"Bournemouth football\" during a 2-1 win at Real Sociedad and a memorable first match in Europe for the Premier League club.",
-      "published": "2026-09-17T22:50:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49968164/marco-rose-proud-bournemouth-football-european-debut-win-real-sociedad",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718306_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 122
+      "score": 130
     },
     {
       "id": "47978642",
@@ -233,7 +263,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 122
+      "score": 115
     },
     {
       "id": "49959154",
@@ -250,7 +280,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 98
+      "score": 91
     },
     {
       "id": "49952392",
@@ -267,7 +297,7 @@
         "Mexico"
       ],
       "players": [],
-      "score": 57
+      "score": 50
     },
     {
       "id": "49952015",
@@ -285,7 +315,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 53
+      "score": 46
     },
     {
       "id": "49784295",
@@ -303,7 +333,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 49
+      "score": 42
     },
     {
       "id": "49947673",
@@ -325,7 +355,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 46
+      "score": 39
     },
     {
       "id": "49950986",
@@ -343,25 +373,7 @@
       "players": [
         "James Rodríguez"
       ],
-      "score": 45
-    },
-    {
-      "id": "49947635",
-      "headline": "Gomez: Raphinha is not the No. 9 Barcelona wanted, but the one they needed",
-      "description": "Gomez: Raphinha is not the No. 9 Barcelona wanted, but the one they needed",
-      "published": "2026-09-15T08:28:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/49947635/raphinha-not-no-9-barcelona-wanted-one-needed",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Gomez_Raphinha_is_not_the_No_9_Barcelona_wanted_but_the_one_they_needed/dm_260915_Gomez_Raphinha_is_not_the_No_9_Barcelona_wanted_but_the_one_they_needed.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Raphinha"
-      ],
-      "score": 29
+      "score": 38
     },
     {
       "id": "49857842",
@@ -451,6 +463,24 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "49947635",
+      "headline": "Gomez: Raphinha is not the No. 9 Barcelona wanted, but the one they needed",
+      "description": "Gomez: Raphinha is not the No. 9 Barcelona wanted, but the one they needed",
+      "published": "2026-09-15T08:28:26Z",
+      "url": "https://www.espn.com/video/clip/_/id/49947635/raphinha-not-no-9-barcelona-wanted-one-needed",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Gomez_Raphinha_is_not_the_No_9_Barcelona_wanted_but_the_one_they_needed/dm_260915_Gomez_Raphinha_is_not_the_No_9_Barcelona_wanted_but_the_one_they_needed.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Raphinha"
+      ],
+      "score": 22
     },
     {
       "id": "49704497",
@@ -836,22 +866,6 @@
       "kindLabel": "News",
       "teams": [
         "England"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49647759",
-      "headline": "Norway FA chief slams Infantino's FIFA for firing  COO in 'management by fear'",
-      "description": "FIFA's removal of the senior official who said Gianni Infantino deceived staff with his World Cup sell-off plan was unacceptable, Norway FA chief Lise Klaveness said while urging other leaders at the governing body to resist potentially damaging orders.",
-      "published": "2026-08-18T17:17:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49647759/norway-fa-chief-slams-gianni-infantino-fifa-firing-coo-management-fear",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698828_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Norway"
       ],
       "players": [],
       "score": 10
