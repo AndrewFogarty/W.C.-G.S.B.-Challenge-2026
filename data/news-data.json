@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-18T22:43:45.858Z",
+  "updated": "2026-09-19T00:41:33.113Z",
   "counts": {
     "news": 34,
-    "preview": 4,
-    "offfield": 7,
-    "celebration": 2,
-    "injury": 1
+    "preview": 3,
+    "injury": 2,
+    "offfield": 8,
+    "celebration": 1
   },
   "items": [
     {
@@ -23,7 +23,7 @@
         "Senegal"
       ],
       "players": [],
-      "score": 205
+      "score": 202
     },
     {
       "id": "49974050",
@@ -37,7 +37,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 188
+      "score": 185
     },
     {
       "id": "49972364",
@@ -54,7 +54,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 175
+      "score": 172
     },
     {
       "id": "49969083",
@@ -73,16 +73,53 @@
       "players": [
         "Mathew Ryan"
       ],
-      "score": 160
+      "score": 157
     },
     {
-      "id": "49970584",
-      "headline": "Transfer rumors, news: Real Madrid, Barcelona track Man City-bound USMNT star Sullivan",
-      "description": "Real Madrid and Barcelona could make a future move for USMNT youngster Cavan Sullivan. Transfer Talk has the latest.",
-      "published": "2026-09-18T19:11:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49970584/transfer-rumors-news-real-madrid-barcelona-track-man-city-bound-usmnt-star-sullivan",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711097_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49975410",
+      "headline": "Xabi Alonso says Chelsea were 'out of control' in Brentford loss",
+      "description": "Xabi Alonso said his Chelsea team lost control against Brentford in their 3-0 defeat on Friday evening and agreed with Levi Colwill that his side were bullied in set pieces.",
+      "published": "2026-09-18T23:02:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49975410/alonso-says-chelsea-were-control-brentford-defeat",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718798_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 145
+    },
+    {
+      "id": "49975446",
+      "headline": "Arsenal, Mikel Arteta open to Max Dowman loan move",
+      "description": "Arsenal are \"open\" to allowing teen sensation Max Dowman to leave the club on loan if he does not play enough matches.",
+      "published": "2026-09-18T23:00:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49975446/arsenal-mikel-arteta-open-max-dowman-loan-move",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717224_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Max Dowman",
+        "Mathew Ryan"
+      ],
+      "score": 142
+    },
+    {
+      "id": "49975221",
+      "headline": "Source: Ex-U.S. defender Miazga set for NYCFC after Cincy exit",
+      "description": "Former United States defender Matt Miazga is set to join New York City FC, a source confirmed to ESPN.",
+      "published": "2026-09-18T22:01:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49975221/matt-miazga-nycfc-fc-cincinnati-mls-usmnt",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718782_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
@@ -90,65 +127,57 @@
         "USA"
       ],
       "players": [
-        "Cavan Sullivan",
+        "Matt Miazga",
         "Mathew Ryan"
       ],
-      "score": 140
+      "score": 141
     },
     {
-      "id": "49965151",
-      "headline": "Harry Kane becomes quickest in history to 100 Bundesliga goals",
-      "description": "Bayern Munich striker Harry Kane became the fastest player in history to reach 100 Bundesliga goals, reaching the milestone in just his 98th appearance on Friday.",
-      "published": "2026-09-18T19:52:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49965151/harry-kane-fastest-record-100-bundesliga-goals-bayern-munich",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718710_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "49975555",
+      "headline": "Source: Former Mexico boss Aguirre close to taking over struggling Valencia",
+      "description": "Former Mexico boss Javier Aguirre has emerged as the leading candidate to fill Valencia's coaching vacancy, a source told ESPN.",
+      "published": "2026-09-18T23:38:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49975555/source-valencia-advanced-talks-ex-mexico-boss-aguirre-coaching-job",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718805_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia",
-        "England"
+        "Mexico"
       ],
       "players": [
-        "Harry Kane",
         "Mathew Ryan"
       ],
-      "score": 136
+      "score": 131
     },
     {
-      "id": "49974323",
-      "headline": "Mancini names 8 newcomers in 1st Italy squad since returning",
-      "description": "Roberto Mancini called up 34 players, including eight newcomers, on Friday to his first Italy squad since returning as coach, ahead of four Nations League games.",
-      "published": "2026-09-18T18:52:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49974323/italy-squad-roberto-mancini-uefa-nations-league",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718701_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49975225",
+      "headline": "Garcia: Diomandé would make the difference in Madrid derby",
+      "description": "Garcia: Diomandé would make the difference in Madrid derby",
+      "published": "2026-09-18T21:57:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/49975225/diomande-make-difference-madrid-derby",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_Garcia_Diomande_would_make_the_difference_in_Madrid_derby/dm_260918_Garcia_Diomande_would_make_the_difference_in_Madrid_derby.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia"
       ],
       "players": [
-        "Mohamed Alì Zoma",
-        "Antonio Vergara",
-        "Alessandro Romano",
-        "Issa Doumbia",
-        "Michael Kayode",
-        "Massimo Pessina",
-        "Sebastiano Esposito",
-        "Samuele Inácio",
+        "Yan Diomande",
         "Mathew Ryan"
       ],
-      "score": 136
+      "score": 129
     },
     {
-      "id": "49973574",
-      "headline": "Brentford vs. Chelsea LIVE: Premier League updates as Bees go ahead",
-      "description": "Brentford host London rivals Chelsea in the Premier League's Friday evening action, and you can follow live with ESPN.",
-      "published": "2026-09-18T20:21:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49973574/brentford-chelsea-live-premier-league-updates-commentary-score-news-west-london-clash",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718725_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "49974564",
+      "headline": "How can erratic Chelsea find stability? For starters: Look to Brentford",
+      "description": "Brentford's 3-0 thrashing of Chelsea served as a humbling reminder of what a well-run club can accomplish.",
+      "published": "2026-09-18T21:45:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49974564/how-chelsea-find-stability-look-brentford-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718755_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -160,13 +189,13 @@
       "score": 129
     },
     {
-      "id": "49974581",
-      "headline": "Enrique questions why Doué isn't a Ballon d'Or contender",
-      "description": "Enrique questions why Doué isn't a Ballon d'Or contender",
-      "published": "2026-09-18T19:42:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/49974581/enrique-questions-why-doue-ballon-dor-contender",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_Enrique_questions_why_Doue_isnt_a_Ballon_dOr_contender/dm_260918_Enrique_questions_why_Doue_isnt_a_Ballon_dOr_contender.jpg",
-      "byline": null,
+      "id": "49973574",
+      "headline": "Brentford 3-0 Chelsea: Premier League action as Bees sink Xabi Alonso's Blues - as it happened",
+      "description": "Goals from Jaidon Anthony, Igor Thiago and Fábio Carvalho see Brentford beat Chelsea. Follow reaction with ESPN.",
+      "published": "2026-09-18T21:32:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49973574/brentford-chelsea-live-premier-league-updates-commentary-score-news-west-london-clash",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718740_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -178,12 +207,12 @@
       "score": 128
     },
     {
-      "id": "49974299",
-      "headline": "Carrick: Recent Manchester United results are not the end of the world",
-      "description": "Carrick: Recent Manchester United results are not the end of the world",
-      "published": "2026-09-18T18:34:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/49974299/recent-manchester-united-results-not-end-world",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_Carrick_Recent_Manchester_United_results_are_not_the_end_of_the_world/dm_260918_Carrick_Recent_Manchester_United_results_are_not_the_end_of_the_world.jpg",
+      "id": "49975058",
+      "headline": "Nicol: Chelsea aren't performing any better than last year",
+      "description": "Nicol: Chelsea aren't performing any better than last year",
+      "published": "2026-09-18T21:22:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/49975058/chelsea-performing-better-last-year",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_Nicol_Chelsea_arent_performing_any_better_than_last_year/dm_260918_Nicol_Chelsea_arent_performing_any_better_than_last_year.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -191,56 +220,9 @@
         "Australia"
       ],
       "players": [
-        "Michael Carrick",
         "Mathew Ryan"
       ],
-      "score": 127
-    },
-    {
-      "id": "49974180",
-      "headline": "France coach Zinedine Zidane picks 5 new faces in 1st squad",
-      "description": "Zinedine Zidane started building the France team of the future by picking several new faces on Friday when naming his first squad since taking charge.",
-      "published": "2026-09-18T18:15:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49974180/france-coach-zinedine-zidane-1st-squad-benzema-kante-jacquet",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718689_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "France"
-      ],
-      "players": [
-        "Karim Benzema",
-        "N'Golo Kanté",
-        "Jérémy Jacquet",
-        "Esteban Lepaul",
-        "Andy Diouf",
-        "Guillaume Restes",
-        "Lucas Da Cunha",
-        "Mathew Ryan"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49974179",
-      "headline": "Lookman: Alvarez didn't break relationship with Atlético squad",
-      "description": "Lookman: Alvarez didn't break relationship with Atlético squad",
-      "published": "2026-09-18T17:41:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/49974179/alvarez-break-relationship-atletico-squad",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_COM_SOC_Interview_Lookman_Alvarez_didnt_break_relationship_with_Atletico_squad_20260918_GLOBAL/dm_260918_COM_SOC_Interview_Lookman_Alvarez_didnt_break_relationship_with_Atletico_squad_20260918_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Ademola Lookman",
-        "Julián Álvarez",
-        "Mathew Ryan"
-      ],
-      "score": 125
+      "score": 128
     },
     {
       "id": "49964659",
@@ -258,7 +240,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 124
+      "score": 121
     },
     {
       "id": "49964525",
@@ -274,7 +256,7 @@
         "USA"
       ],
       "players": [],
-      "score": 115
+      "score": 112
     },
     {
       "id": "49963369",
@@ -288,7 +270,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 97
+      "score": 94
     },
     {
       "id": "49963173",
@@ -302,7 +284,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 82
+      "score": 79
     },
     {
       "id": "47978642",
@@ -320,7 +302,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 67
+      "score": 64
     },
     {
       "id": "49959154",
@@ -337,7 +319,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 53
+      "score": 50
     },
     {
       "id": "49952015",
@@ -355,7 +337,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 28
+      "score": 25
     },
     {
       "id": "49857842",
@@ -447,41 +429,6 @@
       "score": 25
     },
     {
-      "id": "49784295",
-      "headline": "Lionel Messi's Argentina career in numbers",
-      "description": "Lionel Messi's Argentina career in numbers",
-      "published": "2026-09-15T21:43:58Z",
-      "url": "https://www.espn.com/video/clip/_/id/49784295/lionel-messi-argentina-career-numbers",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_Lionel_Messis_Argentina_career_in_numbers/dm_260831_Lionel_Messis_Argentina_career_in_numbers.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 24
-    },
-    {
-      "id": "49952392",
-      "headline": "Thomas Tuchel: 'Regret I didn't eat some grass' after England's Azteca win over Mexico",
-      "description": "Thomas Tuchel has revealed he wished he had eaten some of the grass after England's memorable FIFA World Cup win over Mexico.",
-      "published": "2026-09-15T22:36:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49952392/thomas-tuchel-wish-ate-some-azteca-grass-england-stunning-world-cup-win-mexico",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717253_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [],
-      "score": 22
-    },
-    {
       "id": "49947673",
       "headline": "Grading Bafana Bafana players' overseas moves since the FIFA World Cup",
       "description": "South Africa returned to the FIFA World Cup in 2026 after a 16-year absence, and since their round of 32 exit at the hands of Canada, Bafana Bafana players have secured several noteworthy moves abroad.",
@@ -504,22 +451,22 @@
       "score": 22
     },
     {
-      "id": "49950986",
-      "headline": "James Rodríguez retires from Colombia after 15-year career",
-      "description": "James Rodríguez announced his retirement from Colombia's national team on Tuesday after 15 years on the international stage.",
-      "published": "2026-09-15T19:28:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49950986/james-rodriguez-retires-colombia",
-      "image": "https://a.espncdn.com/photo/2026/0205/r1610909_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
+      "id": "49784295",
+      "headline": "Lionel Messi's Argentina career in numbers",
+      "description": "Lionel Messi's Argentina career in numbers",
+      "published": "2026-09-15T21:43:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/49784295/lionel-messi-argentina-career-numbers",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_Lionel_Messis_Argentina_career_in_numbers/dm_260831_Lionel_Messis_Argentina_career_in_numbers.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Colombia"
+        "Argentina"
       ],
       "players": [
-        "James Rodríguez"
+        "Lionel Messi"
       ],
-      "score": 20
+      "score": 21
     },
     {
       "id": "49704497",
@@ -552,6 +499,23 @@
         "Erling Haaland"
       ],
       "score": 20
+    },
+    {
+      "id": "49952392",
+      "headline": "Thomas Tuchel: 'Regret I didn't eat some grass' after England's Azteca win over Mexico",
+      "description": "Thomas Tuchel has revealed he wished he had eaten some of the grass after England's memorable FIFA World Cup win over Mexico.",
+      "published": "2026-09-15T22:36:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49952392/thomas-tuchel-wish-ate-some-azteca-grass-england-stunning-world-cup-win-mexico",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717253_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 19
     },
     {
       "id": "49941399",
@@ -596,6 +560,24 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "49950986",
+      "headline": "James Rodríguez retires from Colombia after 15-year career",
+      "description": "James Rodríguez announced his retirement from Colombia's national team on Tuesday after 15 years on the international stage.",
+      "published": "2026-09-15T19:28:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49950986/james-rodriguez-retires-colombia",
+      "image": "https://a.espncdn.com/photo/2026/0205/r1610909_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Colombia"
+      ],
+      "players": [
+        "James Rodríguez"
+      ],
+      "score": 17
     },
     {
       "id": "49947635",
