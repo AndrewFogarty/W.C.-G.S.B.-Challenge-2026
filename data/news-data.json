@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-19T23:16:30.795Z",
+  "updated": "2026-09-20T06:26:44.949Z",
   "counts": {
-    "news": 35,
-    "offfield": 8,
+    "news": 37,
     "preview": 3,
+    "offfield": 6,
     "injury": 1,
     "celebration": 1
   },
@@ -23,7 +23,7 @@
         "Senegal"
       ],
       "players": [],
-      "score": 168
+      "score": 157
     },
     {
       "id": "49974050",
@@ -37,44 +37,109 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 151
+      "score": 140
     },
     {
-      "id": "49703019",
-      "headline": "Premier League VAR review: Was Rice lucky not to be sent off at Brighton?",
-      "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
-      "published": "2026-09-19T20:22:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716456_1296x729_16-9.jpg",
-      "byline": "Andy Davies",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Declan Rice",
-        "Mathew Ryan"
-      ],
-      "score": 141
-    },
-    {
-      "id": "49981457",
-      "headline": "Liam Rosenior taunts Strasbourg fans, causes melee: 'They disrespected my family'",
-      "description": "Liam Rosenior has caused controversy after he went over to celebrate Paris FC's 2-1 home win over his former club Strasbourg in front of the travelling fans, leading to a physical confrontation between players and staff from both teams.",
-      "published": "2026-09-19T19:00:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49981457/liam-rosenior-taunts-strasbourg-fans-causes-melee-disrespected-my-family",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1719062_1296x729_16-9.jpg",
+      "id": "49971198",
+      "headline": "Bitter pill for Phil: Six eye-opening omissions from England's Nations League squad",
+      "description": "Thomas Tuchel's first England squad since the World Cup features several notable omissions.",
+      "published": "2026-09-20T06:12:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49971198/six-key-omissions-englands-nations-league-squad-phil-foden-max-dowman-harry-maguire",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637260_1296x729_16-9.jpg",
       "byline": "Jamie Barton",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "England"
+      ],
+      "players": [
+        "Phil Foden",
+        "Mathew Ryan"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49949073",
+      "headline": "Why are England playing four games in 11 days? Extended international break explained",
+      "description": "In their first return to action since this summer's World Cup, England will be dealing with a jam-packed schedule.",
+      "published": "2026-09-20T06:11:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49949073/england-uefa-nations-league-international-break-euro-2028-thomas-tuchel",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1716958_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "England"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 133
+    },
+    {
+      "id": "49986060",
+      "headline": "Nashville SC vs. Chicago Fire FC - Game Highlights",
+      "description": "Watch the Game Highlights from Nashville SC vs. Chicago Fire FC, 09/19/2026",
+      "published": "2026-09-20T04:14:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49986060/nashville-sc-vs-chicago-fire-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/7a7605c1-6504-4070-be0c-6b7d42ad176e/7a7605c1-6504-4070-be0c-6b7d42ad176e.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Cristian Espinoza",
+        "Matthew Corcoran",
+        "Sam Surridge",
+        "Hany Mukhtar",
+        "Robert Lewandowski",
+        "Mathew Ryan"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49986271",
+      "headline": "New Hampshire vs. Portland: Game Highlights",
+      "description": "New Hampshire vs. Portland: Game Highlights",
+      "published": "2026-09-20T04:07:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/49986271/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/17a0dd0a-d6da-4208-84a1-ed15ef90646f/17a0dd0a-d6da-4208-84a1-ed15ef90646f.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Australia"
       ],
       "players": [
         "Mathew Ryan"
       ],
-      "score": 139
+      "score": 130
+    },
+    {
+      "id": "49986097",
+      "headline": "Denver Summit FC vs. Seattle Reign FC - Game Highlights",
+      "description": "Watch the Game Highlights from Denver Summit FC vs. Seattle Reign FC, 09/20/2026",
+      "published": "2026-09-20T03:51:57Z",
+      "url": "https://www.espn.com/video/clip/_/id/49986097/denver-summit-fc-vs-seattle-reign-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/02fc6904-c1c8-45f4-80ab-4f0c56f3b65c/02fc6904-c1c8-45f4-80ab-4f0c56f3b65c.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Natasha Flint",
+        "Sofia Huerta",
+        "Brittany Ratcliffe",
+        "Delanie Sheehan",
+        "Mathew Ryan"
+      ],
+      "score": 129
     },
     {
       "id": "49972364",
@@ -91,112 +156,16 @@
         "Spain"
       ],
       "players": [],
-      "score": 138
+      "score": 127
     },
     {
-      "id": "49982365",
-      "headline": "Eva Olid: Man United 'deserved the three points' in last-gasp Arsenal draw",
-      "description": "Eva Olid said Manchester United \"deserved the three points\" after a stoppage-time equaliser from Smilla Holmberg snatched a 1-1 draw for Arsenal at the Emirates.",
-      "published": "2026-09-19T21:07:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49982365/eva-olid-man-united-deserved-three-points-last-gasp-arsenal-draw",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1719116_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49982383",
-      "headline": "Sevilla vs. Barcelona - Game Highlights",
-      "description": "Watch the Game Highlights from Sevilla vs. Barcelona, 09/20/2026",
-      "published": "2026-09-19T21:06:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/49982383/sevilla-vs-barcelona-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0919/4b09b030-77eb-461b-89cf-7be275aef0ce/4b09b030-77eb-461b-89cf-7be275aef0ce.jpg",
+      "id": "49984697",
+      "headline": "Clemson vs. North Carolina: Game Highlights",
+      "description": "Clemson vs. North Carolina: Game Highlights",
+      "published": "2026-09-20T01:31:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/49984697/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/afc46a83-7833-4d76-a67d-d10b8cc6a8cc/afc46a83-7833-4d76-a67d-d10b8cc6a8cc.jpg",
       "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Karim Adeyemi",
-        "Raphinha",
-        "Odisseas Vlachodimos",
-        "Lamine Yamal",
-        "Youssouf Fofana",
-        "Mathew Ryan"
-      ],
-      "score": 130
-    },
-    {
-      "id": "49982273",
-      "headline": "If Arsenal are going to end their WSL title drought, they need to start scoring",
-      "description": "Saturday's 1-1 draw between Arsenal and Man United was a lesson in why neither team's WSL campaign is going according to plan.",
-      "published": "2026-09-19T20:53:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49982273/if-arsenal-going-end-their-womens-super-league-title-drought-need-start-scoring-manchester-united-draw",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1719109_1296x729_16-9.jpg",
-      "byline": "Emily Keogh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49981851",
-      "headline": "Mohamed Salah scores first Trabzonspor hat trick in Galatasaray thrashing",
-      "description": "Mohamed Salah scored his first hat trick in Trabzonspor colours as they stunned Super Lig leaders Galatasaray 4-0.",
-      "published": "2026-09-19T20:05:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49981851/mohamed-salah-scores-first-trabzonspor-hat-trick-galatasaray-thrashing",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1719091_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mohamed Salah",
-        "Mathew Ryan"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49981842",
-      "headline": "Phil Parkinson grateful for Wrexham fans' support after 'difficult week'",
-      "description": "Phil Parkinson was touched by Wrexham fans' backing after a \"difficult week\" and hopes the last-gasp win against Southampton can breathe new life into their campaign.",
-      "published": "2026-09-19T19:54:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49981842/phil-parkinson-grateful-wrexham-fans-support-difficult-week-southampton",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1719087_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 128
-    },
-    {
-      "id": "49944459",
-      "headline": "European soccer recap: Brighton humble Arsenal, Villa keep Spurs winless",
-      "description": "Another weekend of European soccer action continues with Brighton & Hove Albion hosting Premier League leaders and defending champions Arsenal.",
-      "published": "2026-09-19T18:51:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49944459/european-soccer-live-updates-tottenham-aston-villa-brighton-arsenal-inter-roma-sevilla-barcelona",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1718991_1296x729_16-9.jpg",
-      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -206,6 +175,47 @@
         "Mathew Ryan"
       ],
       "score": 126
+    },
+    {
+      "id": "49984212",
+      "headline": "North Carolina Courage vs. NJ/NY Gotham FC - Game Highlights",
+      "description": "Watch the Game Highlights from North Carolina Courage vs. NJ/NY Gotham FC, 09/20/2026",
+      "published": "2026-09-20T00:40:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/49984212/north-carolina-courage-vs-nj-ny-gotham-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/6b79e456-2679-4c8c-abfb-210ba9301bfd/6b79e456-2679-4c8c-abfb-210ba9301bfd.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Ashley Sanchez",
+        "Natalia Staude",
+        "Gianna Paul",
+        "Jordynn Dudley",
+        "Evelyn Ijeh",
+        "Mathew Ryan"
+      ],
+      "score": 124
+    },
+    {
+      "id": "49984178",
+      "headline": "Tottenham's horror start continues with home loss to Villa",
+      "description": "Aston Villa heap pressure on Roberto De Zerbi's big-spending and still winless Spurs with a 3-2 victory at Tottenham Hotspur stadium.",
+      "published": "2026-09-20T00:37:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49984178/tottenham-horror-start-continues-home-loss-villa",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_EPL_Highlight_Tottenhams_horror_start_continues_with_home_loss_to_Villa_20260920_AUS_ONLY/dm_260919_EPL_Highlight_Tottenhams_horror_start_continues_with_home_loss_to_Villa_20260920_AUS_ONLY.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 124
     },
     {
       "id": "49969083",
@@ -224,7 +234,7 @@
       "players": [
         "Mathew Ryan"
       ],
-      "score": 123
+      "score": 113
     },
     {
       "id": "49964659",
@@ -242,7 +252,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 87
+      "score": 76
     },
     {
       "id": "49964525",
@@ -258,7 +268,7 @@
         "USA"
       ],
       "players": [],
-      "score": 78
+      "score": 67
     },
     {
       "id": "49963369",
@@ -272,7 +282,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 61
+      "score": 50
     },
     {
       "id": "49963173",
@@ -286,25 +296,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 45
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-09-17T02:51:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 30
+      "score": 35
     },
     {
       "id": "49857842",
@@ -418,6 +410,24 @@
       "score": 22
     },
     {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-09-17T02:51:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 20
+    },
+    {
       "id": "49704497",
       "headline": "UEFA boss Aleksander Čeferin rules out FIFA presidency bid",
       "description": "UEFA president Aleksander Čeferin has ruled himself out of the running to replace FIFA chief Gianni Infantino, but Čeferin warned the beleaguered FIFA boss that he must either quit or face a leadership challenge in March.",
@@ -492,23 +502,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "49959154",
-      "headline": "England boss Thomas Tuchel defends subs vs. Argentina: 'It's my scar'",
-      "description": "England boss Thomas Tuchel said he stands by his heavily criticised defensive substitutions in the World Cup semifinal defeat to Argentina, but accepts he made them too early.",
-      "published": "2026-09-16T19:28:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49959154/england-thomas-tuchel-argentina-substitutions-2026-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717694_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Argentina"
-      ],
-      "players": [],
-      "score": 16
     },
     {
       "id": "49952015",
@@ -745,6 +738,23 @@
         "Lucy Bronze"
       ],
       "score": 13
+    },
+    {
+      "id": "49959154",
+      "headline": "England boss Thomas Tuchel defends subs vs. Argentina: 'It's my scar'",
+      "description": "England boss Thomas Tuchel said he stands by his heavily criticised defensive substitutions in the World Cup semifinal defeat to Argentina, but accepts he made them too early.",
+      "published": "2026-09-16T19:28:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49959154/england-thomas-tuchel-argentina-substitutions-2026-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717694_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [],
+      "score": 10
     },
     {
       "id": "49952392",
