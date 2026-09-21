@@ -1,50 +1,31 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-20T22:44:24.960Z",
+  "updated": "2026-09-21T00:33:28.151Z",
   "counts": {
-    "preview": 4,
+    "offfield": 7,
     "news": 36,
-    "offfield": 6,
+    "preview": 3,
     "injury": 1,
     "celebration": 1
   },
   "items": [
     {
-      "id": "49992210",
-      "headline": "Marseille fans bash U.S. owner McCourt's 'Ligue 2 project'",
-      "description": "Angry Marseille fans displayed banners hostile to the club's American owner, Frank McCourt, ahead of and during their Ligue 1 loss to Paris Saint-Germain on Sunday.",
-      "published": "2026-09-20T21:12:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49992210/marseille-fans-bash-us-owner-mccourt",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719690_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Australia",
-        "USA"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 140
-    },
-    {
-      "id": "49991564",
-      "headline": "Sources: Higuain at center of refs union beef with MLS NEXT Pro",
-      "description": "The union that represents MLS and USL referees, launched a scathing critique of MLS NEXT Pro over its handling of an incident in which a coach committed what it described as \"two deliberate acts of physical abuse and sexism towards a female referee.\"",
-      "published": "2026-09-20T22:33:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49991564/refs-union-ban-crew-2-coach-higuain",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719648_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "49968526",
+      "headline": "Man United rescue draw at Fulham after own goal shocker",
+      "description": "A comical own goal by Lisandro Martinez saw Manchester United fail to win for a third Premier League game in a row as they drew 1-1 with Fulham at Craven Cottage.",
+      "published": "2026-09-20T17:37:44Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878777",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719540_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Australia"
       ],
       "players": [
         "Mathew Ryan"
       ],
-      "score": 133
+      "score": 135
     },
     {
       "id": "49974557",
@@ -60,122 +41,88 @@
         "Senegal"
       ],
       "players": [],
-      "score": 133
-    },
-    {
-      "id": "49993307",
-      "headline": "Wake Forest vs. Stanford: Game Highlights",
-      "description": "Wake Forest vs. Stanford: Game Highlights",
-      "published": "2026-09-20T22:10:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/49993307/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/fcc3af28-36dd-4803-8ba6-34752fa0ed31/fcc3af28-36dd-4803-8ba6-34752fa0ed31.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Mathew Ryan"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49968545",
-      "headline": "Christian Pulisic starts, gets first Milan goal of 2026 in win",
-      "description": "AC Milan continued their unbeaten run in Serie A with a 3-0 win over Lecce at San Siro on Sunday.",
-      "published": "2026-09-20T21:33:35Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401874944",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719672_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "USA"
-      ],
-      "players": [
-        "Christian Pulisic",
-        "Mathew Ryan"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49992539",
-      "headline": "Valencia vs. Real Sociedad - Game Highlights",
-      "description": "Watch the Game Highlights from Valencia vs. Real Sociedad, 09/20/2026",
-      "published": "2026-09-20T21:07:00Z",
-      "url": "https://www.espn.com/video/clip/_/id/49992539/valencia-vs-real-sociedad-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/7befc590-1093-466c-b29b-1f3c83904125/7befc590-1093-466c-b29b-1f3c83904125.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Orri Óskarsson",
-        "Aaron Mayol",
-        "Luka Sucic",
-        "Yangel Herrera",
-        "Ander Barrenetxea",
-        "Carlos Soler",
-        "Jon Aramburu",
-        "Luken Beitia",
-        "Mathew Ryan"
-      ],
-      "score": 131
-    },
-    {
-      "id": "49992454",
-      "headline": "Boston Legacy FC vs. Houston Dash - Game Highlights",
-      "description": "Watch the Game Highlights from Boston Legacy FC vs. Houston Dash, 09/20/2026",
-      "published": "2026-09-20T21:01:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49992454/boston-legacy-fc-vs-houston-dash-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/7730bd11-c9e3-424a-beeb-a26ec9682a0a/7730bd11-c9e3-424a-beeb-a26ec9682a0a.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Aïssata Traoré",
-        "Annie Karich",
-        "Messiah Bright",
-        "Amanda Gutierres",
-        "Bárbara Olivieri",
-        "Sarah Schupansky",
-        "Danielle Colaprico",
-        "Mathew Ryan"
-      ],
       "score": 130
     },
     {
-      "id": "49992204",
-      "headline": "Simeone: Mourinho crossed a line with referee rant after Madrid derby",
-      "description": "Simeone: Mourinho crossed a line with referee rant after Madrid derby",
-      "published": "2026-09-20T20:40:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/49992204/mourinho-crossed-line-withreferee-rant-madrid-derby",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Presser_Simeone_Mourinho_crossed_a_line_withreferee_rant_after_Madrid_derby__20260920/dm_260920_COM_SOC_Presser_Simeone_Mourinho_crossed_a_line_withreferee_rant_after_Madrid_derby__20260920.jpg",
-      "byline": null,
+      "id": "49989024",
+      "headline": "Has Isak finally found form at Liverpool? Winner at Bournemouth gives Iraola hope",
+      "description": "Liverpool's expensively assembled attack had looked devoid of a spark at Bournemouth, with Alexander Isak virtually anonymous ... until he wasn't.",
+      "published": "2026-09-20T17:58:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49989024/alexander-isak-found-form-liverpool-winning-goal-bournemouth-iraola-hope",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719520_2_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Australia"
       ],
       "players": [
+        "Alexander Isak",
         "Mathew Ryan"
       ],
-      "score": 130
+      "score": 123
     },
     {
-      "id": "49991430",
-      "headline": "Carrick encouraged by Man United's late draw vs. Fulham",
-      "description": "Carrick encouraged by Man United's late draw vs. Fulham",
-      "published": "2026-09-20T19:32:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49991430/carrick-encouraged-man-united-late-draw-vs-fulham",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Presser_Carrick_encouraged_by_Man_Uniteds_late_draw_vs_Fulham__20260920_GLOBAL/dm_260920_COM_SOC_Presser_Carrick_encouraged_by_Man_Uniteds_late_draw_vs_Fulham__20260920_GLOBAL.jpg",
+      "id": "49990609",
+      "headline": "José Mourinho blasts ref, VAR: 'Two clear red cards' for Atlético Madrid",
+      "description": "José Mourinho blasted the referee and the VAR after Real Madrid's 2-1 derby defeat to Atlético Madrid, saying Atlético should have received \"two clear red cards.\"",
+      "published": "2026-09-20T17:55:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49990609/jose-mourinho-blasts-ref-var-two-clear-red-cards-atletico-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719565_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49988858",
+      "headline": "Fulham vs. Manchester United player ratings as Matheus Cunha rescues point for Michael Carrick",
+      "description": "ESPN's Manchester United player ratings after their 1-1 draw with Fulham.",
+      "published": "2026-09-20T17:54:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49988858/fulham-manchester-united-premier-league-player-ratings-matheus-cunha-rescues-point-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719541_1296x729_16-9.jpg",
+      "byline": "James Regan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49945948",
+      "headline": "European soccer live updates: Manchester United draw Fulham",
+      "description": "Our live blog covers all of Sunday's action as Manchester United scrape by at Fulham to earn one point.",
+      "published": "2026-09-20T17:44:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49945948/european-soccer-live-updates-liverpool-manchester-city-atletico-madrid-real-madrid-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719557_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 123
+    },
+    {
+      "id": "49990489",
+      "headline": "Atlético Madrid win drama-filled Madrid derby",
+      "description": "Atlético Madrid win drama-filled Madrid derby",
+      "published": "2026-09-20T17:30:57Z",
+      "url": "https://www.espn.com/video/clip/_/id/49990489/atletico-madrid-win-drama-filled-madrid-derby",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_Atletico_Madrid_win_drama_filled_Madrid_derby/dm_260920_Atletico_Madrid_win_drama_filled_Madrid_derby.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -185,7 +132,43 @@
       "players": [
         "Mathew Ryan"
       ],
-      "score": 128
+      "score": 122
+    },
+    {
+      "id": "49990267",
+      "headline": "Enzo Maresca relieved as Manchester City pass difficult Sunderland test",
+      "description": "Enzo Maresca can enjoy a little relaxation over the international break after Manchester City extended their perfect start to the season -- but Sunday's frantic 5-3 win over Sunderland was not good for his blood pressure.",
+      "published": "2026-09-20T17:25:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49990267/enzo-maresca-relieved-manchester-city-pass-sunderland-test",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719539_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 122
+    },
+    {
+      "id": "49990218",
+      "headline": "What went wrong for Real in the Madrid derby?",
+      "description": "What went wrong for Real in the Madrid derby?",
+      "published": "2026-09-20T16:59:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49990218/what-went-wrong-real-madrid-derby",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Analysis_What_went_wrong_for_Real_in_the_Madrid_derby3F__GLOBAL_2026-09-20/dm_260920_COM_SOC_Analysis_What_went_wrong_for_Real_in_the_Madrid_derby3F__GLOBAL_2026-09-20.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia"
+      ],
+      "players": [
+        "Mathew Ryan"
+      ],
+      "score": 122
     },
     {
       "id": "49974050",
@@ -199,7 +182,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 116
+      "score": 113
     },
     {
       "id": "49972364",
@@ -216,7 +199,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 103
+      "score": 100
     },
     {
       "id": "49969083",
@@ -235,7 +218,7 @@
       "players": [
         "Mathew Ryan"
       ],
-      "score": 88
+      "score": 85
     },
     {
       "id": "49964659",
@@ -269,7 +252,7 @@
         "USA"
       ],
       "players": [],
-      "score": 43
+      "score": 40
     },
     {
       "id": "49963369",
