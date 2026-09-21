@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-21T05:24:55.280Z",
+  "updated": "2026-09-21T10:59:35.736Z",
   "counts": {
-    "news": 36,
-    "offfield": 7,
-    "preview": 3,
-    "injury": 1,
+    "news": 32,
+    "injury": 3,
+    "offfield": 8,
+    "preview": 4,
     "celebration": 1
   },
   "items": [
@@ -25,16 +25,34 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 208
+      "score": 200
     },
     {
-      "id": "49995197",
-      "headline": "United stumble again at Fulham",
-      "description": "A comical own goal by Lisandro Martínez saw Manchester United fail to win for a third Premier League game in a row as they drew 1-1 with Fulham.",
-      "published": "2026-09-21T01:09:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/49995197/united-stumble-again-fulham",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_Soccer_HIGHLIGHT_United_stumble_again_at_Fulham_20260921_AUS/dm_260920_Soccer_HIGHLIGHT_United_stumble_again_at_Fulham_20260921_AUS.jpg",
-      "byline": null,
+      "id": "49997460",
+      "headline": "Barcelona's Andreas Christensen injures thigh, doubt for next Clásico",
+      "description": "Barcelona defender Andreas Christensen is a doubt for October's Clásico against Real Madrid after being ruled out for several weeks with a thigh injury.",
+      "published": "2026-09-21T10:53:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49997460/barcelona-andreas-christensen-el-clasico-real-madrid-la-liga",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719947_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 147
+    },
+    {
+      "id": "49997321",
+      "headline": "Carrick has an impossible job at Man United after transfer failures",
+      "description": "Manchester United's players aren't good enough and the club aren't doing enough to rectify that, so where does that leave manager Michael Carrick?",
+      "published": "2026-09-21T10:31:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49997321/michael-carrick-impossible-job-man-united-transfer-failures",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719923_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
@@ -43,16 +61,74 @@
       "players": [
         "Lionel Messi"
       ],
+      "score": 144
+    },
+    {
+      "id": "49997130",
+      "headline": "Man United's Michael Carrick concerned about Benjamin Sesko's latest injury",
+      "description": "Michael Carrick has raised concerns about Benjamin Sesko's latest injury by revealing the problem is connected to the same shin issue which kept the striker sidelined for more than two months over the summer.",
+      "published": "2026-09-21T08:59:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49997130/man-united-michael-carrick-concerned-benjamin-sesko-latest-injury",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719927_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Benjamin Sesko",
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "49996901",
+      "headline": "Transfer rumors, news: Arsenal eye versatile Dortmund forward Beier",
+      "description": "Arsenal are monitoring Borussia Dortmund forward Maximilian Beier as a potential attacking reinforcement. Transfer Talk has the latest.",
+      "published": "2026-09-21T09:43:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719920_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Maximilian Beier",
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "49996978",
+      "headline": "Cole Palmer withdraws from England's Nations League squad - sources",
+      "description": "Cole Palmer is set to withdraw from England duty ahead of their four Nations League matches, sources have told ESPN.",
+      "published": "2026-09-21T09:16:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49996978/cole-palmer-withdraws-england-nations-league-squad",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661577_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Cole Palmer",
+        "Lionel Messi"
+      ],
       "score": 139
     },
     {
-      "id": "49996208",
-      "headline": "Notre Dame vs. Stanford: Game Highlights",
-      "description": "Notre Dame vs. Stanford: Game Highlights",
-      "published": "2026-09-21T04:24:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49996208/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/4cedc999-e218-4202-88b6-b4793d354256/4cedc999-e218-4202-88b6-b4793d354256.jpg",
-      "byline": null,
+      "id": "49997384",
+      "headline": "Southampton boss calls 'Spygate' punishment 'absolutely unheard of'",
+      "description": "Southampton feel they have been punished enough already over the 'Spygate' scandal as an independent regulatory commission prepares to hear charges against their coach Tonda Eckert this week.",
+      "published": "2026-09-21T10:42:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49997384/southampton-boss-calls-spygate-punishment-absolutely-unheard-of",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719944_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -61,16 +137,16 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 131
+      "score": 133
     },
     {
-      "id": "49995813",
-      "headline": "Mo Toure scores another screamer for the Canaries",
-      "description": "Socceroos striker Mo Toure helps himself to his sixth goal in nine outings for Norwich City as his rich scoring form continues.",
-      "published": "2026-09-21T02:59:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/49995813/mo-toure-scores-another-screamer-canaries",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/Int_260920_Soccer_HIGHLIGHT_Mo_Toure_scores_another_screamer_for_the_Canaries_2026921_AUS/Int_260920_Soccer_HIGHLIGHT_Mo_Toure_scores_another_screamer_for_the_Canaries_2026921_AUS.jpg",
-      "byline": null,
+      "id": "49995568",
+      "headline": "NWSL Power Rankings: Denver the big movers as Gotham retain top spot",
+      "description": "Denver's 2-1 win over Seattle has them surging up ESPN's NWSL Power Rankings, but can anyone catch Gotham this late in the season?",
+      "published": "2026-09-21T08:14:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49995568/nwsl-power-rankings-denver-big-movers-gotham-retain-top-spot",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719904_1296x729_16-9.jpg",
+      "byline": "Arianna Cascone",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -82,82 +158,26 @@
       "score": 129
     },
     {
-      "id": "49995690",
-      "headline": "Manchester City score five in thrilling win over Sunderland",
-      "description": "The Sky Blues remain top of the Premier League table after a goal-filled 5-3 victory over the Black Cats.",
-      "published": "2026-09-21T02:40:47Z",
-      "url": "https://www.espn.com/video/clip/_/id/49995690/manchester-city-score-five-thrilling-win-sunderland",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/Int_260920_Soccer_HIGHLIGHT_Manchester_City_score_five_in_thrilling_win_over_Sunderland_2026921_AUS/Int_260920_Soccer_HIGHLIGHT_Manchester_City_score_five_in_thrilling_win_over_Sunderland_2026921_AUS.jpg",
-      "byline": null,
+      "id": "49996905",
+      "headline": "Pitso Mosimane must use AFCON qualifiers to solve Bafana's striker and centre-back problems",
+      "description": "Of all the selection challenges South Africa head coach Pitso Mosimane faces, two -- striker and centre-back -- are particularly difficult, and the upcoming international break gives him a chance to test solutions.",
+      "published": "2026-09-21T08:00:08Z",
+      "url": "https://www.espn.com/espn/story/_/id/49996905/pitso-mosimane-use-afcon-qualifiers-solve-bafana-striker-centre-back-problems",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719922_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "South Africa"
       ],
       "players": [
+        "Luther Singh",
+        "Mbekezeli Mbokazi",
+        "Olwethu Makhanya",
         "Lionel Messi"
       ],
       "score": 129
-    },
-    {
-      "id": "49995557",
-      "headline": "Dreyer outduels Messi as San Diego hands Miami 4th straight draw",
-      "description": "Lionel Messi scored his 101st goal for Inter Miami CF, but Anders Dreyer scored twice for San Diego FC, as the teams played to a 2-2 draw on Sunday night.",
-      "published": "2026-09-21T02:38:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49995557/dreyer-outduels-messi-san-diego-miami-4th-straight-draw",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719866_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Anders Dreyer",
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "49995264",
-      "headline": "Lionel Messi curls in a free kick for Inter Miami",
-      "description": "Lionel Messi curls in a free kick for Inter Miami",
-      "published": "2026-09-21T01:30:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/49995264/lionel-messi-curls-free-kick-inter-miami",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/599d3bee-dfa0-4e58-bef4-3f5df9062466/599d3bee-dfa0-4e58-bef4-3f5df9062466.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49995220",
-      "headline": "Utah Royals vs. Angel City FC - Game Highlights",
-      "description": "Watch the Game Highlights from Utah Royals vs. Angel City FC, 09/21/2026",
-      "published": "2026-09-21T01:15:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/49995220/utah-royals-vs-angel-city-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/c27f9991-f716-45f3-8ae4-6a17448b55e1/c27f9991-f716-45f3-8ae4-6a17448b55e1.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Ally Sentnor",
-        "Paige Cronin",
-        "Taylor Suarez",
-        "Ary Borges",
-        "Sveindís Jónsdóttir",
-        "Lionel Messi"
-      ],
-      "score": 127
     },
     {
       "id": "49974557",
@@ -173,7 +193,7 @@
         "Senegal"
       ],
       "players": [],
-      "score": 113
+      "score": 105
     },
     {
       "id": "49974050",
@@ -187,7 +207,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 96
+      "score": 88
     },
     {
       "id": "49972364",
@@ -204,7 +224,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 83
+      "score": 74
     },
     {
       "id": "49969083",
@@ -223,7 +243,7 @@
       "players": [
         "Mathew Ryan"
       ],
-      "score": 68
+      "score": 62
     },
     {
       "id": "49964659",
@@ -840,22 +860,6 @@
       "kindLabel": "News",
       "teams": [
         "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49681857",
-      "headline": "England name Women's Under-20 World Cup squad despite European boycott threat",
-      "description": "England have named their squad for the Women's Under-20 World Cup, despite the threat of a European boycott still hanging over the tournament.",
-      "published": "2026-08-21T15:22:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49681857/england-name-womens-20-world-cup-squad-european-boycott-threat",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1704868_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
       ],
       "players": [],
       "score": 10
