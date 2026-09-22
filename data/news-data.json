@@ -1,14 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-21T20:57:30.902Z",
+  "updated": "2026-09-22T04:42:21.198Z",
   "counts": {
-    "news": 35,
-    "preview": 5,
+    "news": 34,
     "offfield": 6,
-    "injury": 1,
+    "injury": 4,
+    "preview": 3,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50001668",
+      "headline": "Infantino open to FIFA governance review, reforms after backlash",
+      "description": "FIFA President Gianni Infantino has indicated he'd be open to an independent review of its governance system and signaled a willingness to consider reforms.",
+      "published": "2026-09-22T01:11:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50001668/infantino-open-fifa-governance-review-reforms-backlash",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 201
+    },
     {
       "id": "47978642",
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
@@ -25,55 +39,94 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 185
+      "score": 163
     },
     {
-      "id": "49998605",
-      "headline": "Sebastian Berhalter, Gio Reyna take on veteran roles for young USMNT squad",
-      "description": "USMNT midfielders Sebastian Berhalter and Giovanni Reyna said they are both getting used to taking on the roles of veteran leaders, with the 23-year-old Reyna stating that the change \"makes me feel a little bit old.\"",
-      "published": "2026-09-21T16:14:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49998605/sebastian-berhalter-gio-reyna-take-mentor-roles-young-usmnt-squad",
-      "image": "https://a.espncdn.com/photo/2026/0523/r1662495_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "49996901",
+      "headline": "Transfer rumors, news: Mesloub to replace Gabriel at Man United?",
+      "description": "Could Lens winger Mezian Mesloub be Manchester United's latest teenage signing? Transfer Talk has the latest.",
+      "published": "2026-09-21T23:40:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720167_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Argentina",
-        "USA"
+        "Argentina"
       ],
       "players": [
-        "Giovanni Reyna",
-        "Sebastian Berhalter",
+        "Mezian Soares",
         "Lionel Messi"
       ],
-      "score": 135
+      "score": 137
     },
     {
-      "id": "49998851",
-      "headline": "Arsenal boss Renée Slegers hints at changes ahead of Champions League opener",
-      "description": "Renée Slegers hinted at changes to her Arsenal side for their Women's Champions League meeting at home to Danish side HB Køge.",
-      "published": "2026-09-21T16:09:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49998851/arsenal-boss-renee-slegers-hints-changes-ahead-champions-league-opener",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720044_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "50000928",
+      "headline": "Mohamed Touré out of Socceroos' Brazil games with injury",
+      "description": "Nishan Velupillay has been called into the Australia squad for the friendlies against Brazil after UK-based duo Mohamed Toure and Alexander Robertson withdrew.",
+      "published": "2026-09-21T21:54:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50000928/norwich-city-mohamed-toure-socceroos-brazil-games-injury",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720187_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "Australia",
+        "Brazil"
+      ],
+      "players": [
+        "Mohamed Toure",
+        "Lionel Messi"
+      ],
+      "score": 137
+    },
+    {
+      "id": "50000710",
+      "headline": "Fjørtoft: Is Real Madrid working out for Mourinho?",
+      "description": "Fjørtoft: Is Real Madrid working out for Mourinho?",
+      "published": "2026-09-21T21:28:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/50000710/real-madrid-working-mourinho",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0921/dm_260921_Fjortoft_Is_Real_Madrid_working_out_for_Mourinho/dm_260921_Fjortoft_Is_Real_Madrid_working_out_for_Mourinho.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 135
+      "score": 136
     },
     {
-      "id": "49998607",
-      "headline": "MLS Power Rankings: Union skyrocket as unbeaten streak reaches 11 games",
-      "description": "Can anyone stop the Philadelphia Union? Their latest win powered them up the charts in this week's edition of ESPN's MLS Power Rankings.",
-      "published": "2026-09-21T16:49:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49998607/mls-power-rankings-philadelphia-union-skyrocket-unbeaten-streak-reaches-11-games",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718089_1296x729_16-9.jpg",
-      "byline": "Joseph Lowery",
+      "id": "50000587",
+      "headline": "Iran recalls striker Azmoun after controversial World Cup omission",
+      "description": "Iran's star striker Sardar Azmoun was recalled to the national team Monday, four months after being controversially left out of the World Cup roster.",
+      "published": "2026-09-21T21:16:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50000587/iran-recalls-azmoun-world-cup-omission",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720161_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "IR Iran"
+      ],
+      "players": [
+        "Sardar Azmoun",
+        "Lionel Messi"
+      ],
+      "score": 136
+    },
+    {
+      "id": "50001083",
+      "headline": "Hislop: Manchester United's criticism isn't unwarranted",
+      "description": "Hislop: Manchester United's criticism isn't unwarranted",
+      "published": "2026-09-21T22:30:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/50001083/manchester-united-criticism-unwarranted",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0921/dm_260921_Hislop_Manchester_Uniteds_criticism_isnt_unwarranted/dm_260921_Hislop_Manchester_Uniteds_criticism_isnt_unwarranted.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -82,7 +135,25 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
+      "score": 124
+    },
+    {
+      "id": "50000768",
+      "headline": "Israel FA accuses Ireland coach Heimir Hallgrímsson of hypocrisy after 'playing against genocide' comments",
+      "description": "The Israel Football Association has accused Republic of Ireland coach Heimir Hallgrímsson of \"hypocrisy and stupidity\" over comments he made regarding the upcoming Nations League fixtures between the two countries.",
+      "published": "2026-09-21T21:53:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50000768/israeli-fa-accuses-ireland-coach-heimir-hallgrimsson-hypocrisy-playing-genocide-comments",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720179_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 123
     },
     {
       "id": "49999135",
@@ -100,83 +171,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
-    },
-    {
-      "id": "49998979",
-      "headline": "Alexis Mac Allister on Liverpool future: 'No firm decision yet'",
-      "description": "Liverpool midfielder Alexis Mac Allister has opened up about his future at the club in an interview with ESPN, in which he also heaped praise on Argentina icon Lionel Messi.",
-      "published": "2026-09-21T16:16:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49998979/alexis-mac-allister-liverpool-argentina-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720041_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Alexis Mac Allister",
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "49998567",
-      "headline": "Ex-Birmingham City player Jordan Graham in hospital following serious road traffic accident",
-      "description": "Former Leyton Orient and Birmingham winger Jordan Graham is receiving hospital treatment following a serious road traffic accident, his family have announced.",
-      "published": "2026-09-21T15:14:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49998567/jordan-graham-birmingham-city-leyton-orient",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720023_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Jordan"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49998608",
-      "headline": "Xavi reveals trip to Liverpool to speak to Van Dijk",
-      "description": "Xavi reveals trip to Liverpool to speak to Van Dijk",
-      "published": "2026-09-21T15:13:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/49998608/xavi-reveals-trip-liverpool-speak-van-dijk",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0921/dm_260921_COM_SOC_Presser_Xavi_reveals_trip_to_Liverpool_to_speak_to_Van_Dijk_20260921_GLOBAL/dm_260921_COM_SOC_Presser_Xavi_reveals_trip_to_Liverpool_to_speak_to_Van_Dijk_20260921_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Netherlands"
-      ],
-      "players": [
-        "Virgil van Dijk",
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "49998485",
-      "headline": "Harry Maguire: Man United didn't take chances against Fulham, paid the price",
-      "description": "Harry Maguire said Manchester United paid the price for failing to take their chances in Sunday's 1-1 draw against Fulham.",
-      "published": "2026-09-21T14:47:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49998485/man-united-harry-maguire-fulham-michael-carrick-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720012_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
+      "score": 115
     },
     {
       "id": "49974557",
@@ -192,7 +187,7 @@
         "Senegal"
       ],
       "players": [],
-      "score": 90
+      "score": 70
     },
     {
       "id": "49974050",
@@ -206,7 +201,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 73
+      "score": 56
     },
     {
       "id": "49969083",
@@ -225,7 +220,7 @@
       "players": [
         "Mathew Ryan"
       ],
-      "score": 62
+      "score": 52
     },
     {
       "id": "49972364",
@@ -242,7 +237,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 60
+      "score": 50
     },
     {
       "id": "49964659",
@@ -260,23 +255,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 43
-    },
-    {
-      "id": "49964525",
-      "headline": "Sources: English FA chief demands documents on FIFA World Cup sell-off plan, Balogun decision",
-      "description": "FIFA vice president and FA chairwoman Debbie Hewitt has demanded FIFA president Gianni Infantino release all documents concerning his proposal for private investors to buy stakes in the World Cup, sources told ESPN.",
-      "published": "2026-09-17T16:26:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49964525/fa-chief-demands-gianni-infantino-releases-fifa-documents-private-equity-proposal-folarin-balogun-decision",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718041_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 30
+      "score": 33
     },
     {
       "id": "49857842",
@@ -350,24 +329,6 @@
       "score": 25
     },
     {
-      "id": "49658888",
-      "headline": "Premier League's Webb: Balogun World Cup red card saga fuels ref distrust",
-      "description": "Howard Webb, the head of Premier League referees, has said he was \"troubled\" by Folarin Balogun's overturned red card during the World Cup as it fuelled perceptions among supporters that decisions are either \"correct or corrupt.\"",
-      "published": "2026-08-19T16:00:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49658888/premier-league-howard-webb-balogun-world-cup-red-card-saga-fuels-ref-distrust",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685293_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 25
-    },
-    {
       "id": "49947673",
       "headline": "Grading Bafana Bafana players' overseas moves since the FIFA World Cup",
       "description": "South Africa returned to the FIFA World Cup in 2026 after a 16-year absence, and since their round of 32 exit at the hands of Canada, Bafana Bafana players have secured several noteworthy moves abroad.",
@@ -388,6 +349,22 @@
         "Olwethu Makhanya"
       ],
       "score": 22
+    },
+    {
+      "id": "49964525",
+      "headline": "Sources: English FA chief demands documents on FIFA World Cup sell-off plan, Balogun decision",
+      "description": "FIFA vice president and FA chairwoman Debbie Hewitt has demanded FIFA president Gianni Infantino release all documents concerning his proposal for private investors to buy stakes in the World Cup, sources told ESPN.",
+      "published": "2026-09-17T16:26:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49964525/fa-chief-demands-gianni-infantino-releases-fifa-documents-private-equity-proposal-folarin-balogun-decision",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718041_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 20
     },
     {
       "id": "49704497",
@@ -464,20 +441,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "49963369",
-      "headline": "UEFA VP: Gianni Infantino World Cup plan 'struck at the heart of the game'",
-      "description": "Gianni Infantino's plan to sell off a stake in the World Cup \"struck at the very heart of the principles of the game,\" UEFA vice-president Laura McAllister has told ESPN.",
-      "published": "2026-09-17T14:19:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49963369/uefa-vp-laura-mcallister-gianni-infantino-world-cup-plan-struck-very-heart-game",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
     },
     {
       "id": "49952015",
@@ -862,6 +825,38 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "49681857",
+      "headline": "England name Women's Under-20 World Cup squad despite European boycott threat",
+      "description": "England have named their squad for the Women's Under-20 World Cup, despite the threat of a European boycott still hanging over the tournament.",
+      "published": "2026-08-21T15:22:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49681857/england-name-womens-20-world-cup-squad-european-boycott-threat",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704868_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49719477",
+      "headline": "Former players say 'enough is enough' and 'change is necessary' at FIFA amid Infantino pressure",
+      "description": "Several current and former professionals have applied further pressure on FIFA president Gianni Infantino, saying \"change is necessary\" on social media.",
+      "published": "2026-08-25T10:22:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49719477/former-players-say-enough-enough-change-necessary-fifa-amid-infantino-pressure",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706605_2_1296x729_16-9.jpg",
+      "byline": "Shivam Pathak",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Lucy Bronze"
+      ],
+      "score": 9
     }
   ]
 }
