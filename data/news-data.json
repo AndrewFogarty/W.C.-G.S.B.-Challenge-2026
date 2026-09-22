@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-22T18:05:13.105Z",
+  "updated": "2026-09-22T21:15:17.889Z",
   "counts": {
-    "news": 36,
+    "news": 37,
     "preview": 3,
-    "injury": 2,
     "offfield": 6,
+    "injury": 1,
     "celebration": 1
   },
   "items": [
@@ -28,7 +28,7 @@
         "Jonathan David",
         "Julián Álvarez"
       ],
-      "score": 201
+      "score": 197
     },
     {
       "id": "50004079",
@@ -46,7 +46,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 190
+      "score": 186
     },
     {
       "id": "49947673",
@@ -68,7 +68,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 176
+      "score": 171
     },
     {
       "id": "50003632",
@@ -84,27 +84,28 @@
         "Spain"
       ],
       "players": [],
-      "score": 175
+      "score": 170
     },
     {
-      "id": "50006307",
-      "headline": "USMNT's Ricardo Pepi calls injury minor setback, says recovery started",
-      "description": "United States men's national team and PSV Eindhoven striker Ricardo Pepi on Tuesday called his injury a \"minor setback,\" and said he has already started his recovery to return to action with his club.",
-      "published": "2026-09-22T16:27:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50006307/united-states-ricardo-pepi-calls-injury-minor-setback-recovery-started",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719409_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50007365",
+      "headline": "Spain refs back Real, say Lee deserved red for Valverde tackle",
+      "description": "Spain's Technical Committee of Referees said Lee Kang-In should have been sent off in Sunday's Madrid derby, while backing the decision not to show Cristian Romero a red card.",
+      "published": "2026-09-22T19:30:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50007365/spain-refs-back-real-lee-red-valverde-tackle",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720531_1024x576_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Argentina",
-        "USA"
+        "Spain"
       ],
       "players": [
-        "Ricardo Pepi",
+        "Federico Valverde",
+        "Lee Kang-In",
         "Alexander Sørloth"
       ],
-      "score": 145
+      "score": 142
     },
     {
       "id": "50006704",
@@ -122,26 +123,7 @@
       "players": [
         "Alexander Sørloth"
       ],
-      "score": 144
-    },
-    {
-      "id": "50003301",
-      "headline": "Transfer rumors, news: Liverpool, Arsenal, Man City in race for Feyenoord defender",
-      "description": "Liverpool are monitoring Feyenoord right back Givairo Read, but face competition from Arsenal and Manchester City. Transfer Talk has the latest.",
-      "published": "2026-09-22T15:58:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50003301/transfer-rumors-news-liverpool-arsenal-man-city-race-feyenoord-defender",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720304_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Givairo Read",
-        "Alexander Sørloth"
-      ],
-      "score": 142
+      "score": 140
     },
     {
       "id": "50001668",
@@ -155,7 +137,62 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 141
+      "score": 136
+    },
+    {
+      "id": "50007236",
+      "headline": "Players laud 'special' Jürgen Klopp before Germany debut",
+      "description": "The former Liverpool manager has called up 16 uncapped players in a supersized first roster of 44 for his first four Nations League games as he tried to reboot Germany following another disappointing World Cup.",
+      "published": "2026-09-22T19:56:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50007236/players-laud-special-jurgen-klopp-germany-debut",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720541_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Germany"
+      ],
+      "players": [
+        "Alexander Sørloth"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50007345",
+      "headline": "Manchester City come back to save point against Bayern Munich in UWCL opener",
+      "description": "Manchester City come back to save point against Bayern Munich in UWCL opener",
+      "published": "2026-09-22T19:06:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/50007345/manchester-city-come-back-save-point-bayern-munich-uwcl-opener",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_COM_SOC_Highlight_Manchester_City_come_back_to_save_point_against_Bayern_Munich_in_UWCL_opener_202/dm_260922_COM_SOC_Highlight_Manchester_City_come_back_to_save_point_against_Bayern_Munich_in_UWCL_opener_202.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Alexander Sørloth"
+      ],
+      "score": 130
+    },
+    {
+      "id": "49975832",
+      "headline": "Man City equalise late to draw 2-2 against Bayern Munich in return to UWCL action",
+      "description": "Reigning Women's Super League champions Manchester City fought back from 2-0 down to earn a draw against Bayern Munich on their return to the UEFA Women's Champions League,",
+      "published": "2026-09-22T19:03:50Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401917018",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720524_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Alexander Sørloth"
+      ],
+      "score": 130
     },
     {
       "id": "50006710",
@@ -175,7 +212,7 @@
         "Kylian Mbappé",
         "Alexander Sørloth"
       ],
-      "score": 133
+      "score": 128
     },
     {
       "id": "50006711",
@@ -193,7 +230,7 @@
       "players": [
         "Alexander Sørloth"
       ],
-      "score": 132
+      "score": 128
     },
     {
       "id": "50006467",
@@ -212,46 +249,7 @@
       "players": [
         "Alexander Sørloth"
       ],
-      "score": 131
-    },
-    {
-      "id": "50004490",
-      "headline": "Barcelona's Aitana Bonmatí says return delayed due to pain from broken leg",
-      "description": "Barcelona midfielder Aitana Bonmatí has told ESPN she has not played this season because she is still dealing with pain after breaking her leg last year.",
-      "published": "2026-09-22T16:26:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50004490/barcelona-aitana-bonmati-return-delayed-due-pain-broken-leg",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1660868_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Aitana Bonmatí",
-        "Alexander Sørloth"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50006334",
-      "headline": "Estêvão on reduced game time at Chelsea: 'I try to seize every opportunity I have'",
-      "description": "Estêvão says he is focused only on what he can control after struggling for game time at Chelsea under new manager Xabi Alonso.",
-      "published": "2026-09-22T16:26:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50006334/estevao-chelsea-brazil-premier-league-xabi-alonso-joao-pedro-morgan-rogers-cole-palmer",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720447_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Brazil"
-      ],
-      "players": [
-        "Alexander Sørloth"
-      ],
-      "score": 131
+      "score": 127
     },
     {
       "id": "47978642",
@@ -269,7 +267,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 103
+      "score": 98
     },
     {
       "id": "49974557",
