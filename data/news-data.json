@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-22T14:09:02.400Z",
+  "updated": "2026-09-22T18:05:13.105Z",
   "counts": {
-    "news": 34,
+    "news": 36,
     "preview": 3,
-    "injury": 3,
-    "offfield": 7,
+    "injury": 2,
+    "offfield": 6,
     "celebration": 1
   },
   "items": [
@@ -28,7 +28,7 @@
         "Jonathan David",
         "Julián Álvarez"
       ],
-      "score": 207
+      "score": 201
     },
     {
       "id": "50004079",
@@ -46,7 +46,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 196
+      "score": 190
     },
     {
       "id": "49947673",
@@ -68,7 +68,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 182
+      "score": 176
     },
     {
       "id": "50003632",
@@ -84,7 +84,64 @@
         "Spain"
       ],
       "players": [],
-      "score": 181
+      "score": 175
+    },
+    {
+      "id": "50006307",
+      "headline": "USMNT's Ricardo Pepi calls injury minor setback, says recovery started",
+      "description": "United States men's national team and PSV Eindhoven striker Ricardo Pepi on Tuesday called his injury a \"minor setback,\" and said he has already started his recovery to return to action with his club.",
+      "published": "2026-09-22T16:27:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50006307/united-states-ricardo-pepi-calls-injury-minor-setback-recovery-started",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719409_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Ricardo Pepi",
+        "Alexander Sørloth"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50006704",
+      "headline": "Sources: NWSL launches new player development rule for clubs",
+      "description": "The NWSL has launched a new player development mechanism that will allow teams to identify youth players who they could sign in the future to contracts that would not fully count against the salary cap, multiple sources told ESPN.",
+      "published": "2026-09-22T17:38:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50006704/nwsl-launches-new-player-development-rule-clubs-sources",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700344_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Alexander Sørloth"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50003301",
+      "headline": "Transfer rumors, news: Liverpool, Arsenal, Man City in race for Feyenoord defender",
+      "description": "Liverpool are monitoring Feyenoord right back Givairo Read, but face competition from Arsenal and Manchester City. Transfer Talk has the latest.",
+      "published": "2026-09-22T15:58:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50003301/transfer-rumors-news-liverpool-arsenal-man-city-race-feyenoord-defender",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720304_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Givairo Read",
+        "Alexander Sørloth"
+      ],
+      "score": 142
     },
     {
       "id": "50001668",
@@ -98,111 +155,15 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 147
+      "score": 141
     },
     {
-      "id": "50004798",
-      "headline": "Benjamin Šeško vows to 'fully dedicate' himself to recovery after Man United injury setback",
-      "description": "Manchester United striker Benjamin Sesko has vowed to \"fully dedicate\" himself to his recovery from an ongoing shin issue.",
-      "published": "2026-09-22T13:19:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50004798/benjamin-šeško-vows-fully-dedicate-recovery-man-united-injury-setback",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720362_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Benjamin Sesko",
-        "Alexander Sørloth"
-      ],
-      "score": 146
-    },
-    {
-      "id": "50004677",
-      "headline": "Jarrad Branthwaite explains complex testing in bid to beat injuries",
-      "description": "Jarrad Branthwaite hopes his injury problems are behind him as he looks to make up for lost time having gained an England recall.",
-      "published": "2026-09-22T12:35:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50004677/jarrad-branthwaite-england-everton-assessed-movement-patterns-brain-overcome-injuries",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720356_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Jarrad Branthwaite",
-        "Alexander Sørloth"
-      ],
-      "score": 145
-    },
-    {
-      "id": "50004516",
-      "headline": "Kylian Mbappé on past Liverpool transfer talks: 'Mum went to Anfield and fell in love'",
-      "description": "Kylian Mbappé has described how his mother \"fell in love\" with Anfield and was keen for him to sign for Liverpool before he decided to join PSG.",
-      "published": "2026-09-22T12:02:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50004516/kylian-mbappe-liverpool-transfer-talks-mum-went-anfield-fell-love",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720348_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Alexander Sørloth"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50004227",
-      "headline": "Man United-linked Lewis Hall: 'No-brainer' to stay at Newcastle",
-      "description": "Lewis Hall has said it was a \"no-brainer\" to sign a new contract to extend his Newcastle United stay after summer transfer interest from Manchester United.",
-      "published": "2026-09-22T10:48:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50004227/man-united-linked-lewis-hall-no-brainer-stay-newcastle-united-transfer",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720332_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lewis Hall",
-        "Alexander Sørloth"
-      ],
-      "score": 140
-    },
-    {
-      "id": "50003301",
-      "headline": "Transfer rumors, news: Liverpool, Arsenal, Man City in race for Feyenoord defender",
-      "description": "Liverpool are monitoring Feyenoord right back Givairo Read, but face competition from Arsenal and Manchester City. Transfer Talk has the latest.",
-      "published": "2026-09-22T10:25:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50003301/transfer-rumors-news-liverpool-arsenal-man-city-race-feyenoord-defender",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720304_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Givairo Read",
-        "Alexander Sørloth"
-      ],
-      "score": 139
-    },
-    {
-      "id": "50004954",
-      "headline": "Caroline Weir aims to heal OL Lyonnes' Champions League heartbreak",
-      "description": "LYON, France - Not only did OL Lyonnes miss the chance of a record-extending ninth Women's Champions League title, the crushing 4-0 loss to Barcelona in last season's final underlined its rival's ongoing status as the best side in the game.",
-      "published": "2026-09-22T13:23:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50004954/caroline-weir-aims-heal-ol-lyonnes-champions-league-heartbreak",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720376_1296x729_16-9.jpg",
+      "id": "50006710",
+      "headline": "Kylian Mbappé misses France training session with flu",
+      "description": "France star Kylian Mbappé did not train with his teammates on Tuesday because of a bout of the flu, the team said.",
+      "published": "2026-09-22T17:57:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50006710/kylian-mbappe-misses-france-training-session-flu",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690751_1296x729_16-9.jpg",
       "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
@@ -211,18 +172,19 @@
         "France"
       ],
       "players": [
+        "Kylian Mbappé",
         "Alexander Sørloth"
       ],
-      "score": 132
+      "score": 133
     },
     {
-      "id": "50004139",
-      "headline": "LaLiga president Javier Tebas dismisses Real Madrid conspiracy claims as a 'smokescreen'",
-      "description": "LaLiga president Javier Tebas has called claims of a refereeing conspiracy against Real Madrid \"a smokescreen to hide other shortcomings\" after the team's defeat to Atletico Madrid in Sunday's derby.",
-      "published": "2026-09-22T10:24:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50004139/laliga-president-javier-tebas-dismisses-real-madrid-conspiracy-claims-smokescreen",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720330_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
+      "id": "50006711",
+      "headline": "Andy Robertson opens up about Liverpool after Diogo Jota's death: 'We didn't care about football'",
+      "description": "Former Liverpool defender Andy Robertson has said that the death of teammate Diogo Jota was \"horrendous\" and had a major impact on the players that knew him.",
+      "published": "2026-09-22T17:39:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50006711/andy-robertson-liverpool-diogo-jota-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720463_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -231,7 +193,65 @@
       "players": [
         "Alexander Sørloth"
       ],
-      "score": 127
+      "score": 132
+    },
+    {
+      "id": "50006467",
+      "headline": "Chelsea's Bompastor warns of threat posed by Austria Vienna",
+      "description": "Chelsea boss Sonia Bompastor has warned of the threat posed by \"underdogs\" Austria Vienna in their Women's Champions League tie.",
+      "published": "2026-09-22T17:03:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50006467/chelsea-bompastor-warns-threat-posed-austria-vienna",
+      "image": "https://a.espncdn.com/photo/2025/1014/r1560123_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Austria"
+      ],
+      "players": [
+        "Alexander Sørloth"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50004490",
+      "headline": "Barcelona's Aitana Bonmatí says return delayed due to pain from broken leg",
+      "description": "Barcelona midfielder Aitana Bonmatí has told ESPN she has not played this season because she is still dealing with pain after breaking her leg last year.",
+      "published": "2026-09-22T16:26:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50004490/barcelona-aitana-bonmati-return-delayed-due-pain-broken-leg",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1660868_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Aitana Bonmatí",
+        "Alexander Sørloth"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50006334",
+      "headline": "Estêvão on reduced game time at Chelsea: 'I try to seize every opportunity I have'",
+      "description": "Estêvão says he is focused only on what he can control after struggling for game time at Chelsea under new manager Xabi Alonso.",
+      "published": "2026-09-22T16:26:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50006334/estevao-chelsea-brazil-premier-league-xabi-alonso-joao-pedro-morgan-rogers-cole-palmer",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720447_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Brazil"
+      ],
+      "players": [
+        "Alexander Sørloth"
+      ],
+      "score": 131
     },
     {
       "id": "47978642",
@@ -249,7 +269,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 109
+      "score": 103
     },
     {
       "id": "49974557",
@@ -839,22 +859,6 @@
       "kindLabel": "News",
       "teams": [
         "Netherlands"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49720082",
-      "headline": "Would a combined UEFA, Concacaf Nations League benefit the USMNT?",
-      "description": "Would a combined UEFA, Concacaf Nations League benefit the USMNT?",
-      "published": "2026-08-25T09:18:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/49720082/would-combined-uefa-concacaf-nations-league-benefit-usmnt",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0825/dm_260825_COM_SOC_Presser_Would_a_combined_UEFA_Concacaf_Nations_League_benefit_the_USMNT_20260825_GLOBA/dm_260825_COM_SOC_Presser_Would_a_combined_UEFA_Concacaf_Nations_League_benefit_the_USMNT_20260825_GLOBA.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
       ],
       "players": [],
       "score": 10
