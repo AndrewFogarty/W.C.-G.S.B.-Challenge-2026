@@ -1,14 +1,52 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-22T04:42:21.198Z",
+  "updated": "2026-09-22T09:29:28.980Z",
   "counts": {
-    "news": 34,
-    "offfield": 6,
-    "injury": 4,
-    "preview": 3,
+    "preview": 4,
+    "news": 37,
+    "offfield": 5,
+    "injury": 1,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "49947673",
+      "headline": "Grading Bafana Bafana players' overseas moves since the FIFA World Cup",
+      "description": "South Africa returned to the FIFA World Cup in 2026 after a 16-year absence, and since their round of 32 exit at the hands of Canada, Bafana Bafana players have secured several noteworthy moves abroad.",
+      "published": "2026-09-22T07:35:09Z",
+      "url": "https://www.espn.com/espn/story/_/id/49947673/grading-bafana-bafana-players-overseas-moves-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1716934_1158x651_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "South Africa",
+        "Canada"
+      ],
+      "players": [
+        "Relebohile Mofokeng",
+        "Lyle Foster",
+        "Thapelo Maseko",
+        "Olwethu Makhanya"
+      ],
+      "score": 209
+    },
+    {
+      "id": "50003632",
+      "headline": "De la Fuente: The best is yet to come for the Spanish national team",
+      "description": "De la Fuente: The best is yet to come for the Spanish national team",
+      "published": "2026-09-22T07:55:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/50003632/best-yet-come-spanish-national-team",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 208
+    },
     {
       "id": "50001668",
       "headline": "Infantino open to FIFA governance review, reforms after backlash",
@@ -21,7 +59,28 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 201
+      "score": 174
+    },
+    {
+      "id": "50003729",
+      "headline": "Roma's Shukurat Oladipo unfazed by positional switches, keen to face Vicky Lopez in UWCL",
+      "description": "Shukurat Oladipo is no stranger to being moved around the pitch, and is ready to be used anywhere as she prepares for Wednesday's visit to Den Dreef in Belgium, and the home match against Barcelona on Sep. 30.",
+      "published": "2026-09-22T08:33:14Z",
+      "url": "https://www.espn.com/espn/story/_/id/50003729/roma-shukurat-oladipo-unfazed-positional-switches-keen-face-vicky-lopez-uwcl",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720314_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "South Africa",
+        "Belgium"
+      ],
+      "players": [
+        "Shukurat Oladipo",
+        "Vicky López",
+        "Relebohile Mofokeng"
+      ],
+      "score": 141
     },
     {
       "id": "47978642",
@@ -39,139 +98,103 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 163
-    },
-    {
-      "id": "49996901",
-      "headline": "Transfer rumors, news: Mesloub to replace Gabriel at Man United?",
-      "description": "Could Lens winger Mezian Mesloub be Manchester United's latest teenage signing? Transfer Talk has the latest.",
-      "published": "2026-09-21T23:40:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720167_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Mezian Soares",
-        "Lionel Messi"
-      ],
-      "score": 137
-    },
-    {
-      "id": "50000928",
-      "headline": "Mohamed Touré out of Socceroos' Brazil games with injury",
-      "description": "Nishan Velupillay has been called into the Australia squad for the friendlies against Brazil after UK-based duo Mohamed Toure and Alexander Robertson withdrew.",
-      "published": "2026-09-21T21:54:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50000928/norwich-city-mohamed-toure-socceroos-brazil-games-injury",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720187_1296x729_16-9.jpg",
-      "byline": "AAP",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina",
-        "Australia",
-        "Brazil"
-      ],
-      "players": [
-        "Mohamed Toure",
-        "Lionel Messi"
-      ],
-      "score": 137
-    },
-    {
-      "id": "50000710",
-      "headline": "Fjørtoft: Is Real Madrid working out for Mourinho?",
-      "description": "Fjørtoft: Is Real Madrid working out for Mourinho?",
-      "published": "2026-09-21T21:28:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/50000710/real-madrid-working-mourinho",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0921/dm_260921_Fjortoft_Is_Real_Madrid_working_out_for_Mourinho/dm_260921_Fjortoft_Is_Real_Madrid_working_out_for_Mourinho.jpg",
-      "byline": null,
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
       "score": 136
     },
     {
-      "id": "50000587",
-      "headline": "Iran recalls striker Azmoun after controversial World Cup omission",
-      "description": "Iran's star striker Sardar Azmoun was recalled to the national team Monday, four months after being controversially left out of the World Cup roster.",
-      "published": "2026-09-21T21:16:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50000587/iran-recalls-azmoun-world-cup-omission",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720161_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50003944",
+      "headline": "Barcelona to return to Olympic Stadium next season as Camp Nou costs rise to €2 billion",
+      "description": "Barcelona will return to the Olympic Stadium for several months next season after approving another €510 million ($585m) of financing to finish the Spotify Camp Nou redevelopment project.",
+      "published": "2026-09-22T09:29:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50003944/barcelona-return-olympic-stadium-next-season-camp-nou-costs-rise-2-billion",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720325_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "IR Iran"
+        "South Africa"
       ],
       "players": [
-        "Sardar Azmoun",
-        "Lionel Messi"
+        "Relebohile Mofokeng"
       ],
-      "score": 136
+      "score": 133
     },
     {
-      "id": "50001083",
-      "headline": "Hislop: Manchester United's criticism isn't unwarranted",
-      "description": "Hislop: Manchester United's criticism isn't unwarranted",
-      "published": "2026-09-21T22:30:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/50001083/manchester-united-criticism-unwarranted",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0921/dm_260921_Hislop_Manchester_Uniteds_criticism_isnt_unwarranted/dm_260921_Hislop_Manchester_Uniteds_criticism_isnt_unwarranted.jpg",
+      "id": "50003732",
+      "headline": "Lacroix: We watched Zidane on TV, now we can train with him 1 Like reaction.",
+      "description": "Lacroix: We watched Zidane on TV, now we can train with him 1 Like reaction.",
+      "published": "2026-09-22T08:16:26Z",
+      "url": "https://www.espn.com/video/clip/_/id/50003732/watched-zidane-tv-now-train-1-reaction",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_Lacroix_We_watched_Zidane_on_TV_now_we_can_train_with_him/dm_260922_Lacroix_We_watched_Zidane_on_TV_now_we_can_train_with_him.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "South Africa",
+        "France"
       ],
       "players": [
-        "Lionel Messi"
+        "Maxence Lacroix",
+        "Zinadine Zidane M Catraio",
+        "Relebohile Mofokeng"
       ],
-      "score": 124
+      "score": 131
     },
     {
-      "id": "50000768",
-      "headline": "Israel FA accuses Ireland coach Heimir Hallgrímsson of hypocrisy after 'playing against genocide' comments",
-      "description": "The Israel Football Association has accused Republic of Ireland coach Heimir Hallgrímsson of \"hypocrisy and stupidity\" over comments he made regarding the upcoming Nations League fixtures between the two countries.",
-      "published": "2026-09-21T21:53:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50000768/israeli-fa-accuses-ireland-coach-heimir-hallgrimsson-hypocrisy-playing-genocide-comments",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720179_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "50003731",
+      "headline": "Philippines exit on a high with first Asian Games men's football win in 68 years",
+      "description": "Philippines U23s finished their Asian Games men's football campaign with a 2-1 win over Kuwait on Tuesday.",
+      "published": "2026-09-22T08:15:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50003731/philippines-exit-high-first-asian-games-mens-football-win-68-years",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720308_1296x729_16-9.jpg",
+      "byline": "Mikhail De Guzman",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "South Africa"
       ],
       "players": [
-        "Lionel Messi"
+        "Relebohile Mofokeng"
       ],
-      "score": 123
+      "score": 131
     },
     {
-      "id": "49999135",
-      "headline": "Returning Italy coach Roberto Mancini: 'Betrayed' fans right to be upset",
-      "description": "Returning Italy coach Roberto Mancini said he is hoping to win back the fans who are still upset with him for bolting on the national team three years ago, as he prepares for his first matches back in charge.",
-      "published": "2026-09-21T16:49:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49999135/returning-italy-coach-roberto-mancini-betrayed-fans-right-upset",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695173_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "49971198",
+      "headline": "Bitter pill for Phil: Six eye-opening omissions from England's Nations League squad",
+      "description": "Thomas Tuchel's first England squad since the World Cup features several notable omissions.",
+      "published": "2026-09-22T07:52:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49971198/six-key-omissions-englands-nations-league-squad-phil-foden-max-dowman-harry-maguire",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637260_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "South Africa",
+        "England"
       ],
       "players": [
-        "Lionel Messi"
+        "Phil Foden",
+        "Relebohile Mofokeng"
       ],
-      "score": 115
+      "score": 131
+    },
+    {
+      "id": "49949073",
+      "headline": "Why are England playing four games in 11 days? Extended international break explained",
+      "description": "In their first return to action since this summer's World Cup, England will be dealing with a jam-packed schedule.",
+      "published": "2026-09-22T07:52:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49949073/england-uefa-nations-league-international-break-euro-2028-thomas-tuchel",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1716958_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "South Africa",
+        "England"
+      ],
+      "players": [
+        "Relebohile Mofokeng"
+      ],
+      "score": 131
     },
     {
       "id": "49974557",
@@ -187,7 +210,7 @@
         "Senegal"
       ],
       "players": [],
-      "score": 70
+      "score": 50
     },
     {
       "id": "49974050",
@@ -201,7 +224,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 56
+      "score": 36
     },
     {
       "id": "49969083",
@@ -220,7 +243,7 @@
       "players": [
         "Mathew Ryan"
       ],
-      "score": 52
+      "score": 32
     },
     {
       "id": "49972364",
@@ -237,25 +260,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 50
-    },
-    {
-      "id": "49964659",
-      "headline": "Inter Miami manager: 'It would be only fair' for Messi to win Ballon d'Or again",
-      "description": "Inter Miami manager: 'It would be only fair' for Messi to win Ballon d'Or again",
-      "published": "2026-09-17T13:53:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/49964659/only-fair-messi-win-ballon-dor-again",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_Inter_Miami_manager_It_would_be_only_fair_for_Messi_to_win_Ballon_dOr_again/dm_260917_Inter_Miami_manager_It_would_be_only_fair_for_Messi_to_win_Ballon_dOr_again.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 33
+      "score": 30
     },
     {
       "id": "49857842",
@@ -327,44 +332,6 @@
         "Gavi"
       ],
       "score": 25
-    },
-    {
-      "id": "49947673",
-      "headline": "Grading Bafana Bafana players' overseas moves since the FIFA World Cup",
-      "description": "South Africa returned to the FIFA World Cup in 2026 after a 16-year absence, and since their round of 32 exit at the hands of Canada, Bafana Bafana players have secured several noteworthy moves abroad.",
-      "published": "2026-09-15T14:02:21Z",
-      "url": "https://www.espn.com/espn/story/_/id/49947673/grading-bafana-bafana-players-overseas-moves-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716934_1158x651_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "South Africa",
-        "Canada"
-      ],
-      "players": [
-        "Relebohile Mofokeng",
-        "Lyle Foster",
-        "Thapelo Maseko",
-        "Olwethu Makhanya"
-      ],
-      "score": 22
-    },
-    {
-      "id": "49964525",
-      "headline": "Sources: English FA chief demands documents on FIFA World Cup sell-off plan, Balogun decision",
-      "description": "FIFA vice president and FA chairwoman Debbie Hewitt has demanded FIFA president Gianni Infantino release all documents concerning his proposal for private investors to buy stakes in the World Cup, sources told ESPN.",
-      "published": "2026-09-17T16:26:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49964525/fa-chief-demands-gianni-infantino-releases-fifa-documents-private-equity-proposal-folarin-balogun-decision",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718041_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 20
     },
     {
       "id": "49704497",
@@ -441,6 +408,24 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "49964659",
+      "headline": "Inter Miami manager: 'It would be only fair' for Messi to win Ballon d'Or again",
+      "description": "Inter Miami manager: 'It would be only fair' for Messi to win Ballon d'Or again",
+      "published": "2026-09-17T13:53:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/49964659/only-fair-messi-win-ballon-dor-again",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_Inter_Miami_manager_It_would_be_only_fair_for_Messi_to_win_Ballon_dOr_again/dm_260917_Inter_Miami_manager_It_would_be_only_fair_for_Messi_to_win_Ballon_dOr_again.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 13
     },
     {
       "id": "49952015",
@@ -677,6 +662,22 @@
         "Lucy Bronze"
       ],
       "score": 13
+    },
+    {
+      "id": "49964525",
+      "headline": "Sources: English FA chief demands documents on FIFA World Cup sell-off plan, Balogun decision",
+      "description": "FIFA vice president and FA chairwoman Debbie Hewitt has demanded FIFA president Gianni Infantino release all documents concerning his proposal for private investors to buy stakes in the World Cup, sources told ESPN.",
+      "published": "2026-09-17T16:26:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49964525/fa-chief-demands-gianni-infantino-releases-fifa-documents-private-equity-proposal-folarin-balogun-decision",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718041_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
     },
     {
       "id": "49959154",
