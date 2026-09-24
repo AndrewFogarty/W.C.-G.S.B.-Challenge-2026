@@ -1,13 +1,27 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-24T06:22:14.947Z",
+  "updated": "2026-09-24T12:02:26.613Z",
   "counts": {
-    "news": 37,
-    "offfield": 6,
+    "news": 35,
     "injury": 2,
-    "preview": 3
+    "offfield": 7,
+    "preview": 4
   },
   "items": [
+    {
+      "id": "50019011",
+      "headline": "Gianni Infantino says he is 'committed to doing what is right' for FIFA",
+      "description": "FIFA president Gianni Infantino says he has \"never been more determined and committed\" to doing \"what is right for the game\" after pledging to conduct an independent review of the organisation's governance.",
+      "published": "2026-09-24T11:12:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50019011/gianni-infantino-says-committed-doing-right-fifa",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
     {
       "id": "50015084",
       "headline": "Gianni Infantino accused of 'woefully inadequate' co-operation with probe into Donald Trump links",
@@ -22,7 +36,7 @@
         "USA"
       ],
       "players": [],
-      "score": 195
+      "score": 176
     },
     {
       "id": "50006618",
@@ -47,7 +61,7 @@
         "Julián Álvarez",
         "Franco Mastantuono"
       ],
-      "score": 180
+      "score": 161
     },
     {
       "id": "50013350",
@@ -67,7 +81,81 @@
       "players": [
         "Bruno Guimarães"
       ],
-      "score": 170
+      "score": 151
+    },
+    {
+      "id": "50018178",
+      "headline": "UWCL talking points: Should a flare have ruled out a Man City goal? Why can't Arsenal score more goals?",
+      "description": "The UEFA Women's Champions League is back! Here are some of our burning questions after the first round of league phase matches.",
+      "published": "2026-09-24T11:00:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50018178/uwcl-talking-points-why-arsenal-score-more-goals-man-city-equalizer-stood",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721210_1296x729_16-9.jpg",
+      "byline": "Multiple contributors",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50015997",
+      "headline": "USWNT's Emily Fox extends contract at Arsenal",
+      "description": "Emily Fox has signed a new contract at Arsenal, the north London club have confirmed.",
+      "published": "2026-09-24T11:04:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50015997/uswnt-emily-fox-extends-contract-arsenal",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721054_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Emily Fox",
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50018795",
+      "headline": "Marc Curella 'sent a subtle message' to try to tempt Rodri into Real Madrid move",
+      "description": "Real Madrid's Marc Cucurella has said he \"sent a subtle message\" asking Rodri to join him at Real Madrid this summer, before the midfielder opted to sign for rivals Barcelona.",
+      "published": "2026-09-24T10:35:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50018795/real-madrid-marc-cucurella-rodri-barcelona-spain-el-clasico",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721200_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50018535",
+      "headline": "Man United's Leny Yoro handed surprise France call-up after Ibrahima Konaté injury",
+      "description": "Manchester United defender Leny Yoro has been called up to Zinedine Zidane's France squad for the UEFA Nations League, as Real Madrid's Ibrahima Konaté has dropped out.",
+      "published": "2026-09-24T09:27:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50018535/leny-yoro-ibrahima-konate-france-nations-league-zinedine-zidane",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_Lacroix_We_watched_Zidane_on_TV_now_we_can_train_with_him/dm_260922_Lacroix_We_watched_Zidane_on_TV_now_we_can_train_with_him.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 143
     },
     {
       "id": "50012609",
@@ -81,165 +169,66 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 162
+      "score": 143
     },
     {
-      "id": "50017053",
-      "headline": "Hana Lowry named in Matildas squad to face Germany, Haiti",
-      "description": "After suffering a gut-wrenching ACL injury on the eve of her potential Matildas debut, midfielder Hana Lowry has been handed a national team recall.",
-      "published": "2026-09-24T02:05:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50017053/hana-lowry-named-matildas-squad-face-germany-haiti",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721133_1296x729_16-9.jpg",
-      "byline": "AAP",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50018874",
+      "headline": "Brazil boss Carlo Ancelotti targeting 'new generation' of players ahead of next Copa América and World Cup",
+      "description": "Coming up against a former pupil, Brazil boss Carlo Ancelotti is expecting Australia to provide the Seleção with a tough, compact, and well-organised opponent as he begins the process of finding a \"new generation\" of players.",
+      "published": "2026-09-24T11:12:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50018874/brazil-boss-carlo-ancelotti-targeting-new-generation-players-ahead-next-copa-america-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721207_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "Argentina",
-        "Australia",
-        "Germany",
-        "Haiti"
+        "Brazil",
+        "Australia"
       ],
       "players": [
-        "Hana Lowry",
         "Lionel Messi"
       ],
       "score": 141
     },
     {
-      "id": "50016000",
-      "headline": "Nicol and Burley clash over Palmer's injury",
-      "description": "Nicol and Burley clash over Palmer's injury",
-      "published": "2026-09-23T22:18:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/50016000/nicol-burley-clash-palmer-injury",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_COM_SOC_Analysis_Nicol_and_Burley_clash_over_PalmerE28099s_injury__GLOBAL_2026-09-23/dm_260923_COM_SOC_Analysis_Nicol_and_Burley_clash_over_PalmerE28099s_injury__GLOBAL_2026-09-23.jpg",
-      "byline": null,
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Cole Palmer",
-        "Lionel Messi"
-      ],
-      "score": 135
-    },
-    {
-      "id": "50015792",
-      "headline": "UK PM Burnham wants 'outdated' football drinking ban scrapped",
-      "description": "A ban on football fans drinking in the stands during matches is outdated, discriminatory and should be scrapped, Andy Burnham said.",
-      "published": "2026-09-23T23:00:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50015792/uk-pm-burnham-wants-football-drinking-ban-scrapped",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1721065_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 134
-    },
-    {
-      "id": "50015996",
-      "headline": "Chelsea goalscorer Wieke Kaptein rues missed chances against Austria Wien",
-      "description": "Chelsea midfielder Wieke Kaptein has said that the team \"could have kept the ball a little bit better\" in their narrow 1-0 defeat of Austria Wien in the UEFA Women's Champions League.",
-      "published": "2026-09-24T06:04:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50015996/chelsea-uwcl-women-champions-league-austria-wien-wieke-kaptein",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1721047_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "50019112",
+      "headline": "Ingolstadt sack pioneering female coach Sabrina Wittman",
+      "description": "Sabrina Wittmann, who in 2024 became the first female head coach in the top three men's football divisions in Germany, was fired Thursday after a rocky start to the season.",
+      "published": "2026-09-24T11:25:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50019112/ingolstadt-sack-pioneering-female-coach-sabrina-wittman",
+      "image": "https://a.espncdn.com/photo/2026/0318/r1630227_1296x729_16-9.jpg",
+      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Austria"
+        "Germany"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 132
     },
     {
-      "id": "50013853",
-      "headline": "Anthony Gordon: England must stop trying to copy Spain, play to their strengths",
-      "description": "Anthony Gordon has said England must stop trying to emulate Spain and play to their Premier League strengths to win another major tournament.",
-      "published": "2026-09-24T05:00:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50013853/anthony-gordon-england-stop-trying-copy-spain-play-their-strengths",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720881_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "Spain"
-      ],
-      "players": [
-        "Anthony Gordon",
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50016341",
-      "headline": "Van Dijk: 'Utter nonsense' I altered Netherlands tactics in WC exit",
-      "description": "Liverpool captain Virgil van Dijk has dismissed \"completely baseless\" claims he influenced former head coach Ronald Koeman's tactics at the World Cup.",
-      "published": "2026-09-23T23:23:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50016341/van-dijk-nonsense-altered-netherlands-tactics-wc-exit",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674846_1296x729_16-9.jpg",
+      "id": "50018672",
+      "headline": "Ivan Toney court hearing over alleged Soho assault charge delayed",
+      "description": "England striker Ivan Toney's first court hearing over an alleged assault at a Soho nightclub has been delayed for a week.",
+      "published": "2026-09-24T09:48:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50018672/ivan-toney-alleged-assault-soho-court-hearing-england-al-ahli-brentford",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721191_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Netherlands"
+        "England"
       ],
       "players": [
-        "Virgil van Dijk",
+        "Ivan Toney",
         "Lionel Messi"
       ],
-      "score": 123
-    },
-    {
-      "id": "50015995",
-      "headline": "Nicol: I have sympathy for Mourinho after Madrid derby",
-      "description": "Nicol: I have sympathy for Mourinho after Madrid derby",
-      "published": "2026-09-23T22:15:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/50015995/sympathy-mourinho-madrid-derby",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_COM_SOC_Analysis_Nicol3A_I_have_sympathy_for_Mourinho_after_Madrid_derby__GLOBAL_2026-09-23/dm_260923_COM_SOC_Analysis_Nicol3A_I_have_sympathy_for_Mourinho_after_Madrid_derby__GLOBAL_2026-09-23.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 121
-    },
-    {
-      "id": "50015685",
-      "headline": "Alyssa Thompson: UWCL win will give Chelsea momentum",
-      "description": "Alyssa Thompson: UWCL win will give Chelsea momentum",
-      "published": "2026-09-23T21:23:17Z",
-      "url": "https://www.espn.com/video/clip/_/id/50015685/uwcl-win-give-chelsea-momentum",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_Alyssa_Thompson_UWCL_win_will_give_Chelsea_momentum/dm_260923_Alyssa_Thompson_UWCL_win_will_give_Chelsea_momentum.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Alyssa Thompson",
-        "Lionel Messi"
-      ],
-      "score": 120
+      "score": 130
     },
     {
       "id": "50004142",
@@ -260,7 +249,7 @@
         "Jonathan David",
         "Julián Álvarez"
       ],
-      "score": 107
+      "score": 88
     },
     {
       "id": "50004079",
@@ -278,7 +267,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 96
+      "score": 78
     },
     {
       "id": "49947673",
@@ -300,7 +289,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 82
+      "score": 63
     },
     {
       "id": "50003632",
@@ -316,7 +305,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 80
+      "score": 62
     },
     {
       "id": "50001668",
@@ -330,7 +319,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 46
+      "score": 38
     },
     {
       "id": "49857842",
@@ -400,24 +389,6 @@
       "score": 22
     },
     {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-09-21T02:08:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 19
-    },
-    {
       "id": "49941399",
       "headline": "Ecuador hires Marcelo Gallardo through 2030 World Cup",
       "description": "Marcelo Gallardo, one of the most decorated coaches in the history of the Argentine league, has reached an agreement to manage Ecuador ahead of the 2030 FIFA World Cup.",
@@ -460,6 +431,24 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-09-21T02:08:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 13
     },
     {
       "id": "49964659",
@@ -698,24 +687,6 @@
       "score": 13
     },
     {
-      "id": "49723045",
-      "headline": "Chelsea's Lucy Bronze: Need to 'protect' football for fans",
-      "description": "Lucy Bronze has said she wants to \"protect [football] for the fans\" after joining a collective statement criticising Gianni Infantino and the \"current leadership's ability to distinguish between its own interests and what is best for football.\"",
-      "published": "2026-08-25T16:42:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49723045/lucy-bronze-fifa-gianni-infantino-protect-football-chelsea-england",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706759_1296x729_16-9.jpg",
-      "byline": "Emily Keogh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Lucy Bronze"
-      ],
-      "score": 13
-    },
-    {
       "id": "49974557",
       "headline": "Patrick Vieira insists he expects to win trophies as Senegal boss",
       "description": "Patrick Vieira insists he expects to win trophies as Senegal boss",
@@ -876,6 +847,22 @@
       "kindLabel": "News",
       "teams": [
         "Spain"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49729916",
+      "headline": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
+      "description": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
+      "published": "2026-08-26T08:44:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/49729916/netherlands-tried-get-guardiola-slot-xavi",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_De_Jong_Netherlands_tried_to_get_Guardiola_and_Slot_before_Xavi/dm_260826_De_Jong_Netherlands_tried_to_get_Guardiola_and_Slot_before_Xavi.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Netherlands"
       ],
       "players": [],
       "score": 10
