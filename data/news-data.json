@@ -1,11 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-23T20:30:38.047Z",
+  "updated": "2026-09-24T01:21:29.541Z",
   "counts": {
-    "news": 37,
-    "offfield": 6,
-    "injury": 1,
-    "celebration": 1,
+    "news": 40,
+    "offfield": 5,
     "preview": 3
   },
   "items": [
@@ -23,7 +21,7 @@
         "USA"
       ],
       "players": [],
-      "score": 209
+      "score": 202
     },
     {
       "id": "50006618",
@@ -48,7 +46,7 @@
         "Julián Álvarez",
         "Franco Mastantuono"
       ],
-      "score": 195
+      "score": 187
     },
     {
       "id": "50013350",
@@ -68,7 +66,7 @@
       "players": [
         "Bruno Guimarães"
       ],
-      "score": 184
+      "score": 177
     },
     {
       "id": "50012609",
@@ -82,62 +80,63 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 176
+      "score": 169
     },
     {
-      "id": "50014196",
-      "headline": "Christian Eriksen leaves Wolfsburg by mutual consent after on-field collapse",
-      "description": "Christian Eriksen has agreed to terminate his contract with German club Wolfsburg, nearly four months after the Danish midfielder collapsed on the field for the second time in his career, the team said Wednesday.",
-      "published": "2026-09-23T17:45:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50014196/christian-eriksen-leaves-wolfsburg-mutual-consent-field-collapse",
-      "image": "https://a.espncdn.com/photo/2026/0608/r1669831_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Christian Eriksen",
-        "Lionel Messi"
-      ],
-      "score": 141
-    },
-    {
-      "id": "50013716",
-      "headline": "Napoli president wants ultras out of any new stadium, warns Allegri",
-      "description": "With two Serie A trophies in the last four years and five other domestic cups, Napoli president Aurelio De Laurentiis is proud of what he has accomplished since rescuing the club from bankruptcy and starting in Serie C more than two decades ago.",
-      "published": "2026-09-23T16:22:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50013716/napoli-president-wants-ultras-new-stadium-warns-allegri",
-      "image": "https://a.espncdn.com/photo/2023/0816/r1211348_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50014880",
+      "headline": "Katoto hat trick leads Lyonnes in 8-goal Champions League rout",
+      "description": "Record eight-time winner OL Lyonnes won 8-0 at overmatched Servette in the Women's Champions League early kickoffs on Wednesday.",
+      "published": "2026-09-23T20:09:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50014880/katoto-hat-trick-lyonnes-champions-league-rout",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720976_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 141
+      "score": 125
     },
     {
-      "id": "50013903",
-      "headline": "Man United selling chunks of Old Trafford pitch",
-      "description": "Old Trafford -- the home of Manchester United -- has seen plenty of history over the years. Now, fans can own a piece of the pitch ...for £125 ($165).",
-      "published": "2026-09-23T16:35:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50013903/man-united-old-trafford-selling-pitch-pieces",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720872_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "50014736",
+      "headline": "Roma miss last-minute penalty in 0-0 draw with OH Leuven",
+      "description": "Roma miss last-minute penalty in 0-0 draw with OH Leuven",
+      "published": "2026-09-23T20:07:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/50014736/roma-miss-last-minute-penalty-0-0-draw-oh-leuven",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_COM_SOC_Highlight_Roma_miss_last_minute_penalty_in_0_0_draw_with_OH_Leuven_20260923_GLOBAL/dm_260923_COM_SOC_Highlight_Roma_miss_last_minute_penalty_in_0_0_draw_with_OH_Leuven_20260923_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 134
+      "score": 125
+    },
+    {
+      "id": "50015082",
+      "headline": "Ronaldo vows to tell the world before he retires from international football",
+      "description": "Ronaldo vows to tell the world before he retires from international football",
+      "published": "2026-09-23T20:06:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/50015082/ronaldo-vows-tell-world-retires-international-football",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_COM_SOC_Analysis_Ronaldo_vows_to_tell_the_world_before_he_retires_from_international_football_GLOB/dm_260923_COM_SOC_Analysis_Ronaldo_vows_to_tell_the_world_before_he_retires_from_international_football_GLOB.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Lionel Messi"
+      ],
+      "score": 125
     },
     {
       "id": "50014753",
@@ -155,7 +154,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 131
+      "score": 124
     },
     {
       "id": "50014620",
@@ -175,27 +174,7 @@
         "Harry Kane",
         "Lionel Messi"
       ],
-      "score": 131
-    },
-    {
-      "id": "50014093",
-      "headline": "Cristiano Ronaldo: I will end Portugal career when 'I'm not doing anything here'",
-      "description": "Cristiano Ronaldo has said he considered retiring from international football after the World Cup before deciding to extend his Portugal career.",
-      "published": "2026-09-23T19:00:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50014093/cristiano-ronaldo-portugal-nations-league-al-nassr-manchester-united-real-madrid-sporting-lisbon",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720902_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Lionel Messi"
-      ],
-      "score": 131
+      "score": 124
     },
     {
       "id": "50014573",
@@ -215,7 +194,7 @@
         "Harry Kane",
         "Lionel Messi"
       ],
-      "score": 130
+      "score": 123
     },
     {
       "id": "50014256",
@@ -234,7 +213,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 129
+      "score": 122
     },
     {
       "id": "50004142",
@@ -255,7 +234,7 @@
         "Jonathan David",
         "Julián Álvarez"
       ],
-      "score": 122
+      "score": 115
     },
     {
       "id": "50004079",
@@ -273,7 +252,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 111
+      "score": 104
     },
     {
       "id": "49947673",
@@ -295,7 +274,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 97
+      "score": 89
     },
     {
       "id": "50003632",
@@ -311,7 +290,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 95
+      "score": 88
     },
     {
       "id": "50001668",
@@ -325,7 +304,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 61
+      "score": 54
     },
     {
       "id": "47978642",
@@ -343,7 +322,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 33
+      "score": 26
     },
     {
       "id": "49857842",
@@ -871,6 +850,22 @@
       "kindLabel": "News",
       "teams": [
         "Spain"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49729916",
+      "headline": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
+      "description": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
+      "published": "2026-08-26T08:44:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/49729916/netherlands-tried-get-guardiola-slot-xavi",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_De_Jong_Netherlands_tried_to_get_Guardiola_and_Slot_before_Xavi/dm_260826_De_Jong_Netherlands_tried_to_get_Guardiola_and_Slot_before_Xavi.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Netherlands"
       ],
       "players": [],
       "score": 10
