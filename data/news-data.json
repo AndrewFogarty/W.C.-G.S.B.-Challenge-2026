@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-24T01:21:29.541Z",
+  "updated": "2026-09-24T06:22:14.947Z",
   "counts": {
-    "news": 40,
-    "offfield": 5,
+    "news": 37,
+    "offfield": 6,
+    "injury": 2,
     "preview": 3
   },
   "items": [
@@ -21,7 +22,7 @@
         "USA"
       ],
       "players": [],
-      "score": 202
+      "score": 195
     },
     {
       "id": "50006618",
@@ -46,7 +47,7 @@
         "Julián Álvarez",
         "Franco Mastantuono"
       ],
-      "score": 187
+      "score": 180
     },
     {
       "id": "50013350",
@@ -66,7 +67,7 @@
       "players": [
         "Bruno Guimarães"
       ],
-      "score": 177
+      "score": 170
     },
     {
       "id": "50012609",
@@ -80,140 +81,165 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 169
+      "score": 162
     },
     {
-      "id": "50014880",
-      "headline": "Katoto hat trick leads Lyonnes in 8-goal Champions League rout",
-      "description": "Record eight-time winner OL Lyonnes won 8-0 at overmatched Servette in the Women's Champions League early kickoffs on Wednesday.",
-      "published": "2026-09-23T20:09:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50014880/katoto-hat-trick-lyonnes-champions-league-rout",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720976_1296x729_16-9.jpg",
+      "id": "50017053",
+      "headline": "Hana Lowry named in Matildas squad to face Germany, Haiti",
+      "description": "After suffering a gut-wrenching ACL injury on the eve of her potential Matildas debut, midfielder Hana Lowry has been handed a national team recall.",
+      "published": "2026-09-24T02:05:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50017053/hana-lowry-named-matildas-squad-face-germany-haiti",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721133_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "Australia",
+        "Germany",
+        "Haiti"
+      ],
+      "players": [
+        "Hana Lowry",
+        "Lionel Messi"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50016000",
+      "headline": "Nicol and Burley clash over Palmer's injury",
+      "description": "Nicol and Burley clash over Palmer's injury",
+      "published": "2026-09-23T22:18:22Z",
+      "url": "https://www.espn.com/video/clip/_/id/50016000/nicol-burley-clash-palmer-injury",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_COM_SOC_Analysis_Nicol_and_Burley_clash_over_PalmerE28099s_injury__GLOBAL_2026-09-23/dm_260923_COM_SOC_Analysis_Nicol_and_Burley_clash_over_PalmerE28099s_injury__GLOBAL_2026-09-23.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Cole Palmer",
+        "Lionel Messi"
+      ],
+      "score": 135
+    },
+    {
+      "id": "50015792",
+      "headline": "UK PM Burnham wants 'outdated' football drinking ban scrapped",
+      "description": "A ban on football fans drinking in the stands during matches is outdated, discriminatory and should be scrapped, Andy Burnham said.",
+      "published": "2026-09-23T23:00:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50015792/uk-pm-burnham-wants-football-drinking-ban-scrapped",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721065_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 134
+    },
+    {
+      "id": "50015996",
+      "headline": "Chelsea goalscorer Wieke Kaptein rues missed chances against Austria Wien",
+      "description": "Chelsea midfielder Wieke Kaptein has said that the team \"could have kept the ball a little bit better\" in their narrow 1-0 defeat of Austria Wien in the UEFA Women's Champions League.",
+      "published": "2026-09-24T06:04:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50015996/chelsea-uwcl-women-champions-league-austria-wien-wieke-kaptein",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721047_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "Austria"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 125
+      "score": 133
     },
     {
-      "id": "50014736",
-      "headline": "Roma miss last-minute penalty in 0-0 draw with OH Leuven",
-      "description": "Roma miss last-minute penalty in 0-0 draw with OH Leuven",
-      "published": "2026-09-23T20:07:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/50014736/roma-miss-last-minute-penalty-0-0-draw-oh-leuven",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_COM_SOC_Highlight_Roma_miss_last_minute_penalty_in_0_0_draw_with_OH_Leuven_20260923_GLOBAL/dm_260923_COM_SOC_Highlight_Roma_miss_last_minute_penalty_in_0_0_draw_with_OH_Leuven_20260923_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50015082",
-      "headline": "Ronaldo vows to tell the world before he retires from international football",
-      "description": "Ronaldo vows to tell the world before he retires from international football",
-      "published": "2026-09-23T20:06:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/50015082/ronaldo-vows-tell-world-retires-international-football",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_COM_SOC_Analysis_Ronaldo_vows_to_tell_the_world_before_he_retires_from_international_football_GLOB/dm_260923_COM_SOC_Analysis_Ronaldo_vows_to_tell_the_world_before_he_retires_from_international_football_GLOB.jpg",
-      "byline": null,
+      "id": "50013853",
+      "headline": "Anthony Gordon: England must stop trying to copy Spain, play to their strengths",
+      "description": "Anthony Gordon has said England must stop trying to emulate Spain and play to their Premier League strengths to win another major tournament.",
+      "published": "2026-09-24T05:00:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50013853/anthony-gordon-england-stop-trying-copy-spain-play-their-strengths",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720881_1296x729_16-9.jpg",
+      "byline": "James Olley",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Portugal"
+        "England",
+        "Spain"
       ],
       "players": [
-        "Cristiano Ronaldo",
+        "Anthony Gordon",
         "Lionel Messi"
       ],
-      "score": 125
+      "score": 131
     },
     {
-      "id": "50014753",
-      "headline": "OL Lyonnes thrash Servette 8-0 as Katoto scores UWCL hat trick",
-      "description": "OL Lyonnes thrash Servette 8-0 as Katoto scores UWCL hat trick",
-      "published": "2026-09-23T19:09:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/50014753/ol-lyonnes-thrash-servette-8-0-katoto-scores-uwcl-hat-trick",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_COM_SOC_Highlight_OL_Lyonnes_thrash_Servette_8_0_as_Katoto_scores_UWCL_hat_trick_20260923/dm_260923_COM_SOC_Highlight_OL_Lyonnes_thrash_Servette_8_0_as_Katoto_scores_UWCL_hat_trick_20260923.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50014620",
-      "headline": "Harry Kane serious about future as an NFL kicker once football career is over",
-      "description": "Ballon d'Or favourite Harry Kane wants to stay at the top for as long as possible - but the England captain has confirmed he will start looking more seriously at potentially becoming an NFL kicker.",
-      "published": "2026-09-23T19:07:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50014620/harry-kane-nfl-bayern-munich-england",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720956_1296x729_16-9.jpg",
+      "id": "50016341",
+      "headline": "Van Dijk: 'Utter nonsense' I altered Netherlands tactics in WC exit",
+      "description": "Liverpool captain Virgil van Dijk has dismissed \"completely baseless\" claims he influenced former head coach Ronald Koeman's tactics at the World Cup.",
+      "published": "2026-09-23T23:23:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50016341/van-dijk-nonsense-altered-netherlands-tactics-wc-exit",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674846_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "England"
+        "Netherlands"
       ],
       "players": [
-        "Harry Kane",
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50014573",
-      "headline": "Harry Kane: Argentina defeat was most painful England moment yet",
-      "description": "Harry Kane said England's World Cup exit was the most painful near miss yet due to the manner of a semifinal collapse to Argentina that \"wasn't us as a team.\"",
-      "published": "2026-09-23T18:44:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50014573/harry-kane-argentina-defeat-most-painful-england-moment-yet",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717491_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Harry Kane",
+        "Virgil van Dijk",
         "Lionel Messi"
       ],
       "score": 123
     },
     {
-      "id": "50014256",
-      "headline": "Gary Lineker recalls 'uncomfortable' FIFA Vladimir Putin meeting request",
-      "description": "Gary Lineker has said FIFA's request for him to meet Russian president Vladimir Putin made him \"slightly uncomfortable\" and said he made a conscious decision not to be associated with football's governing body.",
-      "published": "2026-09-23T17:51:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50014256/gary-lineker-recalls-uncomfortable-fifa-vladimir-putin-meeting-request",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720909_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50015995",
+      "headline": "Nicol: I have sympathy for Mourinho after Madrid derby",
+      "description": "Nicol: I have sympathy for Mourinho after Madrid derby",
+      "published": "2026-09-23T22:15:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/50015995/sympathy-mourinho-madrid-derby",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_COM_SOC_Analysis_Nicol3A_I_have_sympathy_for_Mourinho_after_Madrid_derby__GLOBAL_2026-09-23/dm_260923_COM_SOC_Analysis_Nicol3A_I_have_sympathy_for_Mourinho_after_Madrid_derby__GLOBAL_2026-09-23.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "England"
+        "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 122
+      "score": 121
+    },
+    {
+      "id": "50015685",
+      "headline": "Alyssa Thompson: UWCL win will give Chelsea momentum",
+      "description": "Alyssa Thompson: UWCL win will give Chelsea momentum",
+      "published": "2026-09-23T21:23:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/50015685/uwcl-win-give-chelsea-momentum",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_Alyssa_Thompson_UWCL_win_will_give_Chelsea_momentum/dm_260923_Alyssa_Thompson_UWCL_win_will_give_Chelsea_momentum.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Alyssa Thompson",
+        "Lionel Messi"
+      ],
+      "score": 120
     },
     {
       "id": "50004142",
@@ -234,7 +260,7 @@
         "Jonathan David",
         "Julián Álvarez"
       ],
-      "score": 115
+      "score": 107
     },
     {
       "id": "50004079",
@@ -252,7 +278,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 104
+      "score": 96
     },
     {
       "id": "49947673",
@@ -274,7 +300,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 89
+      "score": 82
     },
     {
       "id": "50003632",
@@ -290,7 +316,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 88
+      "score": 80
     },
     {
       "id": "50001668",
@@ -304,25 +330,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 54
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-09-21T02:08:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 26
+      "score": 46
     },
     {
       "id": "49857842",
@@ -390,6 +398,24 @@
         "Mathew Ryan"
       ],
       "score": 22
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-09-21T02:08:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 19
     },
     {
       "id": "49941399",
@@ -850,22 +876,6 @@
       "kindLabel": "News",
       "teams": [
         "Spain"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49729916",
-      "headline": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
-      "description": "De Jong: Netherlands 'tried to get Guardiola and Slot before Xavi'",
-      "published": "2026-08-26T08:44:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/49729916/netherlands-tried-get-guardiola-slot-xavi",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_De_Jong_Netherlands_tried_to_get_Guardiola_and_Slot_before_Xavi/dm_260826_De_Jong_Netherlands_tried_to_get_Guardiola_and_Slot_before_Xavi.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Netherlands"
       ],
       "players": [],
       "score": 10
