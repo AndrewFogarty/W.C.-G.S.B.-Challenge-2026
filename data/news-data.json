@@ -1,12 +1,52 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-25T06:40:14.970Z",
+  "updated": "2026-09-25T12:17:26.675Z",
   "counts": {
-    "news": 40,
-    "offfield": 5,
+    "news": 36,
+    "offfield": 7,
+    "injury": 2,
     "preview": 3
   },
   "items": [
+    {
+      "id": "50025809",
+      "headline": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
+      "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
+      "published": "2026-09-25T10:12:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721593_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany",
+        "Spain",
+        "England"
+      ],
+      "players": [],
+      "score": 207
+    },
+    {
+      "id": "50025741",
+      "headline": "Can Patrick Vieira rescue Senegal from their post-AFCON final hellscape?",
+      "description": "Senegal, surely, must be asking what on earth they have done to receive the misfortune and wretched experiences they've endured since January, when they won, and then lost, the AFCON final.",
+      "published": "2026-09-25T09:04:04Z",
+      "url": "https://www.espn.com/espn/story/_/id/50025741/can-patrick-vieira-rescue-senegal-their-post-afcon-final-hellscape",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703391_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Senegal",
+        "Belgium",
+        "Norway"
+      ],
+      "players": [
+        "Sadio Mané",
+        "Nicolas Jackson"
+      ],
+      "score": 198
+    },
     {
       "id": "50019011",
       "headline": "Gianni Infantino says he is 'committed to doing what is right' for FIFA",
@@ -19,7 +59,161 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 177
+      "score": 148
+    },
+    {
+      "id": "50026543",
+      "headline": "Jude Bellingham named England player of the year",
+      "description": "Jude Bellingham has been crowned England men's player of the year for the second time in a row.",
+      "published": "2026-09-25T11:44:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50026543/jude-bellingham-england-player-year",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721626_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Senegal",
+        "England"
+      ],
+      "players": [
+        "Jude Bellingham",
+        "Sadio Mané"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50026252",
+      "headline": "Man United's Joshua Zirkzee replaces injured Brian Brobbey in Netherlands squad",
+      "description": "Manchester United forward Joshua Zirkzee has been called up to replace Brian Brobbey in the Netherlands squad.",
+      "published": "2026-09-25T10:24:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50026252/man-united-joshua-zirkzee-replaces-injured-brian-brobbey-netherlands-squad",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721612_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Senegal",
+        "Netherlands"
+      ],
+      "players": [
+        "Brian Brobbey",
+        "Sadio Mané"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50026253",
+      "headline": "Kai Havertz back at Arsenal for treatment after injury on Germany duty",
+      "description": "Kai Havertz will return to Arsenal for treatment after he sustained a \"muscle sprain\" while on Germany duty.",
+      "published": "2026-09-25T10:21:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50026253/kai-havertz-back-arsenal-treatment-injury-germany-duty",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721613_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Senegal",
+        "Germany"
+      ],
+      "players": [
+        "Kai Havertz",
+        "Sadio Mané"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50026251",
+      "headline": "Barcelona's pursuit of Julián Álvarez is 'in the past' - Deco",
+      "description": "Barcelona sporting director Deco says the club's pursuit of Julián Álvarez is \"in the past\" after it emerged the Spanish champions would have to raise money through player exits to be able to sign the Atlético Madrid striker in January.",
+      "published": "2026-09-25T10:32:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50026251/barcelona-julian-alvarez-atletico-madrid-argentina",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721614_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Senegal"
+      ],
+      "players": [
+        "Sadio Mané"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50026378",
+      "headline": "José Mourinho on 'non-negotiable' rules for Real Madrid to follow: 'Don't betray me'",
+      "description": "José Mourinho has spoken about his managerial philosophy, warning of the importance of trust between players and coach -- and \"non-negotiable\" rules for his squad to follow -- as he looks to build a new winning team at Real Madrid.",
+      "published": "2026-09-25T11:13:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50026378/jose-mourinho-nonnegotiable-rules-real-madrid-follow-dont-betray-me",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721617_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Senegal"
+      ],
+      "players": [
+        "Sadio Mané"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50026098",
+      "headline": "Jürgen Klopp is ready to lead Germany to salvation, but he'll do things his way",
+      "description": "After 858 days, Jürgen Klopp is back in management with Germany. A 1-1 draw with Netherlands showed a bit of what we can expect as he seeks to turn things around.",
+      "published": "2026-09-25T11:04:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50026098/jurgen-klopp-ready-lead-germany-salvation-do-things-way",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721607_2_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Senegal",
+        "Germany",
+        "Netherlands"
+      ],
+      "players": [
+        "Sadio Mané"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50026264",
+      "headline": "Humphrey Ker steps down from Wrexham board",
+      "description": "Humphrey Ker, the man who masterminded the Hollywood takeover at Wrexham, has stepped down from the club's board.",
+      "published": "2026-09-25T10:33:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50026264/humphrey-ker-steps-wrexham-board",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721615_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Senegal"
+      ],
+      "players": [
+        "Sadio Mané"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50026144",
+      "headline": "Lionel Messi's special kit for final Argentina match unveiled",
+      "description": "Lionel Messi will wear a special jersey for his final Argentina match before he retires from international soccer, and it's a shirt worthy of the occasion.",
+      "published": "2026-09-25T09:53:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50026144/lionel-messi-special-kit-final-argentina-match-unveiled",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721590_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Senegal",
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Sadio Mané"
+      ],
+      "score": 129
     },
     {
       "id": "50015084",
@@ -35,26 +229,7 @@
         "USA"
       ],
       "players": [],
-      "score": 148
-    },
-    {
-      "id": "49949073",
-      "headline": "Why are England playing four games in 11 days? Extended international break explained",
-      "description": "In their first return to action since this summer's World Cup, England will be dealing with a jam-packed schedule.",
-      "published": "2026-09-25T06:26:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49949073/england-uefa-nations-league-international-break-euro-2028-thomas-tuchel",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716958_1296x729_16-9.jpg",
-      "byline": "Hannah Ryan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
+      "score": 120
     },
     {
       "id": "50006618",
@@ -79,133 +254,7 @@
         "Julián Álvarez",
         "Franco Mastantuono"
       ],
-      "score": 133
-    },
-    {
-      "id": "50024925",
-      "headline": "OU's Kayla Keefer displays quiet pride in third hat trick of the season",
-      "description": "Keefer reviews her jaw-dropping trio of goals in the win over LSU, but remains humble even with the news of the No. 21 Sooners' record-breaking feat.",
-      "published": "2026-09-25T03:22:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/50024925/ou-kayla-keefer-displays-quiet-pride-third-hat-trick-season",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0924/dm_260924_SEC_WSOC_Interview_OU_Keffer_260924/dm_260924_SEC_WSOC_Interview_OU_Keffer_260924.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50024926",
-      "headline": "UCF vs. BYU: Game Highlights",
-      "description": "UCF vs. BYU: Game Highlights",
-      "published": "2026-09-25T03:19:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/50024926/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0925/e694204b-d498-4773-8858-2bf24d3de71b/e694204b-d498-4773-8858-2bf24d3de71b.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50024899",
-      "headline": "West Virginia vs. Colorado: Game Highlights",
-      "description": "West Virginia vs. Colorado: Game Highlights",
-      "published": "2026-09-25T03:14:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/50024899/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0925/0911badd-3f48-41dd-a56c-7d3980970cb1/0911badd-3f48-41dd-a56c-7d3980970cb1.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50024693",
-      "headline": "Alabama's Madi Munguia recaps seventh shutout in eight games",
-      "description": "Reigning SEC Defensive Player of the Week Munguia says Bama defense is relying on improvements in practice to find success as the Tide improve to 10-1.",
-      "published": "2026-09-25T02:46:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/50024693/alabama-madi-munguia-recaps-seventh-shutout-eight-games",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0924/dm_260924_SEC_WSOC_Interview_Bama_Madi_260924/dm_260924_SEC_WSOC_Interview_Bama_Madi_260924.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50024581",
-      "headline": "Vanderbilt vs. Ole Miss: Game Highlights",
-      "description": "Vanderbilt vs. Ole Miss: Game Highlights",
-      "published": "2026-09-25T02:13:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/50024581/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0925/d4e8121c-7071-4c3e-b40f-5a763b71c58b/d4e8121c-7071-4c3e-b40f-5a763b71c58b.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50024572",
-      "headline": "Alabama vs. Texas A&M: Game Highlights",
-      "description": "Alabama vs. Texas A&M: Game Highlights",
-      "published": "2026-09-25T02:12:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/50024572/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0925/d6d6ab56-15ab-4e77-bc68-990725fad380/d6d6ab56-15ab-4e77-bc68-990725fad380.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50024500",
-      "headline": "Kennedy Husbands praises Auburn teammates for offensive production",
-      "description": "After scoring in Auburn's 2-0 win, Husbands explains why she was able to \"rip some shots\" against Mizzou and calls Kelly Gordon a \"workhouse\" for the squad.",
-      "published": "2026-09-25T01:56:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/50024500/kennedy-husbands-praises-auburn-teammates-offensive-production",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0924/dm_260924_SEC_WSOC_Interview_Aub_Husbands_260924/dm_260924_SEC_WSOC_Interview_Aub_Husbands_260924.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
+      "score": 105
     },
     {
       "id": "50013350",
@@ -225,7 +274,7 @@
       "players": [
         "Bruno Guimarães"
       ],
-      "score": 123
+      "score": 95
     },
     {
       "id": "50012609",
@@ -239,7 +288,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 115
+      "score": 87
     },
     {
       "id": "50004142",
@@ -260,25 +309,7 @@
         "Jonathan David",
         "Julián Álvarez"
       ],
-      "score": 61
-    },
-    {
-      "id": "50004079",
-      "headline": "Gomez: Raphinha is the best player in the world",
-      "description": "Gomez: Raphinha is the best player in the world",
-      "published": "2026-09-22T09:44:51Z",
-      "url": "https://www.espn.com/video/clip/_/id/50004079/raphinha-best-player-world",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_Gomez_Raphinha_is_the_best_player_in_the_world/dm_260922_Gomez_Raphinha_is_the_best_player_in_the_world.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Raphinha"
-      ],
-      "score": 50
+      "score": 32
     },
     {
       "id": "49947673",
@@ -300,23 +331,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 35
-    },
-    {
-      "id": "50003632",
-      "headline": "De la Fuente: The best is yet to come for the Spanish national team",
-      "description": "De la Fuente: The best is yet to come for the Spanish national team",
-      "published": "2026-09-22T07:55:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/50003632/best-yet-come-spanish-national-team",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 34
+      "score": 27
     },
     {
       "id": "49857842",
@@ -428,6 +443,22 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50003632",
+      "headline": "De la Fuente: The best is yet to come for the Spanish national team",
+      "description": "De la Fuente: The best is yet to come for the Spanish national team",
+      "published": "2026-09-22T07:55:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/50003632/best-yet-come-spanish-national-team",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 15
     },
     {
       "id": "47978642",
@@ -682,20 +713,6 @@
         "Chris Richards"
       ],
       "score": 13
-    },
-    {
-      "id": "50001668",
-      "headline": "Infantino open to FIFA governance review, reforms after backlash",
-      "description": "FIFA President Gianni Infantino has indicated he'd be open to an independent review of its governance system and signaled a willingness to consider reforms.",
-      "published": "2026-09-22T01:11:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50001668/infantino-open-fifa-governance-review-reforms-backlash",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 10
     },
     {
       "id": "49974557",
