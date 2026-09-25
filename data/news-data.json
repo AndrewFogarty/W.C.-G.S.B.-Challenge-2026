@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-24T23:22:03.188Z",
+  "updated": "2026-09-25T01:41:26.538Z",
   "counts": {
-    "news": 38,
-    "preview": 5,
-    "offfield": 5
+    "news": 39,
+    "offfield": 6,
+    "preview": 3
   },
   "items": [
     {
@@ -19,7 +19,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 188
+      "score": 184
     },
     {
       "id": "50015084",
@@ -35,7 +35,27 @@
         "USA"
       ],
       "players": [],
-      "score": 159
+      "score": 156
+    },
+    {
+      "id": "50023584",
+      "headline": "Israel's Abu Farchi red-carded for goal celebration",
+      "description": "Israel player Sayed Abu Farchi was sent off for his goal-scoring celebration after equalizing against Austria in the Nations League on Thursday.",
+      "published": "2026-09-24T22:50:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50023584/israel-red-card-sayed-abu-farchi-goal-celebration-austria",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721481_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Austria"
+      ],
+      "players": [
+        "Saied Abu Farchi",
+        "Lionel Messi"
+      ],
+      "score": 141
     },
     {
       "id": "50006618",
@@ -60,46 +80,79 @@
         "Julián Álvarez",
         "Franco Mastantuono"
       ],
-      "score": 144
+      "score": 141
     },
     {
-      "id": "50022176",
-      "headline": "Roberto Mancini tells Italy to forget about World Cup pain",
-      "description": "Roberto Mancini has urged Italy to banish the memory of Bosnia-Herzegovina when they face Belgium in their Nations League clash at the Stadio Olimpico.",
-      "published": "2026-09-24T19:23:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50022176/roberto-mancini-italy-world-cup-qualifying-belgium-nations-league",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721391_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "50024370",
+      "headline": "Notre Dame vs. Duke: Game Highlights",
+      "description": "Notre Dame vs. Duke: Game Highlights",
+      "published": "2026-09-25T01:20:56Z",
+      "url": "https://www.espn.com/video/clip/_/id/50024370/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0925/5659698f-0b6e-4e82-9ecc-cf0abf8813a1/5659698f-0b6e-4e82-9ecc-cf0abf8813a1.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "Belgium",
-        "Bosnia"
+        "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 136
+      "score": 132
     },
     {
-      "id": "50021538",
-      "headline": "Zidane feeling 'immense emotion' ahead of debut as France coach",
-      "description": "Zinedine Zidane was asked if taking charge of his first France game on Friday will feel just as special as his playing debut for Les Bleus more than 30 years ago.",
-      "published": "2026-09-24T18:10:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50021538/zinedine-zidane-france-coach-debut-turkiye-uefa-nations-league",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721357_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "50024358",
+      "headline": "Kentucky vs. South Carolina: Game Highlights",
+      "description": "Kentucky vs. South Carolina: Game Highlights",
+      "published": "2026-09-25T01:17:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/50024358/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0925/cfd79f87-0ab4-42c2-95c2-12b7e0ca430f/cfd79f87-0ab4-42c2-95c2-12b7e0ca430f.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "France"
+        "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 134
+      "score": 132
+    },
+    {
+      "id": "50024071",
+      "headline": "Texas vs. Florida: Game Highlights",
+      "description": "Texas vs. Florida: Game Highlights",
+      "published": "2026-09-25T00:24:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/50024071/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0925/ac0084f1-04f9-4ece-b941-a0b11d3f5283/ac0084f1-04f9-4ece-b941-a0b11d3f5283.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50024031",
+      "headline": "Memphis vs. South Fla.: Game Highlights",
+      "description": "Memphis vs. South Fla.: Game Highlights",
+      "published": "2026-09-25T00:11:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/50024031/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0925/cc06449d-521e-48a5-8fa6-728303beefca/cc06449d-521e-48a5-8fa6-728303beefca.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
     },
     {
       "id": "50013350",
@@ -119,25 +172,69 @@
       "players": [
         "Bruno Guimarães"
       ],
-      "score": 134
+      "score": 131
     },
     {
-      "id": "50022346",
-      "headline": "Scaloni: Messi deserves tribute in final Argentina game",
-      "description": "Scaloni: Messi deserves tribute in final Argentina game",
-      "published": "2026-09-24T19:32:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/50022346/messi-deserves-tribute-final-argentina-game",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0924/dm_260924_COM_SOC_Presser_Scaloni_Messi_deserves_tribute_in_final_Argentina_game_20260924_GLOBAL/dm_260924_COM_SOC_Presser_Scaloni_Messi_deserves_tribute_in_final_Argentina_game_20260924_GLOBAL.jpg",
-      "byline": null,
+      "id": "50023499",
+      "headline": "Kai Havertz, Jamal Musiala 'probably out' as Germany await MRIs",
+      "description": "Jurgen Klopp is waiting on MRI results for both Kai Havertz and Jamal Musiala after his first match in charge of Germany ended in a 1-1 draw with the Netherlands on Thursday.",
+      "published": "2026-09-24T23:45:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50023499/kai-havertz-jamal-musiala-probably-germany-mri",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721476_1024x576_16-9.jpg",
+      "byline": "Tom Hamilton",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "Germany",
+        "Netherlands"
+      ],
+      "players": [
+        "Kai Havertz",
+        "Jamal Musiala",
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50023617",
+      "headline": "Xavi: Netherlands 'better' than Klopp's Germany in draw",
+      "description": "Xavi said he felt his Netherlands side had done enough to deserve a win against Germany and that their second-half performance set the benchmark for what he wants to see heading forward after they drew 1-1 with Jurgen Klopp's team on Thursday.",
+      "published": "2026-09-24T23:02:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50023617/netherlands-better-klopp-germany-draw",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721487_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Netherlands",
+        "Germany"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
+      "score": 129
+    },
+    {
+      "id": "50023383",
+      "headline": "Burley: Portugal are 'blind to Ronaldo issue'",
+      "description": "Burley: Portugal are 'blind to Ronaldo issue'",
+      "published": "2026-09-24T22:07:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/50023383/portugal-blind-ronaldo-issue",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0924/dm_260924_COM_SOC_Analysis_Burley_Portugal_are_blind_to_Ronaldo_issue_20260924_GLOBAL/dm_260924_COM_SOC_Analysis_Burley_Portugal_are_blind_to_Ronaldo_issue_20260924_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Lionel Messi"
+      ],
+      "score": 128
     },
     {
       "id": "50012609",
@@ -151,107 +248,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 126
-    },
-    {
-      "id": "50021476",
-      "headline": "Inter Miami to host second edition of Messi Cup youth tournament",
-      "description": "Lionel Messi has announced the second edition of the Messi Cup, an international youth soccer tournament to be held in South Florida that will include Inter Miami CF, Barcelona and youth teams from 14 other clubs.",
-      "published": "2026-09-24T17:40:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50021476/inter-miami-host-second-edition-messi-cup-youth-tournament",
-      "image": "https://a.espncdn.com/photo/2024/1206/r1424309_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50021450",
-      "headline": "Reyna legacy grows with Carolina named to U.S. U17 WWC roster",
-      "description": "Carolina Reyna, sister of United States men's national team midfielder Gio Reyna, has been named to the United States' U17 Women's World Cup roster.",
-      "published": "2026-09-24T17:37:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50021450/carolina-reyna-usa-u17-world-cup-roster-gio-claudio-danielle",
-      "image": "https://a.espncdn.com/photo/2021/0701/r875096_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Giovanni Reyna",
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50021083",
-      "headline": "Former England forward Andy Carroll says he was sexually assaulted by a man in 2021",
-      "description": "Former England forward Andy Carroll has revealed in his autobiography he was sexually assaulted by a man during 2021.",
-      "published": "2026-09-24T16:44:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50021083/former-england-forward-andy-carroll-says-was-sexually-assaulted-man-2021",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721325_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Andy Carroll",
-        "Lionel Messi"
-      ],
       "score": 123
-    },
-    {
-      "id": "50020985",
-      "headline": "England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'",
-      "description": "Thomas Tuchel has backed Harry Kane to win the Ballon d'Or and believes the ever-improving England star can lead the line at the next World Cup aged 36.",
-      "published": "2026-09-24T16:00:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50020985/englands-thomas-tuchel-backs-star-harry-kane-win-ballon-dor-full-package",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721315_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Harry Kane",
-        "Lionel Messi"
-      ],
-      "score": 122
-    },
-    {
-      "id": "50021131",
-      "headline": "Chris Richards: USMNT success in England reflects our talent",
-      "description": "United States men's national team and Crystal Palace defender Chris Richards praised the latest wave of Americans moving to the Premier League and the Championship, noting that the leagues are tapping \"into our [American] pipeline.\"",
-      "published": "2026-09-24T16:49:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50021131/chris-richards-usmnt-success-england-reflects-talent",
-      "image": null,
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA",
-        "England"
-      ],
-      "players": [
-        "Zavier Gozo",
-        "Chris Richards",
-        "Lionel Messi"
-      ],
-      "score": 117
     },
     {
       "id": "50004142",
@@ -272,7 +269,7 @@
         "Jonathan David",
         "Julián Álvarez"
       ],
-      "score": 72
+      "score": 68
     },
     {
       "id": "50004079",
@@ -290,7 +287,7 @@
       "players": [
         "Raphinha"
       ],
-      "score": 61
+      "score": 57
     },
     {
       "id": "49947673",
@@ -312,7 +309,7 @@
         "Thapelo Maseko",
         "Olwethu Makhanya"
       ],
-      "score": 46
+      "score": 43
     },
     {
       "id": "50003632",
@@ -328,7 +325,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 45
+      "score": 41
     },
     {
       "id": "49857842",
@@ -398,20 +395,6 @@
       "score": 22
     },
     {
-      "id": "50001668",
-      "headline": "Infantino open to FIFA governance review, reforms after backlash",
-      "description": "FIFA President Gianni Infantino has indicated he'd be open to an independent review of its governance system and signaled a willingness to consider reforms.",
-      "published": "2026-09-22T01:11:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50001668/infantino-open-fifa-governance-review-reforms-backlash",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 21
-    },
-    {
       "id": "49941399",
       "headline": "Ecuador hires Marcelo Gallardo through 2030 World Cup",
       "description": "Marcelo Gallardo, one of the most decorated coaches in the history of the Argentine league, has reached an agreement to manage Ecuador ahead of the 2030 FIFA World Cup.",
@@ -454,6 +437,20 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50001668",
+      "headline": "Infantino open to FIFA governance review, reforms after backlash",
+      "description": "FIFA President Gianni Infantino has indicated he'd be open to an independent review of its governance system and signaled a willingness to consider reforms.",
+      "published": "2026-09-22T01:11:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50001668/infantino-open-fifa-governance-review-reforms-backlash",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 17
     },
     {
       "id": "47978642",
