@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-26T12:15:17.281Z",
+  "updated": "2026-09-26T16:31:20.572Z",
   "counts": {
-    "offfield": 7,
-    "news": 38,
-    "preview": 3
+    "offfield": 8,
+    "news": 35,
+    "injury": 1,
+    "preview": 4
   },
   "items": [
     {
@@ -24,7 +25,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 202
+      "score": 195
     },
     {
       "id": "50025741",
@@ -45,7 +46,27 @@
         "Sadio Mané",
         "Nicolas Jackson"
       ],
-      "score": 168
+      "score": 162
+    },
+    {
+      "id": "50033670",
+      "headline": "Zidane: Mbappe's injury is not good news",
+      "description": "Zidane: Mbappe's injury is not good news",
+      "published": "2026-09-26T15:36:00Z",
+      "url": "https://www.espn.com/video/clip/_/id/50033670/mbappe-injury-not-good-news",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/dm_260926_COM_SOC_Presser_Zidane_Mbappes_injury_is_not_good_news_20260926_GLOBAL/dm_260926_COM_SOC_Presser_Zidane_Mbappes_injury_is_not_good_news_20260926_GLOBAL.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA",
+        "France"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Folarin Balogun"
+      ],
+      "score": 146
     },
     {
       "id": "50025809",
@@ -63,13 +84,56 @@
         "England"
       ],
       "players": [],
-      "score": 151
+      "score": 145
+    },
+    {
+      "id": "50032176",
+      "headline": "Republic of Ireland players vote to fulfill Nations League matches against Israel",
+      "description": "The Republic of Ireland's controversial Nations League fixtures against Israel will go ahead after players voted for the games to be played.",
+      "published": "2026-09-26T16:08:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50032176/republic-ireland-players-vote-fulfill-nations-league-matches-israel",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1722018_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50032612",
+      "headline": "South Africa vs. Guinea - Bafana's AFCON qualifying win to kick off Pitso Mosimane return, as it happened",
+      "description": "South Africa kicked off Pitso Mosimane's second stint in charge with a 2-1 win over Guinea at Orlando Amstel Arena on Saturday in 2027 Africa Cup of Nations qualifying.",
+      "published": "2026-09-26T15:06:42Z",
+      "url": "https://www.espn.com/espn/story/_/id/50032612/south-africa-vs-guinea-bafana-afcon-qualifying-win-kick-pitso-mosimane-return-happened",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1721985_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA",
+        "South Africa"
+      ],
+      "players": [
+        "Relebohile Mofokeng",
+        "Ronwen Williams",
+        "Ime Okon",
+        "Olwethu Makhanya",
+        "Thapelo Maseko",
+        "Iqraam Rayners",
+        "Folarin Balogun"
+      ],
+      "score": 140
     },
     {
       "id": "50031688",
       "headline": "Transfer rumors, news: Arsenal, Liverpool eye winger Kevin Schade",
       "description": "Arsenal and Liverpool are upping their interest in Brentford's Kevin Schade, while the rest of Europe chases center backs. Transfer Talk has the latest.",
-      "published": "2026-09-26T08:19:21Z",
+      "published": "2026-09-26T13:19:20Z",
       "url": "https://www.espn.com/soccer/story/_/id/50031688/transfer-rumors-news-arsenal-liverpool-eye-winger-kevin-schade",
       "image": "https://a.espncdn.com/photo/2026/0926/r1721950_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -82,16 +146,16 @@
         "Kevin Schade",
         "Folarin Balogun"
       ],
-      "score": 139
+      "score": 140
     },
     {
-      "id": "50029047",
-      "headline": "Rio Ferdinand leads reaction to Man City's 115 breaches case: 'Another Premier League medal'",
-      "description": "The football world has been reacting to reports that Manchester City are expected to be found guilty of most charges in their legal battle with the Premier League.",
-      "published": "2026-09-26T11:18:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50029047/rio-ferdinand-david-de-gea-football-world-reaction-man-city-115-premier-league-breaches-case",
-      "image": "https://a.espncdn.com/photo/2026/0926/r1721975_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50033305",
+      "headline": "Man City chairman on club's Premier League charges case: 'Nothing has changed'",
+      "description": "Manchester City chairman Khaldoon Al Mubarak has said \"nothing has changed\" regarding the club's ongoing legal battle with the Premier League.",
+      "published": "2026-09-26T16:05:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50033305/man-city-chairman-club-premier-league-charges-case-changed",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1722024_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -103,114 +167,65 @@
       "score": 132
     },
     {
-      "id": "50025521",
-      "headline": "Liverpool reappoint Julian Ward as sporting director",
-      "description": "Liverpool have confirmed the appointment of Julian Ward as their new sporting director.",
-      "published": "2026-09-26T11:04:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50025521/liverpool-reappoint-julian-ward-sporting-director",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720766_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50031879",
-      "headline": "Ex-Man City chairman says financial punishment not 'sufficient' if club guilty of Premier League rule breaches",
-      "description": "Former Manchester City chairman David Bernstein believes \"money is not sufficient\" in terms of a potential punishment for the club being found guilty on virtually all counts of breaching Premier League financial rules.",
-      "published": "2026-09-26T11:00:34Z",
-      "url": "https://www.espn.com/espn/story/_/id/50031879/manchester-city-premier-league-breaches-charges-david-bernstein",
-      "image": "https://a.espncdn.com/photo/2026/0926/r1721971_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50032007",
-      "headline": "Man City charges: Premier League clubs seeking legal advice amid expected guilty verdicts - sources",
-      "description": "Premier League clubs are seeking legal advice amid an expectation that Man City have been found guilty of hundreds of breaches of financial regulations, sources have told ESPN.",
-      "published": "2026-09-26T10:42:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50032007/man-city-charges-115-premier-league-clubs-seeking-legal-advice-amid-expected-guilty-verdicts",
-      "image": "https://a.espncdn.com/photo/2026/0926/r1721962_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50004145",
-      "headline": "Barcelona's start to season is best in Europe's top 5 leagues for almost 100 years",
-      "description": "Barcelona have begun the season on fire, scoring 36 goals in their first eight matches. How does that compare to the best starts for all time? (Spoiler: Very well.)",
-      "published": "2026-09-26T10:36:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50004145/why-barcelona-start-season-laliga-champions-league-best-europe-top-5-leagues-almost-100-years",
-      "image": "https://a.espncdn.com/photo/2026/0926/r1721963_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50012731",
-      "headline": "Who is Liverpool's new sporting director Julian Ward and what does he need to do?",
-      "description": "Julian Ward has been appointed as Liverpool's sporting director and he'll need to decide the futures of Virgil van Dijk and Alisson Becker, as well as targeting new faces.",
-      "published": "2026-09-26T08:28:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50012731/who-liverpool-new-sporting-director-julian-ward-does-need-do",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720766_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 127
-    },
-    {
-      "id": "49971198",
-      "headline": "Bitter pill for Phil: Six eye-opening omissions from England's Nations League squad",
-      "description": "Thomas Tuchel's first England squad since the World Cup features several notable omissions.",
-      "published": "2026-09-26T06:42:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49971198/six-key-omissions-englands-nations-league-squad-phil-foden-max-dowman-harry-maguire",
-      "image": "https://a.espncdn.com/photo/2026/0401/r1637260_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
+      "id": "50032785",
+      "headline": "South Africa showcase strength in depth against Guinea in AFCON qualifying win",
+      "description": "Pitso Mosimane's second stint as South Africa head coach started with a 2-1 win over Guinea in Saturday's 2027 Africa Cup of Nations (AFCON) qualifier at Orlando Stadium.",
+      "published": "2026-09-26T15:52:25Z",
+      "url": "https://www.espn.com/espn/story/_/id/50032785/south-africa-showcase-strength-depth-guinea-afcon-qualifying-win",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1722046_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "USA",
-        "England"
+        "South Africa"
       ],
       "players": [
-        "Phil Foden",
+        "Ronwen Williams",
+        "Relebohile Mofokeng",
+        "Olwethu Makhanya",
+        "Sphephelo Sithole",
+        "Ime Okon",
         "Folarin Balogun"
       ],
-      "score": 125
+      "score": 132
+    },
+    {
+      "id": "50033278",
+      "headline": "Rodri: You cannot take away Manchester City's achievements",
+      "description": "Rodri: You cannot take away Manchester City's achievements",
+      "published": "2026-09-26T14:20:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/50033278/cannot-take-away-manchester-city-achievements",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/dm_260926_COM_SOC_Presser_Rodri_You_cannot_take_away_Manchester_Citys_achievements_20260926_GLOBAL/dm_260926_COM_SOC_Presser_Rodri_You_cannot_take_away_Manchester_Citys_achievements_20260926_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Rodri",
+        "Folarin Balogun"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50032611",
+      "headline": "Man City verdict will leave a stain and stench on a Premier League era",
+      "description": "Manchester City are expected to be found guilty of almost all 115 financial charges against them. It means an era of English soccer is now tarnished with multiple asterisks.",
+      "published": "2026-09-26T14:07:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50032611/man-city-verdict-leave-stain-stench-premier-league-era",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1721984_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 129
     },
     {
       "id": "50019011",
@@ -224,7 +239,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 102
+      "score": 96
     },
     {
       "id": "50015084",
@@ -240,7 +255,7 @@
         "USA"
       ],
       "players": [],
-      "score": 74
+      "score": 67
     },
     {
       "id": "50006618",
@@ -265,7 +280,7 @@
         "Julián Álvarez",
         "Franco Mastantuono"
       ],
-      "score": 59
+      "score": 53
     },
     {
       "id": "50013350",
@@ -285,7 +300,7 @@
       "players": [
         "Bruno Guimarães"
       ],
-      "score": 49
+      "score": 42
     },
     {
       "id": "50012609",
@@ -299,7 +314,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 41
+      "score": 34
     },
     {
       "id": "49857842",
