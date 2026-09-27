@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-27T05:38:54.573Z",
+  "updated": "2026-09-27T10:45:35.846Z",
   "counts": {
-    "news": 39,
-    "offfield": 6,
-    "preview": 3
+    "news": 36,
+    "offfield": 7,
+    "injury": 1,
+    "preview": 4
   },
   "items": [
     {
@@ -21,7 +22,7 @@
         "USA"
       ],
       "players": [],
-      "score": 204
+      "score": 196
     },
     {
       "id": "50028671",
@@ -40,7 +41,98 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 166
+      "score": 158
+    },
+    {
+      "id": "50041047",
+      "headline": "Liverpool's Alexander Isak leaves Sweden camp early with 'minor injury'",
+      "description": "Alexander Isak is returning to Liverpool after sustaining a \"minor injury\" on international duty.",
+      "published": "2026-09-27T10:34:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50041047/liverpool-alexander-isak-leaves-sweden-camp-early-minor-injury",
+      "image": "https://a.espncdn.com/photo/2026/0414/r1643606_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA",
+        "Sweden"
+      ],
+      "players": [
+        "Alexander Isak",
+        "Folarin Balogun"
+      ],
+      "score": 147
+    },
+    {
+      "id": "50040914",
+      "headline": "Transfer rumors, news: Liverpool among clubs interested in Alexander-Arnold",
+      "description": "A group of Premier League clubs are keeping an eye on Trent Alexander-Arnold. Transfer Talk has the latest.",
+      "published": "2026-09-27T10:22:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50040914/transfer-rumors-news-liverpool-clubs-interested-alexander-arnold",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50040709",
+      "headline": "Thomas Tuchel: England have 'a lot to take away' from Spain defeat",
+      "description": "Thomas Tuchel will focus on the positives in the defeat to Spain as England look to learn valuable lessons ahead of a \"demanding\" Nations League challenge in Czechia.",
+      "published": "2026-09-27T09:22:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50040709/thomas-tuchel-england-lot-take-away-spain-defeat",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722352_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA",
+        "England",
+        "Czechia",
+        "Spain"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50029047",
+      "headline": "Rio Ferdinand leads reaction to Man City's 115 breaches case: 'Another Premier League medal'",
+      "description": "The football world has been reacting to reports that Manchester City are expected to be found guilty of most charges in their legal battle with the Premier League.",
+      "published": "2026-09-27T07:43:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50029047/rio-ferdinand-david-de-gea-football-world-reaction-man-city-115-premier-league-breaches-case",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1721975_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50005268",
+      "headline": "If FIFA expands the World Cup again, how would a 64-team tournament work?",
+      "description": "The 2026 World Cup was the first to feature 48 teams, and 2030 could see the field swell to 64, but just how feasible is a tournament that size?",
+      "published": "2026-09-27T10:27:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50005268/if-fifa-expands-world-cup-again-how-64-team-tournament-work",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720423_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 126
     },
     {
       "id": "50025741",
@@ -61,50 +153,7 @@
         "Sadio Mané",
         "Nicolas Jackson"
       ],
-      "score": 132
-    },
-    {
-      "id": "50038748",
-      "headline": "Charlotte FC vs. Chicago Fire FC - Game Highlights",
-      "description": "Watch the Game Highlights from Charlotte FC vs. Chicago Fire FC, 09/26/2026",
-      "published": "2026-09-27T03:20:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/50038748/charlotte-fc-vs-chicago-fire-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/c688d44c-caab-4eba-a2db-271ca5060280/c688d44c-caab-4eba-a2db-271ca5060280.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Tim Ream",
-        "Tyger Smalls",
-        "Johan Gómez",
-        "Folarin Balogun"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50038798",
-      "headline": "Philadelphia Union vs. Orlando City SC - Game Highlights",
-      "description": "Watch the Game Highlights from Philadelphia Union vs. Orlando City SC, 09/26/2026",
-      "published": "2026-09-27T03:13:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/50038798/philadelphia-union-vs-orlando-city-sc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/cf3385c1-c50c-4499-9a6b-bb7a91ece95e/cf3385c1-c50c-4499-9a6b-bb7a91ece95e.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Iván Angulo",
-        "Indiana Vassilev",
-        "Martín Ojeda",
-        "Milan Iloski",
-        "Folarin Balogun"
-      ],
-      "score": 129
+      "score": 125
     },
     {
       "id": "50038845",
@@ -122,7 +171,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 129
+      "score": 121
     },
     {
       "id": "50039243",
@@ -145,7 +194,7 @@
         "Logan Farrington",
         "Folarin Balogun"
       ],
-      "score": 129
+      "score": 121
     },
     {
       "id": "50039350",
@@ -169,7 +218,7 @@
         "Sophia Wilson",
         "Folarin Balogun"
       ],
-      "score": 129
+      "score": 121
     },
     {
       "id": "50038192",
@@ -187,43 +236,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 129
-    },
-    {
-      "id": "50039033",
-      "headline": "Denver vs. San Diego: Game Highlights",
-      "description": "Denver vs. San Diego: Game Highlights",
-      "published": "2026-09-27T02:15:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/50039033/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/2537f554-41db-468a-8bb7-747060d0ec9b/2537f554-41db-468a-8bb7-747060d0ec9b.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50037585",
-      "headline": "Pochettino 'so proud' as 8 teens debut in USMNT rout of Peru",
-      "description": "United States manager Mauricio Pochettino said he was \"so proud\" of the performance turned in by his young side in its 4-1 triumph over Peru, and that the team's play gave him goosebumps at times.",
-      "published": "2026-09-27T01:40:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50037585/pochettino-proud-8-teens-debut-usmnt-rout-peru",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722261_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 127
+      "score": 121
     },
     {
       "id": "50025809",
@@ -241,7 +254,7 @@
         "England"
       ],
       "players": [],
-      "score": 115
+      "score": 107
     },
     {
       "id": "50019011",
@@ -255,7 +268,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 66
+      "score": 59
     },
     {
       "id": "50015084",
@@ -869,22 +882,6 @@
       "teams": [
         "Australia",
         "Egypt"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49732248",
-      "headline": "USMNT's Richards puts World Cup heartbreak behind him",
-      "description": "Playing in this World Cup was Chris Richards' lifelong dream, but its abrupt end gave him little time to grieve before returning to the Premier League.",
-      "published": "2026-09-04T14:42:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49732248/that-lifelong-dream-done-usmnt-chris-richards-puts-world-cup-heartbreak-focus-palace-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707191_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
       ],
       "players": [],
       "score": 10
