@@ -1,11 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-27T19:07:00.917Z",
+  "updated": "2026-09-27T22:08:07.194Z",
   "counts": {
-    "news": 34,
-    "offfield": 8,
-    "preview": 5,
-    "injury": 1
+    "news": 38,
+    "offfield": 7,
+    "preview": 3
   },
   "items": [
     {
@@ -20,7 +19,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 194
+      "score": 190
     },
     {
       "id": "50038230",
@@ -36,16 +35,16 @@
         "USA"
       ],
       "players": [],
-      "score": 173
+      "score": 169
     },
     {
-      "id": "50040914",
-      "headline": "Transfer rumors, news: Liverpool among clubs interested in Alexander-Arnold",
-      "description": "A group of Premier League clubs are keeping an eye on Trent Alexander-Arnold. Transfer Talk has the latest.",
-      "published": "2026-09-27T14:02:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50040914/transfer-rumors-news-liverpool-clubs-interested-alexander-arnold",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50045975",
+      "headline": "Republic of Ireland beat Israel in controversial fixture",
+      "description": "Jack Moylan scored and added an assist as the Republic of Ireland beat Israel 3-0 in their controversial Nations League fixture in Debrecen, Hungary.",
+      "published": "2026-09-27T21:09:21Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401861072",
+      "image": null,
+      "byline": "PA",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
@@ -54,25 +53,102 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 137
+      "score": 138
     },
     {
-      "id": "50042792",
-      "headline": "Gomez: Man City must face a historic punishment",
-      "description": "Gomez: Man City must face a historic punishment",
-      "published": "2026-09-27T15:19:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/50042792/man-city-face-historic-punishment",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_ANALYSIS_Gomez_Man_City_must_face_a_historic_punishment_2026_9_27/dm_260927_COM_SOC_ANALYSIS_Gomez_Man_City_must_face_a_historic_punishment_2026_9_27.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "50023359",
+      "headline": "Haaland scores but Ronaldo-less Portugal top Norway",
+      "description": "Erling Haaland's record-extending 22nd UEFA Nations League goal wasn't enough to prevent Norway from going down to a 2-1 home loss to a Portugal side missing its star man, Cristiano Ronaldo.",
+      "published": "2026-09-27T21:54:25Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401861073",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722614_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Norway",
+        "Portugal"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Cristiano Ronaldo",
+        "Folarin Balogun"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50045283",
+      "headline": "Republic of Ireland beat Israel after skipping pregame handshakes",
+      "description": "The Republic of Ireland wore black armbands and skipped the typical prematch handshakes before securing a dominant 3-0 victory over Israel in their contentious UEFA Nations League match Sunday.",
+      "published": "2026-09-27T21:52:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50045283/republic-ireland-israel-handshakes-nations-league-anthem-armbands",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722602_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "USA"
       ],
       "players": [
         "Folarin Balogun"
       ],
-      "score": 136
+      "score": 133
+    },
+    {
+      "id": "50023348",
+      "headline": "Greece stun Germany in Nations League to hand Jürgen Klopp first defeat at the helm",
+      "description": "Jürgen Klopp's homecoming fell flat as his first home match in charge of Germany ended with a surprise 1-0 defeat by Greece in Augsburg.",
+      "published": "2026-09-27T21:45:44Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401861074",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722600_594x334_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Germany"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50046011",
+      "headline": "Craig Bellamy on Wales defeat: 'Really hurting' but team will 'improve'",
+      "description": "Craig Bellamy said he was \"really hurting\" after Wales suffered a second successive Nations League defeat in Denmark.",
+      "published": "2026-09-27T21:29:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50046011/craig-bellamy-wales-defeat-really-hurting-team-improve",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722627_594x334_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50045564",
+      "headline": "Ava McDonald describes Texas' effort and energy after win vs. Ole Miss",
+      "description": "McDonald reflects on her goal for the Longhorns as she describes the energy level and momentum they had on the field in order to defeat the Rebels.",
+      "published": "2026-09-27T20:40:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/50045564/ava-mcdonald-describes-texas-effort-energy-win-vs-ole-miss",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_SEC_WSOC_Interview_Texas_soccer_interview_260927/dm_260927_SEC_WSOC_Interview_Texas_soccer_interview_260927.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 131
     },
     {
       "id": "50028671",
@@ -91,107 +167,45 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 136
+      "score": 131
     },
     {
-      "id": "50006976",
-      "headline": "JJ Gabriel and the 'nightmare' battle for Premier League academy talent",
-      "description": "In the fiercely competitive race for the best Premier League academy players, JJ Gabriel won't be the last young talent at the center of a transfer tug-of-war.",
-      "published": "2026-09-27T11:33:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50006976/jj-gabriel-nightmare-battle-premier-league-academy-talent",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720886_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "JJ Gabriel",
-        "Folarin Balogun"
-      ],
-      "score": 134
-    },
-    {
-      "id": "50041047",
-      "headline": "Liverpool's Alexander Isak leaves Sweden camp early with 'minor injury'",
-      "description": "Alexander Isak is returning to Liverpool after sustaining a \"minor injury\" on international duty.",
-      "published": "2026-09-27T10:34:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50041047/liverpool-alexander-isak-leaves-sweden-camp-early-minor-injury",
-      "image": "https://a.espncdn.com/photo/2026/0414/r1643606_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "USA",
-        "Sweden"
-      ],
-      "players": [
-        "Alexander Isak",
-        "Folarin Balogun"
-      ],
-      "score": 134
-    },
-    {
-      "id": "50042791",
-      "headline": "Onuoha: Spain deserved to beat England",
-      "description": "Onuoha: Spain deserved to beat England",
-      "published": "2026-09-27T15:18:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/50042791/spain-deserved-beat-england",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_ANALYSIS_Onuoha_Spain_deserved_to_beat_England_2026_9_27/dm_260927_COM_SOC_ANALYSIS_Onuoha_Spain_deserved_to_beat_England_2026_9_27.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "England",
-        "Spain"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50040709",
-      "headline": "Thomas Tuchel: England have 'a lot to take away' from Spain defeat",
-      "description": "Thomas Tuchel will focus on the positives in the defeat to Spain as England look to learn valuable lessons ahead of a \"demanding\" Nations League challenge in Czechia.",
-      "published": "2026-09-27T09:22:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50040709/thomas-tuchel-england-lot-take-away-spain-defeat",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722352_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA",
-        "England",
-        "Czechia",
-        "Spain"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 127
-    },
-    {
-      "id": "46751020",
-      "headline": "Cristiano Ronaldo goal tracker: Road to 1,000 career goals",
-      "description": "With Cristiano Ronaldo on the quest to score 1,000 goals, ESPN provides goal-by-goal analysis of the Portuguese superstar's quest.",
-      "published": "2026-09-27T12:13:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678599_1296x729_16-9.jpg",
+      "id": "50044627",
+      "headline": "Spain win U20 Women's World Cup to continue global dominance",
+      "description": "Spain added another global title to its collection after beating defending champions North Korea to lift the FIFA U20 Women's World Cup in Poland on Sunday.",
+      "published": "2026-09-27T20:20:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50044627/spain-fifa-u20-womens-world-cup-final-north-korea",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722564_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "USA",
-        "Portugal"
+        "Spain",
+        "Korea Republic"
       ],
       "players": [
-        "Cristiano Ronaldo",
         "Folarin Balogun"
       ],
-      "score": 123
+      "score": 130
+    },
+    {
+      "id": "50045041",
+      "headline": "Missouri vs. South Carolina: Game Highlights",
+      "description": "Missouri vs. South Carolina: Game Highlights",
+      "published": "2026-09-27T20:11:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/50045041/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/740eac07-c04b-4fd4-aabd-737a24471f72/740eac07-c04b-4fd4-aabd-737a24471f72.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 130
     },
     {
       "id": "50025741",
@@ -212,7 +226,7 @@
         "Sadio Mané",
         "Nicolas Jackson"
       ],
-      "score": 102
+      "score": 97
     },
     {
       "id": "50025809",
@@ -230,7 +244,7 @@
         "England"
       ],
       "players": [],
-      "score": 85
+      "score": 80
     },
     {
       "id": "50019011",
@@ -858,22 +872,6 @@
       "teams": [
         "Australia",
         "Egypt"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49732248",
-      "headline": "USMNT's Richards puts World Cup heartbreak behind him",
-      "description": "Playing in this World Cup was Chris Richards' lifelong dream, but its abrupt end gave him little time to grieve before returning to the Premier League.",
-      "published": "2026-09-04T14:42:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49732248/that-lifelong-dream-done-usmnt-chris-richards-puts-world-cup-heartbreak-focus-palace-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707191_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
       ],
       "players": [],
       "score": 10
