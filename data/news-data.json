@@ -1,12 +1,70 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-28T05:56:58.830Z",
+  "updated": "2026-09-28T13:29:09.779Z",
   "counts": {
-    "news": 38,
-    "preview": 4,
-    "offfield": 6
+    "celebration": 1,
+    "news": 36,
+    "injury": 2,
+    "offfield": 6,
+    "preview": 3
   },
   "items": [
+    {
+      "id": "50050816",
+      "headline": "Vozinha struggling with World Cup fame: 'I'd choose the life I had before'",
+      "description": "Viral World Cup goalkeeper Vozinha has revealed he is struggling with his newfound fame, saying that he would like to go back to a time before he was so well-known.",
+      "published": "2026-09-28T09:21:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50050816/vozinha-world-cup-fame-struggling-cape-verde",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722870_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 214
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-09-28T07:57:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722794_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 195
+    },
+    {
+      "id": "50051618",
+      "headline": "Cody Gakpo returns to Liverpool after injury for Netherlands",
+      "description": "Netherlands and Liverpool forward Cody Gakpo is unavailable for the remainder of the international break, the Dutch FA have confirmed.",
+      "published": "2026-09-28T13:28:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50051618/netherlands-cody-gakpo-nations-league-liverpool",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722926_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Cabo Verde",
+        "Netherlands"
+      ],
+      "players": [
+        "Cody Gakpo",
+        "Vozinha"
+      ],
+      "score": 147
+    },
     {
       "id": "50005268",
       "headline": "If FIFA expands the World Cup again, how would a 64-team tournament work?",
@@ -19,7 +77,128 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 178
+      "score": 147
+    },
+    {
+      "id": "50051104",
+      "headline": "Martin Ødegaard lambasts Bernardo Silva kick: 'This has no place on a football pitch'",
+      "description": "Norway captain Martin Ødegaard was left furious by a late kick on his ankle by Portugal's Bernardo Silva in stoppage time of a Nations League game on Sunday.",
+      "published": "2026-09-28T12:22:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50051104/martin-odegaard-bernardo-silva-norway-portugal-arsenal-man-city-real-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722885_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Cabo Verde",
+        "Norway",
+        "Portugal"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50051298",
+      "headline": "João Félix: I want to assist Cristiano Ronaldo's 1000th goal",
+      "description": "João Félix has revealed his desire to assist Cristiano Ronaldo's 1000th career goal.",
+      "published": "2026-09-28T13:00:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50051298/joao-felix-cristiano-ronaldo-assist-1000-goal-al-nassr-portugal",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722898_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "João Félix",
+        "Vozinha"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50050971",
+      "headline": "NWSL expansion club Atlanta City FC unveils red and Georgia peach branding",
+      "description": "Atlanta City FC will be the name of Atlanta's forthcoming NWSL expansion team that will begin play in 2028.",
+      "published": "2026-09-28T12:00:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50050971/nwsl-expansion-club-atlanta-city-fc-unveils-red-georgia-peach-branding",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722881_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50050997",
+      "headline": "Portugal boss explains why Cristiano Ronaldo didn't come off the bench against Norway",
+      "description": "Portugal head coach Jorge Jesus has defended his decision not to bring on Cristiano Ronaldo during the nation's 2-1 victory over Norway, saying he \"needed a player with different characteristics.\"",
+      "published": "2026-09-28T10:42:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50050997/cristiano-ronaldo-portugal-jorge-jesus-benched-decision-norway",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722883_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "Portugal",
+        "Norway"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Vozinha"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50050926",
+      "headline": "Egypt rest Mohamed Salah for South Sudan qualifier amid artificial pitch concerns",
+      "description": "Mohamed Salah will sit out Egypt's Africa Cup of Nations qualifier against South Sudan in Juba on Tuesday due to concerns about the artificial pitch, according to a statement from the Egyptian Football Association.",
+      "published": "2026-09-28T10:12:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50050926/mohamed-salah-egypt-afcon-qualifying-south-sudan-trabzonspor",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722877_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "Egypt"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Vozinha"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50050888",
+      "headline": "Lamine Yamal reveals what he said to Lionel Messi after World Cup final",
+      "description": "Spain and Barcelona forward Lamine Yamal has said that he thanked Lionel Messi for everything he gave to football when the two embraced at the end of the 2026 World Cup final.",
+      "published": "2026-09-28T09:32:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50050888/lamine-yamal-lionel-messi-barcelona-spain-argentina-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722868_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "Spain"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Lionel Messi",
+        "Vozinha"
+      ],
+      "score": 127
     },
     {
       "id": "50038230",
@@ -35,167 +214,7 @@
         "USA"
       ],
       "players": [],
-      "score": 157
-    },
-    {
-      "id": "50048002",
-      "headline": "Republic of Ireland coach: 'Nobody questioning' Bazunu's refusal to face Israel",
-      "description": "Republic of Ireland manager Heimir Hallgrímsson insisted \"nobody was questioning\" Gavin Bazunu's refusal to play against Israel.",
-      "published": "2026-09-28T00:06:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50048002/republic-ireland-israel-heimir-hallgrimsson-gavin-bazunu",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722752_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Gavin Bazunu",
-        "Folarin Balogun"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50050081",
-      "headline": "Popovic challenges Socceroos to back up vs. Brazil with Asian Cup in mind",
-      "description": "Brazil are expected to raise their intensity in Tuesday's return fixture in Brisbane. With his eyes firmly set on next January's Asian Cup, Tony Popovic is likewise challenging the Socceroos to lift their level if they want to claim a famous victory.",
-      "published": "2026-09-28T05:15:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50050081/tony-popovic-challenges-socceroos-back-vs-brazil-asian-cup-mind",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722849_1296x518_5-2.jpg",
-      "byline": "200321 COLUMNIST Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Brazil",
-        "Australia"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50049197",
-      "headline": "Struggling LAFC fires 1st-year coach Marc Dos Santos",
-      "description": "LAFC fired head coach Marc Dos Santos on Sunday night, late in his disappointing first season in charge.",
-      "published": "2026-09-28T01:59:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50049197/lafc-fires-coach-marc-dos-santos",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722808_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50048622",
-      "headline": "Columbus stuns Miami late after Messi's free-kick golazo",
-      "description": "Jamal Thiaré scored in the eighth minute of second-half stoppage time to give the Columbus Crew a stunning 2-1 win over MLS Cup holders Inter Miami on Sunday.",
-      "published": "2026-09-28T01:55:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50048622/lionel-messi-free-kick-goal-inter-miami-columbus-crew",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722803_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Folarin Balogun"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50049058",
-      "headline": "Columbus Crew SC vs. Inter Miami CF - Game Highlights",
-      "description": "Watch the Game Highlights from Columbus Crew SC vs. Inter Miami CF, 09/27/2026",
-      "published": "2026-09-28T01:29:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/50049058/columbus-crew-sc-vs-inter-miami-cf-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0928/491a9087-fd2f-4393-b3bc-91fcce0ddd48/491a9087-fd2f-4393-b3bc-91fcce0ddd48.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Santiago Morales",
-        "Lionel Messi",
-        "Anass Zaroury",
-        "Josef Martínez",
-        "Jamal Thiaré",
-        "Brais Méndez",
-        "Folarin Balogun"
-      ],
       "score": 126
-    },
-    {
-      "id": "50048978",
-      "headline": "James Madison vs. South Carolina: Game Highlights",
-      "description": "James Madison vs. South Carolina: Game Highlights",
-      "published": "2026-09-28T01:20:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/50048978/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0928/e9ec65c8-1fc3-41a4-8eab-2d71a6c31a95/e9ec65c8-1fc3-41a4-8eab-2d71a6c31a95.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50048934",
-      "headline": "Utah Royals vs. North Carolina Courage - Game Highlights",
-      "description": "Watch the Game Highlights from Utah Royals vs. North Carolina Courage, 09/28/2026",
-      "published": "2026-09-28T01:16:31Z",
-      "url": "https://www.espn.com/video/clip/_/id/50048934/utah-royals-vs-north-carolina-courage-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0928/22af8792-e1a2-428e-b69f-898cffb7d086/22af8792-e1a2-428e-b69f-898cffb7d086.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Ashley Sanchez",
-        "Cece Delzer",
-        "Gianna Paul",
-        "Cloé Lacasse",
-        "Folarin Balogun"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50048298",
-      "headline": "Klopp: Germany's 1st ever loss to Greece 'part of the process'",
-      "description": "Jürgen Klopp said his first defeat as Germany boss was \"part of the process\" as he looks to rejuvenate the four-time World Cup winners.",
-      "published": "2026-09-28T00:46:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50048298/jurgen-klopp-germany-greece-loss-uefa-nations-league",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722772_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Germany"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 125
     },
     {
       "id": "50028671",
@@ -214,7 +233,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 119
+      "score": 88
     },
     {
       "id": "50025741",
@@ -235,7 +254,7 @@
         "Sadio Mané",
         "Nicolas Jackson"
       ],
-      "score": 86
+      "score": 54
     },
     {
       "id": "50025809",
@@ -253,37 +272,7 @@
         "England"
       ],
       "players": [],
-      "score": 68
-    },
-    {
-      "id": "50019011",
-      "headline": "Gianni Infantino says he is 'committed to doing what is right' for FIFA",
-      "description": "FIFA president Gianni Infantino says he has \"never been more determined and committed\" to doing \"what is right for the game\" after pledging to conduct an independent review of the organisation's governance.",
-      "published": "2026-09-24T11:12:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50019011/gianni-infantino-says-committed-doing-right-fifa",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 36
-    },
-    {
-      "id": "50015084",
-      "headline": "Gianni Infantino accused of 'woefully inadequate' co-operation with probe into Donald Trump links",
-      "description": "FIFA president Gianni Infantino has been accused of a \"woefully inadequate\" level of co-operation over a probe by democratic members of the United States House Judiciary Committee into his relationship with Donald Trump.",
-      "published": "2026-09-23T20:07:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50015084/gianni-infantino-donald-trump-fifa-world-cup-uefa",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 30
+      "score": 37
     },
     {
       "id": "49857842",
@@ -332,31 +321,6 @@
         "Mohamed Toure"
       ],
       "score": 25
-    },
-    {
-      "id": "50006618",
-      "headline": "After Messi and Neymar, who will be next No. 10s for Brazil, Argentina?",
-      "description": "With Lionel Messi and Neymar set to leave the Argentina and Brazil teams, respectively, who will step up to wear two of South America's most historic shirts?",
-      "published": "2026-09-23T14:52:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50006618/after-lionel-messi-neymar-brazil-argentinas-next-number-10",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720466_1296x729_16-9.jpg",
-      "byline": "Tim Vickery",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Brazil"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Neymar",
-        "João Pedro",
-        "Raphinha",
-        "Nico Paz",
-        "Julián Álvarez",
-        "Franco Mastantuono"
-      ],
-      "score": 23
     },
     {
       "id": "49947673",
@@ -458,6 +422,45 @@
       "score": 18
     },
     {
+      "id": "50019011",
+      "headline": "Gianni Infantino says he is 'committed to doing what is right' for FIFA",
+      "description": "FIFA president Gianni Infantino says he has \"never been more determined and committed\" to doing \"what is right for the game\" after pledging to conduct an independent review of the organisation's governance.",
+      "published": "2026-09-24T11:12:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50019011/gianni-infantino-says-committed-doing-right-fifa",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
+    },
+    {
+      "id": "50006618",
+      "headline": "After Messi and Neymar, who will be next No. 10s for Brazil, Argentina?",
+      "description": "With Lionel Messi and Neymar set to leave the Argentina and Brazil teams, respectively, who will step up to wear two of South America's most historic shirts?",
+      "published": "2026-09-23T14:52:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50006618/after-lionel-messi-neymar-brazil-argentinas-next-number-10",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720466_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Brazil"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Neymar",
+        "João Pedro",
+        "Raphinha",
+        "Nico Paz",
+        "Julián Álvarez",
+        "Franco Mastantuono"
+      ],
+      "score": 13
+    },
+    {
       "id": "50013350",
       "headline": "Guimaraes: World Cup penalty miss vs. Norway is a scar that still hurts",
       "description": "Guimaraes: World Cup penalty miss vs. Norway is a scar that still hurts",
@@ -495,24 +498,6 @@
         "Alexander Sørloth",
         "Jonathan David",
         "Julián Álvarez"
-      ],
-      "score": 13
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-09-21T02:08:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
       ],
       "score": 13
     },
@@ -751,6 +736,22 @@
         "Chris Richards"
       ],
       "score": 13
+    },
+    {
+      "id": "50015084",
+      "headline": "Gianni Infantino accused of 'woefully inadequate' co-operation with probe into Donald Trump links",
+      "description": "FIFA president Gianni Infantino has been accused of a \"woefully inadequate\" level of co-operation over a probe by democratic members of the United States House Judiciary Committee into his relationship with Donald Trump.",
+      "published": "2026-09-23T20:07:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50015084/gianni-infantino-donald-trump-fifa-world-cup-uefa",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
     },
     {
       "id": "50003632",
