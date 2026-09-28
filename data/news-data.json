@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-27T22:08:07.194Z",
+  "updated": "2026-09-28T00:44:21.719Z",
   "counts": {
-    "news": 38,
-    "offfield": 7,
-    "preview": 3
+    "news": 37,
+    "injury": 1,
+    "preview": 4,
+    "offfield": 6
   },
   "items": [
     {
@@ -19,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 190
+      "score": 186
     },
     {
       "id": "50038230",
@@ -35,53 +36,52 @@
         "USA"
       ],
       "players": [],
-      "score": 169
+      "score": 165
     },
     {
-      "id": "50045975",
-      "headline": "Republic of Ireland beat Israel in controversial fixture",
-      "description": "Jack Moylan scored and added an assist as the Republic of Ireland beat Israel 3-0 in their controversial Nations League fixture in Debrecen, Hungary.",
-      "published": "2026-09-27T21:09:21Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401861072",
-      "image": null,
+      "id": "50046932",
+      "headline": "Liverpool, Netherlands await news on Cody Gakpo ankle injury",
+      "description": "The Netherlands and Liverpool must wait to discover the extent of an ankle injury suffered by forward Cody Gakpo on Sunday.",
+      "published": "2026-09-27T22:48:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50046932/cody-gakpo-injury-ankle-liverpool-netherlands-serbia",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722694_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "USA",
+        "Netherlands"
+      ],
+      "players": [
+        "Cody Gakpo",
+        "Folarin Balogun"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50048002",
+      "headline": "Republic of Ireland coach: 'Nobody questioning' Bazunu's refusal to face Israel",
+      "description": "Republic of Ireland manager Heimir Hallgrímsson insisted \"nobody was questioning\" Gavin Bazunu's refusal to play against Israel.",
+      "published": "2026-09-28T00:06:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50048002/republic-ireland-israel-heimir-hallgrimsson-gavin-bazunu",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722752_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "USA"
       ],
       "players": [
+        "Gavin Bazunu",
         "Folarin Balogun"
       ],
-      "score": 138
-    },
-    {
-      "id": "50023359",
-      "headline": "Haaland scores but Ronaldo-less Portugal top Norway",
-      "description": "Erling Haaland's record-extending 22nd UEFA Nations League goal wasn't enough to prevent Norway from going down to a 2-1 home loss to a Portugal side missing its star man, Cristiano Ronaldo.",
-      "published": "2026-09-27T21:54:25Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401861073",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722614_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Norway",
-        "Portugal"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Cristiano Ronaldo",
-        "Folarin Balogun"
-      ],
-      "score": 133
+      "score": 141
     },
     {
       "id": "50045283",
       "headline": "Republic of Ireland beat Israel after skipping pregame handshakes",
-      "description": "The Republic of Ireland wore black armbands and skipped the typical prematch handshakes before securing a dominant 3-0 victory over Israel in their contentious UEFA Nations League match Sunday.",
-      "published": "2026-09-27T21:52:36Z",
+      "description": "The Republic of Ireland wore black armbands and skipped the typical prematch handshakes before securing a 3-0 victory over Israel in their contentious UEFA Nations League match Sunday.",
+      "published": "2026-09-28T00:00:25Z",
       "url": "https://www.espn.com/soccer/story/_/id/50045283/republic-ireland-israel-handshakes-nations-league-anthem-armbands",
       "image": "https://a.espncdn.com/photo/2026/0927/r1722602_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
@@ -93,53 +93,16 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 133
-    },
-    {
-      "id": "50023348",
-      "headline": "Greece stun Germany in Nations League to hand Jürgen Klopp first defeat at the helm",
-      "description": "Jürgen Klopp's homecoming fell flat as his first home match in charge of Germany ended with a surprise 1-0 defeat by Greece in Augsburg.",
-      "published": "2026-09-27T21:45:44Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401861074",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722600_594x334_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Germany"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
       "score": 132
     },
     {
-      "id": "50046011",
-      "headline": "Craig Bellamy on Wales defeat: 'Really hurting' but team will 'improve'",
-      "description": "Craig Bellamy said he was \"really hurting\" after Wales suffered a second successive Nations League defeat in Denmark.",
-      "published": "2026-09-27T21:29:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50046011/craig-bellamy-wales-defeat-really-hurting-team-improve",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722627_594x334_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50045564",
-      "headline": "Ava McDonald describes Texas' effort and energy after win vs. Ole Miss",
-      "description": "McDonald reflects on her goal for the Longhorns as she describes the energy level and momentum they had on the field in order to defeat the Rebels.",
-      "published": "2026-09-27T20:40:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/50045564/ava-mcdonald-describes-texas-effort-energy-win-vs-ole-miss",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_SEC_WSOC_Interview_Texas_soccer_interview_260927/dm_260927_SEC_WSOC_Interview_Texas_soccer_interview_260927.jpg",
-      "byline": null,
+      "id": "50047455",
+      "headline": "'Not my concern': Ex-Man City boss Mancini brushes off guilty reports",
+      "description": "Roberto Mancini brushed off reports that his former club Manchester City have been found guilty by the Premier League of financial breaches allegedly committed during his time in charge of the club.",
+      "published": "2026-09-27T23:41:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50047455/manchester-city-charges-guilty-premier-league-roberto-mancini",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722731_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -149,6 +112,87 @@
         "Folarin Balogun"
       ],
       "score": 131
+    },
+    {
+      "id": "50047605",
+      "headline": "Bay FC vs. Orlando Pride - Game Highlights",
+      "description": "Watch the Game Highlights from Bay FC vs. Orlando Pride, 09/28/2026",
+      "published": "2026-09-27T23:12:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/50047605/bay-fc-vs-orlando-pride-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/aaec0049-4422-412c-9baa-176b57f5d4db/aaec0049-4422-412c-9baa-176b57f5d4db.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Racheal Kundananji",
+        "Karlie Lema",
+        "Lizbeth Ovalle",
+        "Haley McCutcheon",
+        "Jenna Nighswonger",
+        "Folarin Balogun"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50046988",
+      "headline": "Figo backs Ronaldo to continue to play for Portugal",
+      "description": "Figo backs Ronaldo to continue to play for Portugal",
+      "published": "2026-09-27T22:38:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/50046988/figo-backs-ronaldo-continue-play-portugal",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_Analysis_Figo_backs_Ronaldo_to_continue_to_play_for_Portugal__GLOBAL_2026-09-27/dm_260927_COM_SOC_Analysis_Figo_backs_Ronaldo_to_continue_to_play_for_Portugal__GLOBAL_2026-09-27.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Norway",
+        "Portugal"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50046931",
+      "headline": "Burley: The Premier League's image has been damaged after Man City's charges",
+      "description": "Burley: The Premier League's image has been damaged after Man City's charges",
+      "published": "2026-09-27T22:38:14Z",
+      "url": "https://www.espn.com/video/clip/_/id/50046931/premier-league-image-damaged-man-city-charges",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_Analysis_Burley3A_The_Premier_Le1117/dm_260927_COM_SOC_Analysis_Burley3A_The_Premier_Le1117.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50046925",
+      "headline": "Were Haaland's Norway unlucky to beat Portugal?",
+      "description": "Were Haaland's Norway unlucky to beat Portugal?",
+      "published": "2026-09-27T22:36:26Z",
+      "url": "https://www.espn.com/video/clip/_/id/50046925/were-haaland-norway-unlucky-beat-portugal",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_Analysis_Were_HaalandE28099s_Norway_unlucky_to_beat_Portugal3F_GLOBAL_2026-09-27/dm_260927_COM_SOC_Analysis_Were_HaalandE28099s_Norway_unlucky_to_beat_Portugal3F_GLOBAL_2026-09-27.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Norway",
+        "Portugal"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 130
     },
     {
       "id": "50028671",
@@ -167,45 +211,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 131
-    },
-    {
-      "id": "50044627",
-      "headline": "Spain win U20 Women's World Cup to continue global dominance",
-      "description": "Spain added another global title to its collection after beating defending champions North Korea to lift the FIFA U20 Women's World Cup in Poland on Sunday.",
-      "published": "2026-09-27T20:20:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50044627/spain-fifa-u20-womens-world-cup-final-north-korea",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722564_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Spain",
-        "Korea Republic"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50045041",
-      "headline": "Missouri vs. South Carolina: Game Highlights",
-      "description": "Missouri vs. South Carolina: Game Highlights",
-      "published": "2026-09-27T20:11:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/50045041/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/740eac07-c04b-4fd4-aabd-737a24471f72/740eac07-c04b-4fd4-aabd-737a24471f72.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 130
+      "score": 127
     },
     {
       "id": "50025741",
@@ -226,7 +232,7 @@
         "Sadio Mané",
         "Nicolas Jackson"
       ],
-      "score": 97
+      "score": 94
     },
     {
       "id": "50025809",
@@ -244,7 +250,7 @@
         "England"
       ],
       "players": [],
-      "score": 80
+      "score": 76
     },
     {
       "id": "50019011",
