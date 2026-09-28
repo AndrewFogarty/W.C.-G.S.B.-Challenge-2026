@@ -1,14 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-28T13:29:09.779Z",
+  "updated": "2026-09-28T20:13:11.052Z",
   "counts": {
+    "news": 34,
     "celebration": 1,
-    "news": 36,
-    "injury": 2,
-    "offfield": 6,
-    "preview": 3
+    "offfield": 8,
+    "injury": 1,
+    "preview": 4
   },
   "items": [
+    {
+      "id": "50045992",
+      "headline": "Will anyone stop Infantino? FIFA president is confident U20 World Cup cameo says otherwise",
+      "description": "Under fire from UEFA, Infantino is back to business as usual and inching closer to reelection as FIFA president.",
+      "published": "2026-09-28T16:59:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50045992/gianni-infantino-fifa-president-scandal-u20-world-cup-uefa-victor-montigliani",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722644_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 201
+    },
     {
       "id": "50050816",
       "headline": "Vozinha struggling with World Cup fame: 'I'd choose the life I had before'",
@@ -25,7 +39,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 214
+      "score": 194
     },
     {
       "id": "47978642",
@@ -43,27 +57,107 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 195
+      "score": 175
     },
     {
-      "id": "50051618",
-      "headline": "Cody Gakpo returns to Liverpool after injury for Netherlands",
-      "description": "Netherlands and Liverpool forward Cody Gakpo is unavailable for the remainder of the international break, the Dutch FA have confirmed.",
-      "published": "2026-09-28T13:28:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50051618/netherlands-cody-gakpo-nations-league-liverpool",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722926_1296x729_16-9.jpg",
+      "id": "50050442",
+      "headline": "Transfer rumors, news: Madrid, Barcelona look to Haaland, Sullivan amid Man City uncertainty",
+      "description": "Real Madrid and Barcelona are looking at a host of players due to uncertainty created by the case surrounding Man City's financial rule breaches. Transfer Talk has the latest.",
+      "published": "2026-09-28T19:52:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50050442/transfer-rumors-news-real-madrid-barcelona-look-haaland-sullivan-amid-man-city-uncertainty",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719394_1296x729_16-9.jpg",
       "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Vozinha"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50051711",
+      "headline": "Patrick Dorgu returns to Man United after suspected hamstring injury with Denmark",
+      "description": "Patrick Dorgu has returned to Manchester United for assessment after suffering an injury on international duty with Denmark.",
+      "published": "2026-09-28T13:59:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50051711/patrick-dorgu-man-united-hamstring-injury-denmark",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722854_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
       "kind": "injury",
       "kindLabel": "Injury",
       "teams": [
-        "Cabo Verde",
-        "Netherlands"
+        "Cabo Verde"
       ],
       "players": [
-        "Cody Gakpo",
+        "Patrick Dorgu",
+        "Bruno Fernandes",
         "Vozinha"
       ],
-      "score": 147
+      "score": 138
+    },
+    {
+      "id": "50052149",
+      "headline": "FAI chief defends handling of controversial Ireland fixtures vs. Israel",
+      "description": "Football Association of Ireland president Paul Cooke has defended the organisation's approach to the fallout from their controversial Nations League clashes with Israel and felt they \"handled the week quite well.\"",
+      "published": "2026-09-28T15:00:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50052149/ireland-israel-fai-chief-defends-controversial-fixtures",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722966_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Gavin Bazunu",
+        "Vozinha"
+      ],
+      "score": 137
+    },
+    {
+      "id": "50053883",
+      "headline": "'England were the biggest dangers to ourselves' against Spain - Thomas Tuchel",
+      "description": "Thomas Tuchel has said England \"were the biggest danger to ourselves\" against Spain due to individual mistakes but insisted he is not worried about the team's defensive record.",
+      "published": "2026-09-28T19:27:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50053883/england-were-biggest-dangers-ourselves-spain-thomas-tuchel",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718557_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "England",
+        "Spain"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50051719",
+      "headline": "Ezri Konsa, Nico O'Reilly miss England training before Czechia game",
+      "description": "Ezri Konsa and Nico O'Reilly sat out England's training session ahead of the Nations League trip to Czechia.",
+      "published": "2026-09-28T13:40:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50051719/ezri-konsa-nico-oreilly-miss-england-training-czechia-game",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703841_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Cabo Verde",
+        "England",
+        "Czechia"
+      ],
+      "players": [
+        "Ezri Konsa",
+        "Nico O'Reilly",
+        "Vozinha"
+      ],
+      "score": 132
     },
     {
       "id": "50005268",
@@ -77,57 +171,16 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 147
+      "score": 127
     },
     {
-      "id": "50051104",
-      "headline": "Martin Ødegaard lambasts Bernardo Silva kick: 'This has no place on a football pitch'",
-      "description": "Norway captain Martin Ødegaard was left furious by a late kick on his ankle by Portugal's Bernardo Silva in stoppage time of a Nations League game on Sunday.",
-      "published": "2026-09-28T12:22:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50051104/martin-odegaard-bernardo-silva-norway-portugal-arsenal-man-city-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722885_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Cabo Verde",
-        "Norway",
-        "Portugal"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 145
-    },
-    {
-      "id": "50051298",
-      "headline": "João Félix: I want to assist Cristiano Ronaldo's 1000th goal",
-      "description": "João Félix has revealed his desire to assist Cristiano Ronaldo's 1000th career goal.",
-      "published": "2026-09-28T13:00:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50051298/joao-felix-cristiano-ronaldo-assist-1000-goal-al-nassr-portugal",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722898_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "João Félix",
-        "Vozinha"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50050971",
-      "headline": "NWSL expansion club Atlanta City FC unveils red and Georgia peach branding",
-      "description": "Atlanta City FC will be the name of Atlanta's forthcoming NWSL expansion team that will begin play in 2028.",
-      "published": "2026-09-28T12:00:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50050971/nwsl-expansion-club-atlanta-city-fc-unveils-red-georgia-peach-branding",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722881_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
+      "id": "50051629",
+      "headline": "MLS Power Rankings: No Cavan? No problem for surging Philadelphia",
+      "description": "Philadelphia lost three star youngsters to international duty, yet the Union continued their march toward the top of ESPN's MLS Power Rankings.",
+      "published": "2026-09-28T15:35:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50051629/mls-power-rankings-no-cavan-sullivan-no-problem-surging-philadelphia-union",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722956_1296x729_16-9.jpg",
+      "byline": "Megan Swanick",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -136,69 +189,27 @@
       "players": [
         "Vozinha"
       ],
-      "score": 131
+      "score": 126
     },
     {
-      "id": "50050997",
-      "headline": "Portugal boss explains why Cristiano Ronaldo didn't come off the bench against Norway",
-      "description": "Portugal head coach Jorge Jesus has defended his decision not to bring on Cristiano Ronaldo during the nation's 2-1 victory over Norway, saying he \"needed a player with different characteristics.\"",
-      "published": "2026-09-28T10:42:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50050997/cristiano-ronaldo-portugal-jorge-jesus-benched-decision-norway",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722883_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50051881",
+      "headline": "Ancelotti: Brazil is the most historical national team ever",
+      "description": "Ancelotti: Brazil is the most historical national team ever",
+      "published": "2026-09-28T13:57:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/50051881/brazil-most-historical-national-team-ever",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0928/dm_260928_Ancelotti_Brazil_is_the_most_historical_national_team_ever/dm_260928_Ancelotti_Brazil_is_the_most_historical_national_team_ever.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Cabo Verde",
-        "Portugal",
-        "Norway"
+        "Australia",
+        "Brazil"
       ],
       "players": [
-        "Cristiano Ronaldo",
         "Vozinha"
       ],
-      "score": 129
-    },
-    {
-      "id": "50050926",
-      "headline": "Egypt rest Mohamed Salah for South Sudan qualifier amid artificial pitch concerns",
-      "description": "Mohamed Salah will sit out Egypt's Africa Cup of Nations qualifier against South Sudan in Juba on Tuesday due to concerns about the artificial pitch, according to a statement from the Egyptian Football Association.",
-      "published": "2026-09-28T10:12:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50050926/mohamed-salah-egypt-afcon-qualifying-south-sudan-trabzonspor",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722877_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Egypt"
-      ],
-      "players": [
-        "Mohamed Salah",
-        "Vozinha"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50050888",
-      "headline": "Lamine Yamal reveals what he said to Lionel Messi after World Cup final",
-      "description": "Spain and Barcelona forward Lamine Yamal has said that he thanked Lionel Messi for everything he gave to football when the two embraced at the end of the 2026 World Cup final.",
-      "published": "2026-09-28T09:32:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50050888/lamine-yamal-lionel-messi-barcelona-spain-argentina-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722868_1296x729_16-9.jpg",
-      "byline": "Hannah Ryan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Spain"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Lionel Messi",
-        "Vozinha"
-      ],
-      "score": 127
+      "score": 124
     },
     {
       "id": "50038230",
@@ -214,7 +225,7 @@
         "USA"
       ],
       "players": [],
-      "score": 126
+      "score": 106
     },
     {
       "id": "50028671",
@@ -233,7 +244,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 88
+      "score": 68
     },
     {
       "id": "50025741",
@@ -254,25 +265,7 @@
         "Sadio Mané",
         "Nicolas Jackson"
       ],
-      "score": 54
-    },
-    {
-      "id": "50025809",
-      "headline": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
-      "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
-      "published": "2026-09-25T10:12:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
-      "image": "https://a.espncdn.com/photo/2026/0925/r1721593_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Germany",
-        "Spain",
-        "England"
-      ],
-      "players": [],
-      "score": 37
+      "score": 34
     },
     {
       "id": "49857842",
@@ -364,6 +357,24 @@
       "score": 22
     },
     {
+      "id": "50025809",
+      "headline": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
+      "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
+      "published": "2026-09-25T10:12:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721593_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany",
+        "Spain",
+        "England"
+      ],
+      "players": [],
+      "score": 20
+    },
+    {
       "id": "49941399",
       "headline": "Ecuador hires Marcelo Gallardo through 2030 World Cup",
       "description": "Marcelo Gallardo, one of the most decorated coaches in the history of the Argentine league, has reached an agreement to manage Ecuador ahead of the 2030 FIFA World Cup.",
@@ -420,20 +431,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "50019011",
-      "headline": "Gianni Infantino says he is 'committed to doing what is right' for FIFA",
-      "description": "FIFA president Gianni Infantino says he has \"never been more determined and committed\" to doing \"what is right for the game\" after pledging to conduct an independent review of the organisation's governance.",
-      "published": "2026-09-24T11:12:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50019011/gianni-infantino-says-committed-doing-right-fifa",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
     },
     {
       "id": "50006618",
