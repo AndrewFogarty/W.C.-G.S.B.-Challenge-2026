@@ -1,9 +1,8 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-28T00:44:21.719Z",
+  "updated": "2026-09-28T05:56:58.830Z",
   "counts": {
-    "news": 37,
-    "injury": 1,
+    "news": 38,
     "preview": 4,
     "offfield": 6
   },
@@ -20,7 +19,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 186
+      "score": 178
     },
     {
       "id": "50038230",
@@ -36,27 +35,7 @@
         "USA"
       ],
       "players": [],
-      "score": 165
-    },
-    {
-      "id": "50046932",
-      "headline": "Liverpool, Netherlands await news on Cody Gakpo ankle injury",
-      "description": "The Netherlands and Liverpool must wait to discover the extent of an ankle injury suffered by forward Cody Gakpo on Sunday.",
-      "published": "2026-09-27T22:48:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50046932/cody-gakpo-injury-ankle-liverpool-netherlands-serbia",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722694_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "USA",
-        "Netherlands"
-      ],
-      "players": [
-        "Cody Gakpo",
-        "Folarin Balogun"
-      ],
-      "score": 144
+      "score": 157
     },
     {
       "id": "50048002",
@@ -75,20 +54,22 @@
         "Gavin Bazunu",
         "Folarin Balogun"
       ],
-      "score": 141
+      "score": 133
     },
     {
-      "id": "50045283",
-      "headline": "Republic of Ireland beat Israel after skipping pregame handshakes",
-      "description": "The Republic of Ireland wore black armbands and skipped the typical prematch handshakes before securing a 3-0 victory over Israel in their contentious UEFA Nations League match Sunday.",
-      "published": "2026-09-28T00:00:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50045283/republic-ireland-israel-handshakes-nations-league-anthem-armbands",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722602_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "50050081",
+      "headline": "Popovic challenges Socceroos to back up vs. Brazil with Asian Cup in mind",
+      "description": "Brazil are expected to raise their intensity in Tuesday's return fixture in Brisbane. With his eyes firmly set on next January's Asian Cup, Tony Popovic is likewise challenging the Socceroos to lift their level if they want to claim a famous victory.",
+      "published": "2026-09-28T05:15:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50050081/tony-popovic-challenges-socceroos-back-vs-brazil-asian-cup-mind",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722849_1296x518_5-2.jpg",
+      "byline": "200321 COLUMNIST Joey Lynch",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "USA"
+        "USA",
+        "Brazil",
+        "Australia"
       ],
       "players": [
         "Folarin Balogun"
@@ -96,103 +77,125 @@
       "score": 132
     },
     {
-      "id": "50047455",
-      "headline": "'Not my concern': Ex-Man City boss Mancini brushes off guilty reports",
-      "description": "Roberto Mancini brushed off reports that his former club Manchester City have been found guilty by the Premier League of financial breaches allegedly committed during his time in charge of the club.",
-      "published": "2026-09-27T23:41:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50047455/manchester-city-charges-guilty-premier-league-roberto-mancini",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722731_1296x729_16-9.jpg",
+      "id": "50049197",
+      "headline": "Struggling LAFC fires 1st-year coach Marc Dos Santos",
+      "description": "LAFC fired head coach Marc Dos Santos on Sunday night, late in his disappointing first season in charge.",
+      "published": "2026-09-28T01:59:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50049197/lafc-fires-coach-marc-dos-santos",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722808_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50048622",
+      "headline": "Columbus stuns Miami late after Messi's free-kick golazo",
+      "description": "Jamal Thiaré scored in the eighth minute of second-half stoppage time to give the Columbus Crew a stunning 2-1 win over MLS Cup holders Inter Miami on Sunday.",
+      "published": "2026-09-28T01:55:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50048622/lionel-messi-free-kick-goal-inter-miami-columbus-crew",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722803_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Folarin Balogun"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50049058",
+      "headline": "Columbus Crew SC vs. Inter Miami CF - Game Highlights",
+      "description": "Watch the Game Highlights from Columbus Crew SC vs. Inter Miami CF, 09/27/2026",
+      "published": "2026-09-28T01:29:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/50049058/columbus-crew-sc-vs-inter-miami-cf-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0928/491a9087-fd2f-4393-b3bc-91fcce0ddd48/491a9087-fd2f-4393-b3bc-91fcce0ddd48.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Santiago Morales",
+        "Lionel Messi",
+        "Anass Zaroury",
+        "Josef Martínez",
+        "Jamal Thiaré",
+        "Brais Méndez",
+        "Folarin Balogun"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50048978",
+      "headline": "James Madison vs. South Carolina: Game Highlights",
+      "description": "James Madison vs. South Carolina: Game Highlights",
+      "published": "2026-09-28T01:20:22Z",
+      "url": "https://www.espn.com/video/clip/_/id/50048978/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0928/e9ec65c8-1fc3-41a4-8eab-2d71a6c31a95/e9ec65c8-1fc3-41a4-8eab-2d71a6c31a95.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50048934",
+      "headline": "Utah Royals vs. North Carolina Courage - Game Highlights",
+      "description": "Watch the Game Highlights from Utah Royals vs. North Carolina Courage, 09/28/2026",
+      "published": "2026-09-28T01:16:31Z",
+      "url": "https://www.espn.com/video/clip/_/id/50048934/utah-royals-vs-north-carolina-courage-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0928/22af8792-e1a2-428e-b69f-898cffb7d086/22af8792-e1a2-428e-b69f-898cffb7d086.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [
+        "Ashley Sanchez",
+        "Cece Delzer",
+        "Gianna Paul",
+        "Cloé Lacasse",
+        "Folarin Balogun"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50048298",
+      "headline": "Klopp: Germany's 1st ever loss to Greece 'part of the process'",
+      "description": "Jürgen Klopp said his first defeat as Germany boss was \"part of the process\" as he looks to rejuvenate the four-time World Cup winners.",
+      "published": "2026-09-28T00:46:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50048298/jurgen-klopp-germany-greece-loss-uefa-nations-league",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722772_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50047605",
-      "headline": "Bay FC vs. Orlando Pride - Game Highlights",
-      "description": "Watch the Game Highlights from Bay FC vs. Orlando Pride, 09/28/2026",
-      "published": "2026-09-27T23:12:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/50047605/bay-fc-vs-orlando-pride-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/aaec0049-4422-412c-9baa-176b57f5d4db/aaec0049-4422-412c-9baa-176b57f5d4db.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Racheal Kundananji",
-        "Karlie Lema",
-        "Lizbeth Ovalle",
-        "Haley McCutcheon",
-        "Jenna Nighswonger",
-        "Folarin Balogun"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50046988",
-      "headline": "Figo backs Ronaldo to continue to play for Portugal",
-      "description": "Figo backs Ronaldo to continue to play for Portugal",
-      "published": "2026-09-27T22:38:45Z",
-      "url": "https://www.espn.com/video/clip/_/id/50046988/figo-backs-ronaldo-continue-play-portugal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_Analysis_Figo_backs_Ronaldo_to_continue_to_play_for_Portugal__GLOBAL_2026-09-27/dm_260927_COM_SOC_Analysis_Figo_backs_Ronaldo_to_continue_to_play_for_Portugal__GLOBAL_2026-09-27.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
         "USA",
-        "Norway",
-        "Portugal"
+        "Germany"
       ],
       "players": [
         "Folarin Balogun"
       ],
-      "score": 130
-    },
-    {
-      "id": "50046931",
-      "headline": "Burley: The Premier League's image has been damaged after Man City's charges",
-      "description": "Burley: The Premier League's image has been damaged after Man City's charges",
-      "published": "2026-09-27T22:38:14Z",
-      "url": "https://www.espn.com/video/clip/_/id/50046931/premier-league-image-damaged-man-city-charges",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_Analysis_Burley3A_The_Premier_Le1117/dm_260927_COM_SOC_Analysis_Burley3A_The_Premier_Le1117.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50046925",
-      "headline": "Were Haaland's Norway unlucky to beat Portugal?",
-      "description": "Were Haaland's Norway unlucky to beat Portugal?",
-      "published": "2026-09-27T22:36:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/50046925/were-haaland-norway-unlucky-beat-portugal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_Analysis_Were_HaalandE28099s_Norway_unlucky_to_beat_Portugal3F_GLOBAL_2026-09-27/dm_260927_COM_SOC_Analysis_Were_HaalandE28099s_Norway_unlucky_to_beat_Portugal3F_GLOBAL_2026-09-27.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Norway",
-        "Portugal"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 130
+      "score": 125
     },
     {
       "id": "50028671",
@@ -211,7 +214,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 127
+      "score": 119
     },
     {
       "id": "50025741",
@@ -232,7 +235,7 @@
         "Sadio Mané",
         "Nicolas Jackson"
       ],
-      "score": 94
+      "score": 86
     },
     {
       "id": "50025809",
@@ -250,7 +253,7 @@
         "England"
       ],
       "players": [],
-      "score": 76
+      "score": 68
     },
     {
       "id": "50019011",
