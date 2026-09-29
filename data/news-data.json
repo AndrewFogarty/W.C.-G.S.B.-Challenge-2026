@@ -1,13 +1,30 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-29T05:59:35.249Z",
+  "updated": "2026-09-29T12:40:13.973Z",
   "counts": {
-    "news": 38,
-    "celebration": 2,
-    "offfield": 5,
+    "news": 35,
+    "celebration": 1,
+    "injury": 2,
+    "offfield": 7,
     "preview": 3
   },
   "items": [
+    {
+      "id": "50020939",
+      "headline": "U.S. Soccer's post-World Cup vibes: Lamenting a missed opportunity, embracing excitement",
+      "description": "The USMNT's World Cup was a paradox. Did inspiring a nation of future fans make it a success, or does the embarrassing exit mean it was a failure?",
+      "published": "2026-09-29T07:20:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50020939/us-soccer-men-national-team-post-world-cup-vibes-lamenting-missed-opportunity-embracing-excitement",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721313_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 202
+    },
     {
       "id": "50054758",
       "headline": "FIFA agrees in principle to federation payments from WC windfall",
@@ -20,7 +37,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 194
+      "score": 174
     },
     {
       "id": "50045992",
@@ -34,7 +51,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 177
+      "score": 156
     },
     {
       "id": "50050816",
@@ -52,7 +69,127 @@
       "players": [
         "Vozinha"
       ],
-      "score": 169
+      "score": 149
+    },
+    {
+      "id": "50057471",
+      "headline": "Kylian Mbappé, Ibrahima Konaté, Fede Valverde expected to be available for El Clásico - source",
+      "description": "Injured stars Kylian Mbappé, Ibrahima Konaté and Federico Valverde are all expected to be available when Real Madrid face LaLiga title rivals Barcelona in El Clásico on Oct. 25, a source has told ESPN.",
+      "published": "2026-09-29T12:00:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50057471/real-madrid-mbappe-konate-valverde-el-clasico-barcelona-la-liga",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723326_1296x729_16-9.jpg",
+      "byline": "Rodra and Alex Kirkland",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Ibrahima Konaté",
+        "Federico Valverde",
+        "Vozinha"
+      ],
+      "score": 146
+    },
+    {
+      "id": "50057427",
+      "headline": "Ella Toone, Chloe Kelly left out of England squad; Lexi Potter included",
+      "description": "Ella Toone and Chloe Kelly have been excluded from the England squad ahead of the World Cup playoff matches against Greece while Lexi Potter and Erica Meg Parkinson are included.",
+      "published": "2026-09-29T11:12:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50057427/ella-toone-chloe-kelly-left-england-squad-lexi-potter-included",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723325_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Cabo Verde",
+        "England"
+      ],
+      "players": [
+        "Chloe Kelly",
+        "Ella Toone",
+        "Vozinha"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50057903",
+      "headline": "England boss Sarina Wiegman concerned by lack of young, homegrown players in WSL",
+      "description": "Sarina Wiegman said the lack of young, homegrown players featuring in the Women's Super League is a concern and has refused to be drawn on her future with her contract with the Lionesses expiring after next year's Women's World Cup.",
+      "published": "2026-09-29T12:06:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50057903/england-boss-sarina-wiegman-concerned-lack-young-homegrown-players-wsl",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723331_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde",
+        "England"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50057461",
+      "headline": "Anthony Gordon: People respect my football IQ more now I'm at Barcelona",
+      "description": "Anthony Gordon says it's taken a transfer to Spanish champions Barcelona for people in England to finally respect how good he is as a footballer.",
+      "published": "2026-09-29T10:26:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50057461/anthony-gordon-people-respect-my-football-iq-more-now-barcelona",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723323_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde",
+        "England"
+      ],
+      "players": [
+        "Anthony Gordon",
+        "Vozinha"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50057652",
+      "headline": "Wiegman: The levels of Kelly and Toone weren't what I expected",
+      "description": "Wiegman: The levels of Kelly and Toone weren't what I expected",
+      "published": "2026-09-29T11:15:31Z",
+      "url": "https://www.espn.com/video/clip/_/id/50057652/levels-kelly-toone-expected",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_Wiegman_The_levels_of_Kelly_and_Toone_werent_what_I_expected/dm_260929_Wiegman_The_levels_of_Kelly_and_Toone_werent_what_I_expected.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "England"
+      ],
+      "players": [
+        "Chloe Kelly",
+        "Ella Toone",
+        "Vozinha"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50057517",
+      "headline": "Espanyol sporting director apologises for backing Lamine Yamal to win Ballon d'Or",
+      "description": "Espanyol sporting director Monchi has apologised for backing Barcelona's Lamine Yamal to win the Ballon d'Or.",
+      "published": "2026-09-29T10:49:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50057517/espanyol-sporting-director-apologises-backing-lamine-yamal-win-ballon-dor",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1722097_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 130
     },
     {
       "id": "47978642",
@@ -70,147 +207,45 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 150
+      "score": 130
     },
     {
-      "id": "50055928",
-      "headline": "Zidane goes wild over Olise's wonder goal in France's late victory",
-      "description": "Michael Olise came off the bench to deliver a breathtaking late masterpiece, lifting France past Belgium in the UEFA Nations League.",
-      "published": "2026-09-29T01:52:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50055928/zidane-goes-wild-olise-wonder-goal-france-late-victory",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723243_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Cabo Verde",
-        "France",
-        "Belgium"
-      ],
-      "players": [
-        "Michael Olise",
-        "Vozinha"
-      ],
-      "score": 134
-    },
-    {
-      "id": "50055078",
-      "headline": "Pochettino says no punishment can repair Manchester City damage",
-      "description": "United States manager, Mauricio Pochettino said Monday that it was \"very difficult\" to know what punishment Manchester City should receive for breaking the Premier League's financial fair play rules -- and severely damaging the competition.",
-      "published": "2026-09-29T00:55:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50055078/pochettino-no-punishment-repair-manchester-city-damage",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1723203_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "USA"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50054954",
-      "headline": "Switzerland head coach Murat Yakin misses Scotland news conference with hearing issues",
-      "description": "Switzerland head coach Murat Yakin missed his team's Hampden press conference with hearing issues after the visitors suffered travel problems on the way to Glasgow.",
-      "published": "2026-09-28T22:15:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50054954/switzerland-head-coach-murat-yakin-misses-scotland-news-conference-hearing-issues",
-      "image": "https://a.espncdn.com/photo/2024/0701/r1353045_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Switzerland",
-        "Scotland"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 121
-    },
-    {
-      "id": "50054961",
-      "headline": "Does Tuchel need to rest players over the UEFA Nations League?",
-      "description": "Does Tuchel need to rest players over the UEFA Nations League?",
-      "published": "2026-09-28T22:12:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/50054961/does-tuchel-need-rest-players-uefa-national-league",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0928/dm_260928_COM_SOC_Analysis_Does_Tuchel_need_to_rest_players_over_the_UEFA_National_League3F_GLOBAL_2026-09-28/dm_260928_COM_SOC_Analysis_Does_Tuchel_need_to_rest_players_over_the_UEFA_National_League3F_GLOBAL_2026-09-28.jpg",
+      "id": "50057465",
+      "headline": "De La Fuente: I hope the Ballon d'Or winner is a Spaniard",
+      "description": "De La Fuente: I hope the Ballon d'Or winner is a Spaniard",
+      "published": "2026-09-29T10:17:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/50057465/hope-ballon-dor-winner-spaniard",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_De_La_Fuente_I_hope_the_Ballon_dOr_winner_is_a_Spaniard/dm_260929_De_La_Fuente_I_hope_the_Ballon_dOr_winner_is_a_Spaniard.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Cabo Verde",
-        "Czechia",
-        "England"
+        "Croatia",
+        "Spain"
       ],
       "players": [
         "Vozinha"
       ],
-      "score": 121
+      "score": 129
     },
     {
-      "id": "50054970",
-      "headline": "Leboeuf: Olise showed his talent vs. Belgium",
-      "description": "Leboeuf: Olise showed his talent vs. Belgium",
-      "published": "2026-09-28T22:09:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/50054970/olise-showed-talent-vs-belgium",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0928/dm_260928_COM_SOC_Analysis_Leboeuf3A_Olise_showed_his_talent_vs_Belgium__GLOBAL_2026-09-28/dm_260928_COM_SOC_Analysis_Leboeuf3A_Olise_showed_his_talent_vs_Belgium__GLOBAL_2026-09-28.jpg",
-      "byline": null,
+      "id": "50057375",
+      "headline": "Wayne Rooney wouldn't 'feel comfortable' accepting Premier League medal if Man City stripped of titles",
+      "description": "Wayne Rooney has said he wouldn't feel comfortable being handed another Premier League medal if Manchester City are stripped of their title win in the 2011-12 season.",
+      "published": "2026-09-29T10:01:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50057375/wayne-rooney-wouldnt-feel-comfortable-accepting-premier-league-medal-man-city-stripped-titles",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723317_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Cabo Verde",
-        "Belgium",
-        "France"
+        "Cabo Verde"
       ],
       "players": [
         "Vozinha"
       ],
-      "score": 121
-    },
-    {
-      "id": "50054968",
-      "headline": "Was Ødegaard wrong to criticise Silva's tackle?",
-      "description": "Was Ødegaard wrong to criticise Silva's tackle?",
-      "published": "2026-09-28T22:08:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/50054968/was-odegaard-wrong-criticise-silva-tackle",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0928/dm_260928_COM_SOC_Analysis_Was_C398degaard_wrong_to_criticise_SilvaE28099s_tackle3F_GLOBAL_2026-09-28/dm_260928_COM_SOC_Analysis_Was_C398degaard_wrong_to_criticise_SilvaE28099s_tackle3F_GLOBAL_2026-09-28.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Norway",
-        "Portugal"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 121
-    },
-    {
-      "id": "50054784",
-      "headline": "Lewis Hall ready to embrace 'heavy shirt' of England after World Cup snub",
-      "description": "Lewis Hall is ready to embrace the challenge of wearing England's \"heavy shirt\" and proving his worth after missing out on the World Cup.",
-      "published": "2026-09-28T21:47:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50054784/lewis-hall-ready-embrace-heavy-shirt-england-world-cup-snub",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1660865_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "England"
-      ],
-      "players": [
-        "Lewis Hall",
-        "Vozinha"
-      ],
-      "score": 121
+      "score": 129
     },
     {
       "id": "50005268",
@@ -224,7 +259,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 102
+      "score": 82
     },
     {
       "id": "50038230",
@@ -240,7 +275,7 @@
         "USA"
       ],
       "players": [],
-      "score": 81
+      "score": 61
     },
     {
       "id": "50028671",
@@ -259,7 +294,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 45
+      "score": 35
     },
     {
       "id": "49857842",
@@ -308,27 +343,6 @@
         "Mohamed Toure"
       ],
       "score": 25
-    },
-    {
-      "id": "50025741",
-      "headline": "Can Patrick Vieira rescue Senegal from their post-AFCON final hellscape?",
-      "description": "Senegal, surely, must be asking what on earth they have done to receive the misfortune and wretched experiences they've endured since January, when they won, and then lost, the AFCON final.",
-      "published": "2026-09-25T13:05:43Z",
-      "url": "https://www.espn.com/espn/story/_/id/50025741/can-patrick-vieira-rescue-senegal-their-post-afcon-final-hellscape",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703391_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal",
-        "Belgium",
-        "Norway"
-      ],
-      "players": [
-        "Sadio Mané",
-        "Nicolas Jackson"
-      ],
-      "score": 23
     },
     {
       "id": "49947673",
@@ -414,6 +428,27 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50025741",
+      "headline": "Can Patrick Vieira rescue Senegal from their post-AFCON final hellscape?",
+      "description": "Senegal, surely, must be asking what on earth they have done to receive the misfortune and wretched experiences they've endured since January, when they won, and then lost, the AFCON final.",
+      "published": "2026-09-25T13:05:43Z",
+      "url": "https://www.espn.com/espn/story/_/id/50025741/can-patrick-vieira-rescue-senegal-their-post-afcon-final-hellscape",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703391_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Senegal",
+        "Belgium",
+        "Norway"
+      ],
+      "players": [
+        "Sadio Mané",
+        "Nicolas Jackson"
+      ],
+      "score": 13
     },
     {
       "id": "50006618",
@@ -699,25 +734,6 @@
       "score": 13
     },
     {
-      "id": "49753414",
-      "headline": "Chris Richards admits feeling like he let the U.S. down after Belgium defeat",
-      "description": "Chris Richards admits feeling like he let the U.S. down after Belgium defeat",
-      "published": "2026-08-28T15:33:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/49753414/chris-richards-admits-feeling-let-us-belgium-defeat",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Chris_Richards_admits_feeling_like_he_let_the_US_down_after_Belgium_defeat/dm_260828_Chris_Richards_admits_feeling_like_he_let_the_US_down_after_Belgium_defeat.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "players": [
-        "Chris Richards"
-      ],
-      "score": 13
-    },
-    {
       "id": "50025809",
       "headline": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
       "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
@@ -863,23 +879,6 @@
       "teams": [
         "Spain",
         "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49865329",
-      "headline": "Popovic comfortable with Socceroos penalty shootout choices at World Cup",
-      "description": "Socceroos coach Tony Popovic isn't second-guessing the shootout that saw his side eliminated from the FIFA World Cup, saying that he would have made the same choices had the two sides come back the next day.",
-      "published": "2026-09-09T01:38:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49865329/popovic-comfortable-socceroos-penalty-shootout-choices-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713099_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Egypt"
       ],
       "players": [],
       "score": 10
