@@ -1,14 +1,29 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-29T12:40:13.973Z",
+  "updated": "2026-09-29T18:17:06.155Z",
   "counts": {
-    "news": 35,
-    "celebration": 1,
-    "injury": 2,
+    "news": 37,
     "offfield": 7,
+    "celebration": 1,
     "preview": 3
   },
   "items": [
+    {
+      "id": "50058472",
+      "headline": "Pochettino labels Man City's charges as a 'period of deception'",
+      "description": "Pochettino labels Man City's charges as a 'period of deception'",
+      "published": "2026-09-29T13:24:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 203
+    },
     {
       "id": "50020939",
       "headline": "U.S. Soccer's post-World Cup vibes: Lamenting a missed opportunity, embracing excitement",
@@ -23,7 +38,7 @@
         "USA"
       ],
       "players": [],
-      "score": 202
+      "score": 184
     },
     {
       "id": "50054758",
@@ -37,7 +52,44 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 174
+      "score": 155
+    },
+    {
+      "id": "50059418",
+      "headline": "Turkish authorities arrest head of refereeing body amid investigation",
+      "description": "Authorities in Türkiye have arrested the head of the country's football refereeing body, his deputy and five other people amid efforts to \"restore the public trust in football,\" the country's justice minister said on Tuesday.",
+      "published": "2026-09-29T16:27:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50059418/turkish-authorities-arrest-head-refereeing-body-amid-investigation",
+      "image": "https://a.espncdn.com/photo/2023/1219/r1268466_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50058891",
+      "headline": "Vancouver Whitecaps extend Thomas Müller contract through 2027",
+      "description": "The Vancouver Whitecaps on Tuesday signed Thomas Müller to a Designated Player contract extension through the 2027 MLS Sprint Season.",
+      "published": "2026-09-29T14:52:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50058891/vancouver-whitecaps-extend-thomas-muller-contract-2027",
+      "image": "https://a.espncdn.com/photo/2025/1119/r1577936_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Thomas Müller",
+        "Vozinha"
+      ],
+      "score": 140
     },
     {
       "id": "50045992",
@@ -51,7 +103,89 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 156
+      "score": 138
+    },
+    {
+      "id": "50059830",
+      "headline": "Man City owners inflated revenue by £830m - Premier League breaches findings",
+      "description": "Manchester City's owners artificially inflated the club's commercial revenue by £830 million between 2009 and 2018, the Independent Commission found during the Premier League hearing into the 115 charges for serious financial breaches.",
+      "published": "2026-09-29T18:04:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50059830/man-city-owners-inflated-revenue-830m-premier-league-breaches-findings",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723506_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50059403",
+      "headline": "Man City guilty of all charges of Premier League financial breaches",
+      "description": "Manchester City have been found guilty of all charges of serious breaches of Premier League financial regulations, the Premier League confirmed in a 1,545-word statement Tuesday.",
+      "published": "2026-09-29T17:58:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50059403/man-city-guilty-all-charges-premier-league-breach-case-independent-commission",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723465_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50059383",
+      "headline": "North Carolina Courage's Ashley Sanchez included on USWNT roster vs. Spain, Jaedyn Shaw omitted",
+      "description": "NWSL leading goalscorer Ashley Sanchez will return to the United States women's national team for the first time in nearly two years next week as the Americans prepare for a pair of high-profile friendly matches against world No. 1 Spain.",
+      "published": "2026-09-29T17:05:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50059383/north-carolina-courage-ashley-sanchez-included-uswnt-roster-spainjaedyn-shaw-omitted",
+      "image": "https://a.espncdn.com/photo/2024/0327/r1310869_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "USA",
+        "Spain"
+      ],
+      "players": [
+        "Ashley Sanchez",
+        "Naomi Girma",
+        "Sam Coffey",
+        "Jaedyn Shaw",
+        "Evelyn Shores",
+        "Trinity Rodman",
+        "Trinity Byars",
+        "Pietra Tordin",
+        "Vozinha"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50059589",
+      "headline": "Olley: Man City's titles will have an asterisk if guilty after appeal",
+      "description": "Olley: Man City's titles will have an asterisk if guilty after appeal",
+      "published": "2026-09-29T16:41:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/50059589/man-city-titles-asterisk-guilty-appeal",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Olley_Man_Citys_titles_will_have_an_asterisk_if_guilty_after_appeal_20260929/dm_260929_COM_SOC_Analysis_Olley_Man_Citys_titles_will_have_an_asterisk_if_guilty_after_appeal_20260929.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 131
     },
     {
       "id": "50050816",
@@ -69,127 +203,48 @@
       "players": [
         "Vozinha"
       ],
-      "score": 149
+      "score": 131
     },
     {
-      "id": "50057471",
-      "headline": "Kylian Mbappé, Ibrahima Konaté, Fede Valverde expected to be available for El Clásico - source",
-      "description": "Injured stars Kylian Mbappé, Ibrahima Konaté and Federico Valverde are all expected to be available when Real Madrid face LaLiga title rivals Barcelona in El Clásico on Oct. 25, a source has told ESPN.",
-      "published": "2026-09-29T12:00:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50057471/real-madrid-mbappe-konate-valverde-el-clasico-barcelona-la-liga",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723326_1296x729_16-9.jpg",
-      "byline": "Rodra and Alex Kirkland",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Ibrahima Konaté",
-        "Federico Valverde",
-        "Vozinha"
-      ],
-      "score": 146
-    },
-    {
-      "id": "50057427",
-      "headline": "Ella Toone, Chloe Kelly left out of England squad; Lexi Potter included",
-      "description": "Ella Toone and Chloe Kelly have been excluded from the England squad ahead of the World Cup playoff matches against Greece while Lexi Potter and Erica Meg Parkinson are included.",
-      "published": "2026-09-29T11:12:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50057427/ella-toone-chloe-kelly-left-england-squad-lexi-potter-included",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723325_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Cabo Verde",
-        "England"
-      ],
-      "players": [
-        "Chloe Kelly",
-        "Ella Toone",
-        "Vozinha"
-      ],
-      "score": 145
-    },
-    {
-      "id": "50057903",
-      "headline": "England boss Sarina Wiegman concerned by lack of young, homegrown players in WSL",
-      "description": "Sarina Wiegman said the lack of young, homegrown players featuring in the Women's Super League is a concern and has refused to be drawn on her future with her contract with the Lionesses expiring after next year's Women's World Cup.",
-      "published": "2026-09-29T12:06:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50057903/england-boss-sarina-wiegman-concerned-lack-young-homegrown-players-wsl",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723331_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde",
-        "England"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 144
-    },
-    {
-      "id": "50057461",
-      "headline": "Anthony Gordon: People respect my football IQ more now I'm at Barcelona",
-      "description": "Anthony Gordon says it's taken a transfer to Spanish champions Barcelona for people in England to finally respect how good he is as a footballer.",
-      "published": "2026-09-29T10:26:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50057461/anthony-gordon-people-respect-my-football-iq-more-now-barcelona",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723323_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde",
-        "England"
-      ],
-      "players": [
-        "Anthony Gordon",
-        "Vozinha"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50057652",
-      "headline": "Wiegman: The levels of Kelly and Toone weren't what I expected",
-      "description": "Wiegman: The levels of Kelly and Toone weren't what I expected",
-      "published": "2026-09-29T11:15:31Z",
-      "url": "https://www.espn.com/video/clip/_/id/50057652/levels-kelly-toone-expected",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_Wiegman_The_levels_of_Kelly_and_Toone_werent_what_I_expected/dm_260929_Wiegman_The_levels_of_Kelly_and_Toone_werent_what_I_expected.jpg",
+      "id": "50059305",
+      "headline": "Ancelotti: 'Fundamental' Vinícius Jr. deserves patience with Brazil",
+      "description": "Ancelotti: 'Fundamental' Vinícius Jr. deserves patience with Brazil",
+      "published": "2026-09-29T15:35:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/50059305/fundamental-vinicius-jr-deserves-patience-brazil",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Ancelotti_Fundamental_Vinicius_Jr_deserves_patience_with_Brazil_20260929_GLO/dm_260929_COM_SOC_Presser_Ancelotti_Fundamental_Vinicius_Jr_deserves_patience_with_Brazil_20260929_GLO.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Cabo Verde",
-        "England"
+        "Australia",
+        "Brazil"
       ],
       "players": [
-        "Chloe Kelly",
-        "Ella Toone",
+        "Vinícius Júnior",
         "Vozinha"
       ],
-      "score": 131
+      "score": 129
     },
     {
-      "id": "50057517",
-      "headline": "Espanyol sporting director apologises for backing Lamine Yamal to win Ballon d'Or",
-      "description": "Espanyol sporting director Monchi has apologised for backing Barcelona's Lamine Yamal to win the Ballon d'Or.",
-      "published": "2026-09-29T10:49:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50057517/espanyol-sporting-director-apologises-backing-lamine-yamal-win-ballon-dor",
-      "image": "https://a.espncdn.com/photo/2026/0926/r1722097_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
+      "id": "50059064",
+      "headline": "Cole Palmer's England withdrawal a product of 'sick' system - PFA chief",
+      "description": "Cole Palmer's recent England withdrawal is the product of a \"sick\" system that is demanding too much of the game's stars, according to Professional Footballers' Association chief executive Maheta Molango.",
+      "published": "2026-09-29T15:25:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50059064/cole-palmer-england-withdrawal-product-sick-system-pfa-chief",
+      "image": "https://www.espn.com/video/clip/_/id/50054240/england-clash-vs-czechia-win",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Cabo Verde"
+        "Cabo Verde",
+        "England"
       ],
       "players": [
+        "Cole Palmer",
         "Vozinha"
       ],
-      "score": 130
+      "score": 129
     },
     {
       "id": "47978642",
@@ -207,45 +262,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 130
-    },
-    {
-      "id": "50057465",
-      "headline": "De La Fuente: I hope the Ballon d'Or winner is a Spaniard",
-      "description": "De La Fuente: I hope the Ballon d'Or winner is a Spaniard",
-      "published": "2026-09-29T10:17:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/50057465/hope-ballon-dor-winner-spaniard",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_De_La_Fuente_I_hope_the_Ballon_dOr_winner_is_a_Spaniard/dm_260929_De_La_Fuente_I_hope_the_Ballon_dOr_winner_is_a_Spaniard.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Croatia",
-        "Spain"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50057375",
-      "headline": "Wayne Rooney wouldn't 'feel comfortable' accepting Premier League medal if Man City stripped of titles",
-      "description": "Wayne Rooney has said he wouldn't feel comfortable being handed another Premier League medal if Manchester City are stripped of their title win in the 2011-12 season.",
-      "published": "2026-09-29T10:01:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50057375/wayne-rooney-wouldnt-feel-comfortable-accepting-premier-league-medal-man-city-stripped-titles",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723317_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 129
+      "score": 112
     },
     {
       "id": "50005268",
@@ -259,7 +276,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 82
+      "score": 64
     },
     {
       "id": "50038230",
@@ -275,7 +292,7 @@
         "USA"
       ],
       "players": [],
-      "score": 61
+      "score": 43
     },
     {
       "id": "50028671",
@@ -294,7 +311,7 @@
       "players": [
         "Folarin Balogun"
       ],
-      "score": 35
+      "score": 25
     },
     {
       "id": "49857842",
@@ -712,24 +729,6 @@
       "players": [
         "Lionel Messi",
         "Cristiano Ronaldo"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49768137",
-      "headline": "Lionel Messi's 4-goal performance leads Inter Miami to big win",
-      "description": "Lionel Messi's 4-goal performance leads Inter Miami to big win",
-      "published": "2026-08-30T02:32:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/49768137/lionel-messi-4-goal-performance-leads-inter-miami-big-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/ss_20260829_214626533_3641024/ss_20260829_214626533_3641024.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
       ],
       "score": 13
     },
