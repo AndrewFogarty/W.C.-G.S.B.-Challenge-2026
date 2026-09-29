@@ -1,13 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-29T18:17:06.155Z",
+  "updated": "2026-09-29T22:24:27.887Z",
   "counts": {
     "news": 37,
-    "offfield": 7,
+    "injury": 1,
+    "preview": 4,
     "celebration": 1,
-    "preview": 3
+    "offfield": 5
   },
   "items": [
+    {
+      "id": "50061434",
+      "headline": "PSG chief Al-Khelaifi has 'zero interest' in FIFA presidency",
+      "description": "European soccer's search for a candidate to challenge Gianni Infantino in the FIFA presidential election will not land on clubs' leader Nasser Al-Khelaifi.",
+      "published": "2026-09-29T21:29:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50061434/fifa-president-nasser-al-khelaifi-psg-gianni-infantino-election",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723629_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
     {
       "id": "50058472",
       "headline": "Pochettino labels Man City's charges as a 'period of deception'",
@@ -22,7 +37,7 @@
         "USA"
       ],
       "players": [],
-      "score": 203
+      "score": 186
     },
     {
       "id": "50020939",
@@ -38,7 +53,43 @@
         "USA"
       ],
       "players": [],
-      "score": 184
+      "score": 167
+    },
+    {
+      "id": "50061775",
+      "headline": "Culture Secretary Lisa Nandy: Man City verdict could lead to Premier League expulsion",
+      "description": "Culture Secretary Lisa Nandy has said Manchester City could be thrown out of the Premier League after being found guilty of all charges of financial breaches by an independent commission.",
+      "published": "2026-09-29T22:23:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50061775/culture-secretary-lisa-nandy-manchester-city-verdict-lead-premier-league-expulsion",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723653_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 147
+    },
+    {
+      "id": "50061747",
+      "headline": "Could Man City face relegation or expulsion from the Premier League?",
+      "description": "Could Man City face relegation or expulsion from the Premier League?",
+      "published": "2026-09-29T21:55:56Z",
+      "url": "https://www.espn.com/video/clip/_/id/50061747/could-man-city-face-relegation-expulsion-premier-league",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Could_Man_City_face_relegation_or_expulsion_from_the_Premier_League_20260929_G/dm_260929_COM_SOC_Analysis_Could_Man_City_face_relegation_or_expulsion_from_the_Premier_League_20260929_G.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 141
     },
     {
       "id": "50054758",
@@ -52,44 +103,128 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 155
+      "score": 139
     },
     {
-      "id": "50059418",
-      "headline": "Turkish authorities arrest head of refereeing body amid investigation",
-      "description": "Authorities in Türkiye have arrested the head of the country's football refereeing body, his deputy and five other people amid efforts to \"restore the public trust in football,\" the country's justice minister said on Tuesday.",
-      "published": "2026-09-29T16:27:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50059418/turkish-authorities-arrest-head-refereeing-body-amid-investigation",
-      "image": "https://a.espncdn.com/photo/2023/1219/r1268466_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50061797",
+      "headline": "De la Feunte says Yamal puts 'his magic' at service of Spain",
+      "description": "Spain coach Luis de la Fuente praised Lamine Yamal's \"magic\" after the winger scored twice and provided an assist in his team's 4-1 UEFA Nations League win over Croatia on Tuesday.",
+      "published": "2026-09-29T22:16:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50061797/spain-coach-beloved-yamal-magic-service-team",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723654_1024x576_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Cabo Verde"
+        "Cabo Verde",
+        "Spain",
+        "Croatia"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Vozinha"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50061748",
+      "headline": "Thomas Tuchel tips Jude Bellingham for future England captain role",
+      "description": "England coach Thomas Tuchel said Jude Bellingham could one day become the national team's permanent captain.",
+      "published": "2026-09-29T22:15:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50061748/jude-bellingham-england-captain-thomas-tuchel-czechia",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723650_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "England"
+      ],
+      "players": [
+        "Jude Bellingham",
+        "Vozinha"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50061850",
+      "headline": "Walcott backs England's Harry Kane to win Ballon d'Or",
+      "description": "Walcott backs England's Harry Kane to win Ballon d'Or",
+      "published": "2026-09-29T22:10:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/50061850/walcott-backs-england-harry-kane-win-ballon-dor",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Walcott_backs_Englands_Harry_Kane_to_win_Ballon_dOr_20260929_GLOBAL/dm_260929_COM_SOC_Analysis_Walcott_backs_Englands_Harry_Kane_to_win_Ballon_dOr_20260929_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "Czechia",
+        "England"
+      ],
+      "players": [
+        "Harry Kane",
+        "Vozinha"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50061551",
+      "headline": "Socceroos shift focus to Asian Cup after strong series vs. Brazil",
+      "description": "After two impressive performances against Brazil, the Socceroos say they're ready to shift their focus towards the coming Asian Cup and embrace the challenge and expectations of being one of the continent's best.",
+      "published": "2026-09-29T21:55:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50061551/socceroos-shift-focus-asian-cup-strong-series-vs-brazil",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723632_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "Brazil",
+        "Australia"
       ],
       "players": [
         "Vozinha"
       ],
-      "score": 142
+      "score": 132
     },
     {
-      "id": "50058891",
-      "headline": "Vancouver Whitecaps extend Thomas Müller contract through 2027",
-      "description": "The Vancouver Whitecaps on Tuesday signed Thomas Müller to a Designated Player contract extension through the 2027 MLS Sprint Season.",
-      "published": "2026-09-29T14:52:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50058891/vancouver-whitecaps-extend-thomas-muller-contract-2027",
-      "image": "https://a.espncdn.com/photo/2025/1119/r1577936_1296x729_16-9.jpg",
+      "id": "50061253",
+      "headline": "Argentina won't rush to re-assign Lionel Messi's No. 10",
+      "description": "Eventually, someone will wear the No. 10 for Argentina again after Lionel Messi plays his last game for the national team.",
+      "published": "2026-09-29T21:32:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50061253/argentina-rush-reassign-lionel-messi-no-10",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709620_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Vozinha"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50022628",
+      "headline": "Live updates: USA takes on Chile as international friendlies continue",
+      "description": "The international matches continue as the United States takes on Chile in a friendly in St. Louis.",
+      "published": "2026-09-29T21:30:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50022628/live-updates-united-states-takes-chile-international-friendlies-continue",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1723124_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Cabo Verde"
+        "Cabo Verde",
+        "USA"
       ],
       "players": [
-        "Thomas Müller",
         "Vozinha"
       ],
-      "score": 140
+      "score": 132
     },
     {
       "id": "50045992",
@@ -103,89 +238,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 138
-    },
-    {
-      "id": "50059830",
-      "headline": "Man City owners inflated revenue by £830m - Premier League breaches findings",
-      "description": "Manchester City's owners artificially inflated the club's commercial revenue by £830 million between 2009 and 2018, the Independent Commission found during the Premier League hearing into the 115 charges for serious financial breaches.",
-      "published": "2026-09-29T18:04:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50059830/man-city-owners-inflated-revenue-830m-premier-league-breaches-findings",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723506_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50059403",
-      "headline": "Man City guilty of all charges of Premier League financial breaches",
-      "description": "Manchester City have been found guilty of all charges of serious breaches of Premier League financial regulations, the Premier League confirmed in a 1,545-word statement Tuesday.",
-      "published": "2026-09-29T17:58:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50059403/man-city-guilty-all-charges-premier-league-breach-case-independent-commission",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723465_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50059383",
-      "headline": "North Carolina Courage's Ashley Sanchez included on USWNT roster vs. Spain, Jaedyn Shaw omitted",
-      "description": "NWSL leading goalscorer Ashley Sanchez will return to the United States women's national team for the first time in nearly two years next week as the Americans prepare for a pair of high-profile friendly matches against world No. 1 Spain.",
-      "published": "2026-09-29T17:05:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50059383/north-carolina-courage-ashley-sanchez-included-uswnt-roster-spainjaedyn-shaw-omitted",
-      "image": "https://a.espncdn.com/photo/2024/0327/r1310869_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "USA",
-        "Spain"
-      ],
-      "players": [
-        "Ashley Sanchez",
-        "Naomi Girma",
-        "Sam Coffey",
-        "Jaedyn Shaw",
-        "Evelyn Shores",
-        "Trinity Rodman",
-        "Trinity Byars",
-        "Pietra Tordin",
-        "Vozinha"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50059589",
-      "headline": "Olley: Man City's titles will have an asterisk if guilty after appeal",
-      "description": "Olley: Man City's titles will have an asterisk if guilty after appeal",
-      "published": "2026-09-29T16:41:17Z",
-      "url": "https://www.espn.com/video/clip/_/id/50059589/man-city-titles-asterisk-guilty-appeal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Olley_Man_Citys_titles_will_have_an_asterisk_if_guilty_after_appeal_20260929/dm_260929_COM_SOC_Analysis_Olley_Man_Citys_titles_will_have_an_asterisk_if_guilty_after_appeal_20260929.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 131
+      "score": 122
     },
     {
       "id": "50050816",
@@ -203,48 +256,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 131
-    },
-    {
-      "id": "50059305",
-      "headline": "Ancelotti: 'Fundamental' Vinícius Jr. deserves patience with Brazil",
-      "description": "Ancelotti: 'Fundamental' Vinícius Jr. deserves patience with Brazil",
-      "published": "2026-09-29T15:35:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/50059305/fundamental-vinicius-jr-deserves-patience-brazil",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Ancelotti_Fundamental_Vinicius_Jr_deserves_patience_with_Brazil_20260929_GLO/dm_260929_COM_SOC_Presser_Ancelotti_Fundamental_Vinicius_Jr_deserves_patience_with_Brazil_20260929_GLO.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Australia",
-        "Brazil"
-      ],
-      "players": [
-        "Vinícius Júnior",
-        "Vozinha"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50059064",
-      "headline": "Cole Palmer's England withdrawal a product of 'sick' system - PFA chief",
-      "description": "Cole Palmer's recent England withdrawal is the product of a \"sick\" system that is demanding too much of the game's stars, according to Professional Footballers' Association chief executive Maheta Molango.",
-      "published": "2026-09-29T15:25:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50059064/cole-palmer-england-withdrawal-product-sick-system-pfa-chief",
-      "image": "https://www.espn.com/video/clip/_/id/50054240/england-clash-vs-czechia-win",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "England"
-      ],
-      "players": [
-        "Cole Palmer",
-        "Vozinha"
-      ],
-      "score": 129
+      "score": 114
     },
     {
       "id": "47978642",
@@ -262,7 +274,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 112
+      "score": 95
     },
     {
       "id": "50005268",
@@ -276,7 +288,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 64
+      "score": 47
     },
     {
       "id": "50038230",
@@ -292,7 +304,7 @@
         "USA"
       ],
       "players": [],
-      "score": 43
+      "score": 27
     },
     {
       "id": "50028671",
@@ -685,24 +697,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49793781/wear-argentina-no-10-jersey-quite-some",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Gomez_Nobody_should_wear_the_Argentina_number_10_jersey_for_quite_some_time/dm_260901_Gomez_Nobody_should_wear_the_Argentina_number_10_jersey_for_quite_some_time.jpg",
       "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49266819",
-      "headline": "Argentina legend Lionel Messi announces international retirement",
-      "description": "Lionel Messi on Monday announced his retirement from international soccer with a heartfelt Instagram post.",
-      "published": "2026-09-01T01:36:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49266819/lionel-messi-argentina-international-retirement-world-cup-copa-america",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709546_1296x729_16-9.jpg",
-      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
