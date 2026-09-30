@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-30T07:08:36.942Z",
+  "updated": "2026-09-30T13:42:07.177Z",
   "counts": {
     "news": 37,
-    "celebration": 3,
-    "offfield": 5,
-    "preview": 3
+    "preview": 4,
+    "offfield": 6,
+    "celebration": 1
   },
   "items": [
     {
@@ -20,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 192
+      "score": 182
     },
     {
       "id": "50058472",
@@ -36,7 +36,7 @@
         "USA"
       ],
       "players": [],
-      "score": 173
+      "score": 164
     },
     {
       "id": "50020939",
@@ -52,56 +52,94 @@
         "USA"
       ],
       "players": [],
-      "score": 154
+      "score": 144
     },
     {
-      "id": "50063775",
-      "headline": "Albert, 17, breaks Pulisic mark as youngest USMNT scorer",
-      "description": "With the United States leading 3-2, Borussia Dortmund teenager Mathis Albert put the game away with the Americans' fourth goal of the night and became the youngest goal scorer in program history, besting a mark set by Christian Pulisic.",
-      "published": "2026-09-30T04:46:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50063775/albert-breaks-pulisic-mark-youngest-usmnt-scorer",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723750_1296x729_16-9.jpg",
+      "id": "50066974",
+      "headline": "Why will England's Nations League match against Croatia be played behind closed doors?",
+      "description": "England will take on Croatia in Rijeka in front of an almost entirely empty stadium.",
+      "published": "2026-09-30T13:29:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50066974/england-nations-league-croatia-closed-doors",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723881_1296x729_16-9.jpg",
+      "byline": "Matteo Mazzoni",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Cabo Verde",
+        "England",
+        "Croatia"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50066026",
+      "headline": "Ex-Man City chairman calls for club's directors to resign after Premier League guilty verdict",
+      "description": "Former Manchester City chairman David Bernstein has called for the club's directors to step down after City were found guilty of serious breaches of the Premier League's financial rules.",
+      "published": "2026-09-30T11:00:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50066026/man-city-chairman-david-bernstein-directors-resign-premier-league-guilty",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723837_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Cabo Verde",
-        "USA"
-      ],
-      "players": [
-        "Mathis Albert",
-        "Christian Pulisic",
-        "Vozinha"
-      ],
-      "score": 136
-    },
-    {
-      "id": "50059338",
-      "headline": "New-look USMNT beats Chile as teens make history",
-      "description": "History-making goals from teenagers Mathis Albert and Julian Hall propelled a youthful United States men's national team to a 4-2 win over Chile in Tuesday's friendly in St. Louis.",
-      "published": "2026-09-30T02:48:50Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401905189",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723735_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Cabo Verde",
-        "USA"
+        "Cabo Verde"
       ],
       "players": [
         "Vozinha"
       ],
-      "score": 134
+      "score": 141
     },
     {
-      "id": "50064931",
-      "headline": "Roy Keane: I'd put Man City medals 'in the bin' after 'cheating'",
-      "description": "Roy Keane has said if he was a Manchester City player he would put his medals \"in the bin\" following the Premier League's ruling that the club was guilty of breaching over 100 financial regulations.",
-      "published": "2026-09-30T06:36:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50064931/roy-keane-put-man-city-medals-bin-cheating",
-      "image": "https://a.espncdn.com/photo/2024/0606/r1342361_1296x729_16-9.jpg",
-      "byline": "James Regan",
+      "id": "50065733",
+      "headline": "England, Scotland, Wales, Northern Ireland in Nations League: How are Home Nations faring?",
+      "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
+      "published": "2026-09-30T13:37:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723824_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "England",
+        "Scotland"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50067132",
+      "headline": "Senegal's appeal against being stripped of AFCON crown to be heard Oct. 8",
+      "description": "Senegal's appeal against the decision to strip them of the Africa Cup of Nations title will be heard on Oct. 8.",
+      "published": "2026-09-30T13:35:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50067132/senegal-afcon-appeal-final-morocco-cas",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693188_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "Senegal",
+        "Morocco"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50065977",
+      "headline": "Does Man City's guilty verdict impact Pep Guardiola's legacy as an all-time coaching great?",
+      "description": "Pep Guardiola won 16 major honors as Man City manager. They all now count for nothing after the Premier League found the club guilty of systematically breaking financial rules.",
+      "published": "2026-09-30T13:06:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50065977/man-city-premier-league-guilty-verdict-impact-pep-guardiola-legacy-all-great-coach-manager",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723842_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -113,63 +151,62 @@
       "score": 132
     },
     {
-      "id": "50064271",
-      "headline": "Overshadowed by USMNT's talented teens, Berhalter is stealing the spotlight",
-      "description": "In Tuesday's 4-2 win over Chile, Sebastian Berhalter registered a goal and an assists -- the second straight match the USMNT midfielder has done so.",
-      "published": "2026-09-30T04:08:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50064271/overshadowed-usmnt-talented-teens-cavan-sullivan-sebastian-berhalter-stealing-spotlight",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723766_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "USA"
-      ],
-      "players": [
-        "Sebastian Berhalter",
-        "Vozinha"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50063781",
-      "headline": "USMNT player ratings: Richards scores, steadies backline to get 8/10 in win over Chile",
-      "description": "Chris Richards provided a calming presence for a shaky, inexperienced defense, as the U.S. fought back from a goal down to beat Chile 4-2 on Tuesday.",
-      "published": "2026-09-30T02:58:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50063781/usmnt-player-ratings-chris-richards-scores-steadies-backline-get-8-win-chile",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723746_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "USA"
-      ],
-      "players": [
-        "Chris Richards",
-        "Vozinha"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50022628",
-      "headline": "As it happened: USMNT beat Chile to keep momentum rolling",
-      "description": "The U.S. men's national team made it two wins from two in this international break by beating Chile 4-2 on Tuesday. Relive all the action with ESPN.",
-      "published": "2026-09-30T02:27:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50022628/live-updates-united-states-takes-chile-international-friendlies-continue",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723732_1296x729_16-9.jpg",
+      "id": "50066641",
+      "headline": "Pep Guardiola after Man City guilty verdict: 'I am behind my club'",
+      "description": "Pep Guardiola has released his first statement since Manchester City were found guilty of over 100 breaches of Premier League financial rules, saying \"I am behind my club.\"",
+      "published": "2026-09-30T12:38:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50066641/pep-guardiola-fans-man-city-guilty-verdict-here-more-ever",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692093_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50066333",
+      "headline": "Trent Alexander Arnold shows Thomas Tuchel what England have missed -- but has he done enough?",
+      "description": "Trent Alexander-Arnold's assist against Czechia showed what England missed at the World Cup. What is his future?",
+      "published": "2026-09-30T12:29:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50066333/trent-alexander-arnold-england-thomas-tuchel-done-enough",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723845_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "England",
+        "Czechia"
+      ],
+      "players": [
+        "Trent Alexander-Arnold",
+        "Vozinha"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50066720",
+      "headline": "Pochettino 'so happy' after USMNT beat Chile",
+      "description": "Pochettino 'so happy' after USMNT beat Chile",
+      "published": "2026-09-30T12:27:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/50066720/pochettino-happy-usmnt-beat-chile",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/dm_260930_dm_260930_soc_poch_sound/dm_260930_dm_260930_soc_poch_sound.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
         "Cabo Verde",
         "USA"
       ],
       "players": [
         "Vozinha"
       ],
-      "score": 126
+      "score": 131
     },
     {
       "id": "50054758",
@@ -183,46 +220,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 126
-    },
-    {
-      "id": "50063601",
-      "headline": "A-League Women player exodus doesn't just hurt league",
-      "description": "ESPN's The Far Post discuss the lack of professionalisation in the A-League Women, how it is driving players to make overseas moves, and could hurt the Matildas in the future.",
-      "published": "2026-09-30T02:04:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/50063601/a-league-women-player-exodus-just-hurt-league",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/los_260929_Soccer_Anaylsis_A-League_Women_player_exodus_doesnt_just_hurt_league_2026930_AUS_ONLY/los_260929_Soccer_Anaylsis_A-League_Women_player_exodus_doesnt_just_hurt_league_2026930_AUS_ONLY.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Australia"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50063417",
-      "headline": "Connor Metcalfe thunders home screamer vs. Brazil",
-      "description": "Alessandro Circati and Connor Metcalfe provide moments of brilliance in the Socceroos' 4-2 loss to Brazil.",
-      "published": "2026-09-30T01:46:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/50063417/connor-metcalfe-thunders-home-screamer-vs-brazil",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/Int_260929_Soccer_Highlight_Connor_Metcalfe_thunders_home_screamer_vs_Brazil_2026930_AUS/Int_260929_Soccer_Highlight_Connor_Metcalfe_thunders_home_screamer_vs_Brazil_2026930_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Australia",
-        "Brazil"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 125
+      "score": 116
     },
     {
       "id": "50045992",
@@ -236,7 +234,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 109
+      "score": 99
     },
     {
       "id": "50050816",
@@ -254,7 +252,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 101
+      "score": 91
     },
     {
       "id": "47978642",
@@ -272,7 +270,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 82
+      "score": 72
     },
     {
       "id": "50005268",
@@ -286,7 +284,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 34
+      "score": 25
     },
     {
       "id": "50028671",
@@ -439,22 +437,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "50038230",
-      "headline": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
-      "description": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
-      "published": "2026-09-27T01:25:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/50038230/usmnt-debutants-made-their-mark-4-1-win-vs-peru",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/ss_20260926_205309109_36763731284/ss_20260926_205309109_36763731284.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 13
     },
     {
       "id": "50025741",
@@ -723,6 +705,22 @@
         "Cristiano Ronaldo"
       ],
       "score": 13
+    },
+    {
+      "id": "50038230",
+      "headline": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
+      "description": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
+      "published": "2026-09-27T01:25:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/50038230/usmnt-debutants-made-their-mark-4-1-win-vs-peru",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/ss_20260926_205309109_36763731284/ss_20260926_205309109_36763731284.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
     },
     {
       "id": "50025809",
