@@ -1,12 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-09-30T01:24:51.930Z",
+  "updated": "2026-09-30T07:08:36.942Z",
   "counts": {
     "news": 37,
-    "injury": 1,
-    "preview": 4,
-    "celebration": 1,
-    "offfield": 5
+    "celebration": 3,
+    "offfield": 5,
+    "preview": 3
   },
   "items": [
     {
@@ -21,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 200
+      "score": 192
     },
     {
       "id": "50058472",
@@ -37,7 +36,7 @@
         "USA"
       ],
       "players": [],
-      "score": 182
+      "score": 173
     },
     {
       "id": "50020939",
@@ -53,43 +52,124 @@
         "USA"
       ],
       "players": [],
-      "score": 163
+      "score": 154
     },
     {
-      "id": "50061775",
-      "headline": "Culture Secretary Lisa Nandy: Man City verdict could lead to Premier League expulsion",
-      "description": "Culture Secretary Lisa Nandy has said Manchester City could be thrown out of the Premier League after being found guilty of all charges of financial breaches by an independent commission.",
-      "published": "2026-09-29T22:23:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50061775/culture-secretary-lisa-nandy-manchester-city-verdict-lead-premier-league-expulsion",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723653_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50063775",
+      "headline": "Albert, 17, breaks Pulisic mark as youngest USMNT scorer",
+      "description": "With the United States leading 3-2, Borussia Dortmund teenager Mathis Albert put the game away with the Americans' fourth goal of the night and became the youngest goal scorer in program history, besting a mark set by Christian Pulisic.",
+      "published": "2026-09-30T04:46:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50063775/albert-breaks-pulisic-mark-youngest-usmnt-scorer",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723750_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Cabo Verde",
+        "USA"
+      ],
+      "players": [
+        "Mathis Albert",
+        "Christian Pulisic",
+        "Vozinha"
+      ],
+      "score": 136
+    },
+    {
+      "id": "50059338",
+      "headline": "New-look USMNT beats Chile as teens make history",
+      "description": "History-making goals from teenagers Mathis Albert and Julian Hall propelled a youthful United States men's national team to a 4-2 win over Chile in Tuesday's friendly in St. Louis.",
+      "published": "2026-09-30T02:48:50Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401905189",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723735_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Cabo Verde",
+        "USA"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 134
+    },
+    {
+      "id": "50064931",
+      "headline": "Roy Keane: I'd put Man City medals 'in the bin' after 'cheating'",
+      "description": "Roy Keane has said if he was a Manchester City player he would put his medals \"in the bin\" following the Premier League's ruling that the club was guilty of breaching over 100 financial regulations.",
+      "published": "2026-09-30T06:36:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50064931/roy-keane-put-man-city-medals-bin-cheating",
+      "image": "https://a.espncdn.com/photo/2024/0606/r1342361_1296x729_16-9.jpg",
+      "byline": "James Regan",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Cabo Verde"
       ],
       "players": [
         "Vozinha"
       ],
-      "score": 142
+      "score": 132
     },
     {
-      "id": "50061747",
-      "headline": "Could Man City face relegation or expulsion from the Premier League?",
-      "description": "Could Man City face relegation or expulsion from the Premier League?",
-      "published": "2026-09-29T21:55:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/50061747/could-man-city-face-relegation-expulsion-premier-league",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Could_Man_City_face_relegation_or_expulsion_from_the_Premier_League_20260929_G/dm_260929_COM_SOC_Analysis_Could_Man_City_face_relegation_or_expulsion_from_the_Premier_League_20260929_G.jpg",
-      "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "50064271",
+      "headline": "Overshadowed by USMNT's talented teens, Berhalter is stealing the spotlight",
+      "description": "In Tuesday's 4-2 win over Chile, Sebastian Berhalter registered a goal and an assists -- the second straight match the USMNT midfielder has done so.",
+      "published": "2026-09-30T04:08:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50064271/overshadowed-usmnt-talented-teens-cavan-sullivan-sebastian-berhalter-stealing-spotlight",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723766_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Cabo Verde"
+        "Cabo Verde",
+        "USA"
+      ],
+      "players": [
+        "Sebastian Berhalter",
+        "Vozinha"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50063781",
+      "headline": "USMNT player ratings: Richards scores, steadies backline to get 8/10 in win over Chile",
+      "description": "Chris Richards provided a calming presence for a shaky, inexperienced defense, as the U.S. fought back from a goal down to beat Chile 4-2 on Tuesday.",
+      "published": "2026-09-30T02:58:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50063781/usmnt-player-ratings-chris-richards-scores-steadies-backline-get-8-win-chile",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723746_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "USA"
+      ],
+      "players": [
+        "Chris Richards",
+        "Vozinha"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50022628",
+      "headline": "As it happened: USMNT beat Chile to keep momentum rolling",
+      "description": "The U.S. men's national team made it two wins from two in this international break by beating Chile 4-2 on Tuesday. Relive all the action with ESPN.",
+      "published": "2026-09-30T02:27:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50022628/live-updates-united-states-takes-chile-international-friendlies-continue",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723732_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "USA"
       ],
       "players": [
         "Vozinha"
       ],
-      "score": 137
+      "score": 126
     },
     {
       "id": "50054758",
@@ -103,128 +183,46 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 134
+      "score": 126
     },
     {
-      "id": "50061797",
-      "headline": "De la Feunte says Yamal puts 'his magic' at service of Spain",
-      "description": "Spain coach Luis de la Fuente praised Lamine Yamal's \"magic\" after the winger scored twice and provided an assist in his team's 4-1 UEFA Nations League win over Croatia on Tuesday.",
-      "published": "2026-09-29T22:16:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50061797/spain-coach-beloved-yamal-magic-service-team",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723654_1024x576_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Spain",
-        "Croatia"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Vozinha"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50061748",
-      "headline": "Thomas Tuchel tips Jude Bellingham for future England captain role",
-      "description": "England coach Thomas Tuchel said Jude Bellingham could one day become the national team's permanent captain.",
-      "published": "2026-09-29T22:15:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50061748/jude-bellingham-england-captain-thomas-tuchel-czechia",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723650_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "England"
-      ],
-      "players": [
-        "Jude Bellingham",
-        "Vozinha"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50061850",
-      "headline": "Walcott backs England's Harry Kane to win Ballon d'Or",
-      "description": "Walcott backs England's Harry Kane to win Ballon d'Or",
-      "published": "2026-09-29T22:10:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/50061850/walcott-backs-england-harry-kane-win-ballon-dor",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Walcott_backs_Englands_Harry_Kane_to_win_Ballon_dOr_20260929_GLOBAL/dm_260929_COM_SOC_Analysis_Walcott_backs_Englands_Harry_Kane_to_win_Ballon_dOr_20260929_GLOBAL.jpg",
+      "id": "50063601",
+      "headline": "A-League Women player exodus doesn't just hurt league",
+      "description": "ESPN's The Far Post discuss the lack of professionalisation in the A-League Women, how it is driving players to make overseas moves, and could hurt the Matildas in the future.",
+      "published": "2026-09-30T02:04:23Z",
+      "url": "https://www.espn.com/video/clip/_/id/50063601/a-league-women-player-exodus-just-hurt-league",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/los_260929_Soccer_Anaylsis_A-League_Women_player_exodus_doesnt_just_hurt_league_2026930_AUS_ONLY/los_260929_Soccer_Anaylsis_A-League_Women_player_exodus_doesnt_just_hurt_league_2026930_AUS_ONLY.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Cabo Verde",
-        "Czechia",
-        "England"
-      ],
-      "players": [
-        "Harry Kane",
-        "Vozinha"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50061551",
-      "headline": "Socceroos shift focus to Asian Cup after strong series vs. Brazil",
-      "description": "After two impressive performances against Brazil, the Socceroos say they're ready to shift their focus towards the coming Asian Cup and embrace the challenge and expectations of being one of the continent's best.",
-      "published": "2026-09-29T21:55:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50061551/socceroos-shift-focus-asian-cup-strong-series-vs-brazil",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723632_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Brazil",
         "Australia"
       ],
       "players": [
         "Vozinha"
       ],
-      "score": 128
+      "score": 125
     },
     {
-      "id": "50061253",
-      "headline": "Argentina won't rush to re-assign Lionel Messi's No. 10",
-      "description": "Eventually, someone will wear the No. 10 for Argentina again after Lionel Messi plays his last game for the national team.",
-      "published": "2026-09-29T21:32:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50061253/argentina-rush-reassign-lionel-messi-no-10",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709620_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "50063417",
+      "headline": "Connor Metcalfe thunders home screamer vs. Brazil",
+      "description": "Alessandro Circati and Connor Metcalfe provide moments of brilliance in the Socceroos' 4-2 loss to Brazil.",
+      "published": "2026-09-30T01:46:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/50063417/connor-metcalfe-thunders-home-screamer-vs-brazil",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/Int_260929_Soccer_Highlight_Connor_Metcalfe_thunders_home_screamer_vs_Brazil_2026930_AUS/Int_260929_Soccer_Highlight_Connor_Metcalfe_thunders_home_screamer_vs_Brazil_2026930_AUS.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Cabo Verde",
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Vozinha"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50022628",
-      "headline": "Live updates: USA takes on Chile as international friendlies continue",
-      "description": "The international matches continue as the United States takes on Chile in a friendly in St. Louis.",
-      "published": "2026-09-29T21:30:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50022628/live-updates-united-states-takes-chile-international-friendlies-continue",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1723124_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "USA"
+        "Australia",
+        "Brazil"
       ],
       "players": [
         "Vozinha"
       ],
-      "score": 127
+      "score": 125
     },
     {
       "id": "50045992",
@@ -238,7 +236,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 117
+      "score": 109
     },
     {
       "id": "50050816",
@@ -256,7 +254,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 110
+      "score": 101
     },
     {
       "id": "47978642",
@@ -274,7 +272,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 91
+      "score": 82
     },
     {
       "id": "50005268",
@@ -288,7 +286,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 43
+      "score": 34
     },
     {
       "id": "50028671",
@@ -356,22 +354,6 @@
         "Mohamed Toure"
       ],
       "score": 25
-    },
-    {
-      "id": "50038230",
-      "headline": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
-      "description": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
-      "published": "2026-09-27T01:25:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/50038230/usmnt-debutants-made-their-mark-4-1-win-vs-peru",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/ss_20260926_205309109_36763731284/ss_20260926_205309109_36763731284.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 22
     },
     {
       "id": "49947673",
@@ -457,6 +439,22 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50038230",
+      "headline": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
+      "description": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
+      "published": "2026-09-27T01:25:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/50038230/usmnt-debutants-made-their-mark-4-1-win-vs-peru",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/ss_20260926_205309109_36763731284/ss_20260926_205309109_36763731284.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 13
     },
     {
       "id": "50025741",
