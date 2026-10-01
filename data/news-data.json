@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-01T19:55:30.752Z",
+  "updated": "2026-10-01T23:44:17.903Z",
   "counts": {
-    "offfield": 7,
-    "news": 37,
+    "offfield": 6,
+    "news": 36,
+    "injury": 2,
     "celebration": 1,
     "preview": 3
   },
@@ -22,7 +23,7 @@
         "France"
       ],
       "players": [],
-      "score": 220
+      "score": 214
     },
     {
       "id": "50020939",
@@ -38,55 +39,74 @@
         "USA"
       ],
       "players": [],
-      "score": 178
+      "score": 172
     },
     {
-      "id": "50077840",
-      "headline": "Christian Pulisic wants AC Milan stay amid ongoing contract talks",
-      "description": "USMNT's Christian Pulisic says it was a \"big relief\" to get his first club goal of 2026 and that he wants to stay at AC Milan amid ongoing contract talks.",
-      "published": "2026-10-01T18:04:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50077840/christian-pulisic-wants-ac-milan-stay-amid-ongoing-contract-talks",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_COM_SOC_Analysis_Pochettino_highlights_E317/dm_260918_COM_SOC_Analysis_Pochettino_highlights_E317.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50076688",
+      "headline": "A-League rules out standalone women's clubs: 'Not in our thinking'",
+      "description": "Australian Professional Leagues (APL) chief executive Steve Rosich has all but ruled out the introduction of further standalone women's clubs in the A-League Women.",
+      "published": "2026-10-01T23:08:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50076688/aleague-rules-standalone-womens-clubs-not-our-thinking",
+      "image": "https://a.espncdn.com/photo/2025/0512/r1491477_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
-        "Cabo Verde",
-        "USA"
+        "Cabo Verde"
       ],
       "players": [
-        "Christian Pulisic",
         "Vozinha"
       ],
-      "score": 142
+      "score": 146
     },
     {
-      "id": "50078582",
-      "headline": "Protesters interrupt Ireland game in call to boycott Israel match",
-      "description": "Protesters against the Republic of Ireland playing its Nations League games against Israel interrupted the team's match against Austria on Thursday by throwing tennis balls onto the field.",
-      "published": "2026-10-01T19:51:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50078582/republic-ireland-israel-protests-boycott-austria-palestine",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724596_1296x729_16-9.jpg",
+      "id": "50079534",
+      "headline": "Arsenal's Christos Tzolis limps off from Greece, Netherlands draw",
+      "description": "Arsenal winger Christos Tzolis was substituted in the 18th minute of Greece's 2-2 Nations League draw against the Netherlands on Thursday with an apparent injury.",
+      "published": "2026-10-01T22:43:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50079534/arsenal-christos-tzolis-limps-greece-netherlands-draw",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724632_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Cabo Verde",
+        "Netherlands"
+      ],
+      "players": [
+        "Christos Tzolis",
+        "Vozinha"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50079904",
+      "headline": "Victorious Portugal united behind coach Jesus after Ronaldo exit",
+      "description": "Portugal coach Jorge Jesus said his squad is united behind him as they shrugged off Cristiano Ronaldo's shock exit from the camp to beat Denmark 4-2 on Thursday.",
+      "published": "2026-10-01T23:36:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50079904/cristiano-ronaldo-portugal-coach-jorge-jesus-denmark",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724687_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Cabo Verde",
-        "Austria"
+        "Portugal"
       ],
       "players": [
+        "Cristiano Ronaldo",
         "Vozinha"
       ],
       "score": 133
     },
     {
-      "id": "50078473",
-      "headline": "HB Køge put five past Servette in big Women's Champions League win",
-      "description": "HB Køge put five past Servette in big Women's Champions League win",
-      "published": "2026-10-01T19:16:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/50078473/hb-koge-put-five-servette-big-women-champions-league-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1001/dm_261001_HB_Koge_put_five_past_Servette_in_big_Womens_Champions_League_win/dm_261001_HB_Koge_put_five_past_Servette_in_big_Womens_Champions_League_win.jpg",
-      "byline": null,
+      "id": "50079722",
+      "headline": "Man City provide Champions League escape after week of turmoil",
+      "description": "Amid uncertainty surrounding the club's future, Manchester City and their fans found some sort of normality in the UEFA Women's Champions League.",
+      "published": "2026-10-01T23:06:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50079722/manchester-citys-provide-uefa-champions-league-escape-week-turmoil",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724666_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -98,13 +118,13 @@
       "score": 132
     },
     {
-      "id": "50077292",
-      "headline": "Manchester City guilty charges explained: Premier League's options, how appeal works, more",
-      "description": "Tuesday's news that the Premier League found Man City guilty of 100-plus charges of breaking financial rules is a landmark moment. But what comes next: what punishments are on the table, and how does the appeals process work?",
-      "published": "2026-10-01T18:52:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50077292/manchester-city-guilty-charges-explained-premier-league-punishments-appeals-legal-process",
-      "image": "https://a.espncdn.com/photo/2020/0214/r666347_1296x729_16-9.jpg",
-      "byline": "James Olley",
+      "id": "50079791",
+      "headline": "Beth Mead admits Man City must 'bring that intensity from minute one' in Europe",
+      "description": "Beth Mead says Manchester City must be more lethal if they are to challenge for the Women's Champions League title, while manager Andreé Jeglertz said the noise around the club was no distraction as they drew 1-1 with Real Madrid on Thursday.",
+      "published": "2026-10-01T22:38:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50079791/beth-mead-admits-man-city-bring-intensity-minute-one-europe",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724638_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -116,33 +136,33 @@
       "score": 131
     },
     {
-      "id": "50078076",
-      "headline": "Lionel Messi completes purchase of Spanish second-division club Eldense",
-      "description": "Inter Miami and Argentina superstar Lionel Messi has officially taken over Spanish second division side Eldense, the club confirmed on Thursday.",
-      "published": "2026-10-01T18:25:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50078076/lionel-messi-completes-purchase-spanish-second-division-club-eldense",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721436_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50079765",
+      "headline": "Pulisic admits he wants to stay at AC Milan despite lack of minutes",
+      "description": "Pulisic admits he wants to stay at AC Milan despite lack of minutes",
+      "published": "2026-10-01T22:17:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/50079765/pulisic-admits-wants-stay-ac-milan-lack-minutes",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1001/dm_261001_COM_SOC_Presser_Pulisic_admits_he_wants_to_stay_at_AC_Milan_despite_lack_of_minutes_20260901_GLO/dm_261001_COM_SOC_Presser_Pulisic_admits_he_wants_to_stay_at_AC_Milan_despite_lack_of_minutes_20260901_GLO.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Cabo Verde",
-        "Argentina"
+        "USA"
       ],
       "players": [
-        "Lionel Messi",
+        "Christian Pulisic",
         "Vozinha"
       ],
       "score": 131
     },
     {
-      "id": "50077984",
-      "headline": "Onuoha fears the women's team will suffer for Manchester City's charges",
-      "description": "Onuoha fears the women's team will suffer for Manchester City's charges",
-      "published": "2026-10-01T17:58:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/50077984/onuoha-fears-women-team-suffer-manchester-city-charges",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1001/dm_261001_Onuoha_fears_the_womens_team_will_suffer_for_Manchester_Citys_charges/dm_261001_Onuoha_fears_the_womens_team_will_suffer_for_Manchester_Citys_charges.jpg",
-      "byline": null,
+      "id": "50078680",
+      "headline": "How Man City players, staff are handling Premier League verdict",
+      "description": "As the reaction to Man City's guilty verdict continues to ripple across the sporting world, the club's internal messaging is very much one of confidence and carrying on. It may be easier said than done.",
+      "published": "2026-10-01T22:00:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50078680/how-man-city-players-staff-handling-premier-league-verdict",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724656_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -154,22 +174,20 @@
       "score": 130
     },
     {
-      "id": "50077868",
-      "headline": "Dembélé dismisses 'little squabbles' pitting him against Mbappé",
-      "description": "Ousmane Dembélé dismissed \"little squabbles\" online pitting him and Kylian Mbappé against each other in their quest to win this year's Ballon d'Or.",
-      "published": "2026-10-01T17:43:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50077868/france-ousmane-dembele-kylian-mbappe-france-ballon-dor",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724535_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "50079581",
+      "headline": "Burley has high hopes for Portugal without Ronaldo",
+      "description": "Burley has high hopes for Portugal without Ronaldo",
+      "published": "2026-10-01T21:48:48Z",
+      "url": "https://www.espn.com/video/clip/_/id/50079581/burley-high-hopes-portugal-ronaldo",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1001/dm_261001_Burley_has_high_hopes_for_Portugal_without_Ronaldo/dm_261001_Burley_has_high_hopes_for_Portugal_without_Ronaldo.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Cabo Verde",
-        "France"
+        "Portugal"
       ],
       "players": [
-        "Ousmane Dembélé",
-        "Kylian Mbappé",
         "Vozinha"
       ],
       "score": 130
@@ -186,7 +204,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 126
+      "score": 121
     },
     {
       "id": "50058472",
@@ -202,7 +220,7 @@
         "USA"
       ],
       "players": [],
-      "score": 108
+      "score": 102
     },
     {
       "id": "50054758",
@@ -216,21 +234,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 61
-    },
-    {
-      "id": "50045992",
-      "headline": "Will anyone stop Infantino? FIFA president is confident U20 World Cup cameo says otherwise",
-      "description": "Under fire from UEFA, Infantino is back to business as usual and inching closer to reelection as FIFA president.",
-      "published": "2026-09-28T16:59:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50045992/gianni-infantino-fifa-president-scandal-u20-world-cup-uefa-victor-montigliani",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722644_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 44
+      "score": 55
     },
     {
       "id": "50050816",
@@ -249,6 +253,20 @@
         "Vozinha"
       ],
       "score": 40
+    },
+    {
+      "id": "50045992",
+      "headline": "Will anyone stop Infantino? FIFA president is confident U20 World Cup cameo says otherwise",
+      "description": "Under fire from UEFA, Infantino is back to business as usual and inching closer to reelection as FIFA president.",
+      "published": "2026-09-28T16:59:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50045992/gianni-infantino-fifa-president-scandal-u20-world-cup-uefa-victor-montigliani",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722644_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 38
     },
     {
       "id": "50028671",
@@ -852,20 +870,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "50005268",
-      "headline": "If FIFA expands the World Cup again, how would a 64-team tournament work?",
-      "description": "The 2026 World Cup was the first to feature 48 teams, and 2030 could see the field swell to 64, but just how feasible is a tournament that size?",
-      "published": "2026-09-27T11:24:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50005268/if-fifa-expands-world-cup-again-how-64-team-tournament-work",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720423_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
