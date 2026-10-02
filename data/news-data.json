@@ -1,14 +1,62 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-02T09:00:58.327Z",
+  "updated": "2026-10-02T15:43:30.666Z",
   "counts": {
-    "news": 35,
-    "offfield": 7,
+    "preview": 4,
+    "news": 36,
     "injury": 1,
-    "celebration": 2,
-    "preview": 3
+    "offfield": 6,
+    "celebration": 1
   },
   "items": [
+    {
+      "id": "50084975",
+      "headline": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
+      "description": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
+      "published": "2026-10-02T14:58:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/50084975/not-proud-no-regrets-2006-world-cup-final-clash-materazzi",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_Zidane_Not_proud_but_no_regrets_over_2006_World_Cup_final_clash_with_Materazzi/dm_261002_Zidane_Not_proud_but_no_regrets_over_2006_World_Cup_final_clash_with_Materazzi.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 221
+    },
+    {
+      "id": "50084016",
+      "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula'",
+      "description": "FIFA's technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded there was not necessarily a \"winning formula\".",
+      "published": "2026-10-02T12:09:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 191
+    },
+    {
+      "id": "50083565",
+      "headline": "Did the World Cup help USMNT to move forward?",
+      "description": "Did the World Cup help USMNT to move forward?",
+      "published": "2026-10-02T10:03:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/50083565/did-world-cup-help-usmnt-move-forward",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_COM_SOC_Analysis_Did_the_World_Cup_help_USMNT_to_move_forward3F__GLOBAL_2026-10-02/dm_261002_COM_SOC_Analysis_Did_the_World_Cup_help_USMNT_to_move_forward3F__GLOBAL_2026-10-02.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 181
+    },
     {
       "id": "49867974",
       "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
@@ -21,7 +69,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 206
+      "score": 166
     },
     {
       "id": "50079068",
@@ -41,7 +89,45 @@
         "France"
       ],
       "players": [],
-      "score": 198
+      "score": 158
+    },
+    {
+      "id": "50084533",
+      "headline": "Raphinha set to be fit for Barcelona clashes with PSG and Real Madrid - source",
+      "description": "Raphinha will be fit for Barcelona's double header against Paris Saint-Germain and Real Madrid later this month after tests revealed no major injury to his right thigh on Friday, a source told ESPN.",
+      "published": "2026-10-02T13:47:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50084533/raphinha-barcelona-psg-real-madrid-champions-league-el-clasico",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724919_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Raphinha",
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50082951",
+      "headline": "Transfer rumors, news: Man United, Chelsea monitoring Benfica defender",
+      "description": "Tomás Araújo is subject to interest from Manchester United and Chelsea, while free agent Jadon Sancho is happy to wait to sign for a club. Transfer Talk has the latest.",
+      "published": "2026-10-02T13:17:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50082951/transfer-rumors-news-man-united-chelsea-monitoring-benfica-defender",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724835_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Tomás Araújo",
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 141
     },
     {
       "id": "50077965",
@@ -57,65 +143,99 @@
         "France"
       ],
       "players": [],
-      "score": 180
+      "score": 140
     },
     {
-      "id": "50083305",
-      "headline": "Sir Alex Ferguson was 'terrified' about Old Trafford return after brain surgery",
-      "description": "Sir Alex Ferguson has revealed he was \"terrified\" when returning to Old Trafford for the first time following brain surgery in 2018.",
-      "published": "2026-10-02T08:55:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50083305/sir-alex-ferguson-man-united-old-trafford-return",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724845_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50084900",
+      "headline": "Renée Slegers apologises for postmatch no-show: 'Important' to be with Arsenal players after draw",
+      "description": "Arsenal manager Renee Slegers apologised after she missed her post match duties on Wednesday following the 2-2 draw with Paris FC in the Champions League stating that it was \"important\" to be with the players instead.",
+      "published": "2026-10-02T15:36:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50084900/renee-slegers-apologises-postmatch-no-show-important-arsenal-players-draw",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724938_1296x729_16-9.jpg",
+      "byline": "Emily Keogh",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Cabo Verde"
+        "France"
       ],
       "players": [
-        "Vozinha"
+        "Zinadine Zidane M Catraio"
       ],
-      "score": 147
+      "score": 133
     },
     {
-      "id": "50082951",
-      "headline": "Transfer rumors, news: Man United, Chelsea monitoring Benfica defender",
-      "description": "Tomás Araújo is subject to interest from Manchester United and Chelsea, while free agent Jadon Sancho is happy to wait to sign for a club. Transfer Talk has the latest.",
-      "published": "2026-10-02T07:33:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50082951/transfer-rumors-news-man-united-chelsea-monitoring-benfica-defender",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724835_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50084918",
+      "headline": "Erik Ten Hag 'was a piece of c**p' Man United squad - Fred",
+      "description": "Former Manchester United midfielder Fred has accused ex-boss Erik Ten Hag of being a 'piece of c**p' when it came to squad management.",
+      "published": "2026-10-02T14:49:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50084918/erik-ten-hag-was-piece-c**p-group-former-manchester-united-midfielder-fred",
+      "image": "https://a.espncdn.com/photo/2025/1209/r1587068_1296x729_16-9.jpg",
+      "byline": "ESPN Brazil",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Cabo Verde"
+        "France"
       ],
       "players": [
-        "Tomás Araújo",
-        "Vozinha"
+        "Zinadine Zidane M Catraio"
       ],
-      "score": 143
+      "score": 132
     },
     {
-      "id": "50083149",
-      "headline": "Rasmus Højlund hits 'Siuuu' against Portugal: 'Cristiano Ronaldo will never be forgotten'",
-      "description": "Rasmus Hojlund celebrated Denmark's second goal against Portugal with Cristiano Ronaldo's trademark 'siuu' celebration, just days after the 41-year-old left his national team's camp.",
-      "published": "2026-10-02T08:24:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50083149/rasmus-hojlund-hits-siuuu-portugal-cristiano-ronaldo-never-forgotten",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724840_1296x729_16-9.jpg",
-      "byline": "Tom Masters",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "50084876",
+      "headline": "England boss Thomas Tuchel would be open to calling up Man City players even if club is relegated",
+      "description": "England boss Thomas Tuchel has suggested he would be open to calling up Manchester City players should the club be relegated to the Championship next season.",
+      "published": "2026-10-02T14:48:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50084876/thomas-tuchel-england-man-city-financial-breaches-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724942_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Cabo Verde",
-        "Portugal"
+        "France",
+        "England"
       ],
       "players": [
-        "Cristiano Ronaldo",
-        "Rasmus Højlund",
-        "Vozinha"
+        "Zinadine Zidane M Catraio"
       ],
-      "score": 139
+      "score": 132
+    },
+    {
+      "id": "50084463",
+      "headline": "Former Man City manager Roberto Mancini 'not concerned' about charges",
+      "description": "Former Manchester City manager and current Italy coach Roberto Mancini says he is unconcerned about being implicated in the financial rule-breaking scandal engulfing the English club, which on Friday said it was appealing the verdict.",
+      "published": "2026-10-02T13:35:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50084463/former-man-city-manager-roberto-mancini-not-concerned-charges",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721833_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50084450",
+      "headline": "Ancelotti: India could be dangerous against Brazil",
+      "description": "Ancelotti: India could be dangerous against Brazil",
+      "published": "2026-10-02T13:20:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/50084450/india-dangerous-brazil",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_Ancelotti_India_could_be_dangerous_against_Brazil/dm_261002_Ancelotti_India_could_be_dangerous_against_Brazil.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "Brazil"
+      ],
+      "players": [
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 129
     },
     {
       "id": "50020939",
@@ -131,63 +251,7 @@
         "USA"
       ],
       "players": [],
-      "score": 138
-    },
-    {
-      "id": "50083306",
-      "headline": "FA: Man City verdict has 'significant implications for integrity of game'",
-      "description": "The Football Association have expressed their concern that the guilty charge aimed at Manchester City over the Premier League's financial rules stains the \"integrity\" of the game.",
-      "published": "2026-10-02T08:56:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50083306/fa-man-city-verdict-significant-implications-integrity-game",
-      "image": "https://a.espncdn.com/photo/2023/0210/r1129437_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50056282",
-      "headline": "Is Rafa Marquez ready to push Mexico above the USMNT and beyond?",
-      "description": "Rafa Marquez, a fierce rival of the USMNT as a player, now leads Mexico as an inexperienced head coach looking to surpass the Americans.",
-      "published": "2026-10-02T07:37:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50056282/is-rafa-marquez-ready-push-mexico-usmnt-beyond",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724578_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Mexico",
-        "USA"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50058849",
-      "headline": "Ranking the top 10 Premier League's summer transfers so far",
-      "description": "Which players have impressed since making a move over the summer? Sometimes a £17 million arrival does better than a £117 million one.",
-      "published": "2026-10-02T07:30:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50058849/ranking-premier-league-summer-transfers-far-no1-surprise-you",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723444_1296x729_16-9.jpg",
-      "byline": "Sam Tighe",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 131
+      "score": 98
     },
     {
       "id": "50061434",
@@ -201,7 +265,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 87
+      "score": 47
     },
     {
       "id": "50058472",
@@ -217,21 +281,7 @@
         "USA"
       ],
       "players": [],
-      "score": 69
-    },
-    {
-      "id": "50054758",
-      "headline": "FIFA agrees in principle to federation payments from WC windfall",
-      "description": "FIFA president Gianni Infantino has come out in favor of a tentative proposal from UEFA and Concacaf that FIFA distributes funds to member associations as a result of record revenues from this summer's World Cup.",
-      "published": "2026-09-28T21:41:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50054758/fifa-agrees-federation-payments-wc-revenue",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707823_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 26
+      "score": 29
     },
     {
       "id": "50028671",
@@ -268,35 +318,6 @@
       ],
       "players": [
         "Folarin Balogun"
-      ],
-      "score": 25
-    },
-    {
-      "id": "49466177",
-      "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
-      "description": "Transfer deadlines are hitting across the globe and, with it, bringing to an end a window that has seen a remarkable surge in interest in players who represented the Socceroos at the FIFA World Cup.",
-      "published": "2026-09-02T01:17:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49466177/socceroos-transfer-tracker-where-australias-stars-play-2026-27",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710219_1295x729_16-9.png",
-      "byline": "Joey Lynch",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Australia"
-      ],
-      "players": [
-        "Patrick Beach",
-        "Paul Okon-Engstler",
-        "Cameron Devlin",
-        "Ajdin Hrustic",
-        "Tete Yengi",
-        "Mathew Ryan",
-        "Lucas Herrington",
-        "Jackson Irvine",
-        "Nestory Irankunda",
-        "Alessandro Circati",
-        "Harry Souttar",
-        "Mohamed Toure"
       ],
       "score": 25
     },
@@ -402,20 +423,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "50045992",
-      "headline": "Will anyone stop Infantino? FIFA president is confident U20 World Cup cameo says otherwise",
-      "description": "Under fire from UEFA, Infantino is back to business as usual and inching closer to reelection as FIFA president.",
-      "published": "2026-09-28T16:59:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50045992/gianni-infantino-fifa-president-scandal-u20-world-cup-uefa-victor-montigliani",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722644_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
     },
     {
       "id": "47978642",
@@ -649,24 +656,6 @@
       "score": 13
     },
     {
-      "id": "49793781",
-      "headline": "Gomez: Nobody should wear the Argentina No. 10 jersey for quite some time!",
-      "description": "Gomez: Nobody should wear the Argentina No. 10 jersey for quite some time!",
-      "published": "2026-09-01T14:42:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/49793781/wear-argentina-no-10-jersey-quite-some",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Gomez_Nobody_should_wear_the_Argentina_number_10_jersey_for_quite_some_time/dm_260901_Gomez_Nobody_should_wear_the_Argentina_number_10_jersey_for_quite_some_time.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 13
-    },
-    {
       "id": "50038230",
       "headline": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
       "description": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
@@ -850,13 +839,13 @@
       "score": 10
     },
     {
-      "id": "50005268",
-      "headline": "If FIFA expands the World Cup again, how would a 64-team tournament work?",
-      "description": "The 2026 World Cup was the first to feature 48 teams, and 2030 could see the field swell to 64, but just how feasible is a tournament that size?",
-      "published": "2026-09-27T11:24:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50005268/if-fifa-expands-world-cup-again-how-64-team-tournament-work",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720423_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
+      "id": "50054758",
+      "headline": "FIFA agrees in principle to federation payments from WC windfall",
+      "description": "FIFA president Gianni Infantino has come out in favor of a tentative proposal from UEFA and Concacaf that FIFA distributes funds to member associations as a result of record revenues from this summer's World Cup.",
+      "published": "2026-09-28T21:41:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50054758/fifa-agrees-federation-payments-wc-revenue",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707823_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
