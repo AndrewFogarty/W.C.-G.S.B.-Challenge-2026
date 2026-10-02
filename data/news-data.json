@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-02T15:43:30.666Z",
+  "updated": "2026-10-02T20:10:24.482Z",
   "counts": {
-    "preview": 4,
-    "news": 36,
-    "injury": 1,
+    "preview": 5,
+    "news": 35,
     "offfield": 6,
+    "injury": 1,
     "celebration": 1
   },
   "items": [
@@ -25,7 +25,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 221
+      "score": 214
     },
     {
       "id": "50084016",
@@ -39,7 +39,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 191
+      "score": 184
     },
     {
       "id": "50083565",
@@ -55,7 +55,7 @@
         "USA"
       ],
       "players": [],
-      "score": 181
+      "score": 175
     },
     {
       "id": "49867974",
@@ -69,7 +69,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 166
+      "score": 159
     },
     {
       "id": "50079068",
@@ -89,45 +89,69 @@
         "France"
       ],
       "players": [],
-      "score": 158
+      "score": 151
     },
     {
-      "id": "50084533",
-      "headline": "Raphinha set to be fit for Barcelona clashes with PSG and Real Madrid - source",
-      "description": "Raphinha will be fit for Barcelona's double header against Paris Saint-Germain and Real Madrid later this month after tests revealed no major injury to his right thigh on Friday, a source told ESPN.",
-      "published": "2026-10-02T13:47:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50084533/raphinha-barcelona-psg-real-madrid-champions-league-el-clasico",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724919_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Raphinha",
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 144
-    },
-    {
-      "id": "50082951",
-      "headline": "Transfer rumors, news: Man United, Chelsea monitoring Benfica defender",
-      "description": "Tomás Araújo is subject to interest from Manchester United and Chelsea, while free agent Jadon Sancho is happy to wait to sign for a club. Transfer Talk has the latest.",
-      "published": "2026-10-02T13:17:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50082951/transfer-rumors-news-man-united-chelsea-monitoring-benfica-defender",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724835_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50085754",
+      "headline": "New signing Carlos Baleba gets 1st Man United outing in friendly",
+      "description": "Carlos Baleba played his first minutes in a Manchester United shirt during a behind-closed-doors friendly on Friday.",
+      "published": "2026-10-02T18:31:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50085754/carlos-baleba-man-united-friendly-lausanne",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1725030_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "France"
       ],
       "players": [
-        "Tomás Araújo",
+        "Carlos Baleba",
         "Zinadine Zidane M Catraio"
       ],
-      "score": 141
+      "score": 143
+    },
+    {
+      "id": "50085385",
+      "headline": "Torres forced out of Spain squad; Madrid's Espí gets first call-up",
+      "description": "Spain striker Ferran Torres has withdrawn from the squad because of left ankle pain, ruling him out of the world champion's remaining Nations League games against the Czechia and Croatia in this international break.",
+      "published": "2026-10-02T17:05:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50085385/spain-squad-nations-league-ferran-torres-carlos-espi-real-madrid",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724991_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "France",
+        "Spain",
+        "Czechia",
+        "Croatia"
+      ],
+      "players": [
+        "Ferran Torres",
+        "Carlos Espí",
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50085677",
+      "headline": "Lionel Messi arrives in Argentina for farewell match",
+      "description": "Lionel Messi arrived in Argentina on Friday ahead of his farewell game with the national team.",
+      "published": "2026-10-02T18:14:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50085677/lionel-messi-argentina-farewell-match-benin",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1725019_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "France",
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 139
     },
     {
       "id": "50077965",
@@ -143,52 +167,36 @@
         "France"
       ],
       "players": [],
-      "score": 140
+      "score": 134
     },
     {
-      "id": "50084900",
-      "headline": "Renée Slegers apologises for postmatch no-show: 'Important' to be with Arsenal players after draw",
-      "description": "Arsenal manager Renee Slegers apologised after she missed her post match duties on Wednesday following the 2-2 draw with Paris FC in the Champions League stating that it was \"important\" to be with the players instead.",
-      "published": "2026-10-02T15:36:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50084900/renee-slegers-apologises-postmatch-no-show-important-arsenal-players-draw",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724938_1296x729_16-9.jpg",
-      "byline": "Emily Keogh",
+      "id": "50086086",
+      "headline": "Cucurella: Too soon to judge Mourinho's Madrid amid poor start",
+      "description": "Marc Cucurella has acknowledged Real Madrid have not started the season as they would have liked under new coach José Mourinho, but he says the team must be judged at the end of the campaign, not now.",
+      "published": "2026-10-02T19:46:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50086086/marc-cucurella-real-madrid-jose-mourinho-spain",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1725052_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "France"
+        "France",
+        "Spain"
       ],
       "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50084918",
-      "headline": "Erik Ten Hag 'was a piece of c**p' Man United squad - Fred",
-      "description": "Former Manchester United midfielder Fred has accused ex-boss Erik Ten Hag of being a 'piece of c**p' when it came to squad management.",
-      "published": "2026-10-02T14:49:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50084918/erik-ten-hag-was-piece-c**p-group-former-manchester-united-midfielder-fred",
-      "image": "https://a.espncdn.com/photo/2025/1209/r1587068_1296x729_16-9.jpg",
-      "byline": "ESPN Brazil",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
+        "Marc Cucurella",
         "Zinadine Zidane M Catraio"
       ],
       "score": 132
     },
     {
-      "id": "50084876",
-      "headline": "England boss Thomas Tuchel would be open to calling up Man City players even if club is relegated",
-      "description": "England boss Thomas Tuchel has suggested he would be open to calling up Manchester City players should the club be relegated to the Championship next season.",
-      "published": "2026-10-02T14:48:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50084876/thomas-tuchel-england-man-city-financial-breaches-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724942_1296x729_16-9.jpg",
-      "byline": "James Olley",
+      "id": "50085984",
+      "headline": "Thomas Tuchel: Raheem Sterling's struggles 'sad to see'",
+      "description": "England boss Thomas Tuchel said he is \"sad to see\" former international Raheem Sterling's current plight.",
+      "published": "2026-10-02T19:20:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50085984/thomas-tuchel-raheem-sterling-england-chelsea",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1725049_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -196,46 +204,49 @@
         "England"
       ],
       "players": [
+        "Raheem Sterling",
         "Zinadine Zidane M Catraio"
       ],
       "score": 132
     },
     {
-      "id": "50084463",
-      "headline": "Former Man City manager Roberto Mancini 'not concerned' about charges",
-      "description": "Former Manchester City manager and current Italy coach Roberto Mancini says he is unconcerned about being implicated in the financial rule-breaking scandal engulfing the English club, which on Friday said it was appealing the verdict.",
-      "published": "2026-10-02T13:35:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50084463/former-man-city-manager-roberto-mancini-not-concerned-charges",
-      "image": "https://a.espncdn.com/photo/2026/0925/r1721833_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "50085462",
+      "headline": "Why Denzel Boston should be on the radar for all fantasy managers",
+      "description": "Why Denzel Boston should be on the radar for all fantasy managers",
+      "published": "2026-10-02T17:12:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/50085462/why-denzel-boston-the-radar-all-fantasy-managers",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/ss_20261002_130751371_3681727790/ss_20261002_130751371_3681727790.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "France"
       ],
       "players": [
+        "Denzel Boston",
         "Zinadine Zidane M Catraio"
       ],
-      "score": 130
+      "score": 129
     },
     {
-      "id": "50084450",
-      "headline": "Ancelotti: India could be dangerous against Brazil",
-      "description": "Ancelotti: India could be dangerous against Brazil",
-      "published": "2026-10-02T13:20:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/50084450/india-dangerous-brazil",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_Ancelotti_India_could_be_dangerous_against_Brazil/dm_261002_Ancelotti_India_could_be_dangerous_against_Brazil.jpg",
+      "id": "50085283",
+      "headline": "Tuchel: Man City charges are a big topic in England camp",
+      "description": "Tuchel: Man City charges are a big topic in England camp",
+      "published": "2026-10-02T16:18:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/50085283/man-city-charges-big-topic-england-camp",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_Tuchel_Man_City_charges_are_a_big_topic_in_England_camp/dm_261002_Tuchel_Man_City_charges_are_a_big_topic_in_England_camp.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "France",
-        "Brazil"
+        "Croatia",
+        "England"
       ],
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 129
+      "score": 127
     },
     {
       "id": "50020939",
@@ -251,7 +262,7 @@
         "USA"
       ],
       "players": [],
-      "score": 98
+      "score": 91
     },
     {
       "id": "50061434",
@@ -265,23 +276,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 47
-    },
-    {
-      "id": "50058472",
-      "headline": "Pochettino labels Man City's charges as a 'period of deception'",
-      "description": "Pochettino labels Man City's charges as a 'period of deception'",
-      "published": "2026-09-29T13:24:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 29
+      "score": 40
     },
     {
       "id": "50028671",
@@ -320,6 +315,22 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "50058472",
+      "headline": "Pochettino labels Man City's charges as a 'period of deception'",
+      "description": "Pochettino labels Man City's charges as a 'period of deception'",
+      "published": "2026-09-29T13:24:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 22
     },
     {
       "id": "49947673",
