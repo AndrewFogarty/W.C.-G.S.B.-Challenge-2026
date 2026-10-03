@@ -1,11 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-03T13:37:21.177Z",
+  "updated": "2026-10-03T17:37:32.841Z",
   "counts": {
     "preview": 5,
-    "news": 36,
+    "news": 34,
+    "injury": 1,
     "offfield": 6,
-    "celebration": 1
+    "celebration": 2
   },
   "items": [
     {
@@ -24,7 +25,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 188
+      "score": 182
     },
     {
       "id": "50084016",
@@ -38,7 +39,25 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 158
+      "score": 152
+    },
+    {
+      "id": "50090785",
+      "headline": "Ex-Arsenal star Jack Wilshere 'proud' of career despite injuries: 'I could still be playing'",
+      "description": "Former Arsenal midfielder and current Luton Town manager Jack Wilshere says he is \"proud\" of his playing career despite the injuries and setbacks that kept him out for long periods.",
+      "published": "2026-10-03T16:29:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50090785/arsenal-jack-wilshere-injuries-luton-coaching-mikel-arteta-arsene-wenger",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714560_1296x864_3-2.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 145
     },
     {
       "id": "50083565",
@@ -54,13 +73,13 @@
         "USA"
       ],
       "players": [],
-      "score": 149
+      "score": 143
     },
     {
       "id": "50089210",
       "headline": "Transfer rumors, news: Haaland wants LaLiga move over Arsenal",
       "description": "Manchester City striker Erling Haaland favors a move to Spain over Arsenal. Transfer Talk has the latest.",
-      "published": "2026-10-03T08:31:00Z",
+      "published": "2026-10-03T15:30:54Z",
       "url": "https://www.espn.com/soccer/story/_/id/50089210/transfer-rumors-news-man-city-erling-haaland-wants-laliga-move-arsenal",
       "image": "https://a.espncdn.com/photo/2026/0920/r1719479_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -74,7 +93,82 @@
         "Erling Haaland",
         "Zinadine Zidane M Catraio"
       ],
+      "score": 142
+    },
+    {
+      "id": "50090505",
+      "headline": "Sébastien Pocognoli not feeling pressure to get first Scotland win",
+      "description": "Scotland boss Sebastien Pocagnoli has said that he does not feel pressure to get his first win as his side prepare to take on North Macedonia in Skopje.",
+      "published": "2026-10-03T14:34:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50090505/sebastien-pocognoli-not-feeling-pressure-get-first-scotland-win",
+      "image": "https://a.espncdn.com/photo/2026/1003/r1725297_1296x729_16-9.jpg",
+      "byline": "Tom Masters",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "France",
+        "Scotland"
+      ],
+      "players": [
+        "Zinadine Zidane M Catraio"
+      ],
       "score": 137
+    },
+    {
+      "id": "50090561",
+      "headline": "Man United celebrate 250th game with WSL win over Liverpool",
+      "description": "Julia Zigiotti Olme's sixth-minute lob proved enough to earn Manchester United boss Eva Olid a second Women's Super League (WSL) victory of the season after a 1-0 home win over Liverpool.",
+      "published": "2026-10-03T14:52:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50090561/man-united-edge-liverpool-zigiotti-olme-scores-250th-club-appearance",
+      "image": "https://a.espncdn.com/photo/2026/1003/r1725298_594x334_16-9.jpg",
+      "byline": "PA",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 136
+    },
+    {
+      "id": "50091270",
+      "headline": "Wales aiming to boost Euro 2028 seeding with Nations League performance - Craig Bellamy",
+      "description": "Craig Bellamy admits Wales are aiming to boost their Euro 2028 seeding after throwing a \"hand grenade\" into their Nations League group.",
+      "published": "2026-10-03T17:24:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50091270/wales-aiming-boost-euro-2028-seeding-nations-league-performance-craig-bellamy",
+      "image": "https://a.espncdn.com/photo/2026/1003/r1725347_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50065733",
+      "headline": "England, Scotland, Wales, Northern Ireland in Nations League: How are Home Nations faring?",
+      "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
+      "published": "2026-10-03T14:53:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723893_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France",
+        "England",
+        "Scotland"
+      ],
+      "players": [
+        "Zinadine Zidane M Catraio"
+      ],
+      "score": 129
     },
     {
       "id": "49867974",
@@ -88,27 +182,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 133
-    },
-    {
-      "id": "50066974",
-      "headline": "Why will England's Nations League match against Croatia be played behind closed doors?",
-      "description": "England will take on Croatia in Rijeka in front of an almost entirely empty stadium.",
-      "published": "2026-10-03T06:24:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50066974/england-nations-league-croatia-closed-doors",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723881_1296x729_16-9.jpg",
-      "byline": "Matteo Mazzoni",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "France",
-        "England",
-        "Croatia"
-      ],
-      "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 131
+      "score": 127
     },
     {
       "id": "50089283",
@@ -128,7 +202,7 @@
         "John McGinn",
         "Zinadine Zidane M Catraio"
       ],
-      "score": 127
+      "score": 121
     },
     {
       "id": "50079068",
@@ -148,7 +222,7 @@
         "France"
       ],
       "players": [],
-      "score": 125
+      "score": 119
     },
     {
       "id": "50067649",
@@ -158,85 +232,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
       "image": "https://a.espncdn.com/photo/2026/0930/r1723910_1296x729_16-9.jpg",
       "byline": "Jamie Barton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 122
-    },
-    {
-      "id": "50065733",
-      "headline": "England, Scotland, Wales, Northern Ireland in Nations League: How are Home Nations faring?",
-      "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
-      "published": "2026-10-03T06:23:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723893_1296x729_16-9.jpg",
-      "byline": "Hannah Ryan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "England",
-        "Scotland"
-      ],
-      "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 122
-    },
-    {
-      "id": "50088402",
-      "headline": "Seattle Reign FC vs. North Carolina Courage - Game Highlights",
-      "description": "Watch the Game Highlights from Seattle Reign FC vs. North Carolina Courage, 10/03/2026",
-      "published": "2026-10-03T04:10:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/50088402/seattle-reign-fc-vs-north-carolina-courage-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1003/6d100bcc-abfd-4261-8222-50d9e4b4dbef/6d100bcc-abfd-4261-8222-50d9e4b4dbef.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Phoebe McClernon",
-        "Nérilia Mondésir",
-        "Gianna Paul",
-        "Jordyn Bugg",
-        "Ryan Williams",
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 119
-    },
-    {
-      "id": "50087863",
-      "headline": "Kentucky vs. Vanderbilt: Game Highlights",
-      "description": "Kentucky vs. Vanderbilt: Game Highlights",
-      "published": "2026-10-03T02:23:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/50087863/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1003/d2d439ab-b80f-4778-ae18-0524793eefdb/d2d439ab-b80f-4778-ae18-0524793eefdb.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 116
-    },
-    {
-      "id": "50087844",
-      "headline": "Virginia Tech vs. Virginia: Game Highlights",
-      "description": "Virginia Tech vs. Virginia: Game Highlights",
-      "published": "2026-10-03T02:21:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/50087844/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1003/3bb0cdaf-0cec-4646-8634-56815e980b5c/3bb0cdaf-0cec-4646-8634-56815e980b5c.jpg",
-      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -261,7 +256,7 @@
         "France"
       ],
       "players": [],
-      "score": 107
+      "score": 101
     },
     {
       "id": "50020939",
@@ -277,7 +272,7 @@
         "USA"
       ],
       "players": [],
-      "score": 65
+      "score": 59
     },
     {
       "id": "50061434",
