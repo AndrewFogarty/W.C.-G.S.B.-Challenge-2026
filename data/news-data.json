@@ -1,6 +1,6 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-04T14:26:02.702Z",
+  "updated": "2026-10-04T18:17:50.864Z",
   "counts": {
     "news": 35,
     "offfield": 7,
@@ -8,6 +8,24 @@
     "preview": 4
   },
   "items": [
+    {
+      "id": "50099893",
+      "headline": "Scaloni: Messi's final Argentina match will be unforgettable",
+      "description": "Scaloni: Messi's final Argentina match will be unforgettable",
+      "published": "2026-10-04T14:48:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/50099893/messi-final-argentina-match-unforgettable",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 208
+    },
     {
       "id": "50074316",
       "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
@@ -24,7 +42,7 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 203
+      "score": 188
     },
     {
       "id": "50098546",
@@ -42,7 +60,7 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 192
+      "score": 177
     },
     {
       "id": "50099475",
@@ -55,12 +73,12 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "England"
+        "Argentina"
       ],
       "players": [
-        "Harry Kane"
+        "Lionel Messi"
       ],
-      "score": 143
+      "score": 137
     },
     {
       "id": "50098759",
@@ -73,12 +91,32 @@
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
-        "England"
+        "Argentina"
       ],
       "players": [
-        "Harry Kane"
+        "Lionel Messi"
       ],
-      "score": 139
+      "score": 133
+    },
+    {
+      "id": "50099303",
+      "headline": "Thomas Tuchel heaps praise on Alex Scott after first England start",
+      "description": "England boss Thomas Tuchel described midfielder Alex Scott as the \"complete package\" after he impressed in the 7-0 victory in Croatia.",
+      "published": "2026-10-04T12:38:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50099303/thomas-tuchel-alex-scott-england-croatia-nations-league",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725728_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England",
+        "Croatia"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
     },
     {
       "id": "50098303",
@@ -91,13 +129,57 @@
       "kind": "celebration",
       "kindLabel": "Celebration",
       "teams": [
+        "Argentina",
         "England",
         "Croatia"
       ],
       "players": [
-        "Harry Kane"
+        "Harry Kane",
+        "Lionel Messi"
       ],
-      "score": 131
+      "score": 125
+    },
+    {
+      "id": "50099211",
+      "headline": "Andrew Robertson after hitting 100 Scotland caps: Hopefully I can catch Kenny Dalglish",
+      "description": "Andy Robertson was determined to savour the \"incredible\" achievement of reaching 100 Scotland caps before he thinks about trying to overhaul Sir Kenny Dalglish at the top of his country's appearance charts.",
+      "published": "2026-10-04T11:51:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50099211/andrew-robertson-hitting-100-scotland-caps-hopefully-catch-kenny-dalglish",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725723_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Scotland"
+      ],
+      "players": [
+        "Andy Robertson",
+        "Lionel Messi"
+      ],
+      "score": 123
+    },
+    {
+      "id": "50097898",
+      "headline": "USMNT's young stars shine to give Pochettino 'fantastic problem'",
+      "description": "USMNT coach Mauricio Pochettino said that the number of players performing at a high level is \"a fantastic problem to have\" after teenagers Cavan Sullivan and Julian Hall propelled the USMNT to 3-0 win over rivals Mexico on Saturday.",
+      "published": "2026-10-04T06:37:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50097898/usa-mexico-mauricio-pochettino-julian-hall-cavan-sullivan",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725648_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA",
+        "Mexico"
+      ],
+      "players": [
+        "Julian Hall",
+        "Cavan Sullivan",
+        "Lionel Messi"
+      ],
+      "score": 115
     },
     {
       "id": "50084975",
@@ -115,68 +197,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 131
-    },
-    {
-      "id": "50099303",
-      "headline": "Thomas Tuchel heaps praise on Alex Scott after first England start",
-      "description": "England boss Thomas Tuchel described midfielder Alex Scott as the \"complete package\" after he impressed in the 7-0 victory in Croatia.",
-      "published": "2026-10-04T12:38:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50099303/thomas-tuchel-alex-scott-england-croatia-nations-league",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725728_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50099211",
-      "headline": "Andrew Robertson after hitting 100 Scotland caps: Hopefully I can catch Kenny Dalglish",
-      "description": "Andy Robertson was determined to savour the \"incredible\" achievement of reaching 100 Scotland caps before he thinks about trying to overhaul Sir Kenny Dalglish at the top of his country's appearance charts.",
-      "published": "2026-10-04T11:51:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50099211/andrew-robertson-hitting-100-scotland-caps-hopefully-catch-kenny-dalglish",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725723_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Scotland"
-      ],
-      "players": [
-        "Andy Robertson",
-        "Harry Kane"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50097898",
-      "headline": "USMNT's young stars shine to give Pochettino 'fantastic problem'",
-      "description": "USMNT coach Mauricio Pochettino said that the number of players performing at a high level is \"a fantastic problem to have\" after teenagers Cavan Sullivan and Julian Hall propelled the USMNT to 3-0 win over rivals Mexico on Saturday.",
-      "published": "2026-10-04T06:37:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50097898/usa-mexico-mauricio-pochettino-julian-hall-cavan-sullivan",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725648_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "USA",
-        "Mexico"
-      ],
-      "players": [
-        "Julian Hall",
-        "Cavan Sullivan",
-        "Harry Kane"
-      ],
-      "score": 121
+      "score": 115
     },
     {
       "id": "50084016",
@@ -190,7 +211,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 101
+      "score": 85
     },
     {
       "id": "50083565",
@@ -206,7 +227,7 @@
         "USA"
       ],
       "players": [],
-      "score": 91
+      "score": 76
     },
     {
       "id": "49867974",
@@ -220,7 +241,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 76
+      "score": 60
     },
     {
       "id": "50079068",
@@ -240,7 +261,7 @@
         "France"
       ],
       "players": [],
-      "score": 68
+      "score": 52
     },
     {
       "id": "50077965",
@@ -256,23 +277,7 @@
         "France"
       ],
       "players": [],
-      "score": 50
-    },
-    {
-      "id": "50020939",
-      "headline": "U.S. Soccer's post-World Cup vibes: Lamenting a missed opportunity, embracing excitement",
-      "description": "The USMNT's World Cup was a paradox. Did inspiring a nation of future fans make it a success, or does the embarrassing exit mean it was a failure?",
-      "published": "2026-10-01T18:29:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50020939/us-soccer-men-national-team-post-world-cup-vibes-lamenting-missed-opportunity-embracing-excitement",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721313_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 28
+      "score": 34
     },
     {
       "id": "50028671",
@@ -311,6 +316,22 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "50020939",
+      "headline": "U.S. Soccer's post-World Cup vibes: Lamenting a missed opportunity, embracing excitement",
+      "description": "The USMNT's World Cup was a paradox. Did inspiring a nation of future fans make it a success, or does the embarrassing exit mean it was a failure?",
+      "published": "2026-10-01T18:29:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50020939/us-soccer-men-national-team-post-world-cup-vibes-lamenting-missed-opportunity-embracing-excitement",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721313_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 22
     },
     {
       "id": "49947673",
@@ -835,20 +856,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50061434/fifa-president-nasser-al-khelaifi-psg-gianni-infantino-election",
       "image": "https://a.espncdn.com/photo/2026/0929/r1723629_1296x729_16-9.jpg",
       "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50054758",
-      "headline": "FIFA agrees in principle to federation payments from WC windfall",
-      "description": "FIFA president Gianni Infantino has come out in favor of a tentative proposal from UEFA and Concacaf that FIFA distributes funds to member associations as a result of record revenues from this summer's World Cup.",
-      "published": "2026-09-28T21:41:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50054758/fifa-agrees-federation-payments-wc-revenue",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707823_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
