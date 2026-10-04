@@ -1,13 +1,104 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-04T08:45:15.117Z",
+  "updated": "2026-10-04T14:26:02.702Z",
   "counts": {
-    "preview": 4,
+    "news": 35,
+    "offfield": 7,
     "celebration": 2,
-    "news": 37,
-    "offfield": 5
+    "preview": 4
   },
   "items": [
+    {
+      "id": "50074316",
+      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
+      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
+      "published": "2026-10-04T10:38:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
+      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Kylian Mbappé",
+        "Harry Kane",
+        "Lamine Yamal"
+      ],
+      "score": 203
+    },
+    {
+      "id": "50098546",
+      "headline": "AFC to introduce Nations League in shake-up of World Cup, Asian Cup qualification",
+      "description": "The Asian Football Confederation is set to introduce a Nations League competition, which will affect the qualification process for the World Cup and Asian Cup.",
+      "published": "2026-10-04T09:18:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50098546/afc-introduce-nations-league-shake-world-cup-asian-cup-qualification",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725697_1296x729_16-9.jpg",
+      "byline": "Joey Lynch, Gabriel Tan, Stuart Randall",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Japan",
+        "Korea Republic"
+      ],
+      "players": [],
+      "score": 192
+    },
+    {
+      "id": "50099475",
+      "headline": "Celtic condemn protest after tennis balls thrown at owner",
+      "description": "Celtic have condemned the protest which saw tennis balls thrown towards principal shareholder Dermot Desmond during his visit to the Alfred Dunhill Links golf tournament at St Andrews.",
+      "published": "2026-10-04T13:07:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50099475/celtic-dermot-desmond-protest-tennis-balls-st-andrews-alfred-dunhill-links-golf",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725735_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50098759",
+      "headline": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
+      "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
+      "published": "2026-10-04T10:27:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705543_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 139
+    },
+    {
+      "id": "50098303",
+      "headline": "Harry Kane: England rout of Croatia sends 'message' to rest of Europe",
+      "description": "England captain Harry Kane believes the 7-0 demolition of Croatia sends a message to the rest of Europe as he closes in on more history.",
+      "published": "2026-10-04T08:28:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50098303/harry-kane-england-rout-croatia-sends-message-rest-europe",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725682_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 131
+    },
     {
       "id": "50084975",
       "headline": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
@@ -24,28 +115,46 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 159
+      "score": 131
     },
     {
-      "id": "50098303",
-      "headline": "Harry Kane: England rout of Croatia sends 'message' to rest of Europe",
-      "description": "England captain Harry Kane believes the 7-0 demolition of Croatia sends a message to the rest of Europe as he closes in on more history.",
-      "published": "2026-10-04T08:28:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50098303/harry-kane-england-rout-croatia-sends-message-rest-europe",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725682_1296x729_16-9.jpg",
+      "id": "50099303",
+      "headline": "Thomas Tuchel heaps praise on Alex Scott after first England start",
+      "description": "England boss Thomas Tuchel described midfielder Alex Scott as the \"complete package\" after he impressed in the 7-0 victory in Croatia.",
+      "published": "2026-10-04T12:38:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50099303/thomas-tuchel-alex-scott-england-croatia-nations-league",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725728_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "France",
         "England",
         "Croatia"
       ],
       "players": [
-        "Harry Kane",
-        "Zinadine Zidane M Catraio"
+        "Harry Kane"
       ],
-      "score": 140
+      "score": 130
+    },
+    {
+      "id": "50099211",
+      "headline": "Andrew Robertson after hitting 100 Scotland caps: Hopefully I can catch Kenny Dalglish",
+      "description": "Andy Robertson was determined to savour the \"incredible\" achievement of reaching 100 Scotland caps before he thinks about trying to overhaul Sir Kenny Dalglish at the top of his country's appearance charts.",
+      "published": "2026-10-04T11:51:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50099211/andrew-robertson-hitting-100-scotland-caps-hopefully-catch-kenny-dalglish",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725723_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Scotland"
+      ],
+      "players": [
+        "Andy Robertson",
+        "Harry Kane"
+      ],
+      "score": 129
     },
     {
       "id": "50097898",
@@ -58,96 +167,16 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "France",
-        "USA",
-        "Mexico"
-      ],
-      "players": [
-        "Julian Hall",
-        "Cavan Sullivan",
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50096908",
-      "headline": "Sullivan shows he's going to be a star as U.S. thrash Mexico",
-      "description": "The U.S. youngsters -- led by 17-year-old Cavan Sullivan -- put on a show as Mauricio Pochettino's side thumped rivals Mexico 3-0 and has won all three of its matches in the international break.",
-      "published": "2026-10-04T06:34:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50096908/usa-mexico-cavan-sullivan-mauricio-pochettino-analysis-highlights",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725630_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle and Lizzy Becherano and Omar Flores",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "USA",
-        "Mexico"
-      ],
-      "players": [
-        "Cavan Sullivan",
-        "Julian Hall",
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50065733",
-      "headline": "England, Scotland, Wales, Northern Ireland in Nations League: How are Home Nations faring?",
-      "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
-      "published": "2026-10-04T06:28:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723893_1296x729_16-9.jpg",
-      "byline": "Hannah Ryan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
         "England",
-        "Scotland"
+        "USA",
+        "Mexico"
       ],
       "players": [
-        "Zinadine Zidane M Catraio"
+        "Julian Hall",
+        "Cavan Sullivan",
+        "Harry Kane"
       ],
-      "score": 130
-    },
-    {
-      "id": "50067649",
-      "headline": "Nations League explained: What is the format? How can teams qualify for Euro 2028?",
-      "description": "The Nations League offers some teams a shot at glory, and others a spot at Euro 2028. But how does it work?",
-      "published": "2026-10-04T06:23:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723910_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France"
-      ],
-      "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50097676",
-      "headline": "Márquez bemoans 'terrible mistakes' as Mexico humbled by USMNT",
-      "description": "Mexico national team coach Rafael Márquez says his players practically gifted the goals to the United States in a 3-0 loss on Saturday night at State Farm Stadium outside Phoenix.",
-      "published": "2026-10-04T05:45:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50097676/mexico-usa-rafael-marquez-coach-2026-friendly",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725631_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Mexico",
-        "USA"
-      ],
-      "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 129
+      "score": 121
     },
     {
       "id": "50084016",
@@ -161,47 +190,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 129
-    },
-    {
-      "id": "50097420",
-      "headline": "Argentina score 7 past makeshift Burkina Faso after travel woes",
-      "description": "Argentina routed Burkina Faso 7-0 on Saturday in an international friendly in Buenos Aires, extending its strong start to the post-World Cup period.",
-      "published": "2026-10-04T05:22:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50097420/argentina-burkina-faso-friendly-lautaro-martinez",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725623_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Argentina"
-      ],
-      "players": [
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50097236",
-      "headline": "NWSL: DeMelo returns, Debinha hits hat trick, USWNT's Wilson sees red",
-      "description": "Brecken Mozingo scored late in stoppage time to pull the Utah Royals into a 1-1 draw with Racing Louisville on Saturday in a match that saw the return of Savannah DeMelo, who collapsed during a game last season.",
-      "published": "2026-10-04T04:48:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50097236/nwsl-savannah-demelo-debinha-sophia-racing-louisville-utah",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725615_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "USA"
-      ],
-      "players": [
-        "Debinha",
-        "Sophia Wilson",
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 127
+      "score": 101
     },
     {
       "id": "50083565",
@@ -217,7 +206,7 @@
         "USA"
       ],
       "players": [],
-      "score": 120
+      "score": 91
     },
     {
       "id": "49867974",
@@ -231,7 +220,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 104
+      "score": 76
     },
     {
       "id": "50079068",
@@ -251,7 +240,7 @@
         "France"
       ],
       "players": [],
-      "score": 96
+      "score": 68
     },
     {
       "id": "50077965",
@@ -267,7 +256,7 @@
         "France"
       ],
       "players": [],
-      "score": 79
+      "score": 50
     },
     {
       "id": "50020939",
@@ -283,21 +272,7 @@
         "USA"
       ],
       "players": [],
-      "score": 37
-    },
-    {
-      "id": "50061434",
-      "headline": "PSG chief Al-Khelaifi has 'zero interest' in FIFA presidency",
-      "description": "European soccer's search for a candidate to challenge Gianni Infantino in the FIFA presidential election will not land on clubs' leader Nasser Al-Khelaifi.",
-      "published": "2026-09-29T21:29:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50061434/fifa-president-nasser-al-khelaifi-psg-gianni-infantino-election",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723629_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 26
+      "score": 28
     },
     {
       "id": "50028671",
@@ -377,22 +352,6 @@
         "Mathew Ryan"
       ],
       "score": 22
-    },
-    {
-      "id": "50058472",
-      "headline": "Pochettino labels Man City's charges as a 'period of deception'",
-      "description": "Pochettino labels Man City's charges as a 'period of deception'",
-      "published": "2026-09-29T13:24:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 20
     },
     {
       "id": "50050816",
@@ -670,22 +629,20 @@
       "score": 13
     },
     {
-      "id": "49824937",
-      "headline": "Maresca: Enzo Fernandez is 'a winner'",
-      "description": "Maresca: Enzo Fernandez is 'a winner'",
-      "published": "2026-09-04T13:35:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/49824937/enzo-fernandez-winner",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Maresca_Enzo_Fernandez_is_a_winner/dm_260904_Maresca_Enzo_Fernandez_is_a_winner.jpg",
+      "id": "50058472",
+      "headline": "Pochettino labels Man City's charges as a 'period of deception'",
+      "description": "Pochettino labels Man City's charges as a 'period of deception'",
+      "published": "2026-09-29T13:24:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "USA"
       ],
-      "players": [
-        "Enzo Fernández"
-      ],
-      "score": 13
+      "players": [],
+      "score": 10
     },
     {
       "id": "50038230",
@@ -869,6 +826,34 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "50061434",
+      "headline": "PSG chief Al-Khelaifi has 'zero interest' in FIFA presidency",
+      "description": "European soccer's search for a candidate to challenge Gianni Infantino in the FIFA presidential election will not land on clubs' leader Nasser Al-Khelaifi.",
+      "published": "2026-09-29T21:29:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50061434/fifa-president-nasser-al-khelaifi-psg-gianni-infantino-election",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723629_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50054758",
+      "headline": "FIFA agrees in principle to federation payments from WC windfall",
+      "description": "FIFA president Gianni Infantino has come out in favor of a tentative proposal from UEFA and Concacaf that FIFA distributes funds to member associations as a result of record revenues from this summer's World Cup.",
+      "published": "2026-09-28T21:41:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50054758/fifa-agrees-federation-payments-wc-revenue",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707823_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
