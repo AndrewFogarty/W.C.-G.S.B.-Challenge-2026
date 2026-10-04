@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-04T18:17:50.864Z",
+  "updated": "2026-10-04T21:39:47.261Z",
   "counts": {
-    "news": 35,
+    "news": 34,
+    "preview": 5,
     "offfield": 7,
-    "celebration": 2,
-    "preview": 4
+    "celebration": 2
   },
   "items": [
     {
@@ -24,7 +24,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 208
+      "score": 203
     },
     {
       "id": "50074316",
@@ -42,7 +42,7 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 188
+      "score": 182
     },
     {
       "id": "50098546",
@@ -60,7 +60,27 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 177
+      "score": 171
+    },
+    {
+      "id": "50099766",
+      "headline": "Zinedine Zidane: France will make 'smart changes' against Belgium",
+      "description": "France head coach Zinedine Zidane has said he will make some \"smart changes\" when his side face Belgium looking to stay top of Nations League Group A1.",
+      "published": "2026-10-04T14:40:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50099766/zinedine-zidane-planning-france-changes-belgium-win-home",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725754_594x334_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "France",
+        "Belgium"
+      ],
+      "players": [
+        "Neymar"
+      ],
+      "score": 132
     },
     {
       "id": "50099475",
@@ -78,7 +98,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 137
+      "score": 132
     },
     {
       "id": "50098759",
@@ -96,27 +116,61 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 128
     },
     {
-      "id": "50099303",
-      "headline": "Thomas Tuchel heaps praise on Alex Scott after first England start",
-      "description": "England boss Thomas Tuchel described midfielder Alex Scott as the \"complete package\" after he impressed in the 7-0 victory in Croatia.",
-      "published": "2026-10-04T12:38:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50099303/thomas-tuchel-alex-scott-england-croatia-nations-league",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725728_1296x729_16-9.jpg",
+      "id": "50100161",
+      "headline": "Chelsea continue good WSL start with win over West Ham",
+      "description": "Chelsea kept up the pace at the top of the Women's Super League with a 3-0 win at West Ham.",
+      "published": "2026-10-04T15:54:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50100161/chelsea-continue-good-wsl-start-win-west-ham",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725790_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "England",
-        "Croatia"
+        "Argentina"
       ],
       "players": [
-        "Lionel Messi"
+        "Neymar"
       ],
-      "score": 125
+      "score": 124
+    },
+    {
+      "id": "50100086",
+      "headline": "Alexia Putellas hits double as London City Lionesses rout Spurs",
+      "description": "Alexia Putellas and Kadidiatou Diani both scored twice as London City Lionesses swept past Tottenham 6-1 at the BetWright Stadium to continue their impressive start in the Women's Super League (WSL).",
+      "published": "2026-10-04T15:45:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50100086/alexia-putellas-hits-double-london-city-lionesses-rout-spurs",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725774_594x334_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Neymar"
+      ],
+      "score": 124
+    },
+    {
+      "id": "50079707",
+      "headline": "Man City maintain perfect WSL record with dramatic win over Arsenal",
+      "description": "Manchester City came from behind twice to continue their 100% record to the WSL season with a 4-2 victory over struggling Arsenal.",
+      "published": "2026-10-04T17:52:37Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401902894",
+      "image": null,
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Neymar"
+      ],
+      "score": 121
     },
     {
       "id": "50098303",
@@ -137,7 +191,27 @@
         "Harry Kane",
         "Lionel Messi"
       ],
-      "score": 125
+      "score": 120
+    },
+    {
+      "id": "50099303",
+      "headline": "Thomas Tuchel heaps praise on Alex Scott after first England start",
+      "description": "England boss Thomas Tuchel described midfielder Alex Scott as the \"complete package\" after he impressed in the 7-0 victory in Croatia.",
+      "published": "2026-10-04T12:38:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50099303/thomas-tuchel-alex-scott-england-croatia-nations-league",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725728_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England",
+        "Croatia"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 119
     },
     {
       "id": "50099211",
@@ -157,7 +231,7 @@
         "Andy Robertson",
         "Lionel Messi"
       ],
-      "score": 123
+      "score": 118
     },
     {
       "id": "50097898",
@@ -179,7 +253,7 @@
         "Cavan Sullivan",
         "Lionel Messi"
       ],
-      "score": 115
+      "score": 110
     },
     {
       "id": "50084975",
@@ -197,7 +271,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 115
+      "score": 110
     },
     {
       "id": "50084016",
@@ -211,7 +285,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 85
+      "score": 80
     },
     {
       "id": "50083565",
@@ -227,7 +301,7 @@
         "USA"
       ],
       "players": [],
-      "score": 76
+      "score": 71
     },
     {
       "id": "49867974",
@@ -241,7 +315,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 60
+      "score": 55
     },
     {
       "id": "50079068",
@@ -261,7 +335,7 @@
         "France"
       ],
       "players": [],
-      "score": 52
+      "score": 47
     },
     {
       "id": "50077965",
@@ -277,7 +351,7 @@
         "France"
       ],
       "players": [],
-      "score": 34
+      "score": 29
     },
     {
       "id": "50028671",
@@ -316,22 +390,6 @@
         "Folarin Balogun"
       ],
       "score": 25
-    },
-    {
-      "id": "50020939",
-      "headline": "U.S. Soccer's post-World Cup vibes: Lamenting a missed opportunity, embracing excitement",
-      "description": "The USMNT's World Cup was a paradox. Did inspiring a nation of future fans make it a success, or does the embarrassing exit mean it was a failure?",
-      "published": "2026-10-01T18:29:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50020939/us-soccer-men-national-team-post-world-cup-vibes-lamenting-missed-opportunity-embracing-excitement",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721313_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 22
     },
     {
       "id": "49947673",
@@ -435,6 +493,22 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50020939",
+      "headline": "U.S. Soccer's post-World Cup vibes: Lamenting a missed opportunity, embracing excitement",
+      "description": "The USMNT's World Cup was a paradox. Did inspiring a nation of future fans make it a success, or does the embarrassing exit mean it was a failure?",
+      "published": "2026-10-01T18:29:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50020939/us-soccer-men-national-team-post-world-cup-vibes-lamenting-missed-opportunity-embracing-excitement",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721313_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 17
     },
     {
       "id": "47978642",
@@ -796,71 +870,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "49952392",
-      "headline": "Thomas Tuchel: 'Regret I didn't eat some grass' after England's Azteca win over Mexico",
-      "description": "Thomas Tuchel has revealed he wished he had eaten some of the grass after England's memorable FIFA World Cup win over Mexico.",
-      "published": "2026-09-15T22:36:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49952392/thomas-tuchel-wish-ate-some-azteca-grass-england-stunning-world-cup-win-mexico",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717253_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Mexico"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49892754",
-      "headline": "FIFA: 2030 World Cup final host country decision to be made 'in due course'",
-      "description": "FIFA said on Thursday that the decision over whether Morocco or Spain would host the 2030 World Cup final would be made \"in due course.\"",
-      "published": "2026-09-10T16:30:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49892754/fifa-decision-morocco-vs-spain-host-2030-world-cup-final-made-due-course",
-      "image": "https://a.espncdn.com/photo/2026/0313/r1627854_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49865329",
-      "headline": "Popovic comfortable with Socceroos penalty shootout choices at World Cup",
-      "description": "Socceroos coach Tony Popovic isn't second-guessing the shootout that saw his side eliminated from the FIFA World Cup, saying that he would have made the same choices had the two sides come back the next day.",
-      "published": "2026-09-09T01:38:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49865329/popovic-comfortable-socceroos-penalty-shootout-choices-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713099_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Egypt"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "50061434",
-      "headline": "PSG chief Al-Khelaifi has 'zero interest' in FIFA presidency",
-      "description": "European soccer's search for a candidate to challenge Gianni Infantino in the FIFA presidential election will not land on clubs' leader Nasser Al-Khelaifi.",
-      "published": "2026-09-29T21:29:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50061434/fifa-president-nasser-al-khelaifi-psg-gianni-infantino-election",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723629_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
