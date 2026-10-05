@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-05T05:43:25.980Z",
+  "updated": "2026-10-05T12:42:12.120Z",
   "counts": {
-    "news": 38,
-    "offfield": 5,
-    "preview": 4,
+    "news": 34,
+    "offfield": 6,
+    "injury": 2,
+    "preview": 5,
     "celebration": 1
   },
   "items": [
@@ -23,7 +24,7 @@
         "USA"
       ],
       "players": [],
-      "score": 199
+      "score": 188
     },
     {
       "id": "50099893",
@@ -41,7 +42,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 181
+      "score": 170
     },
     {
       "id": "50074316",
@@ -59,7 +60,102 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 160
+      "score": 150
+    },
+    {
+      "id": "50108326",
+      "headline": "How a mass Man City player exodus would warp the transfer market",
+      "description": "If Manchester City are punished by being relegated from the Premier League, group of players worth more than £1 billion in transfer fees would suddenly become available.",
+      "published": "2026-10-05T12:39:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50108326/how-mass-manchester-city-player-exodus-warp-transfer-market",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726237_4_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50108717",
+      "headline": "Folarin Balogun reopens door to Premier League despite failed Everton move",
+      "description": "United States striker Folarin Balogun has said that he would still be keen to play in the Premier League, even though his transfer deadline day move to Everton collapsed in dramatic fashion.",
+      "published": "2026-10-05T12:27:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50108717/folarin-balogun-premier-league-everton-monaco-usmnt",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Why_Folarin_Baloguns_Everton_movebroke_down_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Why_Folarin_Baloguns_Everton_movebroke_down_2026_9_2.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun",
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50108439",
+      "headline": "Kylian Mbappé goes cycling despite José Mourinho warning",
+      "description": "Kylian Mbappé has shared a video of himself riding a bicycle on social media, just days after his Real Madrid manager, José Mourinho, said players couldn't go cycling because of the injury risks involved.",
+      "published": "2026-10-05T10:05:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50108439/mbappe-cycling-bike-jose-mourinho-real-madrid-france",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726250_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50108362",
+      "headline": "Barcelona's Aitana Bonmatí on gradual return from injury: 'This is my reality now'",
+      "description": "Barcelona midfielder Aitana Bonmatí says she is adjusting to a new reality as she continues to make her way back to full fitness after breaking her leg last year.",
+      "published": "2026-10-05T09:33:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50108362/barcelona-aitana-bonmati-gradual-return-injury-my-reality-now",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726240_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Aitana Bonmatí",
+        "Lionel Messi"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50108636",
+      "headline": "Orlando Pirates vs. Mamelodi Sundowns - MTN8 final kick-off time, team news, how to watch",
+      "description": "Orlando Pirates seek a fifth successive MTN8 title, but face strong opposition as they take on African champions Mamelodi Sundowns on Saturday in Durban.",
+      "published": "2026-10-05T11:33:47Z",
+      "url": "https://www.espn.com/espn/story/_/id/50108636/orlando-pirates-vs-mamelodi-sundowns-mtn8-final-kick-team-news-how-watch",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698286_1296x729_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 140
     },
     {
       "id": "50098546",
@@ -77,57 +173,16 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 149
+      "score": 139
     },
     {
-      "id": "50104897",
-      "headline": "Heimir Hallgrimsson hails 'defining moment' for Ireland after tempers flare again in Israel match",
-      "description": "Heimir Hallgrimsson said the Republic of Ireland will look back at their international break as a \"defining moment\" in their history, after another evening of controversy in their 1-1 draw against Israel.",
-      "published": "2026-10-04T23:29:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50104897/heimir-hallgrimsson-ireland-israel-defining-moment-tempers-flare",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1726081_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 136
-    },
-    {
-      "id": "50106249",
-      "headline": "Houston Dash vs. Washington Spirit - Game Highlights",
-      "description": "Watch the Game Highlights from Houston Dash vs. Washington Spirit, 10/05/2026",
-      "published": "2026-10-05T01:07:59Z",
-      "url": "https://www.espn.com/video/clip/_/id/50106249/houston-dash-vs-washington-spirit-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1005/d6f03f19-50cf-47f3-8a86-8aad79ea6456/d6f03f19-50cf-47f3-8a86-8aad79ea6456.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Clarissa Laris­ey",
-        "Miljana Ivanovic",
-        "Clara Luvanga",
-        "Sofia Cantore",
-        "Tara Rudd",
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50105097",
-      "headline": "Nc State vs. Wake Forest: Game Highlights",
-      "description": "Nc State vs. Wake Forest: Game Highlights",
-      "published": "2026-10-04T23:26:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/50105097/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1004/68556de7-f18a-404f-80f9-4339b07d4d9c/68556de7-f18a-404f-80f9-4339b07d4d9c.jpg",
-      "byline": null,
+      "id": "50108907",
+      "headline": "Ledley King backs Tottenham form to 'turn around very quickly'",
+      "description": "Ledley King has urged Roberto De Zerbi's team to draw on the experiences of last season to end the club's winless start to the new Premier League campaign.",
+      "published": "2026-10-05T12:36:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50108907/ledley-king-backs-tottenham-form-turn-very-quickly",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663333_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -136,86 +191,46 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 124
+      "score": 133
     },
     {
-      "id": "50104570",
-      "headline": "Should Jorge Jesus stick to his stance on Ronaldo?",
-      "description": "Should Jorge Jesus stick to his stance on Ronaldo?",
-      "published": "2026-10-04T22:24:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/50104570/should-jorge-jesus-stick-stance-ronaldo",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Should_Jorge_Jesus_stick_to_his_stance_on_Ronaldo_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Should_Jorge_Jesus_stick_to_his_stance_on_Ronaldo_2026_10_4.jpg",
+      "id": "50026144",
+      "headline": "Lionel Messi's special kit for final Argentina match unveiled",
+      "description": "Lionel Messi will wear a special jersey for his final Argentina match before he retires from international soccer, and it's a shirt worthy of the occasion.",
+      "published": "2026-10-05T09:43:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50026144/lionel-messi-special-kit-final-argentina-match-unveiled",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721590_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50108415",
+      "headline": "Jorge Jesus denies placing blame on Ronaldo after Portugal national team fallout",
+      "description": "Jorge Jesus denies placing blame on Ronaldo after Portugal national team fallout",
+      "published": "2026-10-05T09:42:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/50108415/jorge-jesus-denies-placing-blame-ronaldo-portugal-national-team-fallout",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_Jorge_Jesus_denies_placing_blame_on_Ronaldo_after_Portugal_national_team_fallout/dm_261005_Jorge_Jesus_denies_placing_blame_on_Ronaldo_after_Portugal_national_team_fallout.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
+        "Norway",
         "Portugal"
       ],
       "players": [
+        "Cristiano Ronaldo",
         "Lionel Messi"
       ],
-      "score": 122
-    },
-    {
-      "id": "50104452",
-      "headline": "Jones: Sullivan and USMNT youngsters have nothing to lose, plenty to learn",
-      "description": "Jones: Sullivan and USMNT youngsters have nothing to lose, plenty to learn",
-      "published": "2026-10-04T22:19:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/50104452/sullivan-usmnt-youngsters-lose-plenty-learn",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_Sullivan_and_USMNT_youngsters_have_nothing_to_lose_plenty_to_learn_2026_1/dm_261004_COM_SOC_ANALYSIS_Jones_Sullivan_and_USMNT_youngsters_have_nothing_to_lose_plenty_to_learn_2026_1.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Mexico",
-        "USA"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 122
-    },
-    {
-      "id": "50104366",
-      "headline": "Chicago Stars vs. Denver Summit FC - Game Highlights",
-      "description": "Watch the Game Highlights from Chicago Stars vs. Denver Summit FC, 10/05/2026",
-      "published": "2026-10-04T22:06:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/50104366/chicago-stars-vs-denver-summit-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1004/dc57c891-470f-46c2-8443-35ac4d846486/dc57c891-470f-46c2-8443-35ac4d846486.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Janine Sonis",
-        "Mallory Swanson",
-        "Yazmeen Ryan",
-        "Lindsey Heaps",
-        "Lionel Messi"
-      ],
-      "score": 122
-    },
-    {
-      "id": "50104185",
-      "headline": "Florida St. vs. Clemson: Game Highlights",
-      "description": "Florida St. vs. Clemson: Game Highlights",
-      "published": "2026-10-04T21:46:58Z",
-      "url": "https://www.espn.com/video/clip/_/id/50104185/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1004/c89b4c0c-1aaa-4348-9952-730421a11889/c89b4c0c-1aaa-4348-9952-730421a11889.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 121
+      "score": 129
     },
     {
       "id": "50084975",
@@ -233,7 +248,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 88
+      "score": 77
     },
     {
       "id": "50084016",
@@ -247,7 +262,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 58
+      "score": 47
     },
     {
       "id": "50083565",
@@ -263,41 +278,7 @@
         "USA"
       ],
       "players": [],
-      "score": 48
-    },
-    {
-      "id": "49867974",
-      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
-      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
-      "published": "2026-10-02T08:49:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 33
-    },
-    {
-      "id": "50079068",
-      "headline": "From the USMNT to Germany, why club coaches are taking over national teams",
-      "description": "Pochettino with the U.S., Klopp with Germany, Tuchel with England and more: Are these famous coaches worth it for national teams?",
-      "published": "2026-10-02T07:34:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50079068/from-usmnt-germany-why-club-coaches-taking-national-teams",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698479_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA",
-        "England",
-        "Germany",
-        "Brazil",
-        "France"
-      ],
-      "players": [],
-      "score": 25
+      "score": 38
     },
     {
       "id": "50028671",
@@ -317,6 +298,20 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "49867974",
+      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
+      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
+      "published": "2026-10-02T08:49:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 22
     },
     {
       "id": "50077965",
@@ -436,6 +431,26 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50079068",
+      "headline": "From the USMNT to Germany, why club coaches are taking over national teams",
+      "description": "Pochettino with the U.S., Klopp with Germany, Tuchel with England and more: Are these famous coaches worth it for national teams?",
+      "published": "2026-10-02T07:34:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50079068/from-usmnt-germany-why-club-coaches-taking-national-teams",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698479_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA",
+        "England",
+        "Germany",
+        "Brazil",
+        "France"
+      ],
+      "players": [],
+      "score": 14
     },
     {
       "id": "47978642",
@@ -844,23 +859,6 @@
       "teams": [
         "Spain",
         "Morocco"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49865329",
-      "headline": "Popovic comfortable with Socceroos penalty shootout choices at World Cup",
-      "description": "Socceroos coach Tony Popovic isn't second-guessing the shootout that saw his side eliminated from the FIFA World Cup, saying that he would have made the same choices had the two sides come back the next day.",
-      "published": "2026-09-09T01:38:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49865329/popovic-comfortable-socceroos-penalty-shootout-choices-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713099_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Egypt"
       ],
       "players": [],
       "score": 10
