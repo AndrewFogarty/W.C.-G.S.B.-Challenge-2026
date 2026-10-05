@@ -1,13 +1,30 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-04T21:39:47.261Z",
+  "updated": "2026-10-05T00:10:42.412Z",
   "counts": {
-    "news": 34,
+    "news": 36,
+    "offfield": 6,
     "preview": 5,
-    "offfield": 7,
-    "celebration": 2
+    "celebration": 1
   },
   "items": [
+    {
+      "id": "50104524",
+      "headline": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
+      "description": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
+      "published": "2026-10-04T22:20:03Z",
+      "url": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Canada",
+        "USA"
+      ],
+      "players": [],
+      "score": 207
+    },
     {
       "id": "50099893",
       "headline": "Scaloni: Messi's final Argentina match will be unforgettable",
@@ -24,7 +41,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 203
+      "score": 189
     },
     {
       "id": "50074316",
@@ -42,7 +59,7 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 182
+      "score": 169
     },
     {
       "id": "50098546",
@@ -60,7 +77,25 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 171
+      "score": 158
+    },
+    {
+      "id": "50098759",
+      "headline": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
+      "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
+      "published": "2026-10-04T18:14:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705543_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 136
     },
     {
       "id": "50099766",
@@ -78,9 +113,9 @@
         "Belgium"
       ],
       "players": [
-        "Neymar"
+        "Lionel Messi"
       ],
-      "score": 132
+      "score": 128
     },
     {
       "id": "50099475",
@@ -90,24 +125,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50099475/celtic-dermot-desmond-protest-tennis-balls-st-andrews-alfred-dunhill-links-golf",
       "image": "https://a.espncdn.com/photo/2026/1004/r1725735_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50098759",
-      "headline": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
-      "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
-      "published": "2026-10-04T10:27:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705543_1296x729_16-9.jpg",
-      "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
@@ -132,9 +149,9 @@
         "Argentina"
       ],
       "players": [
-        "Neymar"
+        "Lionel Messi"
       ],
-      "score": 124
+      "score": 121
     },
     {
       "id": "50100086",
@@ -150,9 +167,9 @@
         "Argentina"
       ],
       "players": [
-        "Neymar"
+        "Lionel Messi"
       ],
-      "score": 124
+      "score": 120
     },
     {
       "id": "50079707",
@@ -168,30 +185,9 @@
         "Argentina"
       ],
       "players": [
-        "Neymar"
-      ],
-      "score": 121
-    },
-    {
-      "id": "50098303",
-      "headline": "Harry Kane: England rout of Croatia sends 'message' to rest of Europe",
-      "description": "England captain Harry Kane believes the 7-0 demolition of Croatia sends a message to the rest of Europe as he closes in on more history.",
-      "published": "2026-10-04T08:28:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50098303/harry-kane-england-rout-croatia-sends-message-rest-europe",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725682_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina",
-        "England",
-        "Croatia"
-      ],
-      "players": [
-        "Harry Kane",
         "Lionel Messi"
       ],
-      "score": 120
+      "score": 118
     },
     {
       "id": "50099303",
@@ -211,49 +207,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 119
-    },
-    {
-      "id": "50099211",
-      "headline": "Andrew Robertson after hitting 100 Scotland caps: Hopefully I can catch Kenny Dalglish",
-      "description": "Andy Robertson was determined to savour the \"incredible\" achievement of reaching 100 Scotland caps before he thinks about trying to overhaul Sir Kenny Dalglish at the top of his country's appearance charts.",
-      "published": "2026-10-04T11:51:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50099211/andrew-robertson-hitting-100-scotland-caps-hopefully-catch-kenny-dalglish",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725723_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Scotland"
-      ],
-      "players": [
-        "Andy Robertson",
-        "Lionel Messi"
-      ],
-      "score": 118
-    },
-    {
-      "id": "50097898",
-      "headline": "USMNT's young stars shine to give Pochettino 'fantastic problem'",
-      "description": "USMNT coach Mauricio Pochettino said that the number of players performing at a high level is \"a fantastic problem to have\" after teenagers Cavan Sullivan and Julian Hall propelled the USMNT to 3-0 win over rivals Mexico on Saturday.",
-      "published": "2026-10-04T06:37:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50097898/usa-mexico-mauricio-pochettino-julian-hall-cavan-sullivan",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725648_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA",
-        "Mexico"
-      ],
-      "players": [
-        "Julian Hall",
-        "Cavan Sullivan",
-        "Lionel Messi"
-      ],
-      "score": 110
+      "score": 116
     },
     {
       "id": "50084975",
@@ -271,7 +225,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 110
+      "score": 96
     },
     {
       "id": "50084016",
@@ -285,7 +239,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 80
+      "score": 66
     },
     {
       "id": "50083565",
@@ -301,7 +255,7 @@
         "USA"
       ],
       "players": [],
-      "score": 71
+      "score": 57
     },
     {
       "id": "49867974",
@@ -315,7 +269,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 55
+      "score": 41
     },
     {
       "id": "50079068",
@@ -335,7 +289,7 @@
         "France"
       ],
       "players": [],
-      "score": 47
+      "score": 33
     },
     {
       "id": "50077965",
@@ -351,7 +305,7 @@
         "France"
       ],
       "players": [],
-      "score": 29
+      "score": 26
     },
     {
       "id": "50028671",
@@ -366,25 +320,6 @@
       "teams": [
         "USA",
         "Belgium"
-      ],
-      "players": [
-        "Folarin Balogun"
-      ],
-      "score": 25
-    },
-    {
-      "id": "49857842",
-      "headline": "Belgian FA won't back Infantino's FIFA reelection, cites Balogun red card ban U-turn",
-      "description": "The Belgian football federation said it can't support Gianni Infantino's bid for another term as FIFA president, citing transparency and governance issues and the way FIFA handled clearing Folarin Balogun from a mandatory one-game ban at the World Cup.",
-      "published": "2026-09-07T12:27:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49857842/gianni-infantino-fifa-belgian-fa-belgium-world-cup-2026-folarin-balogun-red-card-overturned-usmnt",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Belgium",
-        "USA"
       ],
       "players": [
         "Folarin Balogun"
@@ -508,7 +443,7 @@
         "USA"
       ],
       "players": [],
-      "score": 17
+      "score": 13
     },
     {
       "id": "47978642",
@@ -867,6 +802,57 @@
       "teams": [
         "England",
         "Argentina"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49952392",
+      "headline": "Thomas Tuchel: 'Regret I didn't eat some grass' after England's Azteca win over Mexico",
+      "description": "Thomas Tuchel has revealed he wished he had eaten some of the grass after England's memorable FIFA World Cup win over Mexico.",
+      "published": "2026-09-15T22:36:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49952392/thomas-tuchel-wish-ate-some-azteca-grass-england-stunning-world-cup-win-mexico",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717253_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Mexico"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49892754",
+      "headline": "FIFA: 2030 World Cup final host country decision to be made 'in due course'",
+      "description": "FIFA said on Thursday that the decision over whether Morocco or Spain would host the 2030 World Cup final would be made \"in due course.\"",
+      "published": "2026-09-10T16:30:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49892754/fifa-decision-morocco-vs-spain-host-2030-world-cup-final-made-due-course",
+      "image": "https://a.espncdn.com/photo/2026/0313/r1627854_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "Morocco"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49865329",
+      "headline": "Popovic comfortable with Socceroos penalty shootout choices at World Cup",
+      "description": "Socceroos coach Tony Popovic isn't second-guessing the shootout that saw his side eliminated from the FIFA World Cup, saying that he would have made the same choices had the two sides come back the next day.",
+      "published": "2026-09-09T01:38:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49865329/popovic-comfortable-socceroos-penalty-shootout-choices-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713099_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Egypt"
       ],
       "players": [],
       "score": 10
