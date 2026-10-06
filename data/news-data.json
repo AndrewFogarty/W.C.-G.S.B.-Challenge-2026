@@ -1,14 +1,87 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-06T08:06:05.124Z",
+  "updated": "2026-10-06T15:06:34.257Z",
   "counts": {
-    "news": 37,
-    "offfield": 5,
+    "news": 36,
+    "offfield": 6,
     "injury": 1,
     "preview": 4,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50115954",
+      "headline": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
+      "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
+      "published": "2026-10-06T11:59:21Z",
+      "url": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
+      "image": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "DR Congo"
+      ],
+      "players": [],
+      "score": 205
+    },
+    {
+      "id": "50115213",
+      "headline": "Transfer rumors, news: Man United, Arsenal, Chelsea battle for Freiburg striker",
+      "description": "Manchester United are tracking SC Freiburg striker Igor Matanovic alongside Arsenal and Chelsea. Transfer Talk has the latest.",
+      "published": "2026-10-06T15:02:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726728_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Igor Matanovic",
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50116134",
+      "headline": "Liverpool sweating over Jeremy Jacquet fitness ahead of Man City clash",
+      "description": "Liverpool are waiting to discover the extent of Jeremy Jacquet's fitness issue after the centre-back was left out of France's Nations League win over Belgium.",
+      "published": "2026-10-06T12:15:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50116134/liverpool-jeremy-jacquet-france-nations-league-man-city-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726765_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "France",
+        "Belgium"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50115812",
+      "headline": "UEFA launches investigation into alleged Ireland, Israel incidents",
+      "description": "UEFA is investigating possible misconduct by Republic of Ireland and Israel around their bad-tempered Nations League match on Sunday.",
+      "published": "2026-10-06T11:24:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50115812/uefa-launches-investigation-alleged-ireland-israel-incidents",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726751_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 139
+    },
     {
       "id": "50104524",
       "headline": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
@@ -24,48 +97,81 @@
         "USA"
       ],
       "players": [],
-      "score": 159
+      "score": 139
     },
     {
-      "id": "50115213",
-      "headline": "Transfer rumors, news: Man United, Arsenal, Chelsea battle for Freiburg striker",
-      "description": "Manchester United are tracking SC Freiburg striker Igor Matanovic alongside Arsenal and Chelsea. Transfer Talk has the latest.",
-      "published": "2026-10-06T07:31:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726728_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50111163",
+      "headline": "Kiribati races to make the World Cup -- before the country disappears beneath the Pacific",
+      "description": "Kiribati wants to become a FIFA member and qualify for the World Cup, but rising sea levels mean it may not be able to host games for much longer.",
+      "published": "2026-10-06T14:20:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50111163/kiribati-race-make-fifa-world-cup-disappears-pacific",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726465_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Igor Matanovic",
         "Lionel Messi"
       ],
-      "score": 144
+      "score": 132
     },
     {
-      "id": "50114583",
-      "headline": "Mary Fowler set to miss important Matildas friendlies",
-      "description": "Matildas star Mary Fowler has been ruled out of upcoming friendly matches against Germany and Haiti due to personal circumstances.",
-      "published": "2026-10-06T03:54:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50114583/mary-fowler-set-miss-important-matildas-friendlies",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726704_1296x729_16-9.jpg",
-      "byline": "AAP",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50116628",
+      "headline": "Why Pochettino 'celebrates' coaches like Jesse Marsch",
+      "description": "Why Pochettino 'celebrates' coaches like Jesse Marsch",
+      "published": "2026-10-06T13:47:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/50116628/why-pochettino-celebrates-coaches-jesse-marsch",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Why_Pochettino_celebrates_coaches_like_Jesse_Marsch/dm_261006_Why_Pochettino_celebrates_coaches_like_Jesse_Marsch.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Australia",
-        "Germany",
-        "Haiti"
+        "Canada",
+        "USA"
       ],
       "players": [
-        "Mary Fowler",
         "Lionel Messi"
       ],
-      "score": 141
+      "score": 131
+    },
+    {
+      "id": "50116288",
+      "headline": "What Philippines learned from two ASEAN campaigns",
+      "description": "Philippines have shown enough promise over the past two tournaments. They now need to show progress.",
+      "published": "2026-10-06T13:01:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50116288/philippines-learned-fifa-asean-cup-championship",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726775_1296x729_16-9.jpg",
+      "byline": "Mikhail De Guzman and Pam Puri",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50116176",
+      "headline": "Malagò retains interim presidency of beleaguered Italy federation",
+      "description": "The Italian football federation reached an interim solution to keep Giovanni Malagò in charge of the beleaguered organization on Tuesday despite an irregularity in his election this year.",
+      "published": "2026-10-06T12:38:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50116176/malago-retains-interim-presidency-beleaguered-italy-federation",
+      "image": "https://a.espncdn.com/photo/2026/0622/r1677633_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
     },
     {
       "id": "50099893",
@@ -83,99 +189,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 141
-    },
-    {
-      "id": "50115239",
-      "headline": "Myles Lewis-Skelly, Estêvão, Yan Diomande make 2026 Golden Boy shortlist",
-      "description": "Arsenal's Myles Lewis-Skelly, Chelsea's Estêvão, and Manchester City's Ayyoub Bouaddi are among the Premier League stars nominated for the 2026 Golden Boy award.",
-      "published": "2026-10-06T07:47:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50115239/2026-golden-boy-myles-lewis-skelly-estevao-yan-diomande-ayyoub-bouaddi",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726727_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50115288",
-      "headline": "Eric Chelle bullish about young squad for Russia friendly as withdrawals deplete Super Eagles",
-      "description": "Nigeria coach Eric Chelle expects the Super Eagles to play with intensity and go for victory against Russia on Tuesday.",
-      "published": "2026-10-06T07:47:39Z",
-      "url": "https://www.espn.com/espn/story/_/id/50115288/eric-chelle-bullish-young-squad-russia-friendly-withdrawals-deplete-super-eagles",
-      "image": "https://a.espncdn.com/photo/2026/0119/r1602617_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50109791",
-      "headline": "How top Premier League clubs view Man City's guilty verdict",
-      "description": "Four clubs -- Arsenal, Liverpool, Man United and Tottenham -- retained their legal rights in the Premier League's case against Man City. Now that a guilty verdict has been issued, what will they do in response?",
-      "published": "2026-10-06T07:38:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50109791/man-city-premier-league-guilty-verdict-legal-action-arsenal-liverpool-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2021/0609/r865143_1296x729_16-9.jpg",
-      "byline": "James Olley and Mark Ogden and Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50065733",
-      "headline": "England, Scotland, Wales, Northern Ireland in Nations League: How are Home Nations faring?",
-      "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
-      "published": "2026-10-06T06:31:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723893_1296x729_16-9.jpg",
-      "byline": "Hannah Ryan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "Scotland"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50067649",
-      "headline": "Nations League explained: What is the format? How can teams qualify for Euro 2028?",
-      "description": "The Nations League offers some teams a shot at glory, and others a spot at Euro 2028. But how does it work?",
-      "published": "2026-10-06T06:17:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723910_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
+      "score": 121
     },
     {
       "id": "50074316",
@@ -193,7 +207,7 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 121
+      "score": 100
     },
     {
       "id": "50098546",
@@ -211,25 +225,7 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 110
-    },
-    {
-      "id": "49778940",
-      "headline": "The world's most weird and wonderful soccer kits of 2026-27",
-      "description": "Some soccer kits are just too remarkable to not be seen. Here are some of the season's wildest ones from around the world that demand to be shared.",
-      "published": "2026-10-05T09:41:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49778940/jaw-dropping-jerseys-soccers-most-wild-wonderful-2026-27-kits",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1709853_1295x729_16-9.png",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 99
+      "score": 89
     },
     {
       "id": "50084975",
@@ -247,7 +243,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 62
+      "score": 52
     },
     {
       "id": "50084016",
@@ -261,23 +257,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 36
-    },
-    {
-      "id": "50083565",
-      "headline": "Did the World Cup help USMNT to move forward?",
-      "description": "Did the World Cup help USMNT to move forward?",
-      "published": "2026-10-02T10:03:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/50083565/did-world-cup-help-usmnt-move-forward",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_COM_SOC_Analysis_Did_the_World_Cup_help_USMNT_to_move_forward3F__GLOBAL_2026-10-02/dm_261002_COM_SOC_Analysis_Did_the_World_Cup_help_USMNT_to_move_forward3F__GLOBAL_2026-10-02.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 30
+      "score": 26
     },
     {
       "id": "50028671",
@@ -356,6 +336,22 @@
       "score": 22
     },
     {
+      "id": "50083565",
+      "headline": "Did the World Cup help USMNT to move forward?",
+      "description": "Did the World Cup help USMNT to move forward?",
+      "published": "2026-10-02T10:03:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/50083565/did-world-cup-help-usmnt-move-forward",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_COM_SOC_Analysis_Did_the_World_Cup_help_USMNT_to_move_forward3F__GLOBAL_2026-10-02/dm_261002_COM_SOC_Analysis_Did_the_World_Cup_help_USMNT_to_move_forward3F__GLOBAL_2026-10-02.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 20
+    },
+    {
       "id": "50050816",
       "headline": "Vozinha struggling with World Cup fame: 'I'd choose the life I had before'",
       "description": "Viral World Cup goalkeeper Vozinha has revealed he is struggling with his newfound fame, saying that he would like to go back to a time before he was so well-known.",
@@ -416,20 +412,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "49867974",
-      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
-      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
-      "published": "2026-10-02T08:49:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
     },
     {
       "id": "47978642",
@@ -623,24 +605,6 @@
       ],
       "players": [
         "Harry Kane"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49868020",
-      "headline": "Cape Verde's Vozinha nominated for Goalkeeper of the Year award at Ballon d'Or after World Cup heroics",
-      "description": "Cape Verde goalkeeper Vozinha has been nominated for the men's Goalkeeper of the Year award at the 2026 Ballon d'Or.",
-      "published": "2026-09-08T14:00:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49868020/cape-verde-colo-colo-vozinha-nominated-goalkeeper-year-award",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713164_1296x729_16-9.jpg",
-      "byline": "Shivam Pathak",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
       ],
       "score": 13
     },
@@ -861,6 +825,37 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "49865329",
+      "headline": "Popovic comfortable with Socceroos penalty shootout choices at World Cup",
+      "description": "Socceroos coach Tony Popovic isn't second-guessing the shootout that saw his side eliminated from the FIFA World Cup, saying that he would have made the same choices had the two sides come back the next day.",
+      "published": "2026-09-09T01:38:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49865329/popovic-comfortable-socceroos-penalty-shootout-choices-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713099_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49867974",
+      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
+      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
+      "published": "2026-10-02T08:49:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
