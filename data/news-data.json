@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-05T20:59:05.926Z",
+  "updated": "2026-10-06T01:33:40.124Z",
   "counts": {
-    "news": 35,
+    "news": 37,
     "offfield": 6,
-    "preview": 5,
-    "celebration": 2
+    "preview": 4,
+    "celebration": 1
   },
   "items": [
     {
@@ -23,7 +23,7 @@
         "USA"
       ],
       "players": [],
-      "score": 176
+      "score": 169
     },
     {
       "id": "50099893",
@@ -41,46 +41,46 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 158
+      "score": 151
     },
     {
-      "id": "50110306",
-      "headline": "JJ Gabriel representatives demanded game time at Manchester United - sources",
-      "description": "Representatives of JJ Gabriel demanded that the teenager played at least 20 minutes in games against Sabah FK, Brighton and Bournemouth before beginning talks about signing a scholarship with Manchester United, sources have told ESPN.",
-      "published": "2026-10-05T16:53:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
+      "id": "50112454",
+      "headline": "Was Marsch right about Balogun's red card turning fans against the USMNT?",
+      "description": "Was Marsch right about Balogun's red card turning fans against the USMNT?",
+      "published": "2026-10-05T22:16:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/50112454/was-marsch-right-balogun-red-card-turning-fans-usmnt",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_COM_SOC_ANALYSIS_Was_Marsch_right_about_Baloguns_red_card_turning_fans_against_the_USMNT_2026_10/dm_261005_COM_SOC_ANALYSIS_Was_Marsch_right_about_Baloguns_red_card_turning_fans_against_the_USMNT_2026_10.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Canada",
+        "USA"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50107972",
+      "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
+      "description": "Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.",
+      "published": "2026-10-05T20:53:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726526_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "JJ Gabriel",
+        "Alex Scott",
         "Lionel Messi"
       ],
-      "score": 139
-    },
-    {
-      "id": "50110599",
-      "headline": "Poch: Exhausted U.S. ready to finish perfect window against Canada",
-      "description": "United States manager Mauricio Pochettino said his side isn't in the best condition ahead of Tuesday's friendly against Canada, after already playing three games during this window to Canada's two, but that his team will \"be ready.\"",
-      "published": "2026-10-05T17:32:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50110599/poch-us-finish-perfect-window-canada",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "USA",
-        "Canada"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 137
+      "score": 138
     },
     {
       "id": "50074316",
@@ -98,77 +98,101 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 137
+      "score": 131
     },
     {
-      "id": "50107972",
-      "headline": "Transfer rumors, news: Bayern brace for tough contract talks with Olise",
-      "description": "Bayern Munich could be facing an uphill battle to sign winger Michael Olise to a new contract. Transfer Talk has the latest.",
-      "published": "2026-10-05T15:08:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712702_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50112732",
+      "headline": "Zidane revels in Olise-led France comeback: 'This is soccer'",
+      "description": "France left it late to beat Belgium 4-1 in the Nations League as Zinedine Zidane got his first home win as the national coach on Monday.",
+      "published": "2026-10-05T23:06:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50112732/zidane-revels-olise-led-france-comeback",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726599_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "France",
+        "Belgium"
       ],
       "players": [
         "Michael Olise",
         "Lionel Messi"
       ],
-      "score": 136
-    },
-    {
-      "id": "50109186",
-      "headline": "NWSL Power Rankings: San Diego clinches playoff spot, leapfrogs Gotham at No. 1",
-      "description": "The San Diego Wave have clinched their postseason place, and how did they celebrate? By topping this week's edition of ESPN's NWSL Power Rankings.",
-      "published": "2026-10-05T16:17:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50109186/nwsl-power-rankings-san-diego-wave-clinch-playoff-spot-leapfrogs-nj-ny-gotham-fc-no-1",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726353_1296x729_16-9.jpg",
-      "byline": "Jenna Pel",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50110277",
-      "headline": "Following World Cup failure, Ancelotti's Brazil still haven't convinced many",
-      "description": "Despite going unbeaten in their last three friendly matches, Carlo Ancelotti's Brazil have not shown significant progress after their early World Cup elimination.",
-      "published": "2026-10-05T18:11:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50110277/following-world-cup-failure-carlo-ancelottis-brazil-havent-convinced-many",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726396_1296x729_16-9.jpg",
-      "byline": "Tim Vickery",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Brazil"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
       "score": 129
     },
     {
-      "id": "50110122",
-      "headline": "Asian Games: South Korea footballers apologise after military service remarks",
-      "description": "Three South Korea players have apologised after appearing to gloat at being exempt from military service after their Asian Games victory.",
-      "published": "2026-10-05T17:14:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50110122/asian-games-south-korea-footballers-apologise-military-service-remarks",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726390_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50111109",
+      "headline": "Marsch: No grudge with USMNT, but Canada rivalry 'something big'",
+      "description": "Canada coach Jesse Marsch said he holds \"no grudge\" against the United States after nearly landing the managerial post two years ago, but that the soccer rivalry between the two countries is \"something big.\"",
+      "published": "2026-10-05T22:23:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50111109/marsch-no-grudge-usmnt-canada-rivalry",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1679022_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Korea Republic"
+        "Canada",
+        "USA"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50112443",
+      "headline": "Is this just the beginning of the Ronaldo-Jorge Jesus feud?",
+      "description": "Is this just the beginning of the Ronaldo-Jorge Jesus feud?",
+      "published": "2026-10-05T22:15:48Z",
+      "url": "https://www.espn.com/video/clip/_/id/50112443/is-just-beginning-ronaldo-jorge-jesus-feud",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_COM_SOC_ANALYSIS_Is_this_just_the_beginning_of_the_Ronaldo-Jorge_Jesus_feud_2026_5_10/dm_261005_COM_SOC_ANALYSIS_Is_this_just_the_beginning_of_the_Ronaldo-Jorge_Jesus_feud_2026_5_10.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Norway",
+        "Portugal"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50112423",
+      "headline": "Leboeuf: Olise and France looked unstoppable",
+      "description": "Leboeuf: Olise and France looked unstoppable",
+      "published": "2026-10-05T22:14:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/50112423/olise-france-looked-unstoppable",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_COM_SOC_ANALYSIS_Leboeuf_Olise_and_France_looked_unstoppable_2026_5_10/dm_261005_COM_SOC_ANALYSIS_Leboeuf_Olise_and_France_looked_unstoppable_2026_5_10.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Belgium",
+        "France"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50078571",
+      "headline": "Italian renaissance continues with runaway win over Türkiye",
+      "description": "Pio Esposito's late goal sealed a hard-earned win over Türkiye in Bologna and continued Italy's improvement under returning head coach Roberto Mancini.",
+      "published": "2026-10-05T21:24:23Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401861131",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726523_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
       ],
       "players": [
         "Lionel Messi"
@@ -176,17 +200,19 @@
       "score": 127
     },
     {
-      "id": "50085954",
-      "headline": "State of each position in 2026: What are the biggest tactical trends?",
-      "description": "Elite soccer has changed dramatically in recent years, and the most valued player skill sets have evolved as a result.",
-      "published": "2026-10-05T16:24:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50085954/state-position-2026-biggest-soccer-tactical-trends",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726394_1296x729_16-9.jpg",
-      "byline": "Ashwin Raman",
+      "id": "50078567",
+      "headline": "France stun Belgium with four late goals to snatch victory",
+      "description": "Zinedine Zidane's France belatedly turned on the style as late goals from substitutes Désiré Doué, Ryan Cherki and two from Michael Olise saw them come from behind to beat Belgium 4-1 in the UEFA Nations League.",
+      "published": "2026-10-05T20:57:56Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401861129",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726518_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "France",
+        "Belgium"
       ],
       "players": [
         "Lionel Messi"
@@ -209,27 +235,7 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 126
-    },
-    {
-      "id": "50109266",
-      "headline": "Harry Kane best person to match Peter Shilton's record - Thomas Tuchel",
-      "description": "Thomas Tuchel says there is no more fitting \"role model\" than Harry Kane to equal Peter Shilton's England appearance record - and revealed he would dive around pretending to be the goalkeeper growing up.",
-      "published": "2026-10-05T14:55:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50109266/harry-kane-best-person-match-peter-shiltons-record-thomas-tuchel",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726301_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Harry Kane",
-        "Lionel Messi"
-      ],
-      "score": 124
+      "score": 120
     },
     {
       "id": "50084975",
@@ -247,7 +253,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 65
+      "score": 62
     },
     {
       "id": "50084016",
