@@ -1,12 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-06T23:53:37.073Z",
+  "updated": "2026-10-07T04:02:08.811Z",
   "counts": {
-    "news": 37,
-    "injury": 1,
-    "offfield": 5,
+    "news": 38,
+    "celebration": 2,
     "preview": 4,
-    "celebration": 1
+    "offfield": 4
   },
   "items": [
     {
@@ -25,7 +24,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 211
+      "score": 205
     },
     {
       "id": "50115954",
@@ -41,116 +40,115 @@
         "DR Congo"
       ],
       "players": [],
-      "score": 182
+      "score": 176
     },
     {
-      "id": "50118345",
-      "headline": "USWNT working with Chelsea over Naomi Girma injuries - Emma Hayes",
-      "description": "USWNT coach Emma Hayes said she and her staff are working with Chelsea to change how defender Naomi Girma is managed after another setback due to a calf injury.",
-      "published": "2026-10-06T18:32:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50118345/uswnt-working-chelsea-frequent-naomi-girma-injuries-emma-hayes",
-      "image": "https://a.espncdn.com/photo/2025/0305/r1459778_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50121507",
+      "headline": "Garriock: Football Australia 'in favour' of AFC Nations League concept",
+      "description": "Football Australia has given an early thumbs-up to the AFC's proposed Nations League concept, with director Heather Garriock describing it as a 'great concept' to strengthen Asia's position in world football.",
+      "published": "2026-10-07T03:48:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50121507/football-australia-director-heather-garriock-says-afc-nations-league-great-concept-world-cup-qualification",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727130_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "USA"
+        "Australia",
+        "Japan",
+        "Korea Republic"
       ],
-      "players": [
-        "Naomi Girma",
-        "Lionel Messi"
-      ],
-      "score": 139
+      "players": [],
+      "score": 150
     },
     {
-      "id": "50115213",
-      "headline": "Transfer rumors, news: Man United, Arsenal, Chelsea battle for Freiburg striker",
-      "description": "Manchester United are tracking SC Freiburg striker Igor Matanovic alongside Arsenal and Chelsea. Transfer Talk has the latest.",
-      "published": "2026-10-06T15:02:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726728_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50120909",
+      "headline": "Lionel Messi scores in tearful 'last tango' for Argentina",
+      "description": "Lionel Messi marked his 208th and final game for Argentina with his 126th goal as his country bid an emotional farewell to the global icon.",
+      "published": "2026-10-07T02:57:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50120909/lionel-messi-last-argentina-game-vs-benin-retirement",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727143_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Igor Matanovic",
+        "Lionel Messi"
+      ],
+      "score": 138
+    },
+    {
+      "id": "50121897",
+      "headline": "Chicago Fire FC vs. Vancouver Whitecaps - Game Highlights",
+      "description": "Watch the Game Highlights from Chicago Fire FC vs. Vancouver Whitecaps, 10/06/2026",
+      "published": "2026-10-07T03:05:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/50121897/chicago-fire-fc-vs-vancouver-whitecaps-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1007/e01dd1e6-5019-4316-94cc-0e2f853933c8/e01dd1e6-5019-4316-94cc-0e2f853933c8.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Maren Haile-Selassie",
+        "Jonathan Bamba",
+        "Philip Zinckernagel",
+        "Mathías Laborda",
         "Lionel Messi"
       ],
       "score": 132
     },
     {
-      "id": "50118693",
-      "headline": "Ronaldo says Jesus broke his word, apologizes to Portugal teammates",
-      "description": "Cristiano Ronaldo said he will remain available to represent Portugal should they call him up again in a five-page letter seen by ESPN, while explaining his fallout with coach Jorge Jesus last week.",
-      "published": "2026-10-06T20:14:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50118693/ronaldo-jesus-broke-word-apologizes-portugal",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691807_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
+      "id": "50121769",
+      "headline": "USMNT player ratings: Freeman's two-way play earns him 8/10 in win over Canada",
+      "description": "Alex Freeman delivered an assist and solidified a back line that kept a second straight clean sheet in the USMNT's 1-0 win over Canada on Tuesday.",
+      "published": "2026-10-07T03:00:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50121769/usmnt-player-ratings-alex-freemans-two-way-play-earns-8-win-canada",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727119_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Portugal"
+        "USA",
+        "Canada"
       ],
       "players": [
-        "Cristiano Ronaldo",
+        "Alex Freeman",
         "Lionel Messi"
       ],
-      "score": 128
+      "score": 131
     },
     {
-      "id": "50108723",
-      "headline": "Harry Kane earns record-equalling 125th England cap",
-      "description": "Harry Kane has equalled Peter Shilton's all-time England caps record after starting in the country's Nations League match against Czechia on Tuesday.",
-      "published": "2026-10-06T19:12:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50108723/harry-kane-earn-record-equalling-125th-england-cap-peter-shilton",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726933_1296x729_16-9.jpg",
+      "id": "50060156",
+      "headline": "Recap: USMNT close out international break with gritty win over Canada",
+      "description": "The USMNT closed out their international window with a win over rival Canada on Tuesday. Relive all the action with ESPN.",
+      "published": "2026-10-07T02:02:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50060156/live-updates-united-states-faces-canada-finish-international-window",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727119_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "England",
-        "Czechia"
+        "USA",
+        "Canada"
       ],
       "players": [
-        "Harry Kane",
         "Lionel Messi"
       ],
-      "score": 126
+      "score": 130
     },
     {
-      "id": "50117654",
-      "headline": "Sources: Cristiano Ronaldo won't return to Portugal while Jesus remains coach",
-      "description": "Portugal star Cristiano Ronaldo has issued an ultimatum, saying he will not return to the national team while Jorge Jesus is the coach, sources have told ESPN.",
-      "published": "2026-10-06T18:33:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50117654/cristiano-ronaldo-return-portugal-team-jesus-remains-coach-sources",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726232_1296x729_16-9.jpg",
-      "byline": "Bruno Andrade",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50117156",
-      "headline": "Manchester City charges: Features, explainers, what's next after guilty verdict",
-      "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
-      "published": "2026-10-06T17:14:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50096104",
+      "headline": "Messi scores in farewell as Argentina beat Benin",
+      "description": "Lionel Messi enjoyed a fairy tale farewell as he scored on his last appearance for Argentina in a 3-0 win over Benin in Buenos Aires.",
+      "published": "2026-10-07T01:46:01Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401921408",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -159,45 +157,64 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 123
+      "score": 130
     },
     {
-      "id": "50111163",
-      "headline": "Kiribati races to make the World Cup -- before the country disappears beneath the Pacific",
-      "description": "Kiribati wants to become a FIFA member and qualify for the World Cup, but rising sea levels mean it may not be able to host games for much longer.",
-      "published": "2026-10-06T14:20:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50111163/kiribati-race-make-fifa-world-cup-disappears-pacific",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726465_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 119
-    },
-    {
-      "id": "50116628",
-      "headline": "Why Pochettino 'celebrates' coaches like Jesse Marsch",
-      "description": "Why Pochettino 'celebrates' coaches like Jesse Marsch",
-      "published": "2026-10-06T13:47:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/50116628/why-pochettino-celebrates-coaches-jesse-marsch",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Why_Pochettino_celebrates_coaches_like_Jesse_Marsch/dm_261006_Why_Pochettino_celebrates_coaches_like_Jesse_Marsch.jpg",
+      "id": "50121400",
+      "headline": "Ga. Southern vs. Clemson: Game Highlights",
+      "description": "Ga. Southern vs. Clemson: Game Highlights",
+      "published": "2026-10-07T01:33:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/50121400/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1007/227319f2-66ce-4e9b-882a-d7e7d65633b7/227319f2-66ce-4e9b-882a-d7e7d65633b7.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "Canada",
-        "USA"
+        "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 118
+      "score": 129
+    },
+    {
+      "id": "50120804",
+      "headline": "NWSL goals leader Sanchez getting 'up to speed' with USWNT",
+      "description": "Forward Ashley Sanchez said she is focused on getting \"up to speed\" again with the United States after receiving her first recall in nearly two years.",
+      "published": "2026-10-06T23:43:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50120804/nwsl-goals-leader-sanchez-uswnt",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1727064_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Ashley Sanchez",
+        "Lionel Messi"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50120558",
+      "headline": "Scotland got what we deserved in Nations League defeat to Slovenia - Sebastien Pocognoli",
+      "description": "Sebastien Pocognoli admitted Scotland got what they deserved after they ended their first camp under his charge with a dismal 2-1 Nations League defeat at home to Slovenia.",
+      "published": "2026-10-06T22:50:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50120558/scotland-got-deserved-nations-league-defeat-slovenia-sebastien-pocognoli",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1727041_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Scotland"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
     },
     {
       "id": "50104524",
@@ -214,7 +231,7 @@
         "USA"
       ],
       "players": [],
-      "score": 116
+      "score": 109
     },
     {
       "id": "50099893",
@@ -232,7 +249,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 97
+      "score": 91
     },
     {
       "id": "50074316",
@@ -250,7 +267,7 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 77
+      "score": 71
     },
     {
       "id": "50098546",
@@ -268,7 +285,7 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 66
+      "score": 60
     },
     {
       "id": "50084975",
@@ -286,7 +303,7 @@
       "players": [
         "Zinadine Zidane M Catraio"
       ],
-      "score": 42
+      "score": 32
     },
     {
       "id": "50028671",
@@ -425,20 +442,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "50084016",
-      "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula'",
-      "description": "FIFA's technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded there was not necessarily a \"winning formula\".",
-      "published": "2026-10-02T12:09:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
     },
     {
       "id": "47978642",
@@ -614,24 +617,6 @@
       ],
       "players": [
         "Raphinha"
-      ],
-      "score": 13
-    },
-    {
-      "id": "49877552",
-      "headline": "Burley: Kane should win the 2026 men's Ballon d'Or",
-      "description": "Burley: Kane should win the 2026 men's Ballon d'Or",
-      "published": "2026-09-09T08:32:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/49877552/kane-win-2026-men-ballon-dor",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0909/dm_260909_COM_SOC_Analysis_Burley_Kane_should_win_the_2026_mens_Ballon_dOr_20260909_GLOBAL/dm_260909_COM_SOC_Analysis_Burley_Kane_should_win_the_2026_mens_Ballon_dOr_20260909_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
       ],
       "score": 13
     },
@@ -868,6 +853,20 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "50084016",
+      "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula'",
+      "description": "FIFA's technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded there was not necessarily a \"winning formula\".",
+      "published": "2026-10-02T12:09:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
