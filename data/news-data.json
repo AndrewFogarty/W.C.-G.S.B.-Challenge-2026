@@ -1,19 +1,37 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-07T11:00:49.253Z",
+  "updated": "2026-10-07T17:46:28.558Z",
   "counts": {
-    "news": 36,
-    "injury": 1,
+    "news": 35,
+    "injury": 3,
     "offfield": 5,
-    "preview": 5,
+    "preview": 4,
     "celebration": 1
   },
   "items": [
     {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-10-07T11:17:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727271_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 203
+    },
+    {
       "id": "50114003",
       "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
       "description": "With the 2026 World Cup well and truly behind us, the first fall international break saw all the top teams playing four times in three weeks. Which sides look strongest and most likely to contend in four years' time?",
-      "published": "2026-10-07T08:55:27Z",
+      "published": "2026-10-07T12:46:49Z",
       "url": "https://www.espn.com/soccer/story/_/id/50114003/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
       "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg",
       "byline": "James Tyler",
@@ -36,7 +54,7 @@
         "USA"
       ],
       "players": [],
-      "score": 207
+      "score": 193
     },
     {
       "id": "50120434",
@@ -54,7 +72,86 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 184
+      "score": 164
+    },
+    {
+      "id": "50126152",
+      "headline": "Alexander Isak, Cody Gakpo in doubt for Liverpool vs. Man City clash",
+      "description": "Liverpool head coach Andoni Iraola has cast doubt on the chances of Alexander Isak and Cody Gakpo being fit to face Manchester City this weekend.",
+      "published": "2026-10-07T17:12:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50126152/alexander-isak-cody-gakpo-injury-liverpool-man-city",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727425_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "Netherlands",
+        "Sweden"
+      ],
+      "players": [
+        "Alexander Isak",
+        "Cody Gakpo",
+        "Lionel Messi"
+      ],
+      "score": 146
+    },
+    {
+      "id": "50050685",
+      "headline": "Southampton's Tonda Eckert given suspended six-week ban for 'Spygate' role",
+      "description": "Southampton manager Tonda Eckert has avoided a ban for his role in \"Spygate\" after he was handed a six-week suspended sentence and a £28,000 fine.",
+      "published": "2026-10-07T17:16:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50124850",
+      "headline": "Bellingham hits new heights for England as Tuchel gets best out of Real Madrid star",
+      "description": "Jude Bellingham was once the temperamental talent that England struggled to tame, but he has taken his game to another level over this international break.",
+      "published": "2026-10-07T15:11:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50124850/jude-bellingham-new-heights-england-thomas-tuchel-real-madrid-star",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727331_1296x729_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Jude Bellingham",
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50125122",
+      "headline": "Spain, Manchester City great David Silva comes out of retirement to join Hong Kong club",
+      "description": "Former Manchester City and Spain midfielder David Silva has come out of retirement after three years to join Supreme Sha Tin, the Hong Kong club announced Wednesday.",
+      "published": "2026-10-07T14:50:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50125122/spain-manchester-city-great-david-silva-comes-retirement-join-hong-kong-club",
+      "image": "https://a.espncdn.com/photo/2025/1212/r1588431_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 143
     },
     {
       "id": "50115954",
@@ -70,158 +167,85 @@
         "DR Congo"
       ],
       "players": [],
-      "score": 155
+      "score": 135
     },
     {
-      "id": "50123907",
-      "headline": "James McClean in contract dispute with Derry City over his fitness",
-      "description": "James McClean has hit out at his club Derry City over their attempts to terminate his contract due to concerns over his fitness levels.",
-      "published": "2026-10-07T10:23:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50123907/james-mcclean-contract-dispute-derry-city-fitness",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727259_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "James McClean",
-        "Lionel Messi"
-      ],
-      "score": 146
-    },
-    {
-      "id": "50123787",
-      "headline": "Real Madrid legend Dani Carvajal to sign for Getafe on free transfer",
-      "description": "Former Real Madrid captain Dani Carvajal is on the verge of completing a move to Getafe as a free agent.",
-      "published": "2026-10-07T09:45:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50123787/real-madrid-legend-dani-carvajal-sign-getafe-free-transfer",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727249_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Dani Carvajal",
-        "Lionel Messi"
-      ],
-      "score": 143
-    },
-    {
-      "id": "50123914",
-      "headline": "Alexandré Pölking returns to familiar hunting ground looking to burst Lion City Sailors' bubble",
-      "description": "Alexandré Pölking is back at a familiar hunting ground when his Công An Hà Nội team take on Lion City Sailors on Thursday.",
-      "published": "2026-10-07T10:28:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50123914/alexandre-polking-returns-familiar-hunting-ground-looking-burst-lion-city-sailors-bubble",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727257_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 141
-    },
-    {
-      "id": "50123911",
-      "headline": "Brazil legends pay tribute to Lionel Messi as he retires from international football",
-      "description": "Brazil legends Ronaldinho and Neymar are among the many to have paid tribute to Lionel Messi following his final game with Argentina.",
-      "published": "2026-10-07T10:36:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50123911/brazil-legends-pay-tribute-lionel-messi-retires-international-football",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727263_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Brazil"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50123905",
-      "headline": "Non-league 'keeper explains why he rejected Ugandan royal role for FA Cup run",
-      "description": "A non-league goalkeeper who was in line to the throne of a traditional kingdom in Uganda has explained his decision to prioritise the FA Cup.",
-      "published": "2026-10-07T10:23:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50123905/nonleague-keeper-george-kamurasi-se-dons-explains-why-rejected-ugandan-royal-role-fa-cup-run",
-      "image": "https://a.espncdn.com/photo/2026/0402/r1637761_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50110195",
+      "headline": "Another bad Man United run has Carrick feeling the heat. Should he be?",
+      "description": "Michael Carrick is hardly unique in that he brought hope to Man United, but is he on course to become the latest coach to be fired midseason?",
+      "published": "2026-10-07T16:40:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50110195/manchester-united-managerial-cycle-michael-carrick-feeling-heat-he",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726386_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50123758",
-      "headline": "Man City glory can't be taken from players - Kyle Walker",
-      "description": "Manchester City's glory years cannot be taken away from the players, according to former captain Kyle Walker.",
-      "published": "2026-10-07T09:42:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50123758/man-city-glory-taken-players-kyle-walker",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727251_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Kyle Walker",
         "Lionel Messi"
       ],
       "score": 131
     },
     {
-      "id": "50123757",
-      "headline": "Kane labels his 125th cap for England the 'perfect night'",
-      "description": "Kane labels his 125th cap for England the 'perfect night'",
-      "published": "2026-10-07T09:40:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/50123757/kane-labels-125th-cap-england-perfect-night",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_COM_SOC_Analysis_Kane_labels_his_125th_cap_for_England_as_the_E28098perfect_nightE28099_GLOBAL_2026-10-07/dm_261007_COM_SOC_Analysis_Kane_labels_his_125th_cap_for_England_as_the_E28098perfect_nightE28099_GLOBAL_2026-10-07.jpg",
+      "id": "50124324",
+      "headline": "Tottenham's Mathys Tel equals France under-21 goalscoring record",
+      "description": "Mathys Tel will be hoping to take his goal-scoring exploits with France Under-21s over the international break into Tottenham's fight to turn their Premier League season around.",
+      "published": "2026-10-07T16:36:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50124324/tottenham-mathys-tel-equals-france-21-goalscoring-record",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727283_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Mathys Tel",
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50124605",
+      "headline": "Lineker: Ronaldo deserves a beautiful farewell like Messi",
+      "description": "Lineker: Ronaldo deserves a beautiful farewell like Messi",
+      "published": "2026-10-07T13:26:59Z",
+      "url": "https://www.espn.com/video/clip/_/id/50124605/ronaldo-deserves-beautiful-farewell-messi",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_Lineker_Ronaldo_deserves_a_beautiful_farewell_like_Messi/dm_261007_Lineker_Ronaldo_deserves_a_beautiful_farewell_like_Messi.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Czechia",
-        "England"
+        "Portugal"
       ],
       "players": [
+        "Cristiano Ronaldo",
         "Lionel Messi"
       ],
-      "score": 131
+      "score": 127
     },
     {
-      "id": "50123518",
-      "headline": "A new era is underway at Scotland under Sebastien Pocognoli. But, familiar failings remain",
-      "description": "The start of the Sebastien Pocognoli era at Scotland has provided more questions than answers",
-      "published": "2026-10-07T09:17:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50123518/a-new-era-underway-scotland-sebastien-pocognoli-familiar-failings-remain",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727240_1296x729_16-9.jpg",
-      "byline": "Mark Donaldson",
+      "id": "50124344",
+      "headline": "Former Spain, Barcelona winger Pedro calls time on storied career",
+      "description": "Former Barcelona and Chelsea winger Pedro has announced his retirement from the game at the age of 39.",
+      "published": "2026-10-07T12:55:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50124344/former-spain-barcelona-winger-pedro-calls-storied-career",
+      "image": "https://e.espncdn.com/2003/photos2016/0620/pedro_sonrisa_1296x729.jpg",
+      "byline": "Sam Marsden",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Scotland"
+        "Spain"
       ],
       "players": [
+        "Pedro",
         "Lionel Messi"
       ],
-      "score": 130
+      "score": 126
     },
     {
       "id": "50121507",
@@ -239,7 +263,7 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 130
+      "score": 110
     },
     {
       "id": "50104524",
@@ -256,7 +280,7 @@
         "USA"
       ],
       "players": [],
-      "score": 89
+      "score": 69
     },
     {
       "id": "50099893",
@@ -274,7 +298,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 71
+      "score": 51
     },
     {
       "id": "50074316",
@@ -292,25 +316,7 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 50
-    },
-    {
-      "id": "50098546",
-      "headline": "AFC to introduce Nations League in shake-up of World Cup, Asian Cup qualification",
-      "description": "The Asian Football Confederation is set to introduce a Nations League competition, which will affect the qualification process for the World Cup and Asian Cup.",
-      "published": "2026-10-04T09:18:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50098546/afc-introduce-nations-league-shake-world-cup-asian-cup-qualification",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725697_1296x729_16-9.jpg",
-      "byline": "Joey Lynch, Gabriel Tan, Stuart Randall",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Japan",
-        "Korea Republic"
-      ],
-      "players": [],
-      "score": 39
+      "score": 30
     },
     {
       "id": "50028671",
@@ -407,6 +413,24 @@
       "score": 22
     },
     {
+      "id": "50098546",
+      "headline": "AFC to introduce Nations League in shake-up of World Cup, Asian Cup qualification",
+      "description": "The Asian Football Confederation is set to introduce a Nations League competition, which will affect the qualification process for the World Cup and Asian Cup.",
+      "published": "2026-10-04T09:18:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50098546/afc-introduce-nations-league-shake-world-cup-asian-cup-qualification",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725697_1296x729_16-9.jpg",
+      "byline": "Joey Lynch, Gabriel Tan, Stuart Randall",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Japan",
+        "Korea Republic"
+      ],
+      "players": [],
+      "score": 20
+    },
+    {
       "id": "50050816",
       "headline": "Vozinha struggling with World Cup fame: 'I'd choose the life I had before'",
       "description": "Viral World Cup goalkeeper Vozinha has revealed he is struggling with his newfound fame, saying that he would like to go back to a time before he was so well-known.",
@@ -467,24 +491,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-09-28T07:57:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722794_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 13
     },
     {
       "id": "50025741",
