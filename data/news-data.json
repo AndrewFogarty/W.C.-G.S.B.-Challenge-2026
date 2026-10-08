@@ -1,13 +1,32 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-08T08:53:13.523Z",
+  "updated": "2026-10-08T16:06:01.114Z",
   "counts": {
-    "news": 37,
-    "offfield": 4,
-    "preview": 5,
-    "celebration": 2
+    "news": 38,
+    "injury": 1,
+    "offfield": 5,
+    "preview": 3,
+    "celebration": 1
   },
   "items": [
+    {
+      "id": "50131464",
+      "headline": "Where does Messi rank in the top five players of all time?",
+      "description": "Where does Messi rank in the top five players of all time?",
+      "published": "2026-10-08T08:50:56Z",
+      "url": "https://www.espn.com/video/clip/_/id/50131464/where-does-messi-rank-top-five-players-all",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 202
+    },
     {
       "id": "50126573",
       "headline": "Ex-Tottenham defender Ramon Vega to challenge FIFA president Gianni Infantino",
@@ -20,7 +39,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 184
+      "score": 164
     },
     {
       "id": "47978642",
@@ -38,7 +57,66 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 171
+      "score": 150
+    },
+    {
+      "id": "50132525",
+      "headline": "Alex Scott injury not England's fault - Bournemouth boss",
+      "description": "Bournemouth boss Marco Rose refused to blame England for the injury which will keep Alex Scott out for a number of weeks.",
+      "published": "2026-10-08T13:29:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50132525/alex-scott-injury-not-england-fault-bournemouth-boss",
+      "image": "https://a.espncdn.com/photo/2026/1008/r1727804_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Alex Scott",
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50132726",
+      "headline": "Everton's Martin Sherif fined for breaching FA betting rules",
+      "description": "Everton youngster Martin Sherif has been fined for breaching Football Association betting rules.",
+      "published": "2026-10-08T13:56:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50132726/martin-sherif-everton-fined-fa-betting-rules",
+      "image": "https://a.espncdn.com/photo/2026/1008/r1727813_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Martin Sherif",
+        "Lionel Messi"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50131828",
+      "headline": "Senegal vs. Morocco AFCON verdict within days - CAS",
+      "description": "Senegal and Morocco have been told to expect a decision by the Court of Arbitration for Sport on their controversial Africa Cup of Nations ruling within days.",
+      "published": "2026-10-08T12:08:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50131828/senegal-vs-morocco-afcon-verdict-days-cas",
+      "image": "https://a.espncdn.com/photo/2026/0317/r1629881_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Morocco",
+        "Senegal"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 139
     },
     {
       "id": "50114003",
@@ -67,165 +145,99 @@
         "USA"
       ],
       "players": [],
-      "score": 160
+      "score": 139
     },
     {
-      "id": "50131142",
-      "headline": "Transfer rumors, news: Man United, Chelsea in race for Spurs academy star",
-      "description": "Manchester United, Chelsea, Bayern Munich and Borussia Dortmund are all tracking Tottenham Hotspur attacking midfielder Luca Williams-Barnett. Transfer Talk has the latest.",
-      "published": "2026-10-08T07:34:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50131142/transfer-rumors-news-manchester-united-chelsea-race-spurs-academy-star-luca-williams-barnett",
-      "image": "https://a.espncdn.com/photo/2026/1008/r1727728_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Luca Williams-Barnett",
-        "Lionel Messi"
-      ],
-      "score": 143
-    },
-    {
-      "id": "50131175",
-      "headline": "Madagascar vs. South Africa - Kick-off time, team news, how to watch Banyana's Olympic qualifier",
-      "description": "South Africa will play the first leg of their Olympic qualifying tie against Madagascar on Friday behind closed doors at Bloemfontein's Free State Stadium, before facing the same opponents in front of fans at the same venue on Tuesday.",
-      "published": "2026-10-08T07:40:38Z",
-      "url": "https://www.espn.com/espn/story/_/id/50131175/madagascar-vs-south-africa-kick-team-news-how-watch-banyana-olympic-qualifier",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701443_1296x729_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "50132564",
+      "headline": "Switzerland's Granit Xhaka gets probation in fake COVID-19 vaccination document case",
+      "description": "Switzerland and Sunderland captain Granit Xhaka said on Thursday he was put on two years' probation after he admitted obtaining a fake vaccination certificate during the COVID-19 pandemic.",
+      "published": "2026-10-08T13:51:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50132564/switzerland-granit-xhaka-probation-fake-covid-19-vaccination-document-case",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663385_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina",
-        "South Africa"
+        "Switzerland"
       ],
       "players": [
-        "Thembi Kgatlana",
-        "Refiloe Jane",
+        "Granit Xhaka",
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 130
     },
     {
-      "id": "50131006",
-      "headline": "AFCON qualifiers - Renard returns, Ghana unravel, and Nigeria make unwanted history",
-      "description": "The opening rounds of the 2027 Africa Cup of Nations qualifying - and the international friendlies that followed - have left many of the continent's established contenders with plenty of areas to improve.",
-      "published": "2026-10-08T07:04:53Z",
-      "url": "https://www.espn.com/espn/story/_/id/50131006/afcon-qualifiers-renard-returns-ghana-unravel-nigeria-make-unwanted-history",
-      "image": "https://a.espncdn.com/photo/2026/1008/r1727722_1088x612_16-9.png",
-      "byline": "Ed Dove",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina",
-        "South Africa",
-        "Ghana",
-        "Côte d'Ivoire"
-      ],
-      "players": [
-        "Puso Dithejane",
-        "Lionel Messi"
-      ],
-      "score": 137
-    },
-    {
-      "id": "50131464",
-      "headline": "Where does Messi rank in the top five players of all time?",
-      "description": "Where does Messi rank in the top five players of all time?",
-      "published": "2026-10-08T08:50:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/50131464/where-does-messi-rank-top-five-players-all",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "France",
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Zinadine Zidane M Catraio"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50022605",
-      "headline": "Ian Darke's early Premier League impressions for all 20 teams",
-      "description": "Might Arsenal be more vulnerable than expected? Are Brighton capable of making a top-four bid? Here's what stands out from the first weeks of Premier League action.",
-      "published": "2026-10-08T08:04:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50022605/ian-darke-early-premier-league-impressions-all-20-teams",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724510_1296x729_16-9.jpg",
-      "byline": "Ian Darke",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50131187",
-      "headline": "Sir Alex Ferguson: Cristiano Ronaldo and Wayne Rooney were 'the best in Europe' at Man United",
-      "description": "Sir Alex Ferguson has said that Cristiano Ronaldo and Wayne Rooney were the two best players in Europe for a period under his management at Manchester United.",
-      "published": "2026-10-08T07:52:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50131187/alex-ferguson-cristiano-ronaldo-wayne-rooney-best-europe-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1008/r1727732_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50131139",
-      "headline": "Debutants in line for Super Eagles first team after Russia efforts, says Eric Chelle",
-      "description": "Nigeria coach Eric Chelle said the players who earned Tuesday's 3-3 draw against Russia may have forced their way into his senior squad, following their performances in Nizhny Novgorod.",
-      "published": "2026-10-08T07:21:23Z",
-      "url": "https://www.espn.com/espn/story/_/id/50131139/debutants-line-super-eagles-first-team-russia-efforts-says-eric-chelle",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720759_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Kelechi Iheanacho",
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50131138",
-      "headline": "Harry Kane arrival would be 'fulfilment of a dream' - MLS commissioner",
-      "description": "MLS commissioner Don Garber would love Harry Kane to follow Lionel Messi across the pond and says the England skipper's interest helps fulfil a dream that Sir David Beckham kept alive.",
-      "published": "2026-10-08T07:19:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50131138/harry-kane-encouraged-end-career-us-mls-commissioner",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717388_1296x729_16-9.jpg",
+      "id": "50132364",
+      "headline": "Aleksander Čeferin to stand for unprecedented fourth term as UEFA president - report",
+      "description": "Aleksander Čeferin will stand for a fourth term as UEFA president, sources have told the Press Association.",
+      "published": "2026-10-08T12:56:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50132364/aleksander-ceferin-stand-unprecedented-fourth-term-uefa-president-report",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695491_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "England"
+        "Argentina"
       ],
       "players": [
-        "Harry Kane",
         "Lionel Messi"
       ],
-      "score": 131
+      "score": 128
+    },
+    {
+      "id": "50131879",
+      "headline": "Sources: Pep Guardiola set to attend first Man City home game since guilty verdict",
+      "description": "Pep Guardiola is expected to attend Manchester City's Champions League fixture against Paris Saint-Germain, sources have told ESPN.",
+      "published": "2026-10-08T12:21:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50131879/pep-guardiola-attend-first-man-city-home-game-guilty-verdict-sources",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692734_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50131949",
+      "headline": "Mikel Arteta: 'I still have the scar' from Arsenal's Champions League final defeat",
+      "description": "Mikel Arteta has said he still has a \"scar\" from Arsenal's Champions League final defeat to Paris Saint-Germain in May.",
+      "published": "2026-10-08T11:15:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50131949/mikel-arteta-champions-league-final-defeat-scar-arsenal",
+      "image": "https://a.espncdn.com/photo/2026/1008/r1727762_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50131876",
+      "headline": "Raúl Asencio on drink driving conviction: 'I'm at Real Madrid, that can't happen again'",
+      "description": "Raúl Asencio has said he is only focused on winning at Real Madrid and \"turning the situation around\" following his recent conviction for drink driving.",
+      "published": "2026-10-08T10:36:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50131876/raul-asencio-real-madrid-drink-drinking-jose-mourinho",
+      "image": "https://a.espncdn.com/photo/2026/1008/r1727758_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
     },
     {
       "id": "50120434",
@@ -243,25 +255,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 131
-    },
-    {
-      "id": "50130929",
-      "headline": "Canberra United ready after 'wild' A-League offseason",
-      "description": "Canberra United coach Antoni Jagarinec admits that the lack of a pay agreement within the A-League Women has made his team's preseason \"wildly challenging.\"",
-      "published": "2026-10-08T07:01:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50130929/canberra-united-ready-wild-aleague-offseason",
-      "image": "https://a.espncdn.com/photo/2026/1008/r1727724_1296x729_16-9.jpg",
-      "byline": "AAP",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
+      "score": 111
     },
     {
       "id": "50115954",
@@ -277,7 +271,7 @@
         "DR Congo"
       ],
       "players": [],
-      "score": 103
+      "score": 82
     },
     {
       "id": "50121507",
@@ -295,7 +289,7 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 87
+      "score": 76
     },
     {
       "id": "50104524",
@@ -312,25 +306,7 @@
         "USA"
       ],
       "players": [],
-      "score": 40
-    },
-    {
-      "id": "50099893",
-      "headline": "Scaloni: Messi's final Argentina match will be unforgettable",
-      "description": "Scaloni: Messi's final Argentina match will be unforgettable",
-      "published": "2026-10-04T14:48:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/50099893/messi-final-argentina-match-unforgettable",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 33
+      "score": 30
     },
     {
       "id": "50028671",
@@ -350,6 +326,24 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "50099893",
+      "headline": "Scaloni: Messi's final Argentina match will be unforgettable",
+      "description": "Scaloni: Messi's final Argentina match will be unforgettable",
+      "published": "2026-10-04T14:48:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/50099893/messi-final-argentina-match-unforgettable",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 23
     },
     {
       "id": "50084975",
@@ -443,40 +437,6 @@
         "Vozinha"
       ],
       "score": 20
-    },
-    {
-      "id": "50074316",
-      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
-      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
-      "published": "2026-10-04T10:38:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Kylian Mbappé",
-        "Harry Kane",
-        "Lamine Yamal"
-      ],
-      "score": 19
-    },
-    {
-      "id": "49941399",
-      "headline": "Ecuador hires Marcelo Gallardo through 2030 World Cup",
-      "description": "Marcelo Gallardo, one of the most decorated coaches in the history of the Argentine league, has reached an agreement to manage Ecuador ahead of the 2030 FIFA World Cup.",
-      "published": "2026-09-14T17:36:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49941399/ecuador-hires-marcelo-gallardo-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716613_1024x576_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Ecuador"
-      ],
-      "players": [],
-      "score": 19
     },
     {
       "id": "50012609",
@@ -885,6 +845,38 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "50074316",
+      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
+      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
+      "published": "2026-10-04T10:38:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
+      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Kylian Mbappé",
+        "Harry Kane",
+        "Lamine Yamal"
+      ],
+      "score": 9
+    },
+    {
+      "id": "50084016",
+      "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula'",
+      "description": "FIFA's technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded there was not necessarily a \"winning formula\".",
+      "published": "2026-10-02T12:09:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
