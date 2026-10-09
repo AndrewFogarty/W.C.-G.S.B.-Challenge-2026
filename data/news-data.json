@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-09T19:45:22.515Z",
+  "updated": "2026-10-09T23:35:35.135Z",
   "counts": {
-    "news": 40,
-    "preview": 4,
-    "offfield": 3,
+    "news": 39,
+    "injury": 1,
+    "offfield": 4,
+    "preview": 3,
     "celebration": 1
   },
   "items": [
@@ -20,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 168
+      "score": 162
     },
     {
       "id": "50131464",
@@ -38,110 +39,57 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 151
+      "score": 145
     },
     {
-      "id": "50130966",
-      "headline": "Man City charges: What managers said about scandal ahead of Premier League return",
-      "description": "Here's what every Premier League manager said when asked about Manchester City's charges.",
-      "published": "2026-10-09T16:53:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50130966/man-city-charges-managers-said-scandal-ahead-premier-league-return",
-      "image": "https://a.espncdn.com/photo/2018/0830/r423357_1296x729_16-9.jpg",
+      "id": "50142759",
+      "headline": "Michael Carrick: No timeline for Benjamin Sesko's Man United return",
+      "description": "Michael Carrick has said there is no timeline for Benjamin Sesko's return after the Manchester United striker suffered a second shin injury.",
+      "published": "2026-10-09T21:30:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50142759/man-united-injury-news-benjamin-sesko-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728417_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Benjamin Sesko",
+        "Patrick Dorgu",
+        "Noussair Mazraoui",
+        "Carlos Baleba",
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50138310",
+      "headline": "Transfer rumors, news: Chelsea eye move for Barcelona's De Jong",
+      "description": "Chelsea are reporting looking at signing Frenkie de Jong from Barcelona. Transfer Talk has the latest.",
+      "published": "2026-10-09T21:34:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728422_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 138
-    },
-    {
-      "id": "50141921",
-      "headline": "England's Djed Spence ready for long-awaited Inter Milan debut",
-      "description": "England defender Djed Spence could be handed his long-awaited debut for Inter Milan against Parma on Saturday.",
-      "published": "2026-10-09T18:44:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50141921/england-djed-spence-inter-milan-debut-serie-a",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728331_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Argentina",
-        "England"
+        "Netherlands"
       ],
       "players": [
-        "Djed Spence",
+        "Frenkie de Jong",
         "Lionel Messi"
       ],
-      "score": 131
+      "score": 142
     },
     {
-      "id": "50127968",
-      "headline": "England take lead from playoff 1st leg in Greece",
-      "description": "England will take a comfortable lead into the second leg of their Women's World Cup playoff semifinal after they earned a 3-1 victory over Greece in Crete.",
-      "published": "2026-10-09T18:34:10Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401878170",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728320_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50141630",
-      "headline": "Motsepe: CAF considering moving AFCON back to two-year cycle",
-      "description": "CAF's Patrice Motsepe has said that the organisation is considering moving AFCON back to a biennial cycle, having only announced plans to scrap it in December.",
-      "published": "2026-10-09T17:44:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50141630/patrice-motsepe-caf-considering-moving-afcon-back-two-year-cycle",
-      "image": "https://a.espncdn.com/photo/2026/0306/r1624051_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50138825",
-      "headline": "Xabi Alonso insists Cole Palmer committed to representing England after Thomas Tuchel dig",
-      "description": "Chelsea manager Xabi Alonso insists Cole Palmer is committed to representing England following question marks raised by national team boss Thomas Tuchel.",
-      "published": "2026-10-09T17:37:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50138825/xabi-alonso-insists-cole-palmer-committed-representing-england-thomas-tuchel-dig",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694613_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Cole Palmer",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50141636",
-      "headline": "Carrick: 'Essential' that Man City charges are resolved quickly",
-      "description": "Carrick: 'Essential' that Man City charges are resolved quickly",
-      "published": "2026-10-09T17:37:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/50141636/essential-man-city-charges-resolved-quickly",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Carrick_Essential_that_Man_City_charges_are_resolved_quickly/dm_261009_Carrick_Essential_that_Man_City_charges_are_resolved_quickly.jpg",
+      "id": "50142898",
+      "headline": "Nicol: Jesus is a 'no-brainer' to replace Raphinha",
+      "description": "Nicol: Jesus is a 'no-brainer' to replace Raphinha",
+      "published": "2026-10-09T21:30:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/50142898/jesus-no-brainer-replace-raphinha",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Nicol_Jesus_is_a_no_brainer_to_replace_Raphinha/dm_261009_Nicol_Jesus_is_a_no_brainer_to_replace_Raphinha.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -149,41 +97,104 @@
         "Argentina"
       ],
       "players": [
+        "Gabriel Jesus",
         "Lionel Messi"
       ],
       "score": 130
     },
     {
-      "id": "50140957",
-      "headline": "PSG's Luis Enrique backs Khvicha Kvaratskhelia after slow start",
-      "description": "Luis Enrique has played down concerns about Khvicha Kvaratskhelia's form as he looks to get Paris Saint-Germain moving up the table.",
-      "published": "2026-10-09T16:20:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50140957/psg-luis-enrique-backs-khvicha-kvaratskhelia-slow-start",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717441_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "50142736",
+      "headline": "Kerr, McNamara score, but Matildas go down to Germany",
+      "description": "With their eyes firmly set on the FIFA Women's World Cup, the Matildas received a reality check in a loss to a European powerhouse.",
+      "published": "2026-10-09T21:23:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50142736/kerr-mcnamara-score-matildas-go-germany",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728398_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Australia",
+        "Germany"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50142731",
+      "headline": "Málaga vs. Espanyol - Game Highlights",
+      "description": "Watch the Game Highlights from Málaga vs. Espanyol, 10/09/2026",
+      "published": "2026-10-09T21:03:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/50142731/malaga-vs-espanyol-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/4c47a79c-3b94-48b1-a3a2-77c7ebbb8f43/4c47a79c-3b94-48b1-a3a2-77c7ebbb8f43.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Khvicha Kvaratskhelia",
+        "Bryan Zaragoza",
+        "Carlos Puga",
+        "Adrián Niño",
         "Lionel Messi"
       ],
-      "score": 128
+      "score": 129
     },
     {
-      "id": "50140918",
-      "headline": "Kompany: I still have great memories of my time at Man City despite PL charges",
-      "description": "Kompany: I still have great memories of my time at Man City despite PL charges",
-      "published": "2026-10-09T15:35:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/50140918/great-memories-my-man-city-pl-charges",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_Presser_Kompany3A_I_still_have_great_memories_of_my_time_at_Man_City_despite_PL_charges_GLO/dm_261009_COM_SOC_Presser_Kompany3A_I_still_have_great_memories_of_my_time_at_Man_City_despite_PL_charges_GLO.jpg",
+      "id": "50142727",
+      "headline": "Mourinho backs Mbappé amid fan backlash over France absence",
+      "description": "Alex Kirkland explains Mourinho's defense of Mbappé sitting out the international break, calling fan backlash \"ridiculous.\"",
+      "published": "2026-10-09T21:03:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/50142727/mourinho-backs-mbappe-amid-fan-backlash-france-absence",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Mbappe_Real_IA/dm_261009_Mbappe_Real_IA.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50142514",
+      "headline": "Sarina Wiegman demands England improvements for Greece second leg",
+      "description": "Sarina Wiegman has said England made life harder than it needed to be after their 3-1 World Cup playoff win over Greece in Heraklion on Friday evening.",
+      "published": "2026-10-09T20:41:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50142514/sarina-wiegman-demands-england-improvements-greece-second-leg",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728390_594x334_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50142242",
+      "headline": "England a step closer to Women's World Cup after muted win in Greece",
+      "description": "",
+      "published": "2026-10-09T19:47:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50142242/england-greece-2027-womens-world-cup-qualifying-playoff",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728369_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
       ],
       "players": [
         "Lionel Messi"
@@ -202,7 +213,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 112
+      "score": 106
     },
     {
       "id": "47978642",
@@ -220,7 +231,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 98
+      "score": 93
     },
     {
       "id": "50114003",
@@ -249,7 +260,7 @@
         "USA"
       ],
       "players": [],
-      "score": 88
+      "score": 82
     },
     {
       "id": "50120434",
@@ -267,7 +278,23 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 59
+      "score": 53
+    },
+    {
+      "id": "50115954",
+      "headline": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
+      "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
+      "published": "2026-10-06T11:59:21Z",
+      "url": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
+      "image": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "DR Congo"
+      ],
+      "players": [],
+      "score": 30
     },
     {
       "id": "50121507",
@@ -285,23 +312,7 @@
         "Korea Republic"
       ],
       "players": [],
-      "score": 35
-    },
-    {
-      "id": "50115954",
-      "headline": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
-      "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
-      "published": "2026-10-06T11:59:21Z",
-      "url": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
-      "image": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "DR Congo"
-      ],
-      "players": [],
-      "score": 30
+      "score": 29
     },
     {
       "id": "50028671",
