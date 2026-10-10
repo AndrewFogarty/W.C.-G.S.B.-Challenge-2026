@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-10T02:44:49.761Z",
+  "updated": "2026-10-10T09:06:23.770Z",
   "counts": {
-    "news": 41,
-    "offfield": 3,
+    "news": 38,
+    "offfield": 5,
+    "injury": 1,
     "preview": 3,
     "celebration": 1
   },
@@ -20,7 +21,84 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 158
+      "score": 148
+    },
+    {
+      "id": "50145871",
+      "headline": "Liverpool boss Andoni Iraola offers backing to Bradley Barcola after France performances criticism",
+      "description": "Liverpool head coach Andoni Iraola rejected suggestions summer signing Bradley Barcola was struggling for form after the forward was criticised for his France performances.",
+      "published": "2026-10-10T09:00:17Z",
+      "url": "https://www.espn.com/espn/story/_/id/50145871/liverpool-andoni-iraola-bradley-barcola-premier-league-france",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715303_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Alexander Isak",
+        "Cody Gakpo",
+        "Bradley Barcola",
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50145785",
+      "headline": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
+      "description": "Manchester United's top young prospect JJ Gabriel has renewed discussions with Bayern Munich. Transfer Talk has the latest.",
+      "published": "2026-10-10T08:40:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "JJ Gabriel",
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50138142",
+      "headline": "Premier League team news, injury updates after international break",
+      "description": "The Premier League returns this weekend after an extra-long international break. But who is injured?",
+      "published": "2026-10-10T06:32:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50138142/premier-league-team-news-injury-updates-international-break",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726226_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50133320",
+      "headline": "'We're Not Really Here': As Man City sanctions loom, it's the fans who suffer",
+      "description": "Manchester City's financial malfeasance could send the club back down the football pyramid, a place where fans of a certain age are very familiar.",
+      "published": "2026-10-10T08:48:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50133320/were-not-really-here-manchester-city-sanctions-loom-premier-league-guilty-verdict-fans-suffer",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728364_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
     },
     {
       "id": "50131464",
@@ -38,7 +116,43 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 131
+    },
+    {
+      "id": "50143975",
+      "headline": "Auburn vs. Oklahoma: Game Highlights",
+      "description": "Auburn vs. Oklahoma: Game Highlights",
+      "published": "2026-10-10T03:30:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/50143975/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/4ec00531-b877-4d11-8e83-85c43eeee576/4ec00531-b877-4d11-8e83-85c43eeee576.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
+    },
+    {
+      "id": "50144278",
+      "headline": "Dylan Driver describes feeling of leading Auburn to win over Oklahoma",
+      "description": "Driver describes her excitement after scoring both goals for the Tigers as she discusses how she kept her momentum high to secure the win against the Sooners.",
+      "published": "2026-10-10T02:56:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/50144278/dylan-driver-describes-feeling-leading-auburn-win-oklahoma",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_SEC_WSOC_Interview_Auburn_soccer_interview_261009/dm_261009_SEC_WSOC_Interview_Auburn_soccer_interview_261009.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 124
     },
     {
       "id": "50144133",
@@ -56,25 +170,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
-    },
-    {
-      "id": "50143897",
-      "headline": "Texas vs. Kentucky: Game Highlights",
-      "description": "Texas vs. Kentucky: Game Highlights",
-      "published": "2026-10-10T02:34:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/50143897/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/1bd09c81-f389-4bef-9f21-181938c3b3eb/1bd09c81-f389-4bef-9f21-181938c3b3eb.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
+      "score": 123
     },
     {
       "id": "50144003",
@@ -92,97 +188,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 132
-    },
-    {
-      "id": "50143725",
-      "headline": "Vanderbilt vs. Missouri: Game Highlights",
-      "description": "Vanderbilt vs. Missouri: Game Highlights",
-      "published": "2026-10-10T02:18:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/50143725/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/25bfbc79-9f10-4683-a974-c6af31d05016/25bfbc79-9f10-4683-a974-c6af31d05016.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50143975",
-      "headline": "Auburn vs. Oklahoma: Game Highlights",
-      "description": "Auburn vs. Oklahoma: Game Highlights",
-      "published": "2026-10-10T02:12:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/50143975/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/4ec00531-b877-4d11-8e83-85c43eeee576/4ec00531-b877-4d11-8e83-85c43eeee576.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50143965",
-      "headline": "Arkansas vs. LSU: Game Highlights",
-      "description": "Arkansas vs. LSU: Game Highlights",
-      "published": "2026-10-10T02:10:48Z",
-      "url": "https://www.espn.com/video/clip/_/id/50143965/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/26f8f6de-f0d8-4586-8a4d-9c63de442459/26f8f6de-f0d8-4586-8a4d-9c63de442459.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50143756",
-      "headline": "Tennessee vs. South Carolina: Game Highlights",
-      "description": "Tennessee vs. South Carolina: Game Highlights",
-      "published": "2026-10-10T01:55:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/50143756/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/a74bdaf7-e170-4303-970d-519d09180bd3/a74bdaf7-e170-4303-970d-519d09180bd3.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50143794",
-      "headline": "West Virginia vs. Old Dominion: Game Highlights",
-      "description": "West Virginia vs. Old Dominion: Game Highlights",
-      "published": "2026-10-10T01:37:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/50143794/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/56a2ecf4-1765-4dc2-ab08-c16229c783e9/56a2ecf4-1765-4dc2-ab08-c16229c783e9.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
+      "score": 123
     },
     {
       "id": "50126573",
@@ -196,7 +202,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 102
+      "score": 92
     },
     {
       "id": "47978642",
@@ -214,7 +220,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 88
+      "score": 78
     },
     {
       "id": "50114003",
@@ -243,7 +249,7 @@
         "USA"
       ],
       "players": [],
-      "score": 77
+      "score": 68
     },
     {
       "id": "50120434",
@@ -261,7 +267,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 49
+      "score": 43
     },
     {
       "id": "50115954",
@@ -297,24 +303,6 @@
         "Folarin Balogun"
       ],
       "score": 25
-    },
-    {
-      "id": "50121507",
-      "headline": "Garriock: Football Australia 'in favour' of AFC Nations League concept",
-      "description": "Football Australia has given an early thumbs-up to the AFC's proposed Nations League concept, with director Heather Garriock describing it as a 'great concept' to strengthen Asia's position in world football.",
-      "published": "2026-10-07T04:16:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50121507/football-australia-director-heather-garriock-says-afc-nations-league-great-concept-world-cup-qualification",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727130_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Japan",
-        "Korea Republic"
-      ],
-      "players": [],
-      "score": 24
     },
     {
       "id": "50084975",
@@ -439,6 +427,24 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50121507",
+      "headline": "Garriock: Football Australia 'in favour' of AFC Nations League concept",
+      "description": "Football Australia has given an early thumbs-up to the AFC's proposed Nations League concept, with director Heather Garriock describing it as a 'great concept' to strengthen Asia's position in world football.",
+      "published": "2026-10-07T04:16:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50121507/football-australia-director-heather-garriock-says-afc-nations-league-great-concept-world-cup-qualification",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727130_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Japan",
+        "Korea Republic"
+      ],
+      "players": [],
+      "score": 15
     },
     {
       "id": "50099893",
