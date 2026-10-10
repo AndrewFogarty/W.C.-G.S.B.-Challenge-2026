@@ -1,14 +1,109 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-10T09:06:23.770Z",
+  "updated": "2026-10-10T15:21:52.166Z",
   "counts": {
-    "news": 38,
-    "offfield": 5,
-    "injury": 1,
-    "preview": 3,
-    "celebration": 1
+    "injury": 2,
+    "preview": 5,
+    "celebration": 2,
+    "news": 36,
+    "offfield": 3
   },
   "items": [
+    {
+      "id": "50146841",
+      "headline": "Cristiano Ronaldo suspended by Portugal as disciplinary case opened after national team walkout",
+      "description": "Cristiano Ronaldo has been provisionally suspended by the Portuguese Football Federation (FPF) following his decision to walk out of the national team camp after a dispute with head coach Jorge Jesus.",
+      "published": "2026-10-10T15:09:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50146841/cristiano-ronaldo-suspended-portugal-national-team-walkout-jorge-jesus-disciplinary",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1724024_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Lionel Messi"
+      ],
+      "score": 147
+    },
+    {
+      "id": "50147672",
+      "headline": "Atlético Madrid mock Real Madrid on social media over Federico Valverde recovery",
+      "description": "Atlético Madrid poked fun at Real Madrid on social media after midfielder Federico Valverde recovered from injury to be included in Saturday's squad to face Villarreal in LaLiga.",
+      "published": "2026-10-10T14:36:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50147672/atletico-madrid-mock-real-madrid-social-media-federico-valverde-recovery",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728662_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Federico Valverde",
+        "Lionel Messi"
+      ],
+      "score": 146
+    },
+    {
+      "id": "50147463",
+      "headline": "MTN8 Final LIVE - Orlando Pirates vs. Mamelodi Sundowns updates, as it happens",
+      "description": "Orlando Pirates and Mamelodi Sundowns face off at Durban's Moses Mabhida Stadium for the MTN8 title -- the first silverware on offer in 2026-27.",
+      "published": "2026-10-10T15:10:15Z",
+      "url": "https://www.espn.com/espn/story/_/id/50147463/mtn8-final-orlando-pirates-vs-mamelodi-sundowns-live",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728661_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "South Africa"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50134675",
+      "headline": "Premier League live updates: Chelsea host Bournemouth; Aston Villa face Brentford",
+      "description": "After a three-week international break, club soccer returns! Chelsea will look to bounce back from their loss to Brentford last time out as they host Bournemouth.",
+      "published": "2026-10-10T14:57:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50134675/premier-league-live-updates-arsenal-leeds-united-manchester-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728674_2_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50147624",
+      "headline": "Manuel Neuer error sees Robin Fellhauer score fastest ever Bundesliga goal",
+      "description": "Augsburg's Robin Fellhauer wrote his name into German footballing history on Saturday, scoring the fastest goal in Bundesliga history against Bayern Munich.",
+      "published": "2026-10-10T14:39:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50147624/bayern-munich-manuel-neuer-augsburg-robin-fellhauer-scores-fastest-goal-bundesliga-history",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728660_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Robin Fellhauer",
+        "Lionel Messi"
+      ],
+      "score": 139
+    },
     {
       "id": "50134141",
       "headline": "Sources: Infantino reelection path clear as Montagliani plans Concacaf stay",
@@ -21,75 +116,16 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 148
+      "score": 139
     },
     {
-      "id": "50145871",
-      "headline": "Liverpool boss Andoni Iraola offers backing to Bradley Barcola after France performances criticism",
-      "description": "Liverpool head coach Andoni Iraola rejected suggestions summer signing Bradley Barcola was struggling for form after the forward was criticised for his France performances.",
-      "published": "2026-10-10T09:00:17Z",
-      "url": "https://www.espn.com/espn/story/_/id/50145871/liverpool-andoni-iraola-bradley-barcola-premier-league-france",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715303_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina",
-        "France"
-      ],
-      "players": [
-        "Alexander Isak",
-        "Cody Gakpo",
-        "Bradley Barcola",
-        "Lionel Messi"
-      ],
-      "score": 145
-    },
-    {
-      "id": "50145785",
-      "headline": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
-      "description": "Manchester United's top young prospect JJ Gabriel has renewed discussions with Bayern Munich. Transfer Talk has the latest.",
-      "published": "2026-10-10T08:40:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "JJ Gabriel",
-        "Lionel Messi"
-      ],
-      "score": 144
-    },
-    {
-      "id": "50138142",
-      "headline": "Premier League team news, injury updates after international break",
-      "description": "The Premier League returns this weekend after an extra-long international break. But who is injured?",
-      "published": "2026-10-10T06:32:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50138142/premier-league-team-news-injury-updates-international-break",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726226_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 143
-    },
-    {
-      "id": "50133320",
-      "headline": "'We're Not Really Here': As Man City sanctions loom, it's the fans who suffer",
-      "description": "Manchester City's financial malfeasance could send the club back down the football pyramid, a place where fans of a certain age are very familiar.",
-      "published": "2026-10-10T08:48:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50133320/were-not-really-here-manchester-city-sanctions-loom-premier-league-guilty-verdict-fans-suffer",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728364_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
+      "id": "50147861",
+      "headline": "Mikel Arteta says Arsenal got 'identity' back in Leeds win: 'Had a point to prove'",
+      "description": "Mikel Arteta has hailed Arsenal's comeback win against Leeds after admitting his team had a point to prove as they \"identity was questioned\" when losing to Brighton & Hove Albion.",
+      "published": "2026-10-10T14:54:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50147861/mikel-arteta-says-arsenal-got-identity-back-leeds-win-had-point-prove",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728675_1296x729_16-9.jpg",
+      "byline": "James Olley",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -98,7 +134,43 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 132
+    },
+    {
+      "id": "50147675",
+      "headline": "Michallik: Arsenal's depth and quality give them an edge",
+      "description": "Michallik: Arsenal's depth and quality give them an edge",
+      "published": "2026-10-10T14:36:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/50147675/arsenal-depth-quality-give-edge",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Michallik_Arsenals_depth_and_quality_give_them_an_edge/dm_261010_Michallik_Arsenals_depth_and_quality_give_them_an_edge.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50147438",
+      "headline": "Michallik: Arsenal always find a way to win",
+      "description": "Michallik: Arsenal always find a way to win",
+      "published": "2026-10-10T14:12:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/50147438/arsenal-always-find-way-win",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Michallik_Arsenal_always_find_a_way_to_win/dm_261010_Michallik_Arsenal_always_find_a_way_to_win.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
     },
     {
       "id": "50131464",
@@ -116,79 +188,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 131
-    },
-    {
-      "id": "50143975",
-      "headline": "Auburn vs. Oklahoma: Game Highlights",
-      "description": "Auburn vs. Oklahoma: Game Highlights",
-      "published": "2026-10-10T03:30:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/50143975/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/4ec00531-b877-4d11-8e83-85c43eeee576/4ec00531-b877-4d11-8e83-85c43eeee576.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50144278",
-      "headline": "Dylan Driver describes feeling of leading Auburn to win over Oklahoma",
-      "description": "Driver describes her excitement after scoring both goals for the Tigers as she discusses how she kept her momentum high to secure the win against the Sooners.",
-      "published": "2026-10-10T02:56:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/50144278/dylan-driver-describes-feeling-leading-auburn-win-oklahoma",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_SEC_WSOC_Interview_Auburn_soccer_interview_261009/dm_261009_SEC_WSOC_Interview_Auburn_soccer_interview_261009.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50144133",
-      "headline": "Kentucky's Kyla Dawn reflects on her game-winning goal vs. Texas",
-      "description": "Dawn relives her game-winning goal late in the second half as she describes her excitement of leading the Wildcats to a tough win against the Longhorns.",
-      "published": "2026-10-10T02:36:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/50144133/kentucky-kyla-dawn-reflects-game-winning-goal-vs-texas",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_SEC_WSOC_Interview_Kentucky_soccer_interview_261009/dm_261009_SEC_WSOC_Interview_Kentucky_soccer_interview_261009.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "50144003",
-      "headline": "Vandy's Mia Hebert recalls lone goal, team fight in win over Mizzou",
-      "description": "Hebert says she saw a bit of space back-post and just \"let it rip\" to score the only goal of No. 3 Vanderbilt's battle against Missouri.",
-      "published": "2026-10-10T02:18:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/50144003/vandy-mia-hebert-recalls-lone-goal-team-fight-win-mizzou",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_SEC_WSOC_Interview_Hebert_postgame_261009/dm_261009_SEC_WSOC_Interview_Hebert_postgame_261009.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
+      "score": 121
     },
     {
       "id": "50126573",
@@ -202,7 +202,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 92
+      "score": 83
     },
     {
       "id": "47978642",
@@ -220,7 +220,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 78
+      "score": 69
     },
     {
       "id": "50114003",
@@ -249,7 +249,7 @@
         "USA"
       ],
       "players": [],
-      "score": 68
+      "score": 58
     },
     {
       "id": "50120434",
@@ -429,24 +429,6 @@
       "score": 18
     },
     {
-      "id": "50121507",
-      "headline": "Garriock: Football Australia 'in favour' of AFC Nations League concept",
-      "description": "Football Australia has given an early thumbs-up to the AFC's proposed Nations League concept, with director Heather Garriock describing it as a 'great concept' to strengthen Asia's position in world football.",
-      "published": "2026-10-07T04:16:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50121507/football-australia-director-heather-garriock-says-afc-nations-league-great-concept-world-cup-qualification",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727130_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Japan",
-        "Korea Republic"
-      ],
-      "players": [],
-      "score": 15
-    },
-    {
       "id": "50099893",
       "headline": "Scaloni: Messi's final Argentina match will be unforgettable",
       "description": "Scaloni: Messi's final Argentina match will be unforgettable",
@@ -604,6 +586,24 @@
         "James Rodríguez"
       ],
       "score": 13
+    },
+    {
+      "id": "50121507",
+      "headline": "Garriock: Football Australia 'in favour' of AFC Nations League concept",
+      "description": "Football Australia has given an early thumbs-up to the AFC's proposed Nations League concept, with director Heather Garriock describing it as a 'great concept' to strengthen Asia's position in world football.",
+      "published": "2026-10-07T04:16:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50121507/football-australia-director-heather-garriock-says-afc-nations-league-great-concept-world-cup-qualification",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727130_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Australia",
+        "Japan",
+        "Korea Republic"
+      ],
+      "players": [],
+      "score": 10
     },
     {
       "id": "50098546",
