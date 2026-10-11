@@ -1,21 +1,39 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-11T07:26:41.390Z",
+  "updated": "2026-10-11T14:19:10.889Z",
   "counts": {
-    "news": 40,
-    "injury": 1,
-    "offfield": 3,
+    "offfield": 5,
+    "news": 37,
+    "injury": 2,
     "preview": 3,
     "celebration": 1
   },
   "items": [
     {
+      "id": "50156783",
+      "headline": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
+      "description": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
+      "published": "2026-10-11T13:54:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/50156783/bentancur-red-card-encouraged-tottenham-play-more-character",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 224
+    },
+    {
       "id": "47978642",
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
       "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-10-11T03:55:27Z",
+      "published": "2026-10-11T12:27:25Z",
       "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727271_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
@@ -25,7 +43,45 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 208
+      "score": 200
+    },
+    {
+      "id": "50155787",
+      "headline": "Senne Lammens: Man United must get 'sour' taste of late Tottenham woe out of mouth",
+      "description": "Senne Lammens says Manchester United head to Atlético Madrid determined to get rid of the \"sour\" taste left in their mouth by Saturday's disappointing late draw against Tottenham.",
+      "published": "2026-10-11T11:47:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50155787/man-united-tottenham-premier-league-senne-lammens",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729104_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Senne Lammens",
+        "Rodrigo Bentancur"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50155123",
+      "headline": "Transfer rumors, news: Man City, Man Utd, Spurs eye Atlético's Simeone",
+      "description": "Man City, Man United and Tottenham are all looking at bringing Atlético Madrid's Giuliano Simeone to the Premier League. Transfer Talk has the latest.",
+      "published": "2026-10-11T09:05:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729094_2_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Giuliano Simeone",
+        "Rodrigo Bentancur"
+      ],
+      "score": 137
     },
     {
       "id": "50138142",
@@ -38,12 +94,68 @@
       "kind": "injury",
       "kindLabel": "Injury",
       "teams": [
-        "Argentina"
+        "Uruguay"
       ],
       "players": [
-        "Franco Mastantuono"
+        "Rodrigo Bentancur"
       ],
-      "score": 146
+      "score": 136
+    },
+    {
+      "id": "50134705",
+      "headline": "Premier League live updates: All eyes on Anfield for Liverpool vs. Man City",
+      "description": "Manchester City's first match since being found guilty of 114 charges of breaching the Premier League's financial rules comes against Liverpool at Anfield.",
+      "published": "2026-10-11T11:54:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50134705/premier-league-live-updates-liverpool-manchester-city-ac-milan",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729106_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50117156",
+      "headline": "Manchester City charges: Features, explainers, what's next after guilty verdict",
+      "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
+      "published": "2026-10-11T11:16:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50155580",
+      "headline": "Jordan Henderson reveals special free-kick practice with Chelsea during international break",
+      "description": "Jordan Henderson revealed he pulled rank to score the first direct free-kick of his career after practicing them over the international break.",
+      "published": "2026-10-11T11:06:46Z",
+      "url": "https://www.espn.com/football/story/_/id/50155580/jordan-henderson-chelsea-cole-palmer-morgan-rogers",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728674_2_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay",
+        "Jordan"
+      ],
+      "players": [
+        "Jordan Henderson",
+        "Rodrigo Bentancur"
+      ],
+      "score": 128
     },
     {
       "id": "50153605",
@@ -56,124 +168,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Uruguay"
       ],
       "players": [
-        "Lionel Messi"
+        "Rodrigo Bentancur"
       ],
-      "score": 126
-    },
-    {
-      "id": "50153333",
-      "headline": "Cavan Sullivan's 2 assists help Union extend club-record unbeaten streak to 13",
-      "description": "Teenager Cavan Sullivan had assists on goals by Bruno Damiani and Milan Iloski to help the Philadelphia Union extend their club-record unbeaten streak to 13 with a 2-1 victory over Real Salt Lake on Saturday night.",
-      "published": "2026-10-11T02:31:22Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761849",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761849.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Cavan Sullivan",
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50153249",
-      "headline": "Messi, Suárez score braces as Miami routs D.C.",
-      "description": "Lionel Messi scored two goals to give him a league-leading 23 this season, and Inter Miami CF beat D.C. United 4-0 on Saturday night.",
-      "published": "2026-10-11T02:17:15Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761847",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/ee521216-e63d-4b0b-a113-818162a482c1/ee521216-e63d-4b0b-a113-818162a482c1.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50153008",
-      "headline": "Inter Miami CF vs. DC United - Game Highlights",
-      "description": "Watch the Game Highlights from Inter Miami CF vs. DC United, 10/10/2026",
-      "published": "2026-10-11T02:13:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/50153008/inter-miami-cf-vs-dc-united-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/ee521216-e63d-4b0b-a113-818162a482c1/ee521216-e63d-4b0b-a113-818162a482c1.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Germán Berterame",
-        "Luis Suárez",
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50153051",
-      "headline": "Sounders extend unbeaten streak to 9 with victory over Revs",
-      "description": "Seattle got goals from Hassani Dotson, Dejan Joveljić and Paul Arriola to back a clean sheet from Andrew Thomas and the Sounders extended their unbeaten run to nine with a 3-0 victory over the New England Revolution on Saturday night.",
-      "published": "2026-10-11T02:04:53Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761851",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761851.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50153044",
-      "headline": "Angulo's stoppage-goal lifts Orlando past Columbus",
-      "description": "Iván Angulo scored the go-ahead goal in the 89th minute, Antoine Griezmann added a goal and an assist, and Maxime Crépeau had 12 saves to help Orlando City beat the Columbus Crew 3-2 on Saturday night.",
-      "published": "2026-10-11T02:03:26Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761848",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761848.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50152900",
-      "headline": "Notre Dame vs. North Carolina: Game Highlights",
-      "description": "Notre Dame vs. North Carolina: Game Highlights",
-      "published": "2026-10-11T01:33:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/50152900/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/8e3a026b-248f-4d68-bfd0-369901d76e6f/8e3a026b-248f-4d68-bfd0-369901d76e6f.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
+      "score": 116
     },
     {
       "id": "50134141",
@@ -187,7 +187,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 104
+      "score": 84
     },
     {
       "id": "50131464",
@@ -205,7 +205,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 87
+      "score": 67
     },
     {
       "id": "50126573",
@@ -219,7 +219,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 56
+      "score": 46
     },
     {
       "id": "50114003",
@@ -248,7 +248,7 @@
         "USA"
       ],
       "players": [],
-      "score": 50
+      "score": 40
     },
     {
       "id": "50120434",
@@ -266,23 +266,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 43
-    },
-    {
-      "id": "50115954",
-      "headline": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
-      "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
-      "published": "2026-10-06T11:59:21Z",
-      "url": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
-      "image": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "DR Congo"
-      ],
-      "players": [],
-      "score": 30
+      "score": 33
     },
     {
       "id": "50028671",
@@ -379,18 +363,17 @@
       "score": 22
     },
     {
-      "id": "50104524",
-      "headline": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
-      "description": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
-      "published": "2026-10-04T22:20:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4.jpg",
-      "byline": null,
+      "id": "50115954",
+      "headline": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
+      "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
+      "published": "2026-10-06T11:59:21Z",
+      "url": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
+      "image": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Canada",
-        "USA"
+        "DR Congo"
       ],
       "players": [],
       "score": 20
@@ -569,24 +552,6 @@
       "score": 13
     },
     {
-      "id": "49950986",
-      "headline": "James Rodríguez retires from Colombia after 15-year career",
-      "description": "James Rodríguez announced his retirement from Colombia's national team on Tuesday after 15 years on the international stage.",
-      "published": "2026-09-15T19:28:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49950986/james-rodriguez-retires-colombia",
-      "image": "https://a.espncdn.com/photo/2026/0205/r1610909_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Colombia"
-      ],
-      "players": [
-        "James Rodríguez"
-      ],
-      "score": 13
-    },
-    {
       "id": "50121507",
       "headline": "Garriock: Football Australia 'in favour' of AFC Nations League concept",
       "description": "Football Australia has given an early thumbs-up to the AFC's proposed Nations League concept, with director Heather Garriock describing it as a 'great concept' to strengthen Asia's position in world football.",
@@ -600,6 +565,23 @@
         "Australia",
         "Japan",
         "Korea Republic"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50104524",
+      "headline": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
+      "description": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
+      "published": "2026-10-04T22:20:03Z",
+      "url": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Canada",
+        "USA"
       ],
       "players": [],
       "score": 10
@@ -865,6 +847,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
       "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg",
       "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49867974",
+      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
+      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
+      "published": "2026-10-02T08:49:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
