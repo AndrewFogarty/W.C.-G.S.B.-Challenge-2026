@@ -1,19 +1,34 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-13T07:05:11.044Z",
+  "updated": "2026-10-13T14:59:11.486Z",
   "counts": {
-    "news": 36,
-    "offfield": 4,
-    "preview": 6,
-    "injury": 1,
+    "offfield": 7,
+    "news": 35,
+    "preview": 5,
     "celebration": 1
   },
   "items": [
     {
+      "id": "50173561",
+      "headline": "Netflix buys 2030 World Cup broadcast rights in co-host Spain",
+      "description": "Netflix bought exclusive rights to broadcast the 2030 World Cup in co-host Spain on Tuesday in a deal that lets a free-to-air public broadcaster show games each day including the",
+      "published": "2026-10-13T13:50:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50173561/netflix-buys-2030-world-cup-broadcast-rights-cohost-defending-champion-spain",
+      "image": "https://a.espncdn.com/photo/2026/0423/r1648066_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 220
+    },
+    {
       "id": "50171167",
       "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
       "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
-      "published": "2026-10-13T06:24:32Z",
+      "published": "2026-10-13T13:33:29Z",
       "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
       "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
       "byline": "Jeff Carlisle",
@@ -21,7 +36,101 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 205
+      "score": 194
+    },
+    {
+      "id": "50173930",
+      "headline": "U.S. firm Relevent signs UEFA national teams commercial rights deal from 2028-2036",
+      "description": "UEFA signed a deal with Relevent, owned by Miami Dolphins owner Stephen Ross, to sell commercial rights for UEFA national team competitions from 2028-2036.",
+      "published": "2026-10-13T14:47:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50173930/us-firm-relevent-signs-uefa-national-teams-commercial-rights-deal-2028-2036",
+      "image": "https://a.espncdn.com/photo/2024/1217/r1429191_1296x729_16-9.jpg",
+      "byline": "ESPN news services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Uruguay",
+        "USA"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50171789",
+      "headline": "Transfer rumors, news: Barcelona, Real Madrid scout Erling Haaland at Anfield",
+      "description": "Barcelona and Real Madrid continue to keep tabs on Erling Haaland, while Chelsea growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
+      "published": "2026-10-13T13:15:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730042_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Rodrigo Bentancur"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50173773",
+      "headline": "Unai Emery keen for Aston Villa to use home advantage in Fenerbahce clash",
+      "description": "Aston Villa boss Unai Emery wants his side to enjoy their home comforts once again when they host Fenerbahce in the Champions League.",
+      "published": "2026-10-13T14:30:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50173773/unai-emery-keen-aston-villa-use-home-advantage-fenerbahce-clash",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728828_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50173447",
+      "headline": "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK",
+      "description": "Liverpool are set to be without Alexander Isak, Cody Gakpo and Dominik Szoboszlai for Wednesday's UEFA Champions League clash with LASK.",
+      "published": "2026-10-13T13:26:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50173447/liverpool-alexander-isak-cody-gakpo-dominik-szoboszlai-miss-champions-league-clash-lask",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729179_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50173516",
+      "headline": "Clarence Seedorf: I understand why Kobbie Mainoo is compared to me",
+      "description": "AC Milan and Ajax legend Clarence Seedorf told Manchester United midfielder Kobbie Mainoo that he sees similarities between himself and the England international.",
+      "published": "2026-10-13T13:40:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50173516/clarence-seedorf-kobbie-mainoo-man-united-champions-league",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730094_2_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay",
+        "England"
+      ],
+      "players": [
+        "Kobbie Mainoo",
+        "Rodrigo Bentancur"
+      ],
+      "score": 131
     },
     {
       "id": "50156783",
@@ -39,137 +148,38 @@
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 153
-    },
-    {
-      "id": "50165899",
-      "headline": "Kaizer Chiefs vs. Stellenbosch - Kick-off time, how to watch, team news",
-      "description": "Kaizer Chiefs and Stellenbosch have both had mixed starts to the South African Premiership season, and Tuesday's clash at FNB Stadium gives both a chance to shake off the dust and set a new trajectory.",
-      "published": "2026-10-13T06:30:53Z",
-      "url": "https://www.espn.com/espn/story/_/id/50165899/kaizer-chiefs-vs-stellenbosch-kick-how-watch-team-news",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729666_1169x658_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Uruguay",
-        "South Africa"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 141
-    },
-    {
-      "id": "50166370",
-      "headline": "Madagascar vs. South Africa - Kick-off time, team news, how to watch Banyana's second Olympic qualifier",
-      "description": "South Africa have all but secured their place in the third round of CAF's Women's Olympic qualifying after a 4-0 first leg win over Madagascar, but the reverse fixture in Bloemfontein can give Desiree Ellis a useful opportunity to experiment.",
-      "published": "2026-10-13T06:30:29Z",
-      "url": "https://www.espn.com/espn/story/_/id/50166370/madagascar-vs-south-africa-kick-team-news-how-watch-banyana-second-olympic-qualifier",
-      "image": "https://a.espncdn.com/photo/2026/0727/r1694330_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Uruguay",
-        "South Africa"
-      ],
-      "players": [
-        "Thembi Kgatlana",
-        "Refiloe Jane",
-        "Ronnel Donnelly",
-        "Rodrigo Bentancur"
-      ],
-      "score": 141
-    },
-    {
-      "id": "50169808",
-      "headline": "NWSL leaders Gotham lose Dudley, Bruninha for playoffs",
-      "description": "Defending NWSL champions Gotham FC will be without two important players after forward Jordynn Dudley and defender Bruninha suffered season-ending injuries.",
-      "published": "2026-10-13T01:02:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50169808/nwsl-leaders-gotham-lose-dudley-bruninha-playoffs",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1729945_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Jordynn Dudley",
-        "Bruninha",
-        "Rodrigo Bentancur"
-      ],
-      "score": 138
-    },
-    {
-      "id": "50169452",
-      "headline": "Lampard: Coventry 'feet on the ground' after Newcastle win",
-      "description": "Coventry City boss Frank Lampard is not allowing his side to get carried away after they earned a thumping 4-1 home victory over Newcastle United on Monday.",
-      "published": "2026-10-13T06:40:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730029_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50164913",
-      "headline": "Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge?",
-      "description": "Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.",
-      "published": "2026-10-13T06:14:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687762_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50128991",
-      "headline": "A-League Men 2026-27 season preview: Key players, storylines",
-      "description": "Who rises, who falls and who takes the silverware? ESPN breaks down every A-League Men team ahead of a wide-open 2026-27 season.",
-      "published": "2026-10-12T23:51:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50128991/aleague-men-2026-27-season-preview-key-players-storylines",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729909_1296x729_16-9.jpg",
-      "byline": "Joey Lynch and Adam Sheldon",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
       "score": 131
     },
     {
-      "id": "50171255",
-      "headline": "Saudi attacks raise fresh concerns over Asian Cup",
-      "description": "Football Australia is closely monitoring the fall-out from air strikes on Riyadh's international airport as doubts grow over whether next January's Asian Cup will still take place in Saudi Arabia.",
-      "published": "2026-10-13T05:05:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50171255/saudi-attacks-raise-fresh-concerns-asian-cup",
-      "image": "https://a.espncdn.com/photo/2020/0701/r714483_1296x729_16-9.jpg",
-      "byline": "AAP",
+      "id": "50173301",
+      "headline": "Arsenal life president Ken Friar dies aged 92",
+      "description": "Arsenal have paid tribute to life president Ken Friar following his death at the age of 92.",
+      "published": "2026-10-13T13:00:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50173301/arsenal-life-president-ken-friar-dies-aged-92",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730097_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Uruguay",
-        "Saudi Arabia",
-        "Australia"
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50173328",
+      "headline": "Luis Enrique sets sights on Champions League threepeat for PSG",
+      "description": "Paris Saint-Germain coach Luis Enrique has set his sights on his team equalling Real Madrid's feat of three straight Champions League titles this season.",
+      "published": "2026-10-13T13:00:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50173328/luis-enrique-sets-sights-champions-league-threepeat-psg",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1660989_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
       ],
       "players": [
         "Rodrigo Bentancur"
@@ -192,7 +202,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 129
+      "score": 107
     },
     {
       "id": "50074316",
@@ -210,7 +220,7 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 103
+      "score": 91
     },
     {
       "id": "50134141",
@@ -224,7 +234,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 56
+      "score": 46
     },
     {
       "id": "50131464",
@@ -242,7 +252,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 53
+      "score": 43
     },
     {
       "id": "50126573",
@@ -256,36 +266,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 36
-    },
-    {
-      "id": "50114003",
-      "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
-      "description": "With the 2026 World Cup well and truly behind us, the first fall international break saw all the top teams playing four times in three weeks. Which sides look strongest and most likely to contend in four years' time?",
-      "published": "2026-10-07T12:46:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50114003/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
-      "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg",
-      "byline": "James Tyler",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "France",
-        "England",
-        "Portugal",
-        "Brazil",
-        "Morocco",
-        "Argentina",
-        "Germany",
-        "Norway",
-        "Netherlands",
-        "Belgium",
-        "Colombia",
-        "Japan",
-        "USA"
-      ],
-      "players": [],
-      "score": 30
+      "score": 26
     },
     {
       "id": "50028671",
@@ -305,24 +286,6 @@
         "Folarin Balogun"
       ],
       "score": 25
-    },
-    {
-      "id": "50120434",
-      "headline": "Hislop: Messi's World Cup final run 'underlines his legacy'",
-      "description": "Hislop: Messi's World Cup final run 'underlines his legacy'",
-      "published": "2026-10-06T22:29:48Z",
-      "url": "https://www.espn.com/video/clip/_/id/50120434/messi-world-cup-final-run-underlines-legacy",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 23
     },
     {
       "id": "50084975",
@@ -400,6 +363,35 @@
       "score": 22
     },
     {
+      "id": "50114003",
+      "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
+      "description": "With the 2026 World Cup well and truly behind us, the first fall international break saw all the top teams playing four times in three weeks. Which sides look strongest and most likely to contend in four years' time?",
+      "published": "2026-10-07T12:46:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50114003/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+      "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg",
+      "byline": "James Tyler",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "France",
+        "England",
+        "Portugal",
+        "Brazil",
+        "Morocco",
+        "Argentina",
+        "Germany",
+        "Norway",
+        "Netherlands",
+        "Belgium",
+        "Colombia",
+        "Japan",
+        "USA"
+      ],
+      "players": [],
+      "score": 20
+    },
+    {
       "id": "50050816",
       "headline": "Vozinha struggling with World Cup fame: 'I'd choose the life I had before'",
       "description": "Viral World Cup goalkeeper Vozinha has revealed he is struggling with his newfound fame, saying that he would like to go back to a time before he was so well-known.",
@@ -430,6 +422,24 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50120434",
+      "headline": "Hislop: Messi's World Cup final run 'underlines his legacy'",
+      "description": "Hislop: Messi's World Cup final run 'underlines his legacy'",
+      "published": "2026-10-06T22:29:48Z",
+      "url": "https://www.espn.com/video/clip/_/id/50120434/messi-world-cup-final-run-underlines-legacy",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 13
     },
     {
       "id": "50099893",
@@ -819,23 +829,6 @@
       "teams": [
         "England",
         "Argentina"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49952392",
-      "headline": "Thomas Tuchel: 'Regret I didn't eat some grass' after England's Azteca win over Mexico",
-      "description": "Thomas Tuchel has revealed he wished he had eaten some of the grass after England's memorable FIFA World Cup win over Mexico.",
-      "published": "2026-09-15T22:36:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49952392/thomas-tuchel-wish-ate-some-azteca-grass-england-stunning-world-cup-win-mexico",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717253_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Mexico"
       ],
       "players": [],
       "score": 10
