@@ -1,13 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-13T00:35:02.014Z",
+  "updated": "2026-10-13T07:05:11.044Z",
   "counts": {
+    "news": 36,
     "offfield": 4,
-    "news": 39,
-    "preview": 4,
+    "preview": 6,
+    "injury": 1,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50171167",
+      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
+      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
+      "published": "2026-10-13T06:24:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 205
+    },
     {
       "id": "50156783",
       "headline": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
@@ -24,25 +39,104 @@
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 173
+      "score": 153
     },
     {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-10-11T12:27:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
+      "id": "50165899",
+      "headline": "Kaizer Chiefs vs. Stellenbosch - Kick-off time, how to watch, team news",
+      "description": "Kaizer Chiefs and Stellenbosch have both had mixed starts to the South African Premiership season, and Tuesday's clash at FNB Stadium gives both a chance to shake off the dust and set a new trajectory.",
+      "published": "2026-10-13T06:30:53Z",
+      "url": "https://www.espn.com/espn/story/_/id/50165899/kaizer-chiefs-vs-stellenbosch-kick-how-watch-team-news",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729666_1169x658_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Uruguay",
+        "South Africa"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50166370",
+      "headline": "Madagascar vs. South Africa - Kick-off time, team news, how to watch Banyana's second Olympic qualifier",
+      "description": "South Africa have all but secured their place in the third round of CAF's Women's Olympic qualifying after a 4-0 first leg win over Madagascar, but the reverse fixture in Bloemfontein can give Desiree Ellis a useful opportunity to experiment.",
+      "published": "2026-10-13T06:30:29Z",
+      "url": "https://www.espn.com/espn/story/_/id/50166370/madagascar-vs-south-africa-kick-team-news-how-watch-banyana-second-olympic-qualifier",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694330_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Uruguay",
+        "South Africa"
+      ],
+      "players": [
+        "Thembi Kgatlana",
+        "Refiloe Jane",
+        "Ronnel Donnelly",
+        "Rodrigo Bentancur"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50169808",
+      "headline": "NWSL leaders Gotham lose Dudley, Bruninha for playoffs",
+      "description": "Defending NWSL champions Gotham FC will be without two important players after forward Jordynn Dudley and defender Bruninha suffered season-ending injuries.",
+      "published": "2026-10-13T01:02:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50169808/nwsl-leaders-gotham-lose-dudley-bruninha-playoffs",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1729945_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Jordynn Dudley",
+        "Bruninha",
+        "Rodrigo Bentancur"
+      ],
+      "score": 138
+    },
+    {
+      "id": "50169452",
+      "headline": "Lampard: Coventry 'feet on the ground' after Newcastle win",
+      "description": "Coventry City boss Frank Lampard is not allowing his side to get carried away after they earned a thumping 4-1 home victory over Newcastle United on Monday.",
+      "published": "2026-10-13T06:40:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730029_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50164913",
+      "headline": "Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge?",
+      "description": "Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.",
+      "published": "2026-10-13T06:14:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687762_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Uruguay"
       ],
       "players": [
-        "Lionel Messi"
+        "Rodrigo Bentancur"
       ],
-      "score": 149
+      "score": 132
     },
     {
       "id": "50128991",
@@ -60,144 +154,45 @@
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 141
+      "score": 131
     },
     {
-      "id": "46751020",
-      "headline": "Cristiano Ronaldo goal tracker: Road to 1,000 career goals",
-      "description": "With Cristiano Ronaldo on the quest to score 1,000 goals, ESPN provides goal-by-goal analysis of the Portuguese superstar's quest.",
-      "published": "2026-10-12T23:56:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678599_1296x729_16-9.jpg",
+      "id": "50171255",
+      "headline": "Saudi attacks raise fresh concerns over Asian Cup",
+      "description": "Football Australia is closely monitoring the fall-out from air strikes on Riyadh's international airport as doubts grow over whether next January's Asian Cup will still take place in Saudi Arabia.",
+      "published": "2026-10-13T05:05:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50171255/saudi-attacks-raise-fresh-concerns-asian-cup",
+      "image": "https://a.espncdn.com/photo/2020/0701/r714483_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay",
+        "Saudi Arabia",
+        "Australia"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 130
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-10-11T12:27:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Uruguay",
-        "Portugal"
+        "Argentina"
       ],
       "players": [
-        "Cristiano Ronaldo",
-        "Rodrigo Bentancur"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50169452",
-      "headline": "Lampard: Coventry 'feet on the ground' after Newcastle win",
-      "description": "Coventry City boss Frank Lampard is not allowing his side to get carried away after they earned a thumping 4-1 home victory over Newcastle United on Monday.",
-      "published": "2026-10-12T23:18:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729921_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50169204",
-      "headline": "Ogden: Every team's fans will be against Man City after this win",
-      "description": "Ogden: Every team's fans will be against Man City after this win",
-      "published": "2026-10-12T22:20:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/50169204/every-team-fans-man-city-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_ANALYSIS_Ogden_Every_teams_fans_will_be_against_Man_City_after_this_win_2026_10_12/dm_261012_COM_SOC_ANALYSIS_Ogden_Every_teams_fans_will_be_against_Man_City_after_this_win_2026_10_12.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50169196",
-      "headline": "Ogden: Man United have set Carrick up to fail",
-      "description": "Ogden: Man United have set Carrick up to fail",
-      "published": "2026-10-12T22:16:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/50169196/man-united-set-carrick-fail",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_ANALYSIS_Ogden_Man_United_have_set_Carrick_up_to_fail_2026_10_12/dm_261012_COM_SOC_ANALYSIS_Ogden_Man_United_have_set_Carrick_up_to_fail_2026_10_12.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50169164",
-      "headline": "Should the Man City saga force changes to the Premier League's PSR rules?",
-      "description": "Should the Man City saga force changes to the Premier League's PSR rules?",
-      "published": "2026-10-12T22:12:21Z",
-      "url": "https://www.espn.com/video/clip/_/id/50169164/should-man-city-saga-force-changes-premier-league-psr-rules",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_ANALYSIS_Should_the_Man_City_saga_force_changes_to_the_Premier_Leagues_PSR_rules_2026_10/dm_261012_COM_SOC_ANALYSIS_Should_the_Man_City_saga_force_changes_to_the_Premier_Leagues_PSR_rules_2026_10.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
+        "Lionel Messi"
       ],
       "score": 129
-    },
-    {
-      "id": "50168555",
-      "headline": "Ronaldo scores in Al Nassr win after security delay in Riyadh",
-      "description": "Cristiano Ronaldo scored what proved to be the decisive goal in Al Nassr's Asian Champions League Elite win over Neftchi Fergana on Monday in Saudi Arabia.",
-      "published": "2026-10-12T21:35:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50168555/ronaldo-nets-al-nassr-first-afc-champions-league-win",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729835_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay",
-        "Portugal",
-        "Saudi Arabia"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Rodrigo Bentancur"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50168756",
-      "headline": "Levante vs. Sevilla - Game Highlights",
-      "description": "Watch the Game Highlights from Levante vs. Sevilla, 10/12/2026",
-      "published": "2026-10-12T21:16:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/50168756/levante-vs-sevilla-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1012/ae4e816d-8212-45c5-a290-7fbc9df3b503/ae4e816d-8212-45c5-a290-7fbc9df3b503.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Isaac Romero",
-        "Robbie Ure",
-        "Ifeanyi Ndukwe",
-        "Felix Correia",
-        "Iván Romero",
-        "Adrián de la Fuente",
-        "Rodrigo Bentancur"
-      ],
-      "score": 128
     },
     {
       "id": "50074316",
@@ -215,7 +210,7 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 113
+      "score": 103
     },
     {
       "id": "50134141",
@@ -229,7 +224,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 66
+      "score": 56
     },
     {
       "id": "50131464",
@@ -247,7 +242,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 63
+      "score": 53
     },
     {
       "id": "50126573",
@@ -261,7 +256,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 46
+      "score": 36
     },
     {
       "id": "50114003",
@@ -290,25 +285,7 @@
         "USA"
       ],
       "players": [],
-      "score": 40
-    },
-    {
-      "id": "50120434",
-      "headline": "Hislop: Messi's World Cup final run 'underlines his legacy'",
-      "description": "Hislop: Messi's World Cup final run 'underlines his legacy'",
-      "published": "2026-10-06T22:29:48Z",
-      "url": "https://www.espn.com/video/clip/_/id/50120434/messi-world-cup-final-run-underlines-legacy",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 33
+      "score": 30
     },
     {
       "id": "50028671",
@@ -328,6 +305,24 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "50120434",
+      "headline": "Hislop: Messi's World Cup final run 'underlines his legacy'",
+      "description": "Hislop: Messi's World Cup final run 'underlines his legacy'",
+      "published": "2026-10-06T22:29:48Z",
+      "url": "https://www.espn.com/video/clip/_/id/50120434/messi-world-cup-final-run-underlines-legacy",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 23
     },
     {
       "id": "50084975",
@@ -403,22 +398,6 @@
         "Mathew Ryan"
       ],
       "score": 22
-    },
-    {
-      "id": "50115954",
-      "headline": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
-      "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
-      "published": "2026-10-06T11:59:21Z",
-      "url": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
-      "image": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "DR Congo"
-      ],
-      "players": [],
-      "score": 20
     },
     {
       "id": "50050816",
@@ -576,24 +555,6 @@
       "score": 13
     },
     {
-      "id": "49952015",
-      "headline": "Lionel Messi called up for Oct. 6 Argentina friendly for 'last tango'",
-      "description": "Despite announcing his international retirement, Lionel Messi was included Tuesday in Argentina's squad for a farewell friendly against Benin on Oct. 6.",
-      "published": "2026-09-16T00:52:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49952015/lionel-messi-called-argentina-friendly-last-tango-farewell",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717226_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 13
-    },
-    {
       "id": "50121507",
       "headline": "Garriock: Football Australia 'in favour' of AFC Nations League concept",
       "description": "Football Australia has given an early thumbs-up to the AFC's proposed Nations League concept, with director Heather Garriock describing it as a 'great concept' to strengthen Asia's position in world football.",
@@ -607,6 +568,22 @@
         "Australia",
         "Japan",
         "Korea Republic"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50115954",
+      "headline": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
+      "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
+      "published": "2026-10-06T11:59:21Z",
+      "url": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
+      "image": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "DR Congo"
       ],
       "players": [],
       "score": 10
@@ -871,6 +848,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
       "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg",
       "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "49867974",
+      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
+      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
+      "published": "2026-10-02T08:49:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
