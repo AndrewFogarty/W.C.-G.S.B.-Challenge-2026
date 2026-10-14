@@ -1,9 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-14T03:02:17.125Z",
+  "updated": "2026-10-14T08:36:37.653Z",
   "counts": {
-    "news": 38,
-    "offfield": 6,
+    "news": 36,
+    "offfield": 8,
     "preview": 3,
     "celebration": 1
   },
@@ -20,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 206
+      "score": 197
     },
     {
       "id": "50173561",
@@ -36,7 +36,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 192
+      "score": 184
     },
     {
       "id": "50171167",
@@ -50,15 +50,33 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 170
+      "score": 161
     },
     {
-      "id": "50171789",
-      "headline": "Transfer rumors, news: Chelsea confident in January move for Scott",
-      "description": "Chelsea are growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
-      "published": "2026-10-13T23:32:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730398_1296x729_16-9.jpg",
+      "id": "50180025",
+      "headline": "Racism allegation mars Swansea win at Millwall",
+      "description": "Substitute Ronald scored a last-minute winner to keep Swansea top of the Championship after their match at Millwall was held up due to alleged racist chanting aimed at the visitors' Eom Ji-sung.",
+      "published": "2026-10-14T07:25:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50180025/racism-allegation-mars-swansea-win-millwall",
+      "image": "https://a.espncdn.com/photo/2026/1014/r1730526_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50179920",
+      "headline": "Transfer rumors, news: Real Madrid, Barcelona chase Spurs defender Porro",
+      "description": "Tottenham defender Pedro Porro is being tracked by Real Madrid and Barcelona. Transfer Talk has the latest.",
+      "published": "2026-10-14T07:11:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50179920/transfer-rumors-news-real-madrid-barcelona-chase-spurs-defender-porro",
+      "image": "https://a.espncdn.com/photo/2026/0919/r1718914_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
@@ -66,75 +84,38 @@
         "Uruguay"
       ],
       "players": [
-        "Alex Scott",
+        "Pedro Porro",
         "Rodrigo Bentancur"
       ],
-      "score": 140
+      "score": 143
     },
     {
-      "id": "50177387",
-      "headline": "Simeone says Álvarez getting closer what Atleti wants to see",
-      "description": "Diego Simeone praised Julián Álvarez in Atlético Madrid's 2-0 Champions League win over Man United, saying he is getting closer to the player we want to see.",
-      "published": "2026-10-13T23:33:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50177387/simeone-alvarez-closer-atleti-wants",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730383_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "50179874",
+      "headline": "Wayne Rooney: Lisandro Martinez 'disrespectful' for Man United rant",
+      "description": "Wayne Rooney has criticised Lisandro Martínez for his claims that Manchester United's hierarchy didn't help the players enough in the transfer window.",
+      "published": "2026-10-14T06:43:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50179874/wayne-rooney-lisandro-martinez-disrespectful-man-united-rant",
+      "image": "https://a.espncdn.com/photo/2026/1014/r1730522_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Uruguay"
       ],
       "players": [
-        "Julián Álvarez",
+        "Lisandro Martínez",
         "Rodrigo Bentancur"
       ],
-      "score": 128
+      "score": 142
     },
     {
-      "id": "50177357",
-      "headline": "Arsenal showed strength in depth in Lille win, but Gyökeres is a concern",
-      "description": "Arsenal's substitutes made the difference once again, but Mikel Arteta's side still have questions as tougher tests await.",
-      "published": "2026-10-13T23:25:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50177357/arsenal-showed-strength-depth-lille-win-viktor-gyokeres-concern",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730378_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50177588",
-      "headline": "Péter Gulácsi misses Champions League game due to armed home invasion",
-      "description": "Villarreal goalkeeper Péter Gulácsi missed his team's Champions League game against Napoli on Tuesday because of an armed home invasion at his house, the club said.",
-      "published": "2026-10-13T23:19:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50177588/peter-gulacsi-misses-champions-league-game-armed-home-invasion",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730392_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Péter Gulácsi",
-        "Rodrigo Bentancur"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50176750",
-      "headline": "Martínez exposes Man United's harsh reality: Blame lies with top brass, not Carrick",
-      "description": "Lisandro Martínez's fiery comments after the loss to Atletico Madrid made clear that in his opinion, Man United have been set up to fail by the club's owners and directors.",
-      "published": "2026-10-13T23:17:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50176750/lisandro-martinez-man-united-harsh-reality-blame-lies-top-brass-not-carrick-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730363_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
+      "id": "50164913",
+      "headline": "Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge?",
+      "description": "Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.",
+      "published": "2026-10-14T08:06:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687762_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -143,54 +124,36 @@
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 127
+      "score": 132
     },
     {
-      "id": "50177584",
-      "headline": "Flick urges caution as Barcelona extend perfect start with Champions League win",
-      "description": "Hansi Flick warned that football can change quickly, even as Barcelona extended their winning start to 10 matches with a Champions League victory on Tuesday.",
-      "published": "2026-10-13T23:16:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50177584/flick-barcelona-galatasaray-perfect-start-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730384_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50177557",
-      "headline": "Matildas run riot in 7-1 win over Haiti",
-      "description": "Australia tally five goalscorers in a comprehensive victory over Haiti to end the October international window on a high note.",
-      "published": "2026-10-13T23:05:45Z",
-      "url": "https://www.espn.com/video/clip/_/id/50177557/matildas-run-riot-7-1-win-haiti",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_SOC_Highlight_Matildas_run_riot_in_71_win_over_Haiti_20261014_AUS_ONLY/dm_261013_SOC_Highlight_Matildas_run_riot_in_71_win_over_Haiti_20261014_AUS_ONLY.jpg",
+      "id": "50180032",
+      "headline": "Krieger: Leaders in the USWNT have to step up and demand change vs. Spain",
+      "description": "Krieger: Leaders in the USWNT have to step up and demand change vs. Spain",
+      "published": "2026-10-14T07:52:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/50180032/leaders-uswnt-step-demand-change-vs-spain",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/dm_261014_Krieger_Leaders_in_the_USWNT_have_to_step_up_and_demand_change_vs_Spain/dm_261014_Krieger_Leaders_in_the_USWNT_have_to_step_up_and_demand_change_vs_Spain.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Uruguay",
-        "Australia",
-        "Haiti"
+        "Spain",
+        "USA"
       ],
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 127
+      "score": 132
     },
     {
-      "id": "50177021",
-      "headline": "Lisandro Martínez slams Man United hierarchy: Squad not Champions League quality",
-      "description": "Lisandro Martínez launched a stinging verbal attack on Manchester United's hierarchy, after a 2-0 Champions League defeat against Atlético Madrid.",
-      "published": "2026-10-13T23:03:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730374_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
+      "id": "50166032",
+      "headline": "Who most deserves the Ballon d'Or Fémenin? Whittling down the 30-player short list",
+      "description": "After three straight wins for Aitana Bonmatí, the race to win the 2026 Ballon d'Or Fémenin is wide open. But who actually deserves to win it? Bill Connelly has an idea.",
+      "published": "2026-10-14T06:50:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50166032/who-most-deserves-ballon-dor-femenin-whittling-30-man-short-list",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729725_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -199,7 +162,45 @@
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 127
+      "score": 130
+    },
+    {
+      "id": "50168602",
+      "headline": "Can Argentina's Estudiantes stop Brazil's Libertadores juggernaut?",
+      "description": "Brazilian clubs have won the last seven Copa Libertadores titles, but Argentina's Estudiantes de La Plata are determined to keep that streak from reaching eight.",
+      "published": "2026-10-14T06:49:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50168602/can-argentinas-estudiantes-de-la-plata-stop-brazils-copa-libertadores-juggernaut",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729809_1296x729_16-9.jpg",
+      "byline": "Tim Vickery",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay",
+        "Brazil",
+        "Argentina"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50179545",
+      "headline": "The Australian Championship is back -- and ready for its crucial second act",
+      "description": "Year one proved the concept. Now the Australian Championship faces the bigger challenge: showing it can grow into something built to last.",
+      "published": "2026-10-14T05:34:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50179545/the-australian-championship-back-ready-crucial-second-act",
+      "image": "https://a.espncdn.com/photo/2026/1014/r1730515_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 128
     },
     {
       "id": "50156783",
@@ -217,7 +218,7 @@
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 103
+      "score": 95
     },
     {
       "id": "47978642",
@@ -235,7 +236,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 79
+      "score": 71
     },
     {
       "id": "50074316",
@@ -253,7 +254,7 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 73
+      "score": 65
     },
     {
       "id": "50134141",
