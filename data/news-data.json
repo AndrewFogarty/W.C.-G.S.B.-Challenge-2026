@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-15T04:53:45.441Z",
+  "updated": "2026-10-15T09:36:14.385Z",
   "counts": {
     "offfield": 7,
-    "news": 37,
+    "news": 36,
+    "injury": 1,
     "preview": 3,
     "celebration": 1
   },
@@ -22,7 +23,7 @@
         "USA"
       ],
       "players": [],
-      "score": 204
+      "score": 197
     },
     {
       "id": "50178387",
@@ -36,7 +37,44 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 157
+      "score": 150
+    },
+    {
+      "id": "50187435",
+      "headline": "Transfer rumors, news: Martínez's future at Man United in doubt after bust-up",
+      "description": "Lisandro Martínez's future at Manchester United is in question after he pointed fingers at the club's board. Transfer Talk has the latest.",
+      "published": "2026-10-15T07:42:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731051_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Lisandro Martínez",
+        "Rodrigo Bentancur"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50180425",
+      "headline": "Tyler, The Creator joins stars to appear on Barcelona Clásico kit",
+      "description": "It's become a tradition in recent years for Barcelona to add the logo of top music stars to their jerseys when they face Real Madrid in El Clásico.",
+      "published": "2026-10-15T07:10:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50180425/tyler-creator-joins-stars-appear-barcelona-clasico-kit-coldplay-olivia-rodrigo-ed-sheeran",
+      "image": "https://a.espncdn.com/photo/2026/1014/r1730559_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 141
     },
     {
       "id": "50173561",
@@ -52,34 +90,16 @@
         "Spain"
       ],
       "players": [],
-      "score": 143
+      "score": 136
     },
     {
-      "id": "50185774",
-      "headline": "St. Louis City unbeaten run reaches record 21 after draw with Whitecaps",
-      "description": "St. Louis City set a new record for consecutive games without a loss after a 0-0 draw with the Vancouver on Wednesday earned them a 21st unbeaten game in a row.",
-      "published": "2026-10-15T02:58:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50185774/st-louis-unbeaten-run-record-21-whitecaps",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731017_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50186642",
-      "headline": "Union past Fire for 8th straight win, extend unbeaten streak to 14",
-      "description": "Bruno Damiani netted two goals, and Cavan Sullivan set a teenage record as the Philadelphia Union beat the Chicago Fire 3-1 on Wednesday night, marking their eighth straight victory.",
-      "published": "2026-10-15T03:28:35Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761869",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731025_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "50187706",
+      "headline": "Number names: Seven-Seven scores in 77th minute for West Brom",
+      "description": "Justin Seven-Seven managed to score in the 77th minute vs. Sutton United, but this statistical goal-scoring quirk has happened before.",
+      "published": "2026-10-15T09:08:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50187706/number-names-seven-seven-scores-77th-minute-west-brom",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731052_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -88,124 +108,15 @@
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 131
+      "score": 132
     },
     {
-      "id": "50185549",
-      "headline": "Inter Miami, Messi clinch playoff spot with win over NYCFC",
-      "description": "Inter Miami CF clinched a spot in the 2026 MLS playoffs after beating New York City FC at Nu Stadium on Wednesday night.",
-      "published": "2026-10-15T03:18:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50185549/inter-miami-messi-clinch-playoff-spot-win-nycfc",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1730964_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50186565",
-      "headline": "Chicago Fire FC vs. Philadelphia Union - Game Highlights",
-      "description": "Watch the Game Highlights from Chicago Fire FC vs. Philadelphia Union, 10/14/2026",
-      "published": "2026-10-15T02:55:05Z",
-      "url": "https://www.espn.com/video/clip/_/id/50186565/chicago-fire-fc-vs-philadelphia-union-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1015/89c82035-0858-4994-b126-13155cb1422f/89c82035-0858-4994-b126-13155cb1422f.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Maren Haile-Selassie",
-        "Puso Dithejane",
-        "Jack Elliott",
-        "Bruno Damiani",
-        "Milan Iloski",
-        "Rodrigo Bentancur"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50186226",
-      "headline": "Turgeman's brace lifts revolution past Cincinnati to clinch playoff berth",
-      "description": "New England Revolution beat FC Cincinnati behind Dor Turgeman's brace to clinch a berth in the 2026 MLS Cup Playoffs.",
-      "published": "2026-10-15T02:39:49Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761862",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761862.png?templateId=espn.applewatch.awayhome.1",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay",
-        "England"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50186105",
-      "headline": "Inter Miami CF vs. New York City FC - Game Highlights",
-      "description": "Watch the Game Highlights from Inter Miami CF vs. New York City FC, 10/14/2026",
-      "published": "2026-10-15T02:16:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/50186105/inter-miami-cf-vs-new-york-city-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1015/9eeef557-fe49-4344-861a-682623181f13/9eeef557-fe49-4344-861a-682623181f13.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Dayne St Clair",
-        "Rodrigo De Paul",
-        "Bénie Traoré",
-        "Riquelme",
-        "Germán Berterame",
-        "James Sands",
-        "Rodrigo Bentancur"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50186101",
-      "headline": "Toronto FC vs. Orlando City SC - Game Highlights",
-      "description": "Watch the Game Highlights from Toronto FC vs. Orlando City SC, 10/14/2026",
-      "published": "2026-10-15T02:08:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/50186101/toronto-fc-vs-orlando-city-sc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1015/23ecefc9-3cd9-4d67-838a-7b7cad71e166/23ecefc9-3cd9-4d67-838a-7b7cad71e166.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Theo Corbeanu",
-        "Martín Ojeda",
-        "Lewis Morgan",
-        "Matheus Pereira",
-        "Daryl Dike",
-        "Antoine Griezmann",
-        "Josh Sargent",
-        "Rodrigo Bentancur"
-      ],
-      "score": 129
-    },
-    {
-      "id": "43810752",
-      "headline": "Who has the most Champions League goals, assists all time?",
-      "description": "Cristiano Ronaldo leads the Champions League in all-time goals and assists. Check out which other soccer stars are behind him.",
-      "published": "2026-10-15T01:28:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/43810752/who-most-champions-league-goals-assists-all",
-      "image": "https://a.espncdn.com/photo/2018/0411/r355065_608x342_16-9.jpg",
+      "id": "50187730",
+      "headline": "Mamadou Sangare challenges Brentford to aim for 'top two' Premier League finish",
+      "description": "Mamadou Sangare has challenged Brentford to cause a \"real surprise\" and push for a top two finish in the Premier League this season.",
+      "published": "2026-10-15T08:57:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50187730/mamadou-sangare-challenges-brentford-aim-top-two-premier-league-finish",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731055_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
@@ -213,18 +124,87 @@
         "Uruguay"
       ],
       "players": [
-        "Cristiano Ronaldo",
-        "Lionel Messi",
-        "Neymar",
-        "Ángel Di María",
-        "Robert Lewandowski",
-        "Karim Benzema",
-        "Thomas Müller",
-        "Kevin De Bruyne",
-        "Mohamed Salah",
+        "Mamadou Sangare",
         "Rodrigo Bentancur"
       ],
-      "score": 128
+      "score": 132
+    },
+    {
+      "id": "49957486",
+      "headline": "Ultimate underdogs: What's it like when lower-league teams qualify for Europe?",
+      "description": "Last season, Torreense stunned Portugal by winning their domestic cup and qualifying for the Europa League. How does a second-tier side facing facing Europe's elite?",
+      "published": "2026-10-15T08:07:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49957486/ultimate-underdogs-lower-league-teams-qualify-europa-league-torreense",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1717962_1296x729_16-9.jpg",
+      "byline": "Lee Wingate",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay",
+        "Portugal"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50187541",
+      "headline": "Man City's Antoine Semenyo on missed chances against PSG: 'Beating myself up'",
+      "description": "Antoine Semenyo expressed his frustration over his missed chances in Manchester City's defeat to Paris Saint-Germain in the Champions League on Wednesday.",
+      "published": "2026-10-15T07:53:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50187541/man-city-antoine-semenyo-missed-chances-psg-beating-up",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731049_1296x729_16-9.jpg",
+      "byline": "Shubi Arun",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Antoine Semenyo",
+        "Rodrigo Bentancur"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50187548",
+      "headline": "Will Wirtz gain 'confidence' after Liverpool's victory vs. LASK?",
+      "description": "Will Wirtz gain 'confidence' after Liverpool's victory vs. LASK?",
+      "published": "2026-10-15T07:52:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/50187548/will-wirtz-gain-confidence-liverpool-victory-vs-lask",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_Will_Wirtz_gain_confidence_after_Liverpools_victory_vs_LASK/dm_261015_Will_Wirtz_gain_confidence_after_Liverpools_victory_vs_LASK.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay",
+        "Germany"
+      ],
+      "players": [
+        "Florian Wirtz",
+        "Rodrigo Bentancur"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50173300",
+      "headline": "Why does Haaland score so many goals? Because he's elite at staying onside",
+      "description": "We know what a dominant scorer Erling Haaland is, but it often goes unnoticed how good he is at avoiding a striker's worst enemy: the offside trap.",
+      "published": "2026-10-15T07:38:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50173300/erling-haaland-goals-offside-trap-premier-league-man-city-john-muller",
+      "image": "https://a.espncdn.com/photo/2026/1014/r1730638_2_1296x729_16-9.jpg",
+      "byline": "John Muller, special to ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Rodrigo Bentancur"
+      ],
+      "score": 130
     },
     {
       "id": "50171167",
@@ -238,7 +218,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 121
+      "score": 114
     },
     {
       "id": "50156783",
@@ -292,7 +272,7 @@
         "Harry Kane",
         "Lamine Yamal"
       ],
-      "score": 34
+      "score": 27
     },
     {
       "id": "50134141",
