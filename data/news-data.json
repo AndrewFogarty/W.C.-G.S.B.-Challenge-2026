@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-15T18:30:38.566Z",
+  "updated": "2026-10-15T21:42:13.547Z",
   "counts": {
     "news": 35,
     "offfield": 7,
-    "celebration": 2,
-    "preview": 4
+    "celebration": 3,
+    "preview": 3
   },
   "items": [
     {
@@ -20,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 202
+      "score": 197
     },
     {
       "id": "50182058",
@@ -36,7 +36,7 @@
         "USA"
       ],
       "players": [],
-      "score": 195
+      "score": 190
     },
     {
       "id": "50189300",
@@ -50,7 +50,45 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 193
+      "score": 188
+    },
+    {
+      "id": "50187435",
+      "headline": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich?",
+      "description": "Florian Wirtz could end up returning to the Bundesliga, as Bayern Munich are keeping a close eye on his situation at Liverpool. Transfer Talk has the latest.",
+      "published": "2026-10-15T20:54:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731333_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Florian Wirtz",
+        "Raphinha"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50191336",
+      "headline": "Milan's Cissè becomes Italy's youngest European hat-trick scorer",
+      "description": "Alphadjo Cissè made European history for Italy with his hat trick in AC Milan 's 4-0 thrashing of RB Salzburg in the UEFA Europa League on Thursday.",
+      "published": "2026-10-15T19:57:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50191336/milan-alphadjo-cisse-hat-trick-europa-league-rb-salzburg",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731316_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Alphadjo Cissè",
+        "Raphinha"
+      ],
+      "score": 137
     },
     {
       "id": "50189867",
@@ -70,45 +108,136 @@
         "Cavan Sullivan",
         "Rodrigo Bentancur"
       ],
-      "score": 138
-    },
-    {
-      "id": "50188999",
-      "headline": "Ex-Man City winger Riyad Mahrez joins Qatari side Al-Shamal as free agent",
-      "description": "Former Manchester City winger Riyad Mahrez has joined Qatari side Al-Shamal SC on a free transfer.",
-      "published": "2026-10-15T14:01:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50188999/ex-man-city-winger-riyad-mahrez-joins-qatari-side-al-shamal-free-agent",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683763_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Riyad Mahrez",
-        "Rodrigo Bentancur"
-      ],
-      "score": 138
-    },
-    {
-      "id": "50188572",
-      "headline": "Marc Guéhi hails Man City unity amid financial charges fallout",
-      "description": "Marc Guéhi hailed Manchester City's unity in the face of adversity after a spirited fightback in the club's first home match since being found guilty of multiple breaches of the Premier League's financial regulations.",
-      "published": "2026-10-15T13:25:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50188572/marc-guehi-hails-man-city-unity-amid-financial-charges-fallout",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731101_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Marc Guéhi",
-        "Rodrigo Bentancur"
-      ],
       "score": 134
+    },
+    {
+      "id": "50191983",
+      "headline": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
+      "description": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
+      "published": "2026-10-15T21:38:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/50191983/frank-leboeuf-calls-lisandro-martinez-leave-man-utd",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_Frank_Leboeuf_calls_for_Lisandro_Martinez_to_leave_Man_Utd/dm_261015_Frank_Leboeuf_calls_for_Lisandro_Martinez_to_leave_Man_Utd.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lisandro Martínez",
+        "Raphinha"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50128304",
+      "headline": "Rutter sends message to Hürzeler with brace as Brighton cruise past Kauno Zalgiris",
+      "description": "Georginio Rutter got Brighton's Conference League campaign off to a flying start and sent a message to boss Fabian Hürzeler.",
+      "published": "2026-10-15T21:11:35Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915853",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731342_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Raphinha"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50128300",
+      "headline": "Bournemouth beat Sturm Graz for dream European home debut",
+      "description": "Bournemouth won their first European match at the Vitality Stadium as Sturm Graz were beaten 3-0 to maintain Marco Rose's perfect start in the Europa League.",
+      "published": "2026-10-15T21:07:41Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915571",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731341_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Raphinha"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50191633",
+      "headline": "'Frustrated' Pierre Sage: Crystal Palace 'really far off' expectations in Lyon defeat",
+      "description": "Pierre Sage said Crystal Palace were \"really far off\" his expectations after suffering a 3-2 Europa League defeat away to his former side Lyon.",
+      "published": "2026-10-15T20:58:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50191633/pierre-sage-crystal-palace-really-far-expectations-lyon-defeat",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731332_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Raphinha"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50188017",
+      "headline": "Man United's Martínez issues apology for post-match outburst after meeting",
+      "description": "Lisandro Martínez has issued a formal apology after criticising Manchester United's board following the 2-0 defeat to Atlético Madrid.",
+      "published": "2026-10-15T19:16:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50188017/lisandro-martinez-man-united-comments-interview-michael-carrick-meeting",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731070_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay",
+        "Argentina"
+      ],
+      "players": [
+        "Lisandro Martínez",
+        "Rodrigo Bentancur"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50128295",
+      "headline": "Sunderland fight back to beat 2nd-tier Torreense",
+      "description": "Noah Sadiki scored a last-gasp winner for Sunderland in the Europa League as they came from behind to beat Torreense 2-1 in Leiria.",
+      "published": "2026-10-15T19:06:58Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915575",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731301_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50128283",
+      "headline": "Crystal Palace boss Sage beaten on return to Lyon",
+      "description": "Crystal Palace boss Pierre Sage suffered a frustrating Europa League defeat after his side fell 3-2 to his former employers Lyon at the Groupama Stadium.",
+      "published": "2026-10-15T19:00:59Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915566",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731299_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 129
     },
     {
       "id": "50189050",
@@ -126,7 +255,7 @@
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 131
+      "score": 126
     },
     {
       "id": "50189608",
@@ -146,16 +275,16 @@
         "Moisés Caicedo",
         "Rodrigo Bentancur"
       ],
-      "score": 130
+      "score": 125
     },
     {
-      "id": "50188023",
-      "headline": "UCL Matchday 2: Viking FK and PSG impress; Man United a mess",
-      "description": "The Chaaaaaampions! Europe's top competition returned with a ton of goals, a ton of big results and plenty to talk about. Let's start with the tiny Norwegian team that gave Bayern Munich a fright.",
-      "published": "2026-10-15T14:57:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50188023/ucl-matchday-2-bayern-munich-man-united-psg-analysis-reaction-bill-connelly",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731104_2_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
+      "id": "50128291",
+      "headline": "Cissè hat trick leads Milan to rout of Salzburg",
+      "description": "Alphadjo Cissè scored a hat trick as AC Milan got their Europa League campaign up and running with a 4-0 win at RB Salzburg, who slipped to a first defeat of the season.",
+      "published": "2026-10-15T19:11:44Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915568",
+      "image": null,
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -164,7 +293,7 @@
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 128
+      "score": 123
     },
     {
       "id": "50178387",
@@ -178,7 +307,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 116
+      "score": 112
     },
     {
       "id": "50173561",
@@ -194,7 +323,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 103
+      "score": 98
     },
     {
       "id": "50171167",
@@ -208,7 +337,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 80
+      "score": 76
     },
     {
       "id": "50156783",
@@ -371,24 +500,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "50074316",
-      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
-      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
-      "published": "2026-10-12T13:39:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Kylian Mbappé",
-        "Harry Kane",
-        "Lamine Yamal"
-      ],
-      "score": 14
     },
     {
       "id": "50131464",
@@ -764,97 +875,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "50003632",
-      "headline": "De la Fuente: The best is yet to come for the Spanish national team",
-      "description": "De la Fuente: The best is yet to come for the Spanish national team",
-      "published": "2026-09-22T07:55:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/50003632/best-yet-come-spanish-national-team",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49974557",
-      "headline": "Patrick Vieira insists he expects to win trophies as Senegal boss",
-      "description": "Patrick Vieira insists he expects to win trophies as Senegal boss",
-      "published": "2026-09-18T19:21:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/49974557/patrick-vieira-insists-expects-win-trophies-senegal-boss",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_COM_SOC_Presser_Patrick_Vieira_insists_he_expects_to_win_trophies_as_Senegal_boss_20260918_GLOBA/dm_260918_COM_SOC_Presser_Patrick_Vieira_insists_he_expects_to_win_trophies_as_Senegal_boss_20260918_GLOBA.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "49972364",
-      "headline": "Tuchel: No point in torturing ourselves over World Cup exit",
-      "description": "Tuchel: No point in torturing ourselves over World Cup exit",
-      "published": "2026-09-18T12:27:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/49972364/no-point-torturing-ourselves-world-cup-exit",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_Tuchel_No_point_in_torturing_ourselves_over_World_Cup_exit/dm_260918_Tuchel_No_point_in_torturing_ourselves_over_World_Cup_exit.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "Spain"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "50134141",
-      "headline": "Sources: Infantino reelection path clear as Montagliani plans Concacaf stay",
-      "description": "Gianni Infantino faces a clear path towards reelection as FIFA president after sources told ESPN that Victor Montagliani plans to stay as Concacaf president.",
-      "published": "2026-10-08T18:25:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50134141/fifa-president-gianni-infantino-victor-montagliani-concacaf",
-      "image": "https://a.espncdn.com/photo/2026/1008/r1727909_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50126573",
-      "headline": "Ex-Tottenham defender Ramon Vega to challenge FIFA president Gianni Infantino",
-      "description": "Former Tottenham Hotspur defender Ramon Vega says he will challenge Gianni Infantino for the FIFA presidency.",
-      "published": "2026-10-07T18:28:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50126573/fifa-president-election-ramon-vega-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727457_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50084016",
-      "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula'",
-      "description": "FIFA's technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded there was not necessarily a \"winning formula\".",
-      "published": "2026-10-02T12:09:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
