@@ -1,14 +1,27 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-15T14:24:18.985Z",
+  "updated": "2026-10-15T18:30:38.566Z",
   "counts": {
-    "offfield": 8,
-    "news": 34,
-    "injury": 1,
-    "preview": 4,
-    "celebration": 1
+    "news": 35,
+    "offfield": 7,
+    "celebration": 2,
+    "preview": 4
   },
   "items": [
+    {
+      "id": "50189352",
+      "headline": "Gianni Infantino 'not fit to be FIFA president' without answers - FA chair",
+      "description": "Football Association chair Debbie Hewitt says Gianni Infantino is \"not fit to be FIFA president\" if he does not answer questions about his World Cup private investor plan or the Folarin Balogun case.",
+      "published": "2026-10-15T15:42:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 202
+    },
     {
       "id": "50182058",
       "headline": "FIFA set to change rules that led to Folarin Balogun World Cup red card reversal - sources",
@@ -23,7 +36,135 @@
         "USA"
       ],
       "players": [],
-      "score": 221
+      "score": 195
+    },
+    {
+      "id": "50189300",
+      "headline": "Gianni Infantino apologizes to FIFA Council, avoids key issues",
+      "description": "Gianni Infantino gave an apology to his toughest critics but no new details or documents on FIFA issues during FIFA council meetings Thursday.",
+      "published": "2026-10-15T16:29:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 193
+    },
+    {
+      "id": "50189867",
+      "headline": "U.S. prodigy Cavan Sullivan sets MLS record, laments 'terrible' performance",
+      "description": "U.S. teen prodigy Cavan Sullivan made more history on Wednesday, but the Philadelphia Union midfielder insisted he was less than happy with his performance.",
+      "published": "2026-10-15T17:30:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50189867/usa-cavan-sullivan-mls-record-goal-contributions",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731231_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Uruguay",
+        "USA"
+      ],
+      "players": [
+        "Cavan Sullivan",
+        "Rodrigo Bentancur"
+      ],
+      "score": 138
+    },
+    {
+      "id": "50188999",
+      "headline": "Ex-Man City winger Riyad Mahrez joins Qatari side Al-Shamal as free agent",
+      "description": "Former Manchester City winger Riyad Mahrez has joined Qatari side Al-Shamal SC on a free transfer.",
+      "published": "2026-10-15T14:01:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50188999/ex-man-city-winger-riyad-mahrez-joins-qatari-side-al-shamal-free-agent",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683763_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Riyad Mahrez",
+        "Rodrigo Bentancur"
+      ],
+      "score": 138
+    },
+    {
+      "id": "50188572",
+      "headline": "Marc Guéhi hails Man City unity amid financial charges fallout",
+      "description": "Marc Guéhi hailed Manchester City's unity in the face of adversity after a spirited fightback in the club's first home match since being found guilty of multiple breaches of the Premier League's financial regulations.",
+      "published": "2026-10-15T13:25:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50188572/marc-guehi-hails-man-city-unity-amid-financial-charges-fallout",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731101_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Marc Guéhi",
+        "Rodrigo Bentancur"
+      ],
+      "score": 134
+    },
+    {
+      "id": "50189050",
+      "headline": "Shakhtar's Champions League win vs. AEK was more than just a game",
+      "description": "Shakhtar Donetsk haven't played at home since 2014 due to the war, and this season, their Champions League home games are at Chelsea's Stamford Bridge. Wednesday's win was a reminder of how absurd their situation is.",
+      "published": "2026-10-15T17:03:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50189050/shakhtar-donetsk-aek-athens-ukraine-russia-uefa-champions-league-gab-marcotti",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731171_1296x729_16-9.jpg",
+      "byline": "Gabriele Marcotti",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50189608",
+      "headline": "Moisés Caicedo determined to repay faith shown by Chelsea manager Xabi Alonso",
+      "description": "Moisés Caicedo is determined to repay the faith shown in him by Chelsea boss Xabi Alonso and become more of a leader on the pitch.",
+      "published": "2026-10-15T16:13:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50189608/moises-caicedo-determined-repay-faith-shown-chelsea-manager-xabi-alonso",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731184_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay",
+        "Ecuador"
+      ],
+      "players": [
+        "Moisés Caicedo",
+        "Rodrigo Bentancur"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50188023",
+      "headline": "UCL Matchday 2: Viking FK and PSG impress; Man United a mess",
+      "description": "The Chaaaaaampions! Europe's top competition returned with a ton of goals, a ton of big results and plenty to talk about. Let's start with the tiny Norwegian team that gave Bayern Munich a fright.",
+      "published": "2026-10-15T14:57:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50188023/ucl-matchday-2-bayern-munich-man-united-psg-analysis-reaction-bill-connelly",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731104_2_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 128
     },
     {
       "id": "50178387",
@@ -37,104 +178,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 143
-    },
-    {
-      "id": "50187991",
-      "headline": "Cristiano Ronaldo return for Portugal team must be 'resolved' - Vitinha",
-      "description": "Portugal star Vitinha hopes Cristiano Ronaldo and national team coach Jorge Jesus can resolve their dispute so the veteran forward can return to the team.",
-      "published": "2026-10-15T10:52:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50187991/cristiano-ronaldo-return-portugal-team-resolved-vitinha",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731066_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Uruguay",
-        "Portugal"
-      ],
-      "players": [
-        "Vitinha",
-        "Cristiano Ronaldo",
-        "Rodrigo Bentancur"
-      ],
-      "score": 140
-    },
-    {
-      "id": "50187435",
-      "headline": "Transfer rumors, news: Martínez's future at Man United in doubt after bust-up",
-      "description": "Lisandro Martínez's future at Manchester United is in question after he pointed fingers at the club's board. Transfer Talk has the latest.",
-      "published": "2026-10-15T09:55:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731051_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Lisandro Martínez",
-        "Rodrigo Bentancur"
-      ],
-      "score": 140
-    },
-    {
-      "id": "50187942",
-      "headline": "Mourinho: RFEF showed no shame over Vinicius ban timing",
-      "description": "Mourinho: RFEF showed no shame over Vinicius ban timing",
-      "published": "2026-10-15T10:36:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/50187942/rfef-showed-no-shame-vinicius-ban-timing",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_COM_SOC_PRESSER_Mourinho_RFEF_showed_no_shame_over_Vinicius_ban_timing_2026_10_15/dm_261015_COM_SOC_PRESSER_Mourinho_RFEF_showed_no_shame_over_Vinicius_ban_timing_2026_10_15.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 139
-    },
-    {
-      "id": "50187866",
-      "headline": "African Stars vs. Orlando Pirates - Kick-off time, team news for CAF Champions League",
-      "description": "Orlando Pirates will face Namibia's African Stars in Gaborone, Botswana, in Saturday's first leg of their CAF Champions League second preliminary round tie.",
-      "published": "2026-10-15T10:09:52Z",
-      "url": "https://www.espn.com/espn/story/_/id/50187866/african-stars-vs-orlando-pirates-kick-team-news-caf-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731062_1074x604_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Uruguay",
-        "South Africa"
-      ],
-      "players": [
-        "Oswin Appollis",
-        "Rodrigo Bentancur"
-      ],
-      "score": 136
-    },
-    {
-      "id": "50188084",
-      "headline": "Dembélé jokes he might ask for more holidays after PSG's win at Man City",
-      "description": "Ousmane Dembélé joked he might ask coach Luis Enrique for more time off after starring in PSG's 4-2 win at Manchester City in the Champions League.",
-      "published": "2026-10-15T11:43:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50188084/dembele-jokes-holidays-psg-win-man-city",
-      "image": "https://a.espncdn.com/photo/2026/1014/r1730795_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Ousmane Dembélé",
-        "Rodrigo Bentancur"
-      ],
-      "score": 129
+      "score": 116
     },
     {
       "id": "50173561",
@@ -150,64 +194,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 129
-    },
-    {
-      "id": "50187937",
-      "headline": "Man United 'a circus' amid Lisandro Martínez rant - Roy Keane",
-      "description": "Roy Keane has branded Manchester United a \"circus\" following Lisandro Martínez's outburst against the club's hierarchy.",
-      "published": "2026-10-15T10:35:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50187937/man-united-circus-amid-lisandro-martinez-rant-roy-keane",
-      "image": "https://a.espncdn.com/photo/2024/0606/r1342361_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Lisandro Martínez",
-        "Rodrigo Bentancur"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50187870",
-      "headline": "Vinícius Júnior 'angry,' vows to return to top Real Madrid form",
-      "description": "Real Madrid forward Vinícius Júnior admits he is \"angry\" with himself and has vowed to return to top form.",
-      "published": "2026-10-15T10:04:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50187870/vinicius-junior-angry-vows-return-top-real-madrid-form",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731060_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Vinícius Júnior",
-        "Rodrigo Bentancur"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50187777",
-      "headline": "Sir Gareth Southgate rules out a return to Premier League management",
-      "description": "Former England head coach Sir Gareth Southgate has said that he doesn't see a scenario where he manages a Premier League club again.",
-      "published": "2026-10-15T09:48:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50187777/gareth-southgate-premier-league-england-management",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731056_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay",
-        "England"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 126
+      "score": 103
     },
     {
       "id": "50171167",
@@ -221,7 +208,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 107
+      "score": 80
     },
     {
       "id": "50156783",
@@ -239,39 +226,7 @@
       "players": [
         "Rodrigo Bentancur"
       ],
-      "score": 65
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-10-11T12:27:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 43
-    },
-    {
-      "id": "50134141",
-      "headline": "Sources: Infantino reelection path clear as Montagliani plans Concacaf stay",
-      "description": "Gianni Infantino faces a clear path towards reelection as FIFA president after sources told ESPN that Victor Montagliani plans to stay as Concacaf president.",
-      "published": "2026-10-08T18:25:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50134141/fifa-president-gianni-infantino-victor-montagliani-concacaf",
-      "image": "https://a.espncdn.com/photo/2026/1008/r1727909_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 26
+      "score": 45
     },
     {
       "id": "50028671",
@@ -293,13 +248,13 @@
       "score": 25
     },
     {
-      "id": "50131464",
-      "headline": "Where does Messi rank in the top five players of all time?",
-      "description": "Where does Messi rank in the top five players of all time?",
-      "published": "2026-10-08T08:50:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/50131464/where-does-messi-rank-top-five-players-all",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL.jpg",
-      "byline": null,
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-10-11T12:27:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -386,24 +341,6 @@
       "score": 22
     },
     {
-      "id": "50074316",
-      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
-      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
-      "published": "2026-10-12T13:39:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Kylian Mbappé",
-        "Harry Kane",
-        "Lamine Yamal"
-      ],
-      "score": 20
-    },
-    {
       "id": "50050816",
       "headline": "Vozinha struggling with World Cup fame: 'I'd choose the life I had before'",
       "description": "Viral World Cup goalkeeper Vozinha has revealed he is struggling with his newfound fame, saying that he would like to go back to a time before he was so well-known.",
@@ -434,6 +371,42 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50074316",
+      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
+      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
+      "published": "2026-10-12T13:39:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
+      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Kylian Mbappé",
+        "Harry Kane",
+        "Lamine Yamal"
+      ],
+      "score": 14
+    },
+    {
+      "id": "50131464",
+      "headline": "Where does Messi rank in the top five players of all time?",
+      "description": "Where does Messi rank in the top five players of all time?",
+      "published": "2026-10-08T08:50:56Z",
+      "url": "https://www.espn.com/video/clip/_/id/50131464/where-does-messi-rank-top-five-players-all",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 13
     },
     {
       "id": "50120434",
@@ -842,20 +815,18 @@
       "score": 10
     },
     {
-      "id": "49964525",
-      "headline": "Sources: English FA chief demands documents on FIFA World Cup sell-off plan, Balogun decision",
-      "description": "FIFA vice president and FA chairwoman Debbie Hewitt has demanded FIFA president Gianni Infantino release all documents concerning his proposal for private investors to buy stakes in the World Cup, sources told ESPN.",
-      "published": "2026-09-17T16:26:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49964525/fa-chief-demands-gianni-infantino-releases-fifa-documents-private-equity-proposal-folarin-balogun-decision",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718041_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
+      "id": "50134141",
+      "headline": "Sources: Infantino reelection path clear as Montagliani plans Concacaf stay",
+      "description": "Gianni Infantino faces a clear path towards reelection as FIFA president after sources told ESPN that Victor Montagliani plans to stay as Concacaf president.",
+      "published": "2026-10-08T18:25:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50134141/fifa-president-gianni-infantino-victor-montagliani-concacaf",
+      "image": "https://a.espncdn.com/photo/2026/1008/r1727909_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
       "kind": "news",
       "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
+      "teams": [],
       "players": [],
-      "score": 10
+      "score": 6
     },
     {
       "id": "50126573",
@@ -865,6 +836,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50126573/fifa-president-election-ramon-vega-gianni-infantino",
       "image": "https://a.espncdn.com/photo/2026/1007/r1727457_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50084016",
+      "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula'",
+      "description": "FIFA's technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded there was not necessarily a \"winning formula\".",
+      "published": "2026-10-02T12:09:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
