@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-16T17:32:36.984Z",
+  "updated": "2026-10-16T20:03:15.704Z",
   "counts": {
-    "news": 34,
+    "news": 37,
     "celebration": 2,
-    "injury": 2,
-    "offfield": 7,
-    "preview": 3
+    "injury": 1,
+    "offfield": 6,
+    "preview": 2
   },
   "items": [
     {
@@ -25,7 +25,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 203
+      "score": 199
     },
     {
       "id": "50194991",
@@ -44,7 +44,7 @@
       "players": [
         "Lautaro Martínez"
       ],
-      "score": 199
+      "score": 195
     },
     {
       "id": "50194882",
@@ -62,7 +62,26 @@
       "players": [
         "Vinícius Júnior"
       ],
-      "score": 180
+      "score": 176
+    },
+    {
+      "id": "50197431",
+      "headline": "Alonso: Reece James could be sidelined beyond Christmas",
+      "description": "Alonso: Reece James could be sidelined beyond Christmas",
+      "published": "2026-10-16T18:16:27Z",
+      "url": "https://www.espn.com/video/clip/_/id/50197431/reece-james-sidelined-christmas",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Alonso_Reece_James_could_be_sidelined_beyond_Christmas/dm_261016_Alonso_Reece_James_could_be_sidelined_beyond_Christmas.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Reece James",
+        "Lionel Messi"
+      ],
+      "score": 144
     },
     {
       "id": "50189352",
@@ -76,62 +95,6 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 147
-    },
-    {
-      "id": "50196980",
-      "headline": "Inter Milan rocked as captain Lautaro Martínez set to miss 7 games",
-      "description": "Inter Milan captain Lautaro Martínez will likely miss his team's next seven matches, including the derby against city rival AC Milan, with a hamstring injury.",
-      "published": "2026-10-16T16:48:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50196980/inter-milan-lautaro-martinez-injury-serie-a",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731694_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lautaro Martínez",
-        "Lionel Messi"
-      ],
-      "score": 146
-    },
-    {
-      "id": "50196950",
-      "headline": "Nottingham Forest vs. Arsenal: Morgan Gibbs-White faces late fitness test for hosts",
-      "description": "Nottingham Forest are sweating on the fitness of Morgan Gibbs-White ahead of Sunday's clash with Arsenal.",
-      "published": "2026-10-16T16:13:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50196950/nottingham-forest-vs-arsenal-morgan-gibbs-white-faces-late-fitness-test-hosts",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731685_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Morgan Gibbs-White",
-        "Lionel Messi"
-      ],
-      "score": 145
-    },
-    {
-      "id": "50196940",
-      "headline": "David Moyes on new contract talks at Everton: 'Bit of a lull'",
-      "description": "David Moyes has said discussions over a new contract at the Hill Dickinson Stadium have gone quiet following news that Everton could be up for sale.",
-      "published": "2026-10-16T16:14:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50196940/david-moyes-new-contract-talks-everton-bit-lull",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731684_594x334_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
       "score": 143
     },
     {
@@ -146,25 +109,99 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 139
+      "score": 135
     },
     {
-      "id": "50196506",
-      "headline": "Unai Emery to leave Aston Villa team selection for Newcastle clash until last minute",
-      "description": "Aston Villa boss Unai Emery will leave his team selection for Saturday's game with Newcastle until the last minute.",
-      "published": "2026-10-16T15:11:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50196506/unai-emery-leave-aston-villa-team-selection-newcastle-clash-last-minute",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712937_1296x729_16-9.jpg",
+      "id": "50197717",
+      "headline": "Carrick: Manchester United have moved on from Lisandro Martinez outburst",
+      "description": "Carrick: Manchester United have moved on from Lisandro Martinez outburst",
+      "published": "2026-10-16T19:36:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/50197717/manchester-united-moved-lisandro-martinez-outburst",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Carrick_Manchester_United_have_moved_on_from_Lisandro_Martinez_outburst/dm_261016_Carrick_Manchester_United_have_moved_on_from_Lisandro_Martinez_outburst.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lisandro Martínez",
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50197558",
+      "headline": "Arsenal boss Renée Slegers insists she can see 'light at the end of the tunnel'",
+      "description": "Renée Slegers insists there is a \"light at the end of the tunnel\" after a rocky start to Arsenal 's Women's Super League campaign.",
+      "published": "2026-10-16T18:52:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50197558/arsenal-renee-slegers-wsl-season-uwcl-man-city-chelsea",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731747_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 138
+      "score": 131
+    },
+    {
+      "id": "50197530",
+      "headline": "Is this the world's slowest penalty run-up?",
+      "description": "Is this the world's slowest penalty run-up?",
+      "published": "2026-10-16T18:35:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/50197530/is-world-slowest-penalty-run-up",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_COM_SOC_News_Is_this_the_worlds_slowest_penalty_run_up_20261016_GLOBAL/dm_261016_COM_SOC_News_Is_this_the_worlds_slowest_penalty_run_up_20261016_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50197443",
+      "headline": "Mikel Arteta told Arsenal job cuts will help club 'achieve success'",
+      "description": "Mikel Arteta has been told Arsenal's redundancies will help the club \"achieve the success we want to create\" after it emerged the Premier League champions are set to cut 60 jobs.",
+      "published": "2026-10-16T18:31:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50197443/mikel-arteta-arsenal-job-losses-success-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731732_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50197177",
+      "headline": "Miami coach unbothered by Messi getting award in Spain 2 days before MLS game",
+      "description": "Inter Miami coach Cristian \"Kily\" González confirmed Lionel Messi will travel to Spain next week to receive a prestigious award before rejoining the club for an MLS game two days later.",
+      "published": "2026-10-16T17:36:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50197177/lionel-messi-inter-miami-2026-princess-asturias-award-sports",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731708_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
     },
     {
       "id": "50197188",
@@ -184,7 +221,7 @@
         "Raphinha",
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 129
     },
     {
       "id": "50197099",
@@ -203,43 +240,7 @@
         "Lisandro Martínez",
         "Lionel Messi"
       ],
-      "score": 132
-    },
-    {
-      "id": "50196766",
-      "headline": "Arteta happy with Arsenal's 'great attacking flow'",
-      "description": "Arteta happy with Arsenal's 'great attacking flow'",
-      "published": "2026-10-16T15:49:31Z",
-      "url": "https://www.espn.com/video/clip/_/id/50196766/arteta-happy-arsenal-great-attacking-flow",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Arteta_happy_with_Arsenals_great_attacking_flow/dm_261016_Arteta_happy_with_Arsenals_great_attacking_flow.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50196705",
-      "headline": "Columbus NWSL expansion club names Lucy Rushton as GM",
-      "description": "Lucy Rushton is the first general manager of the forthcoming Columbus NWSL expansion team that will begin play in 2028.",
-      "published": "2026-10-16T15:41:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50196705/columbus-nwsl-expansion-club-names-lucy-rushton-gm",
-      "image": "https://a.espncdn.com/photo/2023/0614/r1186461_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
+      "score": 128
     },
     {
       "id": "50182058",
@@ -255,7 +256,7 @@
         "USA"
       ],
       "players": [],
-      "score": 130
+      "score": 126
     },
     {
       "id": "50178387",
@@ -269,7 +270,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 52
+      "score": 48
     },
     {
       "id": "50173561",
@@ -285,7 +286,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 38
+      "score": 35
     },
     {
       "id": "50156783",
@@ -411,20 +412,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "50171167",
-      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
-      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
-      "published": "2026-10-13T16:04:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
     },
     {
       "id": "47978642",
@@ -584,6 +571,20 @@
         "Julián Álvarez"
       ],
       "score": 13
+    },
+    {
+      "id": "50171167",
+      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
+      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
+      "published": "2026-10-13T16:04:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 12
     },
     {
       "id": "50114003",
