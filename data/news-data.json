@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-16T03:11:38.206Z",
+  "updated": "2026-10-16T08:13:50.125Z",
   "counts": {
-    "news": 36,
+    "news": 35,
     "offfield": 7,
-    "celebration": 2,
-    "preview": 3
+    "preview": 5,
+    "celebration": 1
   },
   "items": [
     {
@@ -20,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 199
+      "score": 191
     },
     {
       "id": "50189300",
@@ -34,7 +34,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 191
+      "score": 183
     },
     {
       "id": "50182058",
@@ -50,53 +50,112 @@
         "USA"
       ],
       "players": [],
-      "score": 182
+      "score": 174
     },
     {
-      "id": "50187435",
-      "headline": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich?",
-      "description": "Florian Wirtz could end up returning to the Bundesliga, as Bayern Munich are keeping a close eye on his situation at Liverpool. Transfer Talk has the latest.",
-      "published": "2026-10-15T20:54:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731333_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50194635",
+      "headline": "NWSL star Gift Monday vows to make Washington Spirit fans 'proud' despite move to Boston Legacy",
+      "description": "Nigeria forward Gift Monday expressed sadness at leaving Washington Spirit, but said she was excited about joining Boston Legacy FC, following her $500,000 transfer between the two NWSL clubs.",
+      "published": "2026-10-16T07:17:04Z",
+      "url": "https://www.espn.com/espn/story/_/id/50194635/nwsl-star-gift-monday-vows-make-washington-spirit-fans-proud-move-boston-legacy",
+      "image": "https://a.espncdn.com/photo/2025/1111/r1573973_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Uruguay"
       ],
       "players": [
-        "Florian Wirtz",
+        "Gift Monday",
         "Rodrigo Bentancur"
       ],
-      "score": 136
+      "score": 144
     },
     {
-      "id": "50191336",
-      "headline": "Milan's Cissè becomes Italy's youngest European hat-trick scorer",
-      "description": "Alphadjo Cissè made European history for Italy with his hat trick in AC Milan 's 4-0 thrashing of RB Salzburg in the UEFA Europa League on Thursday.",
-      "published": "2026-10-15T19:57:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50191336/milan-alphadjo-cisse-hat-trick-europa-league-rb-salzburg",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731316_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "50194594",
+      "headline": "Wiliete vs. Mamelodi Sundowns - Kick-off time, team news for CAF Champions League clash",
+      "description": "Mamelodi Sundowns will kick off their CAF Champions League title defence with a trip to Angola to face Wiliete in Lubango on Sunday in the second qualifying round.",
+      "published": "2026-10-16T06:53:49Z",
+      "url": "https://www.espn.com/espn/story/_/id/50194594/wiliete-vs-mamelodi-sundowns-kick-team-news-caf-champions-league-clash",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1717951_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Uruguay",
+        "South Africa"
+      ],
+      "players": [
+        "Ronwen Williams",
+        "Rodrigo Bentancur"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50187866",
+      "headline": "African Stars vs. Orlando Pirates - Kick-off time, team news for CAF Champions League",
+      "description": "Orlando Pirates will face Namibia's African Stars in Gaborone, Botswana, in Saturday's first leg of their CAF Champions League second preliminary round tie.",
+      "published": "2026-10-16T06:40:56Z",
+      "url": "https://www.espn.com/espn/story/_/id/50187866/african-stars-vs-orlando-pirates-kick-team-news-caf-champions-league",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731062_1074x604_16-9.png",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Uruguay",
+        "South Africa"
+      ],
+      "players": [
+        "Oswin Appollis",
+        "Rodrigo Bentancur"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50194613",
+      "headline": "André Onana concedes direct from corner, saves penalty, as Mo Salah scores again",
+      "description": "André Onana endured a rollercoaster performance for Trabzonspor on Thursday in the Conference League.",
+      "published": "2026-10-16T07:16:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50194613/andre-onana-concedes-direct-corner-saves-penalty-mo-salah-scores-again",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731504_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Uruguay"
       ],
       "players": [
-        "Alphadjo Cissè",
+        "André Onana",
+        "Mohamed Salah",
         "Rodrigo Bentancur"
       ],
-      "score": 129
+      "score": 132
     },
     {
-      "id": "50191983",
-      "headline": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
-      "description": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
-      "published": "2026-10-15T21:38:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/50191983/frank-leboeuf-calls-lisandro-martinez-leave-man-utd",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_Frank_Leboeuf_calls_for_Lisandro_Martinez_to_leave_Man_Utd/dm_261015_Frank_Leboeuf_calls_for_Lisandro_Martinez_to_leave_Man_Utd.jpg",
+      "id": "50194536",
+      "headline": "Aaron Ramsey's Oxford briefly down to eight players, salvage a draw",
+      "description": "Oxford boss Aaron Ramsey was proud of his side's battling spirit as they hung on for a 1-1 draw at Mansfield with nine men after two red cards in the last 15 minutes.",
+      "published": "2026-10-16T06:36:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50194536/aaron-ramsey-oxford-briefly-eight-players-salvage-draw",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731501_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50193978",
+      "headline": "Arkansas vs. Tennessee: Game Highlights",
+      "description": "Arkansas vs. Tennessee: Game Highlights",
+      "published": "2026-10-16T03:33:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/50193978/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1016/808a22e6-44e3-4a0f-bae2-fec4bfc4b7e6/808a22e6-44e3-4a0f-bae2-fec4bfc4b7e6.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -104,18 +163,35 @@
         "Uruguay"
       ],
       "players": [
-        "Lisandro Martínez",
+        "Rodrigo Bentancur"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50193595",
+      "headline": "Ava McDonald approves of Longhorns' mentality in win over LSU",
+      "description": "McDonald, who netted a goal and assisted on another, says Texas combined the right mentality with strong chemistry to make the fun plays demonstrated in its 4-1 win over LSU.",
+      "published": "2026-10-16T02:52:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/50193595/ava-mcdonald-approves-longhorns-mentality-win-lsu",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_SEC_WSOC_Interivew_McDonald_INT_261015/dm_261015_SEC_WSOC_Interivew_McDonald_INT_261015.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
         "Rodrigo Bentancur"
       ],
       "score": 125
     },
     {
-      "id": "50128304",
-      "headline": "Rutter sends message to Hürzeler with brace as Brighton cruise past Kauno Zalgiris",
-      "description": "Georginio Rutter got Brighton's Conference League campaign off to a flying start and sent a message to boss Fabian Hürzeler.",
-      "published": "2026-10-15T21:11:35Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915853",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731342_1296x729_16-9.jpg",
+      "id": "50193465",
+      "headline": "South Carolina vs. Texas A&M: Game Highlights",
+      "description": "South Carolina vs. Texas A&M: Game Highlights",
+      "published": "2026-10-16T02:26:27Z",
+      "url": "https://www.espn.com/video/clip/_/id/50193465/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1016/e6463472-23d7-46f6-a3fb-a9926145fb1c/e6463472-23d7-46f6-a3fb-a9926145fb1c.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -126,78 +202,6 @@
         "Rodrigo Bentancur"
       ],
       "score": 124
-    },
-    {
-      "id": "50128300",
-      "headline": "Bournemouth beat Sturm Graz for dream European home debut",
-      "description": "Bournemouth won their first European match at the Vitality Stadium as Sturm Graz were beaten 3-0 to maintain Marco Rose's perfect start in the Europa League.",
-      "published": "2026-10-15T21:07:41Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915571",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731341_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50191633",
-      "headline": "'Frustrated' Pierre Sage: Crystal Palace 'really far off' expectations in Lyon defeat",
-      "description": "Pierre Sage said Crystal Palace were \"really far off\" his expectations after suffering a 3-2 Europa League defeat away to his former side Lyon.",
-      "published": "2026-10-15T20:58:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50191633/pierre-sage-crystal-palace-really-far-expectations-lyon-defeat",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731332_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50128295",
-      "headline": "Sunderland fight back to beat 2nd-tier Torreense",
-      "description": "Noah Sadiki scored a last-gasp winner for Sunderland in the Europa League as they came from behind to beat Torreense 2-1 in Leiria.",
-      "published": "2026-10-15T19:06:58Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915575",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731301_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 121
-    },
-    {
-      "id": "50128291",
-      "headline": "Cissè hat trick leads Milan to rout of Salzburg",
-      "description": "Alphadjo Cissè scored a hat trick as AC Milan got their Europa League campaign up and running with a 4-0 win at RB Salzburg, who slipped to a first defeat of the season.",
-      "published": "2026-10-15T19:11:44Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915568",
-      "image": null,
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 115
     },
     {
       "id": "50178387",
@@ -211,7 +215,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 103
+      "score": 96
     },
     {
       "id": "50173561",
@@ -227,7 +231,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 90
+      "score": 82
     },
     {
       "id": "50171167",
@@ -241,7 +245,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 67
+      "score": 60
     },
     {
       "id": "50156783",
@@ -580,7 +584,6 @@
         "England",
         "Portugal",
         "Brazil",
-        "Morocco",
         "Argentina",
         "Germany",
         "Norway",
