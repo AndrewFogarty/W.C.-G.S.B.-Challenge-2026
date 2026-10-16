@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-16T13:18:39.227Z",
+  "updated": "2026-10-16T17:32:36.984Z",
   "counts": {
-    "news": 30,
+    "news": 34,
     "celebration": 2,
-    "injury": 3,
-    "preview": 6,
-    "offfield": 7
+    "injury": 2,
+    "offfield": 7,
+    "preview": 3
   },
   "items": [
     {
@@ -25,7 +25,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 209
+      "score": 203
     },
     {
       "id": "50194991",
@@ -44,7 +44,7 @@
       "players": [
         "Lautaro Martínez"
       ],
-      "score": 205
+      "score": 199
     },
     {
       "id": "50194882",
@@ -62,7 +62,7 @@
       "players": [
         "Vinícius Júnior"
       ],
-      "score": 187
+      "score": 180
     },
     {
       "id": "50189352",
@@ -76,7 +76,63 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 153
+      "score": 147
+    },
+    {
+      "id": "50196980",
+      "headline": "Inter Milan rocked as captain Lautaro Martínez set to miss 7 games",
+      "description": "Inter Milan captain Lautaro Martínez will likely miss his team's next seven matches, including the derby against city rival AC Milan, with a hamstring injury.",
+      "published": "2026-10-16T16:48:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50196980/inter-milan-lautaro-martinez-injury-serie-a",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731694_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lautaro Martínez",
+        "Lionel Messi"
+      ],
+      "score": 146
+    },
+    {
+      "id": "50196950",
+      "headline": "Nottingham Forest vs. Arsenal: Morgan Gibbs-White faces late fitness test for hosts",
+      "description": "Nottingham Forest are sweating on the fitness of Morgan Gibbs-White ahead of Sunday's clash with Arsenal.",
+      "published": "2026-10-16T16:13:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50196950/nottingham-forest-vs-arsenal-morgan-gibbs-white-faces-late-fitness-test-hosts",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731685_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Morgan Gibbs-White",
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50196940",
+      "headline": "David Moyes on new contract talks at Everton: 'Bit of a lull'",
+      "description": "David Moyes has said discussions over a new contract at the Hill Dickinson Stadium have gone quiet following news that Everton could be up for sale.",
+      "published": "2026-10-16T16:14:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50196940/david-moyes-new-contract-talks-everton-bit-lull",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731684_594x334_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 143
     },
     {
       "id": "50189300",
@@ -90,143 +146,100 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 146
+      "score": 139
     },
     {
-      "id": "50195431",
-      "headline": "Florian Wirtz form can improve if Liverpool drop him - Steven Gerrard",
-      "description": "Liverpool legend Steven Gerrard has said that Florian Wirtz \"coming out of the team\" could be the solution to his confidence and form improving after a disappointing start to the season.",
-      "published": "2026-10-16T12:15:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50195431/florian-wirtz-improve-comes-liverpool-team-says-steven-gerrard",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731538_1296x729_16-9.jpg",
-      "byline": "Nina Hristova",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Florian Wirtz",
-        "Sadio Mané"
-      ],
-      "score": 145
-    },
-    {
-      "id": "50195777",
-      "headline": "Raphinha due back for Barça vs. Betis; Flick will manage PSG, Madrid minutes",
-      "description": "Barcelona forward Raphinha is fit for Saturday's trip to Real Betis but coach Hansi Flick will manage his minutes ahead of matches against and PSG Real Madrid.",
-      "published": "2026-10-16T13:05:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50195777/raphinha-back-real-betis-manage-minutes-psg-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1718986_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Raphinha",
-        "Frenkie de Jong",
-        "Sadio Mané"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50194612",
-      "headline": "Transfer rumors, news: Arsenal eye January move for Bayern Munich defender",
-      "description": "Arsenal are interested in signing Bayern Munich defender Kim Min-Jae during the January transfer window. Transfer Talk has the latest.",
-      "published": "2026-10-16T11:36:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50194612/transfer-rumors-news-arsenal-eye-january-move-bayern-munich-defender",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731505_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Kim Min-Jae",
-        "Sadio Mané"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50194856",
-      "headline": "Chelsea's Reece James undergoes minor knee surgery",
-      "description": "Chelsea have confirmed that their captain Reece James has undergone successful minor knee surgery.",
-      "published": "2026-10-16T08:58:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50194856/chelsea-reece-james-undergoes-minor-knee-surgery",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702996_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Reece James",
-        "Lionel Messi"
-      ],
-      "score": 140
-    },
-    {
-      "id": "50194838",
-      "headline": "Trey Nyoni backed by Liverpool's Andoni Iraola amid midfield injury issues",
-      "description": "Liverpool head coach Andoni Iraola has every faith in Trey Nyoni as the 19-year-old looks set for his first Premier League start.",
-      "published": "2026-10-16T08:51:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50194838/trey-nyoni-backed-liverpool-boss-premier-league-start-looms",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697197_1296x729_16-9.jpg",
+      "id": "50196506",
+      "headline": "Unai Emery to leave Aston Villa team selection for Newcastle clash until last minute",
+      "description": "Aston Villa boss Unai Emery will leave his team selection for Saturday's game with Newcastle until the last minute.",
+      "published": "2026-10-16T15:11:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50196506/unai-emery-leave-aston-villa-team-selection-newcastle-clash-last-minute",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712937_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Trey Nyoni",
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 138
     },
     {
-      "id": "50187866",
-      "headline": "African Stars vs. Orlando Pirates - Kick-off time, team news for CAF Champions League",
-      "description": "Orlando Pirates will face Namibia's African Stars in Gaborone, Botswana, in Saturday's first leg of their CAF Champions League second preliminary round tie.",
-      "published": "2026-10-16T11:32:56Z",
-      "url": "https://www.espn.com/espn/story/_/id/50187866/african-stars-vs-orlando-pirates-kick-team-news-caf-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731062_1074x604_16-9.png",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "50197188",
+      "headline": "Flick confirms Raphinha and de Jong return for Barcelona",
+      "description": "Flick confirms Raphinha and de Jong return for Barcelona",
+      "published": "2026-10-16T17:17:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/50197188/flick-confirms-raphinha-de-jong-return-barcelona",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Flick_confirms_Raphinha_and_de_Jong_return_for_Barcelona/dm_261016_Flick_confirms_Raphinha_and_de_Jong_return_for_Barcelona.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Senegal",
-        "South Africa"
+        "Argentina"
       ],
       "players": [
-        "Oswin Appollis",
-        "Sadio Mané"
+        "Frenkie de Jong",
+        "Raphinha",
+        "Lionel Messi"
       ],
-      "score": 139
+      "score": 133
     },
     {
-      "id": "50194594",
-      "headline": "Wiliete vs. Mamelodi Sundowns - Kick-off time, team news for CAF Champions League clash",
-      "description": "Mamelodi Sundowns will kick off their CAF Champions League title defence with a trip to Angola to face Wiliete in Lubango on Sunday in the second qualifying round.",
-      "published": "2026-10-16T11:32:22Z",
-      "url": "https://www.espn.com/espn/story/_/id/50194594/wiliete-vs-mamelodi-sundowns-kick-team-news-caf-champions-league-clash",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717951_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "50197099",
+      "headline": "Lisandro Martínez's Man United comments 'not that far off' but should not have been made - Peter Schmeichel",
+      "description": "Former Manchester United goalkeeper Peter Schmeichel has said he believes Lisandro Martínez's criticism of the club's hierarchy is \"not that far off.\"",
+      "published": "2026-10-16T16:59:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50197099/lisandro-martinez-man-united-comments-not-far-not-made-peter-schmeichel",
+      "image": "https://a.espncdn.com/photo/2026/1014/r1730746_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Senegal",
-        "South Africa"
+        "Argentina"
       ],
       "players": [
-        "Ronwen Williams",
-        "Sadio Mané"
+        "Lisandro Martínez",
+        "Lionel Messi"
       ],
-      "score": 139
+      "score": 132
+    },
+    {
+      "id": "50196766",
+      "headline": "Arteta happy with Arsenal's 'great attacking flow'",
+      "description": "Arteta happy with Arsenal's 'great attacking flow'",
+      "published": "2026-10-16T15:49:31Z",
+      "url": "https://www.espn.com/video/clip/_/id/50196766/arteta-happy-arsenal-great-attacking-flow",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Arteta_happy_with_Arsenals_great_attacking_flow/dm_261016_Arteta_happy_with_Arsenals_great_attacking_flow.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50196705",
+      "headline": "Columbus NWSL expansion club names Lucy Rushton as GM",
+      "description": "Lucy Rushton is the first general manager of the forthcoming Columbus NWSL expansion team that will begin play in 2028.",
+      "published": "2026-10-16T15:41:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50196705/columbus-nwsl-expansion-club-names-lucy-rushton-gm",
+      "image": "https://a.espncdn.com/photo/2023/0614/r1186461_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
     },
     {
       "id": "50182058",
@@ -242,184 +255,7 @@
         "USA"
       ],
       "players": [],
-      "score": 137
-    },
-    {
-      "id": "50194943",
-      "headline": "Brazil winger Antony's home burgled during Real Betis Champions League match",
-      "description": "Brazil winger Antony has revealed that his home in Seville was burgled during Real Betis' Champions League clash against Porto on Wednesday.",
-      "published": "2026-10-16T09:29:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50194943/brazil-winger-antony-home-burgled-real-betis-champions-league-match",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731517_594x334_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Brazil"
-      ],
-      "players": [
-        "Antony",
-        "Lionel Messi"
-      ],
-      "score": 136
-    },
-    {
-      "id": "50195310",
-      "headline": "Harry Kane has talent for NFL - Jags kicker Cam Little",
-      "description": "Cam Little is confident Harry Kane has the skill to become an NFL kicker.",
-      "published": "2026-10-16T11:58:04Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50195310/harry-kane-talent-nfl-jacksonville-jaguars-kicker-cam-little",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726990_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal",
-        "England"
-      ],
-      "players": [
-        "Cam Little",
-        "Harry Kane",
-        "Sadio Mané"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50191745",
-      "headline": "Premier League Top 50: Ranking the best players so far this season",
-      "description": "The Premier League Top 50 returns for the 2026-27 season to rank the best players across the league so far.",
-      "published": "2026-10-16T11:13:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50191745/premier-league-top-50-ranked-best-players-2026-27-man-city-united-liverpool-arsenal-chelsea",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731434_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Bryan Mbeumo",
-        "Josko Gvardiol",
-        "Gabriel Magalhães",
-        "Bruno Fernandes",
-        "Bruno Guimarães",
-        "Erling Haaland",
-        "David Raya",
-        "Marc Guéhi",
-        "Enzo Fernández",
-        "Martin Ødegaard",
-        "Antoine Semenyo",
-        "Florian Wirtz",
-        "Moisés Caicedo",
-        "Rayan Cherki",
-        "Jurriën Timber",
-        "Declan Rice",
-        "Bukayo Saka",
-        "Jérémy Doku",
-        "Sadio Mané"
-      ],
       "score": 130
-    },
-    {
-      "id": "50193530",
-      "headline": "USMNT players are beefing online again: A look at the most memorable, pettiest feuds",
-      "description": "A new argument between USMNT players has caused a stir, continuing a long tradition of American stars beefing for no reason.",
-      "published": "2026-10-16T11:12:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50193530/usmnt-players-beefing-online-again-list-most-memorable-pettiest-fights",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731470_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal",
-        "USA"
-      ],
-      "players": [
-        "Christian Pulisic",
-        "Timothy Weah",
-        "Jordan Morris",
-        "Diego Luna",
-        "Alejandro Bedoya",
-        "Sadio Mané"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50194886",
-      "headline": "Mikel Merino: I knew Arsenal would be champions in aftermath of terrible result",
-      "description": "Mikel Merino has revealed that the conversations in the dressing room in the aftermath of Arsenal's draw to Wolves last season was when he realised they would win the Premier League.",
-      "published": "2026-10-16T09:15:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50194886/mikel-merino-knew-arsenal-champions-aftermath-terrible-result",
-      "image": "https://a.espncdn.com/photo/2026/0218/r1617005_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Mikel Merino",
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50194881",
-      "headline": "James Maddison can be the difference maker for Tottenham - former Coventry academy coach",
-      "description": "James Maddison has been backed to be the missing piece of the puzzle for Tottenham by old Coventry academy coach Richard Stevens.",
-      "published": "2026-10-16T09:05:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50194881/james-maddison-tottenham-coventry-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731514_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "James Maddison",
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50194835",
-      "headline": "Saudi Arabia insists Asian Cup remains on track despite Houthi attacks",
-      "description": "Saudi Arabia has insisted that preparations for next January's Asian Cup remain on schedule despite ongoing attacks by Yemeni-based Houthi rebels.",
-      "published": "2026-10-16T08:46:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50194835/saudi-arabia-insists-asian-cup-remains-track-houthi-attacks",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731513_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Saudi Arabia"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50194834",
-      "headline": "Johan Manzambi to haunt Newcastle? Matthias Jaissle won't be 'distracted'",
-      "description": "Newcastle head coach Matthias Jaissle says he is uninterested in dwelling on what might have been when highly-rated Aston Villa midfielder Johan Manzambi visits.",
-      "published": "2026-10-16T08:30:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50194834/johan-manzambi-haunt-newcastle-matthias-jaissle-wont-distracted",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731510_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Johan Manzambi",
-        "Lionel Messi"
-      ],
-      "score": 126
     },
     {
       "id": "50178387",
@@ -433,7 +269,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 58
+      "score": 52
     },
     {
       "id": "50173561",
@@ -449,7 +285,7 @@
         "Spain"
       ],
       "players": [],
-      "score": 45
+      "score": 38
     },
     {
       "id": "50156783",
@@ -487,20 +323,6 @@
         "Folarin Balogun"
       ],
       "score": 25
-    },
-    {
-      "id": "50171167",
-      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
-      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
-      "published": "2026-10-13T16:04:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 22
     },
     {
       "id": "50084975",
@@ -589,6 +411,20 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50171167",
+      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
+      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
+      "published": "2026-10-13T16:04:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
     },
     {
       "id": "47978642",
@@ -914,6 +750,120 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "50038230",
+      "headline": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
+      "description": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
+      "published": "2026-09-27T01:25:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/50038230/usmnt-debutants-made-their-mark-4-1-win-vs-peru",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/ss_20260926_205309109_36763731284/ss_20260926_205309109_36763731284.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50025809",
+      "headline": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
+      "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
+      "published": "2026-09-25T10:12:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721593_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany",
+        "Spain",
+        "England"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50015084",
+      "headline": "Gianni Infantino accused of 'woefully inadequate' co-operation with probe into Donald Trump links",
+      "description": "FIFA president Gianni Infantino has been accused of a \"woefully inadequate\" level of co-operation over a probe by democratic members of the United States House Judiciary Committee into his relationship with Donald Trump.",
+      "published": "2026-09-23T20:07:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50015084/gianni-infantino-donald-trump-fifa-world-cup-uefa",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50003632",
+      "headline": "De la Fuente: The best is yet to come for the Spanish national team",
+      "description": "De la Fuente: The best is yet to come for the Spanish national team",
+      "published": "2026-09-22T07:55:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/50003632/best-yet-come-spanish-national-team",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "49974557",
+      "headline": "Patrick Vieira insists he expects to win trophies as Senegal boss",
+      "description": "Patrick Vieira insists he expects to win trophies as Senegal boss",
+      "published": "2026-09-18T19:21:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/49974557/patrick-vieira-insists-expects-win-trophies-senegal-boss",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_COM_SOC_Presser_Patrick_Vieira_insists_he_expects_to_win_trophies_as_Senegal_boss_20260918_GLOBA/dm_260918_COM_SOC_Presser_Patrick_Vieira_insists_he_expects_to_win_trophies_as_Senegal_boss_20260918_GLOBA.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Senegal"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50074316",
+      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
+      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
+      "published": "2026-10-12T13:39:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
+      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Kylian Mbappé",
+        "Harry Kane",
+        "Lamine Yamal"
+      ],
+      "score": 9
+    },
+    {
+      "id": "50134141",
+      "headline": "Sources: Infantino reelection path clear as Montagliani plans Concacaf stay",
+      "description": "Gianni Infantino faces a clear path towards reelection as FIFA president after sources told ESPN that Victor Montagliani plans to stay as Concacaf president.",
+      "published": "2026-10-08T18:25:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50134141/fifa-president-gianni-infantino-victor-montagliani-concacaf",
+      "image": "https://a.espncdn.com/photo/2026/1008/r1727909_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
