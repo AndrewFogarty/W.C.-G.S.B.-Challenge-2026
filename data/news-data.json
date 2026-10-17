@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-17T13:04:15.557Z",
+  "updated": "2026-10-17T16:20:50.155Z",
   "counts": {
-    "news": 38,
+    "news": 35,
     "celebration": 2,
-    "offfield": 6,
+    "injury": 2,
+    "offfield": 7,
     "preview": 2
   },
   "items": [
@@ -20,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 201
+      "score": 196
     },
     {
       "id": "50195091",
@@ -38,7 +39,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 164
+      "score": 159
     },
     {
       "id": "50194991",
@@ -57,7 +58,63 @@
       "players": [
         "Lautaro Martínez"
       ],
-      "score": 159
+      "score": 155
+    },
+    {
+      "id": "50192044",
+      "headline": "Alexander Isak completes Liverpool comeback at nine-man Brentford",
+      "description": "Alexander Isak marked his return from injury with the winner as Liverpool came from behind to beat nine-man Brentford 2-1.",
+      "published": "2026-10-17T16:19:29Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879262",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1732020_594x334_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 147
+    },
+    {
+      "id": "50200995",
+      "headline": "Emi Martínez taken to hospital after suffering head injury in Chelsea's win over Everton",
+      "description": "Emi Martínez suffered a worrying-looking head injury during Chelsea's Premier League win over Everton on Saturday.",
+      "published": "2026-10-17T15:36:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50200995/emi-martinez-hospital-head-injury-chelsea-everton-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1731940_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Emiliano Martínez",
+        "Lionel Messi"
+      ],
+      "score": 146
+    },
+    {
+      "id": "50200287",
+      "headline": "Transfer rumors, news: JJ Gabriel move revealed soon amid Barcelona, Real Madrid talks",
+      "description": "JJ Gabriel's next move could be announced soon, while Arsenal and Liverpool will battle to sign Brentford's Kevin Schade. Transfer Talk has the latest.",
+      "published": "2026-10-17T16:08:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50200287/transfer-rumors-news-jj-gabriel-move-revealed-soon-amid-barcelona-real-madrid-talks",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "JJ Gabriel",
+        "Lionel Messi"
+      ],
+      "score": 145
     },
     {
       "id": "50194882",
@@ -75,16 +132,36 @@
       "players": [
         "Vinícius Júnior"
       ],
-      "score": 141
+      "score": 136
     },
     {
-      "id": "50200285",
-      "headline": "Aspropotamitis' late winner gives Macarthur victory over Perth",
-      "description": "Macarthur's Jonathan Aspropotamitis snatches victory from Perth Glory with a thumping header off Ryan Fraser's brilliant free kick.",
-      "published": "2026-10-17T09:00:48Z",
-      "url": "https://www.espn.com/video/clip/_/id/50200285/aspropotamitis-late-winner-gives-macarthur-victory-perth",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1017/dm_261017_Soccer_HIGHLIGHT_Aspropotamitis_late_winner_gives_Macarthur_victory_over_Perth_20261017_AUS/dm_261017_Soccer_HIGHLIGHT_Aspropotamitis_late_winner_gives_Macarthur_victory_over_Perth_20261017_AUS.jpg",
-      "byline": null,
+      "id": "50201454",
+      "headline": "Henderson, the Premier League's oldest player, is becoming undroppable for Chelsea",
+      "description": "At 36 years old, Jordan Henderson is the Premier League's elder statesman. He is also one of Chelsea's most important players.",
+      "published": "2026-10-17T16:17:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50201454/jordan-henderson-premier-league-oldest-player-undroppable-chelsea",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1731966_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Jordan"
+      ],
+      "players": [
+        "Jordan Henderson",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50192052",
+      "headline": "Erling Haaland brace helps Man City hold off Ipswich at defiant Etihad Stadium",
+      "description": "Erling Haaland struck twice as defiant Manchester City marched on at the top of the Premier League by holding on for a 3-2 win over Ipswich.",
+      "published": "2026-10-17T16:12:23Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879259",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1732010_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -93,16 +170,35 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
+      "score": 133
     },
     {
-      "id": "50199877",
-      "headline": "Bayliss kicks off Auckland's season in style",
-      "description": "Lachie Bayliss scores a long-range rocket for Auckland FC against Melbourne City.",
-      "published": "2026-10-17T05:16:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/50199877/bayliss-kicks-auckland-season-style",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1017/dm_261017_SOCCER_HIGHLIGHT_Bayliss_kicks_off_Aucklands_season_in_style_20261017_AUS/dm_261017_SOCCER_HIGHLIGHT_Bayliss_kicks_off_Aucklands_season_in_style_20261017_AUS.jpg",
-      "byline": null,
+      "id": "50190266",
+      "headline": "Premier League live updates: Man City, Liverpool both win; Haaland gets brace",
+      "description": "More goals for Erling Haaland as Manchester City defeat Ipswich Town, while Liverpool turned it around against Brentford. Follow live with ESPN.",
+      "published": "2026-10-17T16:07:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50190266/premier-league-live-updates-everton-chelsea-liverpool-manchester-city",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1732017_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50192049",
+      "headline": "Alex Iwobi goal earns Alvaro Arbeloa's Fulham their first Premier League win",
+      "description": "Fulham's winless run under Alvaro Arbeloa was finally ended by an entertaining 1-0 victory over Hull at Craven Cottage.",
+      "published": "2026-10-17T16:04:14Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878770",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1732002_594x334_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -111,41 +207,16 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 121
+      "score": 133
     },
     {
-      "id": "50199668",
-      "headline": "Boston Legacy FC vs. Racing Louisville FC - Game Highlights",
-      "description": "Watch the Game Highlights from Boston Legacy FC vs. Racing Louisville FC, 10/17/2026",
-      "published": "2026-10-17T04:11:59Z",
-      "url": "https://www.espn.com/video/clip/_/id/50199668/boston-legacy-fc-vs-racing-louisville-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1017/bf349b21-40dc-4192-9272-eadcb4871f04/bf349b21-40dc-4192-9272-eadcb4871f04.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Amanda Gutierres",
-        "Sammy Smith",
-        "Mirann Gacioch",
-        "Kayla Fischer",
-        "Deja Davis",
-        "Laurel Ivory",
-        "Emma Sears",
-        "Lionel Messi"
-      ],
-      "score": 120
-    },
-    {
-      "id": "50199666",
-      "headline": "California vs. Stanford: Game Highlights",
-      "description": "California vs. Stanford: Game Highlights",
-      "published": "2026-10-17T04:10:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/50199666/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1017/06c27622-bd6b-49b0-8cac-be40c1c9e3e9/06c27622-bd6b-49b0-8cac-be40c1c9e3e9.jpg",
-      "byline": null,
+      "id": "50192122",
+      "headline": "Álex Baena scores late at Espanyol as Atlético maintain pressure on Barça",
+      "description": "Atlético Madrid substitute Álex Baena scored late to secure a 1-0 LaLiga victory at Espanyol.",
+      "published": "2026-10-17T15:26:08Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401882843",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1732001_2_594x334_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -154,79 +225,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 120
-    },
-    {
-      "id": "50199495",
-      "headline": "Texas Tech vs. BYU: Game Highlights",
-      "description": "Texas Tech vs. BYU: Game Highlights",
-      "published": "2026-10-17T03:24:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/50199495/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1017/a396b304-6504-4199-ae23-f00a29dafbda/a396b304-6504-4199-ae23-f00a29dafbda.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 118
-    },
-    {
-      "id": "50199431",
-      "headline": "Duke vs. Smu: Game Highlights",
-      "description": "Duke vs. Smu: Game Highlights",
-      "published": "2026-10-17T03:13:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/50199431/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1017/3ff8e535-a028-4a40-97e8-eb59d28582e8/3ff8e535-a028-4a40-97e8-eb59d28582e8.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 118
-    },
-    {
-      "id": "50199273",
-      "headline": "TCU vs. Baylor: Game Highlights",
-      "description": "TCU vs. Baylor: Game Highlights",
-      "published": "2026-10-17T02:29:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/50199273/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1017/79444ebc-edc4-46cb-bc5c-3f633b896a6a/79444ebc-edc4-46cb-bc5c-3f633b896a6a.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 117
-    },
-    {
-      "id": "50199208",
-      "headline": "Louisville vs. Clemson: Game Highlights",
-      "description": "Louisville vs. Clemson: Game Highlights",
-      "published": "2026-10-17T01:58:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/50199208/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1017/6496999d-1330-4861-82bd-81c695903477/6496999d-1330-4861-82bd-81c695903477.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 116
+      "score": 132
     },
     {
       "id": "50189352",
@@ -240,7 +239,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 108
+      "score": 103
     },
     {
       "id": "50189300",
@@ -254,7 +253,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 100
+      "score": 95
     },
     {
       "id": "50182058",
@@ -270,7 +269,7 @@
         "USA"
       ],
       "players": [],
-      "score": 91
+      "score": 86
     },
     {
       "id": "50156783",
