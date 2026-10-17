@@ -1,11 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-16T22:46:53.358Z",
+  "updated": "2026-10-17T00:49:34.091Z",
   "counts": {
     "news": 37,
     "celebration": 2,
-    "injury": 1,
-    "offfield": 6,
+    "offfield": 7,
     "preview": 2
   },
   "items": [
@@ -25,7 +24,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 195
+      "score": 192
     },
     {
       "id": "50194991",
@@ -44,7 +43,7 @@
       "players": [
         "Lautaro Martínez"
       ],
-      "score": 191
+      "score": 188
     },
     {
       "id": "50194882",
@@ -62,26 +61,26 @@
       "players": [
         "Vinícius Júnior"
       ],
-      "score": 172
+      "score": 169
     },
     {
-      "id": "50197431",
-      "headline": "Alonso: Reece James could be sidelined beyond Christmas",
-      "description": "Alonso: Reece James could be sidelined beyond Christmas",
-      "published": "2026-10-16T18:16:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/50197431/reece-james-sidelined-christmas",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Alonso_Reece_James_could_be_sidelined_beyond_Christmas/dm_261016_Alonso_Reece_James_could_be_sidelined_beyond_Christmas.jpg",
-      "byline": null,
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50194612",
+      "headline": "Transfer rumors, news: Are Liverpool the favorite to sign Bournemouth's Scott?",
+      "description": "Liverpool are reportedly interested in signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
+      "published": "2026-10-16T22:06:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50194612/transfer-rumors-news-arsenal-eye-january-move-bayern-munich-defender",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731819_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Reece James",
+        "Alex Scott",
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 141
     },
     {
       "id": "50189352",
@@ -95,7 +94,80 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 139
+      "score": 136
+    },
+    {
+      "id": "50198857",
+      "headline": "Stanford vs. Smu: Game Highlights",
+      "description": "Stanford vs. Smu: Game Highlights",
+      "published": "2026-10-17T00:29:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/50198857/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1017/03cee116-971a-4b1b-84b2-11b75ca17d71/03cee116-971a-4b1b-84b2-11b75ca17d71.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50198374",
+      "headline": "Xabi Alonso not ready to say if Chelsea heading 'right way'",
+      "description": "Xabi Alonso said it is too early to tell whether Chelsea are going the \"right way\" as he looks for greater balance from his free-scoring team.",
+      "published": "2026-10-16T22:03:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50198374/xabi-alonso-chelsea-heading-right-way",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731815_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50198381",
+      "headline": "Nicol slams Carrick for 'ridiculous' comments in press conference",
+      "description": "Nicol slams Carrick for 'ridiculous' comments in press conference",
+      "published": "2026-10-16T21:51:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/50198381/nicol-slams-carrick-ridiculous-comments-press-conference",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_COM_SOC_Analysis_Nicol_slams_Carrick_for_ridiculous_comments_in_press_conference_20261016_GLOB/dm_261016_COM_SOC_Analysis_Nicol_slams_Carrick_for_ridiculous_comments_in_press_conference_20261016_GLOB.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50198285",
+      "headline": "Jamie Vardy scores in 20th consecutive season as Burnley beaten by Wolves",
+      "description": "Jamie Vardy scored in his 20th straight season on Friday when he struck for Burnley in their 2-1 Championship defeat by Wolves.",
+      "published": "2026-10-16T21:37:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50198285/jamie-vardy-scores-20th-consecutive-season-burnley-beaten-wolves",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731806_1296x729_16-9.jpg",
+      "byline": "Tom Chambers",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Jamie Vardy",
+        "Lionel Messi"
+      ],
+      "score": 128
     },
     {
       "id": "50189300",
@@ -109,7 +181,53 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 131
+      "score": 128
+    },
+    {
+      "id": "50198191",
+      "headline": "Deportivo La Coruña vs. Levante - Game Highlights",
+      "description": "Watch the Game Highlights from Deportivo La Coruña vs. Levante, 10/16/2026",
+      "published": "2026-10-16T21:05:27Z",
+      "url": "https://www.espn.com/video/clip/_/id/50198191/deportivo-la-coruna-vs-levante-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1016/ea96469c-19e5-4106-8dcd-330c2962e3a7/ea96469c-19e5-4106-8dcd-330c2962e3a7.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Petar Ratkov",
+        "Jonathan Asp Jensen",
+        "Adama Traoré",
+        "Giacomo Quagliata",
+        "Bil Nsongo",
+        "Dani Requena",
+        "Lionel Messi"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50197744",
+      "headline": "Zambia players to miss several NWSL games due to Ebola travel restrictions",
+      "description": "Zambia international players are expected miss several weeks of NWSL games due to a required 21-day quarantine following a recent match in Uganda.",
+      "published": "2026-10-16T21:02:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50197744/nwsl-players-zambia-uganda-travel-restrictions-ebola-banda",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731774_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Barbra Banda",
+        "Racheal Kundananji",
+        "Prisca Chilufya",
+        "Rosemonde Kouassi",
+        "Lionel Messi"
+      ],
+      "score": 127
     },
     {
       "id": "50197717",
@@ -128,119 +246,7 @@
         "Lisandro Martínez",
         "Lionel Messi"
       ],
-      "score": 128
-    },
-    {
-      "id": "50197558",
-      "headline": "Arsenal boss Renée Slegers insists she can see 'light at the end of the tunnel'",
-      "description": "Renée Slegers insists there is a \"light at the end of the tunnel\" after a rocky start to Arsenal 's Women's Super League campaign.",
-      "published": "2026-10-16T18:52:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50197558/arsenal-renee-slegers-wsl-season-uwcl-man-city-chelsea",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731747_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50197530",
-      "headline": "Is this the world's slowest penalty run-up?",
-      "description": "Is this the world's slowest penalty run-up?",
-      "published": "2026-10-16T18:35:45Z",
-      "url": "https://www.espn.com/video/clip/_/id/50197530/is-world-slowest-penalty-run-up",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_COM_SOC_News_Is_this_the_worlds_slowest_penalty_run_up_20261016_GLOBAL/dm_261016_COM_SOC_News_Is_this_the_worlds_slowest_penalty_run_up_20261016_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50197443",
-      "headline": "Mikel Arteta told Arsenal job cuts will help club 'achieve success'",
-      "description": "Mikel Arteta has been told Arsenal's redundancies will help the club \"achieve the success we want to create\" after it emerged the Premier League champions are set to cut 60 jobs.",
-      "published": "2026-10-16T18:31:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50197443/mikel-arteta-arsenal-job-losses-success-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731732_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50197177",
-      "headline": "Miami coach unbothered by Messi getting award in Spain 2 days before MLS game",
-      "description": "Inter Miami coach Cristian \"Kily\" González confirmed Lionel Messi will travel to Spain next week to receive a prestigious award before rejoining the club for an MLS game two days later.",
-      "published": "2026-10-16T17:36:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50197177/lionel-messi-inter-miami-2026-princess-asturias-award-sports",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731708_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
       "score": 125
-    },
-    {
-      "id": "50197188",
-      "headline": "Flick confirms Raphinha and de Jong return for Barcelona",
-      "description": "Flick confirms Raphinha and de Jong return for Barcelona",
-      "published": "2026-10-16T17:17:45Z",
-      "url": "https://www.espn.com/video/clip/_/id/50197188/flick-confirms-raphinha-de-jong-return-barcelona",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Flick_confirms_Raphinha_and_de_Jong_return_for_Barcelona/dm_261016_Flick_confirms_Raphinha_and_de_Jong_return_for_Barcelona.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Frenkie de Jong",
-        "Raphinha",
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50197099",
-      "headline": "Lisandro Martínez's Man United comments 'not that far off' but should not have been made - Peter Schmeichel",
-      "description": "Former Manchester United goalkeeper Peter Schmeichel has said he believes Lisandro Martínez's criticism of the club's hierarchy is \"not that far off.\"",
-      "published": "2026-10-16T16:59:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50197099/lisandro-martinez-man-united-comments-not-far-not-made-peter-schmeichel",
-      "image": "https://a.espncdn.com/photo/2026/1014/r1730746_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lisandro Martínez",
-        "Lionel Messi"
-      ],
-      "score": 124
     },
     {
       "id": "50182058",
@@ -256,7 +262,7 @@
         "USA"
       ],
       "players": [],
-      "score": 122
+      "score": 119
     },
     {
       "id": "50178387",
@@ -270,7 +276,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 44
+      "score": 41
     },
     {
       "id": "50173561",
@@ -850,7 +856,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 8
+      "score": 6
     },
     {
       "id": "50134141",
