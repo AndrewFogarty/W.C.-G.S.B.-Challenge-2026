@@ -1,31 +1,163 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-19T06:55:29.508Z",
+  "updated": "2026-10-19T14:25:36.313Z",
   "counts": {
     "injury": 1,
-    "news": 36,
     "offfield": 7,
-    "celebration": 2,
-    "preview": 2
+    "preview": 3,
+    "news": 35,
+    "celebration": 2
   },
   "items": [
     {
-      "id": "50215122",
-      "headline": "A-League Men Stocks Round 1: I've got chulls",
-      "description": "Each week, ESPN's experts will take you through the weekend's action across the A-League Men and the A-League Women to give you the lowdown on whose stocks are up, whose stocks are down, and what has the people talking coming out of the weekend.",
-      "published": "2026-10-19T01:18:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50215122/aleague-men-stocks-round-1-league-men-auckalnd-fc-wellington-phoenix-rise-melbourne-city-melbourne-victory-fall",
-      "image": "https://a.espncdn.com/photo/2026/1019/r1732745_1296x729_16-9.png",
-      "byline": "Joey Lynch",
+      "id": "50217514",
+      "headline": "Antoine Semenyo out for two months, Man City hopeful over Erling Haaland",
+      "description": "Antoine Semenyo is injured and faces an eight-week absence for Manchester City, Enzo Maresca confirmed.",
+      "published": "2026-10-19T12:43:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50217514/antoine-semenyo-two-months-man-city-hopeful-erling-haaland",
+      "image": "https://a.espncdn.com/photo/2026/1019/r1732848_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "injury",
       "kindLabel": "Injury",
       "teams": [
         "Argentina"
       ],
       "players": [
+        "Antoine Semenyo",
+        "Erling Haaland",
         "Lionel Messi"
       ],
-      "score": 139
+      "score": 144
+    },
+    {
+      "id": "50216552",
+      "headline": "Transfer rumors, news: Galatasaray eye Man Utd's Fernandes",
+      "description": "Galatasaray are ready to move for Manchester United midfielder Bruno Fernandes. Transfer Talk has the latest.",
+      "published": "2026-10-19T12:26:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50216552/transfer-rumors-news-galatasaray-eye-move-man-united-star-bruno-fernandes",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730311_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Bruno Fernandes",
+        "Lionel Messi"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50217694",
+      "headline": "PSG's Luis Enrique on stopping Barcelona: Keep ball away from Lamine Yamal",
+      "description": "Luis Enrique said Paris Saint-Germain will stop Lamine Yamal by not letting Barcelona have the ball when the two teams meet in a heavyweight UCL clash.",
+      "published": "2026-10-19T13:46:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50217694/psg-luis-enrique-stop-barcelona-lamine-yamal-keep-ball-away",
+      "image": "https://a.espncdn.com/photo/2026/0529/r1665375_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50217836",
+      "headline": "PSG-Barcelona Champions League match to go ahead despite France protests",
+      "description": "The showpiece UCL match between PSG and Barcelona will go ahead as planned on Tuesday in Paris despite a weekend of violent protests.",
+      "published": "2026-10-19T13:41:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50217836/psg-barcelona-ucl-match-france-protests",
+      "image": "https://a.espncdn.com/photo/2026/1019/r1732873_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50217509",
+      "headline": "Ex-England international Steven Caulker reveals toll of unemployment on LinkedIn",
+      "description": "One-time England international Steven Caulker has shared his fear at facing unemployment.",
+      "published": "2026-10-19T13:15:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50217509/ex-england-international-steven-caulker-reveals-toll-unemployment-linkedin",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712693_1296x729_16-9.jpg",
+      "byline": "Grace Allen",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50217568",
+      "headline": "Como's Fàbregas: Champions League vs. Manchester United a 'dream come true'",
+      "description": "Como coach Cesc Fabregas is excited about the \"dream come true\" opportunity to host Manchester United in Wednesday's Champions League group game.",
+      "published": "2026-10-19T12:20:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50217568/como-fabregas-champions-league-manchester-united-dream",
+      "image": "https://a.espncdn.com/photo/2026/0424/r1648504_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50217381",
+      "headline": "Duncan Ferguson named new Glentoran head coach",
+      "description": "Everton legend Duncan Ferguson has been named the new head coach of the northern Irish Premiership side Glentoran in a surprise move.",
+      "published": "2026-10-19T10:54:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50217381/duncan-ferguson-glentoran-manager-everton-northern-irish-premiership",
+      "image": "https://a.espncdn.com/photo/2026/1019/r1732835_1296x729_16-9.jpg",
+      "byline": "Hannah Ryan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Scotland"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50217371",
+      "headline": "Barcelona's Joan Laporta slams Real Madrid for 'constantly attacking' LaLiga",
+      "description": "Barcelona president Joan Laporta has criticised Real Madrid for \"constantly attacking\" the country's football institutions while he has praised LaLiga president Javier Tebas for not caving into Madrid's intimidation tactics.",
+      "published": "2026-10-19T10:40:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50217371/barcelona-joan-laporta-slams-real-madrid-constantly-attacking-laliga",
+      "image": "https://a.espncdn.com/photo/2026/1019/r1732836_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 127
     },
     {
       "id": "50197782",
@@ -39,139 +171,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 138
-    },
-    {
-      "id": "50214336",
-      "headline": "Thorns snag late point against Bay FC as Wilson serves suspension",
-      "description": "The Thorns drew 2-2 with Bay FC on Sunday as star forward Sophia Wilson served the first of a two-game ban for violent conduct.",
-      "published": "2026-10-19T00:12:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50214336/thorns-snag-late-point-bay-fc-wilson-serves-suspension",
-      "image": "https://a.espncdn.com/photo/2026/1018/r1732694_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Sophia Wilson",
-        "Lionel Messi"
-      ],
-      "score": 135
-    },
-    {
-      "id": "50216098",
-      "headline": "Stats: Lamine Yamal on top with 10 assists, 100 for Erling Haaland, 102 for Harry Kane",
-      "description": "ESPN brings you the best stats from this weekend's football action.",
-      "published": "2026-10-19T03:53:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50216098/stats-lamine-yamal-top-10-assists-100-erling-haaland-102-harry-kane",
-      "image": "https://a.espncdn.com/photo/2026/1017/r1732083_608x342_16-9.jpg",
-      "byline": "Anish Anand",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50215724",
-      "headline": "United's form slump continues after draw with Leeds",
-      "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
-      "published": "2026-10-19T01:59:24Z",
-      "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50215650",
-      "headline": "No. 2 Vandy's Megan Hinnenkamp recaps game-winning goal vs. No. 8 Bama",
-      "description": "Hinnenkamp describes her excitement of scoring the game-winning goal for the Commodores as she discusses the overall factors that helped them secure the win over the Crimson Tide.",
-      "published": "2026-10-19T01:49:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/50215650/no-2-vandy-megan-hinnenkamp-recaps-game-winning-goal-vs-no-8-bama",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_SEC_WSOC_Interview_Vanderbilt_soccer_interview_261018/dm_261018_SEC_WSOC_Interview_Vanderbilt_soccer_interview_261018.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50215429",
-      "headline": "Vanderbilt vs. Alabama: Game Highlights",
-      "description": "Vanderbilt vs. Alabama: Game Highlights",
-      "published": "2026-10-19T01:19:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/50215429/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1019/1e881c83-135b-4b6f-8bcf-681c3a9f9c36/1e881c83-135b-4b6f-8bcf-681c3a9f9c36.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50215323",
-      "headline": "Chicago Stars vs. Seattle Reign FC - Game Highlights",
-      "description": "Watch the Game Highlights from Chicago Stars vs. Seattle Reign FC, 10/19/2026",
-      "published": "2026-10-19T01:08:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/50215323/chicago-stars-vs-seattle-reign-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1019/234524ca-2fac-4ead-b97d-d58cdf15e92c/234524ca-2fac-4ead-b97d-d58cdf15e92c.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Simone Charley",
-        "Nérilia Mondésir",
-        "Ainsley McCammon",
-        "Maddie Mercado",
-        "Jess Fishlock",
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50214356",
-      "headline": "Columbus beats Cincinnati to close gap on 9th and final playoff spot",
-      "description": "Gonzalo Tapia had a goal and an assist, Taha Habroune scored a goal for the third consecutive game, and the Columbus Crew beat Cincinnati FC 2-0 on Sunday for their fourth win in the last five games.",
-      "published": "2026-10-19T00:04:26Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761889",
-      "image": "https://a.espncdn.com/photo/2026/1019/r1732719_1024x576_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
+      "score": 127
     },
     {
       "id": "50195091",
@@ -189,7 +189,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 101
+      "score": 90
     },
     {
       "id": "50194991",
@@ -208,7 +208,7 @@
       "players": [
         "Lautaro Martínez"
       ],
-      "score": 97
+      "score": 85
     },
     {
       "id": "50194882",
@@ -226,7 +226,7 @@
       "players": [
         "Vinícius Júnior"
       ],
-      "score": 78
+      "score": 67
     },
     {
       "id": "50189352",
@@ -270,7 +270,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 37
+      "score": 36
     },
     {
       "id": "50156783",
