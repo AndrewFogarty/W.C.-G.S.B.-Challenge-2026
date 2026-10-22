@@ -1,11 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-22T14:43:37.294Z",
+  "updated": "2026-10-22T18:53:21.576Z",
   "counts": {
-    "news": 38,
-    "preview": 2,
-    "celebration": 2,
-    "offfield": 6
+    "news": 35,
+    "injury": 1,
+    "preview": 3,
+    "offfield": 7,
+    "celebration": 2
   },
   "items": [
     {
@@ -20,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 200
+      "score": 193
     },
     {
       "id": "50237763",
@@ -36,143 +37,96 @@
         "Japan"
       ],
       "players": [],
-      "score": 164
+      "score": 158
     },
     {
-      "id": "50247061",
-      "headline": "José Mourinho complains Real Madrid have 24 hours less rest than Barcelona ahead of El Clásico",
-      "description": "Real Madrid coach José Mourinho was keen to point out after his side's win over Leipzig that his team will have 24 hours less rest than Sunday's rivals Barcelona heading into the Clásico.",
-      "published": "2026-10-22T10:31:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50247061/jose-mourinho-real-madrid-barcelona-el-clasico-less-rest",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734427_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
+      "id": "50250570",
+      "headline": "Erling Haaland set to return with Man City 'hungry' to continue perfect start",
+      "description": "Manchester City coach Enzo Maresca said Erling Haaland is available for Saturday's trip to Aston Villa, while three other players remain doubtful.",
+      "published": "2026-10-22T17:48:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50250570/erling-haaland-man-city-aston-villa-injuries-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734595_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Mateo Kovacic",
+        "Matheus Nunes",
+        "Nico O'Reilly",
+        "Júnior Alonso"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50242239",
+      "headline": "In-the-dark Kane trying not to 'stress' over Monday's Ballon d'Or reveal",
+      "description": "Bayern striker Harry Kane said he would prefer to know ahead of time whether he has won the Ballon D'Or, adding he is still in the dark over Monday's decision.",
+      "published": "2026-10-22T17:24:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50242239/kane-trying-stress-monday-ballon-dor",
+      "image": "https://a.espncdn.com/photo/2026/1021/r1734228_1024x576_16-9.jpg",
+      "byline": "James Olley",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Harry Kane",
+        "Júnior Alonso"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50245989",
+      "headline": "Transfer rumors, news: Man United consider defensive clearout in summer",
+      "description": "Manchester United are considering refreshing their back four, with three senior defender's contracts up at the end of the season. Transfer Talk has the latest.",
+      "published": "2026-10-22T15:05:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734411_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 139
+    },
+    {
+      "id": "50247677",
+      "headline": "Soccer's main characters after UCL Matchday 3: Kane, Van Dijk, El Clasico",
+      "description": "Champions League Matchday 3 has come and gone, and we have some Main Character energy coming from Harry Kane, Barcelona and Real Madrid ahead of El Clasico, while Liverpool should worry about Virgil van Dijk's form.",
+      "published": "2026-10-22T15:20:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50247677/champions-league-main-characters-harry-kane-virgil-van-dijk-barcelona-real-madrid",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734501_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
         "Argentina"
       ],
       "players": [
+        "Harry Kane",
+        "Virgil van Dijk",
+        "Vitinha",
         "Júnior Alonso"
       ],
-      "score": 136
+      "score": 137
     },
     {
-      "id": "50247830",
-      "headline": "Bruno Guimarães: I had sleepless nights over Arsenal move",
-      "description": "Bruno Guimarães has admitted he had sleepless nights over his decision to leave Newcastle United for Arsenal.",
-      "published": "2026-10-22T14:01:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50247830/bruno-guimaraes-sleepless-nights-arsenal-move",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734469_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Bruno Guimarães",
-        "Júnior Alonso"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50248787",
-      "headline": "Fabregas told Como 'not to run' against Manchester United",
-      "description": "Fabregas told Como 'not to run' against Manchester United",
-      "published": "2026-10-22T13:55:57Z",
-      "url": "https://www.espn.com/video/clip/_/id/50248787/fabregas-told-como-not-run-manchester-united",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Fabregas_told_Como_not_to_run_against_Manchester_United/dm_261022_Fabregas_told_Como_not_to_run_against_Manchester_United.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50248209",
-      "headline": "English non-league side Banbury United apologise over 'beyond acceptable' strip show",
-      "description": "English non-league football club Banbury United have apologised after a male strip show held at their clubhouse went beyond what they considered \"acceptable.\"",
-      "published": "2026-10-22T12:44:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50248209/banbury-apologise-strip-show",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734482_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50248040",
-      "headline": "Enzo Maresca: 'It's my duty' to help Phil Foden rediscover best Man City form",
-      "description": "Manchester City boss Enzo Maresca feels a duty to help Phil Foden return to his best.",
-      "published": "2026-10-22T12:43:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50248040/enzo-maresca-phil-foden-rediscover-best-man-city-form",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734473_1215x683_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Phil Foden",
-        "Júnior Alonso"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50247630",
-      "headline": "Cesc Fàbregas: I told Como players to 'slow down' in closing stages of Man United win",
-      "description": "Como head coach Cesc Fàbregas said he regrets telling his players to ease off towards the end of their famous 4-1 win against misfiring Manchester United.",
-      "published": "2026-10-22T11:25:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50247630/cesc-fabregas-como-slow-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734457_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50247189",
-      "headline": "Who is to blame at Manchester United?",
-      "description": "Who is to blame at Manchester United?",
-      "published": "2026-10-22T10:28:31Z",
-      "url": "https://www.espn.com/video/clip/_/id/50247189/who-blame-manchester-united",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Who_is_to_blame_at_Manchester_United/dm_261022_Who_is_to_blame_at_Manchester_United.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50247083",
-      "headline": "Man United players get Thursday day off despite Como thrashing - sources",
-      "description": "Manchester United's first-team squad will report back for training on Friday after being given a day off today following the humiliating 4-1 Champions League defeat against Como, sources have told ESPN.",
-      "published": "2026-10-22T10:20:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50247083/man-united-players-day-como-thrashing",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734431_1296x729_16-9.jpg",
+      "id": "50249518",
+      "headline": "Who's to blame for Man United mess: Carrick, the players ... Ratcliffe?",
+      "description": "The bitter truth about United is that their prolonged and deep-rooted decline can be attributed to much more than their manager. Who deserves the most blame, and why?",
+      "published": "2026-10-22T18:41:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50249518/man-united-mess-blame-michael-carrick-players-jim-ratcliffe-bruno-fernandes-glazers",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734576_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
       "kind": "news",
       "kindLabel": "News",
@@ -182,7 +136,64 @@
       "players": [
         "Júnior Alonso"
       ],
-      "score": 126
+      "score": 133
+    },
+    {
+      "id": "50250895",
+      "headline": "Miami to host USMNT's Concacaf Nations League QF away match vs. Haiti",
+      "description": "The USMNT will play its next two Concacaf Nations League quarterfinal matches at home in Miami and Cincinnati, Ohio on Nov. 14 and Nov. 17.",
+      "published": "2026-10-22T18:25:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50250895/miami-host-usmnt-concacaf-nations-league-qf-away-haiti",
+      "image": "https://a.espncdn.com/photo/2026/0323/r1632854_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Haiti",
+        "USA"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50249418",
+      "headline": "U.S. to host inaugural 2028 Women's Club World Cup",
+      "description": "The inaugural Women's Club World Cup will be staged in January 2028 in the United States, FIFA said on Thursday.",
+      "published": "2026-10-22T16:15:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50249418/usa-host-2028-inaugural-womens-club-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695485_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50192299",
+      "headline": "Sunderland stay unbeaten in Europa League in away draw with Lech Poznan",
+      "description": "Sunderland remain unbeaten in the Europa League thanks to a 1-1 draw against Lech Poznan at the Enea Stadion on Thursday.",
+      "published": "2026-10-22T18:52:51Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915546",
+      "image": null,
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 127
     },
     {
       "id": "50226152",
@@ -203,7 +214,7 @@
         "Lionel Messi",
         "Rodrigo De Paul"
       ],
-      "score": 113
+      "score": 106
     },
     {
       "id": "50225613",
@@ -219,7 +230,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 102
+      "score": 96
     },
     {
       "id": "50114003",
@@ -248,7 +259,7 @@
         "USA"
       ],
       "players": [],
-      "score": 98
+      "score": 91
     },
     {
       "id": "50171167",
@@ -262,7 +273,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 66
+      "score": 60
     },
     {
       "id": "50197782",
