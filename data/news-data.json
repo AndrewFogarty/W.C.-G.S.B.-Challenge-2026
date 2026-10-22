@@ -1,12 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-22T04:53:32.064Z",
+  "updated": "2026-10-22T09:50:18.008Z",
   "counts": {
-    "news": 35,
-    "injury": 1,
-    "celebration": 3,
+    "news": 36,
+    "offfield": 7,
     "preview": 3,
-    "offfield": 6
+    "celebration": 2
   },
   "items": [
     {
@@ -23,46 +22,163 @@
         "Japan"
       ],
       "players": [],
-      "score": 189
+      "score": 181
     },
     {
-      "id": "50243891",
-      "headline": "St. Louis GK Bürki stretchered off after collision in Open Cup final",
-      "description": "St. Louis goalkeeper Roman Bürki was taken to the hospital after taking a knock to the head during the U.S. Open Cup final against the Columbus Crew.",
-      "published": "2026-10-22T04:44:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50243891/st-louis-gk-burki-stretchered-collision-open-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734322_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50245989",
+      "headline": "Transfer rumors, news: Man United consider defensive clearout in summer",
+      "description": "Manchester United are considering refreshing their back four, with three senior defender's contracts up at the end of the season. Transfer Talk has the latest.",
+      "published": "2026-10-22T07:45:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734411_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Roman Bürki",
-        "Júnior Alonso"
-      ],
-      "score": 147
-    },
-    {
-      "id": "50242822",
-      "headline": "St. Louis City beats Columbus in Open Cup final for club's first trophy",
-      "description": "St. Louis City won the first trophy in the club's history on Wednesday after defeating Columbus Crew on penalties to lift the U.S. Open Cup.",
-      "published": "2026-10-22T04:46:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50242822/st-louis-city-beats-columbus-open-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734362_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina",
-        "USA"
+        "Argentina"
       ],
       "players": [
         "Júnior Alonso"
       ],
-      "score": 140
+      "score": 142
+    },
+    {
+      "id": "50245408",
+      "headline": "Mourinho made Real Madrid-Barcelona Clásico rivalry unmissable. Now, he's back for more",
+      "description": "Thirteen years after helping turn soccer's biggest rivalry into must-see chaos, Real Madrid coach José Mourinho returns to face Barcelona in El Clásico with something to prove",
+      "published": "2026-10-22T09:29:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50245408/jose-mourinho-el-clasico-unmissable-real-madrid-barcelona-guardiola-messi-ronaldo",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734418_2_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50245909",
+      "headline": "Carling Knockout round of 16 - Fixtures, kick-off times, format, how to watch",
+      "description": "South Africa's Carling Knockout Cup will kick off on Saturday, with all 16 Premiership teams playing their first matches in this edition of the single-leg knockout tournament between then and Wednesday.",
+      "published": "2026-10-22T07:09:37Z",
+      "url": "https://www.espn.com/espn/story/_/id/50245909/carling-knockout-round-16-fixtures-kick-s-format-how-watch",
+      "image": "https://a.espncdn.com/photo/2025/0204/r1447329_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "South Africa"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 138
+    },
+    {
+      "id": "50246580",
+      "headline": "Declan Rice: Harry Kane 'deserves' Ballon d'Or: 'It's his time'",
+      "description": "Declan Rice has backed England teammate Harry Kane to win the Ballon d'Or on Monday, saying it's \"his time.\"",
+      "published": "2026-10-22T09:08:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50246580/declan-rice-harry-kane-deserves-ballon-dor",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734417_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Harry Kane",
+        "Declan Rice",
+        "Júnior Alonso"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50246174",
+      "headline": "Youri Tielemans: 'Everything was missing' in Man United's loss to Como",
+      "description": "Youri Tielemans admitted \"everything was missing\" in Manchester United's humiliating defeat to Como.",
+      "published": "2026-10-22T07:59:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50246174/youri-tielemans-everything-missing-man-united-loss-como",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734412_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Youri Tielemans",
+        "Júnior Alonso"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50241680",
+      "headline": "2027 World Cup teams ranked: All 49 national teams that can win next summer",
+      "description": "There are 49 national teams that could win the FIFA Women's World Cup next summer. With only four international breaks left before the tournament, we rank them all.",
+      "published": "2026-10-22T07:48:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50241680/2027-world-cup-teams-ranked-49-womens-national-teams-win-next-summer-brazil",
+      "image": "https://a.espncdn.com/photo/2026/1021/r1734265_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA",
+        "England",
+        "Spain",
+        "Mexico",
+        "France",
+        "Germany",
+        "Brazil"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50239096",
+      "headline": "Who are Como? The vacation-destination club that just rocked Man United",
+      "description": "Seven years ago, Como were a team of amateurs. Now they're a Champions League club with a brand born from the city's reputation as a holiday hotspot.",
+      "published": "2026-10-22T07:47:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/1021/r1734022_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50245904",
+      "headline": "UEFA Champions League stats: Nico Paz youngest since Lionel Messi, Harry Kane one behind Cristiano Ronaldo",
+      "description": "ESPN brings you the best stats from matchweek 3 of the 2026-27 UEFA Champions League.",
+      "published": "2026-10-22T07:31:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50245904/uefa-champions-league-2026-27-ucl-stats-nico-paz-lionel-messi-harry-kane-cristiano-ronaldo",
+      "image": "https://a.espncdn.com/photo/2026/1021/r1733999_608x342_16-9.jpg",
+      "byline": "Anirudh Menon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 130
     },
     {
       "id": "50226152",
@@ -83,92 +199,7 @@
         "Lionel Messi",
         "Rodrigo De Paul"
       ],
-      "score": 137
-    },
-    {
-      "id": "50242608",
-      "headline": "Valverde and Güler show why they'll be key for Madrid in Sunday's Clásico",
-      "description": "Kylian Mbappé has warned that \"not much\" should be read into Madrid's dismantling of RB Leipzig ahead of Sunday's Clásico, but Jose Mourinho is surely starting to figure out who his best XI is.",
-      "published": "2026-10-21T23:50:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50242608/valverde-guler-show-why-theyll-key-madrid-sundays-clasico",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734261_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Federico Valverde",
-        "Arda Güler",
-        "Júnior Alonso"
-      ],
-      "score": 134
-    },
-    {
-      "id": "50242239",
-      "headline": "In-the-dark Kane trying not to 'stress' over Monday's Ballon d'Or reveal",
-      "description": "Bayern striker Harry Kane said he would prefer to know ahead of time whether he has won the Ballon D'Or, adding he is still in the dark over Monday's decision.",
-      "published": "2026-10-21T23:34:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50242239/kane-trying-stress-monday-ballon-dor",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734228_1024x576_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Harry Kane",
-        "Júnior Alonso"
-      ],
-      "score": 134
-    },
-    {
-      "id": "43810752",
-      "headline": "Who has the most Champions League goals, assists all time?",
-      "description": "Cristiano Ronaldo leads the Champions League in all-time goals and assists. Check out which other soccer stars are behind him.",
-      "published": "2026-10-22T04:13:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/43810752/who-most-champions-league-goals-assists-all",
-      "image": "https://a.espncdn.com/photo/2018/0411/r355065_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Lionel Messi",
-        "Neymar",
-        "Ángel Di María",
-        "Robert Lewandowski",
-        "Karim Benzema",
-        "Thomas Müller",
-        "Kevin De Bruyne",
-        "Mohamed Salah",
-        "Júnior Alonso"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50239980",
-      "headline": "Champions League talking points: What to make of the Man Utd mess",
-      "description": "Gab Marcotti, Sam Tighe, Beth Lindop and Mark Ogden weigh in on an extremely embarrassing night for Man United, plus all the other moments that mattered from Matchday 3.",
-      "published": "2026-10-22T00:44:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50239980/champions-league-talking-points-make-man-utd-mess",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734287_1296x729_16-9.jpg",
-      "byline": "Multiple contributors",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 127
+      "score": 130
     },
     {
       "id": "50225613",
@@ -184,44 +215,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 127
-    },
-    {
-      "id": "50242645",
-      "headline": "'Delighted' Aston Villa relishing UCL challenge after 3rd straight win",
-      "description": "Aston Villa boss Unai Emery believes the confidence of his players is improving after they continued their impressive start to the Champions League campaign with a 3-1 victory over Viking.",
-      "published": "2026-10-21T23:48:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50242645/aston-villa-uefa-champions-league-2026-viking-unai-emery",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734257_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50242382",
-      "headline": "Jamie Carragher slams Bruno Fernandes for Michael Carrick criticism: 'Absolute disgrace'",
-      "description": "Carragher was scathing in his criticism of Fernandes after the midfielder appeared to criticise Carrick's tactics in Man United's defeat to Como.",
-      "published": "2026-10-21T23:14:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50242382/jamie-carragher-slams-bruno-fernandes-michael-carrick-criticism-absolute-disgrace-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734239_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Bruno Fernandes",
-        "Júnior Alonso"
-      ],
-      "score": 125
+      "score": 120
     },
     {
       "id": "50114003",
@@ -250,7 +244,7 @@
         "USA"
       ],
       "players": [],
-      "score": 112
+      "score": 105
     },
     {
       "id": "50171167",
@@ -264,7 +258,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 81
+      "score": 73
     },
     {
       "id": "50197782",
