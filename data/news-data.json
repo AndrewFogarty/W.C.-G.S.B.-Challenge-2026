@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-22T00:12:13.491Z",
+  "updated": "2026-10-22T04:53:32.064Z",
   "counts": {
-    "news": 37,
+    "news": 35,
+    "injury": 1,
+    "celebration": 3,
     "preview": 3,
-    "celebration": 2,
     "offfield": 6
   },
   "items": [
@@ -22,7 +23,46 @@
         "Japan"
       ],
       "players": [],
-      "score": 196
+      "score": 189
+    },
+    {
+      "id": "50243891",
+      "headline": "St. Louis GK Bürki stretchered off after collision in Open Cup final",
+      "description": "St. Louis goalkeeper Roman Bürki was taken to the hospital after taking a knock to the head during the U.S. Open Cup final against the Columbus Crew.",
+      "published": "2026-10-22T04:44:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50243891/st-louis-gk-burki-stretchered-collision-open-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734322_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Roman Bürki",
+        "Júnior Alonso"
+      ],
+      "score": 147
+    },
+    {
+      "id": "50242822",
+      "headline": "St. Louis City beats Columbus in Open Cup final for club's first trophy",
+      "description": "St. Louis City won the first trophy in the club's history on Wednesday after defeating Columbus Crew on penalties to lift the U.S. Open Cup.",
+      "published": "2026-10-22T04:46:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50242822/st-louis-city-beats-columbus-open-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734362_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 140
     },
     {
       "id": "50226152",
@@ -43,7 +83,7 @@
         "Lionel Messi",
         "Rodrigo De Paul"
       ],
-      "score": 144
+      "score": 137
     },
     {
       "id": "50242608",
@@ -63,7 +103,7 @@
         "Arda Güler",
         "Júnior Alonso"
       ],
-      "score": 141
+      "score": 134
     },
     {
       "id": "50242239",
@@ -83,7 +123,52 @@
         "Harry Kane",
         "Júnior Alonso"
       ],
-      "score": 141
+      "score": 134
+    },
+    {
+      "id": "43810752",
+      "headline": "Who has the most Champions League goals, assists all time?",
+      "description": "Cristiano Ronaldo leads the Champions League in all-time goals and assists. Check out which other soccer stars are behind him.",
+      "published": "2026-10-22T04:13:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/43810752/who-most-champions-league-goals-assists-all",
+      "image": "https://a.espncdn.com/photo/2018/0411/r355065_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Neymar",
+        "Ángel Di María",
+        "Robert Lewandowski",
+        "Karim Benzema",
+        "Thomas Müller",
+        "Kevin De Bruyne",
+        "Mohamed Salah",
+        "Júnior Alonso"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50239980",
+      "headline": "Champions League talking points: What to make of the Man Utd mess",
+      "description": "Gab Marcotti, Sam Tighe, Beth Lindop and Mark Ogden weigh in on an extremely embarrassing night for Man United, plus all the other moments that mattered from Matchday 3.",
+      "published": "2026-10-22T00:44:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50239980/champions-league-talking-points-make-man-utd-mess",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734287_1296x729_16-9.jpg",
+      "byline": "Multiple contributors",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 127
     },
     {
       "id": "50225613",
@@ -99,7 +184,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 134
+      "score": 127
     },
     {
       "id": "50242645",
@@ -117,27 +202,7 @@
       "players": [
         "Júnior Alonso"
       ],
-      "score": 132
-    },
-    {
-      "id": "50242047",
-      "headline": "Mbappé and Diomande delight, Vinícius Jr. whistled in Real Madrid win",
-      "description": "José Mourinho said Real Madrid's fans \"went home happy\" thanks to stunning goals from Yan Diomande and Kylian Mbappé in the team's 4-1 win over RB Leipzig on Wednesday.",
-      "published": "2026-10-21T23:19:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50242047/real-madrid-rb-leipzig-yan-diomande-kylian-mbappe-vinicius-jr",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734202_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Kylian Mbappé",
-        "Yan Diomande",
-        "Júnior Alonso"
-      ],
-      "score": 132
+      "score": 125
     },
     {
       "id": "50242382",
@@ -156,61 +221,7 @@
         "Bruno Fernandes",
         "Júnior Alonso"
       ],
-      "score": 132
-    },
-    {
-      "id": "50241594",
-      "headline": "Star attackers might not be needed for Arsenal to win Champions League",
-      "description": "Declan Rice and Arsenal's resilience was on display in Munich, countering the notion that an elite addition to their forward line is a necessity.",
-      "published": "2026-10-21T22:42:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50241594/star-attackers-not-needed-arsenal-win-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734167_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50242200",
-      "headline": "Moreno praises Kane's 'outstanding' performance vs. Arsenal",
-      "description": "Moreno praises Kane's 'outstanding' performance vs. Arsenal",
-      "published": "2026-10-21T22:31:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/50242200/moreno-praises-kane-outstanding-performance-vs-arsenal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_COM_SOC_Analysis_Moreno_praises_KaneE2801111/dm_261021_COM_SOC_Analysis_Moreno_praises_KaneE2801111.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50242207",
-      "headline": "Was Bruno Fernandes wrong to 'criticize' Michael Carrick?",
-      "description": "Was Bruno Fernandes wrong to 'criticize' Michael Carrick?",
-      "published": "2026-10-21T22:30:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/50242207/was-bruno-fernandes-wrong-criticize-michael-carrick",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_COM_SOC_Analysis_Was_Bruno_Fernandes_wrong_to_E28098criticizeE28099_Michael_Carrick3F__GLOBAL_2026-10-21/dm_261021_COM_SOC_Analysis_Was_Bruno_Fernandes_wrong_to_E28098criticizeE28099_Michael_Carrick3F__GLOBAL_2026-10-21.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 130
+      "score": 125
     },
     {
       "id": "50114003",
@@ -239,7 +250,7 @@
         "USA"
       ],
       "players": [],
-      "score": 119
+      "score": 112
     },
     {
       "id": "50171167",
@@ -253,7 +264,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 88
+      "score": 81
     },
     {
       "id": "50197782",
