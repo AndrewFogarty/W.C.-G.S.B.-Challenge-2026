@@ -1,13 +1,27 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-22T09:50:18.008Z",
+  "updated": "2026-10-22T14:43:37.294Z",
   "counts": {
-    "news": 36,
-    "offfield": 7,
-    "preview": 3,
-    "celebration": 2
+    "news": 38,
+    "preview": 2,
+    "celebration": 2,
+    "offfield": 6
   },
   "items": [
+    {
+      "id": "50247013",
+      "headline": "AFC president unclear on backing for Infantino's FIFA reelection",
+      "description": "The president of the AFC gave no hint Thursday about the body's support or opposition to the reelection of Gianni Infantino as FIFA president.",
+      "published": "2026-10-22T10:29:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50247013/afc-president-unclear-support-infantino-fifa-reelection",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697947_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 200
+    },
     {
       "id": "50237763",
       "headline": "Premier League best place to develop Japanese talent - Japan FA chief",
@@ -22,34 +36,16 @@
         "Japan"
       ],
       "players": [],
-      "score": 181
+      "score": 164
     },
     {
-      "id": "50245989",
-      "headline": "Transfer rumors, news: Man United consider defensive clearout in summer",
-      "description": "Manchester United are considering refreshing their back four, with three senior defender's contracts up at the end of the season. Transfer Talk has the latest.",
-      "published": "2026-10-22T07:45:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734411_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50245408",
-      "headline": "Mourinho made Real Madrid-Barcelona Clásico rivalry unmissable. Now, he's back for more",
-      "description": "Thirteen years after helping turn soccer's biggest rivalry into must-see chaos, Real Madrid coach José Mourinho returns to face Barcelona in El Clásico with something to prove",
-      "published": "2026-10-22T09:29:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50245408/jose-mourinho-el-clasico-unmissable-real-madrid-barcelona-guardiola-messi-ronaldo",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734418_2_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
+      "id": "50247061",
+      "headline": "José Mourinho complains Real Madrid have 24 hours less rest than Barcelona ahead of El Clásico",
+      "description": "Real Madrid coach José Mourinho was keen to point out after his side's win over Leipzig that his team will have 24 hours less rest than Sunday's rivals Barcelona heading into the Clásico.",
+      "published": "2026-10-22T10:31:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50247061/jose-mourinho-real-madrid-barcelona-el-clasico-less-rest",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734427_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
@@ -58,55 +54,70 @@
       "players": [
         "Júnior Alonso"
       ],
-      "score": 141
+      "score": 136
     },
     {
-      "id": "50245909",
-      "headline": "Carling Knockout round of 16 - Fixtures, kick-off times, format, how to watch",
-      "description": "South Africa's Carling Knockout Cup will kick off on Saturday, with all 16 Premiership teams playing their first matches in this edition of the single-leg knockout tournament between then and Wednesday.",
-      "published": "2026-10-22T07:09:37Z",
-      "url": "https://www.espn.com/espn/story/_/id/50245909/carling-knockout-round-16-fixtures-kick-s-format-how-watch",
-      "image": "https://a.espncdn.com/photo/2025/0204/r1447329_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "South Africa"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 138
-    },
-    {
-      "id": "50246580",
-      "headline": "Declan Rice: Harry Kane 'deserves' Ballon d'Or: 'It's his time'",
-      "description": "Declan Rice has backed England teammate Harry Kane to win the Ballon d'Or on Monday, saying it's \"his time.\"",
-      "published": "2026-10-22T09:08:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50246580/declan-rice-harry-kane-deserves-ballon-dor",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734417_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50247830",
+      "headline": "Bruno Guimarães: I had sleepless nights over Arsenal move",
+      "description": "Bruno Guimarães has admitted he had sleepless nights over his decision to leave Newcastle United for Arsenal.",
+      "published": "2026-10-22T14:01:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50247830/bruno-guimaraes-sleepless-nights-arsenal-move",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734469_1296x729_16-9.jpg",
+      "byline": "James Olley",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "England"
+        "Argentina"
       ],
       "players": [
-        "Harry Kane",
-        "Declan Rice",
+        "Bruno Guimarães",
         "Júnior Alonso"
       ],
       "score": 132
     },
     {
-      "id": "50246174",
-      "headline": "Youri Tielemans: 'Everything was missing' in Man United's loss to Como",
-      "description": "Youri Tielemans admitted \"everything was missing\" in Manchester United's humiliating defeat to Como.",
-      "published": "2026-10-22T07:59:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50246174/youri-tielemans-everything-missing-man-united-loss-como",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734412_1296x729_16-9.jpg",
+      "id": "50248787",
+      "headline": "Fabregas told Como 'not to run' against Manchester United",
+      "description": "Fabregas told Como 'not to run' against Manchester United",
+      "published": "2026-10-22T13:55:57Z",
+      "url": "https://www.espn.com/video/clip/_/id/50248787/fabregas-told-como-not-run-manchester-united",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Fabregas_told_Como_not_to_run_against_Manchester_United/dm_261022_Fabregas_told_Como_not_to_run_against_Manchester_United.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50248209",
+      "headline": "English non-league side Banbury United apologise over 'beyond acceptable' strip show",
+      "description": "English non-league football club Banbury United have apologised after a male strip show held at their clubhouse went beyond what they considered \"acceptable.\"",
+      "published": "2026-10-22T12:44:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50248209/banbury-apologise-strip-show",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734482_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50248040",
+      "headline": "Enzo Maresca: 'It's my duty' to help Phil Foden rediscover best Man City form",
+      "description": "Manchester City boss Enzo Maresca feels a duty to help Phil Foden return to his best.",
+      "published": "2026-10-22T12:43:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50248040/enzo-maresca-phil-foden-rediscover-best-man-city-form",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734473_1215x683_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
@@ -114,44 +125,19 @@
         "Argentina"
       ],
       "players": [
-        "Youri Tielemans",
+        "Phil Foden",
         "Júnior Alonso"
       ],
       "score": 130
     },
     {
-      "id": "50241680",
-      "headline": "2027 World Cup teams ranked: All 49 national teams that can win next summer",
-      "description": "There are 49 national teams that could win the FIFA Women's World Cup next summer. With only four international breaks left before the tournament, we rank them all.",
-      "published": "2026-10-22T07:48:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50241680/2027-world-cup-teams-ranked-49-womens-national-teams-win-next-summer-brazil",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734265_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA",
-        "England",
-        "Spain",
-        "Mexico",
-        "France",
-        "Germany",
-        "Brazil"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50239096",
-      "headline": "Who are Como? The vacation-destination club that just rocked Man United",
-      "description": "Seven years ago, Como were a team of amateurs. Now they're a Champions League club with a brand born from the city's reputation as a holiday hotspot.",
-      "published": "2026-10-22T07:47:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734022_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
+      "id": "50247630",
+      "headline": "Cesc Fàbregas: I told Como players to 'slow down' in closing stages of Man United win",
+      "description": "Como head coach Cesc Fàbregas said he regrets telling his players to ease off towards the end of their famous 4-1 win against misfiring Manchester United.",
+      "published": "2026-10-22T11:25:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50247630/cesc-fabregas-como-slow-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734457_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -160,16 +146,16 @@
       "players": [
         "Júnior Alonso"
       ],
-      "score": 130
+      "score": 128
     },
     {
-      "id": "50245904",
-      "headline": "UEFA Champions League stats: Nico Paz youngest since Lionel Messi, Harry Kane one behind Cristiano Ronaldo",
-      "description": "ESPN brings you the best stats from matchweek 3 of the 2026-27 UEFA Champions League.",
-      "published": "2026-10-22T07:31:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50245904/uefa-champions-league-2026-27-ucl-stats-nico-paz-lionel-messi-harry-kane-cristiano-ronaldo",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1733999_608x342_16-9.jpg",
-      "byline": "Anirudh Menon",
+      "id": "50247189",
+      "headline": "Who is to blame at Manchester United?",
+      "description": "Who is to blame at Manchester United?",
+      "published": "2026-10-22T10:28:31Z",
+      "url": "https://www.espn.com/video/clip/_/id/50247189/who-blame-manchester-united",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Who_is_to_blame_at_Manchester_United/dm_261022_Who_is_to_blame_at_Manchester_United.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -178,7 +164,25 @@
       "players": [
         "Júnior Alonso"
       ],
-      "score": 130
+      "score": 127
+    },
+    {
+      "id": "50247083",
+      "headline": "Man United players get Thursday day off despite Como thrashing - sources",
+      "description": "Manchester United's first-team squad will report back for training on Friday after being given a day off today following the humiliating 4-1 Champions League defeat against Como, sources have told ESPN.",
+      "published": "2026-10-22T10:20:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50247083/man-united-players-day-como-thrashing",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734431_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 126
     },
     {
       "id": "50226152",
@@ -199,7 +203,7 @@
         "Lionel Messi",
         "Rodrigo De Paul"
       ],
-      "score": 130
+      "score": 113
     },
     {
       "id": "50225613",
@@ -215,7 +219,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 120
+      "score": 102
     },
     {
       "id": "50114003",
@@ -244,7 +248,7 @@
         "USA"
       ],
       "players": [],
-      "score": 105
+      "score": 98
     },
     {
       "id": "50171167",
@@ -258,7 +262,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 73
+      "score": 66
     },
     {
       "id": "50197782",
@@ -272,7 +276,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 56
+      "score": 46
     },
     {
       "id": "50195091",
@@ -290,7 +294,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 53
+      "score": 43
     },
     {
       "id": "50194991",
@@ -309,25 +313,7 @@
       "players": [
         "Lautaro Martínez"
       ],
-      "score": 50
-    },
-    {
-      "id": "50194882",
-      "headline": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
-      "description": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
-      "published": "2026-10-16T08:59:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/50194882/mourinho-adopting-victim-mentality-following-vinicius-junior-suspension",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Vinícius Júnior"
-      ],
-      "score": 33
+      "score": 40
     },
     {
       "id": "50156783",
@@ -365,6 +351,24 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "50194882",
+      "headline": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
+      "description": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
+      "published": "2026-10-16T08:59:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/50194882/mourinho-adopting-victim-mentality-following-vinicius-junior-suspension",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Vinícius Júnior"
+      ],
+      "score": 23
     },
     {
       "id": "50182058",
@@ -463,20 +467,6 @@
       "teams": [],
       "players": [],
       "score": 18
-    },
-    {
-      "id": "50189352",
-      "headline": "Gianni Infantino 'not fit to be FIFA president' without answers - FA chair",
-      "description": "Football Association chair Debbie Hewitt says Gianni Infantino is \"not fit to be FIFA president\" if he does not answer questions about his World Cup private investor plan or the Folarin Balogun case.",
-      "published": "2026-10-15T22:14:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
     },
     {
       "id": "47978642",
@@ -825,22 +815,6 @@
       "score": 10
     },
     {
-      "id": "50003632",
-      "headline": "De la Fuente: The best is yet to come for the Spanish national team",
-      "description": "De la Fuente: The best is yet to come for the Spanish national team",
-      "published": "2026-09-22T07:55:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/50003632/best-yet-come-spanish-national-team",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
       "id": "50074316",
       "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
       "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
@@ -866,6 +840,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg",
       "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50189352",
+      "headline": "Gianni Infantino 'not fit to be FIFA president' without answers - FA chair",
+      "description": "Football Association chair Debbie Hewitt says Gianni Infantino is \"not fit to be FIFA president\" if he does not answer questions about his World Cup private investor plan or the Folarin Balogun case.",
+      "published": "2026-10-15T22:14:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
