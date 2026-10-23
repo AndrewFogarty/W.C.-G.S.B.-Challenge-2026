@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-23T15:12:55.042Z",
+  "updated": "2026-10-23T19:19:00.319Z",
   "counts": {
     "news": 35,
-    "offfield": 6,
+    "offfield": 7,
     "preview": 4,
-    "celebration": 3
+    "celebration": 2
   },
   "items": [
     {
@@ -25,13 +25,13 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 206
+      "score": 199
     },
     {
       "id": "50255102",
       "headline": "Asian football chief backs Gianni Infantino for another term as FIFA president",
       "description": "The Asian Football Confederation endorsed Gianni Infantino on Friday for a fourth term as FIFA president.",
-      "published": "2026-10-23T05:13:45Z",
+      "published": "2026-10-23T16:00:55Z",
       "url": "https://www.espn.com/soccer/story/_/id/50255102/asian-football-confederation-backs-gianni-infantino-term-fifa",
       "image": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg",
       "byline": "Associated Press",
@@ -39,27 +39,103 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 181
+      "score": 191
     },
     {
-      "id": "50249819",
-      "headline": "Musah is back in Milan, back in midfield and back in contention for the USMNT",
-      "description": "Last year, on loan at Atalanta, Yunus Musah wasn't playing much, certainly not in his preferred midfield role. Now back at Milan, that's all changed.",
-      "published": "2026-10-23T13:59:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50249819/yunus-musah-back-ac-milan-back-midfield-back-contention-usmnt",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734554_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
+      "id": "50259678",
+      "headline": "AC Milan condemn racist abuse of Mike Maignan after red card vs. Bournemouth",
+      "description": "AC Milan have condemned what they called \"serious and unacceptable racist abuse\" directed at goalkeeper Mike Maignan on social media following his red card in Thursday's Europa League loss to Bournemouth.",
+      "published": "2026-10-23T19:08:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50259678/ac-milan-mike-maignan-red-card-racist-abuse-bournemouth",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1735121_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Argentina",
-        "USA"
+        "France"
       ],
       "players": [
-        "Yunus Musah",
+        "Mike Maignan",
         "Lionel Messi"
       ],
-      "score": 143
+      "score": 145
+    },
+    {
+      "id": "50255747",
+      "headline": "Transfer rumors, news: Barcelona to end up signing Sullivan?",
+      "description": "Cavan Sullivan has a pre-contract agreement with Manchester City, but could Barcelona swoop up and sign the young American prospect? Transfer Talk has the latest.",
+      "published": "2026-10-23T18:39:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1735106_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Cavan Sullivan",
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50258856",
+      "headline": "Rodri: Barcelona won't be 'fooled' by Madrid's form ahead of Clásico",
+      "description": "Barcelona midfielder Rodri isn't \"fooled\" by Real Madrid's form heading into his first Clásico on Sunday.",
+      "published": "2026-10-23T18:34:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50258856/rodri-barcelona-not-fooled-real-madrid-form-clasico",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1716935_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Rodri",
+        "Gavi",
+        "Pau Cubarsí",
+        "Lionel Messi"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50259618",
+      "headline": "Barcelona's Gavi and Cubarsi preview Sunday's crunch El Clásico",
+      "description": "Barcelona's Gavi and Cubarsi preview Sunday's crunch El Clásico",
+      "published": "2026-10-23T18:31:43Z",
+      "url": "https://www.espn.com/video/clip/_/id/50259618/barcelona-gavi-cubarsi-preview-sunday-crunch-el-clasico",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_COM_SOC_Analysis_BarcelonaE28099s_Gavi_a871/dm_261023_COM_SOC_Analysis_BarcelonaE28099s_Gavi_a871.jpg",
+      "byline": null,
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50258779",
+      "headline": "Messi Cup 2026: How to watch in the UK, who is taking part, when and what is it?",
+      "description": "The second edition of the Messi Cup is almost here. Here's everything you need to know about the tournament.",
+      "published": "2026-10-23T17:02:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50258779/messi-cup-2026-how-watch-uk-taking-part-it",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1735011_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 139
     },
     {
       "id": "50247013",
@@ -73,90 +149,55 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 143
+      "score": 137
     },
     {
-      "id": "50257430",
-      "headline": "Carrick refuses to rule out dropping Bruno Fernandes for Man United clash with Bournemouth",
-      "description": "Michael Carrick has refused to rule out dropping Bruno Fernandes for Bournemouth's visit to Old Trafford on Sunday after the Manchester United captain appeared to criticise his tactics following the defeat to Como.",
-      "published": "2026-10-23T14:29:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50257430/carrick-refuses-rule-dropping-bruno-fernandes-man-united-clash-bournemouth",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734239_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "46751020",
+      "headline": "Cristiano Ronaldo goal tracker: Road to 1,000 career goals",
+      "description": "With Cristiano Ronaldo on the quest to score 1,000 goals, ESPN provides goal-by-goal analysis of the Portuguese superstar's quest.",
+      "published": "2026-10-23T19:06:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730071_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50259002",
+      "headline": "Miami coach praises Messi's 'commitment' to play after award in Spain",
+      "description": "Inter Miami head coach Cristian \"Kily\" Gonzalez confirmed Lionel Messi will rejoin the team for the match against the New York Red Bulls on Saturday after receiving the Princess of Asturias award for sport in Oviedo, Spain.",
+      "published": "2026-10-23T17:33:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50259002/lionel-messi-inter-miami-red-bulls-princess-asturias-award",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1735071_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 141
+      "score": 130
     },
     {
-      "id": "50258264",
-      "headline": "Man United boss Michael Carrick gives emotional address to media",
-      "description": "Man United boss Michael Carrick gives emotional address to media",
-      "published": "2026-10-23T15:12:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/50258264/man-united-boss-michael-carrick-gives-emotional-address-media",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_COM_SOC_PRESSER_Man_United_boss_Michael_Carrick_gives_emotional_address_to_media_2026_10_23/dm_261023_COM_SOC_PRESSER_Man_United_boss_Michael_Carrick_gives_emotional_address_to_media_2026_10_23.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 140
-    },
-    {
-      "id": "50257348",
-      "headline": "Tchouaméni: 'There was no fight' in Real Madrid dressing room with Valverde",
-      "description": "Real Madrid midfielder Aurélien Tchouaméni has claimed last season's dressing room clash with teammate Federico Valverde was \"a minor thing.\"",
-      "published": "2026-10-23T13:53:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50257348/tchouameni-real-madrid-incident-valverde-no-fight",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654811_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Aurélien Tchouaméni",
-        "Federico Valverde",
-        "Lionel Messi"
-      ],
-      "score": 140
-    },
-    {
-      "id": "50257324",
-      "headline": "Michael Carrick: Under-pressure Man United boss '100%' backs himself amid tension",
-      "description": "Manchester United head coach Michael Carrick started his news conference with a speech that lasted more than five minutes as he tried to rally his players ahead of the crucial Premier League clash against Bournemouth.",
-      "published": "2026-10-23T13:35:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50257324/michael-carrick-pressure-man-united-boss-backs-amid-tension",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1734977_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 140
-    },
-    {
-      "id": "50258030",
-      "headline": "Tottenham's Roberto De Zerbi denies Chelsea raids of former club Brighton are extra motivation for derby",
-      "description": "Roberto De Zerbi has hinted at his frustration over Chelsea's frequent raids of former club Brighton but insisted he has no extra motivation when Tottenham visit Stamford Bridge on Saturday.",
-      "published": "2026-10-23T14:34:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50258030/roberto-de-zerbi-tottenham-chelsea-derby-brighton-team-news-injury-news",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1734999_1296x729_16-9.jpg",
-      "byline": "James Olley",
+      "id": "50258850",
+      "headline": "Bayern Munich coach Vincent Kompany hospitalized after collapsing at training",
+      "description": "Bayern Munich coach Vincent Kompany is undergoing tests in hospital after collapsing during a training session Friday, the German club confirmed.",
+      "published": "2026-10-23T17:15:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50258850/bayern-munich-coach-vincent-kompany-hospital-training",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1735057_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -165,44 +206,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 132
-    },
-    {
-      "id": "50257787",
-      "headline": "Dortmund's new app rewards fans who lock phones while at stadium",
-      "description": "Dortmund are offering signed jerseys and gift cards for club merchandise to fans who use an app which measures how often they unlock their phones.",
-      "published": "2026-10-23T14:15:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50257787/borussia-dortmund-app-rewards-fans-lock-phones-stadium",
-      "image": "https://a.espncdn.com/photo/2026/0224/r1619478_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50257971",
-      "headline": "Liverpool's Andoni Iraola urges Rio Ngumoha not to be distracted by 'outside noise'",
-      "description": "Liverpool boss Andoni Iraola has urged Rio Ngumoha not to be distracted by the outside noise following his impressive performance against Villarreal.",
-      "published": "2026-10-23T14:14:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50257971/liverpool-andoni-iraola-urges-rio-ngumoha-not-distracted-noise",
-      "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Rio Ngumoha",
-        "Lionel Messi"
-      ],
-      "score": 132
+      "score": 130
     },
     {
       "id": "50237763",
@@ -218,7 +222,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 107
+      "score": 101
     },
     {
       "id": "50114003",
@@ -247,7 +251,7 @@
         "USA"
       ],
       "players": [],
-      "score": 61
+      "score": 55
     },
     {
       "id": "50226152",
@@ -268,7 +272,7 @@
         "Lionel Messi",
         "Rodrigo De Paul"
       ],
-      "score": 56
+      "score": 53
     },
     {
       "id": "50225613",
@@ -284,21 +288,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 45
-    },
-    {
-      "id": "50171167",
-      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
-      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
-      "published": "2026-10-20T22:37:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 29
+      "score": 40
     },
     {
       "id": "50197782",
@@ -350,6 +340,20 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "50171167",
+      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
+      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
+      "published": "2026-10-20T22:37:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 23
     },
     {
       "id": "50195091",
