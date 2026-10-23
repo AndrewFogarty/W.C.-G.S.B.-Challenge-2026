@@ -1,13 +1,27 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-22T22:03:18.836Z",
+  "updated": "2026-10-23T05:21:19.551Z",
   "counts": {
-    "news": 36,
-    "offfield": 8,
-    "celebration": 3,
-    "preview": 1
+    "news": 38,
+    "preview": 2,
+    "celebration": 2,
+    "offfield": 6
   },
   "items": [
+    {
+      "id": "50255102",
+      "headline": "Asian football chief backs Gianni Infantino for another term as FIFA president",
+      "description": "The Asian Football Confederation endorsed Gianni Infantino on Friday for a fourth term as FIFA president.",
+      "published": "2026-10-23T05:13:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50255102/asian-football-confederation-backs-gianni-infantino-term-fifa",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 206
+    },
     {
       "id": "50247013",
       "headline": "AFC president unclear on backing for Infantino's FIFA reelection",
@@ -20,7 +34,25 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 189
+      "score": 168
+    },
+    {
+      "id": "50255233",
+      "headline": "Estudiantes edge Flamengo on penalties, will face Palmeiras in Libertadores final",
+      "description": "",
+      "published": "2026-10-23T04:41:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50255233/muslera-penalty-heroics-estudiantes-libertadores-final-flamengo",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1734907_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 141
     },
     {
       "id": "50237763",
@@ -36,71 +68,54 @@
         "Japan"
       ],
       "players": [],
-      "score": 153
+      "score": 132
     },
     {
-      "id": "50192298",
-      "headline": "Crystal Palace forced to settle for draw at 10-man Besiktas",
-      "description": "Jean-Philippe Mateta scored on his first start since the opening day but Crystal Palace could not capitalise on a Besiktas red card to produce a winner in their 2-2 Europa League draw in Istanbul.",
-      "published": "2026-10-22T21:34:00Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915553",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734735_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50255227",
+      "headline": "Baylor vs. Arizona St.: Game Highlights",
+      "description": "Baylor vs. Arizona St.: Game Highlights",
+      "published": "2026-10-23T04:16:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/50255227/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/a3520e80-f8e0-4288-9049-6f2320b1a4f0/a3520e80-f8e0-4288-9049-6f2320b1a4f0.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Júnior Alonso"
       ],
-      "score": 144
+      "score": 131
     },
     {
-      "id": "50245989",
-      "headline": "Transfer rumors, news: Arsenal want £55M in any Gyökeres deal",
-      "description": "Arsenal has set their valuation for Viktor Gyökeres' transfer fee if the striker does depart in the next year. Transfer Talk has the latest.",
-      "published": "2026-10-22T20:14:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734700_1296x729_16-9.jpg",
+      "id": "47276683",
+      "headline": "FIFA Women's Top 50 World Rankings: October 2026",
+      "description": "As of late October, Spain, USA, and Germany are leading the FIFA women's world rankings. Check out the rest of the top 50 breakdown now.",
+      "published": "2026-10-23T03:57:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47276683/fifa-womens-top-50-world-rankings",
+      "image": "https://a.espncdn.com/photo/2025/1211/r1588115_608x342_16-9.jpg",
       "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Viktor Gyökeres",
-        "Júnior Alonso"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50252034",
-      "headline": "Bournemouth fairytale condemns Ruben Amorim to another nightmare in England",
-      "description": "Bournemouth never wanted this night to end. Ruben Amorim, however, would be happy to forget this evening on the south coast ever happened.",
-      "published": "2026-10-22T21:49:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50252034/bournemouth-fairytale-condemns-ruben-amorim-another-nightmare-england-ac-milan",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734745_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina",
-        "England"
+        "USA",
+        "Germany",
+        "Spain"
       ],
       "players": [
         "Júnior Alonso"
       ],
-      "score": 140
+      "score": 131
     },
     {
-      "id": "50252567",
-      "headline": "Should Real Madrid frustrate Barcelona with fouls in El Clásico?",
-      "description": "Should Real Madrid frustrate Barcelona with fouls in El Clásico?",
-      "published": "2026-10-22T21:48:39Z",
-      "url": "https://www.espn.com/video/clip/_/id/50252567/should-real-madrid-frustrate-barcelona-fouls-el-clasico",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Should_Real_Madrid_frustrate_Barcelona_with_fouls_in_El_Clasico/dm_261022_Should_Real_Madrid_frustrate_Barcelona_with_fouls_in_El_Clasico.jpg",
+      "id": "50254859",
+      "headline": "Texas A&M vs. Missouri: Game Highlights",
+      "description": "Texas A&M vs. Missouri: Game Highlights",
+      "published": "2026-10-23T03:16:59Z",
+      "url": "https://www.espn.com/video/clip/_/id/50254859/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/45cc2e7d-534a-40a2-a72c-917a9f56d32d/45cc2e7d-534a-40a2-a72c-917a9f56d32d.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -110,71 +125,15 @@
       "players": [
         "Júnior Alonso"
       ],
-      "score": 133
+      "score": 130
     },
     {
-      "id": "50252435",
-      "headline": "Burley: Carrick should take a stand and drop Fernandes",
-      "description": "Burley: Carrick should take a stand and drop Fernandes",
-      "published": "2026-10-22T21:32:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/50252435/carrick-take-stand-drop-fernandes",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Burley_Carrick_should_take_a_stand_and_drop_Fernandes/dm_261022_Burley_Carrick_should_take_a_stand_and_drop_Fernandes.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Bruno Fernandes",
-        "Júnior Alonso"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50192297",
-      "headline": "Bournemouth notch historic win over Milan after bizarre Maignan red",
-      "description": "Bournemouth scaled giddy new heights in their debut Europa League campaign as 10-man AC Milan were convincingly brushed aside 3-0 at the Vitality Stadium on Thursday.",
-      "published": "2026-10-22T21:21:32Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915552",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734718_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50251373",
-      "headline": "Wayne Rooney: Bruno Fernandes, Man United players acting like 'babies'",
-      "description": "Wayne Rooney has lambasted Manchester United's squad for acting like \"babies\" and urged Bruno Fernandes and Lisandro Martínez to look in the mirror.",
-      "published": "2026-10-22T19:32:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734078_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Bruno Fernandes",
-        "Júnior Alonso"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50192301",
-      "headline": "Brighton held by Jablonec in as winning run ends in Conference League",
-      "description": "Brighton drew a rare blank as they were held to a goalless draw by Czech minnows Jablonec in the Conference League.",
-      "published": "2026-10-22T18:55:31Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915842",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734649_1296x729_16-9.jpg",
+      "id": "50253866",
+      "headline": "Auburn vs. Florida: Game Highlights",
+      "description": "Auburn vs. Florida: Game Highlights",
+      "published": "2026-10-23T01:52:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/50253866/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/cf13e4e2-6d35-43bd-b8b3-a01371b20a64/cf13e4e2-6d35-43bd-b8b3-a01371b20a64.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -185,6 +144,42 @@
         "Júnior Alonso"
       ],
       "score": 128
+    },
+    {
+      "id": "50253906",
+      "headline": "Wake Forest vs. Virginia Tech: Game Highlights",
+      "description": "Wake Forest vs. Virginia Tech: Game Highlights",
+      "published": "2026-10-23T01:18:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/50253906/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/bc3a0194-fc55-4d72-a87c-55860b755ebd/bc3a0194-fc55-4d72-a87c-55860b755ebd.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50253854",
+      "headline": "Clemson vs. Virginia: Game Highlights",
+      "description": "Clemson vs. Virginia: Game Highlights",
+      "published": "2026-10-23T01:11:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/50253854/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/31fc807c-11ef-4fd1-bf18-c2e5124f5086/31fc807c-11ef-4fd1-bf18-c2e5124f5086.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 127
     },
     {
       "id": "50226152",
@@ -205,23 +200,7 @@
         "Lionel Messi",
         "Rodrigo De Paul"
       ],
-      "score": 102
-    },
-    {
-      "id": "50225613",
-      "headline": "Gianni Infantino courts Asian Football Confederation in reelection campaign bid",
-      "description": "Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation.",
-      "published": "2026-10-20T10:51:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
-      "image": "https://a.espncdn.com/photo/2026/1020/r1733302_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Japan"
-      ],
-      "players": [],
-      "score": 91
+      "score": 81
     },
     {
       "id": "50114003",
@@ -250,7 +229,23 @@
         "USA"
       ],
       "players": [],
-      "score": 87
+      "score": 76
+    },
+    {
+      "id": "50225613",
+      "headline": "Gianni Infantino courts Asian Football Confederation in reelection campaign bid",
+      "description": "Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation.",
+      "published": "2026-10-20T10:51:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
+      "image": "https://a.espncdn.com/photo/2026/1020/r1733302_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 70
     },
     {
       "id": "50171167",
@@ -264,7 +259,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 55
+      "score": 44
     },
     {
       "id": "50197782",
@@ -278,7 +273,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 46
+      "score": 36
     },
     {
       "id": "50195091",
@@ -296,7 +291,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 43
+      "score": 33
     },
     {
       "id": "50194991",
@@ -315,7 +310,7 @@
       "players": [
         "Lautaro Martínez"
       ],
-      "score": 40
+      "score": 30
     },
     {
       "id": "50156783",
@@ -353,24 +348,6 @@
         "Folarin Balogun"
       ],
       "score": 25
-    },
-    {
-      "id": "50194882",
-      "headline": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
-      "description": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
-      "published": "2026-10-16T08:59:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/50194882/mourinho-adopting-victim-mentality-following-vinicius-junior-suspension",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Brazil"
-      ],
-      "players": [
-        "Vinícius Júnior"
-      ],
-      "score": 23
     },
     {
       "id": "50182058",
@@ -469,6 +446,24 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50194882",
+      "headline": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
+      "description": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
+      "published": "2026-10-16T08:59:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/50194882/mourinho-adopting-victim-mentality-following-vinicius-junior-suspension",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Brazil"
+      ],
+      "players": [
+        "Vinícius Júnior"
+      ],
+      "score": 13
     },
     {
       "id": "47978642",
@@ -605,27 +600,6 @@
       ],
       "players": [
         "Bruno Guimarães"
-      ],
-      "score": 13
-    },
-    {
-      "id": "50004142",
-      "headline": "Gomez: Jonathan David and Julian Alvarez should play side-by-side",
-      "description": "Gomez: Jonathan David and Julian Alvarez should play side-by-side",
-      "published": "2026-09-22T10:22:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/50004142/jonathan-david-julian-alvarez-play-side-side",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_Gomez_Jonathan_David_and_Julian_Alvarez_should_play_sidebyside/dm_260922_Gomez_Jonathan_David_and_Julian_Alvarez_should_play_sidebyside.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Canada"
-      ],
-      "players": [
-        "Alexander Sørloth",
-        "Jonathan David",
-        "Julián Álvarez"
       ],
       "score": 13
     },
@@ -856,6 +830,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
       "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
       "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50178387",
+      "headline": "FIFA to propose sizable association payout bump from $10M to $25M",
+      "description": "FIFA will propose a $6.35 billion fund to its members for development between 2027 and 2030, including a boosted amount of $25 million for each association.",
+      "published": "2026-10-14T02:48:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50178387/fifa-association-payout-bump-10m-25m",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
