@@ -1,11 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-23T05:21:19.551Z",
+  "updated": "2026-10-23T10:17:41.341Z",
   "counts": {
-    "news": 38,
+    "news": 36,
+    "injury": 1,
+    "offfield": 7,
     "preview": 2,
-    "celebration": 2,
-    "offfield": 6
+    "celebration": 2
   },
   "items": [
     {
@@ -20,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 206
+      "score": 198
     },
     {
       "id": "50247013",
@@ -34,16 +35,55 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 168
+      "score": 160
     },
     {
-      "id": "50255233",
-      "headline": "Estudiantes edge Flamengo on penalties, will face Palmeiras in Libertadores final",
-      "description": "",
-      "published": "2026-10-23T04:41:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50255233/muslera-penalty-heroics-estudiantes-libertadores-final-flamengo",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1734907_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "50255952",
+      "headline": "'If Mo Salah scores three...' - Hearts boss on puzzle to mark Trabzonspor star",
+      "description": "Wouter Vrancken hailed auxiliary left-back Rogers Mato for the way he stepped into the breach against Mohamed Salah as injury-hit Hearts produced a spirited display in a 2-0 Conference League defeat away to Trabzonspor.",
+      "published": "2026-10-23T08:00:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50255952/if-salah-scores-three-hearts-boss-key-conundrum",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702869_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Mohamed Salah",
+        "Rogers Mato",
+        "Júnior Alonso"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50256104",
+      "headline": "Third-longest standing manager in England loses his job",
+      "description": "Bromley boss Andy Woodman has left the Sky Bet League One club after his contract was terminated by mutual consent.",
+      "published": "2026-10-23T09:11:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50256104/third-longest-standing-manager-england-loses-job",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1734929_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50227950",
+      "headline": "Barcelona-Real Madrid: Clásico form, team news, combined XI, predictions, odds",
+      "description": "Let's run through the head-to-head, form, team news, combined XI and key clashes ahead of the 265th edition of El Clásico between Barcelona and Real Madrid.",
+      "published": "2026-10-23T07:34:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50227950/barcelona-real-madrid-laliga-clasico-form-team-news-combined-xi-predictions-odds-all-head-head",
+      "image": "https://a.espncdn.com/photo/2026/1021/el-clasico-preview_16x9_1296x729.jpg",
+      "byline": "Alex Kirkland, Sam Marsden",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
@@ -52,7 +92,99 @@
       "players": [
         "Júnior Alonso"
       ],
-      "score": 141
+      "score": 138
+    },
+    {
+      "id": "50256301",
+      "headline": "Man United invite fans to fill survey on new stadium",
+      "description": "Manchester United are inviting fans to provide fresh input on the design of their proposed new 100,000-capacity stadium.",
+      "published": "2026-10-23T10:17:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50256301/man-united-invite-fans-fill-survey-new-stadium",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713146_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50256432",
+      "headline": "Nam Tae-Hee doubles Roar's lead with a screamer",
+      "description": "The South Korean star scores a stunning volley in his A-League debut for Brisbane against the Perth Glory.",
+      "published": "2026-10-23T10:13:57Z",
+      "url": "https://www.espn.com/video/clip/_/id/50256432/nam-tae-hee-doubles-roar-lead-screamer",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_Soccer_HIGHLIGHT_Nam_Tae_Hee_doubles_Roars_lead_with_a_screamer_20261023_AUS/dm_261023_Soccer_HIGHLIGHT_Nam_Tae_Hee_doubles_Roars_lead_with_a_screamer_20261023_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50256275",
+      "headline": "Man United will be 'angry, intense,' Marco Rose warns Bournemouth",
+      "description": "Marco Rose has told his Bournemouth team to be wary of an angry Manchester United side who will be playing as if they have nothing to lose when they meet at Old Trafford.",
+      "published": "2026-10-23T09:56:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50256275/man-united-angry-michael-carrick-marco-rose-bournemouth",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1734938_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50256184",
+      "headline": "Tottenham beat Arsenal in ex-footballer boxing fight, Nile Ranger pulls out",
+      "description": "An ex-Tottenham player outfought his Arsenal counterpart in a boxing fight between former Premier League footballers.",
+      "published": "2026-10-23T09:14:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50256184/tottenham-sebastien-bassong-armand-traore-arsenal-boxing-nile-ranger",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1734934_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Júnior Alonso"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50226791",
+      "headline": "João Pedro: I told Cole Palmer 'I didn't want to take his spot' at Chelsea",
+      "description": "João Pedro has said that a \"friendship was born\" when he assured Cole Palmer that he wasn't coming to Chelsea to steal his place in the team.",
+      "published": "2026-10-23T08:34:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50226791/joao-pedro-chelsea-brazil-aims-goals-cole-palmer-morgan-rogers",
+      "image": "https://a.espncdn.com/photo/2026/1020/r1733340_1296x729_16-9.jpg",
+      "byline": "Renato Senise, Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Brazil"
+      ],
+      "players": [
+        "João Pedro",
+        "Júnior Alonso"
+      ],
+      "score": 130
     },
     {
       "id": "50237763",
@@ -68,118 +200,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 132
-    },
-    {
-      "id": "50255227",
-      "headline": "Baylor vs. Arizona St.: Game Highlights",
-      "description": "Baylor vs. Arizona St.: Game Highlights",
-      "published": "2026-10-23T04:16:05Z",
-      "url": "https://www.espn.com/video/clip/_/id/50255227/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/a3520e80-f8e0-4288-9049-6f2320b1a4f0/a3520e80-f8e0-4288-9049-6f2320b1a4f0.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 131
-    },
-    {
-      "id": "47276683",
-      "headline": "FIFA Women's Top 50 World Rankings: October 2026",
-      "description": "As of late October, Spain, USA, and Germany are leading the FIFA women's world rankings. Check out the rest of the top 50 breakdown now.",
-      "published": "2026-10-23T03:57:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47276683/fifa-womens-top-50-world-rankings",
-      "image": "https://a.espncdn.com/photo/2025/1211/r1588115_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA",
-        "Germany",
-        "Spain"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50254859",
-      "headline": "Texas A&M vs. Missouri: Game Highlights",
-      "description": "Texas A&M vs. Missouri: Game Highlights",
-      "published": "2026-10-23T03:16:59Z",
-      "url": "https://www.espn.com/video/clip/_/id/50254859/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/45cc2e7d-534a-40a2-a72c-917a9f56d32d/45cc2e7d-534a-40a2-a72c-917a9f56d32d.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50253866",
-      "headline": "Auburn vs. Florida: Game Highlights",
-      "description": "Auburn vs. Florida: Game Highlights",
-      "published": "2026-10-23T01:52:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/50253866/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/cf13e4e2-6d35-43bd-b8b3-a01371b20a64/cf13e4e2-6d35-43bd-b8b3-a01371b20a64.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50253906",
-      "headline": "Wake Forest vs. Virginia Tech: Game Highlights",
-      "description": "Wake Forest vs. Virginia Tech: Game Highlights",
-      "published": "2026-10-23T01:18:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/50253906/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/bc3a0194-fc55-4d72-a87c-55860b755ebd/bc3a0194-fc55-4d72-a87c-55860b755ebd.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50253854",
-      "headline": "Clemson vs. Virginia: Game Highlights",
-      "description": "Clemson vs. Virginia: Game Highlights",
-      "published": "2026-10-23T01:11:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/50253854/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/31fc807c-11ef-4fd1-bf18-c2e5124f5086/31fc807c-11ef-4fd1-bf18-c2e5124f5086.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Júnior Alonso"
-      ],
-      "score": 127
+      "score": 124
     },
     {
       "id": "50226152",
@@ -200,7 +221,7 @@
         "Lionel Messi",
         "Rodrigo De Paul"
       ],
-      "score": 81
+      "score": 73
     },
     {
       "id": "50114003",
@@ -229,7 +250,7 @@
         "USA"
       ],
       "players": [],
-      "score": 76
+      "score": 68
     },
     {
       "id": "50225613",
@@ -245,7 +266,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 70
+      "score": 63
     },
     {
       "id": "50171167",
@@ -259,7 +280,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 44
+      "score": 37
     },
     {
       "id": "50197782",
@@ -830,20 +851,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
       "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50178387",
-      "headline": "FIFA to propose sizable association payout bump from $10M to $25M",
-      "description": "FIFA will propose a $6.35 billion fund to its members for development between 2027 and 2030, including a boosted amount of $25 million for each association.",
-      "published": "2026-10-14T02:48:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50178387/fifa-association-payout-bump-10m-25m",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
