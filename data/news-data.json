@@ -1,11 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-24T00:55:08.675Z",
+  "updated": "2026-10-24T05:27:33.482Z",
   "counts": {
-    "news": 37,
-    "injury": 1,
-    "offfield": 6,
-    "celebration": 3,
+    "news": 38,
+    "celebration": 4,
+    "offfield": 5,
     "preview": 1
   },
   "items": [
@@ -25,7 +24,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 205
+      "score": 198
     },
     {
       "id": "50256249",
@@ -44,7 +43,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 181
+      "score": 174
     },
     {
       "id": "50255102",
@@ -58,71 +57,96 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 173
+      "score": 166
     },
     {
-      "id": "50261206",
-      "headline": "Roberto De Zerbi defends Spurs' 'high level' medical staff amid injury crisis",
-      "description": "Roberto De Zerbi has defended Tottenham's medical staff despite an ongoing injury crisis.",
-      "published": "2026-10-23T22:50:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50261206/roberto-de-zerbi-spurs-medical-staff-injury-crisis",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1735237_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 144
-    },
-    {
-      "id": "50261284",
-      "headline": "Nottingham Forest rue 'wrong' red card call, missed chances in Ipswich draw",
-      "description": "Nottingham Forest lamented the referee's decision not to reduce Ipswich Town to 10 men in the second half, as well a number of missed chances in front of goal, after a 1-1 draw at Portman Road.",
-      "published": "2026-10-23T23:13:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50261284/nottingham-forest-ipswich-town-red-card-issa-diop",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1735247_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50261060",
-      "headline": "USMNT's Scally scores, helps Gladbach avoid worst-ever Bundesliga start",
-      "description": "Borussia Mönchengladbach avoided becoming the first team in Bundesliga history to lose seven straight games to start the season, thanks to a 3-2 win at Stuttgart on Friday.",
-      "published": "2026-10-23T22:47:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50261060/borussia-monchengladbach-joe-scally-bundesliga-usa",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1735236_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "50262805",
+      "headline": "Vanderbilt's Darren Ambrose: 'I couldn't ask for a better group'",
+      "description": "Ambrose exudes love and pride as he watches the No. 1 Commodores celebrate its fifth SEC regular season championship under his leadership and reflects on the teams special traits.",
+      "published": "2026-10-24T03:01:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/50262805/ask-better-group",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_WSOC_Interview_Ambrose_Postgame_261023/dm_261023_SEC_WSOC_Interview_Ambrose_Postgame_261023.jpg",
+      "byline": null,
       "kind": "celebration",
       "kindLabel": "Celebration",
       "teams": [
-        "Argentina",
-        "USA"
+        "Argentina"
       ],
       "players": [
-        "Joe Scally",
         "Lionel Messi"
       ],
-      "score": 137
+      "score": 136
     },
     {
-      "id": "50261734",
-      "headline": "Stanford vs. North Carolina: Game Highlights",
-      "description": "Stanford vs. North Carolina: Game Highlights",
-      "published": "2026-10-24T00:27:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/50261734/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/8e76d95a-f1c2-40fe-ae1b-3fc79588a6ec/8e76d95a-f1c2-40fe-ae1b-3fc79588a6ec.jpg",
+      "id": "50262659",
+      "headline": "Dani Chaump expresses pride in Kentucky after 'intense' home win",
+      "description": "Chaump recalls an emotional and intense battle between the Wildcats and the Rebels and says she is proud of her team's offensive performance to secure a needed win.",
+      "published": "2026-10-24T02:38:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/50262659/dani-chaump-expresses-pride-kentucky-intense-home-win",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_WSOC_Interview_Chaump_Postgame_261023/dm_261023_SEC_WSOC_Interview_Chaump_Postgame_261023.jpg",
+      "byline": null,
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 136
+    },
+    {
+      "id": "50263319",
+      "headline": "Portland Thorns FC vs. North Carolina Courage - Game Highlights",
+      "description": "Watch the Game Highlights from Portland Thorns FC vs. North Carolina Courage, 10/24/2026",
+      "published": "2026-10-24T04:17:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/50263319/portland-thorns-fc-vs-north-carolina-courage-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/7103c2d0-2eb4-4400-89ea-f36ab77db753/7103c2d0-2eb4-4400-89ea-f36ab77db753.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Pietra Tordin",
+        "Marie Müller",
+        "Kailen Sheridan",
+        "Ryan Williams",
+        "Reilyn Turner",
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50263037",
+      "headline": "Utah Royals vs. Seattle Reign FC - Game Highlights",
+      "description": "Watch the Game Highlights from Utah Royals vs. Seattle Reign FC, 10/24/2026",
+      "published": "2026-10-24T03:37:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/50263037/utah-royals-vs-seattle-reign-fc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/a5b4d851-90c7-4cc2-83c3-b2b43272ca3c/a5b4d851-90c7-4cc2-83c3-b2b43272ca3c.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Cece Delzer",
+        "Narumi Miura",
+        "Sam Meza",
+        "Ana Tejada",
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50262709",
+      "headline": "Ashley Roni reveals No. 7 Bama's message after win vs. Tennessee",
+      "description": "Roni expresses excitement over scoring the game-winner for the Crimson Tide as she reveals how their halftime message helped them shift gears in order to beat the Lady Vols.",
+      "published": "2026-10-24T02:46:03Z",
+      "url": "https://www.espn.com/video/clip/_/id/50262709/ashley-roni-reveals-no-7-bama-message-win-vs-tennessee",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_WSOC_Interview_Alabama_soccer_interview_261023/dm_261023_SEC_WSOC_Interview_Alabama_soccer_interview_261023.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -132,16 +156,34 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 132
+      "score": 129
     },
     {
-      "id": "50253031",
-      "headline": "Ipswich earn draw with Forest as Delap misfires on return",
-      "description": "Liam Delap fired a blank on his return to Ipswich with Nottingham Forest forced to settle for a 1-1 draw despite a dominant display at Portman Road.",
-      "published": "2026-10-23T21:19:10Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879253",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1735195_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "50262707",
+      "headline": "Bella Field says No. 23 Arkansas is ready to 'flip our switch'",
+      "description": "Field discusses how she is willing to do anything to help her Razorbacks win then says they are at their best and ready for a postseason run.",
+      "published": "2026-10-24T02:43:13Z",
+      "url": "https://www.espn.com/video/clip/_/id/50262707/bella-field-says-no-23-arkansas-ready-flip-our-switch",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_WSOC_Interview_Ark_Bella_261023/dm_261023_SEC_WSOC_Interview_Ark_Bella_261023.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50262626",
+      "headline": "Tennessee vs. Alabama: Game Highlights",
+      "description": "Tennessee vs. Alabama: Game Highlights",
+      "published": "2026-10-24T02:25:12Z",
+      "url": "https://www.espn.com/video/clip/_/id/50262626/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/7b1b9d89-ca57-4c6e-9333-59e9d6052b19/7b1b9d89-ca57-4c6e-9333-59e9d6052b19.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -153,51 +195,12 @@
       "score": 128
     },
     {
-      "id": "50260417",
-      "headline": "Alavés vs. Málaga - Game Highlights",
-      "description": "Watch the Game Highlights from Alavés vs. Málaga, 10/23/2026",
-      "published": "2026-10-23T21:00:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/50260417/alaves-vs-malaga-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/952cc53d-7a6a-4a43-bed7-681021c5f810/952cc53d-7a6a-4a43-bed7-681021c5f810.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Adrián Niño",
-        "Aitor Mañas",
-        "Lucas Boyé",
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50258850",
-      "headline": "Bayern Munich coach Vincent Kompany hospitalized after collapsing at training",
-      "description": "Bayern Munich coach Vincent Kompany is undergoing tests in hospital after collapsing during a training session Friday, the German club confirmed.",
-      "published": "2026-10-23T19:59:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50258850/bayern-munich-coach-vincent-kompany-hospital-training",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1735057_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50260129",
-      "headline": "Will Carrick survive the weekend as Man United head coach?",
-      "description": "Will Carrick survive the weekend as Man United head coach?",
-      "published": "2026-10-23T19:54:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/50260129/will-carrick-survive-weekend-man-united-head-coach",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_COM_SOC_Analysis_Will_Carrick_survive_the_weekend_as_Man_United_head_coach3F__GLOBAL_2026-10-23/dm_261023_COM_SOC_Analysis_Will_Carrick_survive_the_weekend_as_Man_United_head_coach3F__GLOBAL_2026-10-23.jpg",
+      "id": "50262615",
+      "headline": "North Carolina vs. Duke: Game Highlights",
+      "description": "North Carolina vs. Duke: Game Highlights",
+      "published": "2026-10-24T02:22:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/50262615/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/65d91602-bf5c-4b12-b26e-a2afc855a1ac/65d91602-bf5c-4b12-b26e-a2afc855a1ac.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -207,7 +210,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 125
+      "score": 128
     },
     {
       "id": "50247013",
@@ -221,7 +224,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 118
+      "score": 112
     },
     {
       "id": "50237763",
@@ -237,7 +240,28 @@
         "Japan"
       ],
       "players": [],
-      "score": 82
+      "score": 76
+    },
+    {
+      "id": "50226152",
+      "headline": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
+      "description": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
+      "published": "2026-10-20T09:08:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/50226152/were-messi-de-paul-wrong-taunt-atlanta-united-alonso",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Paraguay"
+      ],
+      "players": [
+        "Júnior Alonso",
+        "Lionel Messi",
+        "Rodrigo De Paul"
+      ],
+      "score": 43
     },
     {
       "id": "50114003",
@@ -266,28 +290,7 @@
         "USA"
       ],
       "players": [],
-      "score": 46
-    },
-    {
-      "id": "50226152",
-      "headline": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
-      "description": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
-      "published": "2026-10-20T09:08:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/50226152/were-messi-de-paul-wrong-taunt-atlanta-united-alonso",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Paraguay"
-      ],
-      "players": [
-        "Júnior Alonso",
-        "Lionel Messi",
-        "Rodrigo De Paul"
-      ],
-      "score": 43
+      "score": 40
     },
     {
       "id": "50225613",
@@ -458,20 +461,6 @@
       "teams": [],
       "players": [],
       "score": 16
-    },
-    {
-      "id": "50171167",
-      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
-      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
-      "published": "2026-10-20T22:37:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 15
     },
     {
       "id": "50195091",
@@ -833,6 +822,20 @@
         "Lamine Yamal"
       ],
       "score": 9
+    },
+    {
+      "id": "50171167",
+      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
+      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
+      "published": "2026-10-20T22:37:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 8
     },
     {
       "id": "50189300",
