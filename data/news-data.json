@@ -1,11 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-24T09:45:16.436Z",
+  "updated": "2026-10-24T13:38:46.392Z",
   "counts": {
-    "news": 37,
-    "offfield": 6,
-    "celebration": 4,
-    "preview": 1
+    "news": 36,
+    "injury": 2,
+    "preview": 3,
+    "offfield": 5,
+    "celebration": 2
   },
   "items": [
     {
@@ -24,7 +25,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 191
+      "score": 185
     },
     {
       "id": "50256249",
@@ -43,7 +44,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 168
+      "score": 162
     },
     {
       "id": "50255102",
@@ -57,35 +58,145 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 159
+      "score": 154
     },
     {
-      "id": "50264204",
-      "headline": "Transfer rumors, news: Chelsea, Bayern, Barcelona battle for Brighton defender",
-      "description": "Chelsea, Bayern Munich and Barcelona are targeting Brighton & Hove Albion defender Luka Vuskovic. Transfer Talk has the latest.",
-      "published": "2026-10-24T08:31:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50264204/transfer-rumors-news-chelsea-bayern-barcelona-battle-brighton-defender",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711874_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50265207",
+      "headline": "Michael Carrick provides Man United injury updates, demands mental preparation",
+      "description": "Under-fire Michael Carrick says his players must be mentally prepared to move on if misfiring Manchester United are to end their winless run against Bournemouth.",
+      "published": "2026-10-24T12:47:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50265207/michael-carrick-man-united-injury-updates-rashford-mainoo-martinez",
+      "image": "https://a.espncdn.com/photo/2026/1018/r1732389_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Luka Vuskovic",
         "Lionel Messi"
       ],
-      "score": 143
+      "score": 146
+    },
+    {
+      "id": "50265160",
+      "headline": "Anthony Gordon delivers rating out of 10 for his start at Barcelona",
+      "description": "Barcelona and England forward Anthony Gordon has told ESPN he is still a long way from where he wants to be as he prepares for Sunday's Clásico against Real Madrid.",
+      "published": "2026-10-24T12:34:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50265160/anthony-gordon-barcelona-real-madrid-clasico",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735376_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Anthony Gordon",
+        "Lionel Messi"
+      ],
+      "score": 145
     },
     {
       "id": "50220422",
-      "headline": "Premier League live updates: Aston Villa host league leaders Man City",
-      "description": "Aston Villa host Premier League leaders Manchester City as another weekend of European soccer gets underway.",
-      "published": "2026-10-24T08:36:23Z",
+      "headline": "Premier League live updates: Arsenal face Everton after City lose to Villa",
+      "description": "Manchester City suffered their first loss of the season to Aston Villa, with Arsenal looking to take advantage against Everton on another busy weekend of European soccer.",
+      "published": "2026-10-24T13:25:26Z",
       "url": "https://www.espn.com/soccer/story/_/id/50220422/premier-league-live-updates-aston-villa-manchester-city-arsenal-everton-chelsea-tottenham-hotspur",
-      "image": "https://a.espncdn.com/photo/2026/1019/r1733028_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735370_1296x729_16-9.jpg",
       "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50258779",
+      "headline": "Messi Cup 2026: How to watch in the UK, who is taking part, when and what is it?",
+      "description": "The second edition of the Messi Cup is almost here. Here's everything you need to know about the tournament.",
+      "published": "2026-10-24T12:22:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50258779/messi-cup-2026-how-watch-uk-taking-part-it",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1735011_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50265416",
+      "headline": "Man City lose 100% Premier League record with defeat at Aston Villa",
+      "description": "Manchester City suffered defeat for the first time in the Premier League this season after Nicolas Jackson's double earned Aston Villa a 2-1 victory at Villa Park.",
+      "published": "2026-10-24T13:35:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50265416/man-city-lose-100-premier-league-record-defeat-aston-villa",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735386_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50253038",
+      "headline": "Man City beaten by double from Aston Villa's Jackson",
+      "description": "Nicolas Jackson scored twice to lead Aston Villa to a 2-1 win over Manchester City.",
+      "published": "2026-10-24T13:24:32Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879256",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735387_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50265302",
+      "headline": "Curtis Jones: Serie A too slow? Inter arrival explains Liverpool similarity",
+      "description": "Inter Milan midfielder Curtis Jones insists Serie A is no different to the Premier League when it comes to playing for the top clubs.",
+      "published": "2026-10-24T13:00:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50265302/curtis-jones-serie-slow-inter-liverpool",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735381_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Curtis Jones",
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50265165",
+      "headline": "Gianni Infantino: 'Vast majority' support bid for FIFA re-election",
+      "description": "Gianni Infantino believes he has the support of the \"vast, vast majority\" of footballing nations as he seeks re-election as head of the game's world governing body.",
+      "published": "2026-10-24T12:38:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50265165/gianni-infantino-vast-majority-fifa-reelection",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -95,123 +206,6 @@
         "Lionel Messi"
       ],
       "score": 131
-    },
-    {
-      "id": "50262805",
-      "headline": "Vanderbilt's Darren Ambrose: 'I couldn't ask for a better group'",
-      "description": "Ambrose exudes love and pride as he watches the No. 1 Commodores celebrate its fifth SEC regular season championship under his leadership and reflects on the teams special traits.",
-      "published": "2026-10-24T03:01:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/50262805/ask-better-group",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_WSOC_Interview_Ambrose_Postgame_261023/dm_261023_SEC_WSOC_Interview_Ambrose_Postgame_261023.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50262659",
-      "headline": "Dani Chaump expresses pride in Kentucky after 'intense' home win",
-      "description": "Chaump recalls an emotional and intense battle between the Wildcats and the Rebels and says she is proud of her team's offensive performance to secure a needed win.",
-      "published": "2026-10-24T02:38:09Z",
-      "url": "https://www.espn.com/video/clip/_/id/50262659/dani-chaump-expresses-pride-kentucky-intense-home-win",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_WSOC_Interview_Chaump_Postgame_261023/dm_261023_SEC_WSOC_Interview_Chaump_Postgame_261023.jpg",
-      "byline": null,
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50263319",
-      "headline": "Portland Thorns FC vs. North Carolina Courage - Game Highlights",
-      "description": "Watch the Game Highlights from Portland Thorns FC vs. North Carolina Courage, 10/24/2026",
-      "published": "2026-10-24T04:17:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/50263319/portland-thorns-fc-vs-north-carolina-courage-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/7103c2d0-2eb4-4400-89ea-f36ab77db753/7103c2d0-2eb4-4400-89ea-f36ab77db753.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Pietra Tordin",
-        "Marie Müller",
-        "Kailen Sheridan",
-        "Ryan Williams",
-        "Reilyn Turner",
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50263037",
-      "headline": "Utah Royals vs. Seattle Reign FC - Game Highlights",
-      "description": "Watch the Game Highlights from Utah Royals vs. Seattle Reign FC, 10/24/2026",
-      "published": "2026-10-24T03:37:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/50263037/utah-royals-vs-seattle-reign-fc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/a5b4d851-90c7-4cc2-83c3-b2b43272ca3c/a5b4d851-90c7-4cc2-83c3-b2b43272ca3c.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Cece Delzer",
-        "Narumi Miura",
-        "Sam Meza",
-        "Ana Tejada",
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50262709",
-      "headline": "Ashley Roni reveals No. 7 Bama's message after win vs. Tennessee",
-      "description": "Roni expresses excitement over scoring the game-winner for the Crimson Tide as she reveals how their halftime message helped them shift gears in order to beat the Lady Vols.",
-      "published": "2026-10-24T02:46:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/50262709/ashley-roni-reveals-no-7-bama-message-win-vs-tennessee",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_WSOC_Interview_Alabama_soccer_interview_261023/dm_261023_SEC_WSOC_Interview_Alabama_soccer_interview_261023.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "50262707",
-      "headline": "Bella Field says No. 23 Arkansas is ready to 'flip our switch'",
-      "description": "Field discusses how she is willing to do anything to help her Razorbacks win then says they are at their best and ready for a postseason run.",
-      "published": "2026-10-24T02:43:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/50262707/bella-field-says-no-23-arkansas-ready-flip-our-switch",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_WSOC_Interview_Ark_Bella_261023/dm_261023_SEC_WSOC_Interview_Ark_Bella_261023.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 122
     },
     {
       "id": "50247013",
@@ -225,7 +219,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 105
+      "score": 99
     },
     {
       "id": "50237763",
@@ -241,7 +235,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 69
+      "score": 63
     },
     {
       "id": "50226152",
@@ -263,6 +257,22 @@
         "Rodrigo De Paul"
       ],
       "score": 43
+    },
+    {
+      "id": "50225613",
+      "headline": "Gianni Infantino courts Asian Football Confederation in reelection campaign bid",
+      "description": "Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation.",
+      "published": "2026-10-20T10:51:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
+      "image": "https://a.espncdn.com/photo/2026/1020/r1733302_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 30
     },
     {
       "id": "50114003",
@@ -291,23 +301,7 @@
         "USA"
       ],
       "players": [],
-      "score": 33
-    },
-    {
-      "id": "50225613",
-      "headline": "Gianni Infantino courts Asian Football Confederation in reelection campaign bid",
-      "description": "Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation.",
-      "published": "2026-10-20T10:51:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
-      "image": "https://a.espncdn.com/photo/2026/1020/r1733302_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Japan"
-      ],
-      "players": [],
-      "score": 30
+      "score": 27
     },
     {
       "id": "50156783",
