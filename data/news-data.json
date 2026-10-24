@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-24T19:24:40.147Z",
+  "updated": "2026-10-24T21:45:10.465Z",
   "counts": {
-    "news": 36,
-    "injury": 2,
-    "preview": 3,
-    "offfield": 5,
+    "news": 37,
+    "injury": 1,
+    "offfield": 7,
+    "preview": 1,
     "celebration": 2
   },
   "items": [
@@ -25,7 +25,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 177
+      "score": 173
     },
     {
       "id": "50256249",
@@ -44,7 +44,63 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 153
+      "score": 150
+    },
+    {
+      "id": "50267386",
+      "headline": "James Maddison's injury woes return, forced off for Tottenham vs. Chelsea",
+      "description": "James Maddison was forced off with an injury in the second half of Tottenham Hotspur's clash with Chelsea, on his just his second league start after nine months out with a ruptured ACL.",
+      "published": "2026-10-24T19:15:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50267386/james-maddison-injury-woes-return-forced-tottenham-vs-chelsea",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735502_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "James Maddison",
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50253065",
+      "headline": "Palmer sent off as Spurs get 2nd-ever Premier League win at Chelsea",
+      "description": "Cole Palmer was sent off as Chelsea fell to a 2-0 defeat to Tottenham at Stamford Bridge on Saturday.",
+      "published": "2026-10-24T18:58:30Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878767",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735522_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50267923",
+      "headline": "Cole Palmer sent off for first time, Chelsea reach unwanted red card milestone",
+      "description": "Cole Palmer was sent off for the first time in his senior career as Chelsea became the third team in history to be shown 100 red cards in the Premier League.",
+      "published": "2026-10-24T18:55:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50267923/cole-palmer-first-red-card-chelsea-100-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735538_1296x729_16-9.jpg",
+      "byline": "Jamie Barton",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Cole Palmer",
+        "Lionel Messi"
+      ],
+      "score": 141
     },
     {
       "id": "50255102",
@@ -58,107 +114,15 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 145
+      "score": 141
     },
     {
-      "id": "50265207",
-      "headline": "Michael Carrick provides Man United injury updates, demands mental preparation",
-      "description": "Under-fire Michael Carrick says his players must be mentally prepared to move on if misfiring Manchester United are to end their winless run against Bournemouth.",
-      "published": "2026-10-24T12:47:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50265207/michael-carrick-man-united-injury-updates-rashford-mainoo-martinez",
-      "image": "https://a.espncdn.com/photo/2026/1018/r1732389_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 137
-    },
-    {
-      "id": "50265160",
-      "headline": "Anthony Gordon delivers rating out of 10 for his start at Barcelona",
-      "description": "Barcelona and England forward Anthony Gordon has told ESPN he is still a long way from where he wants to be as he prepares for Sunday's Clásico against Real Madrid.",
-      "published": "2026-10-24T12:34:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50265160/anthony-gordon-barcelona-real-madrid-clasico",
-      "image": "https://a.espncdn.com/photo/2026/1024/r1735376_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Anthony Gordon",
-        "Lionel Messi"
-      ],
-      "score": 137
-    },
-    {
-      "id": "50220422",
-      "headline": "Premier League live updates: Arsenal face Everton after City lose to Villa",
-      "description": "Manchester City suffered their first loss of the season to Aston Villa, with Arsenal looking to take advantage against Everton on another busy weekend of European soccer.",
-      "published": "2026-10-24T13:25:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50220422/premier-league-live-updates-aston-villa-manchester-city-arsenal-everton-chelsea-tottenham-hotspur",
-      "image": "https://a.espncdn.com/photo/2026/1024/r1735370_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50258779",
-      "headline": "Messi Cup 2026: How to watch in the UK, who is taking part, when and what is it?",
-      "description": "The second edition of the Messi Cup is almost here. Here's everything you need to know about the tournament.",
-      "published": "2026-10-24T12:22:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50258779/messi-cup-2026-how-watch-uk-taking-part-it",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1735011_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50265416",
-      "headline": "Man City lose 100% Premier League record with defeat at Aston Villa",
-      "description": "Manchester City suffered defeat for the first time in the Premier League this season after Nicolas Jackson's double earned Aston Villa a 2-1 victory at Villa Park.",
-      "published": "2026-10-24T13:35:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50265416/man-city-lose-100-premier-league-record-defeat-aston-villa",
-      "image": "https://a.espncdn.com/photo/2026/1024/r1735386_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50253038",
-      "headline": "Man City beaten by double from Aston Villa's Jackson",
-      "description": "Nicolas Jackson scored twice to lead Aston Villa to a 2-1 win over Manchester City.",
-      "published": "2026-10-24T13:24:32Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879256",
-      "image": "https://a.espncdn.com/photo/2026/1024/r1735387_1296x729_16-9.jpg",
+      "id": "50268228",
+      "headline": "Nicol: Alonso got everything wrong vs. Tottenham",
+      "description": "Nicol: Alonso got everything wrong vs. Tottenham",
+      "published": "2026-10-24T19:09:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/50268228/alonso-got-everything-wrong-vs-tottenham",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_Nicol_Alonso_got_everything_wrong_vs_Tottenham/dm_261024_Nicol_Alonso_got_everything_wrong_vs_Tottenham.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -168,35 +132,16 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 124
+      "score": 129
     },
     {
-      "id": "50265302",
-      "headline": "Curtis Jones: Serie A too slow? Inter arrival explains Liverpool similarity",
-      "description": "Inter Milan midfielder Curtis Jones insists Serie A is no different to the Premier League when it comes to playing for the top clubs.",
-      "published": "2026-10-24T13:00:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50265302/curtis-jones-serie-slow-inter-liverpool",
-      "image": "https://a.espncdn.com/photo/2026/1024/r1735381_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Curtis Jones",
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "50265165",
-      "headline": "Gianni Infantino: 'Vast majority' support bid for FIFA re-election",
-      "description": "Gianni Infantino believes he has the support of the \"vast, vast majority\" of footballing nations as he seeks re-election as head of the game's world governing body.",
-      "published": "2026-10-24T12:38:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50265165/gianni-infantino-vast-majority-fifa-reelection",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "50220422",
+      "headline": "Premier League recap: Spurs stun Chelsea, City lose unbeaten record to Villa",
+      "description": "Tottenham Hotspur get a rare away win against Chelsea, as Arsenal and Man City are both joint-top of the Premier League, on a Saturday full of matches across Europe.",
+      "published": "2026-10-24T19:04:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50220422/premier-league-live-updates-aston-villa-manchester-city-arsenal-everton-chelsea-tottenham-hotspur",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735515_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -205,7 +150,68 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 123
+      "score": 129
+    },
+    {
+      "id": "50267991",
+      "headline": "Valencia vs. Villarreal - Game Highlights",
+      "description": "Watch the Game Highlights from Valencia vs. Villarreal, 10/24/2026",
+      "published": "2026-10-24T18:43:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/50267991/valencia-vs-villarreal-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/7deecb68-68f9-4211-b50d-f33b012e73d5/7deecb68-68f9-4211-b50d-f33b012e73d5.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Dani Raba",
+        "Alex Freeman",
+        "Georges Mikautadze",
+        "Tajon Buchanan",
+        "Pepelu",
+        "Pape Gueye",
+        "Renato Veiga",
+        "Lionel Messi"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50267803",
+      "headline": "Napoli's Scott McTominay bags brace in derby day thriller against Roma",
+      "description": "Napoli's stuttering start in Serie A continued as Roma twice fought back to secure a 3-3 draw in a dramatic Derby del Sole.",
+      "published": "2026-10-24T18:27:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50267803/napoli-scott-mctominay-bags-brace-derby-day-thriller-roma",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735526_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50267353",
+      "headline": "Nuno Espírito Santo on West Ham loss: We played with 'hesitation'",
+      "description": "Nuno Espírito Santo admitted West Ham United's painfully slow start cost them after they crashed to a 3-2 home defeat by Southampton.",
+      "published": "2026-10-24T18:07:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50267353/nuno-espirito-santo-west-ham-loss-played-hesitation",
+      "image": "https://a.espncdn.com/photo/2026/1024/r1735499_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 128
     },
     {
       "id": "50247013",
@@ -219,7 +225,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 91
+      "score": 87
     },
     {
       "id": "50237763",
@@ -235,7 +241,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 55
+      "score": 51
     },
     {
       "id": "50226152",
@@ -415,6 +421,20 @@
       "score": 20
     },
     {
+      "id": "50197782",
+      "headline": "Infantino apologized, but reelection as FIFA president remains far from certain",
+      "description": "Gianni Infantino tried to make amends at Thursday's FIFA Council meeting for his ill-fated attempt to sell the World Cup. Will it be enough to save his reelection bid?",
+      "published": "2026-10-17T09:41:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50197782/gianni-infantino-fifa-president-election-far-certain",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731790_1296x729_16-9.jpg",
+      "byline": "Gabriele Marcotti",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
+    },
+    {
       "id": "50114003",
       "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
       "description": "With the 2026 World Cup well and truly behind us, the first fall international break saw all the top teams playing four times in three weeks. Which sides look strongest and most likely to contend in four years' time?",
@@ -441,21 +461,7 @@
         "USA"
       ],
       "players": [],
-      "score": 19
-    },
-    {
-      "id": "50197782",
-      "headline": "Infantino apologized, but reelection as FIFA president remains far from certain",
-      "description": "Gianni Infantino tried to make amends at Thursday's FIFA Council meeting for his ill-fated attempt to sell the World Cup. Will it be enough to save his reelection bid?",
-      "published": "2026-10-17T09:41:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50197782/gianni-infantino-fifa-president-election-far-certain",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731790_1296x729_16-9.jpg",
-      "byline": "Gabriele Marcotti",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
+      "score": 15
     },
     {
       "id": "50195091",
