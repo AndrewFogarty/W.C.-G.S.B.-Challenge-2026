@@ -1,18 +1,19 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-27T10:59:12.118Z",
+  "updated": "2026-10-27T16:25:22.793Z",
   "counts": {
-    "news": 38,
-    "offfield": 6,
-    "celebration": 3,
-    "preview": 1
+    "news": 37,
+    "injury": 3,
+    "offfield": 5,
+    "preview": 1,
+    "celebration": 2
   },
   "items": [
     {
       "id": "50265615",
       "headline": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
       "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
-      "published": "2026-10-27T01:48:19Z",
+      "published": "2026-10-27T14:04:40Z",
       "url": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
       "image": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg",
       "byline": "James Olley",
@@ -24,7 +25,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 199
+      "score": 209
     },
     {
       "id": "50290177",
@@ -42,77 +43,70 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 181
+      "score": 173
     },
     {
-      "id": "50295719",
-      "headline": "Neymar faces six-match ban over alleged 'Vinícius Júnior rule' breach",
-      "description": "Neymar has been reported to Brazil's Sports Tribunal for breaching the \"Vinícius Júnior rule\" and could be banned for up to six matches.",
-      "published": "2026-10-27T10:09:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50295719/neymar-faces-six-match-ban-alleged-vinicius-junior-rule-breach",
-      "image": "https://a.espncdn.com/photo/2026/1026/r1736393_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50298418",
+      "headline": "Xabi Alonso on João Pedro's Chelsea absence: Looking for solutions, not excuses",
+      "description": "Xabi Alonso said Chelsea will look for \"solutions, not excuses\" after João Pedro was ruled out for several weeks with a thigh injury.",
+      "published": "2026-10-27T16:08:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50298418/xabi-alonso-joao-pedro-chelsea-absence-looking-solutions-not-excuses",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737023_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
-        "England",
-        "Brazil"
+        "England"
       ],
       "players": [
-        "Neymar",
-        "Rodrigo Nestor",
         "Harry Kane"
       ],
-      "score": 144
+      "score": 147
     },
     {
-      "id": "50295832",
-      "headline": "Alex Iwobi equals Mohamed Salah's Premier League appearance mark, closes in on Toure's",
-      "description": "Nigeria midfielder Alex Iwobi has drawn level with Egypt's Mohamed Salah as the African player with the second-most appearances in Premier League history, a mark that puts the Nigerian just 25 games short of holder Kolo Toure.",
-      "published": "2026-10-27T10:33:22Z",
-      "url": "https://www.espn.com/espn/story/_/id/50295832/alex-iwobi-equals-mohamed-salah-premier-league-appearance-mark-closes-toures",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1736913_3_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "50297566",
+      "headline": "PSG's Khvicha Kvaratskhelia undergoes successful knee surgery",
+      "description": "Khvicha Kvaratskhelia has undergone successful surgery on his serious knee injury, Paris Saint-Germain confirmed.",
+      "published": "2026-10-27T15:37:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50297566/psg-khvicha-kvaratskhelia-successful-knee-surgery",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717441_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
-        "England",
-        "Egypt"
+        "England"
       ],
       "players": [
-        "Alex Iwobi",
-        "Mohamed Salah",
+        "Khvicha Kvaratskhelia",
         "Harry Kane"
       ],
-      "score": 139
+      "score": 146
     },
     {
-      "id": "50296058",
-      "headline": "Spain coach: Lamine Yamal will win many Ballon d'Or awards in his career",
-      "description": "Spain coach Luis de la Fuente firmly believes Lamine Yamal will win many Ballon d'Or awards in his career.",
-      "published": "2026-10-27T10:57:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50296058/spain-coach-lamine-yamal-win-many-ballon-dor-awards",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1736915_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "50298045",
+      "headline": "Milan boss Ruben Amorim faces injury headache ahead of pre-derby Bologna game",
+      "description": "A growing injury list has left AC Milan head coach Ruben Amorim facing a difficult week leading up to the weekend's derby against Inter Milan.",
+      "published": "2026-10-27T15:24:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50298045/ac-milan-ruben-amorim-injuries-bologna-match",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737008_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
-        "England",
-        "Spain"
+        "England"
       ],
       "players": [
-        "Lamine Yamal",
         "Harry Kane"
       ],
-      "score": 133
+      "score": 145
     },
     {
-      "id": "50287797",
-      "headline": "Man United tight-lipped with Carrick back at Carrington on Tuesday",
-      "description": "Under-fire Manchester United boss Michael Carrick arrived at Carrington early on Tuesday morning with his future still up in the air.",
-      "published": "2026-10-27T10:14:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50287797/man-united-michael-carrick-pressure-carrington-omar-berrada-jason-wilcox",
-      "image": "https://a.espncdn.com/photo/2026/1026/r1736508_1296x729_16-9.jpg",
+      "id": "50298520",
+      "headline": "Arsenal's Alessia Russo motivated by Harry Kane, Alexia Putellas Ballon d'Or wins",
+      "description": "Alessia Russo says watching role model Harry Kane win the men's Ballon d'Or has given her extra motivation as Arsenal look to get their season back on track.",
+      "published": "2026-10-27T16:13:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50298520/arsenal-alessia-russo-harry-kane-alexia-putellas-ballon-dor",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737037_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
@@ -120,17 +114,19 @@
         "England"
       ],
       "players": [
-        "Harry Kane"
+        "Alessia Russo",
+        "Harry Kane",
+        "Alexia Putellas"
       ],
-      "score": 132
+      "score": 133
     },
     {
-      "id": "50295723",
-      "headline": "Victor Osimhen scores brace as Galatasaray beat Fenerbahçe",
-      "description": "Victor Osimhen scores brace as Galatasaray beat Fenerbahçe",
-      "published": "2026-10-27T10:08:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/50295723/victor-osimhen-scores-brace-galatasaray-beat-fenerbahce",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1027/dm_261027_COM_SOC_Highlight_Victor_Osimhen_scores_367/dm_261027_COM_SOC_Highlight_Victor_Osimhen_scores_367.jpg",
+      "id": "50298444",
+      "headline": "Xabi Alonso confirms João Pedro will be 'out a few weeks' for Chelsea",
+      "description": "Xabi Alonso confirms João Pedro will be 'out a few weeks' for Chelsea",
+      "published": "2026-10-27T15:56:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/50298444/xabi-alonso-confirms-joao-pedro-a-weeks-chelsea",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1027/dm_261027_COM_SOC_Presser_Xabi_Alonso_confirms_Joao_Pedro_will_be_out_a_few_weeks_for_Chelsea__20261027/dm_261027_COM_SOC_Presser_Xabi_Alonso_confirms_Joao_Pedro_will_be_out_a_few_weeks_for_Chelsea__20261027.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -143,37 +139,18 @@
       "score": 132
     },
     {
-      "id": "50295565",
-      "headline": "Can Orlando Pirates save South Africa's CAF campaign after Sundowns and Chiefs crash out?",
-      "description": "Mamelodi Sundowns and Kaizer Chiefs unexpectedly lost their respective Friday CAF Champions League and Confederation Cup second preliminary round ties, but both have the chance to convert disappointment into blessings in disguise.",
-      "published": "2026-10-27T10:06:13Z",
-      "url": "https://www.espn.com/espn/story/_/id/50295565/can-orlando-pirates-save-south-africa-caf-campaign-sundowns-chiefs-crash-out",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1736907_810x456_16-9.png",
-      "byline": "Leonard Solms",
+      "id": "50297412",
+      "headline": "Ligue 1 reschedules matches amid public protests on streets in France",
+      "description": "Ligue 1 is moving scheduled games from Saturday at the request of public authorities amid weekend protests across the country.",
+      "published": "2026-10-27T14:34:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50297412/ligue-1-reschedules-matches-public-protests-france",
+      "image": "https://a.espncdn.com/photo/2026/1019/r1732873_1296x729_16-9.jpg",
+      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "England",
-        "South Africa"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50270130",
-      "headline": "NWSL GM survey: How teams cheat, Rodman Rule, USWNT's World Cup, and more",
-      "description": "ESPN's NWSL GM survey returns to dish on the USWNT's World Cup chances, the Rodman rule, rule-breaking, how much they spend, and more.",
-      "published": "2026-10-27T09:06:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50270130/nwsl-gm-survey-teams-cheat-rodman-rule-uswnt-world-cup-anonymous-2026",
-      "image": "https://a.espncdn.com/photo/2026/1006/soc_gm-survey_16x9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "USA"
+        "France"
       ],
       "players": [
         "Harry Kane"
@@ -181,13 +158,33 @@
       "score": 130
     },
     {
-      "id": "50290210",
-      "headline": "If Clásico win is any indication, Mourinho's Madrid might just be special again",
-      "description": "José Mourinho hasn't hit the ground running in Madrid, but the Clásico win over Barcelona showed that The Special One still has some magic left in him.",
-      "published": "2026-10-27T08:53:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50290210/if-clasico-win-indication-jose-mourinho-real-madrid-just-special-again",
-      "image": "https://a.espncdn.com/photo/2026/1026/r1736644_1296x729_16-9.jpg",
-      "byline": "Graham Hunter",
+      "id": "50295834",
+      "headline": "Why Real Madrid's Mbappé, Barcelona's Yamal lost Ballon d'Or",
+      "description": "Kylian Mbappé and Lamine Yamal both achieved greatness last season, but it still wasn't enough for either of them to claim soccer's top individual prize.",
+      "published": "2026-10-27T14:04:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50295834/why-real-madrid-kylian-mbappe-barcelona-lamine-yamal-lost-ballon-dor-harry-kane",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1736954_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland and Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Lamine Yamal",
+        "Kylian Mbappé",
+        "Harry Kane"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50297244",
+      "headline": "Wayne Rooney blasts Man United players amid growing crisis",
+      "description": "Manchester United's players need a \"firework up their a----\" and reminding what it means to play for the club, according to Wayne Rooney.",
+      "published": "2026-10-27T14:00:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50297244/wayne-rooney-blasts-man-united-players-amid-growing-crisis",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1736965_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -196,7 +193,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 130
+      "score": 129
     },
     {
       "id": "47978642",
@@ -214,7 +211,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 104
+      "score": 96
     },
     {
       "id": "50256249",
