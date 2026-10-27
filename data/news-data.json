@@ -1,14 +1,31 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-27T16:25:22.793Z",
+  "updated": "2026-10-27T20:51:04.156Z",
   "counts": {
     "news": 37,
-    "injury": 3,
-    "offfield": 5,
-    "preview": 1,
+    "preview": 2,
+    "offfield": 7,
     "celebration": 2
   },
   "items": [
+    {
+      "id": "50297310",
+      "headline": "Vozinha's Ballon d'Or night a perfect moment for soccer's dreamers",
+      "description": "Vozinha's improbable star turn at the 2026 World Cup led him to Monday night's Ballon d'Or ceremony. It was also a perfect moment for those who love the game, but never get love back.",
+      "published": "2026-10-27T17:17:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50297310/vozinha-ballon-dor-world-cup-cape-verde-goalkeeper-dreamer",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1736984_1296x729_16-9.jpg",
+      "byline": "Chris Jones, special to ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 208
+    },
     {
       "id": "50265615",
       "headline": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
@@ -25,7 +42,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 209
+      "score": 193
     },
     {
       "id": "50290177",
@@ -43,157 +60,137 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 173
+      "score": 156
     },
     {
-      "id": "50298418",
-      "headline": "Xabi Alonso on João Pedro's Chelsea absence: Looking for solutions, not excuses",
-      "description": "Xabi Alonso said Chelsea will look for \"solutions, not excuses\" after João Pedro was ruled out for several weeks with a thigh injury.",
-      "published": "2026-10-27T16:08:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50298418/xabi-alonso-joao-pedro-chelsea-absence-looking-solutions-not-excuses",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1737023_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50297404",
+      "headline": "Carling Knockout as it happened - Kaizer Chiefs, Orlando Pirates & Mamelodi Sundowns win, but Abdeslam Ouaddou demands more",
+      "description": "Mamelodi Sundowns, Kaizer Chiefs and Orlando Pirates all picked up wins in their last 16 Carling Knockout ties.",
+      "published": "2026-10-27T19:19:18Z",
+      "url": "https://www.espn.com/espn/story/_/id/50297404/carling-knockout-happened-kaizer-chiefs-orlando-pirates-mamelodi-sundowns-all-win",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737113_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
-        "England"
+        "Cabo Verde",
+        "South Africa"
       ],
       "players": [
-        "Harry Kane"
+        "Vozinha"
       ],
-      "score": 147
+      "score": 140
     },
     {
-      "id": "50297566",
-      "headline": "PSG's Khvicha Kvaratskhelia undergoes successful knee surgery",
-      "description": "Khvicha Kvaratskhelia has undergone successful surgery on his serious knee injury, Paris Saint-Germain confirmed.",
-      "published": "2026-10-27T15:37:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50297566/psg-khvicha-kvaratskhelia-successful-knee-surgery",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717441_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Khvicha Kvaratskhelia",
-        "Harry Kane"
-      ],
-      "score": 146
-    },
-    {
-      "id": "50298045",
-      "headline": "Milan boss Ruben Amorim faces injury headache ahead of pre-derby Bologna game",
-      "description": "A growing injury list has left AC Milan head coach Ruben Amorim facing a difficult week leading up to the weekend's derby against Inter Milan.",
-      "published": "2026-10-27T15:24:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50298045/ac-milan-ruben-amorim-injuries-bologna-match",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1737008_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 145
-    },
-    {
-      "id": "50298520",
-      "headline": "Arsenal's Alessia Russo motivated by Harry Kane, Alexia Putellas Ballon d'Or wins",
-      "description": "Alessia Russo says watching role model Harry Kane win the men's Ballon d'Or has given her extra motivation as Arsenal look to get their season back on track.",
-      "published": "2026-10-27T16:13:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50298520/arsenal-alessia-russo-harry-kane-alexia-putellas-ballon-dor",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1737037_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Alessia Russo",
-        "Harry Kane",
-        "Alexia Putellas"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50298444",
-      "headline": "Xabi Alonso confirms João Pedro will be 'out a few weeks' for Chelsea",
-      "description": "Xabi Alonso confirms João Pedro will be 'out a few weeks' for Chelsea",
-      "published": "2026-10-27T15:56:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/50298444/xabi-alonso-confirms-joao-pedro-a-weeks-chelsea",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1027/dm_261027_COM_SOC_Presser_Xabi_Alonso_confirms_Joao_Pedro_will_be_out_a_few_weeks_for_Chelsea__20261027/dm_261027_COM_SOC_Presser_Xabi_Alonso_confirms_Joao_Pedro_will_be_out_a_few_weeks_for_Chelsea__20261027.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50297412",
-      "headline": "Ligue 1 reschedules matches amid public protests on streets in France",
-      "description": "Ligue 1 is moving scheduled games from Saturday at the request of public authorities amid weekend protests across the country.",
-      "published": "2026-10-27T14:34:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50297412/ligue-1-reschedules-matches-public-protests-france",
-      "image": "https://a.espncdn.com/photo/2026/1019/r1732873_1296x729_16-9.jpg",
+      "id": "50299296",
+      "headline": "Lens fans banned from Liverpool match for throwing flares vs. Brugge",
+      "description": "Fans of Ligue 1 club Lens were banned from buying tickets for a Champions League game at Liverpool by a UEFA disciplinary ruling Tuesday.",
+      "published": "2026-10-27T17:36:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50299296/uefa-bans-lens-fans-liverpool-flares-club-brugge",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737062_1296x729_16-9.jpg",
       "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50299199",
+      "headline": "Napoli coach Massimiliano Allegri will not appeal touchline ban",
+      "description": "Napoli coach Massimiliano Allegri will watch Wednesday's Serie A clash with Monza from the stands after deciding not to appeal against his touchline ban.",
+      "published": "2026-10-27T17:08:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50299199/napoli-coach-massimiliano-allegri-not-appeal-touchline-ban",
+      "image": "https://a.espncdn.com/photo/2024/0604/r1341465_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 139
+    },
+    {
+      "id": "50299369",
+      "headline": "Wayne Rooney's son, Kai scores, 4 goals for Man United under-18s vs. Burnley",
+      "description": "Kai Rooney scored four goals as Manchester United's Under-18s thrashed Burnley 6-0 on Tuesday.",
+      "published": "2026-10-27T18:37:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50299369/wayne-rooney-son-kai-hits-four-manchester-united-18s-vs-burnley",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737065_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "England",
-        "France"
+        "Cabo Verde"
       ],
       "players": [
-        "Harry Kane"
+        "Vozinha"
       ],
       "score": 130
     },
     {
-      "id": "50295834",
-      "headline": "Why Real Madrid's Mbappé, Barcelona's Yamal lost Ballon d'Or",
-      "description": "Kylian Mbappé and Lamine Yamal both achieved greatness last season, but it still wasn't enough for either of them to claim soccer's top individual prize.",
-      "published": "2026-10-27T14:04:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50295834/why-real-madrid-kylian-mbappe-barcelona-lamine-yamal-lost-ballon-dor-harry-kane",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1736954_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland and Sam Marsden",
+      "id": "50299531",
+      "headline": "Bayern Munich's Vincent Kompany improving 'day by day,' but no return date yet",
+      "description": "Bayern Munich assistant coach Aaron Danks said head coach Vincent Kompany is in good spirits and improving \"day by day\" after being hospitalized last week.",
+      "published": "2026-10-27T17:51:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50299531/bayern-munich-vincent-kompany-coach-collapse-virus",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737071_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "England"
+        "Cabo Verde"
       ],
       "players": [
-        "Lamine Yamal",
-        "Kylian Mbappé",
-        "Harry Kane"
+        "Vozinha"
       ],
       "score": 129
     },
     {
-      "id": "50297244",
-      "headline": "Wayne Rooney blasts Man United players amid growing crisis",
-      "description": "Manchester United's players need a \"firework up their a----\" and reminding what it means to play for the club, according to Wayne Rooney.",
-      "published": "2026-10-27T14:00:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50297244/wayne-rooney-blasts-man-united-players-amid-growing-crisis",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1736965_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "50299184",
+      "headline": "Gary Neville: 'Really surprised' but 'happy' Michael Carrick set to continue as Man United boss",
+      "description": "Michael Carrick faces a tough ask to get Manchester United's misfiring players to turn his team's fortunes around, according to former club captain Gary Neville.",
+      "published": "2026-10-27T17:11:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50299184/gary-neville-really-surprised-happy-michael-carrick-set-continue-man-united-boss",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "England"
+        "Cabo Verde"
       ],
       "players": [
-        "Harry Kane"
+        "Vozinha"
       ],
-      "score": 129
+      "score": 127
+    },
+    {
+      "id": "50298641",
+      "headline": "Xhaka, Embolo to return for Switzerland after fake COVID-19 documents case",
+      "description": "Granit Xhaka was restored as captain of Switzerland on Tuesday after missing four games because he admitted using fake vaccination certificates during the COVID-19 pandemic.",
+      "published": "2026-10-27T16:32:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50298641/switzerland-granit-xhaka-breel-embolo-covid-19-documents",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737043_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde",
+        "Switzerland"
+      ],
+      "players": [
+        "Granit Xhaka",
+        "Breel Embolo",
+        "Vozinha"
+      ],
+      "score": 127
     },
     {
       "id": "47978642",
@@ -211,7 +208,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 96
+      "score": 79
     },
     {
       "id": "50256249",
@@ -230,7 +227,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 63
+      "score": 53
     },
     {
       "id": "50255102",
@@ -244,7 +241,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 46
+      "score": 36
     },
     {
       "id": "50247013",
@@ -258,23 +255,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 36
-    },
-    {
-      "id": "50237763",
-      "headline": "Premier League best place to develop Japanese talent - Japan FA chief",
-      "description": "The best place to develop Japanese talent is in the English Premier League, the president of the Japan Football Association has said.",
-      "published": "2026-10-21T14:33:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50237763/premier-league-best-place-develop-japanese-talent",
-      "image": "https://a.espncdn.com/photo/2026/0515/r1658476_1296x729_16-9.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Japan"
-      ],
-      "players": [],
-      "score": 30
+      "score": 26
     },
     {
       "id": "50156783",
@@ -312,27 +293,6 @@
         "Folarin Balogun"
       ],
       "score": 25
-    },
-    {
-      "id": "50226152",
-      "headline": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
-      "description": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
-      "published": "2026-10-20T09:08:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/50226152/were-messi-de-paul-wrong-taunt-atlanta-united-alonso",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Paraguay"
-      ],
-      "players": [
-        "Júnior Alonso",
-        "Lionel Messi",
-        "Rodrigo De Paul"
-      ],
-      "score": 23
     },
     {
       "id": "50182058",
@@ -401,6 +361,22 @@
       "score": 22
     },
     {
+      "id": "50237763",
+      "headline": "Premier League best place to develop Japanese talent - Japan FA chief",
+      "description": "The best place to develop Japanese talent is in the English Premier League, the president of the Japan Football Association has said.",
+      "published": "2026-10-21T14:33:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50237763/premier-league-best-place-develop-japanese-talent",
+      "image": "https://a.espncdn.com/photo/2026/0515/r1658476_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 20
+    },
+    {
       "id": "50194991",
       "headline": "Lautaro Martínez on World Cup goal against England: 'One of the most important in Argentina history'",
       "description": "Argentina forward Lautaro Martínez says he often watches his winning goal against England in the 2026 World Cup semifinal, labelling it \"one of the most important in the history of the national team.\"",
@@ -436,6 +412,27 @@
         "Vozinha"
       ],
       "score": 20
+    },
+    {
+      "id": "50226152",
+      "headline": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
+      "description": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
+      "published": "2026-10-20T09:08:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/50226152/were-messi-de-paul-wrong-taunt-atlanta-united-alonso",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Paraguay"
+      ],
+      "players": [
+        "Júnior Alonso",
+        "Lionel Messi",
+        "Rodrigo De Paul"
+      ],
+      "score": 13
     },
     {
       "id": "50195091",
@@ -765,22 +762,6 @@
       "score": 10
     },
     {
-      "id": "50015084",
-      "headline": "Gianni Infantino accused of 'woefully inadequate' co-operation with probe into Donald Trump links",
-      "description": "FIFA president Gianni Infantino has been accused of a \"woefully inadequate\" level of co-operation over a probe by democratic members of the United States House Judiciary Committee into his relationship with Donald Trump.",
-      "published": "2026-09-23T20:07:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50015084/gianni-infantino-donald-trump-fifa-world-cup-uefa",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
       "id": "50074316",
       "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
       "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
@@ -848,6 +829,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
       "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
       "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50178387",
+      "headline": "FIFA to propose sizable association payout bump from $10M to $25M",
+      "description": "FIFA will propose a $6.35 billion fund to its members for development between 2027 and 2030, including a boosted amount of $25 million for each association.",
+      "published": "2026-10-14T02:48:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50178387/fifa-association-payout-bump-10m-25m",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
