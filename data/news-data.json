@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-27T20:51:04.156Z",
+  "updated": "2026-10-28T05:41:19.780Z",
   "counts": {
     "news": 37,
     "preview": 2,
-    "offfield": 7,
+    "injury": 1,
+    "offfield": 6,
     "celebration": 2
   },
   "items": [
@@ -24,7 +25,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 208
+      "score": 194
     },
     {
       "id": "50265615",
@@ -42,7 +43,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 193
+      "score": 180
     },
     {
       "id": "50290177",
@@ -60,21 +61,41 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 156
+      "score": 143
     },
     {
-      "id": "50297404",
-      "headline": "Carling Knockout as it happened - Kaizer Chiefs, Orlando Pirates & Mamelodi Sundowns win, but Abdeslam Ouaddou demands more",
-      "description": "Mamelodi Sundowns, Kaizer Chiefs and Orlando Pirates all picked up wins in their last 16 Carling Knockout ties.",
-      "published": "2026-10-27T19:19:18Z",
-      "url": "https://www.espn.com/espn/story/_/id/50297404/carling-knockout-happened-kaizer-chiefs-orlando-pirates-mamelodi-sundowns-all-win",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1737113_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
+      "id": "50304339",
+      "headline": "Socceroos committed to Qatar, Jordan friendlies amid Middle East unrest",
+      "description": "The Socceroos are set to forge ahead with plans to play friendlies in the Middle East next month in the face of the increasingly volatile and unpredictable conflict in the region.",
+      "published": "2026-10-28T04:42:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50304339/socceroos-committed-qatar-jordan-friendlies-amid-middle-east-unrest",
+      "image": "https://a.espncdn.com/photo/2026/1028/r1737375_1296x729_16-9.jpg",
+      "byline": "AAP",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
         "Cabo Verde",
-        "South Africa"
+        "Australia",
+        "Qatar",
+        "Jordan"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50301787",
+      "headline": "Arsenal stunned in Carabao Cup loss to fourth-tier Fleetwood Town",
+      "description": "Premier League champions Arsenal were knocked out of the Carabao Cup after a stunning loss to fourth-tier Fleetwood Town following a penalty shootout Tuesday.",
+      "published": "2026-10-28T01:02:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50301787/arsenal-fleetwood-town-carabao-cup-4th-round-dowman-drone",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737235_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Cabo Verde"
       ],
       "players": [
         "Vozinha"
@@ -82,13 +103,13 @@
       "score": 140
     },
     {
-      "id": "50299296",
-      "headline": "Lens fans banned from Liverpool match for throwing flares vs. Brugge",
-      "description": "Fans of Ligue 1 club Lens were banned from buying tickets for a Champions League game at Liverpool by a UEFA disciplinary ruling Tuesday.",
-      "published": "2026-10-27T17:36:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50299296/uefa-bans-lens-fans-liverpool-flares-club-brugge",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1737062_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "50301676",
+      "headline": "Espanyol, with Watt among owners, sack González after loss to 4th-tier side",
+      "description": "Espanyol, the LaLiga side whose ownership group includes former NFL star J.J. Watt, have sacked coach Manolo González following Tuesday's Copa del Rey exit to fourth-tier side Sestao River.",
+      "published": "2026-10-27T22:59:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50301676/espanyol-watt-owners-sack-gonzalez-loss-4th-tier-side",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737240_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
@@ -97,34 +118,35 @@
       "players": [
         "Vozinha"
       ],
-      "score": 140
+      "score": 135
     },
     {
-      "id": "50299199",
-      "headline": "Napoli coach Massimiliano Allegri will not appeal touchline ban",
-      "description": "Napoli coach Massimiliano Allegri will watch Wednesday's Serie A clash with Monza from the stands after deciding not to appeal against his touchline ban.",
-      "published": "2026-10-27T17:08:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50299199/napoli-coach-massimiliano-allegri-not-appeal-touchline-ban",
-      "image": "https://a.espncdn.com/photo/2024/0604/r1341465_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50302723",
+      "headline": "Fleetwood shootout hero didn't practise pens before dispatching Arsenal",
+      "description": "Fleetwood shootout hero Conor Haughey said he didn't practice penalties before hitting an emphatic spot kick that dispatched Arsenal and secured a Carabao Cup upset for the ages on Tuesday.",
+      "published": "2026-10-28T01:08:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50302723/fleetwood-shootout-hero-practise-pens-dispatching-arsenal",
+      "image": "https://a.espncdn.com/photo/2026/1028/r1737301_2_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Cabo Verde"
       ],
       "players": [
+        "Conor Haughey",
         "Vozinha"
       ],
-      "score": 139
+      "score": 126
     },
     {
-      "id": "50299369",
-      "headline": "Wayne Rooney's son, Kai scores, 4 goals for Man United under-18s vs. Burnley",
-      "description": "Kai Rooney scored four goals as Manchester United's Under-18s thrashed Burnley 6-0 on Tuesday.",
-      "published": "2026-10-27T18:37:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50299369/wayne-rooney-son-kai-hits-four-manchester-united-18s-vs-burnley",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1737065_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50302543",
+      "headline": "William & Mary vs. North Carolina: Game Highlights",
+      "description": "William & Mary vs. North Carolina: Game Highlights",
+      "published": "2026-10-28T00:13:00Z",
+      "url": "https://www.espn.com/video/clip/_/id/50302543/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1028/7d44cd81-5c54-4cdb-9d75-6e445b8d7b9f/7d44cd81-5c54-4cdb-9d75-6e445b8d7b9f.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -133,15 +155,37 @@
       "players": [
         "Vozinha"
       ],
-      "score": 130
+      "score": 125
     },
     {
-      "id": "50299531",
-      "headline": "Bayern Munich's Vincent Kompany improving 'day by day,' but no return date yet",
-      "description": "Bayern Munich assistant coach Aaron Danks said head coach Vincent Kompany is in good spirits and improving \"day by day\" after being hospitalized last week.",
-      "published": "2026-10-27T17:51:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50299531/bayern-munich-vincent-kompany-coach-collapse-virus",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1737071_1296x729_16-9.jpg",
+      "id": "50302261",
+      "headline": "Recreativo Huelva vs. Rayo Vallecano - Game Highlights",
+      "description": "Watch the Game Highlights from Recreativo Huelva vs. Rayo Vallecano, 10/27/2026",
+      "published": "2026-10-27T23:10:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/50302261/recreativo-huelva-vs-rayo-vallecano-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1027/3a6923b8-b696-42df-ab10-8617721f9c58/3a6923b8-b696-42df-ab10-8617721f9c58.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Alejandro Marín Díaz",
+        "Paolo Romero",
+        "Jorge de Frutos",
+        "David Pecellin Garcia",
+        "Vozinha"
+      ],
+      "score": 123
+    },
+    {
+      "id": "50253183",
+      "headline": "Fourth-tier Fleetwood Town stun Arsenal in Carabao Cup shootout",
+      "description": "League Two Fleetwood shocked Premier League champions Arsenal in a penalty shootout to advance to the Carabao Cup quarterfinals after a 1-1 draw on Tuesday.",
+      "published": "2026-10-27T22:59:18Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401921835",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1737228_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
@@ -151,16 +195,16 @@
       "players": [
         "Vozinha"
       ],
-      "score": 129
+      "score": 123
     },
     {
-      "id": "50299184",
-      "headline": "Gary Neville: 'Really surprised' but 'happy' Michael Carrick set to continue as Man United boss",
-      "description": "Michael Carrick faces a tough ask to get Manchester United's misfiring players to turn his team's fortunes around, according to former club captain Gary Neville.",
-      "published": "2026-10-27T17:11:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50299184/gary-neville-really-surprised-happy-michael-carrick-set-continue-man-united-boss",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "50302062",
+      "headline": "Ogden: Arsenal's Carabao Cup exit to Fleetwood Town is 'embarrassing'",
+      "description": "Ogden: Arsenal's Carabao Cup exit to Fleetwood Town is 'embarrassing'",
+      "published": "2026-10-27T22:43:54Z",
+      "url": "https://www.espn.com/video/clip/_/id/50302062/arsenal-carabao-cup-exit-fleetwood-town-embarrassing",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1027/dm_261027_COM_SOC_Analysis_Ogden_Arsenals_Carabao_Cup_exit_to_Fleetwood_Town_is_embarrassing_20261027/dm_261027_COM_SOC_Analysis_Ogden_Arsenals_Carabao_Cup_exit_to_Fleetwood_Town_is_embarrassing_20261027.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -169,28 +213,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 127
-    },
-    {
-      "id": "50298641",
-      "headline": "Xhaka, Embolo to return for Switzerland after fake COVID-19 documents case",
-      "description": "Granit Xhaka was restored as captain of Switzerland on Tuesday after missing four games because he admitted using fake vaccination certificates during the COVID-19 pandemic.",
-      "published": "2026-10-27T16:32:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50298641/switzerland-granit-xhaka-breel-embolo-covid-19-documents",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1737043_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde",
-        "Switzerland"
-      ],
-      "players": [
-        "Granit Xhaka",
-        "Breel Embolo",
-        "Vozinha"
-      ],
-      "score": 127
+      "score": 123
     },
     {
       "id": "47978642",
@@ -208,7 +231,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 79
+      "score": 66
     },
     {
       "id": "50256249",
@@ -829,20 +852,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
       "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50178387",
-      "headline": "FIFA to propose sizable association payout bump from $10M to $25M",
-      "description": "FIFA will propose a $6.35 billion fund to its members for development between 2027 and 2030, including a boosted amount of $25 million for each association.",
-      "published": "2026-10-14T02:48:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50178387/fifa-association-payout-bump-10m-25m",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
