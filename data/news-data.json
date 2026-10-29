@@ -1,13 +1,31 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-28T21:49:58.394Z",
+  "updated": "2026-10-29T07:15:58.117Z",
   "counts": {
-    "offfield": 7,
     "news": 38,
-    "preview": 1,
+    "offfield": 6,
+    "preview": 2,
     "celebration": 2
   },
   "items": [
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-10-29T02:27:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 206
+    },
     {
       "id": "50309762",
       "headline": "Two-time WC coach Okada leaves Japan post over AFC support of Infantino",
@@ -22,7 +40,25 @@
         "Japan"
       ],
       "players": [],
-      "score": 218
+      "score": 194
+    },
+    {
+      "id": "50313114",
+      "headline": "Miami drops to 3rd after late draw ahead of crunch game with Revs",
+      "description": "Riquelme Fillipi scored his first MLS goal in the 90th minute to cap a late-game barrage as Lionel Messi and Inter Miami CF escaped with a 2-2 tie against FC Cincinnati on Wednesday night.",
+      "published": "2026-10-29T03:28:32Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761908",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1029/e85661f7-717a-4fb1-8820-b10fcf80a9c9/e85661f7-717a-4fb1-8820-b10fcf80a9c9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 136
     },
     {
       "id": "50297310",
@@ -40,7 +76,127 @@
       "players": [
         "Vozinha"
       ],
-      "score": 160
+      "score": 136
+    },
+    {
+      "id": "50313777",
+      "headline": "Union hang on for draw to clinch playoff spot, capping remarkable run",
+      "description": "The Philadelphia Union hung on Wednesday night for a 0-0 tie with Nashville SC to clinch a berth in the 2026 MLS Cup playoffs.",
+      "published": "2026-10-29T03:07:55Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761914",
+      "image": "https://a.espncdn.com/photo/2026/1029/r1737894_1024x576_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50313668",
+      "headline": "Chicago Fire FC vs. Orlando City SC - Game Highlights",
+      "description": "Watch the Game Highlights from Chicago Fire FC vs. Orlando City SC, 10/28/2026",
+      "published": "2026-10-29T02:53:59Z",
+      "url": "https://www.espn.com/video/clip/_/id/50313668/chicago-fire-fc-vs-orlando-city-sc-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1029/10378b67-07b0-4ec9-afbb-3d7a568fd2a4/10378b67-07b0-4ec9-afbb-3d7a568fd2a4.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Maren Haile-Selassie",
+        "Iván Angulo",
+        "Antoine Griezmann",
+        "Jonathan Bamba",
+        "Robert Lewandowski",
+        "Lionel Messi"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50313700",
+      "headline": "Chris Richards shines for Crystal Palace in Carabao Cup",
+      "description": "Jeff Carlisle details Chris Richards' stellar performance for Crystal Palace in their Carabao Cup win.",
+      "published": "2026-10-29T02:52:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/50313700/chris-richards-shines-crystal-palace-carabao-cup",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1028/dm_261028_USMNT_Chris_Richards_IA/dm_261028_USMNT_Chris_Richards_IA.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Chris Richards",
+        "Lionel Messi"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50313313",
+      "headline": "Late Sargent goal keeps Toronto playoff hopes alive",
+      "description": "Josh Sargent scored a go-ahead goal in the 86th minute to help Toronto FC beat D.C. United 2-1 on Wednesday night.",
+      "published": "2026-10-29T02:45:00Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761906",
+      "image": "https://a.espncdn.com/photo/2026/1029/r1737886_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50313440",
+      "headline": "Charlotte vs. Memphis: Game Highlights",
+      "description": "Charlotte vs. Memphis: Game Highlights",
+      "published": "2026-10-29T02:27:38Z",
+      "url": "https://www.espn.com/video/clip/_/id/50313440/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1029/0d2a605f-c52e-4b35-9f24-33c3daabefed/0d2a605f-c52e-4b35-9f24-33c3daabefed.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50313062",
+      "headline": "Inter Miami CF vs. FC Cincinnati - Game Highlights",
+      "description": "Watch the Game Highlights from Inter Miami CF vs. FC Cincinnati, 10/28/2026",
+      "published": "2026-10-29T01:55:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/50313062/inter-miami-cf-vs-fc-cincinnati-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1029/20ef8d9d-c322-4b8e-8f0a-75ccf9e4c1dc/20ef8d9d-c322-4b8e-8f0a-75ccf9e4c1dc.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Riquelme",
+        "Samuel Gidi",
+        "Telasco Segovia",
+        "Luis Suárez",
+        "Evander",
+        "Lionel Messi"
+      ],
+      "score": 125
     },
     {
       "id": "50265615",
@@ -58,153 +214,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 145
-    },
-    {
-      "id": "50305774",
-      "headline": "Transfer rumors, news: Juventus eye move for USMNT's Balogun",
-      "description": "AS Monaco and USMNT striker Folarin Balogun is reportedly linked with a move to Juventus. Transfer Talk has the latest.",
-      "published": "2026-10-28T20:05:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
-      "image": "https://a.espncdn.com/photo/2026/1028/r1737670_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Cabo Verde",
-        "USA"
-      ],
-      "players": [
-        "Folarin Balogun",
-        "Vozinha"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50311124",
-      "headline": "Chelsea rediscover ruthless edge as Bompastor's vision takes shape",
-      "description": "Chelsea remain unbeaten this season, but have also demonstrated different ways to continue winning thanks to their squad depth and tactical changes.",
-      "published": "2026-10-28T21:31:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50311124/chelsea-rediscover-ruthless-edge-sonia-bompastors-vision-takes-shape",
-      "image": "https://a.espncdn.com/photo/2026/1028/r1737712_1296x729_16-9.jpg",
-      "byline": "Emily Keogh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50311126",
-      "headline": "Real Madrid undervalued due to 'worst enemy' Barcelona, coach insists",
-      "description": "Real Madrid coach Pau Quesada said his team \"aren't valued enough\" after their 2-2 UWCL draw at Bayern Munich, blaming the standard set by rivals Barcelona.",
-      "published": "2026-10-28T21:31:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50311126/real-madrid-barcelona-uwcl-liga-f-coach-pau-quesada",
-      "image": "https://a.espncdn.com/photo/2026/1028/r1737718_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50253268",
-      "headline": "Bologna storm back to hand Milan, Amorim first Serie A loss",
-      "description": "Samuel Mbangula fired a hat trick as Bologna beat AC Milan 4-2 to hand the hosts a first Serie A loss of the season.",
-      "published": "2026-10-28T20:59:34Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401874993",
-      "image": "https://a.espncdn.com/photo/2026/1028/r1737648_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50310528",
-      "headline": "Real Madrid blow 2-goal lead vs. Bayern Munich in UWCL",
-      "description": "Real Madrid blow 2-goal lead vs. Bayern Munich in UWCL",
-      "published": "2026-10-28T20:11:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/50310528/real-madrid-blow-2-goal-lead-vs-bayern-munich-uwcl",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1028/dm_261028_COM_SOC_Highlight_Real_Madrid_blow_2_goal_lead_vs_Bayern_Munich_in_UWCL__20261028_EUROPE/dm_261028_COM_SOC_Highlight_Real_Madrid_blow_2_goal_lead_vs_Bayern_Munich_in_UWCL__20261028_EUROPE.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50310359",
-      "headline": "Carpenter and Buchanan fire Chelsea to victory against Roma",
-      "description": "Carpenter and Buchanan fire Chelsea to victory against Roma",
-      "published": "2026-10-28T19:59:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/50310359/carpenter-buchanan-fire-chelsea-victory-roma",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1028/dm_261028_COM_SOC_Highlight_Carpenter_and_Buchanan_fire_Chelsea_to_victory_against_Roma__20261028_EUROPE/dm_261028_COM_SOC_Highlight_Carpenter_and_Buchanan_fire_Chelsea_to_victory_against_Roma__20261028_EUROPE.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50253197",
-      "headline": "Chelsea beat Roma to continue UWCL home dominance",
-      "description": "Second-half goals from Ellie Carpenter and Kadeisha Buchanan made sure Chelsea maintained their strong start to this year's UEFA Women's Champions League campaign with a 2-0 win over Roma at Plough Lane.",
-      "published": "2026-10-28T19:51:34Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401917000",
-      "image": "https://a.espncdn.com/photo/2026/1028/r1737652_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50253187",
-      "headline": "Man City survive penalties to advance past Brighton",
-      "description": "Manchester City's backup goalkeeper Gerónimo Rulli saved two spot-kicks as the holders beat Brighton 4-3 on penalties to edge into the Carabao Cup quarterfinals.",
-      "published": "2026-10-28T21:47:30Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401921834",
-      "image": null,
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Cabo Verde"
-      ],
-      "players": [
-        "Vozinha"
-      ],
-      "score": 127
+      "score": 121
     },
     {
       "id": "50290177",
@@ -222,25 +232,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 109
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-10-24T23:40:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 53
+      "score": 84
     },
     {
       "id": "50256249",
@@ -847,6 +839,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg",
       "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50189352",
+      "headline": "Gianni Infantino 'not fit to be FIFA president' without answers - FA chair",
+      "description": "Football Association chair Debbie Hewitt says Gianni Infantino is \"not fit to be FIFA president\" if he does not answer questions about his World Cup private investor plan or the Folarin Balogun case.",
+      "published": "2026-10-15T22:14:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
