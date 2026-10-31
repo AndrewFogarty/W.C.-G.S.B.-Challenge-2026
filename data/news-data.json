@@ -1,31 +1,163 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-31T06:19:38.656Z",
+  "updated": "2026-10-31T12:51:41.387Z",
   "counts": {
-    "injury": 1,
-    "news": 38,
-    "offfield": 6,
-    "preview": 1,
-    "celebration": 2
+    "preview": 4,
+    "offfield": 7,
+    "celebration": 3,
+    "news": 34
   },
   "items": [
     {
-      "id": "50333111",
-      "headline": "Source: FIFA aims to double Women's World Cup prize money, but equal pay remains out of reach",
-      "description": "FIFA aims to double the prize money for the 2027 Women's World Cup, a major increase that still falls short of the men's tournament total, a source told ESPN.",
-      "published": "2026-10-31T04:08:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50333111/fifa-double-women-world-cup-prize-money-equal-pay",
-      "image": "https://a.espncdn.com/photo/2026/1031/r1738834_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50334846",
+      "headline": "Soweto Derby - Orlando Pirates vs. Kaizer Chiefs LIVE as it happens",
+      "description": "Orlando Pirates and Kaizer Chiefs clash in Saturday's Soweto Derby at FNB Stadium in the South African Premiership. The Buccaneers have named Yanela Mbuthuma as their starting striker, with Oswin Appollis on the bench.",
+      "published": "2026-10-31T12:51:10Z",
+      "url": "https://www.espn.com/espn/story/_/id/50334846/soweto-derby-orlando-pirates-vs-kaizer-chiefs-live-happens",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738880_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Deon Hotto",
+        "Yanela Mbuthuma",
+        "Oswin Appollis",
+        "Wandile Duba",
+        "Lionel Messi"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50334951",
+      "headline": "Bruno Fernandes returns to Man United XI for Chelsea clash",
+      "description": "Bruno Fernandes has returned to the Manchester United starting lineup.",
+      "published": "2026-10-31T12:50:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50334951/bruno-fernandes-returns-man-united-xi-chelsea-clash",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738889_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Bruno Fernandes",
+        "Lionel Messi"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50319491",
+      "headline": "Premier League live updates: Chelsea host Man United in early matchup",
+      "description": "We've got plenty of treats in store on Halloween, starting with Chelsea against Manchester United to kick off a packed day of action. United have brought captain Bruno Fernandes back into the team.",
+      "published": "2026-10-31T12:42:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50319491/premier-league-live-updates-chelsea-manchester-united-manchester-city-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738886_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 144
+      "score": 142
+    },
+    {
+      "id": "50334181",
+      "headline": "Transfer rumors, news: Man United to replace Fernandes with Fermin?",
+      "description": "Barcelona midfielder Fermín López is an option to replace Manchester United captain Bruno Fernandes. Transfer Talk has the latest.",
+      "published": "2026-10-31T10:40:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50334181/transfer-rumors-news-man-united-replace-bruno-fernandes-fermin-lopez",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1706005_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Fermín López",
+        "Lionel Messi"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50328963",
+      "headline": "Spooky scheduling: How MLS ensures fans, players don't have horror Halloween",
+      "description": "Everyone has Halloween plans, so to make sure players and fans could celebrate, MLS gave clubs the option of playing outside of trick-or-treat primetime.",
+      "published": "2026-10-31T12:34:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50328963/spooky-scheduling-how-mls-ensures-fans-players-dont-horror-halloween",
+      "image": "https://a.espncdn.com/photo/2026/1030/r1738627_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano and Austin Lindberg",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50334364",
+      "headline": "Aston Villa to take legal action against Jamie Carragher over podcast comments",
+      "description": "Aston Villa have announced plans to take legal action against Jamie Carragher following his \"unacceptable insults\" about the club and its supporters.",
+      "published": "2026-10-31T12:20:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50334364/aston-villa-take-legal-action-jamie-carragher-podcast-comments",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738869_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50333071",
+      "headline": "Everything at stake for NWSL Decision Day: Shield, playoff spots, hosting and more",
+      "description": "The NWSL's Decision Day this season will be a big one! Here's everything that's at stake...",
+      "published": "2026-10-31T08:59:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50333071/everything-stake-2026-nwsl-decision-day-shield-playoff-spots-hosting-more",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738846_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50334059",
+      "headline": "Awer Mabil scores the match winner for Melbourne City",
+      "description": "For the first time in over 11 years, Awer Mabil has scored an A-League goal, sealing the victory over Sydney FC.",
+      "published": "2026-10-31T08:28:07Z",
+      "url": "https://www.espn.com/video/clip/_/id/50334059/awer-mabil-scores-match-winner-melbourne-city",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1031/dm_261031_Soccer_HIGHLIGHT_Awer_Mabil_scores_the_match_winner_for_Melbourne_City_20261031_AUS/dm_261031_Soccer_HIGHLIGHT_Awer_Mabil_scores_the_match_winner_for_Melbourne_City_20261031_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
     },
     {
       "id": "47978642",
@@ -43,133 +175,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 135
-    },
-    {
-      "id": "50333126",
-      "headline": "Utah vs. BYU: Game Highlights",
-      "description": "Utah vs. BYU: Game Highlights",
-      "published": "2026-10-31T03:53:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/50333126/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/6164e83b-740e-4720-9e6b-91c567a6a715/6164e83b-740e-4720-9e6b-91c567a6a715.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50333057",
-      "headline": "California vs. Stanford: Game Highlights",
-      "description": "California vs. Stanford: Game Highlights",
-      "published": "2026-10-31T03:27:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/50333057/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/b6314b1f-3b18-4673-8ad7-9a2a2ce24efd/b6314b1f-3b18-4673-8ad7-9a2a2ce24efd.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50332593",
-      "headline": "Kansas vs. Houston: Game Highlights",
-      "description": "Kansas vs. Houston: Game Highlights",
-      "published": "2026-10-31T02:05:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/50332593/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/891b8779-0ea1-4c1f-a2eb-e6863e7de614/891b8779-0ea1-4c1f-a2eb-e6863e7de614.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50332560",
-      "headline": "Louisville vs. Smu: Game Highlights",
-      "description": "Louisville vs. Smu: Game Highlights",
-      "published": "2026-10-31T01:56:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/50332560/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/fcea270c-7ef1-4dfb-b70c-f017062c37b6/fcea270c-7ef1-4dfb-b70c-f017062c37b6.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50332464",
-      "headline": "Wake Forest vs. Clemson: Game Highlights",
-      "description": "Wake Forest vs. Clemson: Game Highlights",
-      "published": "2026-10-31T01:32:47Z",
-      "url": "https://www.espn.com/video/clip/_/id/50332464/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/5ffcaf5a-64b6-4b1e-9252-d8cd779d70a1/5ffcaf5a-64b6-4b1e-9252-d8cd779d70a1.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50332410",
-      "headline": "NC State vs. North Carolina: Game Highlights",
-      "description": "NC State vs. North Carolina: Game Highlights",
-      "published": "2026-10-31T01:24:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/50332410/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/10a69aaa-1400-4bcb-a810-85d5e8211f40/10a69aaa-1400-4bcb-a810-85d5e8211f40.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50332403",
-      "headline": "Duke vs. Notre Dame: Game Highlights",
-      "description": "Duke vs. Notre Dame: Game Highlights",
-      "published": "2026-10-31T01:21:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/50332403/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/452b375d-ba81-4cf5-ba44-fa7e864a6588/452b375d-ba81-4cf5-ba44-fa7e864a6588.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
+      "score": 125
     },
     {
       "id": "50309762",
@@ -185,7 +191,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 123
+      "score": 113
     },
     {
       "id": "50297310",
