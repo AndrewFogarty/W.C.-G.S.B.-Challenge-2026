@@ -1,13 +1,32 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-30T20:59:50.711Z",
+  "updated": "2026-10-31T06:19:38.656Z",
   "counts": {
-    "news": 36,
-    "offfield": 7,
-    "celebration": 4,
-    "preview": 1
+    "injury": 1,
+    "news": 38,
+    "offfield": 6,
+    "preview": 1,
+    "celebration": 2
   },
   "items": [
+    {
+      "id": "50333111",
+      "headline": "Source: FIFA aims to double Women's World Cup prize money, but equal pay remains out of reach",
+      "description": "FIFA aims to double the prize money for the 2027 Women's World Cup, a major increase that still falls short of the men's tournament total, a source told ESPN.",
+      "published": "2026-10-31T04:08:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50333111/fifa-double-women-world-cup-prize-money-equal-pay",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738834_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
     {
       "id": "47978642",
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
@@ -24,69 +43,133 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 149
+      "score": 135
     },
     {
-      "id": "50326251",
-      "headline": "Transfer rumors, news: Alexander-Arnold to return to Liverpool?",
-      "description": "A potential move back to Liverpool for Real Madrid defender Trent Alexander-Arnold could be in the cards. Transfer Talk has the latest.",
-      "published": "2026-10-30T20:42:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738704_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50333126",
+      "headline": "Utah vs. BYU: Game Highlights",
+      "description": "Utah vs. BYU: Game Highlights",
+      "published": "2026-10-31T03:53:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/50333126/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/6164e83b-740e-4720-9e6b-91c567a6a715/6164e83b-740e-4720-9e6b-91c567a6a715.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Trent Alexander-Arnold",
         "Lionel Messi"
       ],
-      "score": 145
+      "score": 129
     },
     {
-      "id": "50330001",
-      "headline": "2026 Ballon d'Or results: Kane beat Mbappé by one of smallest margins in history",
-      "description": "Harry Kane edged out Kylian Mbappé for the 2026 Men's Ballon d'Or by just 28 points, making it one of the closest votes in the award's history.",
-      "published": "2026-10-30T20:53:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50330001/2026-ballon-dor-results-men-full-women-votes-kane-mbappe",
-      "image": "https://a.espncdn.com/photo/2026/1026/r1736762_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "50333057",
+      "headline": "California vs. Stanford: Game Highlights",
+      "description": "California vs. Stanford: Game Highlights",
+      "published": "2026-10-31T03:27:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/50333057/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/b6314b1f-3b18-4673-8ad7-9a2a2ce24efd/b6314b1f-3b18-4673-8ad7-9a2a2ce24efd.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "England",
-        "France"
+        "Argentina"
       ],
       "players": [
-        "Harry Kane",
-        "Kylian Mbappé",
-        "Lamine Yamal",
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 129
     },
     {
-      "id": "50330654",
-      "headline": "Achraf Hakimi scores 1st career hat trick as Luis Enrique makes PSG history",
-      "description": "Right back Achraf Hakimi claimed a first career hat trick and provided two assists as Luis Enrique became the winningest coach in Paris Saint-Germain history on Friday.",
-      "published": "2026-10-30T20:50:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738690_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "50332593",
+      "headline": "Kansas vs. Houston: Game Highlights",
+      "description": "Kansas vs. Houston: Game Highlights",
+      "published": "2026-10-31T02:05:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/50332593/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/891b8779-0ea1-4c1f-a2eb-e6863e7de614/891b8779-0ea1-4c1f-a2eb-e6863e7de614.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "Morocco"
+        "Argentina"
       ],
       "players": [
-        "Achraf Hakimi",
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 127
+    },
+    {
+      "id": "50332560",
+      "headline": "Louisville vs. Smu: Game Highlights",
+      "description": "Louisville vs. Smu: Game Highlights",
+      "published": "2026-10-31T01:56:38Z",
+      "url": "https://www.espn.com/video/clip/_/id/50332560/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/fcea270c-7ef1-4dfb-b70c-f017062c37b6/fcea270c-7ef1-4dfb-b70c-f017062c37b6.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50332464",
+      "headline": "Wake Forest vs. Clemson: Game Highlights",
+      "description": "Wake Forest vs. Clemson: Game Highlights",
+      "published": "2026-10-31T01:32:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/50332464/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/5ffcaf5a-64b6-4b1e-9252-d8cd779d70a1/5ffcaf5a-64b6-4b1e-9252-d8cd779d70a1.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50332410",
+      "headline": "NC State vs. North Carolina: Game Highlights",
+      "description": "NC State vs. North Carolina: Game Highlights",
+      "published": "2026-10-31T01:24:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/50332410/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/10a69aaa-1400-4bcb-a810-85d5e8211f40/10a69aaa-1400-4bcb-a810-85d5e8211f40.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50332403",
+      "headline": "Duke vs. Notre Dame: Game Highlights",
+      "description": "Duke vs. Notre Dame: Game Highlights",
+      "published": "2026-10-31T01:21:23Z",
+      "url": "https://www.espn.com/video/clip/_/id/50332403/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/452b375d-ba81-4cf5-ba44-fa7e864a6588/452b375d-ba81-4cf5-ba44-fa7e864a6588.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
     },
     {
       "id": "50309762",
@@ -102,99 +185,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 137
-    },
-    {
-      "id": "50329255",
-      "headline": "Chelsea's Bompastor: WSL too good to get away with squad rotation",
-      "description": "Sonia Bompastor said the strength of the competition means she cannot afford to rotate her Chelsea side for Women's Super League matches despite facing commitments on multiple fronts.",
-      "published": "2026-10-30T18:08:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50329255/chelsea-sonia-bompastor-england-wsl-arsenal-man-city",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738618_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50329062",
-      "headline": "Virgil van Dijk: Liverpool must 'take that risk' under Andoni Iraola playing style",
-      "description": "Andoni Iraola's brand of risk-reward football is starting to take hold at Liverpool and captain Virgil van Dijk has said the players are becoming increasingly confident at committing to the game plan.",
-      "published": "2026-10-30T17:30:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50329062/virgil-van-dijk-liverpool-take-risk-andoni-iraola-playstyle",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738605_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50328932",
-      "headline": "2026 NWSL Decision Day: Where to watch, schedule",
-      "description": "NWSL teams look to finish the regular season strong on Decision Day.",
-      "published": "2026-10-30T16:36:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50328932/2026-nwsl-decision-day-watch-schedule",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1026/0d44baf9-153f-4706-a542-1c887e440527/0d44baf9-153f-4706-a542-1c887e440527.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50328857",
-      "headline": "Junior Kroupi not yet ready to start, according to Bournemouth boss Marco Rose",
-      "description": "Marco Rose will hold Bournemouth forward Junior Kroupi back for a little longer despite more minutes in midweek.",
-      "published": "2026-10-30T16:23:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50328857/junior-kroupi-not-yet-ready-start-according-bournemouth-boss-marco-rose",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738591_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Junior Kroupi",
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50328774",
-      "headline": "Enzo Maresca: Gianluigi Donnarumma not 'undroppable' but will be first name on team sheet",
-      "description": "Enzo Maresca insists Gianluigi Donnarumma is not undroppable -- but he will be the first name on the Manchester City team sheet this weekend.",
-      "published": "2026-10-30T16:22:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50328774/enzo-maresca-gianluigi-donnarumma-man-city-not-undroppable-brighton-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738583_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Gianluigi Donnarumma",
-        "Lionel Messi"
-      ],
-      "score": 126
+      "score": 123
     },
     {
       "id": "50297310",
@@ -212,7 +203,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 79
+      "score": 73
     },
     {
       "id": "50265615",
@@ -230,7 +221,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 65
+      "score": 63
     },
     {
       "id": "50290177",
