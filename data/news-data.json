@@ -1,116 +1,133 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-10-31T12:51:41.387Z",
+  "updated": "2026-10-31T17:27:21.791Z",
   "counts": {
-    "preview": 4,
-    "offfield": 7,
-    "celebration": 3,
-    "news": 34
+    "injury": 1,
+    "news": 38,
+    "offfield": 6,
+    "preview": 1,
+    "celebration": 2
   },
   "items": [
     {
-      "id": "50334846",
-      "headline": "Soweto Derby - Orlando Pirates vs. Kaizer Chiefs LIVE as it happens",
-      "description": "Orlando Pirates and Kaizer Chiefs clash in Saturday's Soweto Derby at FNB Stadium in the South African Premiership. The Buccaneers have named Yanela Mbuthuma as their starting striker, with Oswin Appollis on the bench.",
-      "published": "2026-10-31T12:51:10Z",
-      "url": "https://www.espn.com/espn/story/_/id/50334846/soweto-derby-orlando-pirates-vs-kaizer-chiefs-live-happens",
-      "image": "https://a.espncdn.com/photo/2026/1031/r1738880_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Deon Hotto",
-        "Yanela Mbuthuma",
-        "Oswin Appollis",
-        "Wandile Duba",
-        "Lionel Messi"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50334951",
-      "headline": "Bruno Fernandes returns to Man United XI for Chelsea clash",
-      "description": "Bruno Fernandes has returned to the Manchester United starting lineup.",
-      "published": "2026-10-31T12:50:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50334951/bruno-fernandes-returns-man-united-xi-chelsea-clash",
-      "image": "https://a.espncdn.com/photo/2026/1031/r1738889_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Bruno Fernandes",
-        "Lionel Messi"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50319491",
-      "headline": "Premier League live updates: Chelsea host Man United in early matchup",
-      "description": "We've got plenty of treats in store on Halloween, starting with Chelsea against Manchester United to kick off a packed day of action. United have brought captain Bruno Fernandes back into the team.",
-      "published": "2026-10-31T12:42:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50319491/premier-league-live-updates-chelsea-manchester-united-manchester-city-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/1031/r1738886_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "id": "50322417",
+      "headline": "Coventry out of relegation zone after stunning Sunderland win",
+      "description": "Coventry City climbed out of the relegation zone with a 3-1 win over Sunderland that leaves the Black Cats rooted to the bottom of the Premier League.",
+      "published": "2026-10-31T17:09:34Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879247",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738967_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 142
+      "score": 147
     },
     {
-      "id": "50334181",
-      "headline": "Transfer rumors, news: Man United to replace Fernandes with Fermin?",
-      "description": "Barcelona midfielder Fermín López is an option to replace Manchester United captain Bruno Fernandes. Transfer Talk has the latest.",
-      "published": "2026-10-31T10:40:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50334181/transfer-rumors-news-man-united-replace-bruno-fernandes-fermin-lopez",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1706005_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Fermín López",
-        "Lionel Messi"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50328963",
-      "headline": "Spooky scheduling: How MLS ensures fans, players don't have horror Halloween",
-      "description": "Everyone has Halloween plans, so to make sure players and fans could celebrate, MLS gave clubs the option of playing outside of trick-or-treat primetime.",
-      "published": "2026-10-31T12:34:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50328963/spooky-scheduling-how-mls-ensures-fans-players-dont-horror-halloween",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738627_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano and Austin Lindberg",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "id": "50337378",
+      "headline": "Are Brighton the most 'complete' team in the Premier League?",
+      "description": "Are Brighton the most 'complete' team in the Premier League?",
+      "published": "2026-10-31T17:26:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/50337378/are-brighton-most-complete-team-premier-league",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1031/dm_261031_COM_SOC_Analysis_Are_Brighton_the_most_E28098completeE28099_team_in_the_Premier_League3F__GLOBAL_2026-10-31/dm_261031_COM_SOC_Analysis_Are_Brighton_the_most_E28098completeE28099_team_in_the_Premier_League3F__GLOBAL_2026-1.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 133
     },
     {
-      "id": "50334364",
-      "headline": "Aston Villa to take legal action against Jamie Carragher over podcast comments",
-      "description": "Aston Villa have announced plans to take legal action against Jamie Carragher following his \"unacceptable insults\" about the club and its supporters.",
-      "published": "2026-10-31T12:20:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50334364/aston-villa-take-legal-action-jamie-carragher-podcast-comments",
-      "image": "https://a.espncdn.com/photo/2026/1031/r1738869_1296x729_16-9.jpg",
+      "id": "50337349",
+      "headline": "Nicol: Man City deserved at least a point vs. Brighton",
+      "description": "Nicol: Man City deserved at least a point vs. Brighton",
+      "published": "2026-10-31T17:25:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/50337349/man-city-deserved-least-point-vs-brighton",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1031/dm_261031_COM_SOC_Analysis_Nicol3A_Man_City_deserved_at_least_a_point_vs_Brighton_GLOBAL_2026-10-31/dm_261031_COM_SOC_Analysis_Nicol3A_Man_City_deserved_at_least_a_point_vs_Brighton_GLOBAL_2026-10-31.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50337294",
+      "headline": "Rayo Vallecano vs. Celta Vigo - Game Highlights",
+      "description": "Watch the Game Highlights from Rayo Vallecano vs. Celta Vigo, 10/31/2026",
+      "published": "2026-10-31T17:19:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/50337294/rayo-vallecano-vs-celta-vigo-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/356b02ba-ffef-480a-9b40-ab6069c6ade5/356b02ba-ffef-480a-9b40-ab6069c6ade5.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Isi Palazón",
+        "Unai López",
+        "Jorge de Frutos",
+        "Ilaix Moriba",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50322401",
+      "headline": "Bournemouth run continues as James Trafford error costs Leeds",
+      "description": "A calamitous error from Leeds goalkeeper James Trafford set in-form AFC Bournemouth on course for a 2-0 Premier League victory at the Vitality Stadium.",
+      "published": "2026-10-31T17:12:31Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879251",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738974_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50322444",
+      "headline": "Julio Enciso salvages a point for Ipswich Town at Hull City",
+      "description": "Hull maintained their unbeaten home record but saw their winless run continue after a cat-and-mouse 2-2 draw with Ipswich at the MKM Stadium.",
+      "published": "2026-10-31T17:10:59Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878763",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738992_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50322452",
+      "headline": "In-form Brighton inflict back-to-back defeats on Man City",
+      "description": "Brighton avenged their Carabao Cup loss to Manchester City as they held on for a narrow 1-0 win over the Premier League leaders on Saturday.",
+      "published": "2026-10-31T17:06:48Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879245",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738989_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
@@ -123,32 +140,13 @@
       "score": 132
     },
     {
-      "id": "50333071",
-      "headline": "Everything at stake for NWSL Decision Day: Shield, playoff spots, hosting and more",
-      "description": "The NWSL's Decision Day this season will be a big one! Here's everything that's at stake...",
-      "published": "2026-10-31T08:59:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50333071/everything-stake-2026-nwsl-decision-day-shield-playoff-spots-hosting-more",
-      "image": "https://a.espncdn.com/photo/2026/1031/r1738846_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50334059",
-      "headline": "Awer Mabil scores the match winner for Melbourne City",
-      "description": "For the first time in over 11 years, Awer Mabil has scored an A-League goal, sealing the victory over Sydney FC.",
-      "published": "2026-10-31T08:28:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/50334059/awer-mabil-scores-match-winner-melbourne-city",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1031/dm_261031_Soccer_HIGHLIGHT_Awer_Mabil_scores_the_match_winner_for_Melbourne_City_20261031_AUS/dm_261031_Soccer_HIGHLIGHT_Awer_Mabil_scores_the_match_winner_for_Melbourne_City_20261031_AUS.jpg",
-      "byline": null,
+      "id": "50322407",
+      "headline": "Brentford crank up pressure on Oliver Glasner with 2-0 win over Nottingham Forest",
+      "description": "Igor Thiago was back among the goals while Nottingham Forest fired blanks again in a 2-0 defeat at Brentford.",
+      "published": "2026-10-31T16:59:17Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879249",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738984_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -157,7 +155,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 126
+      "score": 132
     },
     {
       "id": "47978642",
@@ -175,7 +173,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 125
+      "score": 119
     },
     {
       "id": "50309762",
@@ -191,7 +189,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 113
+      "score": 106
     },
     {
       "id": "50297310",
