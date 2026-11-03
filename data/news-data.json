@@ -1,27 +1,44 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-03T18:32:26.754Z",
+  "updated": "2026-11-03T23:38:40.382Z",
   "counts": {
-    "news": 36,
-    "injury": 2,
-    "preview": 2,
-    "offfield": 6,
+    "offfield": 8,
+    "news": 37,
+    "preview": 1,
     "celebration": 2
   },
   "items": [
     {
       "id": "50358121",
-      "headline": "Reports: FIFA to open World Cup private equity plan files following UEFA demands",
-      "description": "FIFA has agreed to grant access to confidential documents detailing its aborted plan to sell a stake in the World Cup to private investors, according to multiple reports.",
-      "published": "2026-11-03T00:45:24Z",
+      "headline": "Source: FIFA to open World Cup private equity plan files following UEFA demands",
+      "description": "FIFA will open access to confidential documents detailing president Gianni Infantino's controversial proposal to bring private investors into the World Cup, a source confirmed to ESPN.",
+      "published": "2026-11-03T19:24:35Z",
       "url": "https://www.espn.com/soccer/story/_/id/50358121/fifa-open-world-cup-private-equity-files-uefa-demands",
       "image": "https://a.espncdn.com/photo/2026/0908/r1713266_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 179
+      "score": 212
+    },
+    {
+      "id": "50366900",
+      "headline": "Transfer rumors, news: Arsenal to sign Bournemouth's Kroupi?",
+      "description": "Arsenal are one of the clubs linked with a move for AFC Bournemouth forward Junior Kroupi. Transfer Talk has the latest.",
+      "published": "2026-11-03T23:12:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50366900/transfer-rumors-news-real-madrid-tracking-arsenal-calafiori",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740773_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 144
     },
     {
       "id": "47978642",
@@ -39,73 +56,16 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 144
+      "score": 137
     },
     {
-      "id": "50369087",
-      "headline": "Steven Gerrard names Premier League wonderkid to watch: 'I have seen enough'",
-      "description": "Tottenham academy prospect Luca Williams-Barnett has shown in just a few moments why he is definitely a young player \"to look out for,\" according to former England captain Steven Gerrard.",
-      "published": "2026-11-03T15:34:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50369087/steven-gerrard-tottenham-wonderkid-luca-williams-barnett",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740523_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Luca Williams-Barnett",
-        "Lionel Messi"
-      ],
-      "score": 143
-    },
-    {
-      "id": "50329034",
-      "headline": "Champions League live updates: Galatasaray take on Stuttgart before full slate",
-      "description": "Atlético Madrid face Bayern Munich, Barcelona host Aston Villa and Manchester United take on Roma in a packed Tuesday of UEFA Champions League action.",
-      "published": "2026-11-03T18:22:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740602_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50368628",
-      "headline": "Ryan Gravenberch out of Liverpool's clash with Fenerbahce with heel injury",
-      "description": "Injury has ruled Liverpool midfielder Ryan Gravenberch out of the Champions League match against Fenerbahce in Istanbul.",
-      "published": "2026-11-03T13:59:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50368628/ryan-gravenberch-liverpool-champions-league-heel-injury-fenerbahce",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740484_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Ryan Gravenberch",
-        "Lionel Messi"
-      ],
-      "score": 140
-    },
-    {
-      "id": "50370351",
-      "headline": "Fenerbahce coach Dirk Kuyt ready for 'very special' reunion with Liverpool",
-      "description": "Former Liverpool forward Dirk Kuyt will park his feelings for his old club as he has a job to do for Fenerbahce.",
-      "published": "2026-11-03T18:24:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50370351/dirk-kuyt-fenerbahce-liverpool-reunion",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740583_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "50373199",
+      "headline": "Aston Villa left with 'lot of things to learn' after defeat in Barcelona",
+      "description": "Unai Emery has vowed his Aston Villa team will learn from their 3-0 defeat to Barcelona in the Champions League on Tuesday.",
+      "published": "2026-11-03T23:33:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50373199/aston-villa-vs-barcelona-uefa-champions-league-unai-emery",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740781_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -115,6 +75,117 @@
         "Lionel Messi"
       ],
       "score": 133
+    },
+    {
+      "id": "50372373",
+      "headline": "Did Man United's Champions League comeback save Carrick's job?",
+      "description": "Just when it looked like Man United would suffer another humiliating loss, they made a turnaround that might save their Champions League campaign -- and their coach.",
+      "published": "2026-11-03T23:33:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50372373/did-man-united-champions-league-comeback-save-carrick-job",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740756_1296x729_16-9.jpg",
+      "byline": "Mark Ogden and Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Matheus Cunha",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50373115",
+      "headline": "Maresca calls on City to help Haaland with goals: 'Can't rely on Erling'",
+      "description": "Enzo Maresca said his Manchester City side cannot only rely on Erling Haaland to score their goals.",
+      "published": "2026-11-03T23:26:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50373115/maresca-man-city-help-erling-haaland-goals",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738986_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Erling Haaland",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50373037",
+      "headline": "Bruno Fernandes: Michael Carrick was right to drop me from Man United XI",
+      "description": "Bruno Fernandes helped inspire Manchester United to a dramatic 3-2 Champions League win against AS Roma and said manager Michael Carrick was right to drop him for criticising his tactics last month.",
+      "published": "2026-11-03T23:24:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50373037/bruno-fernandes-michael-carrick-right-drop-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740771_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Bruno Fernandes",
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50368442",
+      "headline": "Prince William, Prince George watch on as Barcelona beat Aston Villa at Camp Nou",
+      "description": "The Prince of Wales made another European away trip in support of Aston Villa as he attended Tuesday's Champions League match against Barcelona.",
+      "published": "2026-11-03T23:21:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50368442/prince-william-barcelona-vs-aston-villa-camp-nou-source",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740770_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50329034",
+      "headline": "Champions League recap: Cunha leads Man United in comeback win vs. Roma",
+      "description": "Matheus Cunha scored a brace in a thrilling win for Manchester United against Roma on a Tuesday full of UEFA Champions League action.",
+      "published": "2026-11-03T22:47:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740732_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50322702",
+      "headline": "Barcelona put on classy display to hand Aston Villa first UCL loss",
+      "description": "Barcelona ensured Unai Emery had another Camp Nou nightmare as they beat his Aston Villa side 3-0 in the Champions League on Tuesday.",
+      "published": "2026-11-03T22:31:15Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915387",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740730_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
     },
     {
       "id": "50265615",
@@ -132,87 +203,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 133
-    },
-    {
-      "id": "50370155",
-      "headline": "Andoni Iraola: Liverpool have to handle Fenerbahce atmosphere",
-      "description": "Liverpool head coach Andoni Iraola wants to \"kill the confidence\" Fenerbahce get from a raucous home crowd and believes improving his side's attacking output is one of the best ways.",
-      "published": "2026-11-03T17:51:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50370155/andoni-iraola-liverpool-handle-fenerbahce-atmosphere",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740577_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50369855",
-      "headline": "Argentina sets first call-up without Lionel Messi for November friendlies",
-      "description": "Argentina announced their first call-up since Lionel Messi's retirement, with a 28-man list for friendlies against Uruguay on Nov. 13 and Costa Rica on Nov. 17.",
-      "published": "2026-11-03T17:24:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50369855/argentina-callup-lionel-messi-november-friendlies",
-      "image": "https://a.espncdn.com/photo/2026/1017/r1731940_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Uruguay"
-      ],
-      "players": [
-        "Lionel Messi",
-        "Emiliano Martínez",
-        "Aaron Anselmino"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50368827",
-      "headline": "Jesús de Miguel dies: Arsenal, Man United lead tributes from Premier League",
-      "description": "Arsenal and Manchester United are among the clubs to pay their respects to Jesús de Miguel, the Tenerife player who died on Tuesday.",
-      "published": "2026-11-03T15:13:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50368827/jesus-de-miguel-dies-arsenal-man-united-lead-tributes-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740529_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Jesús De Miguel",
-        "Lionel Messi"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50368669",
-      "headline": "England draw France, Austria, Portugal in Nations League",
-      "description": "England have drawn France, Austria and Portugal in their group for the UEFA Women's Nations League.",
-      "published": "2026-11-03T13:57:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50368669/england-draw-france-austria-portugal-nations-league",
-      "image": "https://a.espncdn.com/photo/2025/0725/r1523485_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "France",
-        "Austria",
-        "Portugal"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
+      "score": 125
     },
     {
       "id": "50309762",
