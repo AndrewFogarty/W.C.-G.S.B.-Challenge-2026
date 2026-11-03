@@ -1,27 +1,26 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-02T22:29:47.931Z",
+  "updated": "2026-11-03T03:40:37.516Z",
   "counts": {
     "news": 35,
-    "injury": 1,
-    "offfield": 7,
-    "preview": 3,
+    "offfield": 9,
+    "preview": 2,
     "celebration": 2
   },
   "items": [
     {
       "id": "50358121",
-      "headline": "UEFA awaits FIFA answers to Gianni Infantino queries as deadline looms - report",
-      "description": "UEFA is still waiting to receive answers to a series of questions it posed to FIFA related to Gianni Infantino's presidency, with only hours to go until the deadline for a response passes.",
-      "published": "2026-11-02T16:30:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50358121/uefa-await-fifa-answers-gianni-infantino-queries-deadline-looms",
+      "headline": "Reports: FIFA to open World Cup private equity plan files following UEFA demands",
+      "description": "FIFA has agreed to grant access to confidential documents detailing its aborted plan to sell a stake in the World Cup to private investors, according to multiple reports.",
+      "published": "2026-11-03T00:45:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50358121/fifa-open-world-cup-private-equity-files-uefa-demands",
       "image": "https://a.espncdn.com/photo/2026/0908/r1713266_1296x729_16-9.jpg",
-      "byline": "PA",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 197
+      "score": 202
     },
     {
       "id": "47978642",
@@ -39,7 +38,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 174
+      "score": 167
     },
     {
       "id": "50265615",
@@ -57,26 +56,64 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 163
+      "score": 155
     },
     {
-      "id": "50360114",
-      "headline": "Jack Grealish, 'not match fit,' left out of Everton squad again",
-      "description": "Jack Grealish was not named in Everton's squad for Monday's Premier League match at Newcastle United due to a fitness issue.",
-      "published": "2026-11-02T19:34:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50360114/jack-grealish-everton-squad-again",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697241_1296x729_16-9.jpg",
+      "id": "50363710",
+      "headline": "Socceroos, Matildas take Football Australia to court",
+      "description": "Socceroos and Matildas stars have sued Football Australia as part of a multi-million dollar dispute between the governing body and its national team players.",
+      "published": "2026-11-03T02:51:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50363710/socceroos-matildas-take-football-australia-court",
+      "image": "https://a.espncdn.com/photo/2026/0224/r1619308_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Australia"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50361749",
+      "headline": "Tenerife forward Jesús De Miguel 'stable' after in-game cardiac arrest",
+      "description": "Tenerife forward Jesús de Miguel suffered a cardiac arrest and was rushed to the hospital after an on-field collision in a Spanish second-division match on Monday.",
+      "published": "2026-11-02T23:31:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50361749/tenerife-de-miguel-stable-cardiac-arrest",
+      "image": "https://a.espncdn.com/photo/2026/1102/r1740267_1024x576_16-9.jpg",
       "byline": "ESPN News Services",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Jack Grealish",
+        "Jesús De Miguel",
         "Lionel Messi"
       ],
-      "score": 143
+      "score": 139
+    },
+    {
+      "id": "50361959",
+      "headline": "A-League Women Stocks: Sydney soar, Wellington wobble, and Matildas questions loom",
+      "description": "Faith Webber has us all believing in Sydney FC, while several Dub stars face a crucial audition before Matildas selection -- all that and more in ESPN's A-League Women Stocks.",
+      "published": "2026-11-03T00:13:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50361959/aleague-women-stocks-round-3-sydney-soar-wellington-wobble-matildas-questions-loom",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740281_1296x729_16-9.jpg",
+      "byline": "Samantha Lewis",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Faith Webber",
+        "Lionel Messi"
+      ],
+      "score": 137
     },
     {
       "id": "50356555",
@@ -96,90 +133,16 @@
         "Alex Freeman",
         "Lionel Messi"
       ],
-      "score": 142
+      "score": 134
     },
     {
-      "id": "50360295",
-      "headline": "Harry Kane hopes Bayern Munich can pass tough Champions League test in Madrid",
-      "description": "Ballon d'Or winner Harry Kane is determined to help Bayern Munich come through more difficult moments as they prepare to face Atlético Madrid in the Champions League.",
-      "published": "2026-11-02T19:57:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50360295/harry-kane-hopes-bayern-munich-pass-tough-champions-league-test-madrid",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740164_1296x729_16-9.jpg",
+      "id": "50361954",
+      "headline": "Moyes after 2nd Everton win over Newcastle: 'Not an easy thing'",
+      "description": "David Moyes hailed a \"great result\" for Everton as they secured back-to-back wins over Newcastle United with a 1-0 triumph at St James' Park on Monday.",
+      "published": "2026-11-03T00:08:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50361954/moyes-2nd-everton-win-newcastle",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740279_1296x729_16-9.jpg",
       "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Harry Kane",
-        "Lionel Messi"
-      ],
-      "score": 138
-    },
-    {
-      "id": "50359895",
-      "headline": "PSG's Luis Enrique warns against overconfidence in UCL clash vs. Villarreal",
-      "description": "Luis Enrique has warned the impressive wins over City and Barcelona will count for little when PSG look to continue their perfect UCL start vs. Villarreal.",
-      "published": "2026-11-02T18:46:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50359895/psg-luis-enrique-warns-overconfidence-ucl-clash-villarreal",
-      "image": "https://a.espncdn.com/photo/2026/1020/r1733635_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 136
-    },
-    {
-      "id": "50360679",
-      "headline": "Flick '100% convinced' Barcelona can win Champions League and LaLiga",
-      "description": "Flick '100% convinced' Barcelona can win Champions League and LaLiga",
-      "published": "2026-11-02T20:26:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/50360679/flick-100-convinced-barcelona-win-champions-league-laliga",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Flick_100_convinced_Barcelona_can_win_Champions_League_and_LaLiga/dm_261102_Flick_100_convinced_Barcelona_can_win_Champions_League_and_LaLiga.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50360639",
-      "headline": "Carrick 'can't wait' for Roma game and disregards sack talk",
-      "description": "Carrick 'can't wait' for Roma game and disregards sack talk",
-      "published": "2026-11-02T20:25:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/50360639/carrick-wait-roma-game-disregards-sack-talk",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Carrick_cant_wait_for_Roma_game_and_disregards_sack_talk/dm_261102_Carrick_cant_wait_for_Roma_game_and_disregards_sack_talk.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Michael Carrick",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50359073",
-      "headline": "MLS Power Rankings: Miami finds its feet with Decision Day coming up",
-      "description": "Which teams are in the best position heading into Decision Day? All this and more in the latest edition of ESPN's MLS Power Rankings.",
-      "published": "2026-11-02T18:51:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50359073/mls-power-rankings-inter-miami-find-their-feet-decision-day-coming-up",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740114_1296x729_16-9.jpg",
-      "byline": "Megan Swanick",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -191,13 +154,32 @@
       "score": 128
     },
     {
-      "id": "50359487",
-      "headline": "Chicago Fire's sister club Lugano target Swiss title with 22-game unbeaten run",
-      "description": "A 22-game unbeaten start to the season has Swiss club Lugano and its billionaire owner from Chicago targeting a first league title since 1949.",
-      "published": "2026-11-02T17:58:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50359487/lugano-22-game-unbeaten-streak-aim-swiss-title",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740117_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "50362045",
+      "headline": "Melchiot: Martínez would leave Manchester United with his head down",
+      "description": "Melchiot: Martínez would leave Manchester United with his head down",
+      "published": "2026-11-02T23:54:01Z",
+      "url": "https://www.espn.com/video/clip/_/id/50362045/martinez-leave-manchester-united-head-down",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Melchiot_Martinez_would_leave_Manchester_United_with_his_head_down/dm_261102_Melchiot_Martinez_would_leave_Manchester_United_with_his_head_down.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lisandro Martínez",
+        "Lionel Messi"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50322619",
+      "headline": "Barry leads Everton to second win over Newcastle in four days",
+      "description": "Thierno Barry's second-half strike helped Everton return to winning ways in the Premier League with a 1-0 victory over Newcastle at St James' Park.",
+      "published": "2026-11-02T23:06:16Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878762",
+      "image": "https://a.espncdn.com/photo/2026/1102/r1740227_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -207,6 +189,29 @@
         "Lionel Messi"
       ],
       "score": 126
+    },
+    {
+      "id": "50361314",
+      "headline": "Deportivo La Coruña vs. Osasuna - Game Highlights",
+      "description": "Watch the Game Highlights from Deportivo La Coruña vs. Osasuna, 11/03/2026",
+      "published": "2026-11-02T22:06:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/50361314/deportivo-la-coruna-vs-osasuna-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1102/87b87b0c-6c9a-443a-b77a-7ae9d9c3baf9/87b87b0c-6c9a-443a-b77a-7ae9d9c3baf9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Asier Osambela",
+        "Ante Budimir",
+        "Mario Soriano Carreno",
+        "Luismi Cruz",
+        "Bil Nsongo",
+        "Lionel Messi"
+      ],
+      "score": 125
     },
     {
       "id": "50309762",
