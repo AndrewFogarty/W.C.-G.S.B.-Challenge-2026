@@ -1,13 +1,30 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-03T23:38:40.382Z",
+  "updated": "2026-11-04T11:12:21.284Z",
   "counts": {
-    "offfield": 8,
-    "news": 37,
-    "preview": 1,
+    "preview": 3,
+    "offfield": 9,
+    "injury": 2,
+    "news": 32,
     "celebration": 2
   },
   "items": [
+    {
+      "id": "50377439",
+      "headline": "FIFA boss Gianni Infantino could face questions over ties to Donald Trump",
+      "description": "FIFA president Gianni Infantino could be compelled to answer questions over his ties to United States President Donald Trump or face criminal consequences after Democrats seized control of Congress in the midterm elections.",
+      "published": "2026-11-04T10:46:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50377439/fifa-boss-gianni-infantino-face-questions-ties-donald-trump",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 218
+    },
     {
       "id": "50358121",
       "headline": "Source: FIFA to open World Cup private equity plan files following UEFA demands",
@@ -20,15 +37,90 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 212
+      "score": 184
     },
     {
-      "id": "50366900",
-      "headline": "Transfer rumors, news: Arsenal to sign Bournemouth's Kroupi?",
-      "description": "Arsenal are one of the clubs linked with a move for AFC Bournemouth forward Junior Kroupi. Transfer Talk has the latest.",
-      "published": "2026-11-03T23:12:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50366900/transfer-rumors-news-real-madrid-tracking-arsenal-calafiori",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740773_1296x729_16-9.jpg",
+      "id": "50377477",
+      "headline": "Carlos Baleba injury 'doesn't look great' - Man United boss Michael Carrick",
+      "description": "Manchester United boss Michael Carrick said Carlos Baleba's injury \"doesn't look great\" after the midfielder was forced off during Tuesday's 3-2 win over Roma.",
+      "published": "2026-11-04T11:01:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50377477/carlos-baleba-injury-man-united-champions-league-premier-league-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740908_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Carlos Baleba",
+        "Vozinha"
+      ],
+      "score": 147
+    },
+    {
+      "id": "50377435",
+      "headline": "Wales pick Joe Rodon in Nations League squad despite two-month injury absence",
+      "description": "Joe Rodon has been named in the Wales squad for upcoming Nations League games, despite not having played for over two months.",
+      "published": "2026-11-04T10:40:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50377435/wales-joe-rodon-nations-league-squad-two-month-injury-absence",
+      "image": "https://a.espncdn.com/photo/2025/1013/r1559690_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Joe Rodon",
+        "Vozinha"
+      ],
+      "score": 146
+    },
+    {
+      "id": "50377365",
+      "headline": "JJ Gabriel close to joining Real Madrid - sources",
+      "description": "Real Madrid are edging closer to winning the race to sign Manchester United's JJ Gabriel, beating European giants including Barcelona, sources told ESPN.",
+      "published": "2026-11-04T10:48:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50377365/jj-gabriel-close-joining-real-madrid-sources",
+      "image": "https://a.espncdn.com/photo/2026/0512/r1657348_1296x729_16-9.jpg",
+      "byline": "Rodra",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "JJ Gabriel",
+        "Vozinha"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50377193",
+      "headline": "Outclassed by Barcelona, but Unai Emery's Aston Villa have plenty for Man United to envy",
+      "description": "ESPN's Tom Hamilton explains why Aston Villa's defeat to Barcelona cannot overshadow Unai Emery's remarkable rebuild ahead of facing Man United.",
+      "published": "2026-11-04T10:35:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50377193/aston-villa-barcelona-unai-emery-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740902_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50376623",
+      "headline": "Transfer rumors, news: Arsenal want Atlético Madrid winger",
+      "description": "Arsenal are keeping tabs on Atlético Madrid winger Álex Baena. Transfer Talk has the latest.",
+      "published": "2026-11-04T08:25:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708710_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
@@ -36,9 +128,181 @@
         "Argentina"
       ],
       "players": [
+        "Álex Baena",
         "Lionel Messi"
       ],
-      "score": 144
+      "score": 141
+    },
+    {
+      "id": "50377166",
+      "headline": "Jesús de Miguel death: Goalkeeper involved in incident 'deeply affected'",
+      "description": "FC Andorra defender Lautaro Spatz has shown support for teammate Jesús Owono, confirming he has been \"deeply affected\" by the death of Tenerife player Jesús de Miguel.",
+      "published": "2026-11-04T11:07:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50377166/jesus-de-miguel-death-goalkeeper-jesus-owono",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740894_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Vozinha"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50376943",
+      "headline": "Nigeria absent from women's player shortlist for first time since CAF awards began",
+      "description": "Nigeria have been left without a nominee for CAF's Women's Player of the Year award for the first time since Mercy Akide won the inaugural prize in 1999, ending a streak that has produced 14 Nigerian victories.",
+      "published": "2026-11-04T09:40:44Z",
+      "url": "https://www.espn.com/espn/story/_/id/50376943/nigeria-absent-women-player-shortlist-first-caf-awards-began",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694225_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Cabo Verde"
+      ],
+      "players": [
+        "Asisat Oshoala",
+        "Temwa Chawinga",
+        "Thembi Kgatlana",
+        "Michaely Kyria Bihina",
+        "Vozinha"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50376527",
+      "headline": "West Ham appoint Scott Parker to replace Nuno Espírito Santo",
+      "description": "West Ham United have confirmed Scott Parker as their new head coach, after sacking Nuno Espírito Santo.",
+      "published": "2026-11-04T09:38:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50376527/west-ham-appoint-scott-parker-replace-nuno-espirito-santo",
+      "image": "https://a.espncdn.com/photo/2020/0803/r727009_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50376839",
+      "headline": "Who was the player of the week in the NWSL?",
+      "description": "Who was the player of the week in the NWSL?",
+      "published": "2026-11-04T09:19:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/50376839/who-was-player-week-nwsl",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_COM_SOC_Analysis_Who_was_the_player_of_the_week_in_the_NWSL3F__GLOBAL_2026-11-04/dm_261104_COM_SOC_Analysis_Who_was_the_player_of_the_week_in_the_NWSL3F__GLOBAL_2026-11-04.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50376752",
+      "headline": "Trinity Rodman grateful for healthy season as Washington Spirit chase NWSL title",
+      "description": "Trinity Rodman has enjoyed the most productive regular season of her career, but the Washington Spirit star says her greatest satisfaction came from just being healthy enough to start every game.",
+      "published": "2026-11-04T09:11:57Z",
+      "url": "https://www.espn.com/espn/story/_/id/50376752/trinity-rodman-grateful-healthy-season-washington-spirit-chase-nwsl-title",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740890_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Trinity Rodman",
+        "Lionel Messi"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50369194",
+      "headline": "Southampton's long, redemptive road back from 'spygate'",
+      "description": "Southampton missed out on a chance at promotion last year because of a spying scandal that saw them booted from the playoffs. Now they're trying again and working through the trauma at the same time.",
+      "published": "2026-11-04T08:40:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50369194/southampton-spygate-tonda-eckert-english-championship-scandal",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740568_1296x729_16-9.jpg",
+      "byline": "Chris Jones, special to ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50376716",
+      "headline": "Carrick 'not getting carried away' after Man United's win vs. Roma",
+      "description": "Carrick 'not getting carried away' after Man United's win vs. Roma",
+      "published": "2026-11-04T08:34:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/50376716/carrick-not-getting-carried-away-man-united-win-vs-roma",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_COM_SOC_Presser_Carrick_not_getting_carried_away_after_Man_Uniteds_win_vs_Roma_20261104_GLO/dm_261104_COM_SOC_Presser_Carrick_not_getting_carried_away_after_Man_Uniteds_win_vs_Roma_20261104_GLO.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50357124",
+      "headline": "Harry Kane falls short of Cristiano Ronaldo Champions League goal streak record",
+      "description": "Harry Kane failed to match Cristiano Ronaldo's record for scoring in the most consecutive Champions League games.",
+      "published": "2026-11-04T08:28:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50357124/harry-kane-falls-short-cristiano-ronaldo-champions-league-goal-streak-record",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740885_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Harry Kane",
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50376533",
+      "headline": "Temwa Chawinga and Tabitha Chawinga lit up NWSL and UEFA Women's Champions League in October",
+      "description": "As more UEFA Women's Champions League action looms on ESPN in November, as well as the NWSL playoffs, Lyon and Malawi star Tabitha Chawinga is flying for club and country, with sister Temwa Chawinga also in hot form.",
+      "published": "2026-11-04T08:28:19Z",
+      "url": "https://www.espn.com/espn/story/_/id/50376533/temwa-chawinga-tabitha-chawinga-lit-nwsl-uefa-women-champions-league-october",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740882_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Tabitha Chawinga",
+        "Temwa Chawinga",
+        "Lionel Messi"
+      ],
+      "score": 129
     },
     {
       "id": "47978642",
@@ -56,136 +320,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 137
-    },
-    {
-      "id": "50373199",
-      "headline": "Aston Villa left with 'lot of things to learn' after defeat in Barcelona",
-      "description": "Unai Emery has vowed his Aston Villa team will learn from their 3-0 defeat to Barcelona in the Champions League on Tuesday.",
-      "published": "2026-11-03T23:33:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50373199/aston-villa-vs-barcelona-uefa-champions-league-unai-emery",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740781_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50372373",
-      "headline": "Did Man United's Champions League comeback save Carrick's job?",
-      "description": "Just when it looked like Man United would suffer another humiliating loss, they made a turnaround that might save their Champions League campaign -- and their coach.",
-      "published": "2026-11-03T23:33:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50372373/did-man-united-champions-league-comeback-save-carrick-job",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740756_1296x729_16-9.jpg",
-      "byline": "Mark Ogden and Rob Dawson",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Matheus Cunha",
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50373115",
-      "headline": "Maresca calls on City to help Haaland with goals: 'Can't rely on Erling'",
-      "description": "Enzo Maresca said his Manchester City side cannot only rely on Erling Haaland to score their goals.",
-      "published": "2026-11-03T23:26:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50373115/maresca-man-city-help-erling-haaland-goals",
-      "image": "https://a.espncdn.com/photo/2026/1031/r1738986_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50373037",
-      "headline": "Bruno Fernandes: Michael Carrick was right to drop me from Man United XI",
-      "description": "Bruno Fernandes helped inspire Manchester United to a dramatic 3-2 Champions League win against AS Roma and said manager Michael Carrick was right to drop him for criticising his tactics last month.",
-      "published": "2026-11-03T23:24:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50373037/bruno-fernandes-michael-carrick-right-drop-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740771_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Bruno Fernandes",
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50368442",
-      "headline": "Prince William, Prince George watch on as Barcelona beat Aston Villa at Camp Nou",
-      "description": "The Prince of Wales made another European away trip in support of Aston Villa as he attended Tuesday's Champions League match against Barcelona.",
-      "published": "2026-11-03T23:21:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50368442/prince-william-barcelona-vs-aston-villa-camp-nou-source",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740770_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50329034",
-      "headline": "Champions League recap: Cunha leads Man United in comeback win vs. Roma",
-      "description": "Matheus Cunha scored a brace in a thrilling win for Manchester United against Roma on a Tuesday full of UEFA Champions League action.",
-      "published": "2026-11-03T22:47:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740732_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50322702",
-      "headline": "Barcelona put on classy display to hand Aston Villa first UCL loss",
-      "description": "Barcelona ensured Unai Emery had another Camp Nou nightmare as they beat his Aston Villa side 3-0 in the Champions League on Tuesday.",
-      "published": "2026-11-03T22:31:15Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915387",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740730_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
+      "score": 109
     },
     {
       "id": "50265615",
@@ -203,7 +338,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 125
+      "score": 98
     },
     {
       "id": "50309762",
@@ -219,7 +354,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 82
+      "score": 72
     },
     {
       "id": "50297310",
@@ -237,7 +372,7 @@
       "players": [
         "Vozinha"
       ],
-      "score": 63
+      "score": 53
     },
     {
       "id": "50290177",
@@ -251,25 +386,6 @@
       "kindLabel": "News",
       "teams": [
         "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 43
-    },
-    {
-      "id": "50256249",
-      "headline": "Lionel Messi: Argentina's 2026 World Cup final heartbreak \"part of my football journey\"",
-      "description": "Lionel Messi has accepted that Argentina's 2026 World Cup extra-time defeat to Spain was a part of his football journey.",
-      "published": "2026-10-23T10:17:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50256249/lionel-messi-argentina-2026-world-cup-final-spain",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1734936_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain"
       ],
       "players": [
         "Lionel Messi"
@@ -312,6 +428,25 @@
         "Folarin Balogun"
       ],
       "score": 25
+    },
+    {
+      "id": "50256249",
+      "headline": "Lionel Messi: Argentina's 2026 World Cup final heartbreak \"part of my football journey\"",
+      "description": "Lionel Messi has accepted that Argentina's 2026 World Cup extra-time defeat to Spain was a part of his football journey.",
+      "published": "2026-10-23T10:17:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50256249/lionel-messi-argentina-2026-world-cup-final-spain",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1734936_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 23
     },
     {
       "id": "50182058",
@@ -415,20 +550,6 @@
         "Vozinha"
       ],
       "score": 20
-    },
-    {
-      "id": "50255102",
-      "headline": "Asian football chief backs Gianni Infantino for another term as FIFA president",
-      "description": "The Asian Football Confederation endorsed Gianni Infantino on Friday for a fourth term as FIFA president.",
-      "published": "2026-10-23T16:00:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50255102/asian-football-confederation-backs-gianni-infantino-term-fifa",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 16
     },
     {
       "id": "50226152",
@@ -538,27 +659,6 @@
       ],
       "players": [
         "Lionel Messi"
-      ],
-      "score": 13
-    },
-    {
-      "id": "50025741",
-      "headline": "Can Patrick Vieira rescue Senegal from their post-AFCON final hellscape?",
-      "description": "Senegal, surely, must be asking what on earth they have done to receive the misfortune and wretched experiences they've endured since January, when they won, and then lost, the AFCON final.",
-      "published": "2026-09-25T13:05:43Z",
-      "url": "https://www.espn.com/espn/story/_/id/50025741/can-patrick-vieira-rescue-senegal-their-post-afcon-final-hellscape",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703391_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal",
-        "Belgium",
-        "Norway"
-      ],
-      "players": [
-        "Sadio Mané",
-        "Nicolas Jackson"
       ],
       "score": 13
     },
@@ -775,80 +875,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "50074316",
-      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
-      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
-      "published": "2026-10-12T13:39:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Kylian Mbappé",
-        "Harry Kane",
-        "Lamine Yamal"
-      ],
-      "score": 9
-    },
-    {
-      "id": "50247013",
-      "headline": "AFC president unclear on backing for Infantino's FIFA reelection",
-      "description": "The president of the AFC gave no hint Thursday about the body's support or opposition to the reelection of Gianni Infantino as FIFA president.",
-      "published": "2026-10-22T10:29:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50247013/afc-president-unclear-support-infantino-fifa-reelection",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697947_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50171167",
-      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
-      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
-      "published": "2026-10-20T22:37:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50197782",
-      "headline": "Infantino apologized, but reelection as FIFA president remains far from certain",
-      "description": "Gianni Infantino tried to make amends at Thursday's FIFA Council meeting for his ill-fated attempt to sell the World Cup. Will it be enough to save his reelection bid?",
-      "published": "2026-10-17T09:41:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50197782/gianni-infantino-fifa-president-election-far-certain",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731790_1296x729_16-9.jpg",
-      "byline": "Gabriele Marcotti",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50189300",
-      "headline": "Gianni Infantino apologizes to FIFA Council, avoids key issues",
-      "description": "Gianni Infantino gave an apology to his toughest critics but no new details or documents on FIFA issues during FIFA council meetings Thursday.",
-      "published": "2026-10-15T23:39:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
