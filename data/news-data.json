@@ -1,11 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-04T23:56:40.418Z",
+  "updated": "2026-11-05T05:58:12.520Z",
   "counts": {
-    "offfield": 10,
-    "celebration": 3,
-    "news": 34,
-    "preview": 1
+    "offfield": 8,
+    "injury": 1,
+    "news": 36,
+    "preview": 1,
+    "celebration": 2
   },
   "items": [
     {
@@ -20,201 +21,56 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 175
+      "score": 166
     },
     {
-      "id": "50382265",
-      "headline": "World-record 53 red cards shown in Brazilian under-20s match",
-      "description": "A new world record has been set after 51 players and staff were sent off during an under-20s match in Brazil on Sunday.",
-      "published": "2026-11-04T22:30:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50382265/world-record-53-red-cards-brazilian-20s-match",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741214_1097x617_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50383766",
+      "headline": "Socceroos Depth Chart: Will Australia's next No. 9 please stand up?",
+      "description": "With the Asian Cup's postponement, Tony Popovic will no doubt look to experiment against Qatar and Jordan. So will anyone put their hands up for the vacant Socceroos striker spot?",
+      "published": "2026-11-05T02:18:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50383766/socceroos-depth-chart-australias-next-no-9-please-stand-up",
+      "image": "https://a.espncdn.com/photo/2026/1105/r1741350_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
-        "Senegal",
-        "Brazil"
+        "Argentina",
+        "Australia",
+        "Qatar",
+        "Jordan"
       ],
       "players": [
-        "Sadio Mané"
-      ],
-      "score": 143
-    },
-    {
-      "id": "50376623",
-      "headline": "Transfer rumors, news: Juventus eye moves for Šeško, Balogun",
-      "description": "Juventus are keeping tabs on possible moves for forwards Benjamin Šeško and Folarin Balogun. Transfer Talk has the latest.",
-      "published": "2026-11-04T21:28:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741190_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Benjamin Sesko",
-        "Folarin Balogun",
+        "Zachary Sapsford",
         "Lionel Messi"
       ],
-      "score": 141
+      "score": 142
     },
     {
-      "id": "50382528",
-      "headline": "Fabregas' Como up to 4th after record-setting 9-goal night",
-      "description": "Como beat Lens 9-1 in the league phase to set a record for most goals on the road by any team in the competition's history and move them up to fourth place in the table.",
-      "published": "2026-11-04T23:46:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-9-goal-night",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741242_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Sadio Mané"
-      ],
-      "score": 140
-    },
-    {
-      "id": "50379740",
-      "headline": "Crystal Palace appeal over Jean-Philippe Mateta red card rejected",
-      "description": "Crystal Palace striker Jean-Philippe Mateta will serve a three-match ban after an appeal against his red card in Saturday's 2-0 Premier League defeat at Tottenham was rejected.",
-      "published": "2026-11-04T17:31:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50379740/crystal-palace-jean-philippe-mateta-red-card-tottenham-premier-league-ban",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741039_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "50381317",
+      "headline": "Champions League talking points: Are Como the real deal?",
+      "description": "Gab Marcotti, Rob Dawson, Mark Ogden and Sam Marsden run the rule over upstarts Como, plus all the other moments that mattered from Matchday 4.",
+      "published": "2026-11-05T00:34:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50381317/champions-league-talking-points-como-real-deal",
+      "image": "https://a.espncdn.com/photo/2026/1105/r1741315_1296x729_16-9.jpg",
+      "byline": "Multiple contributors",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Jean-Philippe Mateta",
         "Lionel Messi"
       ],
-      "score": 135
+      "score": 137
     },
     {
-      "id": "50382848",
-      "headline": "Moreno: Liverpool constantly prone to mistakes",
-      "description": "Moreno: Liverpool constantly prone to mistakes",
-      "published": "2026-11-04T23:50:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/50382848/liverpool-constantly-prone-mistakes",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_Moreno_Liverpool_constantly_prone_to_mistakes/dm_261104_Moreno_Liverpool_constantly_prone_to_mistakes.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Sadio Mané"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50383009",
-      "headline": "Klinsmann: Real Madrid understand when it's important to step it up",
-      "description": "Klinsmann: Real Madrid understand when it's important to step it up",
-      "published": "2026-11-04T23:49:59Z",
-      "url": "https://www.espn.com/video/clip/_/id/50383009/real-madrid-understand-important-step-up",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_Klinsmann_Real_Madrid_understand_when_its_important_to_step_it_up/dm_261104_Klinsmann_Real_Madrid_understand_when_its_important_to_step_it_up.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Sadio Mané"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50383223",
-      "headline": "Robson: Manchester City win, but lack dominance",
-      "description": "Robson: Manchester City win, but lack dominance",
-      "published": "2026-11-04T23:49:54Z",
-      "url": "https://www.espn.com/video/clip/_/id/50383223/manchester-city-win-lack-dominance",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_Robson_Manchester_City_win_but_lack_dominance/dm_261104_Robson_Manchester_City_win_but_lack_dominance.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Sadio Mané"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50382966",
-      "headline": "Erling Haaland tells Man City to 'step up' after netting winner in Leipzig",
-      "description": "Erling Haaland called on Manchester City to become more ruthless after twice being pegged back before beating RB Leipzig 3-2 on Wednesday.",
-      "published": "2026-11-04T23:46:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50382966/erling-haaland-man-city-rb-leipzig-uefa-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741282_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Sadio Mané"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50382957",
-      "headline": "Dirk Kuyt hails 'another miracle in Istanbul' after Fenerbahce beat former club Liverpool",
-      "description": "Fenerbahce interim head coach Dirk Kuyt hailed \"another miracle in Istanbul\" after his side twice came from behind to beat Liverpool 3-2 in the Champions League on Wednesday night.",
-      "published": "2026-11-04T23:25:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50382957/dirk-kuyt-another-miracle-istanbul-fenerbahce-liverpool",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741280_1296x729_16-9.jpg",
-      "byline": "Jamie Barton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Sadio Mané"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50382463",
-      "headline": "West Ham snatch draw from 3-0 down in Scott Parker's first game in charge",
-      "description": "Scott Parker saw his West Ham side recover from three goals down to draw 3-3 at Cardiff in a thrilling first game in charge.",
-      "published": "2026-11-04T23:20:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50382463/west-ham-draw-cardiff-scott-parker-first-game",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741237_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Senegal"
-      ],
-      "players": [
-        "Sadio Mané"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50329182",
-      "headline": "Champions League live updates: Arsenal, Man City in action, Fenerbahçe stun Liverpool",
-      "description": "Fenerbahçe get a shock win against Liverpool, while Arsenal and Manchester City are both in action as UEFA Champions League league phase continues Wednesday.",
-      "published": "2026-11-04T21:25:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50329182/real-madrid-liverpool-manchester-city-arsenal",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741168_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50384483",
+      "headline": "UEFA Champions League stats: Yamal breaks Mbappe's record with 14; PSG, Madrid, Como set records; Mbappe 100; Raphinha overtakes Rivaldo",
+      "description": "ESPN brings you the best stats from matchweek 4 of the 2026-27 UEFA Champions League.",
+      "published": "2026-11-05T04:15:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50384483/uefa-champions-league-2026-27-ucl-stats-lamine-yamal-breaks-kylian-mbappe-record-14-psg-real-madrid-como-set-records-raphinha-overtakes-rivaldo",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740635_1296x729_16-9.jpg",
+      "byline": "Sunaadh Sagar",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -223,52 +79,16 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 129
+      "score": 130
     },
     {
-      "id": "50322768",
-      "headline": "Late Valverde stunner seals Real Madrid comeback in Athens",
-      "description": "Federico Valverde netted a stoppage-time winner as Real Madrid beat AEK Athens 3-2 in Greece on Wednesday with another dramatic Champions League comeback.",
-      "published": "2026-11-04T20:22:44Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915383",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741136_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50322771",
-      "headline": "Greenwood leads Fenerbahce rally to end Liverpool's perfect UCL start",
-      "description": "Even Liverpool 's multi-million pound bench could not rescue a team floundering in Istanbul as a chaotic performance was punished by Fenerbahce as they twice came from behind to win 3-2.",
-      "published": "2026-11-04T20:07:23Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915382",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741146_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50380736",
-      "headline": "Aston Villa planning long-term future with Unai Emery in message to rivals",
-      "description": "Aston Villa have signalled their intention to build their long-term future around manager Unai Emery.",
-      "published": "2026-11-04T19:21:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50380736/aston-villa-unai-emery-manager-contract-future",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741118_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "50383582",
+      "headline": "Spanish medical official questions pitchside emergency protocols after De Miguel's death",
+      "description": "Spanish medical workers are questioning pitchside emergency protocols following the fatal on-field collision involving Tenerife forward Jesús de Miguel.",
+      "published": "2026-11-05T01:07:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50383582/medical-official-pitchside-emergency-upgrades-de-miguel-death",
+      "image": "https://a.espncdn.com/photo/2026/1105/r1741332_1296x729_16-9.jpg",
+      "byline": "Associated Press",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -280,13 +100,13 @@
       "score": 126
     },
     {
-      "id": "50380347",
-      "headline": "Ruben Amorim not satisfied with Milan's start: 'We can do better'",
-      "description": "Coach Ruben Amorim said he was not satisfied with AC Milan's start to the season, either in Serie A or the Europa Leagu.",
-      "published": "2026-11-04T18:23:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50380347/ruben-amorim-ac-milan-season-start-europa-league-ferencvaros",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741080_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "50383867",
+      "headline": "Boston U. vs. Colgate: Game Highlights",
+      "description": "Boston U. vs. Colgate: Game Highlights",
+      "published": "2026-11-05T01:06:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/50383867/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1105/951f34d6-ef10-4711-82a8-3cb377c5260b/951f34d6-ef10-4711-82a8-3cb377c5260b.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -295,26 +115,70 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 125
+      "score": 126
     },
     {
-      "id": "50379572",
-      "headline": "Pochettino's squad illustrates his task: blend prodigious prospects with USMNT's golden generation",
-      "description": "The USMNT's November squad includes returns of the team's biggest stars, but a number of the teenage talents who excelled last time out, too.",
-      "published": "2026-11-04T17:13:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50379572/mauricio-pochettinos-squad-illustrates-task-blend-prodigious-prospects-usmnt-golden-generation",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741027_1296x729_16-9.jpg",
-      "byline": "Ryan Rosenblatt",
+      "id": "50383627",
+      "headline": "Wrexham joy at big win dented by losing striker Sam Smith for season",
+      "description": "Wrexham's morale-boosting win over Championship leaders Middlesbrough was partially overshadowed by confirmation that striker Sam Smith will miss the rest of the season.",
+      "published": "2026-11-05T00:48:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50383627/wrexham-middlesbrough-sam-smith-injury-championship",
+      "image": "https://a.espncdn.com/photo/2026/1105/r1741325_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "USA"
+        "Argentina"
+      ],
+      "players": [
+        "Sam Smith",
+        "Lionel Messi"
+      ],
+      "score": 125
+    },
+    {
+      "id": "43810752",
+      "headline": "Who has the most Champions League goals, assists all time?",
+      "description": "Cristiano Ronaldo leads the Champions League in all-time goals and assists. Check out which other soccer stars are behind him.",
+      "published": "2026-11-05T00:18:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/43810752/who-most-champions-league-goals-assists-all",
+      "image": "https://a.espncdn.com/photo/2018/0411/r355065_608x342_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Neymar",
+        "Ángel Di María",
+        "Robert Lewandowski",
+        "Karim Benzema",
+        "Thomas Müller",
+        "Kevin De Bruyne",
+        "Mohamed Salah"
+      ],
+      "score": 125
+    },
+    {
+      "id": "50383222",
+      "headline": "Mikel Arteta: 'A lot to learn' from Arsenal's 'sloppy' win over Slavia Prague",
+      "description": "Mikel Arteta admitted Arsenal made life hard for themselves after they edged past Slavia Prague 2-1 in the Champions League.",
+      "published": "2026-11-05T00:12:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50383222/mikel-arteta-arsenal-sloppy-win-slavia-prague",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1741295_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 123
+      "score": 124
     },
     {
       "id": "47978642",
@@ -332,7 +196,23 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 100
+      "score": 91
+    },
+    {
+      "id": "50309762",
+      "headline": "Two-time WC coach Okada leaves Japan post over AFC support of Infantino",
+      "description": "Two-time World Cup coach Takeshi Okada resigned as Japanese federation VP in protest over AFC support of FIFA during Gianni Infantino's re-election campaign.",
+      "published": "2026-10-28T18:57:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50309762/wc-coach-okada-leaves-japan-post-infantino-support",
+      "image": "https://a.espncdn.com/photo/2026/1028/r1737632_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 82
     },
     {
       "id": "50265615",
@@ -350,23 +230,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 88
-    },
-    {
-      "id": "50309762",
-      "headline": "Two-time WC coach Okada leaves Japan post over AFC support of Infantino",
-      "description": "Two-time World Cup coach Takeshi Okada resigned as Japanese federation VP in protest over AFC support of FIFA during Gianni Infantino's re-election campaign.",
-      "published": "2026-10-28T18:57:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50309762/wc-coach-okada-leaves-japan-post-infantino-support",
-      "image": "https://a.espncdn.com/photo/2026/1028/r1737632_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Japan"
-      ],
-      "players": [],
-      "score": 82
+      "score": 79
     },
     {
       "id": "50297310",
@@ -874,6 +738,128 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "50020939",
+      "headline": "U.S. Soccer's post-World Cup vibes: Lamenting a missed opportunity, embracing excitement",
+      "description": "The USMNT's World Cup was a paradox. Did inspiring a nation of future fans make it a success, or does the embarrassing exit mean it was a failure?",
+      "published": "2026-10-01T18:29:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50020939/us-soccer-men-national-team-post-world-cup-vibes-lamenting-missed-opportunity-embracing-excitement",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721313_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50058472",
+      "headline": "Pochettino labels Man City's charges as a 'period of deception'",
+      "description": "Pochettino labels Man City's charges as a 'period of deception'",
+      "published": "2026-09-29T13:24:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50038230",
+      "headline": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
+      "description": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
+      "published": "2026-09-27T01:25:28Z",
+      "url": "https://www.espn.com/video/clip/_/id/50038230/usmnt-debutants-made-their-mark-4-1-win-vs-peru",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/ss_20260926_205309109_36763731284/ss_20260926_205309109_36763731284.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50074316",
+      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
+      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
+      "published": "2026-10-12T13:39:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
+      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
+      "byline": "Bill Connelly",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [
+        "Kylian Mbappé",
+        "Harry Kane",
+        "Lamine Yamal"
+      ],
+      "score": 9
+    },
+    {
+      "id": "50247013",
+      "headline": "AFC president unclear on backing for Infantino's FIFA reelection",
+      "description": "The president of the AFC gave no hint Thursday about the body's support or opposition to the reelection of Gianni Infantino as FIFA president.",
+      "published": "2026-10-22T10:29:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50247013/afc-president-unclear-support-infantino-fifa-reelection",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697947_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50171167",
+      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
+      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
+      "published": "2026-10-20T22:37:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50197782",
+      "headline": "Infantino apologized, but reelection as FIFA president remains far from certain",
+      "description": "Gianni Infantino tried to make amends at Thursday's FIFA Council meeting for his ill-fated attempt to sell the World Cup. Will it be enough to save his reelection bid?",
+      "published": "2026-10-17T09:41:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50197782/gianni-infantino-fifa-president-election-far-certain",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731790_1296x729_16-9.jpg",
+      "byline": "Gabriele Marcotti",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50189300",
+      "headline": "Gianni Infantino apologizes to FIFA Council, avoids key issues",
+      "description": "Gianni Infantino gave an apology to his toughest critics but no new details or documents on FIFA issues during FIFA council meetings Thursday.",
+      "published": "2026-10-15T23:39:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
