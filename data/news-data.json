@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-06T16:11:21.460Z",
+  "updated": "2026-11-06T21:31:39.582Z",
   "counts": {
-    "news": 40,
-    "offfield": 6,
+    "news": 36,
+    "injury": 2,
+    "offfield": 8,
     "preview": 1,
     "celebration": 1
   },
@@ -12,7 +13,7 @@
       "id": "50399850",
       "headline": "FIFA's chief legal officer steps down in second high-profile exit",
       "description": "Emilio García Silvero, who has served as FIFA's chief legal and compliance officer for the past eight years, is stepping down from his position.",
-      "published": "2026-11-06T15:50:28Z",
+      "published": "2026-11-06T16:50:55Z",
       "url": "https://www.espn.com/soccer/story/_/id/50399850/fifa-chief-legal-compliance-officer-steps-down",
       "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
@@ -20,7 +21,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 205
+      "score": 199
     },
     {
       "id": "50387949",
@@ -38,7 +39,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 181
+      "score": 173
     },
     {
       "id": "50388146",
@@ -56,7 +57,84 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 153
+      "score": 145
+    },
+    {
+      "id": "50400513",
+      "headline": "Kompany 'on a good road to recovery' after collapse, says Bayern assistant coach",
+      "description": "Kompany 'on a good road to recovery' after collapse, says Bayern assistant coach",
+      "published": "2026-11-06T17:14:27Z",
+      "url": "https://www.espn.com/video/clip/_/id/50400513/kompany-good-road-recovery-collapse-says-bayern-assistant-coach",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_Kompany_on_a_good_road_to_recovery_after_collapse_says_Bayern_assistant_coach/dm_261106_Kompany_on_a_good_road_to_recovery_after_collapse_says_Bayern_assistant_coach.jpg",
+      "byline": null,
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Vincent Kompany",
+        "Cristiano Ronaldo"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50400278",
+      "headline": "NWSL stadium conflicts could force Gotham to move to small venue for semis",
+      "description": "NWSL Shield winners Gotham could be forced to play a potential semifinal next week at the 5,000-seat Icahn Stadium in New York due to league-wide venue issues.",
+      "published": "2026-11-06T18:04:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50400278/gotham-face-nwsl-semis-venue-change-stadium-conflict",
+      "image": "https://a.espncdn.com/photo/2026/1101/r1739842_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50400043",
+      "headline": "Mark McKenzie replaces injured George Campbell on USMNT roster vs. Haiti",
+      "description": "Mark McKenzie replaced injured defender George Campbell on the USMNT squad vs. Haiti.",
+      "published": "2026-11-06T16:23:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50400043/mckenzie-replaces-injured-campbell-usmnt-roster-haiti",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703475_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Portugal",
+        "USA",
+        "Haiti"
+      ],
+      "players": [
+        "Mark McKenzie",
+        "George Campbell",
+        "Cristiano Ronaldo"
+      ],
+      "score": 139
+    },
+    {
+      "id": "50400069",
+      "headline": "Unai Emery confirms new contract talks with Aston Villa",
+      "description": "Aston Villa boss Unai Emery confirmed there have been talks to build a \"stronger\" project at the club by signing a new contract at Villa Park.",
+      "published": "2026-11-06T16:12:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50400069/unai-emery-confirms-new-contract-talks-aston-villa",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1741118_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 137
     },
     {
       "id": "50387887",
@@ -74,7 +152,27 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 143
+      "score": 135
+    },
+    {
+      "id": "50400302",
+      "headline": "Chelsea's Xabi Alonso 'very happy' with Cole Palmer despite England omission",
+      "description": "Xabi Alonso said he has no time to spend worrying about international call-ups for his players after Cole Palmer was omitted from the England's Nations League squad.",
+      "published": "2026-11-06T18:08:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50400302/xabi-alonso-cole-palmer-chelsea-england-snub",
+      "image": "https://a.espncdn.com/photo/2026/1106/r1742034_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal",
+        "England"
+      ],
+      "players": [
+        "Cole Palmer",
+        "Cristiano Ronaldo"
+      ],
+      "score": 128
     },
     {
       "id": "42092971",
@@ -92,7 +190,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 133
+      "score": 125
     },
     {
       "id": "50399908",
@@ -110,7 +208,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 133
+      "score": 125
     },
     {
       "id": "50399857",
@@ -130,80 +228,7 @@
         "Declan Rice",
         "Cristiano Ronaldo"
       ],
-      "score": 132
-    },
-    {
-      "id": "50399542",
-      "headline": "Roberto De Zerbi: Tottenham rising star Luca Williams-Barnett ready to start matches",
-      "description": "Roberto De Zerbi believes Tottenham's highly-rated youngster Luca Williams-Barnett is ready to start matches.",
-      "published": "2026-11-06T15:11:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50399542/luca-williams-barnett-tottenham-roberto-de-zerbi-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740521_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Luca Williams-Barnett",
-        "Cristiano Ronaldo"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50399415",
-      "headline": "Liverpool are 'too honest' a team - Andoni Iraola on recent refereeing decisions",
-      "description": "Liverpool boss Andoni Iraola has questioned whether his team are \"too honest\" after they were denied a penalty in last weekend's 1-0 defeat to Arsenal in the Premier League.",
-      "published": "2026-11-06T14:56:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50399415/liverpool-too-honest-team-andoni-iraola-recent-refereeing-decisions",
-      "image": "https://a.espncdn.com/photo/2026/1106/r1741968_1296x729_16-9.jpg",
-      "byline": "Beth Lindop",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50399528",
-      "headline": "Iraola not panicking after consecutive Liverpool defeats",
-      "description": "Iraola not panicking after consecutive Liverpool defeats",
-      "published": "2026-11-06T14:56:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/50399528/iraola-not-panicking-consecutive-liverpool-defeats",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_Iraola_not_panicking_after_consecutive_Liverpool_defeats/dm_261106_Iraola_not_panicking_after_consecutive_Liverpool_defeats.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50397758",
-      "headline": "Portugal manager Jorge Jesus: 'I asked Cristiano Ronaldo to stay'",
-      "description": "Portugal coach Jorge Jesus is disappointed Cristiano Ronaldo has retired from international duty but concedes he has to accept the captain's decision.",
-      "published": "2026-11-06T14:50:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50397758/portugal-manager-jorge-jesus-asked-cristiano-ronaldo-stay",
-      "image": "https://a.espncdn.com/photo/2026/1105/r1741426_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 131
+      "score": 124
     },
     {
       "id": "50387532",
@@ -221,7 +246,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 131
+      "score": 123
     },
     {
       "id": "50387286",
@@ -237,7 +262,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 119
+      "score": 111
     },
     {
       "id": "50358121",
@@ -251,7 +276,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 55
+      "score": 47
     },
     {
       "id": "50156783",
@@ -826,20 +851,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
       "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
       "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50197782",
-      "headline": "Infantino apologized, but reelection as FIFA president remains far from certain",
-      "description": "Gianni Infantino tried to make amends at Thursday's FIFA Council meeting for his ill-fated attempt to sell the World Cup. Will it be enough to save his reelection bid?",
-      "published": "2026-10-17T09:41:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50197782/gianni-infantino-fifa-president-election-far-certain",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731790_1296x729_16-9.jpg",
-      "byline": "Gabriele Marcotti",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
