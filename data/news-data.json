@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-07T01:08:46.504Z",
+  "updated": "2026-11-07T07:09:05.516Z",
   "counts": {
     "preview": 2,
-    "news": 35,
-    "injury": 2,
-    "offfield": 8,
+    "news": 38,
+    "injury": 1,
+    "offfield": 6,
     "celebration": 1
   },
   "items": [
@@ -21,7 +21,7 @@
       "kindLabel": "Match preview",
       "teams": [],
       "players": [],
-      "score": 212
+      "score": 203
     },
     {
       "id": "50399850",
@@ -35,7 +35,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 184
+      "score": 175
     },
     {
       "id": "50387949",
@@ -53,84 +53,159 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 157
+      "score": 148
     },
     {
-      "id": "50400513",
-      "headline": "Kompany 'on a good road to recovery' after collapse, says Bayern assistant coach",
-      "description": "Kompany 'on a good road to recovery' after collapse, says Bayern assistant coach",
-      "published": "2026-11-06T17:14:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/50400513/kompany-good-road-recovery-collapse-says-bayern-assistant-coach",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_Kompany_on_a_good_road_to_recovery_after_collapse_says_Bayern_assistant_coach/dm_261106_Kompany_on_a_good_road_to_recovery_after_collapse_says_Bayern_assistant_coach.jpg",
-      "byline": null,
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Vincent Kompany",
-        "Cristiano Ronaldo"
-      ],
-      "score": 135
-    },
-    {
-      "id": "50400278",
-      "headline": "NWSL stadium conflicts could force Gotham to move to small venue for semis",
-      "description": "NWSL Shield winners Gotham could be forced to play a potential semifinal next week at the 5,000-seat Icahn Stadium in New York due to league-wide venue issues.",
-      "published": "2026-11-06T18:04:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50400278/gotham-face-nwsl-semis-venue-change-stadium-conflict",
-      "image": "https://a.espncdn.com/photo/2026/1101/r1739842_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 134
-    },
-    {
-      "id": "50400043",
-      "headline": "Mark McKenzie replaces injured George Campbell on USMNT roster vs. Haiti",
-      "description": "Mark McKenzie replaced injured defender George Campbell on the USMNT squad vs. Haiti.",
-      "published": "2026-11-06T16:23:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50400043/mckenzie-replaces-injured-campbell-usmnt-roster-haiti",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703475_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "50403196",
+      "headline": "Gio Reyna scores, exits with apparent injury ahead of USMNT camp",
+      "description": "Gio Reyna 's participation for the USMNT in the Concacaf Nations League quarterfinals could be in jeopardy after he exited Strasbourg's loss with an apparent injury.",
+      "published": "2026-11-07T01:06:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50403196/gio-reyna-usa-strasbourg-injury-goal-concacaf-nations-league",
+      "image": "https://a.espncdn.com/photo/2026/1107/r1742242_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "injury",
       "kindLabel": "Injury",
       "teams": [
         "Portugal",
-        "USA",
-        "Haiti"
+        "USA"
       ],
       "players": [
-        "Mark McKenzie",
-        "George Campbell",
+        "Giovanni Reyna",
         "Cristiano Ronaldo"
       ],
-      "score": 134
+      "score": 138
     },
     {
-      "id": "50400069",
-      "headline": "Unai Emery confirms new contract talks with Aston Villa",
-      "description": "Aston Villa boss Unai Emery confirmed there have been talks to build a \"stronger\" project at the club by signing a new contract at Villa Park.",
-      "published": "2026-11-06T16:12:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50400069/unai-emery-confirms-new-contract-talks-aston-villa",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741118_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50405284",
+      "headline": "Portland vs. San Francisco: Game Highlights",
+      "description": "Portland vs. San Francisco: Game Highlights",
+      "published": "2026-11-07T05:20:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/50405284/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1107/a89a1126-e67c-47b4-8731-0db3896b6ad4/a89a1126-e67c-47b4-8731-0db3896b6ad4.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Portugal"
       ],
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 132
+      "score": 130
+    },
+    {
+      "id": "50405244",
+      "headline": "San Diego Wave FC vs. Utah Royals - Game Highlights",
+      "description": "Watch the Game Highlights from San Diego Wave FC vs. Utah Royals, 11/07/2026",
+      "published": "2026-11-07T05:13:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/50405244/san-diego-wave-fc-vs-utah-royals-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1107/f5c06da1-a6ba-442c-85f5-bacb326dd24b/f5c06da1-a6ba-442c-85f5-bacb326dd24b.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Kiana Palacios",
+        "Melanie Barcenas",
+        "Cloé Lacasse",
+        "Lia Godfrey",
+        "Ludmila",
+        "Paige Cronin",
+        "Cristiano Ronaldo"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50404092",
+      "headline": "Georgetown vs. Uconn: Game Highlights",
+      "description": "Georgetown vs. Uconn: Game Highlights",
+      "published": "2026-11-07T02:29:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/50404092/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1107/c2e8ca71-b260-479c-a4a2-e2057d44f9d9/c2e8ca71-b260-479c-a4a2-e2057d44f9d9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50404049",
+      "headline": "Xavier vs. Butler: Game Highlights",
+      "description": "Xavier vs. Butler: Game Highlights",
+      "published": "2026-11-07T02:23:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/50404049/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1107/d4a59e9b-fe87-4bc7-a283-69429e4cbf66/d4a59e9b-fe87-4bc7-a283-69429e4cbf66.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50404026",
+      "headline": "St. John's vs. Providence: Game Highlights",
+      "description": "St. John's vs. Providence: Game Highlights",
+      "published": "2026-11-07T02:20:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/50404026/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1107/80afe38d-f605-417f-aaef-c53dc51776c5/80afe38d-f605-417f-aaef-c53dc51776c5.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50403996",
+      "headline": "Depaul vs. Creighton: Game Highlights",
+      "description": "Depaul vs. Creighton: Game Highlights",
+      "published": "2026-11-07T02:18:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/50403996/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1107/df84a4cb-1084-4339-9678-b25c0ba0105a/df84a4cb-1084-4339-9678-b25c0ba0105a.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50402775",
+      "headline": "Frank Lampard unhappy with 3 big referee decisions in Coventry loss to Everton",
+      "description": "Coventry City manager Frank Lampard was annoyed that a trio of key decisions went against his side in their 3-1 loss to Everton on Friday.",
+      "published": "2026-11-07T00:03:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50402775/frank-lampard-coventry-city-everton-referee-penalty",
+      "image": "https://a.espncdn.com/photo/2026/1106/r1742220_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 122
     },
     {
       "id": "50388146",
@@ -148,27 +223,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 129
-    },
-    {
-      "id": "50400302",
-      "headline": "Chelsea's Xabi Alonso 'very happy' with Cole Palmer despite England omission",
-      "description": "Xabi Alonso said he has no time to spend worrying about international call-ups for his players after Cole Palmer was omitted from the England's Nations League squad.",
-      "published": "2026-11-06T18:08:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50400302/xabi-alonso-cole-palmer-chelsea-england-snub",
-      "image": "https://a.espncdn.com/photo/2026/1106/r1742034_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal",
-        "England"
-      ],
-      "players": [
-        "Cole Palmer",
-        "Cristiano Ronaldo"
-      ],
-      "score": 122
+      "score": 120
     },
     {
       "id": "50387887",
@@ -186,63 +241,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 120
-    },
-    {
-      "id": "42092971",
-      "headline": "How do the NWSL playoffs work?",
-      "description": "The NWSL switched up its playoff format in 2024. Check out the new guidelines for each stage of the season now.",
-      "published": "2026-11-06T15:59:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/42092971/how-do-nwsl-playoffs-work",
-      "image": "https://a.espncdn.com/photo/2022/0621/r1027448_608x342_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 119
-    },
-    {
-      "id": "50399908",
-      "headline": "Portugal coach Jorge Jesus surprised over Ronaldo's international exit",
-      "description": "Portugal coach Jorge Jesus surprised over Ronaldo's international exit",
-      "published": "2026-11-06T15:56:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/50399908/portugal-coach-jorge-jesus-surprised-ronaldo-international-exit",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_Portugal_coach_Jorge_Jesus_surprised_over_Ronaldos_international_exit/dm_261106_Portugal_coach_Jorge_Jesus_surprised_over_Ronaldos_international_exit.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 119
-    },
-    {
-      "id": "50399857",
-      "headline": "Arsenal's Mikel Arteta praises Declan Rice's 'desperate' determination to improve",
-      "description": "Mikel Arteta has lauded Declan Rice's \"desperate\" determination to improve after the midfielder was one of five Arsenal players called up to Thomas Tuchel's England squad.",
-      "published": "2026-11-06T15:50:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50399857/arsenal-mikel-arteta-praises-declan-rice-desperate-determination-improve",
-      "image": "https://a.espncdn.com/photo/2026/1106/r1742007_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal",
-        "England"
-      ],
-      "players": [
-        "Declan Rice",
-        "Cristiano Ronaldo"
-      ],
-      "score": 119
+      "score": 111
     },
     {
       "id": "50387532",
@@ -260,7 +259,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 107
+      "score": 98
     },
     {
       "id": "50387286",
@@ -276,7 +275,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 96
+      "score": 87
     },
     {
       "id": "50358121",
@@ -290,7 +289,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 31
+      "score": 28
     },
     {
       "id": "50156783",
