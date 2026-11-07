@@ -1,14 +1,28 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-06T21:31:39.582Z",
+  "updated": "2026-11-07T01:08:46.504Z",
   "counts": {
-    "news": 36,
+    "preview": 2,
+    "news": 35,
     "injury": 2,
     "offfield": 8,
-    "preview": 1,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50402359",
+      "headline": "Caribbean Football Union endorses Infantino ahead of FIFA presidential election",
+      "description": "The Caribbean Football Union has endorsed Gianni Infantino following regional consultations, boosting his bid ahead of the FIFA presidential March election.",
+      "published": "2026-11-06T23:11:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50402359/infantino-secures-caribbean-support-fifa-reelection-bid",
+      "image": "https://a.espncdn.com/photo/2026/1106/r1742190_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [],
+      "players": [],
+      "score": 212
+    },
     {
       "id": "50399850",
       "headline": "FIFA's chief legal officer steps down in second high-profile exit",
@@ -21,7 +35,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 199
+      "score": 184
     },
     {
       "id": "50387949",
@@ -39,25 +53,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 173
-    },
-    {
-      "id": "50388146",
-      "headline": "Marcotti: Ronaldo was one of the greatest of all time",
-      "description": "Marcotti: Ronaldo was one of the greatest of all time",
-      "published": "2026-11-05T13:21:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/50388146/ronaldo-was-one-greatest-all",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_Marcotti_Ronaldo_was_one_of_the_greatest_of_all_time/dm_261105_Marcotti_Ronaldo_was_one_of_the_greatest_of_all_time.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 145
+      "score": 157
     },
     {
       "id": "50400513",
@@ -76,7 +72,7 @@
         "Vincent Kompany",
         "Cristiano Ronaldo"
       ],
-      "score": 141
+      "score": 135
     },
     {
       "id": "50400278",
@@ -94,7 +90,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 140
+      "score": 134
     },
     {
       "id": "50400043",
@@ -116,7 +112,7 @@
         "George Campbell",
         "Cristiano Ronaldo"
       ],
-      "score": 139
+      "score": 134
     },
     {
       "id": "50400069",
@@ -134,16 +130,16 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 137
+      "score": 132
     },
     {
-      "id": "50387887",
-      "headline": "Cristiano Ronaldo's Portugal career: Best moments, key stats after his retirement from international soccer",
-      "description": "Here's a look at some of the many highlights of Cristiano Ronaldo's 23-year career winning trophies and breaking records with Portugal's national team.",
-      "published": "2026-11-05T13:33:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50387887/cristiano-ronaldo-portugal-career-best-moments-key-stats-retirement-international-soccer",
-      "image": "https://a.espncdn.com/photo/2026/1105/r1741455_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
+      "id": "50388146",
+      "headline": "Marcotti: Ronaldo was one of the greatest of all time",
+      "description": "Marcotti: Ronaldo was one of the greatest of all time",
+      "published": "2026-11-05T13:21:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/50388146/ronaldo-was-one-greatest-all",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_Marcotti_Ronaldo_was_one_of_the_greatest_of_all_time/dm_261105_Marcotti_Ronaldo_was_one_of_the_greatest_of_all_time.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -152,7 +148,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 135
+      "score": 129
     },
     {
       "id": "50400302",
@@ -172,7 +168,25 @@
         "Cole Palmer",
         "Cristiano Ronaldo"
       ],
-      "score": 128
+      "score": 122
+    },
+    {
+      "id": "50387887",
+      "headline": "Cristiano Ronaldo's Portugal career: Best moments, key stats after his retirement from international soccer",
+      "description": "Here's a look at some of the many highlights of Cristiano Ronaldo's 23-year career winning trophies and breaking records with Portugal's national team.",
+      "published": "2026-11-05T13:33:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50387887/cristiano-ronaldo-portugal-career-best-moments-key-stats-retirement-international-soccer",
+      "image": "https://a.espncdn.com/photo/2026/1105/r1741455_1296x729_16-9.jpg",
+      "byline": "Chris Wright",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 120
     },
     {
       "id": "42092971",
@@ -190,7 +204,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 125
+      "score": 119
     },
     {
       "id": "50399908",
@@ -208,7 +222,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 125
+      "score": 119
     },
     {
       "id": "50399857",
@@ -228,7 +242,7 @@
         "Declan Rice",
         "Cristiano Ronaldo"
       ],
-      "score": 124
+      "score": 119
     },
     {
       "id": "50387532",
@@ -246,7 +260,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 123
+      "score": 107
     },
     {
       "id": "50387286",
@@ -262,7 +276,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 111
+      "score": 96
     },
     {
       "id": "50358121",
@@ -276,7 +290,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 47
+      "score": 31
     },
     {
       "id": "50156783",
@@ -295,24 +309,6 @@
         "Rodrigo Bentancur"
       ],
       "score": 25
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-11-02T03:23:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 23
     },
     {
       "id": "50309762",
@@ -430,6 +426,24 @@
       ],
       "players": [
         "Harry Kane"
+      ],
+      "score": 13
+    },
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-11-02T03:23:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
       ],
       "score": 13
     },
@@ -837,20 +851,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50247013/afc-president-unclear-support-infantino-fifa-reelection",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697947_1296x729_16-9.jpg",
       "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50171167",
-      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
-      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
-      "published": "2026-10-20T22:37:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
