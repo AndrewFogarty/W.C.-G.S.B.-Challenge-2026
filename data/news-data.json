@@ -1,13 +1,31 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-08T01:33:20.047Z",
+  "updated": "2026-11-08T07:56:08.693Z",
   "counts": {
-    "preview": 2,
-    "news": 39,
-    "offfield": 6,
-    "celebration": 1
+    "news": 37,
+    "preview": 3,
+    "celebration": 2,
+    "offfield": 6
   },
   "items": [
+    {
+      "id": "47978642",
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-11-08T01:40:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 204
+    },
     {
       "id": "50402359",
       "headline": "Caribbean Football Union endorses Infantino ahead of FIFA presidential election",
@@ -20,7 +38,71 @@
       "kindLabel": "Match preview",
       "teams": [],
       "players": [],
-      "score": 175
+      "score": 156
+    },
+    {
+      "id": "50414784",
+      "headline": "Socceroos name seven uncapped players to face Qatar, Jordan",
+      "description": "Football Australia will continue to assess security ahead of the Socceroos' planned friendly against Jordan, with an under-strength squad named amid player concerns over safety.",
+      "published": "2026-11-08T03:42:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50414784/socceroos-name-seven-uncapped-players-face-qatar-jordan",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742810_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Australia",
+        "Qatar",
+        "Jordan"
+      ],
+      "players": [
+        "Patrick Beach",
+        "Joe Gauci",
+        "Thomas Glover",
+        "Kealey Adamson",
+        "Aziz Behich",
+        "Kasey Bos",
+        "Alessandro Circati",
+        "Jason Geria",
+        "Diesel Herrington",
+        "Lucas Herrington",
+        "Jacob Italiano",
+        "Harry Souttar",
+        "Samuel Klein",
+        "Riley McGree",
+        "Connor Metcalfe",
+        "Paul Okon-Engstler",
+        "Gianni Stensness",
+        "Patrick Yazbek",
+        "Eli Adams",
+        "Daniel Arzani",
+        "Nestory Irankunda",
+        "Thomas Waddingham",
+        "Kusini Yengi",
+        "Tete Yengi",
+        "Marcus Younis",
+        "Lionel Messi"
+      ],
+      "score": 136
+    },
+    {
+      "id": "50411686",
+      "headline": "Lionel Messi makes history as 1st back-to-back MLS Golden Boot winner",
+      "description": "Lionel Messi has become the first player to win back-to-back MLS Golden Boot awards after the Inter Miami forward finished the regular season with 26 goals.",
+      "published": "2026-11-08T02:55:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50411686/lionel-messi-mls-golden-boot-2026-winner-inter-miami",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742766_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 132
     },
     {
       "id": "50399850",
@@ -34,7 +116,61 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 147
+      "score": 127
+    },
+    {
+      "id": "50415919",
+      "headline": "LA Galaxy miss playoffs again as Real Salt Lake gets final berth",
+      "description": "Sergi Solans and Zach Booth scored early and Real Salt Lake clinched a playoff spot while eliminating the LA Galaxy with a 2-1 Decision Day victory over the Galaxy on Saturday.",
+      "published": "2026-11-08T02:54:28Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761946",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761946.png?templateId=espn.applewatch.awayhome.1",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
+    },
+    {
+      "id": "50415603",
+      "headline": "Kaick, Dallas win 3-1, eliminate Rapids from playoff contention",
+      "description": "- Kaick Ferreira, known simply as \"Kaick\", scored the go-ahead goal in the 88th and FC Dallas beat Colorado 3-1 on Saturday night to eliminati the Rapids from playoff contention.",
+      "published": "2026-11-08T02:35:48Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761943",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761943.png?templateId=espn.applewatch.awayhome.1",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
+    },
+    {
+      "id": "50415684",
+      "headline": "Lassiter scores in 3rd minute, Timbers beat Austin 2-0, clinch playoff spot",
+      "description": "- Ariel Lassiter opened the scoring in the third minute, Kristoffer Velde added a goal and the Portland Timbers beat Austin FC 2-0 on Saturday night to clinch a spot in the MLS Cup playoffs.",
+      "published": "2026-11-08T02:35:02Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761942",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761942.png?templateId=espn.applewatch.awayhome.1",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 125
     },
     {
       "id": "50414787",
@@ -47,12 +183,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Portugal"
+        "Argentina"
       ],
       "players": [
-        "Cristiano Ronaldo"
+        "Lionel Messi"
       ],
-      "score": 133
+      "score": 123
     },
     {
       "id": "50414826",
@@ -65,125 +201,12 @@
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Portugal"
+        "Argentina"
       ],
       "players": [
-        "Cristiano Ronaldo"
+        "Lionel Messi"
       ],
-      "score": 132
-    },
-    {
-      "id": "50413954",
-      "headline": "Charlotte FC rallies from 3-goal deficit to draw Inter Miami 3-3 in regular-season finale",
-      "description": "- Lionel Messi was held scoreless as Inter Miami blew a three-goal halftime lead and drew 3-3 with Charlotte FC on Saturday in its Major League Soccer regular-season finale.",
-      "published": "2026-11-08T00:39:30Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761938",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761938.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50413971",
-      "headline": "Cavan, Quinn Sullivan both score as Philadelphia Union soar into playoffs",
-      "description": "Cavan and Quinn Sullivan became just the third pair of brothers to score for the same club in an MLS match.",
-      "published": "2026-11-08T00:33:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50413971/cavan-quinn-sullivan-philadelphia-union-mls-usa",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742729_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal",
-        "USA"
-      ],
-      "players": [
-        "Cavan Sullivan",
-        "Quinn Sullivan",
-        "Cristiano Ronaldo"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50414102",
-      "headline": "Zero to hero: Socceroos' Robertson scores stunning match-winner after own goal",
-      "description": "Socceroos midfielder Alex Robertson has been feted as \"Kangaroo\" by his Cardiff City teammates after he bounced back from scoring an own goal to lash home a sensational, stoppage-time winner in one of the Championship side's greatest comebacks.",
-      "published": "2026-11-08T00:21:33Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401880169",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742726_1296x729_16-9.jpg",
-      "byline": "AAP",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal",
-        "Australia"
-      ],
-      "players": [
-        "Alex Robertson",
-        "Cristiano Ronaldo"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50414222",
-      "headline": "Sam Surridge's goals help Nashville break MLS single-season points record",
-      "description": "Sam Surridge's goals help Nashville break MLS single-season points record",
-      "published": "2026-11-08T00:21:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/50414222/sam-surridge-goals-help-nashville-break-mls-single-season-points-record",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/ss_20261107_191622289_3731183/ss_20261107_191622289_3731183.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50414018",
-      "headline": "Brotherly love! Quinn and Cavan Sullivan combine for a Philadelphia goal",
-      "description": "Brotherly love! Quinn and Cavan Sullivan combine for a Philadelphia goal",
-      "published": "2026-11-08T00:02:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/50414018/brotherly-love-quinn-cavan-sullivan-combine-philadelphia-goal",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/ss_20261107_185835679_3731109/ss_20261107_185835679_3731109.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50413736",
-      "headline": "Cavan Sullivan scores twice, Quinn Sullivan has a goal and 2 assists, and the Union beat Toronto 4-1",
-      "description": "- Cavan Sullivan scored twice, Quinn Sullivan had a goal and two assists, and the Philadelphia Union beat Toronto FC 4-1 on Saturday to secure an automatic berth into a best-of-three series in the MLS Cup playoffs.",
-      "published": "2026-11-07T23:45:53Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761941",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/ss_20261107_185835679_3731109/ss_20261107_185835679_3731109.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 130
+      "score": 123
     },
     {
       "id": "50387949",
@@ -201,7 +224,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 121
+      "score": 101
     },
     {
       "id": "50388146",
@@ -219,7 +242,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 93
+      "score": 73
     },
     {
       "id": "50387887",
@@ -237,7 +260,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 83
+      "score": 63
     },
     {
       "id": "50387532",
@@ -255,7 +278,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 71
+      "score": 51
     },
     {
       "id": "50387286",
@@ -271,21 +294,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 59
-    },
-    {
-      "id": "50358121",
-      "headline": "Source: FIFA to open World Cup private equity plan files following UEFA demands",
-      "description": "FIFA will open access to confidential documents detailing president Gianni Infantino's controversial proposal to bring private investors into the World Cup, a source confirmed to ESPN.",
-      "published": "2026-11-03T19:24:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50358121/fifa-open-world-cup-private-equity-files-uefa-demands",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713266_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 28
+      "score": 39
     },
     {
       "id": "50156783",
@@ -407,6 +416,20 @@
       "score": 20
     },
     {
+      "id": "50358121",
+      "headline": "Source: FIFA to open World Cup private equity plan files following UEFA demands",
+      "description": "FIFA will open access to confidential documents detailing president Gianni Infantino's controversial proposal to bring private investors into the World Cup, a source confirmed to ESPN.",
+      "published": "2026-11-03T19:24:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50358121/fifa-open-world-cup-private-equity-files-uefa-demands",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713266_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 18
+    },
+    {
       "id": "50265615",
       "headline": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
       "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
@@ -421,24 +444,6 @@
       ],
       "players": [
         "Harry Kane"
-      ],
-      "score": 13
-    },
-    {
-      "id": "47978642",
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-11-02T03:23:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
       ],
       "score": 13
     },
@@ -846,6 +851,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50247013/afc-president-unclear-support-infantino-fifa-reelection",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697947_1296x729_16-9.jpg",
       "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50171167",
+      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
+      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
+      "published": "2026-10-20T22:37:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
+      "byline": "Jeff Carlisle",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
