@@ -1,18 +1,19 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-08T07:56:08.693Z",
+  "updated": "2026-11-08T14:53:13.235Z",
   "counts": {
-    "news": 37,
-    "preview": 3,
+    "news": 36,
+    "injury": 1,
+    "preview": 2,
     "celebration": 2,
-    "offfield": 6
+    "offfield": 7
   },
   "items": [
     {
       "id": "47978642",
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
       "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-11-08T01:40:36Z",
+      "published": "2026-11-08T10:48:49Z",
       "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
       "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
       "byline": "ESPN",
@@ -24,7 +25,27 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 204
+      "score": 207
+    },
+    {
+      "id": "50419800",
+      "headline": "Bayern Munich's Manuel Neuer set for spell on sidelines with foot injury",
+      "description": "Bayern Munich goalkeeper Manuel Neuer sustained a partial ligament tear in his right foot and will be out of action for \"the time being,\" the club said in a statement on Sunday.",
+      "published": "2026-11-08T14:16:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50419800/bayern-munich-manuel-neuer-bundesliga",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742890_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Manuel Neuer",
+        "Jonas Urbig",
+        "Lionel Messi"
+      ],
+      "score": 146
     },
     {
       "id": "50402359",
@@ -38,62 +59,16 @@
       "kindLabel": "Match preview",
       "teams": [],
       "players": [],
-      "score": 156
+      "score": 145
     },
     {
-      "id": "50414784",
-      "headline": "Socceroos name seven uncapped players to face Qatar, Jordan",
-      "description": "Football Australia will continue to assess security ahead of the Socceroos' planned friendly against Jordan, with an under-strength squad named amid player concerns over safety.",
-      "published": "2026-11-08T03:42:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50414784/socceroos-name-seven-uncapped-players-face-qatar-jordan",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742810_1296x729_16-9.jpg",
-      "byline": "AAP",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina",
-        "Australia",
-        "Qatar",
-        "Jordan"
-      ],
-      "players": [
-        "Patrick Beach",
-        "Joe Gauci",
-        "Thomas Glover",
-        "Kealey Adamson",
-        "Aziz Behich",
-        "Kasey Bos",
-        "Alessandro Circati",
-        "Jason Geria",
-        "Diesel Herrington",
-        "Lucas Herrington",
-        "Jacob Italiano",
-        "Harry Souttar",
-        "Samuel Klein",
-        "Riley McGree",
-        "Connor Metcalfe",
-        "Paul Okon-Engstler",
-        "Gianni Stensness",
-        "Patrick Yazbek",
-        "Eli Adams",
-        "Daniel Arzani",
-        "Nestory Irankunda",
-        "Thomas Waddingham",
-        "Kusini Yengi",
-        "Tete Yengi",
-        "Marcus Younis",
-        "Lionel Messi"
-      ],
-      "score": 136
-    },
-    {
-      "id": "50411686",
-      "headline": "Lionel Messi makes history as 1st back-to-back MLS Golden Boot winner",
-      "description": "Lionel Messi has become the first player to win back-to-back MLS Golden Boot awards after the Inter Miami forward finished the regular season with 26 goals.",
-      "published": "2026-11-08T02:55:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50411686/lionel-messi-mls-golden-boot-2026-winner-inter-miami",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742766_1296x729_16-9.jpg",
-      "byline": "Lizzy Becherano",
+      "id": "50419937",
+      "headline": "Rosario Central celebrate Argentina title by mistake after late Boca Juniors winner",
+      "description": "Rosario Central players and fans celebrated winning Argentina's annual title, only to discover a dramatic late Boca Juniors goal had denied them.",
+      "published": "2026-11-08T14:40:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50419937/rosario-central-boca-juniors-title-argentina",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742901_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "celebration",
       "kindLabel": "Celebration",
       "teams": [
@@ -102,7 +77,116 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 132
+      "score": 140
+    },
+    {
+      "id": "50418356",
+      "headline": "Transfer rumors, news: Man United scout defender Mahamadou Nagida",
+      "description": "Rennes left-back Mahamadou Nagida is being monitored by Manchester United. Transfer Talk has the latest.",
+      "published": "2026-11-08T09:55:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50418356/transfer-rumors-news-man-united-rennes-defender-mahamadou-nagida",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742863_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Mahamadou Nagida",
+        "Lionel Messi"
+      ],
+      "score": 138
+    },
+    {
+      "id": "50391135",
+      "headline": "Premier League live updates: Liverpool, Chelsea both in action",
+      "description": "Both Liverpool and Chelsea are playing in the first Premier League matches of the final day of club fixtures across Europe before the international break.",
+      "published": "2026-11-08T14:48:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50391135/premier-league-live-updates-liverpool-chelsea-aston-villa-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742913_2_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50419754",
+      "headline": "Dutch derby cancelled after De Graafschap fans block own team's bus from leaving",
+      "description": "Vitesse's derby against De Graafschap was called off on Sunday after away supporters blocked their team's bus from leaving for the game.",
+      "published": "2026-11-08T14:44:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50419754/vitesse-de-graafschap-cancelled-bus",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742896_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50419027",
+      "headline": "Bruno Guimaraes vows 'unbelievable' Arsenal will keep up Premier League title pace",
+      "description": "Bruno Guimarães saluted \"unbelievable\" Arsenal after they stretched their lead at the top of the Premier League with a gritty 1-0 win over Hull.",
+      "published": "2026-11-08T11:54:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50419027/bruno-guimaraes-arsenal-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728616_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50418899",
+      "headline": "Valencia director separated from officials by police in Real Madrid loss",
+      "description": "Valencia sporting director Braulio Vázquez had to be separated from the match officials by the police at half time of Saturday's 3-0 loss to Real Madrid at Mestalla.",
+      "published": "2026-11-08T11:04:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50418899/valencia-real-madrid-laliga",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742868_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 127
+    },
+    {
+      "id": "50418301",
+      "headline": "Valadon scores a rocket in 2-2 draw with Adelaide",
+      "description": "Melbourne Victory scored two in five minutes to take the lead over Adelaide before Joey Garuccio knocking home a late equaliser.",
+      "published": "2026-11-08T08:53:59Z",
+      "url": "https://www.espn.com/video/clip/_/id/50418301/valadon-scores-rocket-2-2-draw-adelaide",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_Soccer_HIGHLIGHT_Valadon_scores_a_rocket_in_2_2_draw_with_Adelaide_20261108_AUS/dm_261108_Soccer_HIGHLIGHT_Valadon_scores_a_rocket_in_2_2_draw_with_Adelaide_20261108_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 124
     },
     {
       "id": "50399850",
@@ -116,97 +200,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 127
-    },
-    {
-      "id": "50415919",
-      "headline": "LA Galaxy miss playoffs again as Real Salt Lake gets final berth",
-      "description": "Sergi Solans and Zach Booth scored early and Real Salt Lake clinched a playoff spot while eliminating the LA Galaxy with a 2-1 Decision Day victory over the Galaxy on Saturday.",
-      "published": "2026-11-08T02:54:28Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761946",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761946.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50415603",
-      "headline": "Kaick, Dallas win 3-1, eliminate Rapids from playoff contention",
-      "description": "- Kaick Ferreira, known simply as \"Kaick\", scored the go-ahead goal in the 88th and FC Dallas beat Colorado 3-1 on Saturday night to eliminati the Rapids from playoff contention.",
-      "published": "2026-11-08T02:35:48Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761943",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761943.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50415684",
-      "headline": "Lassiter scores in 3rd minute, Timbers beat Austin 2-0, clinch playoff spot",
-      "description": "- Ariel Lassiter opened the scoring in the third minute, Kristoffer Velde added a goal and the Portland Timbers beat Austin FC 2-0 on Saturday night to clinch a spot in the MLS Cup playoffs.",
-      "published": "2026-11-08T02:35:02Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/761942",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761942.png?templateId=espn.applewatch.awayhome.1",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50414787",
-      "headline": "Mourinho on Real Madrid's latest win: Happy dressing room -- with horrible music",
-      "description": "José Mourinho described a happy Real Madrid dressing room after an eighth straight win, before joking that his players had celebrated with \"horrible music.\"",
-      "published": "2026-11-08T01:26:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50414787/jose-mourinho-real-madrid-valencia-music-laliga",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742741_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "50414826",
-      "headline": "Penn vs. Yale: Game Highlights",
-      "description": "Penn vs. Yale: Game Highlights",
-      "published": "2026-11-08T01:08:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/50414826/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/7bbae8f3-9b8f-46d9-9b6b-4bb7329dbbc9/7bbae8f3-9b8f-46d9-9b6b-4bb7329dbbc9.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
+      "score": 117
     },
     {
       "id": "50387949",
@@ -224,7 +218,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 101
+      "score": 91
     },
     {
       "id": "50388146",
@@ -242,7 +236,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 73
+      "score": 63
     },
     {
       "id": "50387887",
@@ -260,7 +254,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 63
+      "score": 53
     },
     {
       "id": "50387532",
@@ -278,7 +272,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 51
+      "score": 41
     },
     {
       "id": "50387286",
@@ -294,7 +288,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 39
+      "score": 29
     },
     {
       "id": "50156783",
@@ -851,20 +845,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50247013/afc-president-unclear-support-infantino-fifa-reelection",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697947_1296x729_16-9.jpg",
       "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50171167",
-      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
-      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
-      "published": "2026-10-20T22:37:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
-      "byline": "Jeff Carlisle",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
