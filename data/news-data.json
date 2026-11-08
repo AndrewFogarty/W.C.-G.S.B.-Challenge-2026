@@ -1,12 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-08T14:53:13.235Z",
+  "updated": "2026-11-08T19:18:13.654Z",
   "counts": {
     "news": 36,
-    "injury": 1,
-    "preview": 2,
-    "celebration": 2,
-    "offfield": 7
+    "offfield": 8,
+    "preview": 3,
+    "celebration": 1
   },
   "items": [
     {
@@ -25,27 +24,61 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 207
+      "score": 200
     },
     {
-      "id": "50419800",
-      "headline": "Bayern Munich's Manuel Neuer set for spell on sidelines with foot injury",
-      "description": "Bayern Munich goalkeeper Manuel Neuer sustained a partial ligament tear in his right foot and will be out of action for \"the time being,\" the club said in a statement on Sunday.",
-      "published": "2026-11-08T14:16:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50419800/bayern-munich-manuel-neuer-bundesliga",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742890_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50418964",
+      "headline": "Liverpool's Barcola, Isak, Wirtz show signs they're finally starting to click",
+      "description": "\"Poetry in motion\" was the serenade from the Liverpool fans at Crystal Palace. And for a moment in their 3-1 victory, that's exactly what the Reds were.",
+      "published": "2026-11-08T18:08:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50418964/liverpool-bradley-barcola-alexander-isak-florian-wirtz-crystal-palace",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742986_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Manuel Neuer",
-        "Jonas Urbig",
         "Lionel Messi"
       ],
-      "score": 146
+      "score": 143
+    },
+    {
+      "id": "50422311",
+      "headline": "Man United's poor starts have Premier League relegation looking more likely",
+      "description": "Man United have a penchant for waking up *after* games have already started -- and it's why they face Premier League relegation.",
+      "published": "2026-11-08T19:13:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50422311/man-united-poor-starts-premier-league-relegation-looking-more-likely",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743112_1296x729_16-9.jpg",
+      "byline": "Mark Ogden and Rob Dawson",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50421537",
+      "headline": "Man United fans unveil 'Owners out' banner but 21st-minute walkout falls through",
+      "description": "Manchester United fans launched another protest against the club's ownership prior to Sunday's Premier League match against Aston Villa.",
+      "published": "2026-11-08T17:34:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50421537/man-united-aston-villa-banner",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743029_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 142
     },
     {
       "id": "50402359",
@@ -59,52 +92,51 @@
       "kindLabel": "Match preview",
       "teams": [],
       "players": [],
-      "score": 145
+      "score": 139
     },
     {
-      "id": "50419937",
-      "headline": "Rosario Central celebrate Argentina title by mistake after late Boca Juniors winner",
-      "description": "Rosario Central players and fans celebrated winning Argentina's annual title, only to discover a dramatic late Boca Juniors goal had denied them.",
-      "published": "2026-11-08T14:40:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50419937/rosario-central-boca-juniors-title-argentina",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742901_1296x729_16-9.jpg",
+      "id": "50421297",
+      "headline": "Man United rescue 4-4 draw vs. Aston Villa but remain in relegation zone",
+      "description": "Manchester United fought back for a chaotic 4-4 draw against Aston Villa on Sunday after twice going two goals down at Old Trafford.",
+      "published": "2026-11-08T19:13:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50421297/man-united-aston-villa-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743096_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 133
     },
     {
-      "id": "50418356",
-      "headline": "Transfer rumors, news: Man United scout defender Mahamadou Nagida",
-      "description": "Rennes left-back Mahamadou Nagida is being monitored by Manchester United. Transfer Talk has the latest.",
-      "published": "2026-11-08T09:55:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50418356/transfer-rumors-news-man-united-rennes-defender-mahamadou-nagida",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742863_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50393744",
+      "headline": "Man United twice come from two goals down to salvage point against Aston Villa",
+      "description": "Two goals down inside four minutes against Aston Villa in the Premier League on Sunday and trailing 4-2 going into second-half added time, Manchester United rallied to a 4-4 draw on another night of mayhem and drama at Old Trafford.",
+      "published": "2026-11-08T19:13:07Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879240",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743093_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Mahamadou Nagida",
         "Lionel Messi"
       ],
-      "score": 138
+      "score": 133
     },
     {
       "id": "50391135",
-      "headline": "Premier League live updates: Liverpool, Chelsea both in action",
-      "description": "Both Liverpool and Chelsea are playing in the first Premier League matches of the final day of club fixtures across Europe before the international break.",
-      "published": "2026-11-08T14:48:55Z",
+      "headline": "Premier League live updates: Man United, in relegation zone, host Villa",
+      "description": "Manchester United needed to beat Aston Villa at Old Trafford to avoid spending the international break in the Premier League's bottom three.",
+      "published": "2026-11-08T19:04:35Z",
       "url": "https://www.espn.com/soccer/story/_/id/50391135/premier-league-live-updates-liverpool-chelsea-aston-villa-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742913_2_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743054_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
@@ -117,30 +149,12 @@
       "score": 133
     },
     {
-      "id": "50419754",
-      "headline": "Dutch derby cancelled after De Graafschap fans block own team's bus from leaving",
-      "description": "Vitesse's derby against De Graafschap was called off on Sunday after away supporters blocked their team's bus from leaving for the game.",
-      "published": "2026-11-08T14:44:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50419754/vitesse-de-graafschap-cancelled-bus",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742896_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50419027",
-      "headline": "Bruno Guimaraes vows 'unbelievable' Arsenal will keep up Premier League title pace",
-      "description": "Bruno Guimarães saluted \"unbelievable\" Arsenal after they stretched their lead at the top of the Premier League with a gritty 1-0 win over Hull.",
-      "published": "2026-11-08T11:54:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50419027/bruno-guimaraes-arsenal-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1010/r1728616_1296x729_16-9.jpg",
+      "id": "50422252",
+      "headline": "Pierre Sage on Crystal Palace pressure: Job not gone 'from dream to nightmare'",
+      "description": "Crystal Palace boss Pierre Sage insisted it had not gone \"from the dream to the nightmare\" despite their fourth straight Premier League defeat.",
+      "published": "2026-11-08T18:18:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50422252/pierre-sage-crystal-palace-liverpool-nightmare",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743069_1296x729_16-9.jpg",
       "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
@@ -150,16 +164,16 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 129
+      "score": 132
     },
     {
-      "id": "50418899",
-      "headline": "Valencia director separated from officials by police in Real Madrid loss",
-      "description": "Valencia sporting director Braulio Vázquez had to be separated from the match officials by the police at half time of Saturday's 3-0 loss to Real Madrid at Mestalla.",
-      "published": "2026-11-08T11:04:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50418899/valencia-real-madrid-laliga",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742868_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
+      "id": "50421984",
+      "headline": "Andoni Iraola: Liverpool 'needed' win over Crystal Palace after difficult week",
+      "description": "Andoni Iraola admitted Liverpool \"needed\" their 3-1 victory over Crystal Palace after a disappointing week for his team.",
+      "published": "2026-11-08T17:59:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50421984/andoni-iraola-liverpool-crystal-palace",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743055_1296x729_16-9.jpg",
+      "byline": "Beth Lindop",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -168,25 +182,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
-    },
-    {
-      "id": "50418301",
-      "headline": "Valadon scores a rocket in 2-2 draw with Adelaide",
-      "description": "Melbourne Victory scored two in five minutes to take the lead over Adelaide before Joey Garuccio knocking home a late equaliser.",
-      "published": "2026-11-08T08:53:59Z",
-      "url": "https://www.espn.com/video/clip/_/id/50418301/valadon-scores-rocket-2-2-draw-adelaide",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_Soccer_HIGHLIGHT_Valadon_scores_a_rocket_in_2_2_draw_with_Adelaide_20261108_AUS/dm_261108_Soccer_HIGHLIGHT_Valadon_scores_a_rocket_in_2_2_draw_with_Adelaide_20261108_AUS.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
+      "score": 131
     },
     {
       "id": "50399850",
@@ -200,7 +196,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 117
+      "score": 110
     },
     {
       "id": "50387949",
@@ -218,7 +214,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 91
+      "score": 84
     },
     {
       "id": "50388146",
@@ -236,7 +232,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 63
+      "score": 56
     },
     {
       "id": "50387887",
@@ -254,7 +250,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 53
+      "score": 46
     },
     {
       "id": "50387532",
@@ -272,23 +268,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 41
-    },
-    {
-      "id": "50387286",
-      "headline": "FIFA Council's Tashima to challenge Infantino in March elections - reports",
-      "description": "FIFA Council member Kohzo Tashima intends to run for president of the global football body against incumbent Gianni Infantino, Japanese media reported.",
-      "published": "2026-11-05T12:51:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50387286/fifa-council-japan-tashima-challenge-infantino-reports",
-      "image": "https://a.espncdn.com/photo/2020/0317/r680435_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Japan"
-      ],
-      "players": [],
-      "score": 29
+      "score": 34
     },
     {
       "id": "50156783",
@@ -307,6 +287,22 @@
         "Rodrigo Bentancur"
       ],
       "score": 25
+    },
+    {
+      "id": "50387286",
+      "headline": "FIFA Council's Tashima to challenge Infantino in March elections - reports",
+      "description": "FIFA Council member Kohzo Tashima intends to run for president of the global football body against incumbent Gianni Infantino, Japanese media reported.",
+      "published": "2026-11-05T12:51:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50387286/fifa-council-japan-tashima-challenge-infantino-reports",
+      "image": "https://a.espncdn.com/photo/2020/0317/r680435_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 22
     },
     {
       "id": "50309762",
