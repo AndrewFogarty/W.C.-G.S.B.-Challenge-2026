@@ -1,10 +1,9 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-07T18:41:31.071Z",
+  "updated": "2026-11-08T01:33:20.047Z",
   "counts": {
     "preview": 2,
-    "news": 38,
-    "injury": 1,
+    "news": 39,
     "offfield": 6,
     "celebration": 1
   },
@@ -21,7 +20,7 @@
       "kindLabel": "Match preview",
       "teams": [],
       "players": [],
-      "score": 186
+      "score": 175
     },
     {
       "id": "50399850",
@@ -35,107 +34,15 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 157
-    },
-    {
-      "id": "50409612",
-      "headline": "Gio Reyna out of USMNT camp with injury; replaced by Stoke City's Jack McGlynn",
-      "description": "U.S. men's national team attacking midfielder Gio Reyna has been dropped from the upcoming international window due to an unspecified injury, U.S. Soccer announced on Saturday.",
-      "published": "2026-11-07T18:26:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50409612/gio-reyna-injury-usmnt-camp-jack-mcglynn",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697430_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Portugal",
-        "USA"
-      ],
-      "players": [
-        "Giovanni Reyna",
-        "Cristiano Ronaldo"
-      ],
       "score": 147
     },
     {
-      "id": "50409867",
-      "headline": "If Arsenal find attacking spark, they could run away with the Premier League",
-      "description": "Arsenal's attack lacked a focal point vs. Hull, but Martin Ødegaard delivered a winner that should have the champions' Premier League rivals worried.",
-      "published": "2026-11-07T18:41:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50409867/if-arsenal-find-attacking-spark-run-away-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742495_2_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50390673",
-      "headline": "Premier League live updates: Can Man City keep pace with the champions after Arsenal's win vs. Hull?",
-      "description": "Another weekend of European soccer is underway, with Man City trying to close the gap to the defending champions after Arsenal scraped past Hull City.",
-      "published": "2026-11-07T18:37:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50390673/premier-league-live-updates-leeds-united-tottenham-arsenal-manchester-city",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742467_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50409464",
-      "headline": "Hislop backs decision to not send off Leeds' Bogle vs. Spurs",
-      "description": "Hislop backs decision to not send off Leeds' Bogle vs. Spurs",
-      "published": "2026-11-07T17:57:50Z",
-      "url": "https://www.espn.com/video/clip/_/id/50409464/hislop-backs-decision-not-send-leeds-bogle-vs-spurs",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/dm_261107_Hislop_backs_decision_to_not_send_off_Leeds_Bogle_vs_Spurs/dm_261107_Hislop_backs_decision_to_not_send_off_Leeds_Bogle_vs_Spurs.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50393663",
-      "headline": "Martin Ødegaard scores winner as Arsenal scrape past Hull to extend PL lead",
-      "description": "Arsenal needed a captain's goal from Martin Ødegaard to see off Hull 1-0 and ensure they head into the international break with a healthy lead at the top of the Premier League.",
-      "published": "2026-11-07T17:52:48Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401878760",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742438_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50409377",
-      "headline": "Non-league game called off after Truro's Yassine En-Neyah collapses in warm-up",
-      "description": "Truro City's game against Folkestone Invicta was abandoned on Saturday after one of the visitors' players, Yassine En-Neyah, collapsed during the pre-match warm-up.",
-      "published": "2026-11-07T17:48:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50409377/truro-folkestone-yassine-en-neyah-abandoned",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742462_1296x729_16-9.jpg",
+      "id": "50414787",
+      "headline": "Mourinho on Real Madrid's latest win: Happy dressing room -- with horrible music",
+      "description": "José Mourinho described a happy Real Madrid dressing room after an eighth straight win, before joking that his players had celebrated with \"horrible music.\"",
+      "published": "2026-11-08T01:26:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50414787/jose-mourinho-real-madrid-valencia-music-laliga",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742741_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
@@ -145,15 +52,15 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 132
+      "score": 133
     },
     {
-      "id": "50409343",
-      "headline": "Hislop left wanting more from Arsenal in 1-0 win over Hull",
-      "description": "Hislop left wanting more from Arsenal in 1-0 win over Hull",
-      "published": "2026-11-07T17:42:51Z",
-      "url": "https://www.espn.com/video/clip/_/id/50409343/hislop-left-wanting-more-arsenal-1-0-win-hull",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/dm_261107_Hislop_left_wanting_more_from_Arsenal_in_1-0_win_over_Hull/dm_261107_Hislop_left_wanting_more_from_Arsenal_in_1-0_win_over_Hull.jpg",
+      "id": "50414826",
+      "headline": "Penn vs. Yale: Game Highlights",
+      "description": "Penn vs. Yale: Game Highlights",
+      "published": "2026-11-08T01:08:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/50414826/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/7bbae8f3-9b8f-46d9-9b6b-4bb7329dbbc9/7bbae8f3-9b8f-46d9-9b6b-4bb7329dbbc9.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -166,13 +73,72 @@
       "score": 132
     },
     {
-      "id": "50409313",
-      "headline": "Scott Parker awaits first West Ham win after defeat at Blackburn",
-      "description": "Scott Parker is still waiting for his first win as West Ham boss after suffering a 2-1 defeat at spirited Blackburn.",
-      "published": "2026-11-07T17:35:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50409313/scott-parker-west-ham-loss-blackburn-championship",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742455_1296x729_16-9.jpg",
-      "byline": "PA",
+      "id": "50413954",
+      "headline": "Charlotte FC rallies from 3-goal deficit to draw Inter Miami 3-3 in regular-season finale",
+      "description": "- Lionel Messi was held scoreless as Inter Miami blew a three-goal halftime lead and drew 3-3 with Charlotte FC on Saturday in its Major League Soccer regular-season finale.",
+      "published": "2026-11-08T00:39:30Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761938",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761938.png?templateId=espn.applewatch.awayhome.1",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50413971",
+      "headline": "Cavan, Quinn Sullivan both score as Philadelphia Union soar into playoffs",
+      "description": "Cavan and Quinn Sullivan became just the third pair of brothers to score for the same club in an MLS match.",
+      "published": "2026-11-08T00:33:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50413971/cavan-quinn-sullivan-philadelphia-union-mls-usa",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742729_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal",
+        "USA"
+      ],
+      "players": [
+        "Cavan Sullivan",
+        "Quinn Sullivan",
+        "Cristiano Ronaldo"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50414102",
+      "headline": "Zero to hero: Socceroos' Robertson scores stunning match-winner after own goal",
+      "description": "Socceroos midfielder Alex Robertson has been feted as \"Kangaroo\" by his Cardiff City teammates after he bounced back from scoring an own goal to lash home a sensational, stoppage-time winner in one of the Championship side's greatest comebacks.",
+      "published": "2026-11-08T00:21:33Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401880169",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742726_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal",
+        "Australia"
+      ],
+      "players": [
+        "Alex Robertson",
+        "Cristiano Ronaldo"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50414222",
+      "headline": "Sam Surridge's goals help Nashville break MLS single-season points record",
+      "description": "Sam Surridge's goals help Nashville break MLS single-season points record",
+      "published": "2026-11-08T00:21:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/50414222/sam-surridge-goals-help-nashville-break-mls-single-season-points-record",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/ss_20261107_191622289_3731183/ss_20261107_191622289_3731183.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -182,6 +148,42 @@
         "Cristiano Ronaldo"
       ],
       "score": 131
+    },
+    {
+      "id": "50414018",
+      "headline": "Brotherly love! Quinn and Cavan Sullivan combine for a Philadelphia goal",
+      "description": "Brotherly love! Quinn and Cavan Sullivan combine for a Philadelphia goal",
+      "published": "2026-11-08T00:02:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/50414018/brotherly-love-quinn-cavan-sullivan-combine-philadelphia-goal",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/ss_20261107_185835679_3731109/ss_20261107_185835679_3731109.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50413736",
+      "headline": "Cavan Sullivan scores twice, Quinn Sullivan has a goal and 2 assists, and the Union beat Toronto 4-1",
+      "description": "- Cavan Sullivan scored twice, Quinn Sullivan had a goal and two assists, and the Philadelphia Union beat Toronto FC 4-1 on Saturday to secure an automatic berth into a best-of-three series in the MLS Cup playoffs.",
+      "published": "2026-11-07T23:45:53Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/761941",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/ss_20261107_185835679_3731109/ss_20261107_185835679_3731109.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo"
+      ],
+      "score": 130
     },
     {
       "id": "50387949",
@@ -199,7 +201,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 131
+      "score": 121
     },
     {
       "id": "50388146",
@@ -217,7 +219,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 103
+      "score": 93
     },
     {
       "id": "50387887",
@@ -235,7 +237,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 93
+      "score": 83
     },
     {
       "id": "50387532",
@@ -253,7 +255,7 @@
       "players": [
         "Cristiano Ronaldo"
       ],
-      "score": 81
+      "score": 71
     },
     {
       "id": "50387286",
@@ -269,7 +271,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 69
+      "score": 59
     },
     {
       "id": "50358121",
