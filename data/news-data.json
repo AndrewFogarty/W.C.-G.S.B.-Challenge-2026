@@ -1,9 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-10T18:38:26.177Z",
+  "updated": "2026-11-10T23:43:57.058Z",
   "counts": {
-    "offfield": 8,
-    "news": 37,
+    "offfield": 9,
+    "injury": 1,
+    "news": 35,
     "preview": 2,
     "celebration": 1
   },
@@ -22,16 +23,37 @@
         "USA"
       ],
       "players": [],
-      "score": 207
+      "score": 200
     },
     {
-      "id": "50440438",
-      "headline": "Transfer rumors, news: Arsenal to offload three players, with Atlético Madrid keen",
-      "description": "Atlético Madrid are one of the main clubs showing an interest in Arsenal midfielder Martín Zubimendi, while Viktor Gyökeres and Mikel Merino could also depart. Transfer Talk has the latest.",
-      "published": "2026-11-10T15:14:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
-      "image": "https://a.espncdn.com/photo/2025/0913/r1544752_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50446771",
+      "headline": "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
+      "description": "Inter Milan forward Marcus Thuram has been ruled out of France's games in the Nations League with a hamstring injury, while his teammate Aurelien Tchouameni is also out",
+      "published": "2026-11-10T22:59:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50446771/france-thuram-tchouameni-leave-squad-injuries",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686538_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Marcus Thuram",
+        "Aurélien Tchouaméni",
+        "Lionel Messi"
+      ],
+      "score": 146
+    },
+    {
+      "id": "50446824",
+      "headline": "Ogden: Stars aligning for Pochettino to join Manchester United",
+      "description": "Ogden: Stars aligning for Pochettino to join Manchester United",
+      "published": "2026-11-10T22:49:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/50446824/stars-aligning-pochettino-join-manchester-united",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_Ogden_Stars_aligning_for_Pochettino_to_join_Manchester_United/dm_261110_Ogden_Stars_aligning_for_Pochettino_to_join_Manchester_United.jpg",
+      "byline": null,
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
@@ -40,34 +62,34 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 140
+      "score": 144
     },
     {
-      "id": "50442775",
-      "headline": "USMNT or Manchester United: Pros and cons of Pochettino's options",
-      "description": "Man United may soon need a new manager, and Mauricio Pochettino has spoken of his desire to return to Europe. Could he leave the U.S. for Old Trafford?",
-      "published": "2026-11-10T18:33:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50442775/usmnt-manchester-united-pros-cons-mauricio-pochettino-options",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1744028_1296x729_16-9.jpg",
-      "byline": "Rob Dawson and Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "50440438",
+      "headline": "Transfer rumors, news: Barcelona eye move for Bayern's Tah",
+      "description": "Barcelona are looking to improve their defense and could look to Bayern Munich's Jonathan Tah as an option. Transfer Talk has the latest.",
+      "published": "2026-11-10T21:50:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1744203_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
-        "Argentina",
-        "USA"
+        "Argentina"
       ],
       "players": [
+        "Jonathan Tah",
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 142
     },
     {
-      "id": "50444305",
-      "headline": "Can Arsenal find a way to match Barcelona's dominance in the UWCL?",
-      "description": "Can Arsenal find a way to match Barcelona's dominance in the UWCL?",
-      "published": "2026-11-10T18:29:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/50444305/can-arsenal-find-way-match-barcelona-dominance-uwcl",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_COM_SOC_Analysis_Can_Arsenal_find_a_way_to_match_Barcelonas_dominance_in_the_UWCL_20261110_GLO/dm_261110_COM_SOC_Analysis_Can_Arsenal_find_a_way_to_match_Barcelonas_dominance_in_the_UWCL_20261110_GLO.jpg",
+      "id": "50447168",
+      "headline": "Highlight: Roni nets game winner of quarterfinal for Bama vs. LSU",
+      "description": "After a scoreless first half, 3-seed Alabama surges past the 11-seed Tigers, 2-1, with Ashley Roni's penalty kick, securing a spot in the SEC tourney semifinals.",
+      "published": "2026-11-10T23:38:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/50447168/roni-nets-game-winner-quarterfinal-bama-vs-lsu",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_SEC_WSOC_Highlight_Bama_LSU_SEC_261110/dm_261110_SEC_WSOC_Highlight_Bama_LSU_SEC_261110.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -80,72 +102,48 @@
       "score": 133
     },
     {
-      "id": "50444096",
-      "headline": "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-      "description": "Scott McTominay has revealed he had to have his heart \"shocked\" two days before playing in Scotland 's World Cup opener against Haiti.",
-      "published": "2026-11-10T18:19:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50444096/scott-mctominay-scotland-2026-world-cup-heart-shock",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1744078_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Scotland",
-        "Haiti"
-      ],
-      "players": [
-        "Scott McTominay",
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50442779",
-      "headline": "Aitana Bonmatí on returning to Barça after breaking leg: Players are not robots",
-      "description": "Aitana Bonmatí said players are not robots as she eyes a return to top form after breaking her leg a year ago.",
-      "published": "2026-11-10T17:13:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50442779/aitana-bonmati-barcelona-return-players-not-robots",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743994_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
+      "id": "50446801",
+      "headline": "LSU vs. Alabama: Game Highlights",
+      "description": "LSU vs. Alabama: Game Highlights",
+      "published": "2026-11-10T22:46:27Z",
+      "url": "https://www.espn.com/video/clip/_/id/50446801/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1110/7675dd2b-8348-4548-9ceb-1d84f91347c3/7675dd2b-8348-4548-9ceb-1d84f91347c3.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Aitana Bonmatí",
+        "Lionel Messi"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50446708",
+      "headline": "Bayern Munich claim UWCL win in tough PSG away trip",
+      "description": "Bayern Munich claim UWCL win in tough PSG away trip",
+      "published": "2026-11-10T22:30:06Z",
+      "url": "https://www.espn.com/video/clip/_/id/50446708/bayern-munich-claim-uwcl-win-tough-psg-away-trip",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_COM_SOC_Highlight_Bayern_Munich_claim_UWCL_win_in_tough_PSG_away_trip_20261110/dm_261110_COM_SOC_Highlight_Bayern_Munich_claim_UWCL_win_in_tough_PSG_away_trip_20261110.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
         "Lionel Messi"
       ],
       "score": 131
     },
     {
-      "id": "50443428",
-      "headline": "USMNT players not distracted by Pochettino links to Man United - Antonee Robinson",
-      "description": "Antonee Robinson said USMNT players are not distracted by news linking U.S. coach Mauricio Pochettino to job with Manchester United.",
-      "published": "2026-11-10T16:45:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50443428/usmnt-not-distracted-pochettino-man-united-robinson",
-      "image": "https://a.espncdn.com/photo/2025/0306/r1460322_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Antonee Robinson",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50442918",
-      "headline": "Ogden brands Man United 'pathetic' for keeping Carrick in limbo",
-      "description": "Ogden brands Man United 'pathetic' for keeping Carrick in limbo",
-      "published": "2026-11-10T15:40:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/50442918/ogden-brands-man-united-pathetic-keeping-carrick-limbo",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_Ogden_brands_Man_United_pathetic_for_keeping_Carrick_in_limbo/dm_261110_Ogden_brands_Man_United_pathetic_for_keeping_Carrick_in_limbo.jpg",
+      "id": "50446702",
+      "headline": "Man City secure first win of UWCL season vs. Inter Milan",
+      "description": "Man City secure first win of UWCL season vs. Inter Milan",
+      "published": "2026-11-10T22:28:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/50446702/man-city-secure-first-win-uwcl-season-vs-inter-milan",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_Man_City_secure_first_win_of_UWCL_season_vs_Inter_Milan/dm_261110_Man_City_secure_first_win_of_UWCL_season_vs_Inter_Milan.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -155,26 +153,25 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 129
+      "score": 131
     },
     {
-      "id": "50442407",
-      "headline": "Mauricio Pochettino would be open to becoming Man United head coach - sources",
-      "description": "Mauricio Pochettino would be open to the prospect of returning to the Premier League with Manchester United, sources have told ESPN.",
-      "published": "2026-11-10T15:10:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50442407/mauricio-pochettino-man-united-michael-carrick-crisis",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743973_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
+      "id": "50393914",
+      "headline": "Fujino brace gives Man City first UWCL win with rout of Inter",
+      "description": "Aoba Fujino scored a brace as Manchester City earned their first Women's Champions League win this season with a 4-1 victory at Inter Milan.",
+      "published": "2026-11-10T22:06:04Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401916988",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1744213_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "USA"
+        "Argentina"
       ],
       "players": [
         "Lionel Messi"
       ],
-      "score": 128
+      "score": 131
     },
     {
       "id": "47978642",
@@ -192,7 +189,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 119
+      "score": 112
     },
     {
       "id": "50402359",
