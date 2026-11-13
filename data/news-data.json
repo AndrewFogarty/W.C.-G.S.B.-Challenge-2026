@@ -1,11 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-13T02:48:08.174Z",
+  "updated": "2026-11-13T10:06:35.829Z",
   "counts": {
-    "offfield": 7,
-    "news": 37,
-    "preview": 3,
-    "celebration": 1
+    "offfield": 9,
+    "news": 31,
+    "preview": 6,
+    "celebration": 2
   },
   "items": [
     {
@@ -22,7 +22,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 206
+      "score": 195
     },
     {
       "id": "50463328",
@@ -36,7 +36,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 201
+      "score": 190
     },
     {
       "id": "50453174",
@@ -59,18 +59,39 @@
         "Enzo Fernández",
         "Lionel Messi"
       ],
-      "score": 177
+      "score": 166
     },
     {
-      "id": "50465897",
-      "headline": "Rapinoe, Altidore, Ertz into National Soccer Hall of Fame; Beckham gets nod",
-      "description": "Former United States national team standouts Megan Rapinoe, Jozy Altidore and Julie Ertz were among those elected to the National Soccer Hall of Fame on Thursday.",
-      "published": "2026-11-13T02:46:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50465897/rapinoe-altidore-ertz-national-soccer-hall-fame",
-      "image": "https://a.espncdn.com/photo/2023/0925/r1229485_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
+      "id": "50469742",
+      "headline": "Transfer rumors, news: Man United eye USMNT's Balogun, Freeman for Pochettino",
+      "description": "United States internationals Folarin Balogun and Alex Freeman could be following Mauricio Pochettino to Manchester United. Transfer Talk has the latest.",
+      "published": "2026-11-13T09:19:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/1113/r1745185_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Folarin Balogun",
+        "Alex Freeman",
+        "Nico Paz"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50452966",
+      "headline": "Mauricio Pochettino agrees Man United deal, announcement expected - sources",
+      "description": "Mauricio Pochettino has agreed to become the next Manchester United manager with an announcement expected on Friday, sources have told ESPN.",
+      "published": "2026-11-13T07:57:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50452966/mauricio-pochettino-man-united-deal-sources",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697370_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Argentina",
         "USA"
@@ -78,15 +99,116 @@
       "players": [
         "Nico Paz"
       ],
-      "score": 133
+      "score": 142
     },
     {
-      "id": "50466095",
-      "headline": "Texas vs. Arkansas: Game Highlights",
-      "description": "Texas vs. Arkansas: Game Highlights",
-      "published": "2026-11-13T02:24:52Z",
-      "url": "https://www.espn.com/video/clip/_/id/50466095/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1113/033d3523-5763-4d3d-9b40-4595d78dc1f0/033d3523-5763-4d3d-9b40-4595d78dc1f0.jpg",
+      "id": "50469858",
+      "headline": "Luka Modrić hails record-breaker Harry Kane: 'He deserves it'",
+      "description": "Luka Modrić has hailed Harry Kane after the England captain made history by becoming the most-capped player, saying \"he deserves it.\"",
+      "published": "2026-11-13T09:43:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50469858/luka-modric-harry-kane-england-croatia",
+      "image": "https://a.espncdn.com/photo/2026/1113/r1745184_1296x729_16-9.jpg",
+      "byline": "Alicia Turner",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Harry Kane",
+        "Luka Modric",
+        "Nico Paz"
+      ],
+      "score": 139
+    },
+    {
+      "id": "50469608",
+      "headline": "Gotham FC vs. Kansas City Current - Kick-off time, how to watch, NWSL news",
+      "description": "Reigning NWSL champions Gotham FC will host a Temwa Chawinga-inspired Kansas City Current at New York City's sold-out Icahn Stadium on Sunday in a mouthwatering semi-final clash.",
+      "published": "2026-11-13T07:52:26Z",
+      "url": "https://www.espn.com/espn/story/_/id/50469608/gotham-fc-kansas-city-current-how-watch-chawinga-nwsl",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730132_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Temwa Chawinga",
+        "Patrick Mahomes",
+        "Nico Paz"
+      ],
+      "score": 139
+    },
+    {
+      "id": "50469475",
+      "headline": "Washington Spirit vs. Utah Royals - How to watch the NWSL semifinals",
+      "description": "After losing last season's NWSL Championship to Gotham FC, Washington Spirit have an opportunity to book their place in the final again when they host Utah Royals at Audi Field.",
+      "published": "2026-11-13T07:26:04Z",
+      "url": "https://www.espn.com/espn/story/_/id/50469475/washington-spirit-utah-royals-nwsl-semi-finals-how-watch-africa",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743262_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Monique Ngock",
+        "Melissa Bethi",
+        "Clara Luvanga",
+        "Trinity Rodman",
+        "Nico Paz"
+      ],
+      "score": 138
+    },
+    {
+      "id": "50459813",
+      "headline": "Ronaldinho at Ravenna: Explaining comeback aged 46, how to watch in UK",
+      "description": "Ronaldinho is set to play for Ravenna for the first time aged 46 and here's everything you need to know.",
+      "published": "2026-11-13T07:01:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50459813/ronaldinho-ravenna-how-watch-uk",
+      "image": "https://a.espncdn.com/photo/2026/1112/r1744717_1296x729_16-9.jpg",
+      "byline": "James Dielhenn and Alicia Turner",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 137
+    },
+    {
+      "id": "50470141",
+      "headline": "Tuchel: White needs to open a new chapter after being booed by England fans",
+      "description": "Tuchel: White needs to open a new chapter after being booed by England fans",
+      "published": "2026-11-13T09:39:56Z",
+      "url": "https://www.espn.com/video/clip/_/id/50470141/white-needs-open-new-chapter-being-booed-england-fans",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_Analysis_Tuchel3A_White_needs_to_open_a_new_chapter_after_being_booed_by_England_fans_GLOBA/dm_261113_COM_SOC_Analysis_Tuchel3A_White_needs_to_open_a_new_chapter_after_being_booed_by_England_fans_GLOBA.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Croatia",
+        "England"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50469913",
+      "headline": "Should Gotham be 'concerned' with their attack going into the Kansas City Current game?",
+      "description": "Should Gotham be 'concerned' with their attack going into the Kansas City Current game?",
+      "published": "2026-11-13T09:16:22Z",
+      "url": "https://www.espn.com/video/clip/_/id/50469913/should-gotham-concerned-their-attack-going-kansas-city-current-game",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_Analysis_Should_Gotham_be_E28098256/dm_261113_COM_SOC_Analysis_Should_Gotham_be_E28098256.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -97,123 +219,6 @@
         "Nico Paz"
       ],
       "score": 132
-    },
-    {
-      "id": "50466191",
-      "headline": "NC State vs. North Carolina: Game Highlights",
-      "description": "NC State vs. North Carolina: Game Highlights",
-      "published": "2026-11-13T00:56:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/50466191/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1113/bd705679-26b2-4192-a1a8-ee7dbff896f0/bd705679-26b2-4192-a1a8-ee7dbff896f0.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50465869",
-      "headline": "Akron vs. Creighton: Game Highlights",
-      "description": "Akron vs. Creighton: Game Highlights",
-      "published": "2026-11-13T00:12:43Z",
-      "url": "https://www.espn.com/video/clip/_/id/50465869/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1113/530d6155-5f9f-45b0-a458-2956eb6d0b8a/530d6155-5f9f-45b0-a458-2956eb6d0b8a.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50465735",
-      "headline": "Tuchel downplays fears White could walk away from England over fans' boos",
-      "description": "Thomas Tuchel has played down any suggestion of Ben White walking away from England again and backed the defender to overcome boos from fans at Wembley.",
-      "published": "2026-11-13T00:03:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50465735/england-ben-white-boos-fans-thomas-tuchel-croatia",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1745069_1296x729_16-9.jpg",
-      "byline": "James Olley",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Ben White",
-        "Nico Paz"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50465734",
-      "headline": "Jack Grealish issues public apology after making Everton comeback in friendly",
-      "description": "Jack Grealish has issued a public apology to Everton fans after he made his comeback in a behind-closed-doors match with Derby.",
-      "published": "2026-11-13T00:00:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50465734/jack-grealish-public-apology-everton-comeback",
-      "image": "https://a.espncdn.com/photo/2026/1105/r1741504_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Jack Grealish",
-        "Nico Paz"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50465651",
-      "headline": "Pio Esposito continues impressive scoring streak for Italy with brace vs. France",
-      "description": "Italy striker Pio Esposito scored two goals on Thursday to help his national team beat France 3-1 in the UEFA Nations League.",
-      "published": "2026-11-12T23:55:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50465651/esposito-brace-italy-win-france-nations-league",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1745062_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "France"
-      ],
-      "players": [
-        "Pio Esposito",
-        "Nico Paz"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50465395",
-      "headline": "Spain welcome Yamal back, aim to extend record streak vs. England",
-      "description": "Spain will welcome Lamine Yamal back for Sunday's game against England after extending their unbeaten streak to 43 games with a 2-0 win over Czechia on Thursday.",
-      "published": "2026-11-12T23:25:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50465395/spain-yamal-record-streak-england",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726487_1296x729_16-9.jpg",
-      "byline": "Sam Marsden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Spain",
-        "Czechia",
-        "England"
-      ],
-      "players": [
-        "Lamine Yamal",
-        "Nico Paz"
-      ],
-      "score": 128
     },
     {
       "id": "50451094",
@@ -232,7 +237,7 @@
       "players": [
         "Yukinari Sugawara"
       ],
-      "score": 118
+      "score": 107
     },
     {
       "id": "50440647",
@@ -248,7 +253,7 @@
         "USA"
       ],
       "players": [],
-      "score": 83
+      "score": 72
     },
     {
       "id": "47978642",
