@@ -1,12 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-15T19:59:10.020Z",
+  "updated": "2026-11-15T23:55:07.949Z",
   "counts": {
-    "news": 33,
-    "injury": 1,
-    "preview": 4,
-    "celebration": 2,
-    "offfield": 8
+    "news": 36,
+    "offfield": 8,
+    "preview": 3,
+    "celebration": 1
   },
   "items": [
     {
@@ -24,68 +23,170 @@
         "Brazil"
       ],
       "players": [],
-      "score": 167
+      "score": 161
     },
     {
-      "id": "50489043",
-      "headline": "Reaction as Brazil legend Ronaldinho comes out of retirement at Ravenna",
-      "description": "Ronaldinho came out of retirement to play for Italian Serie C side Ravenna at age 46 in a bid to score his 300th career goal, but couldn't manage it. Here's what happened.",
-      "published": "2026-11-15T17:44:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746103_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50494867",
+      "headline": "England's win over Spain is the statement Tuchel's team has been waiting for",
+      "description": "England ended Spain's 43-match unbeaten run with a statement win that gives Thomas Tuchel renewed belief his side can finally deliver on the biggest stage.",
+      "published": "2026-11-15T23:41:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746364_1296x729_16-9.jpg",
+      "byline": "James Olley and Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Brazil"
+        "England",
+        "Spain"
+      ],
+      "players": [
+        "James Trafford",
+        "Lamine Yamal",
+        "Nico Paz"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50491813",
+      "headline": "Kansas City Current score late to beat Gotham FC, advance to NWSL finals",
+      "description": "The Kansas City Current are headed to the NWSL final after a late Haley Hopkins goal saw them past defending champions Gotham FC with a 2-1 win on Sunday.",
+      "published": "2026-11-15T23:38:24Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401933740",
+      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.nwsl/events/401933740.png?templateId=espn.applewatch.awayhome.1",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
       ],
       "players": [
         "Nico Paz"
       ],
-      "score": 144
+      "score": 133
     },
     {
-      "id": "50492068",
-      "headline": "Jürgen Klopp prioritises Germany rebuild ahead of Netherlands showdown",
-      "description": "Germany boss Jurgen Klopp feels his squad must continue to trust the process as they look to take another step forwards in their final Nations League match against the Netherlands.",
-      "published": "2026-11-15T19:34:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50492068/jurgen-klopp-germany-netherlands-nations-league",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724782_1296x729_16-9.jpg",
+      "id": "50495555",
+      "headline": "Leboeuf: France are very fragile defensively",
+      "description": "Leboeuf: France are very fragile defensively",
+      "published": "2026-11-15T23:22:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/50495555/france-very-fragile-defensively",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_Leboeuf_France_are_very_fragile_defensively/dm_261115_Leboeuf_France_are_very_fragile_defensively.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Saël Kumbedi",
+        "Nico Paz"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50495433",
+      "headline": "North Carolina vs. SMU: Game Highlights",
+      "description": "North Carolina vs. SMU: Game Highlights",
+      "published": "2026-11-15T23:13:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/50495433/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1115/2ec92994-39ae-4586-b020-65df8fd69020/2ec92994-39ae-4586-b020-65df8fd69020.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50495102",
+      "headline": "Moreno: Bellingham the star of England's win over Spain",
+      "description": "Moreno: Bellingham the star of England's win over Spain",
+      "published": "2026-11-15T22:42:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/50495102/bellingham-star-england-win-spain",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_Moreno_hails_Bellinghams_role_in_England_beating_Spain/dm_261115_Moreno_hails_Bellinghams_role_in_England_beating_Spain.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England",
+        "Spain"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50494882",
+      "headline": "Declan Rice claims England knew they were going to end Spain's unbeaten run",
+      "description": "England knew they were going to end Spain's long unbeaten run, according to midfielder Declan Rice.",
+      "published": "2026-11-15T22:41:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50494882/declan-rice-england-spain-lamine-yamal-thomas-tuchel-nations-league",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746353_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England",
+        "Spain"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50494790",
+      "headline": "NJ/NY Gotham FC vs. Kansas City Current - Game Highlights",
+      "description": "Watch the Game Highlights from NJ/NY Gotham FC vs. Kansas City Current, 11/16/2026",
+      "published": "2026-11-15T22:22:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/50494790/nj-ny-gotham-fc-vs-kansas-city-current-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1115/64b995f5-ff76-4b0a-8569-57d7e5065cf2/64b995f5-ff76-4b0a-8569-57d7e5065cf2.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Croix Bethune",
+        "Temwa Chawinga",
+        "Laney Rouse",
+        "Izzy Rodriguez",
+        "Kayla Sharples",
+        "Haley Hopkins",
+        "Lo'eau LaBonta",
+        "Nico Paz"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50494625",
+      "headline": "England hold on for remarkable win in Madrid to end Spain's 43-game unbeaten run",
+      "description": "England ended 2026 with an extraordinary 3-2 triumph in world champions Spain's backyard as Thomas Tuchel's 10 men dug deep to top their Nations League group on a magical night in Madrid.",
+      "published": "2026-11-15T22:08:51Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401861175",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_Moreno_hails_Bellinghams_role_in_England_beating_Spain/dm_261115_Moreno_hails_Bellinghams_role_in_England_beating_Spain.jpg",
       "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Germany",
-        "Netherlands"
+        "England",
+        "Spain"
       ],
       "players": [
         "Nico Paz"
       ],
-      "score": 141
-    },
-    {
-      "id": "50487187",
-      "headline": "USMNT's Balogun does 'Dame Time' celebration after goal vs. Haiti",
-      "description": "After the star forward found the back of the net against Haiti, he had a specific celebration in mind: Damian Lillard's iconic \"Dame Time\" motion.",
-      "published": "2026-11-15T17:30:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50487187/usmnt-folarin-balogun-dame-celebration",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1745990_608x342_16-9.jpg",
-      "byline": "ESPN staff",
-      "kind": "celebration",
-      "kindLabel": "Celebration",
-      "teams": [
-        "Argentina",
-        "USA",
-        "Haiti"
-      ],
-      "players": [
-        "Folarin Balogun",
-        "Damian Lillard",
-        "Nico Paz"
-      ],
-      "score": 136
+      "score": 130
     },
     {
       "id": "50470402",
@@ -101,98 +202,7 @@
         "USA"
       ],
       "players": [],
-      "score": 136
-    },
-    {
-      "id": "50492105",
-      "headline": "Mexico on brink of missing Nations League semifinals after loss to Jamaica",
-      "description": "Jamaica stunned Mexico 3-2 on Saturday to move within reach of the Concacaf Nations League semifinals and add to Mexico's struggles under new coach Rafael Márquez.",
-      "published": "2026-11-15T19:48:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50492105/mexico-nations-league-semifinals-loss-jamaica",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746204_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Mexico"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50491487",
-      "headline": "Ronaldinho fails to score 300th goal as comeback lasts 45 minutes",
-      "description": "Ronaldinho failed to secure his elusive 300th career goal after returning to professional football aged 46.",
-      "published": "2026-11-15T19:20:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50491487/ronaldinho-comeback-300-goals-ravenna-serie-c",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746135_864x1296_2-3.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50491988",
-      "headline": "Virginia vs. North Carolina: Game Highlights",
-      "description": "Virginia vs. North Carolina: Game Highlights",
-      "published": "2026-11-15T19:11:04Z",
-      "url": "https://www.espn.com/video/clip/_/id/50491988/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1115/394cc4e9-705e-4cc9-b347-95c09c4671d4/394cc4e9-705e-4cc9-b347-95c09c4671d4.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50456589",
-      "headline": "Mary Earps stars for London City as Arsenal drop further points in WSL",
-      "description": "London City Lionesses missed the chance to close up on second place in the Women's Super League as they were held to a 1-1 draw at Arsenal.",
-      "published": "2026-11-15T19:01:26Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401902864",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746155_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50491662",
-      "headline": "Tenerife pay tribute to Jesús de Miguel in first match since his death",
-      "description": "Spanish soccer club Tenerife on Sunday paid tribute to Jesús de Miguel in its first game since the striker's death, with midfielder Nacho Gil holding up De Miguel's jersey after scoring his team's opening goal shortly before halftime.",
-      "published": "2026-11-15T19:33:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50491662/tenerife-tribute-jesus-de-miguel-first-match-death",
-      "image": null,
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 126
+      "score": 130
     },
     {
       "id": "50451803",
@@ -208,7 +218,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 88
+      "score": 82
     },
     {
       "id": "50463328",
@@ -222,7 +232,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 83
+      "score": 77
     },
     {
       "id": "50453174",
