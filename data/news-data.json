@@ -1,12 +1,12 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-15T14:42:42.289Z",
+  "updated": "2026-11-15T19:59:10.020Z",
   "counts": {
     "news": 33,
     "injury": 1,
-    "offfield": 9,
     "preview": 4,
-    "celebration": 1
+    "celebration": 2,
+    "offfield": 8
   },
   "items": [
     {
@@ -24,15 +24,15 @@
         "Brazil"
       ],
       "players": [],
-      "score": 175
+      "score": 167
     },
     {
       "id": "50489043",
-      "headline": "Live updates, reaction as Brazil legend Ronaldinho comes out of retirement at Ravenna to chase 300th goal",
-      "description": "Ronaldinho is coming out of retirement to play for Italian Serie C side Ravenna at age 46 in a bid to score his 300th career goal. Here's how the world reacted.",
-      "published": "2026-11-15T14:30:59Z",
+      "headline": "Reaction as Brazil legend Ronaldinho comes out of retirement at Ravenna",
+      "description": "Ronaldinho came out of retirement to play for Italian Serie C side Ravenna at age 46 in a bid to score his 300th career goal, but couldn't manage it. Here's what happened.",
+      "published": "2026-11-15T17:44:11Z",
       "url": "https://www.espn.com/soccer/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744719_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746103_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "injury",
       "kindLabel": "Injury",
@@ -43,7 +43,49 @@
       "players": [
         "Nico Paz"
       ],
-      "score": 147
+      "score": 144
+    },
+    {
+      "id": "50492068",
+      "headline": "Jürgen Klopp prioritises Germany rebuild ahead of Netherlands showdown",
+      "description": "Germany boss Jurgen Klopp feels his squad must continue to trust the process as they look to take another step forwards in their final Nations League match against the Netherlands.",
+      "published": "2026-11-15T19:34:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50492068/jurgen-klopp-germany-netherlands-nations-league",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724782_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "Germany",
+        "Netherlands"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50487187",
+      "headline": "USMNT's Balogun does 'Dame Time' celebration after goal vs. Haiti",
+      "description": "After the star forward found the back of the net against Haiti, he had a specific celebration in mind: Damian Lillard's iconic \"Dame Time\" motion.",
+      "published": "2026-11-15T17:30:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50487187/usmnt-folarin-balogun-dame-celebration",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1745990_608x342_16-9.jpg",
+      "byline": "ESPN staff",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina",
+        "USA",
+        "Haiti"
+      ],
+      "players": [
+        "Folarin Balogun",
+        "Damian Lillard",
+        "Nico Paz"
+      ],
+      "score": 136
     },
     {
       "id": "50470402",
@@ -59,93 +101,35 @@
         "USA"
       ],
       "players": [],
-      "score": 144
+      "score": 136
     },
     {
-      "id": "50489327",
-      "headline": "Transfer rumors, news: Arsenal eye former Tottenham striker Will Lankshear",
-      "description": "Arsenal are the latest team to join a long list of admirers following Middlesbrough striker Will Lankshear. Transfer Talk has the latest.",
-      "published": "2026-11-15T12:31:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702141_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Will Lankshear",
-        "Nico Paz"
-      ],
-      "score": 142
-    },
-    {
-      "id": "50459813",
-      "headline": "Ronaldinho at Ravenna: Explaining comeback aged 46, how to watch in UK",
-      "description": "Ronaldinho is set to play for Ravenna for the first time aged 46 and here's everything you need to know.",
-      "published": "2026-11-15T13:14:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50459813/ronaldinho-ravenna-how-watch-uk",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744717_1296x729_16-9.jpg",
-      "byline": "James Dielhenn and Alicia Turner",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 140
-    },
-    {
-      "id": "50490171",
-      "headline": "Arsenal's Bruno Guimarães: Learning a lot from 'machine' Declan Rice",
-      "description": "Bruno Guimarães has labelled Arsenal teammate Declan Rice a \"machine\" and said he's been learning a lot by playing alongside him.",
-      "published": "2026-11-15T14:25:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50490171/arsenal-bruno-guimaraes-declan-rice",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746054_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50492105",
+      "headline": "Mexico on brink of missing Nations League semifinals after loss to Jamaica",
+      "description": "Jamaica stunned Mexico 3-2 on Saturday to move within reach of the Concacaf Nations League semifinals and add to Mexico's struggles under new coach Rafael Márquez.",
+      "published": "2026-11-15T19:48:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50492105/mexico-nations-league-semifinals-loss-jamaica",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746204_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "Mexico"
       ],
       "players": [
-        "Bruno Guimarães",
-        "Declan Rice",
         "Nico Paz"
       ],
       "score": 133
     },
     {
-      "id": "50471902",
-      "headline": "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-      "description": "England have made progress since their World Cup heartbreak, but, as ESPN's Tom Hamilton writes, a showdown with Spain will reveal just how far they've come.",
-      "published": "2026-11-15T13:15:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50471902/england-thomas-tuchel-spain-nations-league",
-      "image": "https://a.espncdn.com/photo/2026/1113/r1745284_1296x729_16-9.jpg",
-      "byline": "Tom Hamilton",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "Spain"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50470622",
-      "headline": "Mauricio Pochettino to Man United: Is Tottenham love affair finally over?",
-      "description": "Mauricio Pochettino is back in the Premier League as the new Man United boss. For Tottenham fans, it's complicated.",
-      "published": "2026-11-15T13:15:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50470622/mauricio-pochettino-tottenham-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1113/r1745200_1296x729_16-9.jpg",
-      "byline": "Hannah Ryan",
+      "id": "50491487",
+      "headline": "Ronaldinho fails to score 300th goal as comeback lasts 45 minutes",
+      "description": "Ronaldinho failed to secure his elusive 300th career goal after returning to professional football aged 46.",
+      "published": "2026-11-15T19:20:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50491487/ronaldinho-comeback-300-goals-ravenna-serie-c",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746135_864x1296_2-3.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -154,37 +138,16 @@
       "players": [
         "Nico Paz"
       ],
-      "score": 131
+      "score": 132
     },
     {
-      "id": "48983407",
-      "headline": "2027 FIFA Women's World Cup: Format, who has qualified?",
-      "description": "The 2027 FIFA Women's World Cup in Brazil is fast approaching, so here is everything you need to know about the format and teams.",
-      "published": "2026-11-15T12:35:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48983407/everything-need-know-2027-womens-world-cup-format-qualified-more",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695034_2_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "Spain",
-        "Brazil"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50432839",
-      "headline": "Every Manchester United player, manager, executive since Glazers' takeover: Where are they now?",
-      "description": "The Glazer family took over Manchester United in 2005, but what has happened to the players, managers and executive staff since?",
-      "published": "2026-11-15T08:47:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50432839/manchester-united-glazers-transfers-players-managers",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744720_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50491988",
+      "headline": "Virginia vs. North Carolina: Game Highlights",
+      "description": "Virginia vs. North Carolina: Game Highlights",
+      "published": "2026-11-15T19:11:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/50491988/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1115/394cc4e9-705e-4cc9-b347-95c09c4671d4/394cc4e9-705e-4cc9-b347-95c09c4671d4.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -193,7 +156,43 @@
       "players": [
         "Nico Paz"
       ],
-      "score": 124
+      "score": 132
+    },
+    {
+      "id": "50456589",
+      "headline": "Mary Earps stars for London City as Arsenal drop further points in WSL",
+      "description": "London City Lionesses missed the chance to close up on second place in the Women's Super League as they were held to a 1-1 draw at Arsenal.",
+      "published": "2026-11-15T19:01:26Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401902864",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746155_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50491662",
+      "headline": "Tenerife pay tribute to Jesús de Miguel in first match since his death",
+      "description": "Spanish soccer club Tenerife on Sunday paid tribute to Jesús de Miguel in its first game since the striker's death, with midfielder Nacho Gil holding up De Miguel's jersey after scoring his team's opening goal shortly before halftime.",
+      "published": "2026-11-15T19:33:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50491662/tenerife-tribute-jesus-de-miguel-first-match-death",
+      "image": null,
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 126
     },
     {
       "id": "50451803",
@@ -209,7 +208,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 96
+      "score": 88
     },
     {
       "id": "50463328",
@@ -223,7 +222,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 91
+      "score": 83
     },
     {
       "id": "50453174",
@@ -246,7 +245,7 @@
         "Enzo Fernández",
         "Lionel Messi"
       ],
-      "score": 67
+      "score": 62
     },
     {
       "id": "50451094",
