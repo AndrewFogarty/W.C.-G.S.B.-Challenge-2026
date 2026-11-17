@@ -1,19 +1,50 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-17T05:02:14.655Z",
+  "updated": "2026-11-17T14:17:43.244Z",
   "counts": {
-    "news": 35,
-    "offfield": 9,
-    "injury": 1,
-    "preview": 2,
-    "celebration": 1
+    "news": 31,
+    "offfield": 13,
+    "celebration": 2,
+    "preview": 2
   },
   "items": [
+    {
+      "id": "50509967",
+      "headline": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency",
+      "description": "French Football Federation leader Philippe Diallo confirmed his intention on Tuesday to challenge Gianni Infantino for the FIFA presidency.",
+      "published": "2026-11-17T13:44:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50509967/france-fa-diallo-confirms-challenge-infantino-fifa",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694552_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "France"
+      ],
+      "players": [],
+      "score": 209
+    },
+    {
+      "id": "50502389",
+      "headline": "The USMNT doesn't need a hero like Pep Guardiola as its next manager",
+      "description": "The U.S. men's national team is saying goodbye to Mauricio Pochettino while hoping to attract Pep Guardiola as its next manager. But is a superstar coach what this team really needs?",
+      "published": "2026-11-17T10:47:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50502389/usmnt-pep-guardiola-mauricio-pochettino-manchester-city",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747006_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 195
+    },
     {
       "id": "50507180",
       "headline": "Stoic until the end, Japan's Hajime Moriyasu can finally let emotions flow",
       "description": "Even up until the eve of his final game in charge of Japan, Hajime Moriyasu remained solely focused on the task ahead.",
-      "published": "2026-11-17T03:21:48Z",
+      "published": "2026-11-17T07:02:56Z",
       "url": "https://www.espn.com/soccer/story/_/id/50507180/hajime-moriyasu-japan-reign-ends-tuesday",
       "image": "https://a.espncdn.com/photo/2026/1117/r1746964_1296x729_16-9.jpg",
       "byline": "Gabriel Tan",
@@ -23,7 +54,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 207
+      "score": 179
     },
     {
       "id": "50498344",
@@ -37,7 +68,215 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 186
+      "score": 152
+    },
+    {
+      "id": "50508862",
+      "headline": "Transfer rumors, news: Manchester United eye Newcastle defender Malick Thiaw",
+      "description": "Manchester United are among the clubs interested in Newcastle United center back Malick Thiaw. Transfer Talk has the latest.",
+      "published": "2026-11-17T12:10:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747004_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Malick Thiaw",
+        "Rodrigo De Paul"
+      ],
+      "score": 142
+    },
+    {
+      "id": "50509888",
+      "headline": "Oviedo fan handed suspended prison sentence for racist abuse towards Mbappé",
+      "description": "A person has been given a suspended 11-month prison sentence as well a stadium ban and fined for racist insults directed towards Real Madrid forward Kylian Mbappé during a LaLiga match at Real Oviedo in August.",
+      "published": "2026-11-17T11:37:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50509888/kylian-mbappe-racist-abuse-oviedo-fan-real-madrid",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730147_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Kylian Mbappé",
+        "Nico Paz"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50505359",
+      "headline": "Has Real Madrid's Vinícius Júnior finally put summer transfer saga behind him?",
+      "description": "After a summer of transfer uncertainty and a sluggish start to the season, Vinícius Junior is on the comeback trail with Real Madrid and Brazil.",
+      "published": "2026-11-17T11:29:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747010_1296x729_16-9.jpg",
+      "byline": "Graham Hunter",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "Brazil"
+      ],
+      "players": [
+        "Vinícius Júnior",
+        "Nico Paz"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50509388",
+      "headline": "Gerard Piqué criticises 12-match ban for Jesús Owono after Jesús de Miguel death",
+      "description": "Andorra owner Gerard Piqué believes the 12-match suspension given to goalkeeper Jesús Owono for the challenge that led to the death of Tenerife forward Jesús de Miguel is too severe.",
+      "published": "2026-11-17T10:05:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50509388/gerard-pique-andorra-goalkeeper-jesus-owono-jesus-de-miguel",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747009_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 139
+    },
+    {
+      "id": "50509743",
+      "headline": "Andoni Iraola goes viral at grassroots game: 'He must be a down-to-earth fella'",
+      "description": "Andoni Iraola has gone viral for an appearance at a children's grassroots football match.",
+      "published": "2026-11-17T12:21:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50509743/andoni-iraola-liverpool-grassroots-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743055_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "celebration",
+      "kindLabel": "Celebration",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Rodrigo De Paul"
+      ],
+      "score": 137
+    },
+    {
+      "id": "50510075",
+      "headline": "Vinícius Júnior, Brazil put on a show as Singapore vow to learn from heavy loss",
+      "description": "Vinícius Júnior was the star of the show as Brazil cruised to a 7-0 win over Singapore on Tuesday evening.",
+      "published": "2026-11-17T14:15:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50510075/vinicius-junior-brazil-emphatic-win-singapore",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747063_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Brazil"
+      ],
+      "players": [
+        "Rodrigo De Paul"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50510313",
+      "headline": "Thomas Frank: Crystal Palace job 'too good' to turn down",
+      "description": "Thomas Frank decided the Crystal Palace job was \"too good to turn down\" after talks with chairman Steve Parish.",
+      "published": "2026-11-17T13:28:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50510313/thomas-frank-crystal-palace-tottenham-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747050_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Rodrigo De Paul"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50510071",
+      "headline": "Wayne Rooney reveals he contemplated suicide at height of Man United career",
+      "description": "Wayne Rooney has revealed there was a period in his Man United career where he contemplated suicide.",
+      "published": "2026-11-17T12:27:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50510071/wayne-rooney-manchester-united-mental-health",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747037_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Rodrigo De Paul"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50509900",
+      "headline": "McKennie: Inevitable for USMNT stars to be linked to Man United",
+      "description": "McKennie: Inevitable for USMNT stars to be linked to Man United",
+      "published": "2026-11-17T11:40:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/50509900/inevitable-usmnt-stars-linked-man-united",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/dm_261117_McKennie_Inevitable_for_USMNT_stars_to_be_linked_to_Man_United_NEW/dm_261117_McKennie_Inevitable_for_USMNT_stars_to_be_linked_to_Man_United_NEW.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Haiti",
+        "USA"
+      ],
+      "players": [
+        "Weston McKennie",
+        "Nico Paz"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50509745",
+      "headline": "England World Cup playoff squad: Isobel Goodwin and Katie Cox named",
+      "description": "England have named uncapped duo Isobel Goodwin and Katie Cox in the squad for their World Cup playoff against Ukraine, while Aggie Beever-Jones, Lucy Bronze, Poppy Pattinson, Grace Clinton, Ella Toone and Taylor Hinds also return.",
+      "published": "2026-11-17T11:04:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50509745/england-lionesses-squad-ukraine-world-cup-playoff",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747021_1296x729_16-9.jpg",
+      "byline": "Tom Hamilton",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50509681",
+      "headline": "Tony Mowbray steps back from Blackburn job due to health issues",
+      "description": "Tony Mowbray has stepped back from his head coach duties at Blackburn due to health issues.",
+      "published": "2026-11-17T10:45:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50509681/tony-mowbray-steps-back-blackburn-job-due-health-issues",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747020_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 128
     },
     {
       "id": "50500125",
@@ -53,7 +292,26 @@
         "Germany"
       ],
       "players": [],
-      "score": 161
+      "score": 128
+    },
+    {
+      "id": "50509468",
+      "headline": "Brazil legend Romário calls for Carlo Ancelotti sacking",
+      "description": "Brazil coach Carlo Ancelotti has brushed aside Romário's call for his resignation but accepts he has to do more to make the team competitive.",
+      "published": "2026-11-17T10:11:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50509468/brazil-romario-carlo-ancelotti-sacking",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693097_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Brazil"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 127
     },
     {
       "id": "50460862",
@@ -72,140 +330,7 @@
         "Nico Paz",
         "Lionel Messi"
       ],
-      "score": 153
-    },
-    {
-      "id": "50505748",
-      "headline": "Emi Martínez to return for Argentina after gruesome jaw injury",
-      "description": "Chelsea goalkeeper Emiliano Martínez will return for Argentina's friendly against Costa Rica on Tuesday after a month on the sidelines due to a gruesome jaw injury.",
-      "published": "2026-11-17T01:21:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50505748/martinez-return-argentina-gruesome-jaw-injury",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746899_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Emiliano Martínez",
-        "Nico Paz"
-      ],
-      "score": 141
-    },
-    {
-      "id": "50506903",
-      "headline": "Indonesia 'potentially a juggernaut in Asia' - Alen Stajcic",
-      "description": "The Australian coach wants to awaken a \"sleeping giant\" of a football nation.",
-      "published": "2026-11-17T02:25:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50506903/indonesia-potentially-juggernaut-asia-alen-stajcic",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1746948_1296x729_16-9.jpg",
-      "byline": "AAP",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Australia"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50506306",
-      "headline": "A-League Women Stocks: Perth Glory defying all the odds",
-      "description": "Teams desperate for a first win of the season earned big wins points, while the Mariners showed they might have a weakness after all -- all that and more in ESPN's A-League Women Stocks.",
-      "published": "2026-11-17T01:53:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50506306/aleague-women-stocks-round-5-perth-glory-defying-all-odds",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1746944_1296x729_16-9.jpg",
-      "byline": "Marissa Lordanic",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50506705",
-      "headline": "Winless Márquez admits Mexico 'obligated to win' in second leg vs. Jamaica",
-      "description": "Mexico coach Rafael Márquez said his team is \"obligated to win\" against Jamaica in Tuesday's Concacaf Nations League quarterfinal second leg as he searches for his first victory in charge.",
-      "published": "2026-11-17T01:50:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50506705/winless-marquez-confident-mexico-future-mounting-pressure",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1746940_1296x729_16-9.jpg",
-      "byline": "Cesar Hernandez",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Mexico"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50505834",
-      "headline": "Klopp: Nobody 'questioning' Germany after group-winning rout of Dutch",
-      "description": "Germany coach Jürgen Klopp said nobody will be questioning Germany after Florian Wirtz scored twice to help his team book a place in the Nations League quarterfinals.",
-      "published": "2026-11-17T00:46:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50505834/klopp-germany-netherlands-rout",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1746925_1024x576_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Germany"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 127
-    },
-    {
-      "id": "50505776",
-      "headline": "Scotland's 4-0 defeat to Switzerland not a reflection of game - Sebastien Pocognoli",
-      "description": "Sebastien Pocognoli has said Scotland's sobering 4-0 defeat by Switzerland in St Gallen wasn't a fair reflection of the Nations League encounter.",
-      "published": "2026-11-17T00:09:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50505776/scotland-loss-switzerland-sebastien-pocognoli",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746909_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Scotland",
-        "Switzerland"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50504817",
-      "headline": "Poch offers Pep advice on USMNT job, calls it 'perfect moment to arrive'",
-      "description": "On the eve of his final game as coach of the United States, Mauricio Pochettino said that if Pep Guardiola asked him about the USMNT job, he'd recommend taking it if given the chance.",
-      "published": "2026-11-17T00:00:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50504817/poch-pep-advice-usmnt-job",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746871_1024x576_16-9.jpg",
-      "byline": "Jeff Carlisle",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 125
+      "score": 119
     },
     {
       "id": "50479233",
@@ -222,7 +347,7 @@
         "Brazil"
       ],
       "players": [],
-      "score": 78
+      "score": 44
     },
     {
       "id": "50470402",
@@ -238,37 +363,7 @@
         "USA"
       ],
       "players": [],
-      "score": 52
-    },
-    {
-      "id": "50451803",
-      "headline": "Argentina coach Lionel Scaloni signs new long-term deal through 2030 World Cup",
-      "description": "Lionel Scaloni has signed a new contract to remain as Argentina coach heading into the 2030 World Cup.",
-      "published": "2026-11-12T22:36:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50451803/argentina-coach-lionel-scaloni-new-contract-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744634_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [],
       "score": 32
-    },
-    {
-      "id": "50463328",
-      "headline": "FIFA loses New York court ruling against UEFA in World Cup investor case",
-      "description": "A judge in Manhattan denied requests by FIFA subsidiaries to block UEFA's attempts to get evidence about Gianni Infantino's failed World Cup investor plan.",
-      "published": "2026-11-12T23:26:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50463328/fifa-uefa-case-disclosure-new-york-court-thrive-jp-morgan",
-      "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 26
     },
     {
       "id": "50156783",
@@ -287,6 +382,22 @@
         "Rodrigo Bentancur"
       ],
       "score": 25
+    },
+    {
+      "id": "50451803",
+      "headline": "Argentina coach Lionel Scaloni signs new long-term deal through 2030 World Cup",
+      "description": "Lionel Scaloni has signed a new contract to remain as Argentina coach heading into the 2030 World Cup.",
+      "published": "2026-11-12T22:36:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50451803/argentina-coach-lionel-scaloni-new-contract-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/1112/r1744634_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [],
+      "score": 22
     },
     {
       "id": "50453174",
@@ -698,24 +809,6 @@
       "score": 13
     },
     {
-      "id": "50099893",
-      "headline": "Scaloni: Messi's final Argentina match will be unforgettable",
-      "description": "Scaloni: Messi's final Argentina match will be unforgettable",
-      "published": "2026-10-04T14:48:16Z",
-      "url": "https://www.espn.com/video/clip/_/id/50099893/messi-final-argentina-match-unforgettable",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 13
-    },
-    {
       "id": "50387286",
       "headline": "FIFA Council's Tashima to challenge Infantino in March elections - reports",
       "description": "FIFA Council member Kohzo Tashima intends to run for president of the global football body against incumbent Gianni Infantino, Japanese media reported.",
@@ -775,87 +868,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "50225613",
-      "headline": "Gianni Infantino courts Asian Football Confederation in reelection campaign bid",
-      "description": "Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation.",
-      "published": "2026-10-20T10:51:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
-      "image": "https://a.espncdn.com/photo/2026/1020/r1733302_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Japan"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "50115954",
-      "headline": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
-      "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
-      "published": "2026-10-06T11:59:21Z",
-      "url": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
-      "image": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg",
-      "byline": "Colin Udoh",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "DR Congo"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "50104524",
-      "headline": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
-      "description": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
-      "published": "2026-10-04T22:20:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Canada",
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
-      "id": "50074316",
-      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
-      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
-      "published": "2026-10-12T13:39:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
-      "byline": "Bill Connelly",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [
-        "Kylian Mbappé",
-        "Harry Kane",
-        "Lamine Yamal"
-      ],
-      "score": 9
-    },
-    {
-      "id": "50399850",
-      "headline": "FIFA's chief legal officer steps down in second high-profile exit",
-      "description": "Emilio García Silvero, who has served as FIFA's chief legal and compliance officer for the past eight years, is stepping down from his position.",
-      "published": "2026-11-06T16:50:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50399850/fifa-chief-legal-compliance-officer-steps-down",
-      "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
