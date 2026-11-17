@@ -1,13 +1,44 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-16T13:43:58.325Z",
+  "updated": "2026-11-17T05:02:14.655Z",
   "counts": {
-    "news": 36,
+    "news": 35,
     "offfield": 9,
+    "injury": 1,
     "preview": 2,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50507180",
+      "headline": "Stoic until the end, Japan's Hajime Moriyasu can finally let emotions flow",
+      "description": "Even up until the eve of his final game in charge of Japan, Hajime Moriyasu remained solely focused on the task ahead.",
+      "published": "2026-11-17T03:21:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50507180/hajime-moriyasu-japan-reign-ends-tuesday",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1746964_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 207
+    },
+    {
+      "id": "50498344",
+      "headline": "Why FIFA reelection will be a formality for Teflon-like Gianni Infantino",
+      "description": "Despite scandals, controversy and legal challenges, Gianni Infantino looks all but certain to secure a landslide reelection as FIFA president and another four years in charge.",
+      "published": "2026-11-16T14:19:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50498344/gianni-infantino-fifa-presidency-reelection-chances",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746503_2_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 186
+    },
     {
       "id": "50500125",
       "headline": "Klopp: FIFA worse under Infantino than Blatter",
@@ -22,7 +53,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 204
+      "score": 161
     },
     {
       "id": "50460862",
@@ -41,161 +72,140 @@
         "Nico Paz",
         "Lionel Messi"
       ],
-      "score": 196
+      "score": 153
     },
     {
-      "id": "50500536",
-      "headline": "European clubs group files complaint against UEFA",
-      "description": "Another football politics dispute was sent to the European Union on Monday as lower-ranked clubs challenged storied rivals' close ties to UEFA.",
-      "published": "2026-11-16T13:43:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50500536/european-clubs-group-files-complaint-uefa",
-      "image": "https://a.espncdn.com/photo/2024/1217/r1429191_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "id": "50505748",
+      "headline": "Emi Martínez to return for Argentina after gruesome jaw injury",
+      "description": "Chelsea goalkeeper Emiliano Martínez will return for Argentina's friendly against Costa Rica on Tuesday after a month on the sidelines due to a gruesome jaw injury.",
+      "published": "2026-11-17T01:21:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50505748/martinez-return-argentina-gruesome-jaw-injury",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746899_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Emiliano Martínez",
+        "Nico Paz"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50506903",
+      "headline": "Indonesia 'potentially a juggernaut in Asia' - Alen Stajcic",
+      "description": "The Australian coach wants to awaken a \"sleeping giant\" of a football nation.",
+      "published": "2026-11-17T02:25:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50506903/indonesia-potentially-juggernaut-asia-alen-stajcic",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1746948_1296x729_16-9.jpg",
+      "byline": "AAP",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Australia"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50506306",
+      "headline": "A-League Women Stocks: Perth Glory defying all the odds",
+      "description": "Teams desperate for a first win of the season earned big wins points, while the Mariners showed they might have a weakness after all -- all that and more in ESPN's A-League Women Stocks.",
+      "published": "2026-11-17T01:53:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50506306/aleague-women-stocks-round-5-perth-glory-defying-all-odds",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1746944_1296x729_16-9.jpg",
+      "byline": "Marissa Lordanic",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
         "Nico Paz"
       ],
-      "score": 145
+      "score": 128
     },
     {
-      "id": "50500348",
-      "headline": "Nike replaces Adidas as UEFA ball provider to restyle Champions League",
-      "description": "The Champions League ball will have a new look next season after Nike replaced Adidas as UEFA's official provider.",
-      "published": "2026-11-16T13:06:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50500348/nike-adidas-uefa-ball-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746551_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 132
-    },
-    {
-      "id": "49730333",
-      "headline": "As Nike replaces Adidas, is UEFA Champions League star ball on its way out?",
-      "description": "Nike will replace Adidas as supplier of UEFA Champions League match balls from next season. Will the famous 'star ball' design soon be no more?",
-      "published": "2026-11-16T12:56:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49730333/uefa-champions-league-adidas-nike-ball",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707048_2_1296x729_16-9.jpg",
-      "byline": "Chris Wright",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50500778",
-      "headline": "Royal flush? Brazil great Neymar wins $24,000 in poker game",
-      "description": "Neymar has bagged $24,000 at the poker table in Brazil.",
-      "published": "2026-11-16T12:53:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50500778/neymar-wins-24000-poker-santos-brazil",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746581_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50506705",
+      "headline": "Winless Márquez admits Mexico 'obligated to win' in second leg vs. Jamaica",
+      "description": "Mexico coach Rafael Márquez said his team is \"obligated to win\" against Jamaica in Tuesday's Concacaf Nations League quarterfinal second leg as he searches for his first victory in charge.",
+      "published": "2026-11-17T01:50:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50506705/winless-marquez-confident-mexico-future-mounting-pressure",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1746940_1296x729_16-9.jpg",
+      "byline": "Cesar Hernandez",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Brazil"
-      ],
-      "players": [
-        "Neymar",
-        "Nico Paz"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50500378",
-      "headline": "Chapecoense plane crash survivor wins promotion in final match",
-      "description": "Alan Ruschel, a survivor of the 2016 plane crash that was carrying the Chapecoense team, retired from football on a high note after helping his boyhood club Juventude win promotion to Brazil's Serie A in the final game of the season.",
-      "published": "2026-11-16T12:52:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50500378/chapecoense-plane-crash-alan-ruschel-survivor-juventude-brazil-serie-a",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746554_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Brazil"
+        "Mexico"
       ],
       "players": [
         "Nico Paz"
       ],
-      "score": 132
+      "score": 128
     },
     {
-      "id": "50500727",
-      "headline": "Singapore coach Gavin Lee still relishing Brazil tie -- even if Carlo Ancelotti moment no longer on the cards",
-      "description": "Singapore coach Gavin Lee is still relishing Tuesday's meeting with Brazil -- even if opposite number Carlo Ancelotti will not be on the touchline.",
-      "published": "2026-11-16T12:41:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50500727/singapore-gavin-lee-brazil-carlo-ancelotti",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746573_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Brazil"
-      ],
-      "players": [
-        "Ilhan Fandi",
-        "Nico Paz"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50500574",
-      "headline": "Harry Kane: England and Spain are 'the best teams in international football'",
-      "description": "Harry Kane has said that England and Spain are \"consistently the best teams\" in international football right now, following the Three Lions' scintillating 3-2 win over the reigning world champions in the Nations League.",
-      "published": "2026-11-16T12:33:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50500574/england-spain-nations-league-harry-kane",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746568_1296x729_16-9.jpg",
-      "byline": "Adriana Garcia",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "Spain"
-      ],
-      "players": [
-        "Harry Kane",
-        "Nico Paz"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50500248",
-      "headline": "Romelu Lukaku retires from Belgium as fifth-highest international scorer ever",
-      "description": "Romelu Lukaku has retired from international duty with Belgium.",
-      "published": "2026-11-16T11:19:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50500248/romelu-lukaku-retired-international-duty-belgium",
-      "image": "https://a.espncdn.com/photo/2024/0823/r1376815_1296x729_16-9.jpg",
+      "id": "50505834",
+      "headline": "Klopp: Nobody 'questioning' Germany after group-winning rout of Dutch",
+      "description": "Germany coach Jürgen Klopp said nobody will be questioning Germany after Florian Wirtz scored twice to help his team book a place in the Nations League quarterfinals.",
+      "published": "2026-11-17T00:46:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50505834/klopp-germany-netherlands-rout",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1746925_1024x576_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Belgium"
+        "Germany"
       ],
       "players": [
-        "Romelu Lukaku",
         "Nico Paz"
       ],
-      "score": 129
+      "score": 127
+    },
+    {
+      "id": "50505776",
+      "headline": "Scotland's 4-0 defeat to Switzerland not a reflection of game - Sebastien Pocognoli",
+      "description": "Sebastien Pocognoli has said Scotland's sobering 4-0 defeat by Switzerland in St Gallen wasn't a fair reflection of the Nations League encounter.",
+      "published": "2026-11-17T00:09:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50505776/scotland-loss-switzerland-sebastien-pocognoli",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746909_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Scotland",
+        "Switzerland"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 126
+    },
+    {
+      "id": "50504817",
+      "headline": "Poch offers Pep advice on USMNT job, calls it 'perfect moment to arrive'",
+      "description": "On the eve of his final game as coach of the United States, Mauricio Pochettino said that if Pep Guardiola asked him about the USMNT job, he'd recommend taking it if given the chance.",
+      "published": "2026-11-17T00:00:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50504817/poch-pep-advice-usmnt-job",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746871_1024x576_16-9.jpg",
+      "byline": "Jeff Carlisle",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 125
     },
     {
       "id": "50479233",
@@ -212,7 +222,7 @@
         "Brazil"
       ],
       "players": [],
-      "score": 121
+      "score": 78
     },
     {
       "id": "50470402",
@@ -228,7 +238,7 @@
         "USA"
       ],
       "players": [],
-      "score": 89
+      "score": 52
     },
     {
       "id": "50451803",
@@ -244,7 +254,7 @@
         "Argentina"
       ],
       "players": [],
-      "score": 52
+      "score": 32
     },
     {
       "id": "50463328",
@@ -258,7 +268,25 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 46
+      "score": 26
+    },
+    {
+      "id": "50156783",
+      "headline": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
+      "description": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
+      "published": "2026-10-11T13:54:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/50156783/bentancur-red-card-encouraged-tottenham-play-more-character",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Uruguay"
+      ],
+      "players": [
+        "Rodrigo Bentancur"
+      ],
+      "score": 25
     },
     {
       "id": "50453174",
@@ -281,44 +309,7 @@
         "Enzo Fernández",
         "Lionel Messi"
       ],
-      "score": 42
-    },
-    {
-      "id": "50156783",
-      "headline": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
-      "description": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
-      "published": "2026-10-11T13:54:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/50156783/bentancur-red-card-encouraged-tottenham-play-more-character",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 25
-    },
-    {
-      "id": "50451094",
-      "headline": "Brazil revenge mission hands Japan opportunity to finish Hajime Moriyasu legacy on a high",
-      "description": "Despite it being a friendly match, Japan will have much to play for against Brazil on Saturday -- for more than one reason.",
-      "published": "2026-11-11T07:31:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50451094/brazil-revenge-mission-japan-hajime-moriyasu-legacy",
-      "image": "https://a.espncdn.com/photo/2026/1111/r1744366_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Japan",
-        "Brazil"
-      ],
-      "players": [
-        "Yukinari Sugawara"
-      ],
-      "score": 23
+      "score": 22
     },
     {
       "id": "50440647",
@@ -430,6 +421,25 @@
       "teams": [],
       "players": [],
       "score": 15
+    },
+    {
+      "id": "50451094",
+      "headline": "Brazil revenge mission hands Japan opportunity to finish Hajime Moriyasu legacy on a high",
+      "description": "Despite it being a friendly match, Japan will have much to play for against Brazil on Saturday -- for more than one reason.",
+      "published": "2026-11-11T07:31:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50451094/brazil-revenge-mission-japan-hajime-moriyasu-legacy",
+      "image": "https://a.espncdn.com/photo/2026/1111/r1744366_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan",
+        "Brazil"
+      ],
+      "players": [
+        "Yukinari Sugawara"
+      ],
+      "score": 13
     },
     {
       "id": "47978642",
@@ -783,24 +793,6 @@
       "score": 10
     },
     {
-      "id": "50121507",
-      "headline": "Garriock: Football Australia 'in favour' of AFC Nations League concept",
-      "description": "Football Australia has given an early thumbs-up to the AFC's proposed Nations League concept, with director Heather Garriock describing it as a 'great concept' to strengthen Asia's position in world football.",
-      "published": "2026-10-07T04:16:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50121507/football-australia-director-heather-garriock-says-afc-nations-league-great-concept-world-cup-qualification",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727130_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Japan",
-        "Korea Republic"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
       "id": "50115954",
       "headline": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
       "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
@@ -834,24 +826,6 @@
       "score": 10
     },
     {
-      "id": "50098546",
-      "headline": "AFC to introduce Nations League in shake-up of World Cup, Asian Cup qualification",
-      "description": "The Asian Football Confederation is set to introduce a Nations League competition, which will affect the qualification process for the World Cup and Asian Cup.",
-      "published": "2026-10-04T09:18:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50098546/afc-introduce-nations-league-shake-world-cup-asian-cup-qualification",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725697_1296x729_16-9.jpg",
-      "byline": "Joey Lynch, Gabriel Tan, Stuart Randall",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Australia",
-        "Japan",
-        "Korea Republic"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
       "id": "50074316",
       "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
       "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
@@ -868,6 +842,20 @@
         "Lamine Yamal"
       ],
       "score": 9
+    },
+    {
+      "id": "50399850",
+      "headline": "FIFA's chief legal officer steps down in second high-profile exit",
+      "description": "Emilio García Silvero, who has served as FIFA's chief legal and compliance officer for the past eight years, is stepping down from his position.",
+      "published": "2026-11-06T16:50:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50399850/fifa-chief-legal-compliance-officer-steps-down",
+      "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
