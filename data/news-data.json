@@ -1,13 +1,41 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-18T03:49:22.790Z",
+  "updated": "2026-11-18T12:21:29.337Z",
   "counts": {
-    "news": 36,
-    "offfield": 9,
-    "preview": 2,
+    "news": 33,
+    "offfield": 11,
+    "preview": 3,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50506499",
+      "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
+      "description": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
+      "published": "2026-11-18T12:02:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
+      "image": "https://a.espncdn.com/photo/2026/1118/r1747490_1296x729_16-9.jpg",
+      "byline": "James Tyler",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "France",
+        "England",
+        "Portugal",
+        "Brazil",
+        "Morocco",
+        "Argentina",
+        "Germany",
+        "Norway",
+        "Netherlands",
+        "Belgium",
+        "Colombia",
+        "Japan"
+      ],
+      "players": [],
+      "score": 210
+    },
     {
       "id": "50509967",
       "headline": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency",
@@ -22,7 +50,7 @@
         "France"
       ],
       "players": [],
-      "score": 189
+      "score": 166
     },
     {
       "id": "50502389",
@@ -38,7 +66,68 @@
         "USA"
       ],
       "players": [],
-      "score": 174
+      "score": 152
+    },
+    {
+      "id": "50519617",
+      "headline": "Arda Güler signs new six-year Real Madrid contract",
+      "description": "Arda Güler has signed a new, long-term contract at Real Madrid until 2032, the club said on Wednesday.",
+      "published": "2026-11-18T11:23:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50519617/arda-guler-signs-new-real-madrid-contract",
+      "image": "https://a.espncdn.com/photo/2026/0116/r1601367_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Arda Güler",
+        "Nico Paz"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50519534",
+      "headline": "Gerard Piqué criticised for questioning ban length after Spanish player's death",
+      "description": "Tenerife coach Álvaro Cervera has hit back at Andorra owner Gerard Piqué over his criticism of the 12-match suspension given to goalkeeper Jesús Owono.",
+      "published": "2026-11-18T11:08:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50519534/gerard-pique-jesus-owono-jesus-de-miguel-andorra",
+      "image": "https://a.espncdn.com/photo/2026/1118/r1747541_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Gerard Piqué",
+        "Jesús Owono",
+        "Jesús De Miguel",
+        "Nico Paz"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50508765",
+      "headline": "Chelsea's Baltimore enjoying partnership with Malard ahead of UWCL clash against PSG",
+      "description": "After rifling home the winner for Chelsea in Saturday's 1-0 Women's Super League (WSL) win over Manchester City, Sandy Baltimore is feeling in her element at Chelsea ahead of Wednesday's reunion with her former team Paris Saint-Germain.",
+      "published": "2026-11-18T08:36:19Z",
+      "url": "https://www.espn.com/espn/story/_/id/50508765/chelsea-sandy-baltimore-french-melvine-malard-uwcl-psg",
+      "image": "https://a.espncdn.com/photo/2026/1114/r1745679_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina",
+        "France"
+      ],
+      "players": [
+        "Sandy Baltimore",
+        "Melvine Malard",
+        "Nico Paz"
+      ],
+      "score": 136
     },
     {
       "id": "50507180",
@@ -54,7 +143,86 @@
         "Japan"
       ],
       "players": [],
-      "score": 159
+      "score": 136
+    },
+    {
+      "id": "50519670",
+      "headline": "Spanish FA chief: '2030 World Cup final can only be held in Spain'",
+      "description": "Spain's Football Federation president Rafael Louzán insists the 2030 World Cup final \"can and will only be held\" in the home of the reigning world champions.",
+      "published": "2026-11-18T11:32:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50519670/2030-world-cup-final-spain-portugal-morocco-infantino",
+      "image": "https://a.espncdn.com/photo/2026/1118/r1747548_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain",
+        "Morocco",
+        "Portugal"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50519330",
+      "headline": "Juan Mata announces retirement aged 38 after glittering career",
+      "description": "Former Manchester United midfielder Juan Mata has announced his retirement from football.",
+      "published": "2026-11-18T10:24:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50519330/juan-mata-retires-spain-world-cup-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1118/r1747534_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Spain"
+      ],
+      "players": [
+        "Juan Mata",
+        "Nico Paz"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50519279",
+      "headline": "Nigeria Under-17 Women's World Cup champions rewarded with N100 million each",
+      "description": "President Bola Tinubu has rewarded each member of Nigeria's World Cup-winning Flamingos with N100 million in government savings bonds.",
+      "published": "2026-11-18T09:54:38Z",
+      "url": "https://www.espn.com/espn/story/_/id/50519279/nigeria-17-women-world-cup-champions-rewarded-n100-million-each",
+      "image": "https://a.espncdn.com/photo/2026/1109/r1743469_1296x729_16-9.jpg",
+      "byline": "Colin Udoh",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50519129",
+      "headline": "Pochettino says USMNT 'are in good hands' in final press conference",
+      "description": "Pochettino says USMNT 'are in good hands' in final press conference",
+      "published": "2026-11-18T09:37:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/50519129/pochettino-says-usmnt-good-hands-final-press-conference",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_says_USMNT_are_in_good_hands_in_final_press_conference/dm_261118_Pochettino_says_USMNT_are_in_good_hands_in_final_press_conference.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Haiti",
+        "USA"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 129
     },
     {
       "id": "50498344",
@@ -68,166 +236,7 @@
       "kindLabel": "Off the field",
       "teams": [],
       "players": [],
-      "score": 132
-    },
-    {
-      "id": "50456514",
-      "headline": "Pulisic's bicycle kick puts USMNT in semis as Pochettino bids farewell",
-      "description": "A Christian Pulisic bicycle kick helped the USMNT clinch its spot in the Concacaf Nations League semifinals in Mauricio Pochettino's final game.",
-      "published": "2026-11-18T02:19:28Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401929766",
-      "image": "https://a.espncdn.com/photo/2026/1118/r1747415_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA",
-        "Haiti"
-      ],
-      "players": [
-        "Christian Pulisic",
-        "Nico Paz"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50490960",
-      "headline": "Recap: Hall, Pulisic on target in Poch's USMNT farewell",
-      "description": "Christian Pulisic and Julian Hall ensured that Mauricio Pochettino got a winning send-off with the USMNT before he departs for Manchester United.",
-      "published": "2026-11-18T02:19:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50490960/pochettino-farewell-usmnt-haiti-live-updates",
-      "image": "https://a.espncdn.com/photo/2026/1118/r1747382_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA",
-        "Haiti"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50456562",
-      "headline": "Nico Paz, Álvarez both score twice in 7-goal Argentina rout",
-      "description": "Argentina bounced back from a loss to Uruguay on Saturday with a seven-goal explosion against Costa Rica on Tuesday, spurred on by rising star Nico Paz and fellow striker Julián Álvarez.",
-      "published": "2026-11-18T01:26:12Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401930895",
-      "image": "https://a.espncdn.com/photo/2026/1118/r1747368_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Uruguay"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50514967",
-      "headline": "CF7: Portugal move on from Ronaldo with 'special' goal from new No. 7 Forbs",
-      "description": "Portugal secured a much-needed first win since Cristiano Ronaldo's international retirement, courtesy of new No. 7 Carlos Forbs.",
-      "published": "2026-11-18T00:41:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50514967/portugal-carlos-forbs-cristiano-ronaldo-7-jersey-wales",
-      "image": "https://a.espncdn.com/photo/2026/1118/r1747358_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
-      "players": [
-        "Carlos Forbs",
-        "Cristiano Ronaldo",
-        "Nico Paz"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50514221",
-      "headline": "Republic of Ireland clinch Nations League play-offs after beating Kosovo",
-      "description": "Troy Parrott fired the Republic of Ireland into a Nations League play-off berth with two penalties in their 3-0 victory over 10-man Kosovo at the Aviva Stadium in Dublin.",
-      "published": "2026-11-17T23:12:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50514221/republic-ireland-kosovo-nations-league",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1747289_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50513588",
-      "headline": "Jordan deliver the Socceroos a much-needed wake-up call",
-      "description": "Australia's loss to Jordan will probably emphasise the importance of soul-searching and reflection more than a win would have, spurring an honest appraisal of where the side presently is, where it needs to be, and how it can get there.",
-      "published": "2026-11-17T22:55:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50513588/jordan-deliver-socceroos-much-needed-wake-call",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1747284_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Australia",
-        "Jordan"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50514357",
-      "headline": "Moreno: Important for Portugal to win without Ronaldo 'sooner rather than later'",
-      "description": "Alejandro Moreno reacts to Portugal's first win without Cristiano Ronaldo, triumphing over Wales in the Nations League.",
-      "published": "2026-11-17T22:43:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/50514357/important-portugal-win-ronaldo-sooner-rather-later",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/dm_261117_Moreno_Important_for_Portugal_to_win_without_Ronaldo_sooner_rather_than_later/dm_261117_Moreno_Important_for_Portugal_to_win_without_Ronaldo_sooner_rather_than_later.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Nico Paz"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50514283",
-      "headline": "Fjørtoft: Haaland is 'Gerd Müller level' for Norway",
-      "description": "Jan Åge Fjørtoft praises Erling Haaland's performance for Norway in their 2-3 win over Denmark to advance to the Nations League quarter-finals.",
-      "published": "2026-11-17T22:27:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/50514283/haaland-gerd-muller-level-norway",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/dm_261117_Fjortoft_Haaland_is_Gerd_Muller_level_for_Norway/dm_261117_Fjortoft_Haaland_is_Gerd_Muller_level_for_Norway.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Norway"
-      ],
-      "players": [
-        "Erling Haaland",
-        "Nico Paz"
-      ],
-      "score": 125
+      "score": 109
     },
     {
       "id": "50500125",
@@ -243,7 +252,7 @@
         "Germany"
       ],
       "players": [],
-      "score": 107
+      "score": 85
     },
     {
       "id": "50460862",
@@ -262,40 +271,7 @@
         "Nico Paz",
         "Lionel Messi"
       ],
-      "score": 99
-    },
-    {
-      "id": "50470402",
-      "headline": "Recap: USMNT's Pochettino in tears as he agrees to join Man United",
-      "description": "USMNT head coach Mauricio Pochettino is leaving to join Manchester United. Read all the news, analysis and reaction from ESPN.",
-      "published": "2026-11-13T17:16:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50470402/live-updates-mauricio-pochettino-usmnt-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1113/r1745277_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 32
-    },
-    {
-      "id": "50479233",
-      "headline": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
-      "description": "Japan have exacted revenge over Brazil for their World Cup elimination with a dramatic 3-2 win in Singapore on Saturday.",
-      "published": "2026-11-14T15:24:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
-      "image": "https://a.espncdn.com/photo/2026/1114/r1745640_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Japan",
-        "Brazil"
-      ],
-      "players": [],
-      "score": 30
+      "score": 76
     },
     {
       "id": "50156783",
@@ -314,6 +290,22 @@
         "Rodrigo Bentancur"
       ],
       "score": 25
+    },
+    {
+      "id": "50470402",
+      "headline": "Recap: USMNT's Pochettino in tears as he agrees to join Man United",
+      "description": "USMNT head coach Mauricio Pochettino is leaving to join Manchester United. Read all the news, analysis and reaction from ESPN.",
+      "published": "2026-11-13T17:16:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50470402/live-updates-mauricio-pochettino-usmnt-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1113/r1745277_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 22
     },
     {
       "id": "50451803",
@@ -417,6 +409,23 @@
       ],
       "players": [],
       "score": 22
+    },
+    {
+      "id": "50479233",
+      "headline": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
+      "description": "Japan have exacted revenge over Brazil for their World Cup elimination with a dramatic 3-2 win in Singapore on Saturday.",
+      "published": "2026-11-14T15:24:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
+      "image": "https://a.espncdn.com/photo/2026/1114/r1745640_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan",
+        "Brazil"
+      ],
+      "players": [],
+      "score": 20
     },
     {
       "id": "50194991",
@@ -834,23 +843,6 @@
       "score": 10
     },
     {
-      "id": "50104524",
-      "headline": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
-      "description": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
-      "published": "2026-10-04T22:20:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Canada",
-        "USA"
-      ],
-      "players": [],
-      "score": 10
-    },
-    {
       "id": "50463328",
       "headline": "FIFA loses New York court ruling against UEFA in World Cup investor case",
       "description": "A judge in Manhattan denied requests by FIFA subsidiaries to block UEFA's attempts to get evidence about Gianni Infantino's failed World Cup investor plan.",
@@ -858,6 +850,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50463328/fifa-uefa-case-disclosure-new-york-court-thrive-jp-morgan",
       "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg",
       "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
+    },
+    {
+      "id": "50399850",
+      "headline": "FIFA's chief legal officer steps down in second high-profile exit",
+      "description": "Emilio García Silvero, who has served as FIFA's chief legal and compliance officer for the past eight years, is stepping down from his position.",
+      "published": "2026-11-06T16:50:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50399850/fifa-chief-legal-compliance-officer-steps-down",
+      "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
