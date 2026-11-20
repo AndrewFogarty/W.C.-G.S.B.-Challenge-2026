@@ -1,14 +1,31 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-20T17:16:26.511Z",
+  "updated": "2026-11-20T23:11:09.936Z",
   "counts": {
-    "news": 31,
-    "injury": 1,
-    "offfield": 11,
-    "preview": 4,
+    "news": 33,
+    "offfield": 12,
+    "preview": 2,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50542739",
+      "headline": "CONMEBOL backs Infantino's reelection as FIFA president",
+      "description": "Support for the reelection of FIFA president Gianni Infantino was reaffirmed by the 10 members of CONMEBOL on Friday.",
+      "published": "2026-11-20T19:51:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50542739/conmebol-backs-infantino-reelection-fifa-president",
+      "image": "https://a.espncdn.com/photo/2025/0410/r1476780_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Uruguay",
+        "Paraguay"
+      ],
+      "players": [],
+      "score": 205
+    },
     {
       "id": "50540283",
       "headline": "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win",
@@ -25,7 +42,64 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 206
+      "score": 187
+    },
+    {
+      "id": "50544050",
+      "headline": "Burley labels Pochettino has the biggest manager since Mourinho for Man United",
+      "description": "ESPN's Nedum Onuoha, Craig Burley and Frank Leboeuf join Kay Murray to react to Mauricio Pochettino's first press conference as Manchester United manager.",
+      "published": "2026-11-20T22:49:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/50544050/burley-labels-pochettino-biggest-manager-mourinho-man-united",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/dm_261120_COM_SOC_Analysis_Burley_labels_Pochettino_has_the_biggest_manager_since_Mourinho_for_Man_United_GL/dm_261120_COM_SOC_Analysis_Burley_labels_Pochettino_has_the_biggest_manager_since_Mourinho_for_Man_United_GL.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50544018",
+      "headline": "Hirving Lozano returns to San Diego FC as LA Galaxy loan ends",
+      "description": "The LA Galaxy declined to exercise their purchase option for Hirving 'Chucky' Lozano, sending the Mexican forward back to San Diego FC.",
+      "published": "2026-11-20T22:43:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50544018/hirving-lozano-returns-san-diego-fc-la-galaxy-loan-ends",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748714_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Hirving Lozano",
+        "Harry Kane"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50539252",
+      "headline": "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
+      "description": "Real Madrid are looking to boost their attack by signing Como and Argentina international Nico Paz. Transfer Talk has the latest.",
+      "published": "2026-11-20T22:22:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748712_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [
+        "Nico Paz",
+        "Harry Kane"
+      ],
+      "score": 144
     },
     {
       "id": "50532452",
@@ -39,7 +113,103 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 162
+      "score": 143
+    },
+    {
+      "id": "50543840",
+      "headline": "Bryant vs. Virginia: Game Highlights",
+      "description": "Bryant vs. Virginia: Game Highlights",
+      "published": "2026-11-20T22:20:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/50543840/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/d865cbe5-3327-400d-b303-9ca23e7c0893/d865cbe5-3327-400d-b303-9ca23e7c0893.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50543721",
+      "headline": "Athletic Club vs. Espanyol - Game Highlights",
+      "description": "Watch the Game Highlights from Athletic Club vs. Espanyol, 11/21/2026",
+      "published": "2026-11-20T22:03:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/50543721/athletic-club-vs-espanyol-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/9feedd41-5f5a-48ed-8196-32572e19bdf5/9feedd41-5f5a-48ed-8196-32572e19bdf5.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Unai Simón",
+        "Iñaki Williams",
+        "Roberto Fernández",
+        "Harry Kane"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50543541",
+      "headline": "Nashville coach Callaghan '100%' focused on playoffs amid USMNT links",
+      "description": "BJ Callaghan said he remains fully focused on leading Nashville through the MLS playoffs amid links to replacing Mauricio Pochettino as USMNT head coach.",
+      "published": "2026-11-20T21:49:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50543541/usa-soccer-coach-bj-callaghan-nashville-sc",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748697_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "USA"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 131
+    },
+    {
+      "id": "46751020",
+      "headline": "Cristiano Ronaldo goal tracker: Road to 1,000 career goals",
+      "description": "With Cristiano Ronaldo on the quest to score 1,000 goals, ESPN provides goal-by-goal analysis of the Portuguese superstar's quest.",
+      "published": "2026-11-20T21:40:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730071_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Portugal"
+      ],
+      "players": [
+        "Cristiano Ronaldo",
+        "Harry Kane"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50543495",
+      "headline": "Southern Ill. vs. Purdue: Game Highlights",
+      "description": "Southern Ill. vs. Purdue: Game Highlights",
+      "published": "2026-11-20T21:13:57Z",
+      "url": "https://www.espn.com/video/clip/_/id/50543495/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/7b8f9044-2c94-4eac-9cf8-4d50ed2dfc59/7b8f9044-2c94-4eac-9cf8-4d50ed2dfc59.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 130
     },
     {
       "id": "50531740",
@@ -53,101 +223,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 148
-    },
-    {
-      "id": "50541499",
-      "headline": "Xabi Alonso: João Pedro still not available, whole team needs to step up",
-      "description": "Xabi Alonso said his Chelsea side need to learn to deal with the absence of João Pedro as the Blues struggle for goals in the absence of their injured striker.",
-      "published": "2026-11-20T16:14:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50541499/joao-pedro-unavailable-chelsea-injuries-team-news",
-      "image": "https://a.espncdn.com/photo/2026/1120/r1748560_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "injury",
-      "kindLabel": "Injury",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "João Pedro",
-        "Harry Kane"
-      ],
-      "score": 145
-    },
-    {
-      "id": "50541591",
-      "headline": "Man City slump not due to 'noise' around financial scandal - Maresca",
-      "description": "Manchester City boss Enzo Maresca said on Friday the controversy surrounding the club is not the reason for their recent slump.",
-      "published": "2026-11-20T16:14:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50541591/maresca-man-city-slump-not-noise-financial-scandal",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730084_1296x729_16-9.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 143
-    },
-    {
-      "id": "50539252",
-      "headline": "Transfer rumors, news: Arsenal want Athletic's World Cup winner Nico Williams",
-      "description": "Arsenal have reignited their interest in Athletic Club winger Nico Williams as they seek a new left-sided forward. Transfer Talk has the latest.",
-      "published": "2026-11-20T15:57:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711846_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Nico Williams",
-        "Harry Kane"
-      ],
-      "score": 143
-    },
-    {
-      "id": "50541708",
-      "headline": "Jack Grealish available for Everton against Brentford",
-      "description": "Jack Grealish is back in the Everton fold and could make his return in Monday's clash with Brentford.\n\nJack Grealish is back in the Everton fold and could make his return in Monday's clash with Brentford.",
-      "published": "2026-11-20T16:33:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50541708/jack-grealish-everton-brentford",
-      "image": "https://a.espncdn.com/photo/2026/1120/r1748569_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Jack Grealish",
-        "Harry Kane"
-      ],
-      "score": 141
-    },
-    {
-      "id": "50541443",
-      "headline": "Aston Villa's Johan Manzambi available for Sunderland clash",
-      "description": "Aston Villa will have Johan Manzambi available for the visit of Sunderland.",
-      "published": "2026-11-20T15:45:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50541443/aston-villa-johan-manzambi-sunderland",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731510_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Johan Manzambi",
-        "Harry Kane"
-      ],
-      "score": 140
+      "score": 129
     },
     {
       "id": "50529522",
@@ -161,63 +237,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 140
-    },
-    {
-      "id": "50541948",
-      "headline": "Man United CEO Berrada: Club 'heading in right direction' despite relegation form",
-      "description": "Chief executive Omar Berrada insists Manchester United are \"heading in the right direction\" despite the club languishing in the Premier League relegation zone.",
-      "published": "2026-11-20T17:06:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50541948/omar-berrada-man-united-ceo-interview-mauricio-pochettino",
-      "image": "https://a.espncdn.com/photo/2026/1120/r1748586_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50541358",
-      "headline": "Pochettino admits he missed club management during USMNT tenure",
-      "description": "Mauricio Pochettino says his time at the USMNT made him a better coach as he takes the Manchester United job.",
-      "published": "2026-11-20T15:30:22Z",
-      "url": "https://www.espn.com/video/clip/_/id/50541358/pochettino-admits-missed-club-management-usmnt-tenure",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/dm_261120_COM_SOC_Presser_Pochettino_admits_he_missed_club_management_during_USMNT_tenure_20261120_GLOBAL/dm_261120_COM_SOC_Presser_Pochettino_admits_he_missed_club_management_during_USMNT_tenure_20261120_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England",
-        "USA"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50541230",
-      "headline": "Tottenham boss Roberto De Zerbi defends Mykhailo Mudryk over Arsenal comments",
-      "description": "Roberto De Zerbi can understand the frustration of Tottenham fans over Mykhailo Mudryk's recent remarks about rivals Arsenal, but has defended the Chelsea loanee.",
-      "published": "2026-11-20T15:24:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50541230/tottenham-roberto-de-zerbi-mykhailo-mudryk-arsenal",
-      "image": "https://a.espncdn.com/photo/2026/1120/r1748549_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Mykhailo Mudryk",
-        "Harry Kane"
-      ],
-      "score": 130
+      "score": 121
     },
     {
       "id": "50506499",
@@ -245,7 +265,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 93
+      "score": 74
     },
     {
       "id": "50509967",
@@ -261,23 +281,7 @@
         "France"
       ],
       "players": [],
-      "score": 47
-    },
-    {
-      "id": "50502389",
-      "headline": "The USMNT doesn't need a hero like Pep Guardiola as its next manager",
-      "description": "The U.S. men's national team is saying goodbye to Mauricio Pochettino while hoping to attract Pep Guardiola as its next manager. But is a superstar coach what this team really needs?",
-      "published": "2026-11-17T10:47:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50502389/usmnt-pep-guardiola-mauricio-pochettino-manchester-city",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1747006_1296x729_16-9.jpg",
-      "byline": "Ryan O'Hanlon",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "USA"
-      ],
-      "players": [],
-      "score": 32
+      "score": 30
     },
     {
       "id": "50156783",
@@ -417,17 +421,17 @@
       "score": 22
     },
     {
-      "id": "50507180",
-      "headline": "Stoic until the end, Japan's Hajime Moriyasu can finally let emotions flow",
-      "description": "Even up until the eve of his final game in charge of Japan, Hajime Moriyasu remained solely focused on the task ahead.",
-      "published": "2026-11-17T07:02:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50507180/hajime-moriyasu-japan-reign-ends-tuesday",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1746964_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
+      "id": "50502389",
+      "headline": "The USMNT doesn't need a hero like Pep Guardiola as its next manager",
+      "description": "The U.S. men's national team is saying goodbye to Mauricio Pochettino while hoping to attract Pep Guardiola as its next manager. But is a superstar coach what this team really needs?",
+      "published": "2026-11-17T10:47:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50502389/usmnt-pep-guardiola-mauricio-pochettino-manchester-city",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747006_1296x729_16-9.jpg",
+      "byline": "Ryan O'Hanlon",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Japan"
+        "USA"
       ],
       "players": [],
       "score": 20
@@ -752,22 +756,20 @@
       "score": 13
     },
     {
-      "id": "50131464",
-      "headline": "Where does Messi rank in the top five players of all time?",
-      "description": "Where does Messi rank in the top five players of all time?",
-      "published": "2026-10-08T08:50:56Z",
-      "url": "https://www.espn.com/video/clip/_/id/50131464/where-does-messi-rank-top-five-players-all",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL.jpg",
-      "byline": null,
+      "id": "50507180",
+      "headline": "Stoic until the end, Japan's Hajime Moriyasu can finally let emotions flow",
+      "description": "Even up until the eve of his final game in charge of Japan, Hajime Moriyasu remained solely focused on the task ahead.",
+      "published": "2026-11-17T07:02:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50507180/hajime-moriyasu-japan-reign-ends-tuesday",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1746964_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Japan"
       ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 13
+      "players": [],
+      "score": 10
     },
     {
       "id": "50500125",
