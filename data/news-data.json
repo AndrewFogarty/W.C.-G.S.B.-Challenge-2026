@@ -1,13 +1,32 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-20T08:36:24.097Z",
+  "updated": "2026-11-20T17:16:26.511Z",
   "counts": {
-    "news": 34,
-    "offfield": 10,
-    "preview": 3,
+    "news": 31,
+    "injury": 1,
+    "offfield": 11,
+    "preview": 4,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50540283",
+      "headline": "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win",
+      "description": "Ballon d'Or winner Harry Kane is on a mission to claim trophies that have so far eluded him in his career, namely a Champions League and a tittle with England.",
+      "published": "2026-11-20T12:35:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
+      "image": "https://a.espncdn.com/photo/2026/1102/r1739991_1296x729_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 206
+    },
     {
       "id": "50532452",
       "headline": "Infantino calls for 'fair play' in upcoming FIFA elections",
@@ -20,7 +39,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 185
+      "score": 162
     },
     {
       "id": "50531740",
@@ -34,7 +53,101 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 171
+      "score": 148
+    },
+    {
+      "id": "50541499",
+      "headline": "Xabi Alonso: João Pedro still not available, whole team needs to step up",
+      "description": "Xabi Alonso said his Chelsea side need to learn to deal with the absence of João Pedro as the Blues struggle for goals in the absence of their injured striker.",
+      "published": "2026-11-20T16:14:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50541499/joao-pedro-unavailable-chelsea-injuries-team-news",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748560_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "João Pedro",
+        "Harry Kane"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50541591",
+      "headline": "Man City slump not due to 'noise' around financial scandal - Maresca",
+      "description": "Manchester City boss Enzo Maresca said on Friday the controversy surrounding the club is not the reason for their recent slump.",
+      "published": "2026-11-20T16:14:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50541591/maresca-man-city-slump-not-noise-financial-scandal",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730084_1296x729_16-9.jpg",
+      "byline": null,
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50539252",
+      "headline": "Transfer rumors, news: Arsenal want Athletic's World Cup winner Nico Williams",
+      "description": "Arsenal have reignited their interest in Athletic Club winger Nico Williams as they seek a new left-sided forward. Transfer Talk has the latest.",
+      "published": "2026-11-20T15:57:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711846_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Nico Williams",
+        "Harry Kane"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50541708",
+      "headline": "Jack Grealish available for Everton against Brentford",
+      "description": "Jack Grealish is back in the Everton fold and could make his return in Monday's clash with Brentford.\n\nJack Grealish is back in the Everton fold and could make his return in Monday's clash with Brentford.",
+      "published": "2026-11-20T16:33:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50541708/jack-grealish-everton-brentford",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748569_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Jack Grealish",
+        "Harry Kane"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50541443",
+      "headline": "Aston Villa's Johan Manzambi available for Sunderland clash",
+      "description": "Aston Villa will have Johan Manzambi available for the visit of Sunderland.",
+      "published": "2026-11-20T15:45:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50541443/aston-villa-johan-manzambi-sunderland",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731510_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Johan Manzambi",
+        "Harry Kane"
+      ],
+      "score": 140
     },
     {
       "id": "50529522",
@@ -48,165 +161,63 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 163
-    },
-    {
-      "id": "50538498",
-      "headline": "Tashima open to joining forces with Diallo against FIFA president Infantino",
-      "description": "Kohzo Tashima announced in Tokyo on Friday that he is staying in the FIFA presidential race, adding that he may join forces with fellow challenger Philippe Diallo to unseat Gianni Infantino.",
-      "published": "2026-11-20T08:08:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50538498/tashima-unite-diallo-fifa-president-infantino",
-      "image": "https://a.espncdn.com/photo/2026/1120/r1748444_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 144
-    },
-    {
-      "id": "50529199",
-      "headline": "Washington Spirit v Kansas City Current - How to watch the very African NWSL final",
-      "description": "Late on Saturday night in Washington DC -- or in the early hours of Sunday morning central African time -- a new NWSL champion will be crowned, with something to celebrate for fans on the continent either way.",
-      "published": "2026-11-20T07:08:15Z",
-      "url": "https://www.espn.com/espn/story/_/id/50529199/washington-spirit-kansas-city-current-how-watch-nwsl-final",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1747999_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
-      "kind": "preview",
-      "kindLabel": "Match preview",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Temwa Chawinga",
-        "Melissa Bethi",
-        "Clara Luvanga",
-        "Trinity Rodman",
-        "Croix Bethune",
-        "Nico Paz"
-      ],
       "score": 140
     },
     {
-      "id": "50529259",
-      "headline": "AFCON 2027 Qualifiers - Who's through, who's out, and which giants are in danger?",
-      "description": "Fifteen places are still up for grabs in the 24-team tournament, but which African giants will be present in Kenya-Tanzania-Uganda, and who will be watching on from the outside?",
-      "published": "2026-11-20T07:07:50Z",
-      "url": "https://www.espn.com/espn/story/_/id/50529259/afcon-2027-qualifiers-which-giants-danger-nigeria",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748006_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
+      "id": "50541948",
+      "headline": "Man United CEO Berrada: Club 'heading in right direction' despite relegation form",
+      "description": "Chief executive Omar Berrada insists Manchester United are \"heading in the right direction\" despite the club languishing in the Premier League relegation zone.",
+      "published": "2026-11-20T17:06:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50541948/omar-berrada-man-united-ceo-interview-mauricio-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748586_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "South Africa",
-        "Ghana",
-        "Morocco"
+        "England"
       ],
       "players": [
-        "Nico Paz"
+        "Harry Kane"
       ],
-      "score": 131
+      "score": 133
     },
     {
-      "id": "50538975",
-      "headline": "Kenya coach Benni McCarthy demands overdue payments despite post-match comments",
-      "description": "Kenya head coach Benni McCarthy has hit out at the Football Kenya Federation (FKF) for alleged payment delays and logistical disorganisation during Africa Cup of Nations (AFCON) qualifiers.",
-      "published": "2026-11-20T06:52:14Z",
-      "url": "https://www.espn.com/espn/story/_/id/50538975/kenya-benni-mccarthy-overdue-payments-bafana-afcon",
-      "image": "https://a.espncdn.com/photo/2026/1111/r1744368_1296x729_16-9.jpg",
-      "byline": "Leonard Solms",
+      "id": "50541358",
+      "headline": "Pochettino admits he missed club management during USMNT tenure",
+      "description": "Mauricio Pochettino says his time at the USMNT made him a better coach as he takes the Manchester United job.",
+      "published": "2026-11-20T15:30:22Z",
+      "url": "https://www.espn.com/video/clip/_/id/50541358/pochettino-admits-missed-club-management-usmnt-tenure",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/dm_261120_COM_SOC_Presser_Pochettino_admits_he_missed_club_management_during_USMNT_tenure_20261120_GLOBAL/dm_261120_COM_SOC_Presser_Pochettino_admits_he_missed_club_management_during_USMNT_tenure_20261120_GLOBAL.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "South Africa"
+        "England",
+        "USA"
       ],
       "players": [
-        "Nico Paz"
+        "Harry Kane"
       ],
       "score": 130
     },
     {
-      "id": "50538586",
-      "headline": "Grand Canyon vs. San Diego: Game Highlights",
-      "description": "Grand Canyon vs. San Diego: Game Highlights",
-      "published": "2026-11-20T05:56:59Z",
-      "url": "https://www.espn.com/video/clip/_/id/50538586/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/19833913-c447-40e6-a72e-d5a25562e526/19833913-c447-40e6-a72e-d5a25562e526.jpg",
-      "byline": null,
+      "id": "50541230",
+      "headline": "Tottenham boss Roberto De Zerbi defends Mykhailo Mudryk over Arsenal comments",
+      "description": "Roberto De Zerbi can understand the frustration of Tottenham fans over Mykhailo Mudryk's recent remarks about rivals Arsenal, but has defended the Chelsea loanee.",
+      "published": "2026-11-20T15:24:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50541230/tottenham-roberto-de-zerbi-mykhailo-mudryk-arsenal",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748549_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "England"
       ],
       "players": [
-        "Nico Paz"
+        "Mykhailo Mudryk",
+        "Harry Kane"
       ],
-      "score": 129
-    },
-    {
-      "id": "50538454",
-      "headline": "Seattle Sounders FC vs. Real Salt Lake - Game Highlights",
-      "description": "Watch the Game Highlights from Seattle Sounders FC vs. Real Salt Lake, 11/19/2026",
-      "published": "2026-11-20T05:46:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/50538454/seattle-sounders-fc-vs-real-salt-lake-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/e81ac17f-3267-4b3e-8968-9f7a0ebd8b75/e81ac17f-3267-4b3e-8968-9f7a0ebd8b75.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Albert Rusnák",
-        "Philip Quinton",
-        "Hassani Dotson",
-        "Paul Rothrock",
-        "Morgan Guilavogui",
-        "Nico Paz"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50538332",
-      "headline": "Cleveland State vs. Washington: Game Highlights",
-      "description": "Cleveland State vs. Washington: Game Highlights",
-      "published": "2026-11-20T05:20:41Z",
-      "url": "https://www.espn.com/video/clip/_/id/50538332/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/bf0dd327-be88-442d-8a4a-1d30dd229832/bf0dd327-be88-442d-8a4a-1d30dd229832.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 128
-    },
-    {
-      "id": "50538263",
-      "headline": "California vs. Portland: Game Highlights",
-      "description": "California vs. Portland: Game Highlights",
-      "published": "2026-11-20T05:13:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/50538263/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/e159cffe-a8af-420a-a7e9-c44cf6d7f485/e159cffe-a8af-420a-a7e9-c44cf6d7f485.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 128
+      "score": 130
     },
     {
       "id": "50506499",
@@ -234,7 +245,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 116
+      "score": 93
     },
     {
       "id": "50509967",
@@ -250,7 +261,7 @@
         "France"
       ],
       "players": [],
-      "score": 70
+      "score": 47
     },
     {
       "id": "50502389",
@@ -266,37 +277,7 @@
         "USA"
       ],
       "players": [],
-      "score": 55
-    },
-    {
-      "id": "50507180",
-      "headline": "Stoic until the end, Japan's Hajime Moriyasu can finally let emotions flow",
-      "description": "Even up until the eve of his final game in charge of Japan, Hajime Moriyasu remained solely focused on the task ahead.",
-      "published": "2026-11-17T07:02:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50507180/hajime-moriyasu-japan-reign-ends-tuesday",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1746964_1296x729_16-9.jpg",
-      "byline": "Gabriel Tan",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Japan"
-      ],
-      "players": [],
-      "score": 40
-    },
-    {
-      "id": "50498344",
-      "headline": "Why FIFA reelection will be a formality for Teflon-like Gianni Infantino",
-      "description": "Despite scandals, controversy and legal challenges, Gianni Infantino looks all but certain to secure a landslide reelection as FIFA president and another four years in charge.",
-      "published": "2026-11-16T14:19:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50498344/gianni-infantino-fifa-presidency-reelection-chances",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746503_2_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [],
-      "players": [],
-      "score": 28
+      "score": 32
     },
     {
       "id": "50156783",
@@ -436,6 +417,22 @@
       "score": 22
     },
     {
+      "id": "50507180",
+      "headline": "Stoic until the end, Japan's Hajime Moriyasu can finally let emotions flow",
+      "description": "Even up until the eve of his final game in charge of Japan, Hajime Moriyasu remained solely focused on the task ahead.",
+      "published": "2026-11-17T07:02:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50507180/hajime-moriyasu-japan-reign-ends-tuesday",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1746964_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 20
+    },
+    {
       "id": "50194991",
       "headline": "Lautaro Martínez on World Cup goal against England: 'One of the most important in Argentina history'",
       "description": "Argentina forward Lautaro Martínez says he often watches his winning goal against England in the 2026 World Cup semifinal, labelling it \"one of the most important in the history of the national team.\"",
@@ -453,6 +450,20 @@
         "Lautaro Martínez"
       ],
       "score": 20
+    },
+    {
+      "id": "50498344",
+      "headline": "Why FIFA reelection will be a formality for Teflon-like Gianni Infantino",
+      "description": "Despite scandals, controversy and legal challenges, Gianni Infantino looks all but certain to secure a landslide reelection as FIFA president and another four years in charge.",
+      "published": "2026-11-16T14:19:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50498344/gianni-infantino-fifa-presidency-reelection-chances",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746503_2_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [],
+      "players": [],
+      "score": 18
     },
     {
       "id": "50358121",
@@ -838,20 +849,6 @@
       ],
       "players": [],
       "score": 10
-    },
-    {
-      "id": "50463328",
-      "headline": "FIFA loses New York court ruling against UEFA in World Cup investor case",
-      "description": "A judge in Manhattan denied requests by FIFA subsidiaries to block UEFA's attempts to get evidence about Gianni Infantino's failed World Cup investor plan.",
-      "published": "2026-11-12T23:26:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50463328/fifa-uefa-case-disclosure-new-york-court-thrive-jp-morgan",
-      "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
     }
   ]
 }
