@@ -1,10 +1,10 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-20T01:12:04.807Z",
+  "updated": "2026-11-20T08:36:24.097Z",
   "counts": {
-    "news": 33,
+    "news": 34,
     "offfield": 10,
-    "preview": 4,
+    "preview": 3,
     "celebration": 1
   },
   "items": [
@@ -20,7 +20,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 196
+      "score": 185
     },
     {
       "id": "50531740",
@@ -34,7 +34,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 182
+      "score": 171
     },
     {
       "id": "50529522",
@@ -48,75 +48,156 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 174
+      "score": 163
     },
     {
-      "id": "50529152",
-      "headline": "Transfer rumors, news: Jarrad Branthwaite to join Manchester United?",
-      "description": "Manchester United are reportedly looking to strengthen their defense under new manager Mauricio Pochettino. Transfer Talk has the latest.",
-      "published": "2026-11-19T21:18:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748257_1296x729_16-9.jpg",
-      "byline": "ESPN",
+      "id": "50538498",
+      "headline": "Tashima open to joining forces with Diallo against FIFA president Infantino",
+      "description": "Kohzo Tashima announced in Tokyo on Friday that he is staying in the FIFA presidential race, adding that he may join forces with fellow challenger Philippe Diallo to unseat Gianni Infantino.",
+      "published": "2026-11-20T08:08:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50538498/tashima-unite-diallo-fifa-president-infantino",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748444_1296x729_16-9.jpg",
+      "byline": "Associated Press",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Jarrad Branthwaite",
-        "Calvin Bassey",
         "Nico Paz"
       ],
-      "score": 139
+      "score": 144
     },
     {
-      "id": "50533036",
-      "headline": "Leader in his own way Haaland making 'natural' progression as City veteran",
-      "description": "Erling Haaland said it is \"natural\" for him to take on more responsibility as one of Manchester City's captains this season, but wants to do it in his own way.",
-      "published": "2026-11-19T20:30:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50533036/erling-haaland-man-city-leader",
-      "image": "https://a.espncdn.com/photo/2026/1031/r1738986_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "50529199",
+      "headline": "Washington Spirit v Kansas City Current - How to watch the very African NWSL final",
+      "description": "Late on Saturday night in Washington DC -- or in the early hours of Sunday morning central African time -- a new NWSL champion will be crowned, with something to celebrate for fans on the continent either way.",
+      "published": "2026-11-20T07:08:15Z",
+      "url": "https://www.espn.com/espn/story/_/id/50529199/washington-spirit-kansas-city-current-how-watch-nwsl-final",
+      "image": "https://a.espncdn.com/photo/2026/1119/r1747999_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
       "kind": "preview",
       "kindLabel": "Match preview",
       "teams": [
-        "Argentina",
-        "Norway"
+        "Argentina"
       ],
       "players": [
-        "Erling Haaland",
+        "Temwa Chawinga",
+        "Melissa Bethi",
+        "Clara Luvanga",
+        "Trinity Rodman",
+        "Croix Bethune",
         "Nico Paz"
       ],
-      "score": 135
+      "score": 140
     },
     {
-      "id": "50533257",
-      "headline": "Commanding Bayern win helps automatic knockout hopes",
-      "description": "Bayern Munich beat Austria Wien 4-0 to move top of the standings with one match day remaining.",
-      "published": "2026-11-19T20:14:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/50533257/commanding-bayern-win-helps-automatic-knockout-hopes",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1119/dm_261119_Commanding_Bayern_win_helps_automatic_knockout_hopes/dm_261119_Commanding_Bayern_win_helps_automatic_knockout_hopes.jpg",
+      "id": "50529259",
+      "headline": "AFCON 2027 Qualifiers - Who's through, who's out, and which giants are in danger?",
+      "description": "Fifteen places are still up for grabs in the 24-team tournament, but which African giants will be present in Kenya-Tanzania-Uganda, and who will be watching on from the outside?",
+      "published": "2026-11-20T07:07:50Z",
+      "url": "https://www.espn.com/espn/story/_/id/50529259/afcon-2027-qualifiers-which-giants-danger-nigeria",
+      "image": "https://a.espncdn.com/photo/2026/1119/r1748006_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "South Africa",
+        "Ghana",
+        "Morocco"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50538975",
+      "headline": "Kenya coach Benni McCarthy demands overdue payments despite post-match comments",
+      "description": "Kenya head coach Benni McCarthy has hit out at the Football Kenya Federation (FKF) for alleged payment delays and logistical disorganisation during Africa Cup of Nations (AFCON) qualifiers.",
+      "published": "2026-11-20T06:52:14Z",
+      "url": "https://www.espn.com/espn/story/_/id/50538975/kenya-benni-mccarthy-overdue-payments-bafana-afcon",
+      "image": "https://a.espncdn.com/photo/2026/1111/r1744368_1296x729_16-9.jpg",
+      "byline": "Leonard Solms",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "South Africa"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 130
+    },
+    {
+      "id": "50538586",
+      "headline": "Grand Canyon vs. San Diego: Game Highlights",
+      "description": "Grand Canyon vs. San Diego: Game Highlights",
+      "published": "2026-11-20T05:56:59Z",
+      "url": "https://www.espn.com/video/clip/_/id/50538586/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/19833913-c447-40e6-a72e-d5a25562e526/19833913-c447-40e6-a72e-d5a25562e526.jpg",
       "byline": null,
-      "kind": "preview",
-      "kindLabel": "Match preview",
+      "kind": "news",
+      "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "Austria"
+        "Argentina"
       ],
       "players": [
         "Nico Paz"
       ],
-      "score": 135
+      "score": 129
     },
     {
-      "id": "50533559",
-      "headline": "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
-      "description": "Video footage of Mauricio Pochettino's first training session as Manchester United head coach has appeared on YouTube after it was filmed by a drone operator.",
-      "published": "2026-11-19T21:34:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50533559/mauricio-pochettino-man-united-training-drone-filmed-online",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748242_1296x729_16-9.jpg",
-      "byline": "Rob Dawson",
+      "id": "50538454",
+      "headline": "Seattle Sounders FC vs. Real Salt Lake - Game Highlights",
+      "description": "Watch the Game Highlights from Seattle Sounders FC vs. Real Salt Lake, 11/19/2026",
+      "published": "2026-11-20T05:46:27Z",
+      "url": "https://www.espn.com/video/clip/_/id/50538454/seattle-sounders-fc-vs-real-salt-lake-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/e81ac17f-3267-4b3e-8968-9f7a0ebd8b75/e81ac17f-3267-4b3e-8968-9f7a0ebd8b75.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Albert Rusnák",
+        "Philip Quinton",
+        "Hassani Dotson",
+        "Paul Rothrock",
+        "Morgan Guilavogui",
+        "Nico Paz"
+      ],
+      "score": 129
+    },
+    {
+      "id": "50538332",
+      "headline": "Cleveland State vs. Washington: Game Highlights",
+      "description": "Cleveland State vs. Washington: Game Highlights",
+      "published": "2026-11-20T05:20:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/50538332/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/bf0dd327-be88-442d-8a4a-1d30dd229832/bf0dd327-be88-442d-8a4a-1d30dd229832.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Nico Paz"
+      ],
+      "score": 128
+    },
+    {
+      "id": "50538263",
+      "headline": "California vs. Portland: Game Highlights",
+      "description": "California vs. Portland: Game Highlights",
+      "published": "2026-11-20T05:13:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/50538263/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/e159cffe-a8af-420a-a7e9-c44cf6d7f485/e159cffe-a8af-420a-a7e9-c44cf6d7f485.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -153,61 +234,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 127
-    },
-    {
-      "id": "50533429",
-      "headline": "Paris FC snatch all three points late on vs. HB Køge",
-      "description": "Paris FC leave it late to seal all three points against HB Køge in the UEFA Women's Champions League.",
-      "published": "2026-11-19T20:25:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/50533429/paris-fc-snatch-all-three-points-late-vs-hb-koge",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1119/dm_261119_Paris_FC_snatch_all_three_points_late_on_vs_HB_Koge/dm_261119_Paris_FC_snatch_all_three_points_late_on_vs_HB_Koge.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50532599",
-      "headline": "NWSL commish Berman 'frustrated' over playoff venue issues: Work to do",
-      "description": "NWSL commissioner Jessica Berman said the league is frustrated with how its 2026 semifinal matches were played in an alternate venue and on an altered field.",
-      "published": "2026-11-19T18:57:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50532599/nwsl-commish-berman-frustrated-playoff-venue-issues",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748178_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50532675",
-      "headline": "What the sporting world DIDN'T get before GTA VI",
-      "description": "What the sporting world DIDN'T get before GTA VI",
-      "published": "2026-11-19T18:46:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/50532675/what-sporting-world-get-gta-vi",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1119/dm_261119_What_the_sporting_world_DIDNT_get_before_GTA_VI/dm_261119_What_the_sporting_world_DIDNT_get_before_GTA_VI.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Nico Paz"
-      ],
-      "score": 123
+      "score": 116
     },
     {
       "id": "50509967",
@@ -223,7 +250,7 @@
         "France"
       ],
       "players": [],
-      "score": 81
+      "score": 70
     },
     {
       "id": "50502389",
@@ -239,7 +266,7 @@
         "USA"
       ],
       "players": [],
-      "score": 66
+      "score": 55
     },
     {
       "id": "50507180",
@@ -255,7 +282,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 51
+      "score": 40
     },
     {
       "id": "50498344",
@@ -820,20 +847,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50463328/fifa-uefa-case-disclosure-new-york-court-thrive-jp-morgan",
       "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg",
       "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 6
-    },
-    {
-      "id": "50399850",
-      "headline": "FIFA's chief legal officer steps down in second high-profile exit",
-      "description": "Emilio García Silvero, who has served as FIFA's chief legal and compliance officer for the past eight years, is stepping down from his position.",
-      "published": "2026-11-06T16:50:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50399850/fifa-chief-legal-compliance-officer-steps-down",
-      "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
