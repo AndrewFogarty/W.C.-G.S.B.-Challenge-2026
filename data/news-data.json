@@ -1,10 +1,11 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-21T03:59:42.783Z",
+  "updated": "2026-11-21T12:28:00.677Z",
   "counts": {
-    "news": 36,
-    "offfield": 9,
-    "preview": 2,
+    "news": 33,
+    "injury": 1,
+    "offfield": 10,
+    "preview": 3,
     "celebration": 1
   },
   "items": [
@@ -24,7 +25,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 198
+      "score": 185
     },
     {
       "id": "50540283",
@@ -42,7 +43,101 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 180
+      "score": 167
+    },
+    {
+      "id": "50548680",
+      "headline": "Harry Kane vows to be back for 'business end of the season' after ankle surgery",
+      "description": "Ballon d'Or winner Harry Kane is set to be out for several months after suffering a ligament tear in his left ankle during Bayern Munich's draw with Cologne.",
+      "published": "2026-11-21T11:14:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50548680/harry-kane-injury-bayern-munich",
+      "image": "https://a.espncdn.com/photo/2026/1121/r1748887_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England",
+        "France"
+      ],
+      "players": [
+        "Harry Kane",
+        "Michael Olise"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50548678",
+      "headline": "Transfer rumors, news: Could Scott McTominay return to Man United?",
+      "description": "Scott McTominay left Manchester United little over two years ago, but could he return as his Napoli contact runs down? Transfer Talk has the latest.",
+      "published": "2026-11-21T11:10:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713214_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "England",
+        "Scotland"
+      ],
+      "players": [
+        "Scott McTominay",
+        "Harry Kane"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50532558",
+      "headline": "Premier League live updates: Manchester City host Fulham in early match",
+      "description": "Club soccer returns across Europe this weekend following the final international break of 2026, with Manchester City hosting Fulham to kick off Saturday's action.",
+      "published": "2026-11-21T11:58:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50532558/premier-league-live-updates-man-city-chelsea-arsenal",
+      "image": "https://a.espncdn.com/photo/2026/1121/r1748896_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 141
+    },
+    {
+      "id": "50543478",
+      "headline": "Mauricio Pochettino's Man United moment has arrived. Is he ready?",
+      "description": "Mauricio Pochettino faces the sizable challenge of restoring Man United to their former glory. Can he succeed where Michael Carrick, Ruben Amorim and others failed?",
+      "published": "2026-11-21T12:05:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50543478/pochettino-manchester-united-debut-liverpool",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748696_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50548939",
+      "headline": "Bayliss rescues a point for Auckland",
+      "description": "Lachlan Bayliss' 89th-minute equaliser denies Melbourne Victory all three points in 1-1 draw.",
+      "published": "2026-11-21T11:47:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/50548939/bayliss-rescues-point-auckland",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1121/dm_261121_Soccer_HIGHLIGHT_Bayliss_rescues_a_point_for_Auckland_20261121_AUS/dm_261121_Soccer_HIGHLIGHT_Bayliss_rescues_a_point_for_Auckland_20261121_AUS.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 132
     },
     {
       "id": "50532452",
@@ -56,13 +151,13 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 135
+      "score": 123
     },
     {
       "id": "50546346",
       "headline": "Jackson St. vs. Alabama: Game Highlights",
       "description": "Jackson St. vs. Alabama: Game Highlights",
-      "published": "2026-11-21T03:33:39Z",
+      "published": "2026-11-21T04:31:46Z",
       "url": "https://www.espn.com/video/clip/_/id/50546346/game-highlights",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1121/9a8b6167-a413-45d1-b05b-d5573e9abcbc/9a8b6167-a413-45d1-b05b-d5573e9abcbc.jpg",
       "byline": null,
@@ -74,15 +169,15 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 132
+      "score": 121
     },
     {
-      "id": "50546043",
-      "headline": "Washington vs. Auburn: Game Highlights",
-      "description": "Washington vs. Auburn: Game Highlights",
-      "published": "2026-11-21T03:24:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/50546043/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1121/e9c00867-7479-4d2f-ab50-0226008a2730/e9c00867-7479-4d2f-ab50-0226008a2730.jpg",
+      "id": "50546707",
+      "headline": "Santa Clara vs. Stanford: Game Highlights",
+      "description": "Santa Clara vs. Stanford: Game Highlights",
+      "published": "2026-11-21T04:18:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/50546707/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1121/8fe1f378-f8d1-41c3-a6de-ad60e82b08a1/8fe1f378-f8d1-41c3-a6de-ad60e82b08a1.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -92,15 +187,15 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 132
+      "score": 121
     },
     {
-      "id": "50546275",
-      "headline": "Weber St. vs. BYU: Game Highlights",
-      "description": "Weber St. vs. BYU: Game Highlights",
-      "published": "2026-11-21T03:22:39Z",
-      "url": "https://www.espn.com/video/clip/_/id/50546275/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1121/fd371451-7a62-4cd1-bfaa-68e33a6ca287/fd371451-7a62-4cd1-bfaa-68e33a6ca287.jpg",
+      "id": "50546673",
+      "headline": "Air Force vs. Colorado: Game Highlights",
+      "description": "Air Force vs. Colorado: Game Highlights",
+      "published": "2026-11-21T04:14:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/50546673/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1121/16ad896f-f5a6-474f-9f98-2cf742ca8623/16ad896f-f5a6-474f-9f98-2cf742ca8623.jpg",
       "byline": null,
       "kind": "news",
       "kindLabel": "News",
@@ -110,97 +205,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 132
-    },
-    {
-      "id": "50546081",
-      "headline": "Liberty vs. Tennessee: Game Highlights",
-      "description": "Liberty vs. Tennessee: Game Highlights",
-      "published": "2026-11-21T03:21:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/50546081/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1121/eef8beb7-56f3-4ea2-a986-aa93b686bcdd/eef8beb7-56f3-4ea2-a986-aa93b686bcdd.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50546243",
-      "headline": "Utah Valley vs. Utah St.: Game Highlights",
-      "description": "Utah Valley vs. Utah St.: Game Highlights",
-      "published": "2026-11-21T03:18:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/50546243/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1121/ff0a0aa6-9155-4da7-a6e9-3814f020f2fa/ff0a0aa6-9155-4da7-a6e9-3814f020f2fa.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50546187",
-      "headline": "Lamar University vs. Baylor: Game Highlights",
-      "description": "Lamar University vs. Baylor: Game Highlights",
-      "published": "2026-11-21T03:11:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/50546187/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1121/8c9561fd-60f5-428a-8bcb-6dbcd5228c6e/8c9561fd-60f5-428a-8bcb-6dbcd5228c6e.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50546051",
-      "headline": "Virginia Tech vs. Kentucky: Game Highlights",
-      "description": "Virginia Tech vs. Kentucky: Game Highlights",
-      "published": "2026-11-21T02:54:31Z",
-      "url": "https://www.espn.com/video/clip/_/id/50546051/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1121/3039706c-5dd1-48b4-a0ab-48ee0e6e7521/3039706c-5dd1-48b4-a0ab-48ee0e6e7521.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50545904",
-      "headline": "Houston vs. Texas: Game Highlights",
-      "description": "Houston vs. Texas: Game Highlights",
-      "published": "2026-11-21T02:38:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/50545904/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1121/c91f1035-dfe2-4e03-86b5-87817ffa04a2/c91f1035-dfe2-4e03-86b5-87817ffa04a2.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "England"
-      ],
-      "players": [
-        "Harry Kane"
-      ],
-      "score": 131
+      "score": 121
     },
     {
       "id": "50531740",
@@ -214,7 +219,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 122
+      "score": 109
     },
     {
       "id": "50529522",
@@ -228,7 +233,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 114
+      "score": 101
     },
     {
       "id": "50506499",
@@ -256,7 +261,7 @@
         "Japan"
       ],
       "players": [],
-      "score": 67
+      "score": 54
     },
     {
       "id": "50509967",
