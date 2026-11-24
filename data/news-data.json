@@ -1,49 +1,165 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-24T05:29:10.731Z",
+  "updated": "2026-11-24T16:15:25.921Z",
   "counts": {
-    "offfield": 11,
-    "news": 34,
+    "offfield": 13,
+    "injury": 1,
+    "news": 31,
     "preview": 2,
     "celebration": 1
   },
   "items": [
     {
-      "id": "50577645",
-      "headline": "Gotham FC goalkeeper Ann-Katrin Berger signs with Union Berlin",
-      "description": "Goalkeeper Ann Katrin Berger has joined Union Berlin as a free agent after three seasons with Gotham FC.",
-      "published": "2026-11-24T00:06:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50577645/gotham-goalkeeper-ann-katrin-berger-signs-union-berlin",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750422_1296x729_16-9.jpg",
-      "byline": "Associated Press",
+      "id": "50581320",
+      "headline": "Tottenham prodigy Luca Williams-Barnett, 18, signs new contract",
+      "description": "Tottenham Hotspur's rising star Luca Williams-Barnett has signed a new long-term contract, the club has confirmed.",
+      "published": "2026-11-24T16:10:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50581320/tottenham-hotspur-luca-williams-barnett-18-new-contract",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750533_1296x729_16-9.jpg",
+      "byline": "ESPN",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
+        "Luca Williams-Barnett",
         "Lionel Messi"
       ],
-      "score": 137
+      "score": 145
     },
     {
-      "id": "50577324",
-      "headline": "David Moyes accepts James Tarkowski red card in Everton defeat to Brentford",
-      "description": "Everton manager David Moyes said he understood why James Tarkowski was shown a straight red card in the 4-0 defeat to Brentford.",
-      "published": "2026-11-23T23:23:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50577324/david-moyes-james-tarkowski-everton-brentford",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750403_1296x729_16-9.jpg",
-      "byline": "Shubi Arun",
+      "id": "50583160",
+      "headline": "United States to host 2028 Copa América, its second tournament in a row",
+      "description": "The United States will host the 2028 Copa América, seeing the tournament return to American soil for the third time.",
+      "published": "2026-11-24T15:59:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50583160/united-states-2028-copa-america",
+      "image": "https://a.espncdn.com/photo/2025/0116/r1439318_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina",
+        "USA"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50583223",
+      "headline": "Man United win appeal over Leny Yoro red card",
+      "description": "Manchester United defender Leny Yoro's one-match suspension has been removed following a successful claim of wrongful dismissal.",
+      "published": "2026-11-24T15:49:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50583223/man-united-win-appeal-leny-yoro-red-card",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749683_1296x729_16-9.jpg",
+      "byline": "Rob Dawson",
       "kind": "offfield",
       "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "James Tarkowski",
+        "Leny Yoro",
         "Lionel Messi"
       ],
-      "score": 136
+      "score": 144
+    },
+    {
+      "id": "50580721",
+      "headline": "Transfer rumors, news: PSG eye Chelsea's Estêvão, Bayern's Luis Díaz amid injury woes",
+      "description": "Paris Saint-Germain have added Bayern Munich's Luis Díaz and Chelsea's Estêvão to their shortlist. Transfer Talk has the latest.",
+      "published": "2026-11-24T14:02:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50580721/transfer-rumors-news-psg-estevao-luis-diaz-chelsea-bayern",
+      "image": "https://a.espncdn.com/photo/2026/1118/r1747805_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Luis Díaz",
+        "Estêvão",
+        "Lionel Messi"
+      ],
+      "score": 144
+    },
+    {
+      "id": "50583024",
+      "headline": "Millwall fined £70,000 and handed partial stadium closure over discriminatory chants",
+      "description": "Millwall have been punished with a partial stadium closure after being found guilty of discriminatory chanting from supporters.",
+      "published": "2026-11-24T14:53:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50583024/millwall-discriminatory-chanting-stadium-closure",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750611_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 143
+    },
+    {
+      "id": "50582074",
+      "headline": "Senegal reinstated as Africa Cup of Nations winners over Morocco by CAS ruling",
+      "description": "Senegal won back the Africa Cup of Nations title in a legal fight Tuesday after the Court of Arbitration for Sport overturned an earlier ruling.",
+      "published": "2026-11-24T15:08:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50582074/senegal-africa-cup-nations-morocco-cas",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693188_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Morocco",
+        "Senegal"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50583070",
+      "headline": "Senegal reinstated as AFCON champions by CAS",
+      "description": "The Court of Arbitration for Sport overturns the Confederation of African Football's decision to strip Senegal of the title.",
+      "published": "2026-11-24T14:52:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/50583070/senegal-reinstated-afcon-champions-cas",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1124/dm_261124_COM_SOC_News_Senegal_reinstated_as_AFCON_champions_by_CAS_20261124_GLOBAL/dm_261124_COM_SOC_News_Senegal_reinstated_as_AFCON_champions_by_CAS_20261124_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Senegal"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 131
+    },
+    {
+      "id": "50581999",
+      "headline": "Bojan Hodak named new Malaysia national team coach",
+      "description": "The Football Association of Malaysia has named Bojan Hodak as the new head coach of the men's national team.",
+      "published": "2026-11-24T12:27:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50581999/bojan-hodak-malaysia-national-team-coach",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750559_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 127
     },
     {
       "id": "47978642",
@@ -61,123 +177,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 135
-    },
-    {
-      "id": "50579355",
-      "headline": "St. Louis City holds off LAFC in 3-2 victory to take first-round lead",
-      "description": "St. Louis City never trailed in a 3-2 victory over Los Angeles FC in the MLS Cup Western Conference first-round opener.",
-      "published": "2026-11-24T05:20:25Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401933728",
-      "image": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/401933728.png?templateId=espn.applewatch.awayhome.1",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 133
-    },
-    {
-      "id": "50579151",
-      "headline": "St. Louis CITY SC vs. LAFC - Game Highlights",
-      "description": "Watch the Game Highlights from St. Louis CITY SC vs. LAFC, 11/23/2026",
-      "published": "2026-11-24T03:36:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/50579151/st-louis-city-sc-vs-lafc-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1124/0647a9c1-517d-4432-8758-cc2aa2f15ce8/0647a9c1-517d-4432-8758-cc2aa2f15ce8.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Sergi Palencia",
-        "Jeong Sang-Bin",
-        "Simon Becher",
-        "Denis Bouanga",
-        "Daniel Edelman",
-        "Armindo Sieb",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50569344",
-      "headline": "A-League Women Stocks: Canberra legend brings up 200",
-      "description": "A Canberra United legend marks a marvelous milestone while a bad week gets worse for Melbourne City -- all that and more in ESPN's A-League Women Stocks.",
-      "published": "2026-11-24T03:36:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50569344/aleague-women-stocks-round-6-michelle-heyman-canberra-united-200",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750384_1296x729_16-9.jpg",
-      "byline": "Marissa Lordanic",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50574515",
-      "headline": "2035 Women's World Cup ticket pricing is FIFA decision, UK hopes for 'influence'",
-      "description": "FIFA will have the final say on whether dynamic ticket pricing is applied for the 2035 Women's World Cup in the United Kingdom.",
-      "published": "2026-11-23T23:32:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50574515/womens-world-cup-2035-ticket-prices",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750226_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England",
-        "Scotland"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50577165",
-      "headline": "Burley questions Man United's desire after Anfield collapse",
-      "description": "Craig Burley explains why he finds Manchester United's mentality the most worrying part of their start to the season.",
-      "published": "2026-11-23T22:53:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/50577165/burley-questions-man-united-desire-anfield-collapse",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/dm_261123_Burley_questions_Man_Uniteds_desire_after_Anfield_collapse/dm_261123_Burley_questions_Man_Uniteds_desire_after_Anfield_collapse.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 123
-    },
-    {
-      "id": "50515357",
-      "headline": "Vitaly Janelt hits stunner as Brentford stroll to victory over 10-man Everton",
-      "description": "Vitaly Janelt scored a 30-yard screamer as Brentford romped to a 4-0 victory against 10-man Everton at the Gtech Community Stadium.",
-      "published": "2026-11-23T22:20:58Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879237",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750365_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 122
+      "score": 119
     },
     {
       "id": "50542739",
