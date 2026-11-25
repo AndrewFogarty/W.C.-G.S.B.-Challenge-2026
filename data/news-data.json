@@ -1,13 +1,30 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-25T00:52:37.665Z",
+  "updated": "2026-11-25T09:28:27.141Z",
   "counts": {
-    "news": 35,
-    "offfield": 10,
+    "news": 36,
+    "injury": 1,
+    "offfield": 8,
     "preview": 2,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50587357",
+      "headline": "Guardiola 'embarrassed' to say no to Italy, national team my 'next step'",
+      "description": "Pep Guardiola said he felt \"embarrassed\" to turn down the head coaching position with Italy, but added he could return to coaching in the future and, if he did, would like to do it with a national team.",
+      "published": "2026-11-25T02:11:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50587357/guardiola-embarrassed-italy-national-team-next",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695077_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "USA"
+      ],
+      "players": [],
+      "score": 199
+    },
     {
       "id": "50585622",
       "headline": "Leaked FIFA documents show 96-year plan for stakes in WC sell-off",
@@ -20,53 +37,75 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 203
+      "score": 180
     },
     {
-      "id": "50580721",
-      "headline": "Transfer rumors, news: Arsenal, Newcastle eye Inter's Pio Esposito",
-      "description": "Both Arsenal and Newcastle United are looking to improve their attack by signing Inter's Pio Esposito. Transfer Talk has the latest.",
-      "published": "2026-11-24T22:38:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50580721/transfer-rumors-news-psg-estevao-luis-diaz-chelsea-bayern",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750825_1296x729_16-9.jpg",
+      "id": "50591059",
+      "headline": "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
+      "description": "Manchester United captain Bruno Fernandes, who is out of contract at the end of the season, is a target for Juventus. Transfer Talk has the latest.",
+      "published": "2026-11-25T09:06:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
       "byline": "ESPN",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
+      "kind": "injury",
+      "kindLabel": "Injury",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Pio Esposito",
+        "Bruno Fernandes",
         "Lionel Messi"
       ],
-      "score": 142
+      "score": 146
     },
     {
-      "id": "50586544",
-      "headline": "Dortmund draw shows that the jury is still out on Gyökeres",
-      "description": "Brought in to provide the cutting edge that Arsenal needed up front, it's games like Tuesday's draw with Dortmund that show why Viktor Gyökeres continues to divide opinion.",
-      "published": "2026-11-25T00:18:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50586544/arsenal-champions-league-dortmund-jury-viktor-gyokeres",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750852_1296x729_16-9.jpg",
-      "byline": "James Olley",
+      "id": "49742966",
+      "headline": "Who are Sabah FK, Barcelona's Champions League opponents?",
+      "description": "Sabah, a club near the Iranian border that didn't exist a decade ago, with a coach who owes his career to a Lithuanian quiz show, are in this season Champions League. How did they make it?",
+      "published": "2026-11-25T09:24:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49742966/who-champions-league-debutants-sabah-fk-heres-need-know",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707627_1296x729_16-9.jpg",
+      "byline": "Paul Watson",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Viktor Gyökeres",
-        "Julián Álvarez"
+        "Lionel Messi"
+      ],
+      "score": 133
+    },
+    {
+      "id": "50591138",
+      "headline": "Senegal have been awarded the AFCON title, again... but this story isn't over",
+      "description": "One verdict came from a boot, the other from a court. Neither brought the clean ending the continent had been waiting for, although by this point, it's hard to see how any outcome could have done that.",
+      "published": "2026-11-25T08:58:23Z",
+      "url": "https://www.espn.com/espn/story/_/id/50591138/senegal-awarded-afcon-title-again-story-over",
+      "image": "https://a.espncdn.com/photo/2026/0118/r1602408_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina",
+        "Senegal",
+        "Morocco"
+      ],
+      "players": [
+        "Sadio Mané",
+        "Achraf Hakimi",
+        "Brahim Díaz",
+        "Lionel Messi"
       ],
       "score": 132
     },
     {
-      "id": "50587028",
-      "headline": "Rasmus Højlund on aiming Man United dig at Man City fans: 'Some good banter'",
-      "description": "Former United striker Rasmus Hojlund confirmed he shouted \"there's only one team in Manchester\" towards the City fans after scoring for Napoli.",
-      "published": "2026-11-24T23:52:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50587028/rasmus-hojlund-man-united-man-city-napoli-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750857_1296x729_16-9.jpg",
+      "id": "50590998",
+      "headline": "Jobe Bellingham teases Jude over wonder-goal: 'Off his shin!'",
+      "description": "Jobe Bellingham teased his brother Jude Bellingham after the Real Madrid star's outrageous goal in the Champions League on Tuesday, before handing him advice about facing Arsenal.",
+      "published": "2026-11-25T08:53:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50590998/jobe-jude-bellingham-real-madrid-dortmund",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1750989_1296x729_16-9.jpg",
       "byline": "ESPN",
       "kind": "news",
       "kindLabel": "News",
@@ -74,19 +113,20 @@
         "Argentina"
       ],
       "players": [
-        "Rasmus Højlund",
-        "Julián Álvarez"
+        "Jobe Bellingham",
+        "Jude Bellingham",
+        "Lionel Messi"
       ],
-      "score": 131
+      "score": 132
     },
     {
-      "id": "50586644",
-      "headline": "Bellingham credits Mourinho 'full stop' for stellar form after Madrid stunner",
-      "description": "Jude Bellingham praised José Mourinho for helping him reach career-best form after the midfielder scored a stunning goal in Real Madrid's 5-1 comeback win over PSV Eindhoven on Tuesday.",
-      "published": "2026-11-24T23:47:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50586644/bellingham-mourinho-real-madrid-stunner",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750861_1296x729_16-9.jpg",
-      "byline": "Alex Kirkland",
+      "id": "50591117",
+      "headline": "Bellingham: Being the best player in the world means nothing to me",
+      "description": "Jude Bellingham reacts to his goal for Real Madrid against PSV in the Champions League.",
+      "published": "2026-11-25T08:52:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/50591117/being-best-player-world-means-me",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/dm_261125_COM_SOC_Presser_Bellingham_Being_the_best_player_in_the_world_means_nothing_to_me_20261125_GLOB/dm_261125_COM_SOC_Presser_Bellingham_Being_the_best_player_in_the_world_means_nothing_to_me_20261125_GLOB.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -95,97 +135,22 @@
       ],
       "players": [
         "Jude Bellingham",
-        "Julián Álvarez"
+        "Lionel Messi"
       ],
-      "score": 131
+      "score": 132
     },
     {
-      "id": "50586891",
-      "headline": "Arteta questions 'how in hell' Arsenal didn't score more in Dortmund draw",
-      "description": "Arsenal manager Mikel Arteta rued his side's failure to put Borussia Dortmund away as \"unbelievable.\"",
-      "published": "2026-11-24T23:45:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50586891/mikel-arteta-arsenal-borussia-dortmund-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750863_1296x729_16-9.jpg",
+      "id": "50590889",
+      "headline": "Erling Haaland: When Man City don't win 'you start questioning everything'",
+      "description": "Erling Haaland has reacted to Manchester City's latest failure to win by \"questioning everything.\"",
+      "published": "2026-11-25T07:40:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50590889/erling-haaland-man-city-napoli",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1750983_1296x729_16-9.jpg",
       "byline": "ESPN News Services",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina"
-      ],
-      "players": [
-        "Julián Álvarez"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50586841",
-      "headline": "Does Arsenal's lack of intensity cause them to drop points?",
-      "description": "The ESPN FC crew react to Arsenal's 1-1 draw with Borussia Dortmund in the UEFA Champions League.",
-      "published": "2026-11-24T23:17:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/50586841/does-arsenal-lack-intensity-cause-drop-points",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1124/dm_261124_COM_SOC_Analysis_Does_Arsenals_lack_of_intensity_cause_them_to_drop_points_20261124_GLOBAL/dm_261124_COM_SOC_Analysis_Does_Arsenals_lack_of_intensity_cause_them_to_drop_points_20261124_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50586642",
-      "headline": "Burley: Bellingham is the best midfielder in the world",
-      "description": "The ESPN FC crew react to Real Madrid's 5-1 victory against PSV Eindhoven in the UEFA Champions League.",
-      "published": "2026-11-24T23:14:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/50586642/bellingham-best-midfielder-world",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1124/dm_261124_COM_SOC_Analysis_Burley_Bellingham_is_the_best_midfielder_in_the_world_20261124_GLOBAL/dm_261124_COM_SOC_Analysis_Burley_Bellingham_is_the_best_midfielder_in_the_world_20261124_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Jude Bellingham",
-        "Lionel Messi"
-      ],
-      "score": 131
-    },
-    {
-      "id": "50586763",
-      "headline": "Scott Parker on West Ham's defeat at Portsmouth: 'Little bit groundhog'",
-      "description": "Scott Parker has said his first victory as West Ham boss feels \"close but so far\" after a loss at Portsmouth extended his winless start to four games.",
-      "published": "2026-11-24T23:08:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50586763/scott-parker-west-ham-portsmouth-championship-defeat",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750835_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50586756",
-      "headline": "Can Erling Haaland only score from crosses for Man City?",
-      "description": "The ESPN FC crew react to Manchester City's 2-2 draw with Napoli in the UEFA Champions League.",
-      "published": "2026-11-24T23:04:51Z",
-      "url": "https://www.espn.com/video/clip/_/id/50586756/can-erling-haaland-only-score-crosses-man-city",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1124/dm_261124_COM_SOC_Analysis_Can_Erling_Haaland_only_score_from_crosses_for_Man_City_20261124_GLOBAL/dm_261124_COM_SOC_Analysis_Can_Erling_Haaland_only_score_from_crosses_for_Man_City_20261124_GLOBAL.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Norway"
       ],
       "players": [
         "Erling Haaland",
@@ -194,52 +159,34 @@
       "score": 130
     },
     {
-      "id": "50586567",
-      "headline": "Rayan Cherki unhappy despite salvaging Man City draw: 'Don't care about my goal'",
-      "description": "Rayan Cherki was in no mood for celebrating after rescuing a 2-2 draw for Manchester City at home to Napoli in the Champions League on Tuesday.",
-      "published": "2026-11-24T22:58:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50586567/rayan-cherki-man-city-goal-napoli-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750831_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "50581648",
+      "headline": "'He's like f---ing Busquets!' - Jules Ahoka is making an unlikely Premier League rise",
+      "description": "Making his first Premier League start on Saturday, Sunderland's Jules Ahoka made playing at Villa Park look like a stroll in the park. The 20-year-old Congolese midfielder looked at home as he helped the Black Cats earn a valuable 0-0 draw.",
+      "published": "2026-11-25T07:13:11Z",
+      "url": "https://www.espn.com/espn/story/_/id/50581648/jules-ahoka-sunderland-busquets-premier-league-dr-congo",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1750981_1296x729_16-9.jpg",
+      "byline": "Ed Dove",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina"
+        "Argentina",
+        "DR Congo"
       ],
       "players": [
-        "Rayan Cherki",
+        "Jules Ahoka",
+        "Sergio Busquets",
         "Lionel Messi"
       ],
       "score": 130
     },
     {
-      "id": "46751020",
-      "headline": "Cristiano Ronaldo goal tracker: Road to 1,000 career goals",
-      "description": "With Cristiano Ronaldo on the quest to score 1,000 goals, ESPN provides goal-by-goal analysis of the Portuguese superstar's quest.",
-      "published": "2026-11-24T22:20:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730071_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
-      "players": [
-        "Cristiano Ronaldo",
-        "Lionel Messi"
-      ],
-      "score": 129
-    },
-    {
-      "id": "50557462",
-      "headline": "Wrexham extend unbeaten run with draw at Bristol City",
-      "description": "Bristol City stopped the rot at home by claiming a welcome point in a 1-1 draw with Wrexham.",
-      "published": "2026-11-24T22:11:19Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401880148",
-      "image": null,
-      "byline": "PA",
+      "id": "50589994",
+      "headline": "Australian Championship Stocks: Who shone in the group stage?",
+      "description": "With the knockouts set to begin on Thursday, let's take ... stock ... of what's happened in the Australian Championship so far.",
+      "published": "2026-11-25T05:38:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50589994/australian-championship-stocks-shone-group-stage",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1750970_1296x729_16-9.jpg",
+      "byline": "Joey Lynch",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -248,7 +195,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 123
+      "score": 127
     },
     {
       "id": "47978642",
@@ -266,7 +213,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 96
+      "score": 73
     },
     {
       "id": "50542739",
@@ -284,7 +231,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 70
+      "score": 60
     },
     {
       "id": "50540283",
@@ -302,7 +249,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 63
+      "score": 53
     },
     {
       "id": "50532452",
@@ -316,7 +263,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 46
+      "score": 36
     },
     {
       "id": "50531740",
@@ -330,39 +277,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 36
-    },
-    {
-      "id": "50529522",
-      "headline": "FIFA confirms Infantino rivals as Diallo, Tashima for 2027 election",
-      "description": "FIFA has named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election.",
-      "published": "2026-11-19T17:03:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743884_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
       "score": 26
-    },
-    {
-      "id": "50156783",
-      "headline": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
-      "description": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
-      "published": "2026-10-11T13:54:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/50156783/bentancur-red-card-encouraged-tottenham-play-more-character",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character.jpg",
-      "byline": null,
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Uruguay"
-      ],
-      "players": [
-        "Rodrigo Bentancur"
-      ],
-      "score": 25
     },
     {
       "id": "50470402",
@@ -484,34 +399,6 @@
       "score": 22
     },
     {
-      "id": "50506499",
-      "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
-      "description": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
-      "published": "2026-11-18T14:02:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
-      "image": "https://a.espncdn.com/photo/2026/1118/r1747490_1296x729_16-9.jpg",
-      "byline": "James Tyler",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Spain",
-        "France",
-        "England",
-        "Portugal",
-        "Brazil",
-        "Morocco",
-        "Argentina",
-        "Germany",
-        "Norway",
-        "Netherlands",
-        "Belgium",
-        "Colombia",
-        "Japan"
-      ],
-      "players": [],
-      "score": 20
-    },
-    {
       "id": "50194991",
       "headline": "Lautaro Martínez on World Cup goal against England: 'One of the most important in Argentina history'",
       "description": "Argentina forward Lautaro Martínez says he often watches his winning goal against England in the 2026 World Cup semifinal, labelling it \"one of the most important in the history of the national team.\"",
@@ -557,6 +444,20 @@
       "teams": [],
       "players": [],
       "score": 18
+    },
+    {
+      "id": "50529522",
+      "headline": "FIFA confirms Infantino rivals as Diallo, Tashima for 2027 election",
+      "description": "FIFA has named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election.",
+      "published": "2026-11-19T17:03:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1743884_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 16
     },
     {
       "id": "50402359",
@@ -813,6 +714,34 @@
       "score": 13
     },
     {
+      "id": "50506499",
+      "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
+      "description": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
+      "published": "2026-11-18T14:02:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
+      "image": "https://a.espncdn.com/photo/2026/1118/r1747490_1296x729_16-9.jpg",
+      "byline": "James Tyler",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Spain",
+        "France",
+        "England",
+        "Portugal",
+        "Brazil",
+        "Morocco",
+        "Argentina",
+        "Germany",
+        "Norway",
+        "Netherlands",
+        "Belgium",
+        "Colombia",
+        "Japan"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
       "id": "50509967",
       "headline": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency",
       "description": "French Football Federation leader Philippe Diallo confirmed his intention on Tuesday to challenge Gianni Infantino for the FIFA presidency.",
@@ -852,6 +781,71 @@
       "url": "https://www.espn.com/soccer/story/_/id/50507180/hajime-moriyasu-japan-reign-ends-tuesday",
       "image": "https://a.espncdn.com/photo/2026/1117/r1746964_1296x729_16-9.jpg",
       "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50500125",
+      "headline": "Klopp: FIFA worse under Infantino than Blatter",
+      "description": "Klopp: FIFA worse under Infantino than Blatter",
+      "published": "2026-11-16T10:01:50Z",
+      "url": "https://www.espn.com/video/clip/_/id/50500125/fifa-worse-infantino-blatter",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/dm_261116_COM_SOC_Presser_Klopp_FIFA_worse_under_Infantino_than_Blatter_161126_GLOBAL/dm_261116_COM_SOC_Presser_Klopp_FIFA_worse_under_Infantino_than_Blatter_161126_GLOBAL.jpg",
+      "byline": null,
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Germany"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50479233",
+      "headline": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
+      "description": "Japan have exacted revenge over Brazil for their World Cup elimination with a dramatic 3-2 win in Singapore on Saturday.",
+      "published": "2026-11-14T15:24:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
+      "image": "https://a.espncdn.com/photo/2026/1114/r1745640_1296x729_16-9.jpg",
+      "byline": "Gabriel Tan",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan",
+        "Brazil"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50387286",
+      "headline": "FIFA Council's Tashima to challenge Infantino in March elections - reports",
+      "description": "FIFA Council member Kohzo Tashima intends to run for president of the global football body against incumbent Gianni Infantino, Japanese media reported.",
+      "published": "2026-11-05T12:51:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50387286/fifa-council-japan-tashima-challenge-infantino-reports",
+      "image": "https://a.espncdn.com/photo/2020/0317/r680435_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50237763",
+      "headline": "Premier League best place to develop Japanese talent - Japan FA chief",
+      "description": "The best place to develop Japanese talent is in the English Premier League, the president of the Japan Football Association has said.",
+      "published": "2026-10-21T14:33:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50237763/premier-league-best-place-develop-japanese-talent",
+      "image": "https://a.espncdn.com/photo/2026/0515/r1658476_1296x729_16-9.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
