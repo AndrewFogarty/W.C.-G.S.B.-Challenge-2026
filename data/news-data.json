@@ -1,14 +1,29 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-25T09:28:27.141Z",
+  "updated": "2026-11-25T19:32:43.982Z",
   "counts": {
-    "news": 36,
-    "injury": 1,
-    "offfield": 8,
-    "preview": 2,
+    "news": 34,
+    "offfield": 10,
+    "preview": 3,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50592349",
+      "headline": "Infantino challenger Tashima wants term limits for FIFA president",
+      "description": "FIFA presidential candidate Kohzo Tashima blasted Gianni Infantino for seeking a fourth term.",
+      "published": "2026-11-25T13:59:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50592349/infantino-challenger-tashima-term-limits-fifa-president",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 202
+    },
     {
       "id": "50587357",
       "headline": "Guardiola 'embarrassed' to say no to Italy, national team my 'next step'",
@@ -23,7 +38,7 @@
         "USA"
       ],
       "players": [],
-      "score": 199
+      "score": 174
     },
     {
       "id": "50585622",
@@ -37,35 +52,91 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 180
+      "score": 155
     },
     {
-      "id": "50591059",
-      "headline": "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
-      "description": "Manchester United captain Bruno Fernandes, who is out of contract at the end of the season, is a target for Juventus. Transfer Talk has the latest.",
-      "published": "2026-11-25T09:06:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "injury",
-      "kindLabel": "Injury",
+      "id": "50594789",
+      "headline": "Luis Suárez confirms contract talks with Inter Miami",
+      "description": "Inter Miami forward Luis Suárez confirmed he remains in talks with the club over his future. His contract expires at the end of the season.",
+      "published": "2026-11-25T19:04:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50594789/luis-suarez-confirms-contract-talks-inter-miami",
+      "image": "https://a.espncdn.com/photo/2025/0624/r1510550_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
       "teams": [
         "Argentina"
       ],
       "players": [
-        "Bruno Fernandes",
+        "Luis Suárez",
         "Lionel Messi"
       ],
-      "score": 146
+      "score": 144
     },
     {
-      "id": "49742966",
-      "headline": "Who are Sabah FK, Barcelona's Champions League opponents?",
-      "description": "Sabah, a club near the Iranian border that didn't exist a decade ago, with a coach who owes his career to a Lithuanian quiz show, are in this season Champions League. How did they make it?",
-      "published": "2026-11-25T09:24:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49742966/who-champions-league-debutants-sabah-fk-heres-need-know",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707627_1296x729_16-9.jpg",
-      "byline": "Paul Watson",
+      "id": "50591588",
+      "headline": "Barcelona to appeal Fermín López's two-match ban - sources",
+      "description": "Fermín López has been hit with a two-match suspension after getting sent off in Barcelona's comeback win against Villarreal last weekend.",
+      "published": "2026-11-25T15:32:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50591588/fermin-lopez-barcelona-ban-appeal-sources",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751001_1296x729_16-9.jpg",
+      "byline": "Sam Marsden",
+      "kind": "offfield",
+      "kindLabel": "Off the field",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Fermín López",
+        "Lionel Messi"
+      ],
+      "score": 139
+    },
+    {
+      "id": "50592983",
+      "headline": "Man City told regulator 'has the stomach' to challenge owners after charges",
+      "description": "The chair of the Independent Football Regulator says his organisation \"has the stomach\" to take on Manchester City's owners should it need to.",
+      "published": "2026-11-25T14:41:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50592983/man-city-charges-independent-regulator",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751067_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 135
+    },
+    {
+      "id": "50594966",
+      "headline": "Luis Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
+      "description": "Luis Suárez said there are \"no excuses left\" for Inter Miami as the defending MLS Cup champion stares at a possible first-round playoff exit.",
+      "published": "2026-11-25T19:12:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50594966/inter-miami-mls-playoffs-columbus-crews-luis-suarez",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751196_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Luis Suárez"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50594146",
+      "headline": "2026 Women's World Cup: How do teams qualify via interconfederation playoffs?",
+      "description": "Here's everything you need to know about the interconfederation playoffs -- the last chance for teams to qualify for the Women's World Cup.",
+      "published": "2026-11-25T18:41:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50594146/2026-womens-world-cup-interconfederation-playoffs",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751165_1296x729_16-9.jpg",
+      "byline": "Nicholas Som",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -74,119 +145,36 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 133
+      "score": 132
     },
     {
-      "id": "50591138",
-      "headline": "Senegal have been awarded the AFCON title, again... but this story isn't over",
-      "description": "One verdict came from a boot, the other from a court. Neither brought the clean ending the continent had been waiting for, although by this point, it's hard to see how any outcome could have done that.",
-      "published": "2026-11-25T08:58:23Z",
-      "url": "https://www.espn.com/espn/story/_/id/50591138/senegal-awarded-afcon-title-again-story-over",
-      "image": "https://a.espncdn.com/photo/2026/0118/r1602408_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
+      "id": "50595064",
+      "headline": "FIFA's Jill Ellis: '27 Women's World Cup will be first to turn a profit",
+      "description": "FIFA chief football officer Jill Ellis said that the 2027 Women's World Cup will be the first edition of the tournament to turn a profit.",
+      "published": "2026-11-25T17:41:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50595064/2027-women-world-cup-first-turn-profit-fifa-jill-ellis",
+      "image": "https://a.espncdn.com/photo/2024/0517/r1334032_1296x729_16-9.jpg",
+      "byline": "Jeff Kassouf",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
         "Argentina",
-        "Senegal",
-        "Morocco"
+        "USA",
+        "Brazil"
       ],
       "players": [
-        "Sadio Mané",
-        "Achraf Hakimi",
-        "Brahim Díaz",
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50590998",
-      "headline": "Jobe Bellingham teases Jude over wonder-goal: 'Off his shin!'",
-      "description": "Jobe Bellingham teased his brother Jude Bellingham after the Real Madrid star's outrageous goal in the Champions League on Tuesday, before handing him advice about facing Arsenal.",
-      "published": "2026-11-25T08:53:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50590998/jobe-jude-bellingham-real-madrid-dortmund",
-      "image": "https://a.espncdn.com/photo/2026/1125/r1750989_1296x729_16-9.jpg",
-      "byline": "ESPN",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Jobe Bellingham",
-        "Jude Bellingham",
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50591117",
-      "headline": "Bellingham: Being the best player in the world means nothing to me",
-      "description": "Jude Bellingham reacts to his goal for Real Madrid against PSV in the Champions League.",
-      "published": "2026-11-25T08:52:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/50591117/being-best-player-world-means-me",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/dm_261125_COM_SOC_Presser_Bellingham_Being_the_best_player_in_the_world_means_nothing_to_me_20261125_GLOB/dm_261125_COM_SOC_Presser_Bellingham_Being_the_best_player_in_the_world_means_nothing_to_me_20261125_GLOB.jpg",
-      "byline": null,
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "players": [
-        "Jude Bellingham",
-        "Lionel Messi"
-      ],
-      "score": 132
-    },
-    {
-      "id": "50590889",
-      "headline": "Erling Haaland: When Man City don't win 'you start questioning everything'",
-      "description": "Erling Haaland has reacted to Manchester City's latest failure to win by \"questioning everything.\"",
-      "published": "2026-11-25T07:40:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50590889/erling-haaland-man-city-napoli",
-      "image": "https://a.espncdn.com/photo/2026/1125/r1750983_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Erling Haaland",
         "Lionel Messi"
       ],
       "score": 130
     },
     {
-      "id": "50581648",
-      "headline": "'He's like f---ing Busquets!' - Jules Ahoka is making an unlikely Premier League rise",
-      "description": "Making his first Premier League start on Saturday, Sunderland's Jules Ahoka made playing at Villa Park look like a stroll in the park. The 20-year-old Congolese midfielder looked at home as he helped the Black Cats earn a valuable 0-0 draw.",
-      "published": "2026-11-25T07:13:11Z",
-      "url": "https://www.espn.com/espn/story/_/id/50581648/jules-ahoka-sunderland-busquets-premier-league-dr-congo",
-      "image": "https://a.espncdn.com/photo/2026/1125/r1750981_1296x729_16-9.jpg",
-      "byline": "Ed Dove",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "DR Congo"
-      ],
-      "players": [
-        "Jules Ahoka",
-        "Sergio Busquets",
-        "Lionel Messi"
-      ],
-      "score": 130
-    },
-    {
-      "id": "50589994",
-      "headline": "Australian Championship Stocks: Who shone in the group stage?",
-      "description": "With the knockouts set to begin on Thursday, let's take ... stock ... of what's happened in the Australian Championship so far.",
-      "published": "2026-11-25T05:38:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50589994/australian-championship-stocks-shone-group-stage",
-      "image": "https://a.espncdn.com/photo/2026/1125/r1750970_1296x729_16-9.jpg",
-      "byline": "Joey Lynch",
+      "id": "50594591",
+      "headline": "Only hard work can help Forest against Chelsea - Glasner",
+      "description": "Nottingham Forest boss Oliver Glasner insists he has \"no magician dust\" with which he can turn the club's fortunes around.",
+      "published": "2026-11-25T16:55:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50594591/hard-work-help-nottingham-forest-chelsea-glasner",
+      "image": "https://a.espncdn.com/photo/2026/0421/r1647086_1296x729_16-9.jpg",
+      "byline": "PA",
       "kind": "news",
       "kindLabel": "News",
       "teams": [
@@ -195,7 +183,25 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 127
+      "score": 129
+    },
+    {
+      "id": "50593252",
+      "headline": "Newcastle owners not considering full sale, only minority deals - reports",
+      "description": "Newcastle's Saudi owners are not treating the possibility of selling a minority stake in the club as the first step towards a full sale, the Press Association understands.",
+      "published": "2026-11-25T15:03:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50593252/newcastle-united-saudi-owners",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751087_1296x729_16-9.jpg",
+      "byline": "PA",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi"
+      ],
+      "score": 126
     },
     {
       "id": "47978642",
@@ -213,7 +219,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 73
+      "score": 63
     },
     {
       "id": "50542739",
@@ -231,7 +237,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 60
+      "score": 50
     },
     {
       "id": "50540283",
@@ -249,7 +255,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 53
+      "score": 43
     },
     {
       "id": "50532452",
@@ -258,20 +264,6 @@
       "published": "2026-11-19T18:17:36Z",
       "url": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
       "image": "https://a.espncdn.com/photo/2026/1119/r1748039_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 36
-    },
-    {
-      "id": "50531740",
-      "headline": "UEFA pressures FIFA for World Cup sell-off plan documents",
-      "description": "",
-      "published": "2026-11-19T15:55:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50531740/uefa-pressures-fifa-world-cup-selloff-plan-documents",
-      "image": "https://a.espncdn.com/photo/2021/1215/r951691_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
       "kind": "news",
       "kindLabel": "News",
@@ -446,13 +438,13 @@
       "score": 18
     },
     {
-      "id": "50529522",
-      "headline": "FIFA confirms Infantino rivals as Diallo, Tashima for 2027 election",
-      "description": "FIFA has named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election.",
-      "published": "2026-11-19T17:03:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743884_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
+      "id": "50531740",
+      "headline": "UEFA pressures FIFA for World Cup sell-off plan documents",
+      "description": "",
+      "published": "2026-11-19T15:55:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50531740/uefa-pressures-fifa-world-cup-selloff-plan-documents",
+      "image": "https://a.espncdn.com/photo/2021/1215/r951691_1296x729_16-9.jpg",
+      "byline": "Mark Ogden",
       "kind": "news",
       "kindLabel": "News",
       "teams": [],
