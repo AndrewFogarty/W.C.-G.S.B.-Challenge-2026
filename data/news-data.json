@@ -1,13 +1,126 @@
 {
   "source": "ESPN FIFA World Cup + per-player news feeds",
-  "updated": "2026-11-27T02:58:57.206Z",
+  "updated": "2026-11-27T12:00:09.361Z",
   "counts": {
-    "news": 37,
-    "offfield": 8,
-    "preview": 2,
+    "news": 36,
+    "injury": 1,
+    "preview": 3,
+    "offfield": 7,
     "celebration": 1
   },
   "items": [
+    {
+      "id": "50610076",
+      "headline": "Ronaldo on Harry Kane's 'deserved' Ballon d'Or: 'The No. 9 is back'",
+      "description": "Ronaldo has said that Harry Kane's Ballon d'Or was \"well deserved\" and that he was delighted to see a fellow No. 9 win the award.",
+      "published": "2026-11-27T10:57:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50610076/ronaldo-harry-kane-ballon-dor-stick-football-disney+",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751972_1296x729_16-9.jpg",
+      "byline": "ESPN",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 211
+    },
+    {
+      "id": "50610452",
+      "headline": "Marseille, Levski Sofia violence condemned by French and Bulgarian authorities",
+      "description": "French and Bulgarian authorities condemned the violence that left several football fans injured on Thursday evening during clashes between supporters of Marseille and Levski Sofia.",
+      "published": "2026-11-27T10:20:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50610452/marseille-levski-sofia-violence-uefa-europa-league",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751973_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "injury",
+      "kindLabel": "Injury",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 145
+    },
+    {
+      "id": "50610575",
+      "headline": "Bruno Fernandes: Late call due to illness for Man United vs. Brentford - sources",
+      "description": "Bruno Fernandes will be assessed ahead of Manchester United's Premier League clash with Brentford on Saturday after missing training on Friday because of illness, sources have told ESPN.",
+      "published": "2026-11-27T10:48:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50610575/bruno-fernandes-man-united-brentford",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
+      "byline": "Rob Dawson and Mark Ogden",
+      "kind": "preview",
+      "kindLabel": "Match preview",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Bruno Fernandes",
+        "Harry Kane"
+      ],
+      "score": 140
+    },
+    {
+      "id": "50610785",
+      "headline": "Ingvar Jonsson: Iceland player in Euro 2016 squad that beat England dies at 37",
+      "description": "Iceland's Football Association have announced that former national team goalkeeper Ingvar Jonsson has died at the age of 37 after a battle with cancer.",
+      "published": "2026-11-27T11:39:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50610785/vikingur-former-iceland-goalkeeper-ingvar-jonsson-dies",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751992_594x334_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Ingvar Jonsson",
+        "Harry Kane"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50610683",
+      "headline": "Lionel Messi to play in Carlos Tevez farewell match in Argentina",
+      "description": "Lionel Messi will take part in Carlos Tevez's farewell match later this month in Buenos Aires.",
+      "published": "2026-11-27T11:10:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50610683/lionel-messi-play-carlos-tevez-farewell-match-argentina",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751988_594x334_16-9.jpg",
+      "byline": "Adriana Garcia",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "players": [
+        "Lionel Messi",
+        "Harry Kane"
+      ],
+      "score": 132
+    },
+    {
+      "id": "50610604",
+      "headline": "José Mourinho hails Jude Bellingham but refuses Zinedine Zidane comparison",
+      "description": "José Mourinho called Jude Bellingham \"one of the best players of his generation\" on Friday, but refused to compare the England star with Real Madrid legend Zinedine Zidane.",
+      "published": "2026-11-27T11:09:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50610604/jose-mourinho-jude-bellingham-zidane",
+      "image": "https://a.espncdn.com/photo/2026/1126/r1751439_1296x729_16-9.jpg",
+      "byline": "Alex Kirkland",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 132
+    },
     {
       "id": "50592349",
       "headline": "Infantino challenger Tashima wants term limits for FIFA president",
@@ -22,26 +135,43 @@
         "Japan"
       ],
       "players": [],
-      "score": 155
+      "score": 131
     },
     {
-      "id": "50606990",
-      "headline": "USWNT expects 'game of their lives' from El Salvador with World Cup at stake",
-      "description": "USWNT head coach Emma Hayes said she expects El Salvador to play \"the game of their lives\" on Friday when a place in the Women's World Cup will be on the line.",
-      "published": "2026-11-26T23:52:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50606990/usa-women-soccer-world-cup-2027-el-salvador-emma-hayes",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751830_1296x729_16-9.jpg",
-      "byline": "Jeff Kassouf",
+      "id": "50610490",
+      "headline": "Fraser nets rocket against Melbourne City",
+      "description": "Ryan Fraser scores a thunderbolt from well outside the box, as the Bulls cruise to an early 2-0 lead.",
+      "published": "2026-11-27T10:17:04Z",
+      "url": "https://www.espn.com/video/clip/_/id/50610490/fraser-nets-rocket-melbourne-city",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/dm_261127_Soccer_HIGHLIGHT_Fraser_nets_rocket_against_Melbourne_City_20261127_AUS/dm_261127_Soccer_HIGHLIGHT_Fraser_nets_rocket_against_Melbourne_City_20261127_AUS.jpg",
+      "byline": null,
       "kind": "news",
       "kindLabel": "News",
       "teams": [
-        "Argentina",
-        "USA"
+        "England"
       ],
       "players": [
-        "Lionel Messi"
+        "Harry Kane"
       ],
-      "score": 128
+      "score": 130
+    },
+    {
+      "id": "50604609",
+      "headline": "How do MLS' European-bred stars adjust to the playoffs? 'It's a challenge'",
+      "description": "For MLS' biggest stars, they've spent their careers crowning champions based on the table. For them, adapting to the idea of the playoffs isn't easy.",
+      "published": "2026-11-27T10:16:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50604609/mls-cup-playoffs-european-soccer-stars",
+      "image": "https://a.espncdn.com/photo/2026/1126/r1751674_1296x729_16-9.jpg",
+      "byline": "Lizzy Becherano",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "England"
+      ],
+      "players": [
+        "Harry Kane"
+      ],
+      "score": 130
     },
     {
       "id": "50587357",
@@ -57,135 +187,7 @@
         "USA"
       ],
       "players": [],
-      "score": 127
-    },
-    {
-      "id": "50606618",
-      "headline": "Bournemouth set new English record in Europe with 5th straight win",
-      "description": "Bournemouth's dream Europa League start continued on Thursday as the south-coast club set a new record for a debuting English club in Europe.",
-      "published": "2026-11-26T22:32:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50606618/bournemouth-uefa-europa-league-record-english-europe",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751816_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50557591",
-      "headline": "Frank gets 1st win as Palace rally to beat 10-man Real Sociedad",
-      "description": "Crystal Palace delivered Thomas Frank a first victory since taking charge after they came back to beat 10-man Real Sociedad 2-1 in the Europa League.",
-      "published": "2026-11-26T22:11:10Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915504",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751793_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50557626",
-      "headline": "Sunderland left frustrated after draw to Jagiellonia Bialystok in Europa League",
-      "description": "Sunderland were left frustrated again in their Europa League campaign after drawing 1-1 with Jagiellonia Bialystok at the Stadium of Light.",
-      "published": "2026-11-26T22:05:23Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915513",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751792_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 126
-    },
-    {
-      "id": "50605706",
-      "headline": "Christian Pulisic comes off bench to spark Milan win over Olympiacos",
-      "description": "Christian Pulisic enjoyed a Thanksgiving to remember as the United States star came off the bench to help spark AC Milan's comeback win at Olympiacos.",
-      "published": "2026-11-26T21:31:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50605706/christian-pulisic-ac-milan-olympiacos-europa-league-goal",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751757_1296x729_16-9.jpg",
-      "byline": "ESPN News Services",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina",
-        "USA"
-      ],
-      "players": [
-        "Christian Pulisic",
-        "Lionel Messi"
-      ],
-      "score": 125
-    },
-    {
-      "id": "50605910",
-      "headline": "Europa League game halted amid police clashes over fans' Palestine banner",
-      "description": "The game between Besiktas and Israel's Hapoel Beer-Sheva was halted when police clashed with fans of the Turkish club after they displayed a banner in support of Palestinians.",
-      "published": "2026-11-26T21:17:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50605910/besiktas-hapoel-beer-sheva-europa-league-police-palestine",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751773_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 124
-    },
-    {
-      "id": "50557555",
-      "headline": "10-man Bournemouth beat Celta Vigo to top Europa League",
-      "description": "Bournemouth moved a step closer to automatic qualification for the Europa League round of 16 after coming from behind with 10 men to win 2-1 at Celta Vigo.",
-      "published": "2026-11-26T19:51:00Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915519",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751751_1296x729_16-9.jpg",
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 122
-    },
-    {
-      "id": "50557574",
-      "headline": "Milan rally to win at Olympiacos to kick-start UEL campaign",
-      "description": "AC Milan produced a second-half fightback from 2-0 down to beat Olympiacos 4-2 in Piraeus and kick-start their Europa League campaign.",
-      "published": "2026-11-26T20:13:36Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915521",
-      "image": null,
-      "byline": "PA",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [
-        "Argentina"
-      ],
-      "players": [
-        "Lionel Messi"
-      ],
-      "score": 117
+      "score": 103
     },
     {
       "id": "50585622",
@@ -199,7 +201,7 @@
       "kindLabel": "News",
       "teams": [],
       "players": [],
-      "score": 108
+      "score": 85
     },
     {
       "id": "47978642",
@@ -217,7 +219,7 @@
       "players": [
         "Lionel Messi"
       ],
-      "score": 63
+      "score": 53
     },
     {
       "id": "50542739",
@@ -235,7 +237,7 @@
         "Paraguay"
       ],
       "players": [],
-      "score": 50
+      "score": 40
     },
     {
       "id": "50540283",
@@ -253,21 +255,7 @@
       "players": [
         "Harry Kane"
       ],
-      "score": 43
-    },
-    {
-      "id": "50532452",
-      "headline": "Infantino calls for 'fair play' in upcoming FIFA elections",
-      "description": "Gianni Infantino has called for \"fair play\" during the election campaign for the FIFA presidency.",
-      "published": "2026-11-19T18:17:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748039_1296x729_16-9.jpg",
-      "byline": "Mark Ogden",
-      "kind": "news",
-      "kindLabel": "News",
-      "teams": [],
-      "players": [],
-      "score": 26
+      "score": 33
     },
     {
       "id": "50470402",
@@ -373,22 +361,6 @@
       "score": 22
     },
     {
-      "id": "50173561",
-      "headline": "Netflix buys 2030 World Cup broadcast rights in co-host Spain",
-      "description": "Netflix bought exclusive rights to broadcast the 2030 World Cup in co-host Spain on Tuesday in a deal that lets a free-to-air public broadcaster show games each day including the",
-      "published": "2026-10-13T13:50:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50173561/netflix-buys-2030-world-cup-broadcast-rights-cohost-defending-champion-spain",
-      "image": "https://a.espncdn.com/photo/2026/0423/r1648066_1296x729_16-9.jpg",
-      "byline": "Associated Press",
-      "kind": "offfield",
-      "kindLabel": "Off the field",
-      "teams": [
-        "Spain"
-      ],
-      "players": [],
-      "score": 22
-    },
-    {
       "id": "50194991",
       "headline": "Lautaro Martínez on World Cup goal against England: 'One of the most important in Argentina history'",
       "description": "Argentina forward Lautaro Martínez says he often watches his winning goal against England in the 2026 World Cup semifinal, labelling it \"one of the most important in the history of the national team.\"",
@@ -436,12 +408,12 @@
       "score": 18
     },
     {
-      "id": "50531740",
-      "headline": "UEFA pressures FIFA for World Cup sell-off plan documents",
-      "description": "",
-      "published": "2026-11-19T15:55:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50531740/uefa-pressures-fifa-world-cup-selloff-plan-documents",
-      "image": "https://a.espncdn.com/photo/2021/1215/r951691_1296x729_16-9.jpg",
+      "id": "50532452",
+      "headline": "Infantino calls for 'fair play' in upcoming FIFA elections",
+      "description": "Gianni Infantino has called for \"fair play\" during the election campaign for the FIFA presidency.",
+      "published": "2026-11-19T18:17:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
+      "image": "https://a.espncdn.com/photo/2026/1119/r1748039_1296x729_16-9.jpg",
       "byline": "Mark Ogden",
       "kind": "news",
       "kindLabel": "News",
@@ -843,6 +815,36 @@
       ],
       "players": [],
       "score": 10
+    },
+    {
+      "id": "50225613",
+      "headline": "Gianni Infantino courts Asian Football Confederation in reelection campaign bid",
+      "description": "Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation.",
+      "published": "2026-10-20T10:51:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
+      "image": "https://a.espncdn.com/photo/2026/1020/r1733302_1296x729_16-9.jpg",
+      "byline": "Associated Press",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [
+        "Japan"
+      ],
+      "players": [],
+      "score": 10
+    },
+    {
+      "id": "50529522",
+      "headline": "FIFA confirms Infantino rivals as Diallo, Tashima for 2027 election",
+      "description": "FIFA has named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election.",
+      "published": "2026-11-19T17:03:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1743884_1296x729_16-9.jpg",
+      "byline": "ESPN News Services",
+      "kind": "news",
+      "kindLabel": "News",
+      "teams": [],
+      "players": [],
+      "score": 6
     }
   ]
 }
